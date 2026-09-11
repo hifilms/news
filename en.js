@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Dolly Parton’s sister reveals rare details about her marriage to Carl Dean",
+    "desc": "Dolly Parton’s sister Stella Parton has opened up about the country icon’s private marriage to Carl Dean, describing their relationship as “very deep and loyal.” Stella recalled Dolly’s heartbreak as Dean’s health deteriorated but stressed that she did not believe his illness or death was what made her sister sick.",
+    "img": "https://static.toiimg.com/photo/msid-134095583,imgsize-104115.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-partons-sister-stella-parton-reveals-rare-details-about-her-marriage-to-carl-dean-recalls-singers-heartbreak-over-his-declining-health-but-i-dont-think-thats-what-made-her-sick/articleshow/134095159.cms",
+    "time": "2026-09-11T22:28:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pierce Brosnan and wife to leave $100m Malibu compound after 26 years",
+    "desc": "Pierce Brosnan and wife Keely Shaye Smith are preparing to leave their $100 million Malibu compound after 26 years. The former James Bond star cited repeated wildfire threats and the high cost of maintaining the estate. The property was previously advertised as a $120,000-a-month rental and listed for sale in 2021.",
+    "img": "https://static.toiimg.com/photo/msid-134092412,imgsize-149004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/pierce-brosnan-and-wife-keely-shaye-smith-to-leave-100-million-malibu-compound-after-26-years-actor-cites-wildfires-and-rising-costs-home-was-rented-for-120000-a-month-and-listed-in-2021/articleshow/134092117.cms",
+    "time": "2026-09-11T21:55:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mbappé On Viral Dictator Memes: Real Madrid star says jokes cross a line",
+    "desc": "Kylian Mbappé has addressed the viral memes portraying him as a dictator, admitting some are funny but saying comparisons to figures responsible for mass suffering cross a line. The Real Madrid and France star also discussed teammate Ousmane Dembélé’s “Mobutu” nickname, which he takes more lightly, while continuing to enjoy a strong start to the new season.",
+    "img": "https://static.toiimg.com/photo/msid-134091537,imgsize-111830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/a-mix-of-things-mbapp-finally-breaks-silence-on-viral-dictator-memes-and-bizarre-nickname-from-teammate/articleshow/134086125.cms",
+    "time": "2026-09-11T21:28:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death",
+    "desc": "The campaign comes close on the heels of a row that erupted following the death of a Dalit villager, who was reportedly under pressure to apologise for questioning Finance Minister Harpal Singh Cheema over the supply of ‘chitta (synthetic drugs)’ in the State.",
+    "img": "https://th-i.thgim.com/public/incoming/i6bisq/article71457907.ece/alternates/LANDSCAPE_1200/20260902240L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/with-eye-on-poll-bjp-to-begin-drug-free-punjab-drive-amid-row-over-dalit-villagers-death/article71456181.ece",
+    "time": "2026-09-11T21:12:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Reading kept me going’: Noida stir accused who cracked NET",
+    "desc": "“Most of my time in jail has been spent reading books. Initially I focused on preparing for NET. The study material was brought by friends from outside jail. Apart from NET material, I read novels, poems and stories,” he told The Hindu at the prison in Greater Noida",
+    "img": "https://th-i.thgim.com/public/news/cities/Delhi/vxw9aa/article71457849.ece/alternates/LANDSCAPE_1200/thakur.jfif",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/reading-kept-me-going-noida-stir-accused-who-cracked-net/article71457844.ece",
+    "time": "2026-09-11T19:59:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "apartment owners call for appointment of project officer amid demolition delays",
+    "desc": "CATAOA seeks the immediate appointment of a dedicated project officer and the setting up of a project office. It also demands that the District Collector’s committee and the subcommittee chaired by the Fort Kochi Revenue Divisional Officer be convened at the earliest to oversee the demolition and reconstruction of the apartments.",
+    "img": "https://th-i.thgim.com/public/incoming/d6wu0f/article71456887.ece/alternates/LANDSCAPE_1200/Towers02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/chander-kunj-army-towers-apartment-owners-call-for-appointment-of-project-officer-amid-demolition-delays/article71455941.ece",
+    "time": "2026-09-11T19:52:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Women's Asia Cup: Sri Lanka fight back from 33/4 to beat Pakistan, set up India final",
+    "desc": "Sri Lanka emerged victorious in a dramatic four-wicket win against Pakistan during the Women's Asia Cup semi-final. Despite a rocky start, they rallied impressively to chase down the target. Fatima Sana, Pakistan's captain, delivered a commendable performance, yet her efforts fell short. This thrilling victory sets the stage for Sri Lanka to challenge India in the forthcoming tournament finale.",
+    "img": "https://static.toiimg.com/photo/msid-134087961,imgsize-56866.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/womens-asia-cup-sri-lanka-fight-back-from-33/4-to-beat-pakistan-by-4-wickets-set-up-india-final/articleshow/134087591.cms",
+    "time": "2026-09-11T19:36:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India and Canada are well beyond reset now, says Canadian High Commissioner to India",
+    "desc": "Christopher Cooter says this period in which ties are being rebuilt is the one that works best for the two countries and in 80 years of diplomatic relations, there has never been an environment that has drawn them together in the same way; he adds the security dialogue on the Nijjar killing case has made progress and that steps such as declaring the Lawrence Bishnoi gang a terrorist organisation have improved the atmosphere",
+    "img": "https://th-i.thgim.com/public/news/cities/Delhi/uk4ypp/article71456253.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-and-canada-are-well-beyond-reset-now-says-canadian-high-commissioner-to-india/article71456180.ece",
+    "time": "2026-09-11T19:33:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trade union seeks legislation to regularise outsourced power sector workers",
+    "desc": "The government, which is expected to be a model employer, is exploiting contract and outsourced workers by engaging them for several jobs in its departments, including those of a permanent nature, State general secretary of CITU and honorary president of the Karnataka State Electricity Workers’ Federation S. Varalakshmi has alleged",
+    "img": "https://th-i.thgim.com/public/incoming/bcz3sp/article71457837.ece/alternates/LANDSCAPE_1200/2699_11_9_2026_19_6_54_1_12HUBLIPOWERWORKERS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/trade-union-seeks-legislation-to-regularise-outsourced-power-sector-workers/article71456491.ece",
+    "time": "2026-09-11T19:04:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Satya Niketan building collapse",
+    "desc": "The collapse of a five-storey building in Delhi’s Satya Niketan on September 6 killed seven people. The incident has exposed the precarious housing conditions for students in the capital, where the demand for affordable accommodation far outstrips the availability of institutional hostels. Lavpreet Kaur reports on the rescue and the questions being raised over the safety of paying guest accommodation",
+    "img": "https://th-i.thgim.com/public/incoming/kcvgpr/article71456706.ece/alternates/LANDSCAPE_1200/shashi_BUILDING_COLLAPSE_NEW_DELHI_24_.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/when-home-in-delhi-became-a-death-trap-satya-niketan-building-collapse/article71456359.ece",
+    "time": "2026-09-11T19:00:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan mount stunning fightback, force tricky chase for England at Edgbaston",
+    "desc": "Day 3 of the third Test brought a thrilling turn of events as Pakistan demonstrated their resilience with a phenomenal 449 runs in their second innings, spanning nearly 97 overs. This left England with a target of just 130 runs to clinch the series. The highlight was a crucial 121-run partnership for the ninth wicket that stifled England's bowling attack, setting the stage for an exciting Day 4 showdown.",
+    "img": "https://static.toiimg.com/photo/msid-134086323,imgsize-69460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-stun-england-with-stunning-fightback-as-razaullah-and-abbas-force-final-day-chase-at-edgbaston/articleshow/134086097.cms",
+    "time": "2026-09-11T18:56:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How a forgotten camera helped 5-time Olympic champion Ian Thorpe escape 9/11",
+    "desc": "On September 11, 2001, 18-year-old Australian swimming star Ian Thorpe narrowly avoided visiting the World Trade Center after returning to his hotel for a forgotten camera. Already a five-time Olympic champion and six-time world champion, Thorpe later described the near miss as a “very, very close call” and a moment of fate. His extraordinary swimming career continued with further Olympic and world titles before his retirement in 2006.",
+    "img": "https://static.toiimg.com/photo/msid-134084438,imgsize-82130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/international-sports/during-9/11-a-five-time-australian-olympic-gold-medallist-narrowly-escaped-death-all-because-he-forgot-his-camera/articleshow/134079387.cms",
+    "time": "2026-09-11T18:27:04.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "37 deep-tech innovations on display at Bharat Innovates Exposition on Sep 11-12",
+    "desc": "The BRICS Bharat Innovates Exposition at Bharat Mandapam marks the second major exposition of India’s deep-tech start-ups in 2026, providing participating innovators an opportunity to network with investors, business leaders and industry representatives from BRICS nations",
+    "img": "https://th-i.thgim.com/public/incoming/n9t4zw/article71457742.ece/alternates/LANDSCAPE_1200/PTI09_11_2026_000200B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/37-deep-tech-innovations-on-display-at-bharat-innovates-exposition-on-sep-11-12/article71456815.ece",
+    "time": "2026-09-11T18:13:36.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Seeking five-day banking week, employees take out protest march, stage demonstration",
     "desc": "Bank employees affiliated to the United Forum of Bank Unions took out a protest march and staged a demonstration in Hubballi on Friday, demanding introduction of a five-day banking week and urging the Centre to resolve their long-pending demands",
@@ -54,15 +171,6 @@ const newsData_en = [
     "time": "2026-09-11T15:50:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Keralam CM chairs emergency meeting, issues directive for immediate measures",
-    "desc": "KSEB chairperson and managing director says the board will expand the system used to notify consumers in advance about power restrictions. He says State’s peak demand touched a record 5,400 MW on Thursday, whereas it recorded a lower average demand of 4,224 MW in September last year",
-    "img": "https://th-i.thgim.com/public/incoming/m571ej/article71457347.ece/alternates/LANDSCAPE_1200/M%20G%20RAJAMANICKAM.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/power-crisis-keralam-cm-chairs-emergency-meeting-issues-directive-for-immediate-measures/article71456710.ece",
-    "time": "2026-09-11T15:46:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street inches higher as oil prices ease, inflation data calms markets",
     "desc": "On Friday, US stocks saw a rise, buoyed by a decline in oil prices and inflation data that matched analysts' projections. The S&P 500 and Nasdaq composite both recorded gains, while the Dow Jones Industrial Average also improved. Despite inflation remaining high, it fell in line with expected rates, prompting speculation about a Federal Reserve interest rate hike.",
@@ -108,22 +216,13 @@ const newsData_en = [
     "time": "2026-09-11T15:25:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Inspections in multiplexes in Keralam to continue",
-    "desc": "Food and Civil Supplies Minister announced ongoing inspections at multiplexes to combat the persistent issue of food overpricing and inaccurate quantities. Following numerous complaints, State authorities have conducted 35 surprise inspections, resulting in 25 cases registered for violations.",
-    "img": "https://th-i.thgim.com/public/incoming/go38qf/article71457170.ece/alternates/LANDSCAPE_1200/pop.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/inspections-in-multiplexes-in-keralam-to-continue/article71456940.ece",
-    "time": "2026-09-11T15:17:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Cybercrime police bring impersonation fraud accused on PT warrant from Punjab to Hyderabad",
-    "desc": "Police said investigation indicated that the accused had duped 14 victims across various States to the tune of ₹3 crore in cash and gold ornaments. No money was lost by the complainant in the Hyderabad case",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/cybercrime-police-bring-impersonation-fraud-accused-on-pt-warrant-from-punjab-to-hyderabad/article71456804.ece",
-    "time": "2026-09-11T15:15:05.000Z"
+    "cat": "Entertainment",
+    "title": "'Called the police': Upasana Singh alleges Poonam, Padmini took association papers",
+    "desc": "Actress Upasana Singh has made serious allegations against former CINTAA officials who purportedly attempted to erase crucial association documents. Following the incident, Singh filed a police complaint, suggesting this scheme was designed to hide information and mislead inquiries. This accusation comes amid ongoing disputes and several resignations within CINTAA, prompting the Federation of Western India Cine Employees to demand fresh elections for the organization.",
+    "img": "https://static.toiimg.com/photo/msid-134075842,imgsize-436540.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/called-the-police-cintaa-tussle-escalates-as-upasana-singh-alleges-poonam-dhillon-padmini-kolhapure-attempted-to-take-documents-from-association-premises/articleshow/134075641.cms",
+    "time": "2026-09-11T15:24:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -306,51 +405,6 @@ const newsData_en = [
     "time": "2026-09-11T12:21:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi reiterates dialogue, diplomacy in talks with Putin; accepts Russia visit invite",
-    "desc": "Prime Minister Modi held crucial talks with Russian President Putin, highlighting dialogue and diplomacy as essential pathways forward. India has offered its aid in peace initiatives to mitigate the ongoing conflict in Ukraine. The leaders examined their cooperative efforts across trade, energy, defence, and space sectors, alongside deliberating on pressing regional and global matters of shared concern.",
-    "img": "https://static.toiimg.com/photo/msid-134066580,imgsize-1155770.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-reiterates-dialogue-diplomacy-in-talks-with-putin-accepts-russia-visit-invite/articleshow/134066380.cms",
-    "time": "2026-09-11T12:17:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajinikanth pays tribute to Solomon Pappaiah; calls him a 'great Tamil personality'",
-    "desc": "Tamil superstar Rajinikanth and lyricist Vairamuthu mourned Solomon Pappaiah's death. Pappaiah, aged 90, passed away on September 11, 2026, after age-related ailments. He was known for making Tamil debates accessible to common people. Pappaiah also contributed to Tamil cinema, appearing in films like Sivaji. His passing marks a significant loss for Tamil language and culture.",
-    "img": "https://static.toiimg.com/photo/msid-134066004,imgsize-1766111.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-pays-tribute-to-tamil-scholar-solomon-pappaiah-after-his-death-at-90-says-he-made-debates-accessible-to-common-people/articleshow/134065606.cms",
-    "time": "2026-09-11T12:06:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Yemen's Houthis reach strategic island at mouth of vital shipping lane",
-    "desc": "If the Houthis gain full control of the Bab el-Mandeb Strait, on the opposite side of the Arabian Peninsula from ‌the Strait of Hormuz, it could give their backer Iran a critical advantage in the war with the U.S.",
-    "img": "https://th-i.thgim.com/public/incoming/ebfdf3/article71455927.ece/alternates/LANDSCAPE_1200/Yemen-s-HouthisG2AGH0RKJ.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/yemens-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane/article71455868.ece",
-    "time": "2026-09-11T12:04:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Vicky Kaushal revealed how Katrina Kaif rescued him during ‘joota chupai’ ritual",
-    "desc": "Vicky Kaushal recently recounted a hilarious incident from his wedding, particularly the joota chupai ceremony. Katrina Kaif's sisters brilliantly managed to conceal his shoes, thwarting the attempts of his brothers. This led to a minor hiccup, as the couple needed to delay the sunset photo session. This playful tradition has become a cherished memory from their wedding celebrations, with their stunning pictures continuing to captivate fans.",
-    "img": "https://static.toiimg.com/photo/msid-134065633,imgsize-383646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-scolded-everyone-when-vicky-kaushal-recalled-how-her-sisters-stole-his-shoes-during-their-wedding-joota-chupai-ritual-and-left-him-stranded-before-their-sunset-wedding-photos/articleshow/134065476.cms",
-    "time": "2026-09-11T12:01:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hollywood actors who did their own stunts",
-    "desc": "In the pursuit of authenticity in their performances, numerous Hollywood actors choose to tackle perilous stunts themselves. Icons such as Jackie Chan and Tom Cruise stand out for their dedication to rigorous stunt work. The likes of Keanu Reeves and Charlize Theron also engage in intense physical challenges, while veterans like Jason Statham and Angelina Jolie maintain their legacy by executing their own complex sequences.",
-    "img": "https://static.toiimg.com/photo/msid-134065533,imgsize-234433.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hollywood-actors-who-did-their-own-stunts-daniel-craig-harrison-ford-angelina-jolie-tom-cruise-and-more/articleshow/134064270.cms",
-    "time": "2026-09-11T12:00:28.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Shobhaa De reviews of ‘Mirzapur': 'Should not have been made'",
     "desc": "In her latest critique, author Shobhaa De expressed her dissatisfaction with the recent Mirzapur film, noting that she struggled to stay awake through its drawn-out duration. While she commended the standout performances from Ravi Kishan and Ali Fazal, she criticized Pankaj Tripathi’s role for lacking freshness. De also pointed out the film's over-the-top violence and the surprising inclusion of intimate moments that seemed out of place.",
@@ -367,33 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-pakistans-cyber-crime-summoned-mohammed-rizwan-and-imam-ul-haq-now-face-domestic-cricket-setback/articleshow/134062546.cms",
     "time": "2026-09-11T11:49:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hanuman Ansh composer reveals why Neem Karoli Baba’s story made his debut special",
-    "desc": "Dhirendra Mulkalwar, after two decades as a music producer on films like 'Uri' and 'Article 15', got his first solo composer credit with 'Hanuman Ansh', a film on Neem Karoli Baba. He calls the film's success deeply fulfilling. Released August 7, it hints at more chapters exploring Baba's spiritual journey ahead.",
-    "img": "https://static.toiimg.com/photo/msid-134067622,imgsize-285858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/perhaps-babaji-himself-decided-hanuman-ansh-composer-dhirendra-mulkalwar-reveals-why-neem-karoli-babas-story-made-his-debut-special-after-20-years-of-struggle/articleshow/134064815.cms",
-    "time": "2026-09-11T11:48:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi, Putin share car ride again in Delhi, weeks after traveling together in Bishkek",
-    "desc": "During an informal car ride in Delhi, Prime Minister Narendra Modi and Russian President Vladimir Putin rekindled their camaraderie, continuing their tradition of traveling together. This ride marks their fourth time sharing a vehicle, following earlier occasions in Bishkek and Tianjin. Their private talks during the journey underscore the depth of their diplomatic ties and mutual understanding.",
-    "img": "https://static.toiimg.com/photo/msid-134064736,imgsize-57268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-putin-share-car-ride-again-in-delhi-weeks-after-traveling-together-in-bishkek/articleshow/134063246.cms",
-    "time": "2026-09-11T11:45:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi-Putin talks, a Thirukkural gift and Xi's big return",
-    "desc": "Prime Minister Narendra Modi met Russian President Vladimir Putin during the summit. Iranian President Masoud Pezeshkian also arrived for discussions with PM Modi. Chinese President Xi Jinping is expected for bilateral talks and the summit. The expanded Brics grouping focuses on development and cooperation among emerging economies. India hosts the summit under its theme of resilience and innovation.",
-    "img": "https://static.toiimg.com/photo/msid-134065481,imgsize-112451.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/building-brics-pm-modi-putin-talks-a-thirukkural-gift-and-xis-big-return-key-points/articleshow/134062793.cms",
-    "time": "2026-09-11T11:40:42.000Z"
   },
   {
     "cat": "Business",
@@ -414,24 +441,6 @@ const newsData_en = [
     "time": "2026-09-11T11:15:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Punjab sets two-week deadline to distribute 33 lakh Mukh Mantri Sehat Yojana cards",
-    "desc": "Punjab is set to roll out 33 lakh Mukh Mantri Sehat Yojana cards imminently. To facilitate this, dedicated camps will be established across 2,008 villages and wards, aiming for complete distribution within a week of launching. ASHA workers and facilitators are incentivized for efficiently delivering the cards, with any remaining ones being distributed door-to-door within two weeks of the camps.",
-    "img": "https://static.toiimg.com/photo/msid-134062898,imgsize-157757.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-sets-two-week-deadline-to-distribute-33-lakh-mukh-mantri-sehat-yojana-cards/articleshow/134062789.cms",
-    "time": "2026-09-11T11:14:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi gifts Putin Russian translation of Thirukkural",
-    "desc": "During a significant meeting ahead of the BRICS Summit, Prime Minister Modi gifted President Putin a translated version of the ancient Tamil text, Thirukkural, by Naira Mkrtchyan. Both leaders held bilateral talks on the sidelines of the Brics summit being held in New Delhi.",
-    "img": "https://static.toiimg.com/photo/msid-134062261,imgsize-1004815.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/brics-summit-pm-modi-gifts-putin-russian-translation-of-thirukkural/articleshow/134061866.cms",
-    "time": "2026-09-11T11:04:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "‘AI a double-edged sword’: FM Sitharaman flags innovation risks, urges efficiency without fragility",
     "desc": "Finance Minister Nirmala Sitharaman addressed artificial intelligence risks at the Global Fintech Fest 2026. She highlighted technology's potential to influence public opinion and electoral outcomes. The Reserve Bank of India recognized the Unified Fintech Forum as a self-regulatory organization. Sitharaman emphasized balancing innovation with necessary risk mitigation measures. India's young population is driving innovation and economic growth, she stated.",
@@ -448,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/10-days-1981-runs-no-winner-in-the-longest-ever-test-england-were-42-runs-from-victory-vs-south-africa-when-a-ship-to-home-forced-a-draw/articleshow/134061101.cms",
     "time": "2026-09-11T10:50:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Why is government silent?’ Congress targets BJP over US ‘Mr Singh’ ad",
-    "desc": "In a striking move, the Congress party has chastised the Indian government for its silence on a provocative advertisement from the US Department of Homeland Security. Featuring the phrase 'Mr Singh,' the ad was seen as an affront to Indian respect. Advocacy groups chimed in, condemning the message as racial profiling. Following significant backlash, the US Department of Homeland Security ultimately decided to withdraw the contentious advertisement.",
-    "img": "https://static.toiimg.com/photo/msid-134061273,imgsize-138752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-is-government-silent-congress-targets-bjp-over-us-mr-singh-ad/articleshow/134061138.cms",
-    "time": "2026-09-11T10:47:21.000Z"
   },
   {
     "cat": "Business",
@@ -522,15 +522,6 @@ const newsData_en = [
     "time": "2026-09-11T07:39:21.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Dhoni, Virat Kohli and Rohit Sharma get stunning makeovers",
-    "desc": "The AI-generated pictures have given MS Dhoni, Virat Kohli, Rohit Sharma and Shreyas Iyer vintage hairstyles, colourful outfits and classic 1980s settings. The trend has now spread across the cricket world, with IPL teams and several cricketers joining in and sharing their own 1980s avatars.",
-    "img": "https://static.toiimg.com/photo/msid-134052385,imgsize-61531.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ms-dhoni-virat-kohli-and-rohit-sharma-get-stunning-80s-makeover-as-ai-trend-goes-viral/articleshow/134051958.cms",
-    "time": "2026-09-11T07:17:27.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Indian in Kuwait sent Rs 1.09 crore, no ITR; ITAT deletes Rs 5.52 lakh, checks Rs 2.5 crore",
     "desc": "The absence of an original ITR became a key issue. Although the department had information about the substantial sums held in his Indian accounts, there was no tax return on record explaining their nature and source.",
@@ -547,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international//article71454950.ece",
     "time": "2026-09-11T06:29:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'He shouldn't be here': Hussain bashes Pakistan with Sehwag example",
-    "desc": "Saim Ayub’s return to the Pakistan Test team ended in a nightmare as he was dismissed for a duck in both innings of the third Test against England at Edgbaston. The young opener faced only 11 balls across the two innings, with England pacer Ollie Robinson dismissing him on both occasions.",
-    "img": "https://static.toiimg.com/photo/msid-134048832,imgsize-43006.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-shouldnt-be-here-nasser-hussain-bashes-pakistan-with-virender-sehwag-example/articleshow/134047979.cms",
-    "time": "2026-09-11T05:57:13.000Z"
   },
   {
     "cat": "Sports",
@@ -592,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/key-growth-engine-for-the-world-imf-hails-indias-7-8-growth-backs-gdp-estimate-changes/articleshow/134043605.cms",
     "time": "2026-09-11T03:42:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil touches $107 per barrel as Hormuz remains choked for over six months",
-    "desc": "This week, oil prices surged past a hundred dollars per barrel amidst growing worries over supply disruptions caused by attacks on shipping routes in the Middle East. US fuel prices reflect this trend as supply chains experience strain. The trajectory of future oil prices will heavily depend on China's import choices, with OPEC adjusting its global oil demand growth forecast for 2026.",
-    "img": "https://static.toiimg.com/photo/msid-134040407,imgsize-37978.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-brent-crude-wti-over-100-per-barrel-for-first-time-in-4-months/articleshow/134039908.cms",
-    "time": "2026-09-11T02:03:40.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +871,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
     "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
