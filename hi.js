@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Fenerbahce coach announces shocking resignation during press conference; club refuses to accept",
+    "desc": "Ismail Kartal announced his resignation as Fenerbahce head coach shortly after the Turkish club drew 1-1 with Roma in the Champions League. However, President Aziz Yildirim immediately rejected the decision and insisted the 65-year-old remains...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fenerbahce-coach-announces-shocking-resignation-during-press-conference-club-refuses-to-accept-2026-09-11-1053982",
+    "time": "2026-09-11T12:35:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manav Suthar equals 131-year-old record during County Championship clash vs Glamorgan",
+    "desc": "Star India spinner Manav Suthar has entered an exclusive chapter of first-class cricket after producing a remarkable spell of control for Warwickshire against Glamorgan in the County Championship. The 26-year-old Rajasthan left-arm spinner finished the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/manav-suthar-equals-131-year-old-record-during-county-championship-clash-vs-glamorgan-2026-09-11-1053971",
+    "time": "2026-09-11T11:00:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan teases Vaibhav Sooryavanshi over DRS credit after East Zone triumph in Duleep Trophy",
+    "desc": "Vaibhav Sooryavanshi’s growing reputation as East Zone’s unofficial DRS expert became a source of humour after the 15-year-old played a role in three successful reviews during the team’s Duleep Trophy campaign. After the win over South...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-teases-vaibhav-sooryavanshi-over-drs-credit-after-east-zone-triumph-in-duleep-trophy-watch-2026-09-11-1053965",
+    "time": "2026-09-11T10:18:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammad Rizwan, Imam-ul-Haq questioned by Pakistan Cyber Crime Agency after England tour fallout",
+    "desc": "Pakistan cricketers Mohammad Rizwan and Imam-ul-Haq appeared before the National Cyber Crimes Investigation Agency (NCCIA) in Lahore. Both players had been among seven members of the squad sent home after Pakistan’s defeat at Lord’s in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-rizwan-imam-ul-haq-questioned-by-pakistan-cyber-crime-agency-after-england-tour-fallout-2026-09-11-1053960",
+    "time": "2026-09-11T09:31:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shree Charani breaks Kuldeep Yadav's record in Asia Cup semi-final vs Bangladesh",
+    "desc": "In the Asia Cup 2026 semi-final against Bangladesh, spinner Shree Charani became the fastest Indian bowler to complete 50 wickets in T20Is. She reached the landmark in 29 T20Is and with that, the 22-year-old surpassed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shree-charani-breaks-kuldeep-yadav-s-record-in-asia-cup-semi-final-vs-bangladesh-2026-09-11-1053948",
+    "time": "2026-09-11T07:59:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Tanya Chaudhary, Nirbhay Choudhary break national records in Indian Athletics final",
     "desc": "Nirbhay Choudhary set a new national record in Indian men’s hammer throw with a 71.02m throw at the Indian Athletics Final Series 2026. Neeraj Kumar previously held the record with a throw of 70.23m in...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/delhi-police-requests-ddca-to-postpone-india-s-opening-t20i-against-afghanistan-explains-reason-2026-09-10-1053894",
     "time": "2026-09-10T12:52:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Finn Allen switches from Perth Scorchers to Melbourne Stars in record-breaking deal",
-    "desc": "Finn Allen has left Perth Scorchers for Melbourne Stars in a move that could become the biggest player contract in Big Bash League history. The New Zealand opener reportedly agreed to a three-year deal worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/finn-allen-switches-from-perth-scorchers-to-melbourne-stars-in-record-breaking-deal-2026-09-10-1053886",
-    "time": "2026-09-10T12:22:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Selaqui Strikers lift first-ever Dehradun T20 League after Vijay Sharma's unbeaten 31-ball 103",
-    "desc": "Selaqui Strikers became the first champions of the Dehradun T20 League after defeating Mussoorie Thunders by 39 runs in a rain-shortened final at Abhimanyu Cricket Academy in Dehradun. The match was reduced to 16 overs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/selaqui-strikers-lift-first-ever-dehradun-t20-league-after-vijay-sharma-s-unbeaten-31-ball-103-2026-09-10-1053881",
-    "time": "2026-09-10T11:22:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma refuses to comment on ODI World Cup 2027 plans, keeps door open",
-    "desc": "Star India batter Rohit Sharma has declined to commit himself to India’s 2027 World Cup campaign. He left his international future open as questions continue to grow over his place in the ODI team. When...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-refuses-to-comment-on-odi-world-cup-2027-plans-keeps-door-open-2026-09-10-1053874",
-    "time": "2026-09-10T10:38:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "East Zone lift Duleep Trophy title for first time in 13 years after dominant batting show",
-    "desc": "East Zone ended a 13-year wait for the Duleep Trophy title after securing a decisive victory over South Zone at the MA Chidambaram Stadium in Chennai. The Ishan Kishan-led side posted 708 runs on the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/east-zone-lift-duleep-trophy-title-for-first-time-in-13-years-after-dominant-batting-show-2026-09-10-1053868",
-    "time": "2026-09-10T09:50:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India make one change to Asian Games, Afghanistan series squad after pacer ruled out; Bumrah declared fit",
-    "desc": "Jasprit Bumrah has been cleared to return to India’s T20I setup for the upcoming series against Afghanistan and the Asian Games 2026. He has been out of action since the ODI series against England. He missed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-make-one-change-to-asian-games-afghanistan-series-squad-after-pacer-ruled-out-bumrah-declared-fit-2026-09-10-1053860",
-    "time": "2026-09-10T08:28:18.000Z"
   }
 ];
