@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "બેંક કર્મચારીઓની દેશવ્યાપી હડતાળ; ગુજરાતમાં આજથી ત્રણ દિવસ બેંકો બંધ: 75 હજાર કર્મચારીઓ જોડાતા કરોડોના વ્યવહારો ખોરવાશે",
+    "desc": "આજે યુનાઈટેડ ફોરમ ઓફ બેંક યુનિયન્સ (UFBU) દ્વારા શુક્રવાર, 11 સપ્ટેમ્બરે દેશવ્યાપી બેંક હડતાળનું એલાન આપવામાં આવ્યું છે. બેંક કર્મચારીઓ અને અફસરોના પડતર પ્રશ્નો તેમજ વિવિધ પ્રશ્નોના યોગ્ય ઉકેલ મુદ્દે બેંક યુનિયન્સ દ્વારા આ નિર્ણય લેવાયો છે. આજે શુક્રવારે હડતાળ અને ત્યારબાદ શનિવાર તથા રવિવારની નિયમિત રજાઓને કારણે સતત ત્રણ દિવસ સુધી તમામ બેંકિંગ કામગીરી ખોરવાઈ જશે, જેના લીધે સામાન્ય નાગરિકો અને વેપારીઓને નાણાકીય લેવડ-દેવડમાં ભારે મુશ્કેલીનો સામનો કરવો પડી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/nationwide-strike-by-bank-employees-banks-in-gujarat-closed-for-three-days-starting-today-490820 ",
+    "time": "2026-09-11T06:04:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રૂપિયો-યુઆન પાડશે ખેલ...ડોલર માટે ખતરાની ઘંટડી! હાથી-ડ્રેગનની જોડી લાવશે વૈશ્વિક વેપારમાં મોટો બદલાવ?",
+    "desc": "ચીનના રાષ્ટ્રપતિ શી જિનપિંગ 12 અને 13 સપ્ટેમ્બરના રોજ નવી દિલ્હીમાં આયોજિત બ્રિક્સ સમિટમાં ભાગ લેવા માટે ભારત આવી રહ્યા છે. લગભગ 7 વર્ષ બાદ જિનપિંગ ભારત આવશે. પીએમ મોદીના નિમંત્રણ પર તેમનો આ પ્રવાસ યોજાયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/brics-summit-2026-india-china-relations-pm-narendra-modi-xi-jinping-meeting-rupee-yuan-490811 ",
+    "time": "2026-09-11T05:19:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દિલ્હીમાં બ્રિક્સનો પાવર શો, પુતિન પહોંચ્યા દિલ્હી, PM મોદીએ શ્લોક દ્વારા આપ્યો ખાસ સંદેશ",
+    "desc": "ભારતમાં 72 કલાકનો મેગા શો શરૂ થઈ ગયો છે. આજથી ત્રણ દિવસ સુધી દુનિયાભરની નજરો દિલ્હી પર ટકેલી હતશે. બ્રિક્સ સમિટમાં સામેલ થવા માટે પુતિન જિનપિંગ સહિત શક્તિશાળી નેતાઓ ભારતમાં આવશે. પીએમ મોદીએ આજે એક ખાસ સંદેશ સંસ્કૃતના શ્લોક દ્વારા આપ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/brics-summit-2026-delhi-pm-modi-message-vladimir-putin-xi-jinping-russia-china-india-490794 ",
+    "time": "2026-09-11T03:31:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "બાળક વિશે વિચાર્યું પણ ન હતું અને મળી ગુડ ન્યુઝ, સામંથાએ પ્રેગ્નેન્સી અંગે કર્યો ખુલાસો",
+    "desc": "સામંથા રુથ પ્રભુ હાલ તેની પ્રેગ્નેન્સી ઈન્જોય કરી રહી છે. સોશિયલ મીડિયા પર તે પોતાના ફોટો શેર કરતી રહે છે. સામંથા તેના પહેલા બાળકના આગમન માટે ખુશ છે પણ આ બાળક તેના માટે સરપ્રાઈઝ છે. આ વાત તેણે એક મુલાકાત દરમિયાન કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/samantha-ruth-prabhu-said-her-first-pregnancy-was-surprise-for-her-she-was-ok-not-having-kids-490793 ",
+    "time": "2026-09-11T03:26:51.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "iPhone 18 Pro લોન્ચ થતાં જ આ જૂના iPhone ખરીદવા તૂટી પડ્યા લોકો, પરંતુ કોઈને મળ્યો નહીં, જાણો",
     "desc": "નવા iPhone 18 Proના લોન્ચ પછી, જૂના મોડેલની શોધ, જેની કિંમતમાં સામાન્ય રીતે ઘટાડો થવાની અપેક્ષા હતી, અચાનક વધી ગઈ. લોકો iPhone 17 ની કિંમત જાણવા માટે ઇન્ટરનેટ પર ઉમટી પડ્યા, પરંતુ તેમને એક અણઘડ આંચકો લાગ્યો. જૂના મોડેલની કિંમત ઘટાડવાને બદલે, Apple એ તેમાં વધારો કર્યો. આ કિંમતમાં ફેરફારથી iPhone ગ્રાહકો આશ્ચર્યચકિત થયા.",
@@ -441,15 +477,6 @@ const newsData_gu = [
     "time": "2026-09-06T10:40:47.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોનાની ગતિ પડી છે ધીમી, પણ તે હજુ નથી થઈ સમાપ્ત! એક્સપર્ટે કહ્યું સોનું બનાવશે એક નવો રેકોર્ડ",
-    "desc": "ગોલ્ડમેન સૅક્સના વરિષ્ઠ એક્સપર્ટ ટોની કિમ માને છે કે આગામી દિવસોમાં સોનાના ભાવ રેકોર્ડ ઊંચાઈએ પહોંચી શકે છે. હાલમાં માર્કેટમાં સોના અને ચાંદીના ભાવમાં ભારે ઉથલ પાથલ ચાલી રહી છે, દિગ્ગજ એક્સપર્ટની સલાહ પર સોનાના ભાવમાં વધારો થવાની ભવિષ્યવાણી સામે આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/golds-momentum-has-slowed-down-but-its-not-over-yet-expert-says-gold-will-set-a-new-record-490295 ",
-    "time": "2026-09-06T09:54:40.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "શું AI ખાઈ જશે સોફ્ટવેર એન્જિનિયરોની નોકરીઓ? Zohoના કો-ફાઉન્ડર શ્રીધર વેમ્બુની ચેતવણીએ વધારી ચિંતા",
     "desc": "ઝોહોના સહ-સ્થાપક શ્રીધર વેમ્બુએ ચેતવણી આપી છે કે ભવિષ્યમાં AI જટિલ કોડિંગ અને ગાણિતિક સમસ્યાઓ સરળતાથી ઉકેલી લેશે. આ સોફ્ટવેર એન્જિનિયરો માટે નોંધપાત્ર ખતરો ઉભો કરી શકે છે. શ્રીધરના નિવેદનથી હવે ચર્ચાઓનો દોર શરૂ થઈ રહ્યો છે.",
@@ -457,24 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/will-ai-take-away-software-engineers-jobs-zoho-co-founder-sridhar-vembu-warning-raises-concerns-490292 ",
     "time": "2026-09-06T09:51:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કેન્દ્ર સરકારના કર્મચારીઓને દશેરા પહેલા મળશે મોટી ખુશખબર? બોનસમાં થઈ આટલો મોટો વધારો, જાણો",
-    "desc": "8મા પગાર પંચ વચ્ચે, કેન્દ્ર સરકારના કર્મચારીઓ માટે બોનસનો મુદ્દો પણ વધુ તીવ્ર બન્યો છે. કર્મચારી સંગઠનોએ વર્તમાન બોનસ મર્યાદામાં વધારો અને તેની ગણતરી કરવાની પદ્ધતિમાં ફેરફારની માંગ કરી છે. જો સરકાર આ માંગણીઓ પર વિચાર કરે તો ભવિષ્યમાં બોનસની રકમ વર્તમાન સિસ્ટમ કરતા વધારે હોઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-central-government-employees-get-good-news-before-dussehra-bonus-can-increase-by-this-much-know-490290 ",
-    "time": "2026-09-06T09:12:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દિવાળી માટે ટ્રેન ટિકિટનું બુકિંગ શરૂ, કન્ફર્મ ટિકિટ મેળવવા માટે શું કરવું જોઈએ?",
-    "desc": "જો તમે આ દિવાળીએ ઘરે જવાની યોજના બનાવી રહ્યા છો, તો આ સમાચાર તમારા માટે છે. દિવાળી માટે ટ્રેન ટિકિટ બુકિંગ આજથી શરૂ થઈ ગયું છે. દિવાળી 8 નવેમ્બરે છે, અને ટ્રીપ માટે ટ્રેન ટિકિટ બારી આજે ખુલી ગઇ છે. IRCTC વેબસાઇટ પર સવારે 8 વાગ્યે ટિકિટ બુકિંગ શરૂ થઈ ગયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/booking-of-train-tickets-for-diwali-has-started-what-should-be-done-to-get-a-confirmed-ticket-490277 ",
-    "time": "2026-09-06T07:09:57.000Z"
   },
   {
     "cat": "Tech",
@@ -540,15 +549,6 @@ const newsData_gu = [
     "time": "2026-09-04T02:08:03.000Z"
   },
   {
-    "cat": "World",
-    "title": "પાકિસ્તાનમાં &amp;#039;બ્લેકઆઉટ&amp;#039;! કરાચી સહિત અનેક શહેરોમાં 16થી 24 કલાક સુધી વીજ કાપ",
-    "desc": "પાકિસ્તાનમાં કરાંચી જેવા મહત્વના શહેરોમાં વીજળી ગુલ થતા હાહાકાર મચ્યો છે. હોસ્પિટલોમાં વેન્ટિલેટર બંધ છે. ફેક્ટીઓમાં પૈડા થંભી ગયા છે અને રસ્તાઓ પર જનતા ત્રાહિમામ પોકારી રહી છે. દુર દુર સુધી સ્થિતિ સુધરવાના કોઈ અણસાર પણ દેખાઈ રહ્યા નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/blackout-in-pakistan-power-cut-for-16-to-24-hours-in-many-cities-including-karachi-490023 ",
-    "time": "2026-09-03T16:49:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Bigg Boss 20 હોસ્ટ કરવા સલમાન ખાને કેટલી લીધી ફી ? આ વખતે શોના કંટેસ્ટેંટ કોણ કોણ છે જાણો",
     "desc": "બિગ બોસ 20 ને લઈને નવી જાણકારી સામે આવી છે. 6 સપ્ટેમ્બરથી શો રિલીઝ થવાનો છે. આ વખતે શોને હોસ્ટ કરવા માટે સલમાન ખાને કેટલી ફી લીધી છે અને શોમાં કોણ કોણ જોવા મળશે ચાલો જાણીએ.",
@@ -610,14 +610,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/action-thriller-film-gandhari-to-bigg-boss-season-20-september-first-week-ott-release-489836 ",
     "time": "2026-09-02T09:23:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અપરા મેહતાની બદસુરતી વાળી વાત પર દર્શન જરીવાલાએ કર્યો ખુલાસો, કહ્યું અપરાએ પોતાને પીડિત ગણાવવા ખોટી વાત કરી",
-    "desc": "અભિનેત્રી અપરા મહેતાએ થોડા સમય પહેલા એક મુલાકાતમાં એવું કહ્યું હતું કે દર્શન જરીવાલાએ તેને તું કદરુપી છે, હું તને પ્રેમ નથી કરતો કહી છોડી દીધી હતી. આ વાત પર હવે એક્ટર દર્શન જરીવાલાએ પોતાનો પક્ષ રજૂ કર્યો છે. દર્શન જરીવાલાએ કહ્યું કે અપરા મહેતાએ જે વાત કરી તે ખોટી છે. સાથે જ તેણે ખુલાસો કર્યો કે તેણે શા માટે ઘર છોડ્યું અને શા માટે હજુ સુધી ડિવોર્સ નથી લીધા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/darshan-jariwala-said-apara-mehta-playing-victim-card-reveal-truth-about-separation-and-not-having-divorce-489760 ",
-    "time": "2026-09-02T02:41:56.000Z"
   }
 ];

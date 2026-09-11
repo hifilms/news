@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Tanya Chaudhary, Nirbhay Choudhary break national records in Indian Athletics final",
+    "desc": "Nirbhay Choudhary set a new national record in Indian men’s hammer throw with a 71.02m throw at the Indian Athletics Final Series 2026. Neeraj Kumar previously held the record with a throw of 70.23m in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/tanya-chaudhary-nirbhay-choudhary-break-national-records-in-indian-athletics-final-2026-09-11-1053940",
+    "time": "2026-09-11T06:44:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Elena Rybakina, Aryna Sabalenka qualify for US Open final; No 1 and No 2 seeds meet for first time since 2013",
+    "desc": "Elena Rybakina made it to the US Open final after overcoming American fourth seed Coco Gauff 3-6, 6-4, 6-4 in the semi-final. That sets up a clash against defending champion Aryna Sabalenka in the final...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/elena-rybakina-aryna-sabalenka-qualify-for-us-open-final-no-1-and-no-2-seeds-meet-for-first-time-since-2013-2026-09-11-1053932",
+    "time": "2026-09-11T05:18:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vinesh Phogat barred from World Championship trials, Delhi High Court denies plea",
+    "desc": "The Delhi High Court has denied wrestler Vinesh Phogat’s request to take part in the selection trials for the World Championships 2026. Justice Swarana Kanta Sharma rejected Phogat’s plea for interim relief late Thursday, holding...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/vinesh-phogat-barred-from-world-championship-trials-delhi-high-court-denies-plea-2026-09-11-1053929",
+    "time": "2026-09-11T04:39:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shafali Verma, Deepti Sharma star as India hammer Bangladesh to storm into Asia Cup 2026 final",
     "desc": "Riding onto the blistering inning by Shafali Verma and a strong bowling performance by Deepti Sharma, the Harmanpreet Kaur-led Indian women's cricket team defeated Bangladesh at the Dubai International Cricket Stadium on Thursday to storm into...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-make-one-change-to-asian-games-afghanistan-series-squad-after-pacer-ruled-out-bumrah-declared-fit-2026-09-10-1053860",
     "time": "2026-09-10T08:28:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zverev qualifies for US Open semis in straight sets after staying up late to watch Shelton vs Alcaraz",
-    "desc": "Alexander Zverev reached the US Open semi-finals for the first time after defeating Botic van de Zandschulp in straight sets. The German top seed defeated the Dutchman 6-2, 7-5, 6-1 during the night session on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/alexander-zverev-qualifies-for-us-open-semis-in-straight-sets-after-staying-up-late-to-watch-shelton-vs-alcaraz-2026-09-10-1053849",
-    "time": "2026-09-10T07:42:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's 19-goal blitz leaves Pakistan shell-shocked, seals Junior Asia Cup semi-final spot",
-    "desc": "India stormed into the semi-finals of the Women’s Junior Asia Cup 2026 after producing a record-breaking 19-0 quarter-final victory over Pakistan in Moqi, China. The defending champions were in complete control from the opening stages...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/india-s-19-goal-blitz-leaves-pakistan-shell-shocked-seals-junior-asia-cup-semi-final-spot-2026-09-10-1053845",
-    "time": "2026-09-10T06:53:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Fulham manager Alvaro Arbeloa demands more courage, personality from players",
-    "desc": "After a difficult tenure with Real Madrid, Alvaro Arbeloa joined Fulham in the summer as the new head coach of the Premier League side. However, his team suffered three consecutive defeats and is currently in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fulham-manager-alvaro-arbeloa-demands-more-courage-personality-from-players-2026-09-10-1053836",
-    "time": "2026-09-10T05:47:11.000Z"
   }
 ];
