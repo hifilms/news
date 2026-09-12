@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Police team attacked by angry villagers in Bihar’s Sitamarhi after husband of ward councillor shot dead by criminals",
+    "desc": "Villagers claimed that the liquor mafia was behind the shooting; the SP office claimed that after an earlier firing incident on Baidyanath Mahto, one accused had surrendered before the Court, and proceedings were under way to obtain warrants against the other accused",
+    "img": "https://th-i.thgim.com/public/incoming/xh0vyl/article71461500.ece/alternates/LANDSCAPE_1200/20260912423L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/police-team-attacked-by-angry-villagers-in-bihars-sitamarhi-after-husband-of-ward-councillor-shot-dead-by-criminals/article71460092.ece",
+    "time": "2026-09-12T22:35:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Power cuts paralyse Punjab rice mills; Opon. slams AAP over ‘Roshan Punjab’ promise",
+    "desc": "In a statement, Punjab Power Minister Tarunpreet Singh Sond said Punjab is currently receiving 1,051 MW less power against its share from the Central Power pool. The Centre should immediately provide Punjab its due share, he added",
+    "img": "https://th-i.thgim.com/public/incoming/ivochx/article71461497.ece/alternates/LANDSCAPE_1200/KSEB_04.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/power-cuts-paralyse-punjab-rice-mills-opon-slams-aap-over-roshan-punjab-promise/article71460277.ece",
+    "time": "2026-09-12T22:19:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India to get another major DRDO missile testing range in Bengal",
+    "desc": "India is embarking on a pivotal project with the establishment of a new weapon and missile testing range in Junput, West Bengal. This state-of-the-art facility will complement the existing range in Chandipur, Odisha, marking the DRDO's third significant site. The initiative promises to not only bolster national defense capabilities but also promote substantial growth in West Bengal's infrastructure and economy.",
+    "img": "https://static.toiimg.com/photo/msid-134162019,imgsize-36398.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms",
+    "time": "2026-09-12T22:16:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mehbooba Mufti welcomes BRICS condemnation of Pahalgam terror attack, but calls out ‘selective outrage’",
+    "desc": "The former J&K chief said the suffering of civilians in Pahalgam, Gaza or Iran cannot be viewed through different moral or political lenses; “civilian blood has no nationality, and international justice cannot have double standards,” she added",
+    "img": "https://th-i.thgim.com/public/incoming/u1vow9/article71461491.ece/alternates/LANDSCAPE_1200/PTI08_20_2026_000228B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-welcomes-brics-condemnation-of-pahalgam-terror-attack-but-calls-out-selective-outrage/article71461116.ece",
+    "time": "2026-09-12T22:05:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sebi for changes to CAS timing, derivatives settlement prices",
+    "desc": "Sebi has put forth new proposals aimed at modifying the Closing Auction Session timings and derivatives pricing. Following the recent launch of the session, traders have noted an uptick in market volatility. The regulator is evaluating two potential options for determining derivative settlement prices, suggesting a shift in market timings to include a transition break and longer trading intervals. Feedback on these proposals is requested by October 3.",
+    "img": "https://static.toiimg.com/photo/msid-134159709,imgsize-729301.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-for-changes-to-cas-timing-derivatives-settlement-prices/articleshow/134159679.cms",
+    "time": "2026-09-12T21:57:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Brics opposes unilateral trade steps like EU carbon border tax",
+    "desc": "In a united front, BRICS countries protested against the EU's carbon border adjustment mechanism, deeming it unfair. They underscored the importance of energy security alongside a pragmatic approach toward climate goals, making it clear that fossil fuels remain integral to the energy mix. The alliance urged for actions driven by equity and collective responsibilities, indicating their trust in multilateral efforts to confront global climate challenges.",
+    "img": "https://static.toiimg.com/photo/msid-134158852,imgsize-109020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms",
+    "time": "2026-09-12T21:35:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Global South must shape, not just follow, rules",
+    "desc": "Prime Minister Modi opened the Brics summit, demanding urgent United Nations Security Council reforms. He stressed transforming global governance from privilege to partnership for developing nations. Modi proposed Brics draft ten proposals for inclusive global governance and multilateralism. He also called for a Seafarers Emergency Support Network for maritime workers. The summit aims to empower the Global South as rule-shapers, not rule-takers.",
+    "img": "https://static.toiimg.com/photo/msid-134158607,imgsize-45810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/modi-global-south-must-shape-not-just-follow-rules/articleshow/134158493.cms",
+    "time": "2026-09-12T21:30:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Condemnation of Pahalgam hit reflects Delhi's stand on terror",
+    "desc": "In a significant statement, the BRICS Declaration addressed India’s serious concerns about terrorism, condemning both the Pahalgam attack and cross-border movements of terrorists. The declaration underscored the need for zero tolerance and criticized discrepancies in counter-terrorism responses. It affirmed that states have the primary duty to combat terrorism, asserting that terrorism must not be associated with any particular religion or nationality.",
+    "img": "https://static.toiimg.com/photo/msid-134158052,imgsize-1964300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/condemnation-of-pahalgam-hit-reflects-delhis-stand-on-terror/articleshow/134158053.cms",
+    "time": "2026-09-12T21:17:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "U.S. Open: Harrison and Skupski win men's doubles title",
+    "desc": "The reigning Australian Open champions took the ‌first set after Harrison struck a two-handed backhand return winner ​to break for a 4-3 lead. The American-British duo ⁠held serve the rest of the way to take the set 6-4",
+    "img": "https://th-i.thgim.com/public/incoming/mrxnfj/article71461372.ece/alternates/LANDSCAPE_1200/2026-09-12T200938Z_546525101_UP1EM9C1F4VSA_RTRMADP_3_TENNIS-USOPEN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/us-open-harrison-and-skupski-win-mens-doubles-title/article71461371.ece",
+    "time": "2026-09-12T21:05:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "The Houthis vs Saudi Arabia",
+    "desc": "A parallel state in Yemen, an ideologically committed base, years of warfare, control of the Red Sea coastline and sustained Iranian support have all helped the Shia militant group transform itself into a formidable territorial army and naval force",
+    "img": "https://th-i.thgim.com/public/incoming/q6hp67/article71461357.ece/alternates/LANDSCAPE_1200/2026-09-11T084749Z_2026613709_RC2ZFNAZ7IKI_RTRMADP_3_IRAN-CRISIS-PAKISTAN-HOUTHIS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/the-houthis-vs-saudi-arabia-the-new-lords-of-the-red-sea/article71461151.ece",
+    "time": "2026-09-12T20:05:35.000Z"
+  },
+  {
     "cat": "World",
     "title": "Zelenskyy ready to meet Putin at Miami G20; Kremlin refuses",
     "desc": "Russia will send officials to a G20 energy meeting in Houston next week; Trump’s special envoy said they hoped to announce the “next steps” of talks to end the war within “a couple of weeks”",
@@ -70,15 +160,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/brics-leaders-call-for-stronger-cooperation-in-disease-surveillance-medical-product-regulation/article71461003.ece",
     "time": "2026-09-12T18:11:38.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "The Houthis vs Saudi Arabia",
-    "desc": "A parallel state in Yemen, an ideologically committed base, years of warfare, control of the Red Sea coastline and sustained Iranian support have all helped the Shia militant group transform itself into a formidable territorial army and naval force",
-    "img": "https://th-i.thgim.com/public/news/national/84j0gy/article71461142.ece/alternates/LANDSCAPE_1200/Final%2013%20Red%20sea.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/the-houthis-vs-saudi-arabia-the-new-lords-of-the-red-sea/article71461151.ece",
-    "time": "2026-09-12T17:57:40.000Z"
   },
   {
     "cat": "Entertainment",
@@ -180,15 +261,6 @@ const newsData_en = [
     "time": "2026-09-12T15:50:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "From PM Modi-Putin-Xi meet to Banyan Tree plantation, car diplomacy: Brics Summit wrap-up in pictures",
-    "desc": "The 18th Brics Summit took place in New Delhi, hosted by Prime Minister Narendra Modi. Leaders from eleven member countries came together to engage in dialogue and capture memorable group photographs. Significant moments were shared with Chinese President Xi Jinping and Russian President Vladimir Putin. As a symbol of unity for their future, the leaders planted a banyan tree, and they collectively embraced the New Delhi Declaration 2026.",
-    "img": "https://static.toiimg.com/photo/msid-134141896,imgsize-111358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-pm-modi-putin-xi-meet-to-banyan-tree-plantation-car-diplomacy-brics-summit-wrap-up-in-pictures/articleshow/134141347.cms",
-    "time": "2026-09-12T15:47:52.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Armaan HITS BACK at trolls calling him , Amaal 'ungrateful' to Salman",
     "desc": "Singer Armaan Malik has come to his brother Amaal Malik's defense in light of recent online backlash. Amaal raised concerns about Salman Khan Films failing to credit him for a song, which led some netizens to label them as ungrateful. In response, Armaan highlighted the significance of creators obtaining proper acknowledgment for their contributions while reflecting on their journey.",
@@ -261,15 +333,6 @@ const newsData_en = [
     "time": "2026-09-12T13:28:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Brics adopts New Delhi Declaration; Iran president meets UAE crown prince &amp; more",
-    "desc": "Brics nations adopted the New Delhi Declaration, condemning terrorism and unilateral tariffs. Prime Minister Modi shared photos with Xi and Putin at the summit. Iranian President Pezeshkian met the UAE Crown Prince amid regional tensions. Tejashwi Yadav sought a special package for Bihar flood victims. France is accelerating Rafale F5 upgrades, potentially relevant for India's jet acquisition.",
-    "img": "https://static.toiimg.com/photo/msid-134134519,imgsize-1027104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-brics-adopts-new-delhi-declaration-iran-president-meets-uae-crown-prince-more/articleshow/134132349.cms",
-    "time": "2026-09-12T13:24:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shelton eyes US Open history as he takes on Zverev in maiden Grand Slam final",
     "desc": "Shelton’s father, his coach and former tour pro Bryan Shelton, made history in 1991 when he became the first Black American man to win an ATP Tour title after Ashe in 1978. The business-like approach is a sign of how much Shelton has changed. The explosive left-hander who burst onto the Tour with a huge serve, a big forehand and a willingness to play on instinct has become more deliberate about everything that surrounds his tennis.",
@@ -322,15 +385,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/xi-jinping-official-vehicle-hongqi-n701-limousine-brics-summit-2026-chinese-delegation/article71459982.ece",
     "time": "2026-09-12T12:43:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Zero tolerance' on terror: Brics declaration strongly condemns Pahalgam attack",
-    "desc": "Brics countries strongly condemned the Pahalgam terrorist attack, reaffirming their commitment to combating terrorism. The New Delhi Declaration 2026 opposed double standards and called for zero tolerance towards terrorism. It also supported comprehensive UN reform, including Security Council expansion for developing nations. China and Russia reiterated support for India and Brazil's greater UN roles. The declaration also raised concerns over trade measures and unilateral sanctions.",
-    "img": "https://static.toiimg.com/photo/msid-134132253,imgsize-78350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/zero-tolerance-on-terror-brics-declaration-strongly-condemns-pahalgam-attack/articleshow/134130517.cms",
-    "time": "2026-09-12T12:40:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -657,15 +711,6 @@ const newsData_en = [
     "time": "2026-09-11T16:58:00.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Wall Street inches higher as oil prices ease, inflation data calms markets",
-    "desc": "On Friday, US stocks saw a rise, buoyed by a decline in oil prices and inflation data that matched analysts' projections. The S&P 500 and Nasdaq composite both recorded gains, while the Dow Jones Industrial Average also improved. Despite inflation remaining high, it fell in line with expected rates, prompting speculation about a Federal Reserve interest rate hike.",
-    "img": "https://static.toiimg.com/photo/msid-134076717,imgsize-66554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-wall-street-inches-higher-as-oil-prices-ease-inflation-data-calms-markets/articleshow/134076278.cms",
-    "time": "2026-09-11T15:43:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "MCA to honour Mantri, Tendulkar and Rahane",
     "desc": "While the lounges honouring Mantri and Rahane are set to be designated in the MCA Pavilion, the one in Tendulkar’s name is likely to come up closer to his statue in the Sachin Tendulkar Stand",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
     "time": "2026-09-06T11:24:06.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Brought in for civilian use, Starlink is now integral to Ukraine’s war effort",
-    "desc": "Russia’s latest attempts to jam the satellite network are about more than disrupting internet access; Starlink sits behind drone operations, battlefield communications, and command networks that stretch across hundreds of kilometres of the war front",
-    "img": "https://th-i.thgim.com/public/incoming/8i7let/article71227047.ece/alternates/LANDSCAPE_1200/2026-06-22T144855Z_720713080_RC2SRLAGY6SX_RTRMADP_3_NAMIBIA-STARLINK.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/brought-in-for-civilian-use-starlink-is-now-integral-to-ukraines-war-effort/article71225657.ece",
-    "time": "2026-09-05T11:55:24.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Fixing the holes in the education system",
-    "desc": "At a time when conversations are moving more towards banning phones and social media, here’s a glimpse into the conversation I had with Sugata Mitra on various things — from his works and life to his idea being implemented worldwide",
-    "img": "https://th-i.thgim.com/public/incoming/rlipo2/article71388553.ece/alternates/LANDSCAPE_1200/HP187786.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/children/fixing-the-holes-in-the-education-system/article71388530.ece",
-    "time": "2026-09-05T08:40:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
