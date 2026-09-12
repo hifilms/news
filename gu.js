@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "આજે દિલ્હીમાં ભારતનું શક્તિ પ્રદર્શન, PM મોદી-શીની મુલાકાત પર સૌની નજર, જાણો સંપૂર્ણ શેડ્યૂલ",
+    "desc": "ભારતમાં આજથી BRICS Summit 2026 શરૂ થઈ રહી છે. સમિટની સત્તાવાર શરૂઆત બપોરે 2 વાગ્યે થશે અને તેનું પ્રથમ સેશન 2:30 વાગ્યે શરૂ થશે. વિશ્વની નજર આ સમિટ પર ટકેલી છે. બ્રિક્સ દેશોની બેઠક અગાઉ, શુક્રવારે ભારત મંડપમ ખાતે બ્રિક્સ બિઝનેસ ફોરમનું સેશન યોજાયું હતું, જેમાં વૈશ્વિક નેતાઓએ વિશ્વને એક મહત્વપૂર્ણ મેસેજ આપ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/brics-summit-2026-pm-modi-xi-jinping-meeting-delhi-bharat-mandapam-490924 ",
+    "time": "2026-09-12T02:33:54.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "65 કિમી માઇલેજ, સ્પોર્ટી લુક, HEROએ લોન્ચ કર્યું આ બાઈક, જાણો",
     "desc": "હીરોએ 125cc સેગમેન્ટમાં તેની શક્તિશાળી બાઇક અપડેટ કરી છે. અમે વાત કરી રહ્યા છીએ Hero Glamour X 125 વિશે. આ બાઇકમાં હવે સિંગલ-ચેનલ ABS અને ઇન્ટિગ્રેટેડ બ્રેકિંગ સિસ્ટમ છે. કંપનીના જણાવ્યા અનુસાર, ગ્લેમર X આ સેગમેન્ટમાં આ સુવિધા ધરાવતી પહેલી બાઇક છે. ચાલો જાણીએ કે આ બાઇકમાં શું ખાસ છે.",
@@ -493,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/panchayat-fame-actor-aasif-khan-struggle-story-from-waiter-to-successful-actor-490380 ",
     "time": "2026-09-07T04:59:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દિલ્હી બિલ્ડિંગ દુર્ઘટનામાં મૃત્યુઆંક 6 થયો, ઘટના ઘટી તે વખતનું 20 સેકન્ડનું CCTV ફૂટેજ સામે આવ્યું",
-    "desc": "રવિવારે ભર બપોરે દેશની રાજધાની દિલ્હીમાં એક પીજી તરીકે ઉપયોગમાં લેવાતા બિલ્ડિંગના કડડડભૂસ થવાની ઘટનાએ હડકંપ મચાવ્યો છે. આ દુર્ઘટનામાં અત્યાર સુધીમાં 6 લોકોના મોત થયા છે. જ્યારે અનેક લોકો હજુ પણ કાટમાળ નીચે ફસાયેલા હોવાનું જાણવા મળ્યું છે. ઘટના સમયનો એક સીસીટીવી ફૂટેજ પણ સામે આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/delhi-satya-niketan-building-collapse-site-cctv-footage-death-toll-reaches-to-6-490369 ",
-    "time": "2026-09-07T03:24:19.000Z"
   },
   {
     "cat": "World",
