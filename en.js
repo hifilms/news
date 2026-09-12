@@ -1,6 +1,114 @@
 const newsData_en = [
   {
     "cat": "World",
+    "title": "Zelenskyy ready to meet Putin at Miami G20; Kremlin refuses",
+    "desc": "Russia will send officials to a G20 energy meeting in Houston next week; Trump’s special envoy said they hoped to announce the “next steps” of talks to end the war within “a couple of weeks”",
+    "img": "https://th-i.thgim.com/public/incoming/f03th2/article71459712.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_US_9_2_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russian-delegation-to-take-part-in-g20-energy-meeting-zelenskyy-willing-to-meet-putin/article71459618.ece",
+    "time": "2026-09-12T19:37:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BRICS hammers out joint declaration after India bridges Iran-UAE chasm",
+    "desc": "Following intense late-night negotiations, BRICS nations have come together to issue a joint declaration addressing vital issues, including the protection of civilian and peaceful nuclear sites. The leaders reiterated the critical role of constructive dialogue in achieving regional stability. Furthermore, they collectively reaffirmed their resolve to combat terrorism in all its manifestations and called for extensive reforms of the United Nations Security Council.",
+    "img": "https://static.toiimg.com/photo/msid-134153476,imgsize-227368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/brics-hammers-out-joint-declaration-after-india-bridges-iran-uae-chasm/articleshow/134153102.cms",
+    "time": "2026-09-12T19:26:04.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Anthropic CEO",
+    "desc": "To help rein in risks, Dario Amodei suggested that all companies at the frontier of AI commit to giving “ongoing, employee-like access” to a team of outside evaluators, who can monitor safety practices. He said Anthropic already plans to do so itself, including offering desks in its offices, access badges, and company laptops",
+    "img": "https://th-i.thgim.com/public/incoming/8mgnv3/article71461318.ece/alternates/LANDSCAPE_1200/Anthropic_AI_Slowdown__7476.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/ai-industry-needs-to-slow-down-for-safety-anthropic-ceo/article71461300.ece",
+    "time": "2026-09-12T19:00:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "At 28, Navya works at father's Rs 32,500-cr Escorts Kubota, seeks own identity",
+    "desc": "At 28, Navya Naveli Nanda, granddaughter of Amitabh Bachchan, works with her father Nikhil Nanda at Rs 32,500-crore Escorts Kubota. Despite her prominent Bachchan-Nanda family legacy, Navya says she does not want her identity restricted to her surname or family roles, highlighting her efforts to build an independent professional and personal identity.",
+    "img": "https://static.toiimg.com/photo/msid-134152134,imgsize-78120.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/at-28-amitabh-bachchans-granddaughter-navya-naveli-nanda-works-with-father-nikhil-nanda-at-rs-32500-cr-escorts-kubota-says-i-would-never-want-to-restrict-my-identity-beyond-bachchan-nanda-legacy/articleshow/134151943.cms",
+    "time": "2026-09-12T18:56:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Savukku’ Shankar presents falsehoods as facts for financial gain, IPS officer Arun alleges before Madras High Court",
+    "desc": "In his defamation suit, the police officer says the YouTuber gives a false impression to people as if he possesses confidential, authentic, and inside information concerning senior police officers, politicians, public servants, businessmen, corporate entities, and others in positions of responsibility",
+    "img": "https://th-i.thgim.com/public/incoming/r9i467/article71461313.ece/alternates/LANDSCAPE_1200/Arun.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/savukku-shankar-presents-falsehoods-as-facts-for-financial-gain-ips-officer-arun-alleges-before-madras-high-court/article71459588.ece",
+    "time": "2026-09-12T18:47:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Decomposed body of ‘Pak Jaish terrorist’, M4 rifle found in Doda",
+    "desc": "Authorities in Doda's Divshetar have discovered the decomposed body of a suspected Jaish-e-Mohammed terrorist from Pakistan. The remains, thought to have been buried in snow for some time after a previous operation, were found with an M4 rifle. Security forces are currently working to determine the identity of the individual as part of a broader investigation following recent encounters in the Jammu region.",
+    "img": "https://static.toiimg.com/photo/msid-134149908,imgsize-223764.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/decomposed-body-of-pak-jaish-terrorist-m4-rifle-found-in-doda/articleshow/134149836.cms",
+    "time": "2026-09-12T18:29:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SIA searches Poonch, Udhampur in radicalisation probe",
+    "desc": "Jammu and Kashmir State Investigation Agency searched five locations Saturday. These searches occurred in Poonch and Udhampur districts for investigations. The agency is probing alleged secessionist narratives spread through online and offline channels. Investigators found individuals contacted suspicious persons across the Line of Control. Officials will share more details after the searches conclude.",
+    "img": "https://static.toiimg.com/photo/msid-134149744,imgsize-219980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sia-searches-poonch-udhampur-in-radicalisation-probe/articleshow/134149631.cms",
+    "time": "2026-09-12T18:29:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BRICS leaders call for stronger cooperation in disease surveillance, medical product regulation",
+    "desc": "In their New Delhi Declaration, the leaders stressed the importance of strengthening health infrastructure and local production of medical products to enhance preparedness for future health emergencies and ensure timely, affordable and equitable access to healthcare services, vaccines, therapeutics and diagnostics",
+    "img": "https://th-i.thgim.com/public/incoming/tuz4hj/article71461173.ece/alternates/LANDSCAPE_1200/20260912456L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/brics-leaders-call-for-stronger-cooperation-in-disease-surveillance-medical-product-regulation/article71461003.ece",
+    "time": "2026-09-12T18:11:38.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "The Houthis vs Saudi Arabia",
+    "desc": "A parallel state in Yemen, an ideologically committed base, years of warfare, control of the Red Sea coastline and sustained Iranian support have all helped the Shia militant group transform itself into a formidable territorial army and naval force",
+    "img": "https://th-i.thgim.com/public/news/national/84j0gy/article71461142.ece/alternates/LANDSCAPE_1200/Final%2013%20Red%20sea.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/the-houthis-vs-saudi-arabia-the-new-lords-of-the-red-sea/article71461151.ece",
+    "time": "2026-09-12T17:57:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kylie sells Hidden Hills mansion for $15.3m after listing it for $20.25m",
+    "desc": "Reality TV star and fashion mogul Kylie Jenner has sold her 13,200-square-foot Hidden Hills mansion for $15.3 million after listing it for $20.25 million. She purchased the sprawling California property for $12.05 million in 2016, aged 19. The lavish 1.4-acre estate features eight bedrooms, eight bathrooms, a pool, spa, home theatre and multiple entertainment spaces.",
+    "img": "https://static.toiimg.com/photo/msid-134148930,imgsize-104248.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/real-estate/news/kylie-jenner-sells-hidden-hills-mansion-for-15-3-million-after-listing-it-for-20-25-million-bought-13200-square-foot-home-for-12-05-million-at-19/articleshow/134148447.cms",
+    "time": "2026-09-12T17:55:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gangster's extradition from Moldova shows Mann government's resolve: Punjab minister",
+    "desc": "Punjab secured its first gangster extradition from Europe, showcasing the government's firm stance. Amritpal Singh, a Jaggu Bhagwanpuria gang operative, was extradited from Moldova. The government stated previous administrations allowed gangsterism to flourish unchecked. The Overseas Fugitive Tracking and Extradition Cell has brought back ten wanted fugitives. Twenty-one more extradition proposals are currently pending with the central government.",
+    "img": "https://static.toiimg.com/photo/msid-134148490,imgsize-60602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/gangsters-extradition-from-moldova-shows-mann-governments-resolve-punjab-minister/articleshow/134148369.cms",
+    "time": "2026-09-12T17:45:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hockey India president strips DG of powers, issues show-cause notice",
+    "desc": "In a detailed communication issued through advocate Himanshu Chaturvedi, a copy of which is with TOI, Srivastava was informed that all authority ordinarily exercised by him as director general would remain in abeyance with immediate effect pending further consideration under the Hockey India Bye-Laws.",
+    "img": "https://static.toiimg.com/photo/msid-134147383,imgsize-39310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-india-president-dilip-tirkey-strips-dg-of-powers-issues-show-cause-notice/articleshow/134147245.cms",
+    "time": "2026-09-12T17:26:32.000Z"
+  },
+  {
+    "cat": "World",
     "title": "U.S. House of Representatives to take up Russia sanctions bill next week",
     "desc": "Ukrainian civilians continue to be killed by Putin’s war machine, and this bill hits the Kremlin’s coffers hard; Now is the time to pass it and force Putin to the negotiating table, said Senate Foreign Relations ranking member Jeanne Shaheen",
     "img": "https://th-i.thgim.com/public/incoming/8x2ra7/article71461192.ece/alternates/LANDSCAPE_1200/Army_Drones_52948.jpg",
@@ -54,15 +162,6 @@ const newsData_en = [
     "time": "2026-09-12T16:05:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Critical care centres in GGHs to benefit poor, says Minister",
-    "desc": "Chief Minister virtually inaugurates critical care blocks in Ongole and Nellore GGHs; inaugurating the block at Ongole, Dola Sree Bala Veeranjaneya Swamy says CCBs have been established across the State to provide immediate, high-level emergency medical care to critically ill patients in life-threatening situations",
-    "img": "https://th-i.thgim.com/public/incoming/7we9qg/article71460982.ece/alternates/LANDSCAPE_1200/10215_12_9_2026_21_4_41_1_WHATSAPPIMAGE2026_09_12AT90139PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/critical-care-centres-in-gghs-to-benefit-poor-says-minister/article71460826.ece",
-    "time": "2026-09-12T15:55:51.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "4 memorable times the Tamil stars met in the past",
     "desc": "Former actor and Tamil Nadu Chief Minister Vijay’s meeting with actor and racer Ajith Kumar on the sidelines of the Michelin Le Mans Cup at Silverstone in the UK has taken the Internet by storm",
@@ -97,42 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/armaan-malik-hits-back-at-trolls-calling-him-and-amaal-mallik-ungrateful-to-salman-khan-amid-main-hoon-hero-tera-credit-row-dont-talk-about-gratitude/articleshow/134140672.cms",
     "time": "2026-09-12T15:46:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM holds series of bilateral meetings, hails India-UAE ties as ‘symbol of stability’",
-    "desc": "Apart from talks with the Crown Prince of Abu Dhabi, Sheikh Khaled bin Mohamed, Narendra Modi also held meetings with the Prime Ministers of Ethiopia, Vietnam and Malaysia on the sidelines of the 18th BRICS Summit in New Delhi",
-    "img": "https://th-i.thgim.com/public/incoming/8hy2e2/article71460938.ece/alternates/LANDSCAPE_1200/2026-09-12T140639Z_834183879_RC2PHNASDWAV_RTRMADP_3_BRICS-SUMMIT.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-holds-series-of-bilateral-meetings-hails-india-uae-ties-as-symbol-of-stability/article71460342.ece",
-    "time": "2026-09-12T15:46:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Protests erupt over abrupt closure of Kurnool Outdoor Stadium",
-    "desc": "Gym users who gathered at the venue in large numbers allege that the facility was being closed on the orders of the District Sports Development Officer, raise slogans demanding that Minister Bharath Gupta intervene and resolve the issue",
-    "img": "https://th-i.thgim.com/public/incoming/wfm7zl/article71460934.ece/alternates/LANDSCAPE_1200/10215_12_9_2026_20_57_15_1_WHATSAPPIMAGE2026_09_12AT85212PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/protests-erupt-over-abrupt-closure-of-kurnool-outdoor-stadium/article71459831.ece",
-    "time": "2026-09-12T15:34:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Forest officials launch drive to protect wildlife in Chittoor",
-    "desc": "The initiative has gained significance following the recent death of a mother deer and its fawn in an attack by stray dogs; DFO says awareness camps will be conducted for roadside eatery operators and walkers’ associations as part of efforts to prevent stray dogs from moving freely along the forest road and inside city park",
-    "img": "https://th-i.thgim.com/public/incoming/e3zwev/article71460922.ece/alternates/LANDSCAPE_1200/10215_12_9_2026_20_58_5_1_WHATSAPPIMAGE2026_09_12AT85212PM1.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/forest-officials-launch-drive-to-protect-wildlife-in-chittoor/article71459901.ece",
-    "time": "2026-09-12T15:32:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Deadlock among rebel Congress leaders opens door for KC(M) in Pala municipality",
-    "desc": "Rebel Congress councillors, whose alliance with the LDF helped wrest control of the municipality, have failed to reach a consensus on the municipal vice-chairperson’s post despite multiple rounds of discussions. KC(M), which had earlier decided against staking claim to any post, mulls fielding candidate for the September 16 election",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/deadlock-among-rebel-congress-leaders-opens-door-for-kcm-in-pala-municipality/article71459984.ece",
-    "time": "2026-09-12T15:29:05.000Z"
   },
   {
     "cat": "World",
@@ -279,24 +342,6 @@ const newsData_en = [
     "time": "2026-09-12T12:36:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Air India pilot dies during Delhi layover",
-    "desc": "In a tragic incident, a Mumbai-based Air India pilot was discovered unconscious in his hotel room during a layover in Delhi on Friday. Despite immediate efforts to rush him to a hospital, he sadly succumbed. Recently transferred from Air India Express to the main airline, his brother raised the alarm after repeated calls went unanswered. Authorities are now awaiting post-mortem results to ascertain the cause of his untimely death.",
-    "img": "https://static.toiimg.com/photo/msid-134131901,imgsize-90014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/air-india-pilot-dies-during-delhi-layover/articleshow/134131804.cms",
-    "time": "2026-09-12T12:33:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi greets leaders before Rameswaram backdrop; Xi stops for a closer look",
-    "desc": "Prime Minister Narendra Modi welcomed world leaders at the Brics summit. The summit backdrop featured the iconic Ramanathaswamy Temple from Tamil Nadu. Leaders engaged in high-profile diplomatic discussions during the summit. India hosted the 18th Brics summit focusing on cooperation and sustainability.",
-    "img": "https://static.toiimg.com/photo/msid-134131789,imgsize-889957.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-link-at-brics-pm-modi-greets-leaders-before-rameswaram-backdrop-xi-stops-for-a-closer-look/articleshow/134130896.cms",
-    "time": "2026-09-12T12:32:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "England complete 3-0 Test series clean sweep with 8-wicket win over Pakistan",
     "desc": "The eight-wicket defeat completed a disappointing series for Pakistan. England won the opening Test at Headingley by an innings and 103 runs before securing a 194-run victory in the second Test at Lord's. They then finished the series in style, overcoming the early loss of two wickets to complete an eight-wicket win and a historic 3-0 clean sweep.",
@@ -322,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-salman-khan-aamir-khan-in-talks-for-a-superhero-film-with-r-balki-and-sajid-nadiadwala/articleshow/134130796.cms",
     "time": "2026-09-12T12:16:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Moldova extradites wanted Punjab gangster Amritpal Singh to India after Red Notice",
-    "desc": "Amritpal Singh, a Red Notice subject, has been extradited from Moldova to India. He is wanted in Punjab for serious criminal cases including murder and drug offenses. The extradition followed coordination between Indian agencies and Moldovan authorities. Singh was apprehended near the Moldova border after an Interpol Red Notice was issued. He will now face multiple criminal charges registered against him in Punjab.",
-    "img": "https://static.toiimg.com/photo/msid-134129020,imgsize-885111.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/moldova-extradites-wanted-punjab-gangster-amritpal-singh-to-india-after-red-notice/articleshow/134128473.cms",
-    "time": "2026-09-12T11:42:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -378,24 +414,6 @@ const newsData_en = [
     "time": "2026-09-12T11:02:51.000Z"
   },
   {
-    "cat": "World",
-    "title": "Russian delegation to take part in G20 energy meeting, Zelenskyy willing to meet Putin",
-    "desc": "The United States holds this year's presidency of the Group of 20 major economies, which comprises 19 countries plus the European Union and the African Union, and culminates in a leaders' summit in Miami in December",
-    "img": "https://th-i.thgim.com/public/incoming/f03th2/article71459712.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_US_9_2_1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/russian-delegation-to-take-part-in-g20-energy-meeting-zelenskyy-willing-to-meet-putin/article71459618.ece",
-    "time": "2026-09-12T10:51:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Why ‘Hanuman Ansh’ won’t be India’s official Oscar entry this year",
-    "desc": "Hanuman Ansh is venturing into new territories by dubbing its film in Telugu, with the renowned filmmaker Trivikram Srinivas on board. In addition, the creators are introducing a video game and a comic book to complement the film. However, the team faced hurdles for overseas distribution and unfortunately missed the Oscar submission deadline amid various projects. Looking ahead, they are considering a sequel and further development of the film's universe.",
-    "img": "https://static.toiimg.com/photo/msid-134125302,imgsize-469739.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hanuman-ansh-producer-reveals-why-the-film-wont-be-indias-official-oscar-entry-this-year-we-are-a-really-small-team/articleshow/134125084.cms",
-    "time": "2026-09-12T10:37:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'No player better than me': Mbappe makes Ballon d’Or case",
     "desc": "\"I believe I can win it this year. It’s one of my goals,\" Mbappe said, as quoted by news agency Reuters. \"People say I didn’t win a trophy (for club or country), but it’s an individual award. I’ve never seen a Ballon d’Or winner elected unanimously.",
@@ -403,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/no-player-better-than-me-mbappe-makes-ballon-dor-case-with-messi-and-ronaldo-era-reference/articleshow/134123579.cms",
     "time": "2026-09-12T10:37:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vishnu Vishal sends strong message to fans over fallout with actor Soori",
-    "desc": "Vishnu Vishal has urged his fans to refrain from discussing his past disagreement with actor Soori, emphasizing that their differences have been amicably resolved since 2024. The confusion leading to their fallout in 2020, which stemmed from a land deal, was reportedly instigated by a third party. Their public reconciliation in 2024 marks a new chapter in their relationship.",
-    "img": "https://static.toiimg.com/photo/msid-134124772,imgsize-154031.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/stop-this-nonsense-high-time-u-guys-also-move-on-vishnu-vishal-sends-strong-message-to-fans-over-fallout-with-mandaadi-star-soori-says-misunderstandings-were-settled-in-2024/articleshow/134124719.cms",
-    "time": "2026-09-12T10:30:26.000Z"
   },
   {
     "cat": "Business",
@@ -442,7 +451,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Haiwaan' BO Day 2 [LIVE]: Akshay Kumar, Saif Ali Khan eyes Rs 5 crore India net milestone",
+    "title": "Akshay, Saif film’s worldwide gross climbs to Rs 8.60 crore in 2 days",
     "desc": "'Haiwaan', the Priyadarshan-directed crime thriller starring Akshay Kumar and Saif Ali Khan, has opened to a modest response at the box office, entering Day 2 with its overall net collection still under Rs. 4 crore. The film, a remake of Priyadarshan's own Malayalam hit 'Oppam', now faces the challenge of building momentum through its first weekend as it competes for screen space and audience attention against other major releases currently running in theatres.",
     "img": "https://static.toiimg.com/photo/msid-134119900,imgsize-69852.cms",
     "src": "indiatimes.com",
@@ -469,9 +478,9 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Mirzapur The Movie' BO Day 9 [LIVE]: Pankaj Tripathi film crosses Rs 163 crore India net",
+    "title": "'Mirzapur The Movie' crosses Rs 245 crore globally in 9 days",
     "desc": "'Mirzapur The Movie' has comfortably crossed the Rs. 150 crore mark in India as it enters Day 9, with its net collection now standing at Rs. 159.63 crore. The Pankaj Tripathi, Ali Fazal and Ravi Kishan starrer has settled into a slower but steady second-week pace, even as the film's overall worldwide tally pushes well past Rs. 225 crore. With the Rs. 150 crore milestone now behind it, attention has shifted to how much further the crime drama can stretch its theatrical run in the coming days.",
-    "img": "https://static.toiimg.com/photo/msid-134116887,imgsize-98621.cms",
+    "img": "https://static.toiimg.com/photo/msid-134116812,imgsize-98621.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-9-live-pankaj-tripathi-ali-fazal-ravi-kishan-film-holds-strong-amid-akshay-kumar-and-saif-ali-khans-haiwaan-release-targets-rs-175-crore-domestic-net-after-crossing-rs-225-crore-globally/articleshow/134116812.cms",
     "time": "2026-09-12T07:54:48.000Z"
@@ -592,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-diesel-prices-at-record-6-american-farmers-feel-the-heat-as-harvest-season-begins/articleshow/134103442.cms",
     "time": "2026-09-12T02:29:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan's Razaullah Khan scripts history, enters record books on Test debut",
-    "desc": "Razaullah Khan's Test debut at Edgbaston turned heads as he launched nine sixes, establishing a new record for a No. 9 batter. Despite this impressive performance, Pakistan faced an innings defeat. His partnership with Mohammad Abbas was vital in helping the team avoid total collapse. As the match progresses, England requires just 130 runs to secure the series victory.",
-    "img": "https://static.toiimg.com/photo/msid-134103523,imgsize-105310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistans-razaullah-khan-scripts-history-enters-record-books-on-test-debut/articleshow/134103285.cms",
-    "time": "2026-09-12T02:24:40.000Z"
   },
   {
     "cat": "Business",
@@ -819,15 +819,6 @@ const newsData_en = [
     "time": "2026-09-10T05:58:56.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Keralam’s multiplex pricing debate: SC order in 2023 permits cinema hall owners to fix food prices",
-    "desc": "Supreme Court ruling in K.C. Cinema vs State of Jammu and Kashmir case termed cinema halls as private properties of its owners and upheld their right to prohibit patrons from bringing outside food and beverages, holding that such restrictions are not against public interest, safety or welfare",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/877p6j/article71450227.ece/alternates/LANDSCAPE_1200/pop.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/keralams-multiplex-pricing-debate-sc-order-in-2023-permits-eateries-in-multiplexes-to-fix-price-of-foodstuff/article71450121.ece",
-    "time": "2026-09-10T05:22:41.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Apple 'Surprise and Shine' HIGHLIGHTS: iPhone 18 Pro, iPhone 18 Pro Max, iPhone Duo foldable, AirPods 5, Apple Watch Series 12, and Apple Watch Ultra 4 announced",
     "desc": "Apple announced the iPhone 18 Pro, iPhone 18 Pro Max, iPhone Duo foldable, AirPods 5, Apple Watch Series 12, and Apple Watch Ultra 4. There were no updates about the iPhone 18 model and the iPhone Air 2",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
