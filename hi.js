@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "England complete clean sweep, despite Pakistan's threatening performance in second innings of Edgbaston Test",
+    "desc": "England defeated Pakistan by eight wickets in the third and final Test at Edgbaston on Saturday, completing a 3-0 series sweep after chasing down a target of 130 on the fourth day. Joe Root and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-complete-clean-sweep-despite-pakistan-s-threatening-performance-in-second-innings-of-edgbaston-test-2026-09-12-1054052",
+    "time": "2026-09-12T12:09:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammed Siraj named new Hyderabad captain for upcoming Ranji Trophy season",
+    "desc": "Mohammed Siraj will captain Hyderabad in the 2026-27 Ranji Trophy season. Hyderabad Cricket Association (HCA) has confirmed the development. They also appointed fellow pacer Chama Milind as the vice-captain of the side. Currently, the team...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-siraj-named-new-hyderabad-captain-for-upcoming-ranji-trophy-season-2026-09-12-1054050",
+    "time": "2026-09-12T11:49:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi Police issues traffic advisory before India vs Afghanistan 1st T20I at Arun Jaitley Stadium",
+    "desc": "Afghanistan will host India for a three-match T20I series at Arun Jaitley Stadium, starting September 13. Since the opening match will clash with the ongoing BRICS summit in the capital, traffic movement around the stadium...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-police-issues-traffic-advisory-before-india-vs-afghanistan-1st-t20i-at-arun-jaitley-stadium-2026-09-12-1054047",
+    "time": "2026-09-12T11:10:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Elena Rybakina reveals her game plan before facing Aryna Sabalenka in US Open final",
+    "desc": "Aryna Sabalenka defeated Jessica Pegula to keep her dreams alive of completing a hat-trick of US Open women's singles titles. In the final at the Arthur Ashe Stadium, she will compete against Elena Rybakina, who...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/elena-rybakina-reveals-her-game-plan-before-facing-aryna-sabalenka-in-us-open-final-2026-09-12-1054042",
+    "time": "2026-09-12T10:30:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India Legends to play Pakistan in WCL after boycotting them last year following Pahalgam attack",
+    "desc": "India are set to clash with Pakistan in the World Championship Legends in Dubai on October 10. The fixture comes less than a year after the rivalry produced two abandoned encounters in the previous edition....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-legends-to-play-pakistan-in-wcl-after-boycotting-them-last-year-following-pahalgam-attack-2026-09-12-1054039",
+    "time": "2026-09-12T09:49:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Supriya's hat-trick fires India into Junior Asia Cup final after thrashing win over South Korea",
+    "desc": "India moved into the final of the Hockey Junior Asia Cup after a commanding 5-1 win over South Korea in the first semifinal. Drag-flick specialist Supriya rose to the occasion and scored three goals from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/supriya-s-hat-trick-fires-india-into-junior-asia-cup-final-after-thrashing-win-over-south-korea-2026-09-12-1054033",
+    "time": "2026-09-12T08:16:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India's ODI World Cup 2025 winner joins Barbados Tridents for rest of WCPL 2026",
     "desc": "Harleen Deol has joined Barbados Tridents for the remainder of the 2026 Women’s Caribbean Premier League. The defending champions have penned a short-term deal with the India international till the end of the season. Following...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/fenerbahce-coach-announces-shocking-resignation-during-press-conference-club-refuses-to-accept-2026-09-11-1053982",
     "time": "2026-09-11T12:35:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manav Suthar equals 131-year-old record during County Championship clash vs Glamorgan",
-    "desc": "Star India spinner Manav Suthar has entered an exclusive chapter of first-class cricket after producing a remarkable spell of control for Warwickshire against Glamorgan in the County Championship. The 26-year-old Rajasthan left-arm spinner finished the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/manav-suthar-equals-131-year-old-record-during-county-championship-clash-vs-glamorgan-2026-09-11-1053971",
-    "time": "2026-09-11T11:00:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan teases Vaibhav Sooryavanshi over DRS credit after East Zone triumph in Duleep Trophy",
-    "desc": "Vaibhav Sooryavanshi’s growing reputation as East Zone’s unofficial DRS expert became a source of humour after the 15-year-old played a role in three successful reviews during the team’s Duleep Trophy campaign. After the win over South...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-teases-vaibhav-sooryavanshi-over-drs-credit-after-east-zone-triumph-in-duleep-trophy-watch-2026-09-11-1053965",
-    "time": "2026-09-11T10:18:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammad Rizwan, Imam-ul-Haq questioned by Pakistan Cyber Crime Agency after England tour fallout",
-    "desc": "Pakistan cricketers Mohammad Rizwan and Imam-ul-Haq appeared before the National Cyber Crimes Investigation Agency (NCCIA) in Lahore. Both players had been among seven members of the squad sent home after Pakistan’s defeat at Lord’s in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-rizwan-imam-ul-haq-questioned-by-pakistan-cyber-crime-agency-after-england-tour-fallout-2026-09-11-1053960",
-    "time": "2026-09-11T09:31:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shree Charani breaks Kuldeep Yadav's record in Asia Cup semi-final vs Bangladesh",
-    "desc": "In the Asia Cup 2026 semi-final against Bangladesh, spinner Shree Charani became the fastest Indian bowler to complete 50 wickets in T20Is. She reached the landmark in 29 T20Is and with that, the 22-year-old surpassed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shree-charani-breaks-kuldeep-yadav-s-record-in-asia-cup-semi-final-vs-bangladesh-2026-09-11-1053948",
-    "time": "2026-09-11T07:59:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tanya Chaudhary, Nirbhay Choudhary break national records in Indian Athletics final",
-    "desc": "Nirbhay Choudhary set a new national record in Indian men’s hammer throw with a 71.02m throw at the Indian Athletics Final Series 2026. Neeraj Kumar previously held the record with a throw of 70.23m in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/tanya-chaudhary-nirbhay-choudhary-break-national-records-in-indian-athletics-final-2026-09-11-1053940",
-    "time": "2026-09-11T06:44:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Elena Rybakina, Aryna Sabalenka qualify for US Open final; No 1 and No 2 seeds meet for first time since 2013",
-    "desc": "Elena Rybakina made it to the US Open final after overcoming American fourth seed Coco Gauff 3-6, 6-4, 6-4 in the semi-final. That sets up a clash against defending champion Aryna Sabalenka in the final...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/elena-rybakina-aryna-sabalenka-qualify-for-us-open-final-no-1-and-no-2-seeds-meet-for-first-time-since-2013-2026-09-11-1053932",
-    "time": "2026-09-11T05:18:00.000Z"
   }
 ];
