@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India's ODI World Cup 2025 winner joins Barbados Tridents for rest of WCPL 2026",
+    "desc": "Harleen Deol has joined Barbados Tridents for the remainder of the 2026 Women’s Caribbean Premier League. The defending champions have penned a short-term deal with the India international till the end of the season. Following...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-s-odi-world-cup-2025-winner-joins-barbados-tridents-for-rest-of-wcpl-2026-2026-09-12-1054029",
+    "time": "2026-09-12T07:01:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ben Shelton through to first Grand Slam final in US Open, to challenge in-form Alexander Zverev",
+    "desc": "Ben Shelton reached his first Grand Slam final, beating fellow American Frances Tiafoe at Artur Ashe Stadium in the US Open. The eighth seed recovered from an opening-set setback to beat Tiafoe 4-6, 6-3, 6-3,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/ben-shelton-through-to-first-grand-slam-final-in-us-open-to-challenge-in-form-alexander-zverev-2026-09-12-1054023",
+    "time": "2026-09-12T05:07:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Razaullah makes Pakistan thrive under chaos, equals 18-year-old record with stunning show vs England",
+    "desc": "Debutante Razaullah Khan has put some life in Pakistan cricket. After suffering back-to-back defeats, the visitors once again had a rough outing with the bat in the first innings of the third Test against England...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/razaullah-makes-pakistan-thrive-under-chaos-equals-18-year-old-record-with-stunning-show-vs-england-2026-09-12-1054020",
+    "time": "2026-09-12T04:30:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Fenerbahce coach announces shocking resignation during press conference; club refuses to accept",
     "desc": "Ismail Kartal announced his resignation as Fenerbahce head coach shortly after the Turkish club drew 1-1 with Roma in the Champions League. However, President Aziz Yildirim immediately rejected the decision and insisted the 65-year-old remains...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/elena-rybakina-aryna-sabalenka-qualify-for-us-open-final-no-1-and-no-2-seeds-meet-for-first-time-since-2013-2026-09-11-1053932",
     "time": "2026-09-11T05:18:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vinesh Phogat barred from World Championship trials, Delhi High Court denies plea",
-    "desc": "The Delhi High Court has denied wrestler Vinesh Phogat’s request to take part in the selection trials for the World Championships 2026. Justice Swarana Kanta Sharma rejected Phogat’s plea for interim relief late Thursday, holding...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/vinesh-phogat-barred-from-world-championship-trials-delhi-high-court-denies-plea-2026-09-11-1053929",
-    "time": "2026-09-11T04:39:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shafali Verma, Deepti Sharma star as India hammer Bangladesh to storm into Asia Cup 2026 final",
-    "desc": "Riding onto the blistering inning by Shafali Verma and a strong bowling performance by Deepti Sharma, the Harmanpreet Kaur-led Indian women's cricket team defeated Bangladesh at the Dubai International Cricket Stadium on Thursday to storm into...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-women-defeat-bangladesh-by-40-runs-storm-into-asia-cup-2026-final-2026-09-10-1053910",
-    "time": "2026-09-10T17:41:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs Afghanistan 1st T20I to go ahead as scheduled, clarifies DDCA after Delhi Police's request",
-    "desc": "The Delhi and District Cricket Association (DDCA) on Thursday clarified that the first T20I between India and Afghanistan will go ahead as per the schedule on Sunday (September 13) at the Arun Jaitley Stadium in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-police-requests-ddca-to-postpone-india-s-opening-t20i-against-afghanistan-explains-reason-2026-09-10-1053894",
-    "time": "2026-09-10T12:52:38.000Z"
   }
 ];
