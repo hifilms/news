@@ -1,5 +1,113 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Sunita Ahuja dances her heart out as she welcomes Ganpati Bappa, fans ask about Govinda",
+    "desc": "Sunita Ahuja welcomed Ganpati Bappa home, continuing a family tradition. Videos of her celebrating have circulated widely on social media platforms. This Ganesh Chaturthi occurs amidst ongoing speculation about her marriage to Govinda. Sunita had previously visited the family court with her son. The actress also made public comments regarding Govinda's alleged relationship with another actress.",
+    "img": "https://static.toiimg.com/photo/msid-134221776,imgsize-350131.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-ji-kahan-hai-fans-question-as-sunita-ahuja-dances-her-heart-out-while-welcoming-ganpati-bappa-alone-at-home-amid-cheating-allegations-on-her-husband/articleshow/134221352.cms",
+    "time": "2026-09-13T19:28:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India women's team refuses to take Asia Cup trophy from Mohsin Naqvi",
+    "desc": "India captain Harmanpreet Kaur and her teammates were seen celebrating after their record-extending eighth Women's Asia Cup title. However, the Indian team did not collect the trophy from Naqvi during the presentation ceremony. The ceremony ended with Sri Lanka receiving their runners-up cheque, medals and mementoes from the officials.",
+    "img": "https://static.toiimg.com/photo/msid-134221200,imgsize-48765.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-womens-team-refuses-asia-cup-trophy-from-mohsin-naqvi-after-title-win/articleshow/134220894.cms",
+    "time": "2026-09-13T19:12:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, France boost space cooperation with 3 key agreements between their companies",
+    "desc": "India and France have taken a significant leap in space collaboration, with new agreements enhancing their partnership. These arrangements include satellite launch agreements and the development of space surveillance systems. Notably, France's Safran Space will provide essential technology for India's SBS-III constellation, while RIDE! is set to facilitate the launch of two satellites for orbital data centers. This collaboration merges French innovation with India's extensive industrial expertise.",
+    "img": "https://static.toiimg.com/photo/msid-134221228,imgsize-102316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-france-boost-space-cooperation-with-3-key-agreements-between-their-companies/articleshow/134221099.cms",
+    "time": "2026-09-13T19:12:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, Vietnam agree to accelerate defence technology sharing, boost maritime ties",
+    "desc": "India and Vietnam are set to boost their defense technology cooperation, emphasising the importance of maritime and defense collaboration for enhancing regional stability. This decision emerged after talks between Prime Ministers Narendra Modi and Le Minh Hung, highlighting the recent BrahMos missile system export deal. The nations will also engage in multilateral dialogues and future discussions on defense policies.",
+    "img": "https://static.toiimg.com/photo/msid-134221020,imgsize-174880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-vietnam-agree-to-accelerate-defence-technology-sharing-boost-maritime-ties/articleshow/134220860.cms",
+    "time": "2026-09-13T19:08:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ladakh begins reviving Tso Kar glacial lake",
+    "desc": "In an ambitious move, the Ladakh administration is undertaking the revival of Tso Kar glacial lake by channeling glacier water towards it. This project aims to rejuvenate the lake's ecosystem within a year, propelled by prior success with a water diversion initiative near Leh. Local villagers have voiced concerns about the lake's ecological deterioration and its broader environmental implications, prompting efforts to establish new wetlands and habitats for migratory birds.",
+    "img": "https://static.toiimg.com/photo/msid-134220365,imgsize-89028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ladakh-begins-reviving-tso-kar-glacial-lake/articleshow/134219974.cms",
+    "time": "2026-09-13T18:57:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Stalled ferry services to two key jetties hit tourists, commuters",
+    "desc": "SWTD attributes the delay in resuming services to the Mattancherry jetty to the pending dredging on its premises. It says the Kamalakadavu jetty is yet to be handed over by CSML despite the completion of pontoon and allied works.",
+    "img": "https://th-i.thgim.com/public/incoming/x5tk6h/article71464450.ece/alternates/LANDSCAPE_1200/Boat_jetty04.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/tourists-hit-as-ferry-services-to-two-kochi-prime-jetties-remain-stalled/article71462982.ece",
+    "time": "2026-09-13T18:49:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A year on, Rs 15 lakh for kin of 4 killed in Leh firing",
+    "desc": "Ladakh's Lieutenant Governor announced compensation for four protesters killed last September. An ex gratia of Rs 3 lakh for major injuries and Rs 1 lakh for minor injuries was also approved. This follows demonstrations demanding statehood and constitutional safeguards under Schedule Six. Authorities imposed restrictions and arrested over eighty people after the violent protests occurred. Cases against those arrested will be withdrawn and victims will receive compensation.",
+    "img": "https://static.toiimg.com/photo/msid-134219785,imgsize-203262.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/a-year-on-rs-15-lakh-for-kin-of-4-killed-in-leh-firing/articleshow/134219676.cms",
+    "time": "2026-09-13T18:46:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India avenge 2024 final defeat, beat Sri Lanka to lift 8th Asia Cup title",
+    "desc": "In an exhilarating final, India Women clinched the Women's T20 Asia Cup title by overcoming Sri Lanka. Shafali Verma and Smriti Mandhana stood out, crafting a robust opening partnership that propelled India’s score. The bowlers shone, especially Shree Charani, who captured four wickets and effectively dismantled Sri Lanka's batting lineup, securing India's remarkable eighth victory in this prestigious tournament.",
+    "img": "https://static.toiimg.com/photo/msid-134217476,imgsize-1273384.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/harmanpreets-india-avenge-2024-final-defeat-beat-sri-lanka-by-72-runs-to-lift-eighth-womens-asia-cup-title/articleshow/134217047.cms",
+    "time": "2026-09-13T18:08:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Hanuman Ansh' missed being India's entry for Oscars 2027 due to THIS reason",
+    "desc": "Hanuman Ansh will not represent India at the Oscars this year after missing the submission deadline. The film's team cited overwhelming responsibilities and a small workforce as reasons for the oversight. They are currently prioritizing dubbing the movie into Telugu and other languages for wider release. The film continues its successful theatrical run, maintaining strong box office collections.",
+    "img": "https://static.toiimg.com/photo/msid-134217363,imgsize-227366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hanuman-ansh-missed-being-indias-entry-for-oscars-2027-due-to-this-reason-despite-crossing-rs-200-crore-in-india-theres-hardly-anyone-in-the-office/articleshow/134217113.cms",
+    "time": "2026-09-13T18:05:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Judi Dench",
+    "desc": "Judi Dench expresses a profound belief in confronting harsh realities rather than seeking comfort. This notion, explored through her character in 'Notes on a Scandal', reflects a timeless understanding of human behavior. Dench’s remarkable journey from her humble beginnings and diverse stage presence to notable film roles, such as those in James Bond, has solidified her as a cinematic powerhouse.",
+    "img": "https://static.toiimg.com/photo/msid-134195525,imgsize-854702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-judi-dench-it-takes-courage-to-recognise-the-real-as-opposed-to-the-convenient-a-powerful-life-lesson-explaining-that-it-takes-ultimate-strength-to-face-an-uncomfortable-truth/articleshow/134195326.cms",
+    "time": "2026-09-13T17:54:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ramayana' first song 'Jai Jai Ram' to be out on 7 30 am on Ganesh Chaturthi",
+    "desc": "30 AM IST on September 14. Following the poster, the first song, Jai Jai Ram, will be released. This track features music by AR Rahman and vocals by Shreya Ghoshal and Arijit Singh. The epic adaptation is scheduled for a two-part release starting in November 2026.",
+    "img": "https://static.toiimg.com/photo/msid-134216618,imgsize-224666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-first-song-jai-jai-ram-crooned-by-arijit-singh-shreya-goshal-to-be-out-on-ganesh-chaturthi-ranbir-kapoor-sai-pallavis-siya-ram-poster-to-be-unveiled/articleshow/134216451.cms",
+    "time": "2026-09-13T17:51:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek’s fifty, Arshdeep’s 3-for lead India to seven-wicket win over Afghanistan",
+    "desc": "India dominated the first T20I, achieving a decisive seven-wicket victory over Afghanistan. The highlight was Abhishek Sharma, whose explosive 82 runs from 32 balls led the charge against a target of 156 set by Afghanistan, despite their recovery efforts from Omarzai and Nabi. On the bowling side, Arshdeep Singh excelled with 3 wickets for just 19 runs, allowing India to take a lead of 1-0 in this thrilling three-match series.",
+    "img": "https://static.toiimg.com/photo/msid-134215525,imgsize-159970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharmas-22-ball-fifty-arshdeeps-three-for-lead-india-to-seven-wicket-win-over-afghanistan-in-1st-t20i/articleshow/134215096.cms",
+    "time": "2026-09-13T17:37:01.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Uttarakhand CM Dhami encourages youth participation in shaping 'developed Uttarakhand by 2047' at 'Mukhyamantri Yuva Vidyarthi Manthan'",
     "desc": "Uttarakhand Chief Minister Pushkar Singh Dhami on Sunday participated in the 'Mukhyamantri Yuva Vidyarthi Manthan' programme, organised on the theme 'Mere Sapno Ka Uttarakhand' at the auditorium located at the Chauras campus of Hemwati Nandan Bahuguna Garhwal University.",
@@ -7,15 +115,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/uttarakhand-cm-dhami-encourages-youth-participation-in-shaping-developed-uttarakhand-by-2047-at-mukhyamantri-yuva-vidyarthi-manthan/articleshow/134215420.cms",
     "time": "2026-09-13T17:29:57.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "There is no such thing as a ‘UN map with borders’: Guterres",
-    "desc": "India has written to the UN, objecting to “anomalies” in the depiction of Arunachal Pradesh and Aksai Chin in a map used during the consultation process for the ‘Correct the Map’ resolution, passed by the UN General Assembly",
-    "img": "https://th-i.thgim.com/public/incoming/a56g9w/article71464292.ece/alternates/LANDSCAPE_1200/2026-08-31T155529Z_2088794568_RC2Q9NAN8Y3E_RTRMADP_3_SCO-SUMMIT-KYRGYZSTAN-NOMAD-GAMES.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/there-is-no-such-thing-as-a-un-map-with-borders-guterres/article71464117.ece",
-    "time": "2026-09-13T17:16:12.000Z"
   },
   {
     "cat": "Politics",
@@ -126,15 +225,6 @@ const newsData_en = [
     "time": "2026-09-13T15:22:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "No restrictions on private vehicles during Tirumala Brahmotsavams, say police",
-    "desc": "Condemning the social media post to this effect, Superintendent of Police Subbarayudu says that a case will be filed on the false campaign, and advises pilgrims not to give credence to such mala fide information",
-    "img": "https://th-i.thgim.com/public/incoming/ecmak3/article71464042.ece/alternates/LANDSCAPE_1200/10215_13_9_2026_19_46_15_1_IMG_20260913_WA0057.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/no-restrictions-on-private-vehicles-during-tirumala-brahmotsavams-say-police/article71463951.ece",
-    "time": "2026-09-13T15:17:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Vande Mataram' sung before India vs Afghanistan in a first for national team",
     "desc": "The national song Vande Mataram was sung before the India vs Afghanistan cricket match on Sunday. Parliament had recently passed a bill making insults to the national song a punishable offense. The full six-stanza version of Vande Mataram was sung during the recent match. This amendment extends legal protection to the national song, similar to the national anthem.",
@@ -151,24 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-on-ganesh-chaturthi-where-are-banks-closed-on-september-14-check-state-wise-list/articleshow/134207409.cms",
     "time": "2026-09-13T15:05:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Three bonded labourers rescued at Kalasthambadi  in Tiruvannamalai district",
-    "desc": "K. Viji, 25, his wife V. Sasikala, 23, and his brother K. Surya, 19, were forced to stay in small huts without proper access to drinking water and toilets and made to work for more than 15 hours a day",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/z5xsva/article71463418.ece/alternates/LANDSCAPE_1200/bond-4.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/three-bonded-labourers-rescued-at-kalasthambadi-village-in-tiruvannamalai-district/article71463246.ece",
-    "time": "2026-09-13T14:51:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Partial Pink Line opening unlikely to ease Bannerghatta Road traffic, say commuters and experts",
-    "desc": "While the opening could provide an alternative mode of transport for commuters travelling towards destinations such as Jayadeva Hospital and IIMB, regular commuters believe its impact on road congestion will remain limited as long as the underground section is not operational.",
-    "img": "https://th-i.thgim.com/public/incoming/lnu9vc/article71463936.ece/alternates/LANDSCAPE_1200/IMG_2249.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/partial-pink-line-opening-unlikely-to-ease-bannerghatta-road-traffic-say-commuters-and-experts/article71463459.ece",
-    "time": "2026-09-13T14:48:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -334,42 +406,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Amitabh Bachchan’s ‘Jumma Chumma’ shoot turned dangerous when Kimi Katkar was thrown",
-    "desc": "Choreographer Chinni Prakash shared thrilling details about the filming of Amitabh Bachchan's legendary track 'Jumma Chumma De De'. During the shoot, Kimi Katkar faced a perilous accident when a high-pressure water nozzle sent her tumbling off a cliff. Despite grappling with health concerns, Amitabh Bachchan demonstrated remarkable perseverance, nailing numerous takes.",
-    "img": "https://static.toiimg.com/photo/msid-134198481,imgsize-370947.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchans-jumma-chumma-shoot-turned-dangerous-when-kimi-katkar-was-thrown-off-20-feet-chinni-prakash-revealed-her-fall-from-cliff-it-hurt-her/articleshow/134198416.cms",
-    "time": "2026-09-13T11:52:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Soni Razdan recalls sudden bond",
-    "desc": "Soni Razdan recalled a sudden, unexplained bond with Asha Bhosle in the singer's final years, expressing regret it never fully developed due to busy schedules. She admired Bhosle's relentless dedication to her craft, noting she recorded her last song at 90. Bhosle passed away on April 12 at 92 in Mumbai.",
-    "img": "https://static.toiimg.com/photo/msid-134198245,imgsize-209292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/soni-razdan-recalls-sudden-bond-with-asha-bhosle-in-her-final-years-i-dont-know-how-it-happened/articleshow/134198186.cms",
-    "time": "2026-09-13T11:46:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Sameer Anjaan ANGERED Mithun Chakraborty",
-    "desc": "Lyricist Sameer Anjaan reminisced about his early days in Mumbai, where he juggled journalism to support himself amidst his aspirations. A notable encounter with actor Mithun Chakraborty took a turn when a rumor surfaced, leading to an awkward moment. Mithun’s advice to ask better questions about celebrities turned out to be a pivotal lesson for the budding lyricist, marking a significant moment in his journey.",
-    "img": "https://static.toiimg.com/photo/msid-134197603,imgsize-596690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lyricist-sameer-anjaan-recalls-the-time-he-angered-mithun-chakraborty-with-question-tum-log-suni-sunayi-baaton-pe-humse-kyun-sawaal-karte-ho/articleshow/134196339.cms",
-    "time": "2026-09-13T11:35:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bhosle’s final song: Anshuman recalls her childlike excitement",
-    "desc": "Anshuman Jha recalled Asha Bhosle's excitement seeing footage from 'Om Ka Hari's song, her final playback recording made at 90. She was also surprised by his action film 'Lakkadbaggha'. Jha praised her lifelong hunger to improve and her childlike joy while singing. Bhosle passed away on April 12 at 92.",
-    "img": "https://static.toiimg.com/photo/msid-134197333,imgsize-261692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anshuman-jha-reveals-asha-bhosles-excited-reaction-after-seeing-footage-of-her-final-song-recorded-at-90-childlike-joy-she-had-when-she-was-singing/articleshow/134197258.cms",
-    "time": "2026-09-13T11:30:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Quote of the day by Anthony Quinn",
     "desc": "Anthony Quinn's perspective on fatherhood was profoundly impactful, as he embraced the role with deep devotion to his thirteen children. He wanted each child to feel cherished and recognized, dedicating his later years to nurturing those relationships. This emphasis on familial bonds showcases the legacy he left behind, reaching far beyond his film career.",
     "img": "https://static.toiimg.com/photo/msid-134190191,imgsize-555244.cms",
@@ -412,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/fed-crude-prices-more-what-will-guide-dalal-street-this-week/articleshow/134194178.cms",
     "time": "2026-09-13T10:54:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Students boycott exam in Jaipur over delayed papers, alleged irregularities",
-    "desc": "In Jaipur, students staged a protest and boycotted the Rajasthan SET-2026 exam due to a significant delay in the arrival of question papers, which reached the examination hall nearly thirty minutes after the scheduled start. Candidates expressed grave concerns about exam irregularities and called for a re-examination, underlining ongoing challenges faced in competitive testing in India. Official confirmation of the exam's status remains pending.",
-    "img": "https://static.toiimg.com/photo/msid-134195216,imgsize-187964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rajasthan-set-2026-students-boycott-exam-in-jaipur-over-delayed-papers-alleged-irregularities/articleshow/134195104.cms",
-    "time": "2026-09-13T10:51:35.000Z"
   },
   {
     "cat": "Business",
@@ -556,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/brics-2026-piyush-goyal-hails-unanimous-adoption-of-new-delhi-declaration/articleshow/134174075.cms",
     "time": "2026-09-13T03:33:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Full-strength India take on Afghanistan in 1st T20I",
-    "desc": "Shreyas Iyer is set to captain India's full-strength T20I team against Afghanistan, marking the return of pace ace Jasprit Bumrah after a lengthy injury break. This series acts as crucial preparation for the upcoming Asian Games in Japan, where the team looks forward to engaging with athletes from various sports. Iyer is particularly thrilled about his debut experience at a multi-sport event.",
-    "img": "https://static.toiimg.com/photo/msid-134173703,imgsize-132238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/game-time-after-injury-hiccups-full-strength-india-take-on-afghanistan-in-first-t20i/articleshow/134173420.cms",
-    "time": "2026-09-13T02:52:20.000Z"
   },
   {
     "cat": "Sports",
@@ -736,24 +754,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/minor-child-had-rs-1-17-crore-interest-income-father-faced-rs-12-83-lakh-penalty-itat-delhi-cancels-it-rules-tax-rate-dispute-isnt-under-reporting/articleshow/134076542.cms",
     "time": "2026-09-12T08:36:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "CIA releases dozens of presidential daily briefs on Laden and al-Qaeda",
-    "desc": "The documents range from a February 1998 file — prepared for then-President Bill Clinton — entitled “Terrorists seeking WMD capability” and mentioning “bin Ladin and other Islamic extremists” to a Sept. 12, 2001, report in which a source indicated the attacks had been planned for two years and had also targeted the U.S. Capitol.",
-    "img": "https://th-i.thgim.com/public/incoming/qvf0vm/article71458039.ece/alternates/LANDSCAPE_1200/Congress_Venezuela_71020.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/cia-releases-dozens-of-presidential-daily-briefs-on-laden-and-al-qaeda/article71458038.ece",
-    "time": "2026-09-12T07:49:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Hong Kong court sentences 3 Tiananmen vigil organisers to prison in national security case",
-    "desc": "Lee received a 7-year prison term and Chow was sentenced to 7 years and 3 months. Both pleaded not guilty. Ho was given a lower sentence of 5 years and 2 months, partly because he pleaded guilty",
-    "img": "https://th-i.thgim.com/public/incoming/m72iux/article71455011.ece/alternates/LANDSCAPE_1200/AFP_C7YH39E.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international//article71454950.ece",
-    "time": "2026-09-12T06:30:56.000Z"
   },
   {
     "cat": "Business",

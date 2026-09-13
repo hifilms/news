@@ -333,15 +333,6 @@ const newsData_gu = [
     "time": "2026-09-11T06:04:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "રૂપિયો-યુઆન પાડશે ખેલ...ડોલર માટે ખતરાની ઘંટડી! હાથી-ડ્રેગનની જોડી લાવશે વૈશ્વિક વેપારમાં મોટો બદલાવ?",
-    "desc": "ચીનના રાષ્ટ્રપતિ શી જિનપિંગ 12 અને 13 સપ્ટેમ્બરના રોજ નવી દિલ્હીમાં આયોજિત બ્રિક્સ સમિટમાં ભાગ લેવા માટે ભારત આવી રહ્યા છે. લગભગ 7 વર્ષ બાદ જિનપિંગ ભારત આવશે. પીએમ મોદીના નિમંત્રણ પર તેમનો આ પ્રવાસ યોજાયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/brics-summit-2026-india-china-relations-pm-narendra-modi-xi-jinping-meeting-rupee-yuan-490811 ",
-    "time": "2026-09-11T05:19:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "બાળક વિશે વિચાર્યું પણ ન હતું અને મળી ગુડ ન્યુઝ, સામંથાએ પ્રેગ્નેન્સી અંગે કર્યો ખુલાસો",
     "desc": "સામંથા રુથ પ્રભુ હાલ તેની પ્રેગ્નેન્સી ઈન્જોય કરી રહી છે. સોશિયલ મીડિયા પર તે પોતાના ફોટો શેર કરતી રહે છે. સામંથા તેના પહેલા બાળકના આગમન માટે ખુશ છે પણ આ બાળક તેના માટે સરપ્રાઈઝ છે. આ વાત તેણે એક મુલાકાત દરમિયાન કરી છે.",
@@ -565,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/pakistan-fans-shameful-act-during-womens-asia-cup-match-kranti-goud-490440 ",
     "time": "2026-09-07T17:35:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પાકિસ્તાનની કેપ્ટન ફાતિમા સનાને આ હરકત પડી ગઈ મોંઘી, ICCએ ફટકારી સજા",
-    "desc": "શેફાલી વર્માની વિકેટ લીધા પછી પાકિસ્તાની કેપ્ટને જે ઈશારો કર્યો હતો તેના કારણે તેને ભારે ટીકાનો સામનો કરવો પડ્યો હતો. હવે ICCએ ફાતિમા સના સામે કાર્યવાહી કરી છે. ફાતિમાએ ભારત સામેની તે મેચમાં ત્રણ વિકેટ લીધી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/icc-fines-pakistan-captain-fatima-sana-for-shefali-verma-sendoff-490404 ",
-    "time": "2026-09-07T11:36:46.000Z"
   },
   {
     "cat": "Entertainment",
