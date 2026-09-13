@@ -1,6 +1,51 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Bruce Wayne started orphanages...'",
+    "desc": "Christian Bale has opened a new foster care village in Palmdale. This facility, named Together California, prioritizes keeping siblings together. The village offers a safe and nurturing environment for children and their families. Bale was inspired by his sister's brief foster care experience. The project was funded through donations, raising nearly nine million dollars.",
+    "img": "https://static.toiimg.com/photo/msid-134227011,imgsize-220881.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-dark-knight-star-christian-bale-opens-usd-22-million-foster-care-village-to-keep-siblings-together-says-bruce-wayne-started-orphanages-/articleshow/134226576.cms",
+    "time": "2026-09-13T22:23:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan cricket at a new low after England humiliation",
+    "desc": "Described as the worst team to tour England in the last 50 years, Pakistan's cycle of chopping and changing continued when head coach Sarfaraz Ahmed and bowling chief Umar Gul were sacked from their posts",
+    "img": "https://th-i.thgim.com/public/incoming/ujoq0h/article71464677.ece/alternates/LANDSCAPE_1200/England_Pakistan_Cricket_36665.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/crash-and-burn-pakistan-cricket-at-a-new-low-after-england-humiliation/article71464674.ece",
+    "time": "2026-09-13T22:22:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Practical Magic 2' dethrones 'Spider-Man' with USD 30 mn debut",
+    "desc": "Brand New Day slipped to second place after six weeks. The Odyssey followed in third, continuing its strong box office performance. Runner and Coyote vs. Acme rounded out the top five films. This weekend's box office shows a diverse range of films attracting audiences.",
+    "img": "https://static.toiimg.com/photo/msid-134226374,imgsize-338742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/practical-magic-2-dethrones-tom-hollands-spider-man-brand-new-day-conjures-a-no-1-box-office-debut-with-usd-30-million/articleshow/134225070.cms",
+    "time": "2026-09-13T21:24:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jarange alleges conspiracy to kill him during Mumbai march even as Azad Maidan permission denied",
+    "desc": "Mumbai Police, which has denied the permission for the indefinite hunger strike from Sept. 19, cited restrictions governing demonstrations at Azad Maidan and said the Ganeshotsav period would already place substantial demands on the city’s police force",
+    "img": "https://th-i.thgim.com/public/incoming/3kuslb/article71463178.ece/alternates/LANDSCAPE_1200/MH-QUOTA-JARANGGDLGGAIEF.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/maratha-reservation-protest-conspiracy-to-kill-me-during-mumbai-march-alleges-jarange/article71463158.ece",
+    "time": "2026-09-13T21:16:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil infra hit by Ukraine, Russia gets 70% of its fuel from India",
+    "desc": "August marked a milestone for Russia as it imported record levels of oil products, with Indian exports accounting for nearly seventy percent. The gasoline supplied by India was produced from Russian crude at a shared refinery. While India remains the second-largest importer of crude oil from Russia, its overall imports have seen a decline compared to recent months, with China still leading the ranks.",
+    "img": "https://static.toiimg.com/photo/msid-134223884,imgsize-163134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-infra-hit-by-ukraine-russia-gets-70-of-its-fuel-from-india/articleshow/134223885.cms",
+    "time": "2026-09-13T20:24:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Sunita Ahuja dances her heart out as she welcomes Ganpati Bappa, fans ask about Govinda",
     "desc": "Sunita Ahuja welcomed Ganpati Bappa home, continuing a family tradition. Videos of her celebrating have circulated widely on social media platforms. This Ganesh Chaturthi occurs amidst ongoing speculation about her marriage to Govinda. Sunita had previously visited the family court with her son. The actress also made public comments regarding Govinda's alleged relationship with another actress.",
     "img": "https://static.toiimg.com/photo/msid-134221776,imgsize-350131.cms",
@@ -270,15 +315,6 @@ const newsData_en = [
     "time": "2026-09-13T14:38:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Inside India's scramble to fuel its nuclear ambitions",
-    "desc": "India is securing uranium fuel for its ambitious nuclear expansion program. Uzbekistan, Australia, and Canada are key partners in this global fuel hunt. New domestic laws allow private companies to build nuclear power plants. This move creates significant demand for uranium fuel supplies. India's long-term strategy also involves developing thorium resources.",
-    "img": "https://static.toiimg.com/photo/msid-134206306,imgsize-254782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-uranium-rush-inside-indias-scramble-to-fuel-its-nuclear-ambitions/articleshow/134206216.cms",
-    "time": "2026-09-13T14:24:56.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sussanne on why her bond with Hrithik's mom is stronger now",
     "desc": "In a heartfelt revelation, Sussanne Khan spoke about her changing dynamics with Hrithik Roshan's family, highlighting a beautiful relationship with his mother. This new closeness emerged after the passing of her mother, leading to emotional solidarity. As compatible ex-spouses, Sussanne and Hrithik co-parent their boys while each explores new relationships, showcasing growth and resilience.",
@@ -315,15 +351,6 @@ const newsData_en = [
     "time": "2026-09-13T13:59:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘We will continue in Congress’: Konda Surekha rules out joining another party, eyes 2028 polls",
-    "desc": "Former Telangana minister Konda Surekha stated she will remain with the Congress party. She confirmed her intention to contest the upcoming 2028 Assembly elections. Surekha also expressed confidence in securing the Congress ticket for Warangal East. She indicated the party leadership is in touch following her cabinet removal. Surekha and her husband will continue working for people's issues.",
-    "img": "https://static.toiimg.com/photo/msid-134204399,imgsize-71278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-will-continue-in-congress-konda-surekha-rules-out-joining-another-party-eyes-2028-polls/articleshow/134204029.cms",
-    "time": "2026-09-13T13:46:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Fans react to alleged leaked image from 'Varanasi' sets",
     "desc": "A viral image purportedly from SS Rajamouli's upcoming film 'Varanasi' has taken social media by storm. The snapshot features gigantic temple structures and dinosaur-like figures, sparking a wave of excitement and disbelief among fans. The storyline is reported to involve a thrilling time-travel quest aimed at thwarting an asteroid catastrophe. With Mahesh Babu, Priyanka Chopra, and Prithviraj Sukumaran leading the cast, the film is set for release in 2027.",
@@ -342,15 +369,6 @@ const newsData_en = [
     "time": "2026-09-13T13:36:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why 67,000 EV charging points aren't enough for India’s electric dreams",
-    "desc": "By 2030, India is projected to require an additional 1.25 million electric vehicle (EV) charging stations. Currently, these public chargers are limited to just ten states, and the slower charging speeds provided by many of them may pose challenges during longer trips. While home charging is an option for individuals with private parking, operators struggle with low usage rates that deter investments in smaller urban areas.",
-    "img": "https://static.toiimg.com/photo/msid-134200352,imgsize-220546.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/plugging-gap-why-67000-ev-charging-points-arent-enough-for-indias-electric-dreams/articleshow/134198422.cms",
-    "time": "2026-09-13T12:59:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Rashmika Mandanna wraps ‘Ranabaali’ shoot, Vijay Deverakonda’s hug wins fans’ hearts",
     "desc": "Rashmika Mandanna has completed her portrayal of Jayamma in the eagerly awaited period action drama, following her recovery from a hip injury. The narrative unfolds during the Madras Famine of 1876–1878, with Vijay Deverakonda taking center stage as Ranabaali, who stands against British rule. This film is poised for a grand theatrical release on October 16, 2026, perfectly timed for the festive season.",
@@ -358,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-wraps-ranabaali-shoot-vijay-deverakonda-joins-her-for-special-hug/articleshow/134201118.cms",
     "time": "2026-09-13T12:47:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How Gujarat's villagers turned mangroves into a natural coastal shield",
-    "desc": "Gujarat's mangrove cover dramatically increased from 427 sq km in 1987 to over 1,177 sq km by 2026. This significant recovery is attributed to community participation and large-scale plantation programmes. Mangroves provide vital coastal protection and support marine ecosystems and local livelihoods. The government now promotes this approach nationwide through the MISHTI programme. Gujarat's success demonstrates mangroves as effective natural infrastructure for coastal defense.",
-    "img": "https://static.toiimg.com/photo/msid-134200766,imgsize-1988782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/in-the-1980s-villagers-in-gujarat-began-protecting-a-handful-of-mangroves-decades-later-those-forests-were-shielding-entire-coastlines/articleshow/134200618.cms",
-    "time": "2026-09-13T12:45:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -387,15 +396,6 @@ const newsData_en = [
     "time": "2026-09-13T12:36:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay Deverakonda praises brother Anand’s ‘Epic",
-    "desc": "Vijay Deverakonda recently watched his brother Anand Deverakonda's new film 'Epic - First Semester'. He shared his positive reaction on social media, praising the movie's realistic portrayal of young adults. Rashmika Mandanna also attended the screening and reposted Vijay's story with her own commendations. The film, directed by Aditya Haasan, focuses on relatable themes of family and career confusion.",
-    "img": "https://static.toiimg.com/photo/msid-134199263,imgsize-1349955.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/what-a-beautiful-movie-vijay-deverakonda-watch-brother-anands-epic-first-semester-praise-the-team-says-the-film-made-him-cry/articleshow/134199106.cms",
-    "time": "2026-09-13T12:07:58.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India’s semiconductor sector attracts $1.4 billion in funding across 281 companies",
     "desc": "India's semiconductor sector has attracted $1.4 billion in equity funding across many companies. Nearly half of this investment occurred since 2025, showing rapid growth. The nation is preparing to host SEMICON India 2026, a major industry event. Bengaluru leads as the primary semiconductor hub, attracting substantial investment. Acquisitions remain the dominant exit strategy for companies in this sector.",
@@ -412,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-anthony-quinn-thirteen-13-children-and-i-lovei-love-them-all-and-i-think-ive-been-a-good-father-to-all-of-them-a-parenting-lesson-that-highlights-how-fatherhood-is-measured-by-love-and-presence/articleshow/134189911.cms",
     "time": "2026-09-13T11:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Farah Khan revealed why Shilpa Shirodkar didn’t bag ‘Chaiyya Chaiyya’ with SRK",
-    "desc": "Farah Khan considered Shilpa Shirodkar for the iconic 'Chhaiya Chhaiya' song. Shirodkar was not chosen due to her weight at that time. Raveena Tandon and Shilpa Shetty also declined the opportunity. Malaika Arora eventually performed the memorable dance number. Shirodkar later discussed missing the song but found career success.",
-    "img": "https://static.toiimg.com/photo/msid-134197006,imgsize-600081.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-farah-khan-revealed-why-shilpa-shirodkar-didnt-bag-chaiyya-chaiyya-with-shah-rukh-khan-she-was-100-kg-where-would-he-stand/articleshow/134196936.cms",
-    "time": "2026-09-13T11:24:05.000Z"
   },
   {
     "cat": "World",
@@ -828,24 +819,6 @@ const newsData_en = [
     "time": "2026-09-11T08:09:54.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Sabalenka pushes past Pegula into U.S. Open final",
-    "desc": "\"No complaints,\" said ⁠Sabalenka, who earned the respect of the partisan fans at Arthur Ashe Stadium, with former ‌U.S. first lady Michelle Obama in the crowd. \"I'm super happy to pull out that kind of ​tennis”",
-    "img": "https://th-i.thgim.com/public/incoming/pg0ba8/article71454547.ece/alternates/LANDSCAPE_1200/US_Open_Tennis_33757.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/sabalenka-pushes-past-pegula-into-us-open-final/article71454544.ece",
-    "time": "2026-09-11T01:45:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi HC refuses to allow Vinesh Phogat’s participation in selection trials for 2026 Senior World Championships",
-    "desc": "The court says allowing the wrester, who has returned to competitive sports after pregnancy, to participate in the trials without first adjudicating upon the selection policy, may result in unequal treatment of similarly situated athletes who are not before the court",
-    "img": "https://th-i.thgim.com/public/incoming/kkdv8w/article71454515.ece/alternates/LANDSCAPE_1200/SPORTS%20WRESTLING%20DELHI%202026_30_05_100.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/delhi-hcrefuses-to-allowvinesh-phogats-participation-in-selection-trials-for-2026-senior-world-championships/article71453299.ece",
-    "time": "2026-09-11T00:05:52.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Four-day Kashmir film festival sharpens spotlight on filmmakers’ destination, local storytellers",
     "desc": "Besides the screening of 120 movies from around 30 countries, scores of locals, including students, film enthusiasts, artists and filmmakers, were provided a platform to meet and learn from the big names of Bollywood like Ramesh Sippy, Vidhu Vinod Chopra, Imtiaz Ali etc.",
@@ -853,15 +826,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/four-day-kashmir-film-festival-sharpens-spotlight-on-filmmakers-destination-local-storytellers/article71453064.ece",
     "time": "2026-09-10T21:49:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Tilak Varma ready for a tryst with Tests?",
-    "desc": "How India are able to fit the batter into their red-ball scheme of things will be crucial in the months ahead; in the longer version, he has an impressive average in excess of 55 and a stellar conversion rate with eight centuries and seven fifties from 38 innings",
-    "img": "https://th-i.thgim.com/public/incoming/ago5it/article71453344.ece/alternates/LANDSCAPE_1200/DSC_7241.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/is-tilakvarma-ready-for-a-tryst-with-tests/article71453202.ece",
-    "time": "2026-09-10T18:49:04.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/apple-at-50-a-loyalist-on-the-brands-evolution-in-india/article70846889.ece",
     "time": "2026-09-10T06:45:56.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Charlie Kirk and the indignity of digital immortality",
+    "desc": "A year after his assassination, Charlie Kirk has entered a purgatory Dante could scarcely have imagined, where the dead man is denied the dignity of disappearance and condemned to eternal circulation as an endlessly regenerating digital phantom",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/o7t0fj/article71450470.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/society/charlie-kirk-kirkification-death-anniversary-meme-ai-kirkify/article71450264.ece",
+    "time": "2026-09-10T06:39:06.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Apple 'Surprise and Shine' HIGHLIGHTS: iPhone 18 Pro, iPhone 18 Pro Max, iPhone Duo foldable, AirPods 5, Apple Watch Series 12, and Apple Watch Ultra 4 announced",
+    "desc": "Apple announced the iPhone 18 Pro, iPhone 18 Pro Max, iPhone Duo foldable, AirPods 5, Apple Watch Series 12, and Apple Watch Ultra 4. There were no updates about the iPhone 18 model and the iPhone Air 2",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/apples-surprise-and-shine-iphone-18-series-launch-event-live-updates/article71441260.ece",
+    "time": "2026-09-10T02:31:28.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Did OpenAI crack a million-dollar math problem using data stolen from mathematicians?",
+    "desc": "Over the last 48 hours, the mathematical community has been rocked by claims that OpenAI leveraged its enormous computing power — and potentially the private user data of academic researchers — to scoop a solution to one of the greatest open problems",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/ow817t/article71445695.ece/alternates/LANDSCAPE_1200/growtika-f0JGorLOkw0-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/openai-bubeck-alpoge-buckmaster-navier-stokes-codex-privacy/article71445721.ece",
+    "time": "2026-09-10T02:06:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Meta launches Muse, AI agent that can access other apps to send emails, make payments",
+    "desc": "Muse launches in U.S. via dedicated app and WhatsApp, Meta says; users can connect Muse to apps including email, calendar, payments, health and smart home; internal tests showed the product stalling and unauthorised uploads of sensitive data, Reuters found",
+    "img": "https://th-i.thgim.com/public/incoming/ar5t2p/article71444518.ece/alternates/LANDSCAPE_1200/2026-07-30T102037Z_788531491_RC2JHMA1Y0NJ_RTRMADP_3_USA-TECH-AI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/meta-launches-muse-ai-agent-that-can-access-other-apps-to-send-emails-make-payments/article71444514.ece",
+    "time": "2026-09-08T20:20:34.000Z"
   }
 ];
