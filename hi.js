@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Aryna Sabalenka's bid for three-peat shattered as Elena Rybakina crowned US Open champion",
+    "desc": "Elena Rybakina beat Aryna Sabalenka 6-4, 5-7, 6-2 to lift her maiden US Open Championship at Arthur Ashe Stadium. It was also the third Grand Slam title of her career. However, the road towards the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-s-bid-for-three-peat-shattered-as-elena-rybakina-crowned-us-open-champion-2026-09-13-1054095",
+    "time": "2026-09-13T07:31:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England complete clean sweep, despite Pakistan's threatening performance in second innings of Edgbaston Test",
     "desc": "England defeated Pakistan by eight wickets in the third and final Test at Edgbaston on Saturday, completing a 3-0 series sweep after chasing down a target of 130 on the fourth day. Joe Root and...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/razaullah-makes-pakistan-thrive-under-chaos-equals-18-year-old-record-with-stunning-show-vs-england-2026-09-12-1054020",
     "time": "2026-09-12T04:30:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Fenerbahce coach announces shocking resignation during press conference; club refuses to accept",
-    "desc": "Ismail Kartal announced his resignation as Fenerbahce head coach shortly after the Turkish club drew 1-1 with Roma in the Champions League. However, President Aziz Yildirim immediately rejected the decision and insisted the 65-year-old remains...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fenerbahce-coach-announces-shocking-resignation-during-press-conference-club-refuses-to-accept-2026-09-11-1053982",
-    "time": "2026-09-11T12:35:25.000Z"
   }
 ];
