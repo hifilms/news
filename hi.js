@@ -1,7 +1,70 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "IND vs AFG, 1st T20I LIVE Score: India opt to bowl first in Delhi",
+    "title": "Abhishek Sharma's blitzkrieg leaves Afghanistan clueless as India take 1-0 lead in three-match series",
+    "desc": "India thrashed Afghanistan by nine wickets to win the first T20I of the three-match series at the Arun Jaitley Stadium in New Delhi. Star batter Abhishek Sharma stole the show with a 22-ball half-century, while...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-s-blitzkrieg-leaves-afghanistan-clueless-as-india-take-1-0-lead-in-three-match-series-2026-09-13-1054139",
+    "time": "2026-09-13T16:58:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma achieves massive feat, joins Finn Allen in elite list with stellar start against Afghanistan",
+    "desc": "The Indian team took on Afghanistan in the first T20I of the ongoing three-game series. The two sides met at the Arun Jaitley Stadium in Delhi for the clash on September 13, and the game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-achieves-massive-feat-joins-finn-allen-in-elite-list-with-stellar-start-against-afghanistan-2026-09-13-1054138",
+    "time": "2026-09-13T16:57:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch Alexander Zverev vs Ben Shelton US Open final live on TV and stream online in India?",
+    "desc": "Alexander Zverev will face American Ben Shelton in the US Open men’s singles final. Both players chasing a second Grand Slam title. Zverev looking to add the New York crown to his French Open triumph,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/where-to-watch-alexander-zverev-vs-ben-shelton-us-open-final-live-on-tv-and-stream-online-in-india-2026-09-13-1054134",
+    "time": "2026-09-13T15:28:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah scripts history, achieves major milestone with early wicket against Afghanistan",
+    "desc": "The Indian team took on Afghanistan in the first T20I of the ongoing three-game series between the two sides. The teams met at the Arun Jaitley Stadium in Delhi for the clash on September 13,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-scripts-history-achieves-major-milestone-with-early-wicket-against-afghanistan-2026-09-13-1054130",
+    "time": "2026-09-13T14:56:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Marcus Trescothick unsure of England coaching future despite 3-0 victory vs Pakistan",
+    "desc": "Marcus Trescothick remains uncertain about his place in England’s Test coaching set-up as Stephen Fleming set to arrive in the UK and begin preparations for his first assignment as the team’s full-time head coach. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/marcus-trescothick-unsure-of-england-coaching-future-despite-3-0-victory-vs-pakistan-2026-09-13-1054127",
+    "time": "2026-09-13T14:18:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND-W vs SL-W, Women's Asia Cup 2026 final LIVE Score: Sri Lanka 8 down, India in command",
+    "desc": "India women and Sri Lanka women are all set to take on each other in the summit clash of the ongoing Women's Asia Cup 2026. The two sides meet at the Dubai International Cricket Stadium...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-sl-w-women-s-asia-cup-2026-final-live-score-women-in-blue-hope-to-lift-marquee-title-in-dubai-2026-09-13-1054125",
+    "time": "2026-09-13T13:56:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Vaibhav Sooryavanshi not playing in the first T20I against Afghanistan at Arun Jaitley Stadium?",
+    "desc": "India have dropped young sensation Vaibhav Sooryavanshi from the opening game of the three-match T20I series against Afghanistan at the Arun Jaitley Stadium in New Delhi. The 15-year-old was adjudged the Player of the Series...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-vaibhav-sooryavanshi-not-playing-in-the-first-t20i-against-afghanistan-at-arun-jaitley-stadium-2026-09-13-1054124",
+    "time": "2026-09-13T13:52:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs AFG, 1st T20I Highlights: India defeat Afghanistan by seven wickets",
     "desc": "Afghanistan hosts India in a three-match T20I series, starting September 13 at the Arun Jaitley Stadium in New Delhi. The series marks the return of Jasprit Bumrah, who missed the two-match Test series against Sri...",
     "img": "",
     "src": "indiatvnews.com",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-sri-lanka-women-s-asia-cup-2026-final-live-on-tv-and-stream-online-in-india-2026-09-13-1054116",
     "time": "2026-09-13T11:31:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ottneil Baartman ruled out of Australia ODIs due to hamstring injury, CSA announces replacement",
-    "desc": "In a major blow to South Africa, Ottneil Baartman, the side’s star bowling all-rounder, has been ruled out of the upcoming ODI series against Australia due to a hamstring injury. It is worth noting that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ottneil-baartman-ruled-out-of-australia-odis-due-to-hamstring-injury-csa-announces-replacement-2026-09-13-1054110",
-    "time": "2026-09-13T10:44:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch India vs Afghanistan first T20I live on TV and stream online in India?",
-    "desc": "Afghanistan are set to host India in a three-match T20I series, starting September 13 at the Arun Jaitley Stadium in New Delhi. The series serves as the perfect preparation for the Asian Games and also...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-afghanistan-first-t20i-live-on-tv-and-stream-online-in-india-2026-09-13-1054105",
-    "time": "2026-09-13T09:55:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi or Sanju Samson, who will start for India against Afghanistan in first T20I?",
-    "desc": "Afghanistan host India in a three-match T20I series at the Arun Jaitley Stadium in New Delhi. It's a perfect opportunity for both the teams to test the squad ahead of the upcoming Asian Games. However,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-or-sanju-samson-who-will-start-for-india-against-afghanistan-in-first-t20i-2026-09-13-1054101",
-    "time": "2026-09-13T08:56:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manchester United seek home revival as unbeaten City arrive at Old Trafford",
-    "desc": "Manchester United host city-rivals Manchester City at Old Trafford in the Premier League on September 13. Both teams enter the fixture under very different pressures as Michael Carrick’s United suffered in their opening game against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/manchester-united-seek-home-revival-as-unbeaten-city-arrive-at-old-trafford-2026-09-13-1054098",
-    "time": "2026-09-13T08:29:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aryna Sabalenka's bid for three-peat shattered as Elena Rybakina crowned US Open champion",
-    "desc": "Elena Rybakina beat Aryna Sabalenka 6-4, 5-7, 6-2 to lift her maiden US Open Championship at Arthur Ashe Stadium. It was also the third Grand Slam title of her career. However, the road towards the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-s-bid-for-three-peat-shattered-as-elena-rybakina-crowned-us-open-champion-2026-09-13-1054095",
-    "time": "2026-09-13T07:31:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England complete clean sweep, despite Pakistan's threatening performance in second innings of Edgbaston Test",
-    "desc": "England defeated Pakistan by eight wickets in the third and final Test at Edgbaston on Saturday, completing a 3-0 series sweep after chasing down a target of 130 on the fourth day. Joe Root and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-complete-clean-sweep-despite-pakistan-s-threatening-performance-in-second-innings-of-edgbaston-test-2026-09-12-1054052",
-    "time": "2026-09-12T12:09:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammed Siraj named new Hyderabad captain for upcoming Ranji Trophy season",
-    "desc": "Mohammed Siraj will captain Hyderabad in the 2026-27 Ranji Trophy season. Hyderabad Cricket Association (HCA) has confirmed the development. They also appointed fellow pacer Chama Milind as the vice-captain of the side. Currently, the team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-siraj-named-new-hyderabad-captain-for-upcoming-ranji-trophy-season-2026-09-12-1054050",
-    "time": "2026-09-12T11:49:02.000Z"
   }
 ];
