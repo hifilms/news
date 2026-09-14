@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Chaminda Vaas, Amit Mishra set to join Delhi Capitals' coaching staff ahead of IPL 2027",
+    "desc": "In a major development, former Sri Lanka cricketer Chaminda Vaas and former India cricketer Amit Mishra are all set to join the coaching staff of Delhi Capitals ahead of the IPL (Indian Premier League) 2027....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/chaminda-vaas-amit-mishra-set-to-join-delhi-capitals-coaching-staff-ahead-of-ipl-2027-2026-09-14-1054205",
+    "time": "2026-09-14T11:35:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gary Neville highlights what went wrong with Manchester United after 1-0 loss to Manchester City",
+    "desc": "The Premier League 2026-27 continued with arch-rivals Manchester United and City locking horns. In what is considered one of the biggest games in world football, the two sides took on each other at Old Trafford...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/gary-neville-highlights-what-went-wrong-with-manchester-united-after-1-0-loss-to-manchester-city-2026-09-14-1054200",
+    "time": "2026-09-14T10:29:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shree Charani surpasses Poonam Yadav in elite list with four-wicket haul against SL in Women's Asia Cup final",
+    "desc": "The Women’s Asia Cup 2026 final saw India take on Sri Lanka. The two sides met at the Dubai International Cricket Stadium on September 13. The clash saw India register a dominant 72-run victory as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shree-charani-surpasses-poonam-yadav-in-elite-list-with-four-wicket-haul-against-sl-in-women-s-asia-cup-final-2026-09-14-1054194",
+    "time": "2026-09-14T09:09:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan hit with double WTC sanction, docked 11 points for maintaining slow over-rate against England",
+    "desc": "In a major blow to Pakistan Cricket, the side has been hit with a major sanction by the ICC (International Cricket Council). It is worth noting that the Babar Azam-led side was recently clean-swept by...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-hit-with-double-wtc-sanction-docked-11-points-for-maintaining-slow-over-rate-against-england-2026-09-14-1054189",
+    "time": "2026-09-14T08:19:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Cannot receive the trophy': Devajit Saikia supports team India's refusal to take Asia Cup trophy from Naqvi",
+    "desc": "The Indian team put forth a brilliant performance in the final of the Women’s Asia Cup 2026. The side took on Sri Lanka in the final at the Dubai International Cricket Stadium on September 13,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cannot-receive-the-trophy-devajit-saikia-supports-team-india-s-refusal-to-take-asia-cup-trophy-from-naqvi-2026-09-14-1054184",
+    "time": "2026-09-14T07:27:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Alexander Zverev clinches maiden US Open title after thrilling four-set bout against Ben Shelton",
+    "desc": "The US Open 2026 saw Ben Shelton and Alexander Zverev meet in the final. The two stars met at the Arthur Ashe Stadium in New York on September 13th, and it was Zverev who came...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/alexander-zverev-clinches-maiden-us-open-title-after-thrilling-four-set-bout-against-ben-shelton-2026-09-14-1054176",
+    "time": "2026-09-14T06:19:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India once again shun Mohsin Naqvi, refuse to take Women's Asia Cup trophy from ACC chairman",
     "desc": "The Indian team performed brilliantly as they took on Sri Lanka in the Women's Asia Cup 2026 final. The two sides met at the Dubai International Cricket Stadium on September 13th, and it was team...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-achieves-massive-feat-joins-finn-allen-in-elite-list-with-stellar-start-against-afghanistan-2026-09-13-1054138",
     "time": "2026-09-13T16:57:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch Alexander Zverev vs Ben Shelton US Open final live on TV and stream online in India?",
-    "desc": "Alexander Zverev will face American Ben Shelton in the US Open men’s singles final. Both players chasing a second Grand Slam title. Zverev looking to add the New York crown to his French Open triumph,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/where-to-watch-alexander-zverev-vs-ben-shelton-us-open-final-live-on-tv-and-stream-online-in-india-2026-09-13-1054134",
-    "time": "2026-09-13T15:28:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah scripts history, achieves major milestone with early wicket against Afghanistan",
-    "desc": "The Indian team took on Afghanistan in the first T20I of the ongoing three-game series between the two sides. The teams met at the Arun Jaitley Stadium in Delhi for the clash on September 13,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-scripts-history-achieves-major-milestone-with-early-wicket-against-afghanistan-2026-09-13-1054130",
-    "time": "2026-09-13T14:56:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Marcus Trescothick unsure of England coaching future despite 3-0 victory vs Pakistan",
-    "desc": "Marcus Trescothick remains uncertain about his place in England’s Test coaching set-up as Stephen Fleming set to arrive in the UK and begin preparations for his first assignment as the team’s full-time head coach. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/marcus-trescothick-unsure-of-england-coaching-future-despite-3-0-victory-vs-pakistan-2026-09-13-1054127",
-    "time": "2026-09-13T14:18:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND-W vs SL-W, Women's Asia Cup 2026 final LIVE Score: India defeat Sri Lanka by 72 runs",
-    "desc": "India women and Sri Lanka women are all set to take on each other in the summit clash of the ongoing Women's Asia Cup 2026. The two sides meet at the Dubai International Cricket Stadium...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-sl-w-women-s-asia-cup-2026-final-live-score-women-in-blue-hope-to-lift-marquee-title-in-dubai-2026-09-13-1054125",
-    "time": "2026-09-13T13:56:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Vaibhav Sooryavanshi not playing in the first T20I against Afghanistan at Arun Jaitley Stadium?",
-    "desc": "India have dropped young sensation Vaibhav Sooryavanshi from the opening game of the three-match T20I series against Afghanistan at the Arun Jaitley Stadium in New Delhi. The 15-year-old was adjudged the Player of the Series...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-vaibhav-sooryavanshi-not-playing-in-the-first-t20i-against-afghanistan-at-arun-jaitley-stadium-2026-09-13-1054124",
-    "time": "2026-09-13T13:52:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs AFG, 1st T20I Highlights: India defeat Afghanistan by seven wickets",
-    "desc": "Afghanistan hosts India in a three-match T20I series, starting September 13 at the Arun Jaitley Stadium in New Delhi. The series marks the return of Jasprit Bumrah, who missed the two-match Test series against Sri...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-1st-t20i-live-score-india-aim-to-get-off-to-good-start-to-the-series-1054120",
-    "time": "2026-09-13T13:08:38.000Z"
   }
 ];
