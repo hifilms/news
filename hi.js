@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Varun Chakaravarthy ruled out of Afghanistan T20I series due to injury; Check details",
+    "desc": "In a major blow for the Indian team, star spinner has been ruled out of the ongoing T20I series against Afghanistan due to injury. It is worth noting that Chakaravarthy bowled his complete quota of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/varun-chakaravarthy-ruled-out-of-afghanistan-t20i-series-due-to-injury-check-details-2026-09-14-1054213",
+    "time": "2026-09-14T13:25:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer opens up on call to drop Vaibhav Sooryavanshi over Sanju Samson in 1st AFG T20I",
+    "desc": "The Indian team got off to a stellar start to their ongoing T20I series against Afghanistan. Taking on the side at the Arun Jaitley Stadium in Delhi on September 13, the Men in Blue registered...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-call-to-drop-vaibhav-sooryavanshi-over-sanju-samson-in-1st-afg-t20i-2026-09-14-1054211",
+    "time": "2026-09-14T13:10:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Chaminda Vaas, Amit Mishra set to join Delhi Capitals' coaching staff ahead of IPL 2027",
     "desc": "In a major development, former Sri Lanka cricketer Chaminda Vaas and former India cricketer Amit Mishra are all set to join the coaching staff of Delhi Capitals ahead of the IPL (Indian Premier League) 2027....",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-dominate-sri-lanka-to-win-women-s-asia-cup-register-stellar-72-run-win-to-clinch-title-2026-09-13-1054144",
     "time": "2026-09-13T17:54:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma's blitzkrieg leaves Afghanistan clueless as India take 1-0 lead in three-match series",
-    "desc": "India thrashed Afghanistan by nine wickets to win the first T20I of the three-match series at the Arun Jaitley Stadium in New Delhi. Star batter Abhishek Sharma stole the show with a 22-ball half-century, while...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-s-blitzkrieg-leaves-afghanistan-clueless-as-india-take-1-0-lead-in-three-match-series-2026-09-13-1054139",
-    "time": "2026-09-13T16:58:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma achieves massive feat, joins Finn Allen in elite list with stellar start against Afghanistan",
-    "desc": "The Indian team took on Afghanistan in the first T20I of the ongoing three-game series. The two sides met at the Arun Jaitley Stadium in Delhi for the clash on September 13, and the game...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-achieves-massive-feat-joins-finn-allen-in-elite-list-with-stellar-start-against-afghanistan-2026-09-13-1054138",
-    "time": "2026-09-13T16:57:50.000Z"
   }
 ];

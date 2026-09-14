@@ -1,6 +1,78 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "વૈભવ સૂર્યવંશી દરરોજ કેટલું કમાય છે ? 15 વર્ષના આ સ્ટારની દૈનિક કમાણી જાણીને ચોંકી જશો",
+    "desc": "ક્રિકેટની દુનિયામાં વૈભવ સૂર્યવંશીની પ્રગતિ અત્યંત ઝડપી રહી છે. તેની બ્રાન્ડ વેલ્યુમાં ઝડપથી વધારો થઈ રહ્યો છે. IPL 2026માં શાનદાર પ્રદર્શન બાદ તેની બ્રાન્ડ ડીલની વેલ્યૂ હવે પ્રતિ દિવસ ₹1.5થી ₹2 કરોડ સુધી પહોંચી ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-sooryavanshi-earns-up-to-rs-2-crore-per-day-through-brand-deals-reports-491228 ",
+    "time": "2026-09-14T17:12:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોના અને ચાંદીના ભાવમાં મોટો ઘટાડો, MCX પર 2% તૂટ્યા ભાવમાં, એક્સપર્ટે જણાવ્યું આગળ શું થશે",
+    "desc": "સોમવારે MCX પર સોના અને ચાંદીના ભાવમાં તીવ્ર ઘટાડો થયો છે. સોનાનો ઓક્ટોબર વાયદો લગભગ 1.19% ઘટીને ₹1,50,973 પ્રતિ 10 ગ્રામ થયો, જ્યારે ચાંદીનો ડિસેમ્બર વાયદો 1.70% ઘટીને લગભગ ₹2,31,000 પ્રતિ કિલો થયો. ચાલો જાણીએ કે સોનાના ભાવ વધુ ઘટશે કે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/significant-drop-in-gold-and-silver-prices-rates-plunged-2-percent-on-mcx-experts-weigh-in-on-what-lies-ahead-491227 ",
+    "time": "2026-09-14T16:59:45.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "સેમસંગે ભારતમાં લોન્ચ કર્યું ગેલેક્સી S26નું સસ્તું વર્ઝન, આ છે કિંમત",
+    "desc": "સેમસંગે ભારતમાં તેનો નવો ગેલેક્સી S26 FE લોન્ચ કર્યો છે. FE (ફેન એડિશન) શ્રેણીના આ ફોનમાં, કંપનીએ ફ્લેગશિપ ફોનની ઘણી સુવિધાઓ પ્રદાન કરવાનો પ્રયાસ કર્યો છે. કેમેરા, AI અને પ્રદર્શન પર ધ્યાન કેન્દ્રિત કરવામાં આવ્યું છે. તેની કિંમત 79,999 રૂપિયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/samsung-has-launched-an-affordable-version-of-the-galaxy-s26-in-india-here-is-the-price-491224 ",
+    "time": "2026-09-14T16:33:33.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "AIથી માનવ અસ્તિત્વ સામે ખતરો... માણસને જ બ્લેકમેલ કરવા લાગ્યું AI, શું હવે લાગશે પ્રતિબંધ ?",
+    "desc": "AIને લઈને અત્યાર સુધી સવાલ હતો કે તે માણસોનું કામ કેટલી ઝડપથી કરી શકે છે, પરંતુ હવે ચિંતા તેનાથી પણ આગળ વધી ગઈ છે. નિષ્ણાતો સવાલ પૂછી રહ્યા છે જો AI આવનારી પેઢીના મોડલ્સ પોતે જ બનાવવાનું શરૂ કરી દે તો શું માણસ તેને નિયંત્રિત કરી શકશે? આ સવાલને લઈને દુનિયાભરના નિષ્ણાતો વચ્ચે ચર્ચા ચાલી રહી છે અને સાથે જ એક નવી માંગ પણ ઉઠી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/ai-raises-new-concerns-artificial-intelligence-starts-blackmailing-humans-491225 ",
+    "time": "2026-09-14T16:33:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ટીમ ઈન્ડિયાને લાગ્યો મોટો ઝટકો, સ્ટાર ખેલાડી અફઘાનિસ્તાન સિરીઝમાંથી બહાર",
+    "desc": "અફઘાનિસ્તાન સામેની T20 સિરીઝ વચ્ચે ભારતીય ટીમને મોટો ઝટકો લાગ્યો છે. વરુણ ચક્રવર્તી ફરી એકવાર ઈજાગ્રસ્ત થતાં આખી સિરીઝમાંથી બહાર થઈ ગયો છે. દિલ્હીના અરુણ જેટલી સ્ટેડિયમમાં પ્રથમ T20 મેચ રમ્યા બાદ તે હવે બાકીની મેચોમાં રમી શકશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/big-blow-for-team-india-varun-chakravarthy-ruled-out-of-afghanistan-series-due-to-injury-491221 ",
+    "time": "2026-09-14T14:31:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IPOનો GMP પહોંચ્યો 241 પર, 90 ગણાથી વધારે થયો સબસ્ક્રાઈબ, આ અઠવાડિયે લિસ્ટિંગ",
+    "desc": "આ કંપનીનો IPO મજબૂત લિસ્ટિંગ થવાની અપેક્ષા છે. કનોહર ઇલેક્ટ્રિકલ્સનો IPO હાલમાં ગ્રે માર્કેટમાં સૌથી મજબૂત સ્થિતિમાં છે. રોકાણકારોને ભારે આશા છે કે IPO જોરદાર પ્રિમિયમ સાથે લિસ્ટ થઈ શકે છે, રોકાણકારો 16 તારીખની આતુરતાથી રાહ જોઈ રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/ipo-gmp-reaches-rs-241-subscribed-over-90-times-listing-this-week-491219 ",
+    "time": "2026-09-14T13:39:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વૈભવ સૂર્યવંશીને બીજી T20માં પણ નહીં મળે તક? આવી હશે ટીમ ઈન્ડિયાની સંભવિત પ્લેઈંગ XI",
+    "desc": "ભારત અને અફઘાનિસ્તાન વચ્ચેની બીજી T20 મેચ નવી દિલ્હીના અરુણ જેટલી સ્ટેડિયમમાં રમાશે. આ મેચ માટે ટીમ ઈન્ડિયાની પ્લેઈંગ ઈલેવન પર સૌની નજર છે. ત્યારે એ જાણી લઈએ કે ટીમમાં કોઈ ફેરફાર થશે કે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/will-vaibhav-sooryavanshi-miss-out-second-t20-team-india-probable-playing-xi-491212 ",
+    "time": "2026-09-14T12:09:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શું ફરી મોંઘી થવા જઈ રહી છે આ લોન? SBIના રિસર્ચ દાવા તમને ચોંકાવી દેશે!",
+    "desc": "RBI ટૂંક સમયમાં રેપો રેટમાં 0.50 ટકા સુધીનો વધારો કરી શકે છે. SBI રિઝર્વના એક રિપોર્ટ અનુસાર, આની સીધી અસર હોમ લોન, કાર લોન અને EMI પર પડશે. ચાલો સમજીએ કે આનાથી તમારા ખિસ્સા પર કેવી અસર પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/is-this-loan-about-to-become-expensive-again-sbis-research-findings-will-shock-you-491210 ",
+    "time": "2026-09-14T11:56:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ભારત આવશે પાકિસ્તાનની ટીમ, એશિયન ચેમ્પિયન્સ ટ્રોફીમાં થશે ટક્કર, શેડ્યૂલ આવ્યું સામે",
     "desc": "પાકિસ્તાનની હોકી ટીમ એશિયન ચેમ્પિયન્સ ટ્રોફી માટે ભારતનો પ્રવાસ કરશે. હોકી ઈન્ડિયાના સેક્રેટરી જનરલ ભોલા નાથ સિંહે ભારત અને પાકિસ્તાનની હોકી ફેડરેશનો વચ્ચેના સંબંધોને સારા ગણાવ્યા હતા. તેમણે જણાવ્યું હતું કે બંને ફેડરેશનો વચ્ચે મજબૂત સંબંધો છે અને મેદાન પરની હરીફાઈ છતાં ખેલાડીઓ વચ્ચે પરસ્પર આદર જોવા મળે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -504,15 +576,6 @@ const newsData_gu = [
     "time": "2026-09-10T08:20:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ભારતના પ્રથમ ઈન્ટરનેશનલ ક્રિકેટર, જેમને પોતાની ટીમમાં લેવા અંગ્રેજો અંદરોઅંદર લડી પડ્યા હતા",
-    "desc": "વિચારો ગુલામ ભારતનો કોઈ નાગરિક કઈ રીતે ઈંગ્લેન્ડ જઈ તેની ટીમમાંથી રમવા લાગે છે જ્યારે ઘણા અંગ્રેજ તેની વિરુદ્ધ હતા. ત્યાં સુધી કે ક્રિકેટની બાઇગલ ગણાતી મેગેઝિન વિઝડને પણ રણજીત સિંહના ટેલેન્ટને માનતા તેમને 1897મા ક્રિકેટર ઓફ ધ યરથી સન્માનિત કર્યાં હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/the-story-of-maharaja-ranjitsinhji-the-pioneer-of-indian-cricket-and-the-legacy-behind-ranji-trophy-490711 ",
-    "time": "2026-09-10T06:43:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "કેબીસી શો હોસ્ટ કરવો મુશ્કેલ થઈ રહ્યો છે, અમિતાભ બચ્ચનના બ્લોગથી ફેન્સ ચિંતામાં",
     "desc": "અમિતાભ બચ્ચન એ તાજેતરમાં કૌન બનેગા કરોડપતિ શોને લઈને પોતાનો અનુભવ શેર કર્યો છે. અમિતાભ બચ્ચન એવું કહ્યું છે કે કેબીસીને હોસ્ટ કરવું મુશ્કેલ થઈ રહ્યું છે. અમિતાભ બચ્ચને આવું શા માટે કહ્યું છે ચાલો જાણીએ વિસ્તારપૂર્વક.",
@@ -547,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/drishyam-3-trailer-drishyam-the-conclusion-movie-star-cast-release-date-490617 ",
     "time": "2026-09-09T10:51:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "હાર્દિક પંડ્યાની વાપસી, ઋતુરાજ ગાયકવાડ કેપ્ટન... ઓસ્ટ્રેલિયા સિરીઝ માટે ભારત A ટીમની જાહેરાત",
-    "desc": "BCCIએ ઓસ્ટ્રેલિયા A સામે આગામી ટેસ્ટ અને ODI શ્રેણી માટે ભારત A ટીમની જાહેરાત કરવામાં આવી છે. હાર્દિક પંડ્યાની ODI ટીમમાં વાપસી થઈ છે, પરંતુ તે સંપૂર્ણપણે ફિટ હશે તો જ રમી શકશે. તો ઋતુરાજ ગાયકવાડને કેપ્ટનશીપ સોંપવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-a-vs-australia-a-series-ruturaj-gaikwad-captain-hardik-pandya-comeback-490615 ",
-    "time": "2026-09-09T10:46:35.000Z"
   },
   {
     "cat": "Tech",
@@ -628,23 +682,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/will-ai-take-away-software-engineers-jobs-zoho-co-founder-sridhar-vembu-warning-raises-concerns-490292 ",
     "time": "2026-09-06T09:51:56.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "360° કેમેરા, 6 એરબેગ્સ, 10.25-ઇંચ સ્ક્રીન સાથે ટાટાની નવી ઓસ્પ્રે SUV લોન્ચ, CNG ઓપ્શન પણ છે ઉપલબ્ધ",
-    "desc": "ઓસ્પ્રે તેની મોટાભાગની બહારની સુવિધાઓ નેક્સોન સાથે શેર કરે છે. કલર ઓપ્શન પણ મોટાભાગે સરખો છે. જો કે, આ શેડ્સને અલગ રીતે લેબલ કરવામાં આવ્યા છે. ઉદાહરણ તરીકે, ભારતમાં નેક્સનના 'પ્રિસ્ટાઇન વ્હાઇટ' રંગને દક્ષિણ આફ્રિકામાં 'ફર્સ્ટ લાઇટ' કહેવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/tata-new-osprey-suv-launched-with-360-camera-6-airbags-10-25-inch-screen-cng-option-also-available-490230 ",
-    "time": "2026-09-05T16:59:09.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Royal Enfieldનો ધમાકો: નવી Himalayan 440 લોન્ચ, જાણો કિંમત અને શાનદાર ફીચર્સ",
-    "desc": "Royal Enfield તેનું સસ્તું હિમાલયન લોન્ચ કર્યું છે. આ બાઇક એવા લોકો માટે એક સારો વિકલ્પ છે જેમણે હિમાલયન 411 ચૂકી ગયા હતા. બ્રાન્ડે સ્ક્રેમ 440 જેવા જ એન્જિન સાથે નવી હિમાલયન 440 લોન્ચ કરી છે. આ બાઇક ફક્ત એક વેરિઅન્ટ અને ત્રણ કલર ઓપ્શનમાં આવે છે. ચાલો નવી રોયલ એનફિલ્ડ હિમાલયન 440ની કિંમત અને અન્ય વિગતો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/royal-enfields-new-himalayan-440-launched-know-the-price-and-great-features-490104 ",
-    "time": "2026-09-04T17:03:23.000Z"
   }
 ];
