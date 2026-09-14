@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Rakesh Tikait urges Noida farmers",
+    "desc": "The Bharatiya Kisan Union (BKU) national spokesperson alleged that the administration was preventing farmers from holding protests and meeting officials; farmers have been seeking developed residential plots and enhanced compensation for land acquired for development projects",
+    "img": "https://th-i.thgim.com/public/incoming/uy7m4q/article71466450.ece/alternates/LANDSCAPE_1200/PTI09_14_2026_000292B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/intensify-protest-over-land-acquisition-rakesh-tikait-urges-noida-farmers/article71466434.ece",
+    "time": "2026-09-14T21:12:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why wasn't FIR slapped on Varma?",
+    "desc": "Leading lawyers called for judicial reform and increased transparency in the system. They questioned the lack of an FIR after cash was found at a judge's residence. Chief Justice Surya Kant defended the judiciary's internal complaint redressal mechanism. He stated that most complaints arise from disgruntled litigants after court reversals. Lawyers also criticized the opaqueness in judicial appointments and transfers.",
+    "img": "https://static.toiimg.com/photo/msid-134247653,imgsize-30640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jethmalani-why-wasnt-fir-slapped-on-varma/articleshow/134247647.cms",
+    "time": "2026-09-14T20:23:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms",
+    "desc": "Umar Kremlev hosted two nights of celebrations after the wedding, Bettina Trump wrote in a social media post, adding that “generosity doesn't automatically come with an agenda. And sometimes a wedding gift is simply a wedding gift”",
+    "img": "https://th-i.thgim.com/public/incoming/ywog3p/article71466407.ece/alternates/LANDSCAPE_1200/Trump_Ireland_36322.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-jrs-wedding-celebration-partially-funded-by-russian-oligarch-couple-confirms/article71466400.ece",
+    "time": "2026-09-14T19:08:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bob Mackie dies at 87 following deaths of Dolly Parton, Tim Curry, Gloria Steinem",
+    "desc": "Legendary fashion and costume designer Bob Mackie has died at 87, with the news confirmed on his official social media accounts. Known for his dazzling creations for Cher, Diana Ross and Carol Burnett, Mackie earned nine Primetime Emmy Awards and a Tony Award. Miley Cyrus, Sabrina Carpenter, Coco Rocha, Laverne Cox and others paid tribute.",
+    "img": "https://static.toiimg.com/photo/msid-134246948,imgsize-52237.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bob-mackie-passes-away-at-87-following-deaths-of-dolly-parton-tim-curry-and-gloria-steinem-miley-cyrus-sabrina-carpenter-alyssa-milano-and-more-celebrities-pay-tribute-to-legendary-designer/articleshow/134246662.cms",
+    "time": "2026-09-14T18:52:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ronaldo leads Al Nassr back to Asia’s top table after a year in the second tier",
+    "desc": "Cristiano Ronaldo and Al Nassr return to the AFC Champions League Elite after winning the Saudi Pro League and spending last season in the second-tier competition. Their campaign begins against Al Ain, who eliminated them in 2024. With new manager Ange Postecoglou and a revamped squad, Al Nassr are chasing continental glory as Ronaldo seeks his first major Asian club trophy.",
+    "img": "https://static.toiimg.com/photo/msid-134244201,imgsize-57190.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ronaldo-is-finally-back-where-he-belongs-after-a-year-in-asias-second-tier-but-whats-changed-for-al-nassr/articleshow/134242932.cms",
+    "time": "2026-09-14T18:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Same government had closed the case’: Supriya Sule questions fresh CBI probe into Disha Salian’s death",
+    "desc": "The CBI has registered an FIR into Disha Salian's death following a court directive. This action surprised political leaders who noted the case was previously closed. The FIR invokes serious charges, though no individuals are named as accused. Salian's father provided names of individuals he wants examined by investigators. The case remains sub judice, with calls for it not to be politicized.",
+    "img": "https://static.toiimg.com/photo/msid-134245930,imgsize-76884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/same-government-had-closed-the-case-supriya-sule-questions-fresh-cbi-probe-into-disha-salians-death/articleshow/134245820.cms",
+    "time": "2026-09-14T17:57:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jemima marries Cameron at 52, 22 years after her divorce from Imran Khan",
+    "desc": "Jemima Goldsmith has married Irish-Australian financier Cameron O’Reilly at the age of 52, marking her second marriage. The couple reportedly met through their work and had been friends before beginning a relationship. Jemima’s family confirmed the wedding, which comes 22 years after her divorce from former Pakistan prime minister Imran Khan.",
+    "img": "https://static.toiimg.com/photo/msid-134245972,imgsize-91177.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jemima-goldsmith-marries-for-second-time-at-52-ties-the-knot-with-irish-australian-financier-cameron-oreilly-22-years-after-divorce-from-imran-khan-her-family-confirms-wedding/articleshow/134245796.cms",
+    "time": "2026-09-14T17:55:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Triumph of truth over jhooth ki goonj': PM Modi hails BJP victory in Rajasthan civic polls",
+    "desc": "The Bharatiya Janata Party secured a significant victory in Rajasthan's municipal elections. BJP emerged as the largest party, winning more wards than Congress. The party achieved majorities in four out of ten municipal corporations. Prime Minister Modi thanked voters for their support and trust. These results reflect public approval of the BJP's development policies.",
+    "img": "https://static.toiimg.com/photo/msid-134245604,imgsize-104594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/triumph-of-truth-over-jooth-ki-goonj-pm-modi-hails-bjp-victory-in-rajasthan-civic-polls/articleshow/134245366.cms",
+    "time": "2026-09-14T17:32:17.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Salman Khan's 'bandana' look at Ganesh Chaturthi reminds fans of 'Jeene Ke Hai 4 din'",
     "desc": "Salman Khan joined his family for Ganesh Chaturthi celebrations at Sohail Khan's residence. He arrived for the evening aarti, posing for waiting photographers outside. The actor wore a casual festive outfit and a bandana, sporting a clean-shaven look. His mother Salma Khan and sisters Arpita and Alvira Khan Agnihotri were also present. Salman is expected to visit Arpita's home later for more celebrations.",
@@ -270,15 +342,6 @@ const newsData_en = [
     "time": "2026-09-14T12:19:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kejriwal-Sardesai Goa gambit: Attack defections, welcome rivals",
-    "desc": "The Aam Aadmi Party and Goa Forward Party have unveiled their 'Goa First' coalition in preparation for the 2027 elections. This initiative aims to connect with voters disillusioned by frequent party changes. Leaders Kejriwal and Sardesai advocate a non-BJP, non-Congress option for locals. Historical elections exhibit notable shifts in party loyalties, while this alliance's inclusive approach may offer both chances and obstacles.",
-    "img": "https://static.toiimg.com/photo/msid-134241143,imgsize-857274.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kejriwal-sardesai-goa-gambit-attack-defections-welcome-rivals/articleshow/134241032.cms",
-    "time": "2026-09-14T12:18:15.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kangana hits back at Rakhi Sawant after her comments on her",
     "desc": "Kangana Ranaut has responded to Rakhi Sawant's recent controversial comments. She called Sawant unsuccessful and bitter, accusing her of jealousy. Ranaut stated successful women should not feel hurt by such attacks. She also mentioned past public clashes between the two personalities. Sawant had previously made suggestive comments about Ranaut and Smriti Irani.",
@@ -340,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-team-india-player-was-penalised-after-womens-asia-cup-final/articleshow/134240204.cms",
     "time": "2026-09-14T11:35:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Decoding SP, Congress's Owaisi problem",
-    "desc": "Asaduddin Owaisi's AIMIM is actively pursuing alliances with opposition parties in preparation for the upcoming elections in Uttar Pradesh. AIMIM's strategy revolves around consolidating its Muslim voter base to compete with major parties like the Samajwadi Party and Congress, which are also targeting this demographic. Should the opposition remain divided, the BJP could exploit these fractures for electoral gains.",
-    "img": "https://static.toiimg.com/photo/msid-134239915,imgsize-969241.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/up-assembly-elections-and-fight-for-muslim-votes-decoding-sp-congresss-owaisi-problem/articleshow/134239210.cms",
-    "time": "2026-09-14T11:31:36.000Z"
   },
   {
     "cat": "Politics",
@@ -432,15 +486,6 @@ const newsData_en = [
     "time": "2026-09-14T09:22:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Soni says son-in-law Ranbir is a wonderful father to Raha, a big support to Alia",
-    "desc": "fathers are increasingly taking an active role in child-rearing. This shared and deliberate approach to parenting is, in her view, one of the most admirable developments of today’s generation. The increased involvement of fathers reflects a significant positive transformation, emphasizing that parenting now holds greater significance for younger families.",
-    "img": "https://static.toiimg.com/photo/msid-134237728,imgsize-300384.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/soni-razdan-says-son-in-law-ranbir-kapoor-is-such-a-wonderful-father-to-raha-a-big-support-to-alia-bhatt-in-my-generation-taking-out-time-for-your-children-was-not-/articleshow/134237679.cms",
-    "time": "2026-09-14T09:17:54.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Four Myanmar nationals detained in Bihar over lack of valid documents",
     "desc": "Upon the arrival of the train, a Railway Protection Force (RPF) team, questioned the four persons and detained them as they could not produce valid passports, citizenship certificates or other legal identity documents, RPF inspector Vikram Kumar said.",
@@ -514,7 +559,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Mirzapur The Movie' BO Day 11 [LIVE]: Pankaj Tripathi film crosses Rs 187 crore India net",
+    "title": "'Mirzapur The Movie's worldwide gross hits Rs 273 crore in 11 days",
     "desc": "'Mirzapur The Movie' has powered past the Rs. 184 crore mark in India as it enters Day 11, buoyed by a second weekend that brought in double-digit numbers on both Day 9 and Day 10. The Pankaj Tripathi, Ali Fazal and Ravi Kishan starrer has now pushed its worldwide gross beyond Rs. 266 crore, keeping alive the possibility of the film inching towards the Rs. 200 crore India net club in the days ahead.",
     "img": "https://static.toiimg.com/photo/msid-134235480,imgsize-101723.cms",
     "src": "indiatimes.com",
@@ -558,15 +603,6 @@ const newsData_en = [
     "time": "2026-09-14T05:45:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside Kritika Kamra's Mumbai rental: A blend of vintage, textiles &amp; decor",
-    "desc": "Kritika Kamra’s Mumbai rental apartment is a serene homey oasis blending Indian textiles, vintage-inspired furniture and modern global décor. Designed around the actor’s love for artisanship and understated elegance, the space features Chanderi textiles from her label Cinnabar, pastel furnishings, eclectic artwork and cosy corners for entertaining and content creation. Kritika calls it the “house of my 30s,” a personal retreat designed to feel warm, relaxed and distinctly separate from her life as an actor.",
-    "img": "https://static.toiimg.com/photo/msid-134130343,imgsize-155999.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-kritika-kamras-mumbai-home-actor-calls-serene-rental-apartment-house-of-my-30s-that-blends-indian-textiles-chanderi-craftsmanship-vintage-furniture-and-modern-decor/articleshow/134129676.cms",
-    "time": "2026-09-14T05:16:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "15 vs 3.33: How struggling England side swept Pakistan 3-0",
     "desc": "Pakistan lost a wicket on the first ball of the series and, on the last ball, misfielded as England completed the whitewash. In between, there had been three Tests in which Pakistan rarely looked competitive, often looked unprepared and, by the end, barely resembled (literally) the team that had landed in England.",
@@ -574,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/15-vs-3-33-how-struggling-england-side-swept-pakistan-3-0/articleshow/134232776.cms",
     "time": "2026-09-14T05:08:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "The silver medal Koneru Humpy's 9-year-old daughter will remember as gold",
-    "desc": "Humpy's nine-year-old daughter Ahana witnessed her mother play live for the first time as APL Pipers lost the GCL final to Ganges Grandmasters. While Humpy was left disappointed with silver, Ahana celebrated from the front row, seeing only the joy of her mother competing and receiving a medal. For her, the silver felt every bit like gold.",
-    "img": "https://static.toiimg.com/photo/msid-134232359,imgsize-105886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/the-silver-medal-koneru-humpys-9-year-old-daughter-will-remember-as-gold/articleshow/134232292.cms",
-    "time": "2026-09-14T04:24:15.000Z"
   },
   {
     "cat": "Sports",
@@ -682,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/etfs-a-one-click-route-to-diversified-investing/article71463244.ece",
     "time": "2026-09-13T12:01:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Swedes vote in election that could usher far right into government",
-    "desc": "But Prime Minister Ulf Kristersson, who has trailed in opinion polls throughout his four years in office, has been catching up in the ‌final weeks of campaigning, with rival Magdalena Andersson and her Social Democrats losing ground",
-    "img": "https://th-i.thgim.com/public/incoming/8juk34/article71463125.ece/alternates/LANDSCAPE_1200/2026-09-13T065351Z_1459684601_RC26INAAOM9T_RTRMADP_3_SWEDEN-ELECTION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/swedes-vote-in-election-that-could-usher-far-right-into-government/article71463032.ece",
-    "time": "2026-09-13T11:13:40.000Z"
   },
   {
     "cat": "Entertainment",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
     "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
