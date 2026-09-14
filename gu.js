@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "મોહસિન નકવીના હાથે એશિયા કપની ટ્રોફી ન લેવાનું કારણ આવ્યું સામે, ટીમ ઈંડિયાના કોચ એ કરી સ્પષ્ટતા",
+    "desc": "ભારતીય મહિલા ક્રિકેટ ટીમ એ એશિયા કપ 2026 જીત્યા બાદ એસીસી ના અધ્યક્ષ મોહસિન નકવીના હાથે ટ્રોફી લેવાનો ઈન્કાર કર્યો હતો. આ મામલે વિવાદ થતા ટીમ ઈંડિયાના કોચ અમોલ મજૂમદાર એ સ્પષ્ટતા કરી છે કે મહિલા ખેલાડીઓએ શા માટે નકવીના હાથે ટ્રોફી લીધી નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/asia-cup-2026-trophy-controversy-team-india-coach-muzumdar-said-it-was-bcci-decision-on-mohsin-naqvi-491119 ",
+    "time": "2026-09-14T02:49:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ભારતીય ક્રિકેટ ઇતિહાસમાં પહેલીવાર: જન ગણ મન પહેલા ગાવામાં આવ્યું વંદે માતરમ, શું છે કારણ?",
     "desc": "અફઘાનિસ્તાન સામેની મેચ શરૂ થાય તે પહેલાં, જન ગણ મન પહેલાં વંદે માતરમ વગાડવામાં આવ્યું. આનાથી સોશિયલ મીડિયા પર ચર્ચા શરૂ થઈ. ચાહકો મૂંઝવણમાં મુકાયા અને એકબીજાને પૂછ્યું કે આવું કેમ થયું. ચાલો તેની પાછળનું કારણ શોધીએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -547,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ind-vs-afg-t20-series-from-sept-13-where-to-watch-live-telecast-and-streaming-in-india-490509 ",
     "time": "2026-09-08T09:02:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "હદ થઈ ગઈ! પાકિસ્તાનીઓની શરમજનક હરકત, લાઈવ મેચમાં ભારતીય મહિલા ક્રિકેટર પર કરી અભદ્ર ટિપ્પણી",
-    "desc": "જ્યારે પાકિસ્તાન મહિલા ટીમના બેટ્સમેન ભારતીય બોલરો સામે સંઘર્ષ કરી રહ્યા હતા, ત્યારે સ્ટેડિયમમાં હાજર કેટલાક પાકિસ્તાની ચાહકોની હતાશા સ્પષ્ટપણે દેખાઈ રહી હતી. પાકિસ્તાનના કેટલાક ફેન્સ સ્ટાર મહિલા બોલર ક્રાંતિ ગૌડ પર આપત્તિજનક ટિપ્પણી કરી રહ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/pakistan-fans-shameful-act-during-womens-asia-cup-match-kranti-goud-490440 ",
-    "time": "2026-09-07T17:35:46.000Z"
   },
   {
     "cat": "Entertainment",
