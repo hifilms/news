@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Ronaldo suffers worst Al-Nassr defeat to date in 4-0 Champions League loss",
+    "desc": "Cristiano Ronaldo and Al-Nassr endured a nightmare return to the AFC Champions League Elite, suffering a 4-0 defeat to Al-Ain. The result marks Ronaldo’s heaviest loss since joining the Saudi club in 2023 and leaves Al-Nassr bottom after Matchday 1. Ange Postecoglou’s side now face seven remaining league-stage matches to recover from their disastrous opening.",
+    "img": "https://static.toiimg.com/photo/msid-134272933,imgsize-77252.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/nightmare-ronaldo-suffers-his-worst-al-nassr-defeat-to-date-as-afc-champions-league-elite-comeback-ends-in-4-0-humiliation/articleshow/134272568.cms",
+    "time": "2026-09-15T20:16:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Udhayanidhi condemns TVK-led govt. over attempt to ‘paralyse’ High Level Committee on Union-State Relations",
+    "desc": "The Committee was constituted during the previous M.K. Stalin-led DMK govt.; the LoP in T.N. Assembly claimed that the present govt. has created a situation in which the research scholars working on the Committee’s second report were unable to continue their work",
+    "img": "https://th-i.thgim.com/public/incoming/t8y8mb/article71469922.ece/alternates/LANDSCAPE_1200/20260907483L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-condemns-tvk-led-govt-over-attempt-to-paralyse-high-level-committee-on-union-state-relations/article71469408.ece",
+    "time": "2026-09-15T19:01:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Omar praises India’s foreign policy over Brics mention of Pahalgam, slams Centre on UCC",
+    "desc": "Jammu and Kashmir' chief minister Omar Abdullah commended India’s diplomatic achievements at the recent Brics summit. He highlighted the group's unified condemnation of the Pahalgam terrorist attack. Furthermore, Abdullah expressed concerns about the central government's strategy in implementing the Uniform Civil Code and asserted that such pivotal legislation ought to be decided by Parliament, rather than through isolated state actions that circumvent legislative norms.",
+    "img": "https://static.toiimg.com/photo/msid-134271585,imgsize-1194088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/omar-praises-indias-foreign-policy-over-brics-mention-of-pahalgam-slams-centre-on-ucc/articleshow/134271508.cms",
+    "time": "2026-09-15T18:41:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lady Gaga spotted cradling her baby in LA; child already a few months old",
+    "desc": "Lady Gaga was reportedly spotted cradling her baby in Los Angeles, with a source claiming the child is already a few months old. The singer has kept the news private while embracing motherhood away from the spotlight. According to the report, Gaga is in “full nesting mode”, constantly holding her baby to bond and enjoying motherhood.",
+    "img": "https://static.toiimg.com/photo/msid-134271631,imgsize-73921.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lady-gaga-spotted-cradling-baby-in-los-angeles-child-reportedly-already-a-few-months-old-singer-holds-baby-all-the-time-to-bond-and-is-never-happier-as-a-new-mom/articleshow/134271589.cms",
+    "time": "2026-09-15T18:28:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Saudi Arabia warns it will react 'firmly' to Houthi attacks",
+    "desc": "Saudi Arabian ‌Civil Defence sent an alert on September 15, ​after issuing alerts for potential danger ‌in six cities, including Yanbu, ‌the kingdom's ‌main ⁠Red Sea oil ⁠port, where millions of barrels a day ​are loaded",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/west-asia-war-live-updates-saudi-arabia-houthi-attacks-red-sea-us-iran-september-15-2026/article71466658.ece",
+    "time": "2026-09-15T18:12:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Threatens freedom of navigation through Bab-el-Mandeb’: India condemns Houthi strikes on Saudi Arabia",
+    "desc": "India strongly condemned the Houthi strikes aimed at Saudi Arabia, voicing serious concerns over the implications for regional stability and vital maritime routes, such as Bab-el-Mandeb. During the Brics Summit, Foreign Minister Jaishankar engaged with his Saudi counterpart regarding the escalating Houthi situation. India firmly rejected the attacks on sovereign nations and key infrastructures, advocating for an immediate return to peace and stability in the region.",
+    "img": "https://static.toiimg.com/photo/msid-134270789,imgsize-87376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/threatens-freedom-of-navigation-through-bab-el-mandeb-india-condemns-houthi-strikes-on-saudi-arabia/articleshow/134270703.cms",
+    "time": "2026-09-15T17:59:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "No death penalty for Rob Reiner's son Nick Reiner as prosecutors decline to pursue capital punishment",
+    "desc": "In a significant legal decision, prosecutors have opted against pursuing the death penalty for Nick Reiner, who is charged with the tragic stabbing murders of his parents, Rob and Michele Reiner. Despite special circumstances warranting capital punishment, the district attorney has reviewed mitigating factors and confirmed that Reiner may now face life imprisonment without the possibility of parole if found guilty.",
+    "img": "https://static.toiimg.com/photo/msid-134270616,imgsize-521988.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/no-death-penalty-for-rob-reiners-son-nick-reiner-as-prosecutors-decline-to-pursue-capital-punishment/articleshow/134270557.cms",
+    "time": "2026-09-15T17:54:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We're not machines, we're not robots, outside noise does affect us': Sanju Samson",
+    "desc": "Sanju Samson recognizes the impact of public scrutiny on cricketers, yet he handles it with poise. In the second T20I against Afghanistan, he showcased his talent by scoring fifty-seven runs off just twenty-two balls. Rather than viewing his teammates as competitors for starting positions, he embraces their camaraderie. His experience as an IPL captain provides him with valuable insight into the challenging selection process that management faces.",
+    "img": "https://static.toiimg.com/photo/msid-134270361,imgsize-209060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/were-not-machines-were-not-robots-outside-noise-does-affect-us-sanju-samson/articleshow/134270330.cms",
+    "time": "2026-09-15T17:47:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Samarkand Chess Olympiad preview",
+    "desc": "The 46th edition of the biggest team event in chess starts in Samarkand on Wednesday, with 208 nations participating in the open section and 191 in the women’s; the tournament, to be played over 11 rounds in the Swiss system, concludes on September 27",
+    "img": "https://th-i.thgim.com/public/sport/8d3tkn/article71469223.ece/alternates/LANDSCAPE_1200/TH16OLYMPIAD.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/samarkand-chess-olympiad-2026-preview-india-chances/article71468821.ece",
+    "time": "2026-09-15T17:42:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I always wanted to become the greatest all-rounder': Nitish Reddy",
+    "desc": "Nitish Kumar Reddy returned figures of 3/24 as India restricted Afghanistan to 159 for eight. Sanju Samson then smashed 57 off 22 balls as India chased down the target in 14.5 overs to take an unassailable 2-0 lead in the three-match series.",
+    "img": "https://static.toiimg.com/photo/msid-134270289,imgsize-35004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/i-always-wanted-to-become-the-greatest-all-rounder-nitish-kumar-reddy-after-india-seal-series-vs-afghanistan/articleshow/134270280.cms",
+    "time": "2026-09-15T17:41:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Samson establishes his role of opener as India beat Afghanistan by seven-wickets",
+    "desc": "Sanju Samson showcased his incredible skills, leading India to a triumphant T20 series win against Afghanistan with a blistering fifty-seven runs in just twenty-two balls. He was well-supported by Abhishek Sharma, who added thirty-eight not out. Meanwhile, the impressive bowling from Nitish Kumar Reddy eased the coaching staff’s worries, while the stellar performance of Samson and Sharma indicates a tough challenge ahead for the younger players.",
+    "img": "https://static.toiimg.com/photo/msid-134269840,imgsize-46615.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sanju-samsons-57-off-22-establishes-his-role-of-the-preferred-opener-as-india-beat-afghanistan-by-seven-wickets-to-seal-t20i-series/articleshow/134269649.cms",
+    "time": "2026-09-15T17:15:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DRDO has developed indigenous GaN tech for next-gen radars, electronic warfare: Def min report",
+    "desc": "India's Defense Research and Development Organization (DRDO) has unveiled a significant breakthrough in Gallium Nitride MMIC technology, which is set to enhance its defense capabilities. This indigenous development positions India among a select few nations skilled in high-frequency chip technology. The advanced systems crafted through this innovation promise to improve radar functions and electronic warfare, offering robust wireless signal processing without the risk of overheating.",
+    "img": "https://static.toiimg.com/photo/msid-134269748,imgsize-43326.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/drdo-has-developed-indigenous-gan-tech-for-next-gen-radars-electronic-warfare-def-min-report/articleshow/134269616.cms",
+    "time": "2026-09-15T17:09:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Michael Douglas",
+    "desc": "Michael Douglas delved into the complexities surrounding his illustrious family name. He noted that while having a celebrated father offered distinct advantages, it also invited intense public scrutiny. Determined to carve out his niche, Douglas pursued a career in acting, eventually gaining fame through his successful television roles and films, solidifying his status as a leading star independent of his father's legacy.",
+    "img": "https://static.toiimg.com/photo/msid-134269179,imgsize-982766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-michael-douglas-my-dad-was-a-movie-star-having-that-name-was-good-and-bad-people-think-its-a-silver-spoon-its-not-a-personal-anecdote-from-the-star-on-growing-up-in-kirk-douglas-shadow-and-a-powerful-life-lesson-about-carving-your-own-path/articleshow/134269087.cms",
+    "time": "2026-09-15T17:00:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Relief of residents as removal of chemical-laced soil begins in village in Keralam",
+    "desc": "The hazardous chemical waste from the now-defunct Binani Zinc Limited in Ernakulam district was illegally transported and dumped across private lands in Eriyad, a coastal village in Thrissur district, a few months ago, under the guise of regular soil for land filling, raising environmental concerns among the public. A meeting chaired by RDO decided to remove the entire material within two days",
+    "img": "https://th-i.thgim.com/public/incoming/g26vp8/article71469423.ece/alternates/LANDSCAPE_1200/80688_15_9_2026_19_26_37_1_ERIYAD_KKN1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/relief-of-residents-as-removal-of-chemical-laced-soil-begins-in-village-in-keralam/article71468445.ece",
+    "time": "2026-09-15T16:58:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Narrower margin for error in Census second phase, training vital, Registrar General says",
+    "desc": "In a letter sent to all States, Registrar General and Census Commissioner of India Mritunjay Kumar Narayan asks for the integration of gender sensitisation in training programme for enumerators, with emphasis on respectful interaction, accurate recording, and strict avoidance of assumptions or bias",
+    "img": "https://th-i.thgim.com/public/incoming/twl2b8/article71469688.ece/alternates/LANDSCAPE_1200/20260330138L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/narrower-margin-for-error-in-census-second-phase-training-vital-registrar-general-says/article71469463.ece",
+    "time": "2026-09-15T16:53:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson joins Rohit Sharma, KL Rahul in India's elite club",
+    "desc": "The Kerala batter was a key player in India's T20 World Cup triumph, but his form has been inconsistent since then. He had scored only 33 runs in four innings before the Afghanistan series. With youngster Vaibhav Sooryavanshi also pushing for a place, Samson needed a strong performance. The upcoming Asian Games also added to the importance of his form.",
+    "img": "https://static.toiimg.com/photo/msid-134269349,imgsize-46615.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sanju-samson-joins-rohit-sharma-kl-rahul-in-indias-elite-club/articleshow/134269217.cms",
+    "time": "2026-09-15T16:48:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi court grants three weeks interim bail to Swatantra Bhardwaj to observe his conduct",
+    "desc": "The court added that if the complainant or the investigating officer finds him breaching any of the conditions of the interim bail, they are at liberty to bring the same to the court’s notice without waiting for the next date, so that the interim bail may be reviewed or recalled",
+    "img": "https://th-i.thgim.com/public/incoming/94b7n/article71467834.ece/alternates/LANDSCAPE_1200/PTI09_07_2026_000323B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/swatantra-bhardwaj-interim-bail-delhi-court/article71467809.ece",
+    "time": "2026-09-15T16:37:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s exports to US, China surge in August amid stronger global trade",
+    "desc": "India's merchandise exports to the US and China saw significant growth in August. Shipments to the US increased by over twenty-one percent while China saw a fifty-two percent rise. Overall exports climbed by more than twenty-six percent, driven by key sectors. Imports also grew, with electronics and crude oil shipments increasing substantially. This performance narrowed the merchandise trade deficit to its lowest in five months.",
+    "img": "https://static.toiimg.com/photo/msid-134268949,imgsize-229548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-exports-to-us-china-surge-in-august-amid-stronger-global-trade/articleshow/134268244.cms",
+    "time": "2026-09-15T16:34:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "His flat faced water leaks for 8 years; court orders neighbour to allow repairs",
+    "desc": "This water leakage problem between two neighbours in a housing society turned into an eight-year legal battle, with the Maharashtra Co-operative Appellate Court eventually directing the owner of the first-floor flat to allow repairs in his home.",
+    "img": "https://static.toiimg.com/photo/msid-134268511,imgsize-602050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/water-kept-leaking-into-his-ground-floor-home-despite-repeated-fixes-after-an-8-year-legal-fight-maharashtra-court-orders-first-floor-flat-owner-to-allow-repairs-and-split-costs/articleshow/134267989.cms",
+    "time": "2026-09-15T16:04:34.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Sonu Sood REACTS to 'Hanuman Ansh's Rs 220 crore success: 'It's high time...'",
     "desc": "The film Hanuman Ansh has made waves at the box office, collecting over Rs 220 crore. Sonu Sood emphasized that compelling content and emotional resonance outweigh high production costs. Many in Bollywood, like Hema Malini and Kangana Ranaut, have expressed their admiration for the film. Varun Dhawan noted the film's divine essence and stellar performances, showcasing that impactful storytelling is key to audience engagement.",
@@ -7,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonu-sood-reacts-to-hanuman-anshs-stunning-rs-220-crore-box-office-success-its-high-time-we-make-films-not-just-for-the-glamour-but-stories/articleshow/134268209.cms",
     "time": "2026-09-15T15:53:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Highest retail inflation under Modi is 4.8%, under UPA it was almost 10%, says Joshi",
-    "desc": "Union Minister for Education, Consumer Affairs, Food and Public Distribution Pralhad Joshi on Tuesday said retail inflation, which has risen to 4.8%per cent, was the highest so far during 12 years of Prime Minister Narendra Modi government, while under UPA regime it had had crossed double digits and never came down to single digit.",
-    "img": "https://th-i.thgim.com/public/incoming/p1p9xd/article71469493.ece/alternates/LANDSCAPE_1200/2699_15_9_2026_19_42_4_1_16HUBLIGANESHBEGINS_2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/highest-retail-inflation-under-modi-is-48-under-upa-it-was-almost-10-says-joshi/article71468244.ece",
-    "time": "2026-09-15T15:52:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -63,42 +225,6 @@ const newsData_en = [
     "time": "2026-09-15T15:31:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rahul, Priyanka, K.C. Venugopal meet Congress secretaries ahead of possible reshuffle",
-    "desc": "The meetings, which lasted about half-an-hour for each of several batches, focus on the nature of work being undertaken by the secretaries, their roles and responsibilities, and the time they were spending in the States assigned to them",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-tamilnadu/v8du37/article70681866.ece/alternates/LANDSCAPE_1200/Rahul-lays-stonG3DFL3NOV.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rahul-priyanka-kc-venugopal-meet-congress-secretaries-ahead-of-possible-reshuffle/article71468864.ece",
-    "time": "2026-09-15T15:27:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Innovative pandals add colour to Ganesh pandals across Visakhapatnam",
-    "desc": "From a Ganesh idol made with one crore bangles and another adorned with one crore Rudraksha beads to a replica of the Bhogapuram airport, innovative themes and creative installations drew large crowds during Vinayaka Chavithi celebrations across the city",
-    "img": "https://th-i.thgim.com/public/incoming/1kylzi/article71469302.ece/alternates/LANDSCAPE_1200/000001Ganeshhh.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/innovative-pandals-add-colour-to-ganesh-pandals-across-visakhapatnam/article71467928.ece",
-    "time": "2026-09-15T15:24:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IPS, IMA keralam units oppose ‘Happiness and Wellness’ tag for mental health centres",
-    "desc": "Indian Psychiatric Society (IPS), Kerala and the Indian Medical Association, Kerala say rebranding of mental health centres trivialises severe illnesses and could mislead patients about the nature of treatment offered at these essential public institutions.",
-    "img": "https://th-i.thgim.com/public/incoming/2jc9pk/article71469290.ece/alternates/LANDSCAPE_1200/Away-from-the-wGV4GAUVT2.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ips-ima-keralam-units-oppose-happiness-and-wellness-tag-for-mental-health-centres/article71469015.ece",
-    "time": "2026-09-15T15:24:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala University institutes scrutiny into Chintha Jerome’s PhD thesis",
-    "desc": "Decision based on a complaint submitted by Syndicate member R.S. Sasikumar to Vice Chancellor in-charge Mohanan Kunnummal, which pointed out that no further action had been taken by the university on the issue despite the Governor having forwarded a complaint concerning the alleged widespread errors in the PhD thesis",
-    "img": "https://th-i.thgim.com/public/incoming/574adq/article71469252.ece/alternates/LANDSCAPE_1200/80688_22_8_2026_20_16_40_1_CHINTHAJEROME_KKN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-university-institutes-scrutiny-into-chintha-jeromes-phd-thesis/article71468902.ece",
-    "time": "2026-09-15T15:23:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Dhanush’s 'D56' reportedly titled ‘Padayal’, to begin with pooja ceremony on September 17",
     "desc": "Dhanush's next project, rumored to be titled 'Padayal', delves into the world of rural action. Produced by his own Wunderbar Films, the film promises an intense narrative filled with raw action and violence. Fans can look forward to a pooja ceremony set for September 17th, creating anticipation for what comes next. Also, don't forget that Dhanush's film 'OM' is slated for a theatrical release next month.",
@@ -106,24 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/d56-dhanush-and-tamizharasan-pachamuthus-next-film-reportedly-titled-padayal-pooja-on-september-17/articleshow/134267611.cms",
     "time": "2026-09-15T15:09:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Samarkand Chess Olympiad preview",
-    "desc": "The 46th edition of the biggest team event in chess starts in Samarkand on Wednesday, with 208 nations participating in the open section and 191 in the women’s; the tournament, to be played over 11 rounds in the Swiss system, concludes on September 27",
-    "img": "https://th-i.thgim.com/public/sport/8d3tkn/article71469223.ece/alternates/LANDSCAPE_1200/TH16OLYMPIAD.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/samarkand-chess-olympiad-2026-preview-india-chances/article71468821.ece",
-    "time": "2026-09-15T15:08:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Three-member gang arrested for temple thefts across A.P., Karnataka",
-    "desc": "According to the police, the accused reportedly wore masks on their faces, gloves on their hands and sprayed colours on CCTV cameras while committing the thefts; seize 21 kilograms of silver ornaments, melted silver lumps and a two-wheeler, all worth nearly ₹40 lakhs",
-    "img": "https://th-i.thgim.com/public/incoming/e06u9v/article71469037.ece/alternates/LANDSCAPE_1200/10745_15_9_2026_18_5_52_1_IMG_20260915_WA0065.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-member-gang-arrested-for-temple-thefts-across-ap-karnataka/article71467967.ece",
-    "time": "2026-09-15T14:54:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -171,15 +279,6 @@ const newsData_en = [
     "time": "2026-09-15T14:11:46.000Z"
   },
   {
-    "cat": "World",
-    "title": "Saudi Arabia warns it will react 'firmly' to Houthi attacks",
-    "desc": "Saudi Arabian ‌Civil Defence sent an alert on September 15, ​after issuing alerts for potential danger ‌in six cities, including Yanbu, ‌the kingdom's ‌main ⁠Red Sea oil ⁠port, where millions of barrels a day ​are loaded",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/west-asia-war-live-updates-saudi-arabia-houthi-attacks-red-sea-us-iran-september-15-2026/article71466658.ece",
-    "time": "2026-09-15T14:11:28.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Bhuvan visits Salman at his house; superstar watches his show",
     "desc": "Bhuvan Bam recently enjoyed a screening of his show 'The Revolutionaries' at the home of Salman Khan, accompanied by director Nikkhil Advani. The actor expressed his heartfelt thanks to Advani for casting him as the iconic Rash Bihari Bose in this historical drama. Meanwhile, Khan is busy gearing up for his upcoming film 'Matrubhoomi.' Read on to know more in detail.",
@@ -196,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-refused-to-buy-car-worth-rs-1-5-crore-distributed-money-to-the-farmers-recalls-writer-as-he-slams-the-perceptions-around-the-actor-cant-cause-harm-to-anyone/articleshow/134266212.cms",
     "time": "2026-09-15T14:02:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day for children by Meghan Markle",
-    "desc": "Meghan Markle recently shared an inspiring quote that encourages kids to practice kindness towards themselves. By advocating for self-empathy similar to what they extend to their best friends, she highlights the importance of cultivating self-worth from an early age. Before marrying Prince Harry, Markle had a successful Hollywood career. After their wedding, the couple moved to California, though they eventually returned to the UK.",
-    "img": "https://static.toiimg.com/photo/msid-134260726,imgsize-1313752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-for-children-by-meghan-markle-we-just-need-to-be-kinder-to-ourselves-if-we-treated-ourselves-the-way-we-treated-our-best-friend-can-you-imagine-how-much-better-off-we-would-be-the-suits-stars-lesson-on-qualities-a-child-should-have/articleshow/134260674.cms",
-    "time": "2026-09-15T14:00:00.000Z"
   },
   {
     "cat": "Sports",
@@ -315,15 +405,6 @@ const newsData_en = [
     "time": "2026-09-15T11:55:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘He had received two invitations’: India rejects confusion over Bangladesh PM’s Brics invite",
-    "desc": "India extended two distinct invitations to Bangladesh Prime Minister Tarique Rahman for separate engagements. He received an invitation for a bilateral visit and another for the Brics Summit. The Brics invitation was specifically extended to him as the current chair of Bimstec. Bangladeshi officials clarified that the summit invitation was for the Bimstec chair, not the prime minister. India's bilateral invitation to Rahman remains open for a future conducive timing.",
-    "img": "https://static.toiimg.com/photo/msid-134261181,imgsize-1202155.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/he-had-received-two-invitations-india-rejects-confusion-over-bangladesh-pms-brics-invite/articleshow/134260461.cms",
-    "time": "2026-09-15T11:47:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rs 3.25 lakh meant for father went to wrong account; Karnataka HC orders refund",
     "desc": "The court passed the order after hearing a petition filed by the woman who said she had intended to transfer the money to her father but inadvertently sent it to another account. The account belonged to M/s Standard Engineering Works and, according to the petitioner's case, was dormant.",
@@ -340,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakesh-roshan-leases-out-two-commercial-units-of-5574-sq-ft-in-andheri-west-at-a-monthly-rent-of-rs-7-3-lakh-report/articleshow/134260487.cms",
     "time": "2026-09-15T11:30:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shah Rukh Khan calls Mahesh Babu ‘too sweet and kind’",
-    "desc": "Shah Rukh Khan described Mahesh Babu as 'too sweet and kind' during a recent AskSRK session. Mahesh Babu previously wished Shah Rukh Khan a happy birthday and praised his passion. Shah Rukh Khan's upcoming film 'King' is scheduled for a December 2026 release. Mahesh Babu is also working on SS Rajamouli's highly anticipated film 'Varanasi'. This film is slated for a theatrical release in April 2027.",
-    "img": "https://static.toiimg.com/photo/msid-134260577,imgsize-1435811.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/shah-rukh-khan-praises-varanasi-star-mahesh-babu-during-asksrk-session-calls-him-too-sweet-and-kind-and-says-bless-him-when-asked-to-describe-him/articleshow/134260458.cms",
-    "time": "2026-09-15T11:27:53.000Z"
   },
   {
     "cat": "Sports",
@@ -394,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-exports-jump-25-4-in-august-narrowing-overall-trade-deficit-to-9-41-billion/articleshow/134259014.cms",
     "time": "2026-09-15T10:37:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shah Rukh Khan confirms 'King' release is NOT delayed, says he suffered a few injuries",
-    "desc": "Shah Rukh Khan has officially announced that his anticipated film 'King' is set to hit theaters on December 24, 2026. The superstar emphasized that production is progressing smoothly, despite facing challenges due to injuries, which affected the shooting schedule. He is committed to delivering a remarkable performance, putting effort into his appearance, action sequences, and music. This action thriller also stars Suhana Khan and Deepika Padukone.",
-    "img": "https://static.toiimg.com/photo/msid-134258899,imgsize-227648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-confirms-king-release-is-not-delayed-says-he-suffered-a-few-injuries-while-shooting-all-broken-is-fixed/articleshow/134258827.cms",
-    "time": "2026-09-15T10:30:42.000Z"
   },
   {
     "cat": "Business",
@@ -540,15 +603,6 @@ const newsData_en = [
     "time": "2026-09-15T05:05:32.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Mohsin Naqvi to take drastic steps as Aaqib Javed, Wahab Riaz face axe",
-    "desc": "After a poor performance in England, Pakistan cricket is gearing up for a possible major shake-up. Reports indicate that the Pakistan Cricket Board is evaluating the national selection committee, with former player Aaqib Javed at risk of losing his position. Furthermore, the changes may extend to the women's team and coaching personnel, as Mohsin Naqvi confers with his team and board members to finalize the direction ahead.",
-    "img": "https://static.toiimg.com/photo/msid-134252262,imgsize-891228.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mohsin-naqvi-set-to-take-drastic-steps-aaqib-javed-wahab-riaz-could-face-axe/articleshow/134252109.cms",
-    "time": "2026-09-15T05:03:41.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Widow’s Bay’ dominates, ‘The Pitt’ holds on — full results and surprises",
     "desc": "The 2026 Emmys delivered a night of upsets and history as ‘Widow’s Bay’ dominated the comedy race, ‘The Pitt’ defended its drama series crown and ‘DTF St. Louis’ pulled off a major win in the limited series race",
@@ -574,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-pity-sanju-samson-ex-india-cricketer-slams-gautam-gambhir-and-management-over-vaibhav-sooryavanshi-handling/articleshow/134250892.cms",
     "time": "2026-09-15T03:14:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘You don’t treat human beings that way’: Holding slams Pakistan over Imran Khan",
-    "desc": "Michael Holding, the former cricketer, has voiced support for improved treatment of Imran Khan, advocating that the former captain deserves humane conditions. With rising worries over Khan's health and the adequacy of prison facilities, international cricket figures have previously reached out to the Prime Minister of Pakistan. Holding’s emotions reflect a broader sentiment regarding the plight of the former leader in confinement.",
-    "img": "https://static.toiimg.com/photo/msid-134250670,imgsize-597225.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-dont-treat-human-beings-that-way-michael-holding-slams-pakistan-over-imran-khans-treatment/articleshow/134250588.cms",
-    "time": "2026-09-15T02:54:34.000Z"
   },
   {
     "cat": "Sports",
@@ -711,24 +756,6 @@ const newsData_en = [
     "time": "2026-09-14T10:22:17.000Z"
   },
   {
-    "cat": "World",
-    "title": "Nepal flood survivor recalls 9 days underground",
-    "desc": "After surviving nine days trapped underground following Nepal’s devastating glacier-triggered floods, hydropower worker Sanjay Sah has finally returned home. Surviving on floodwater in complete darkness, Sah says faith and thoughts of his family kept him alive until rescuers reached him. His emotional reunion comes as the search continues for thousands still missing.",
-    "img": "https://th-i.thgim.com/public/incoming/9zmm1q/article71465796.ece/alternates/LANDSCAPE_1200/YT%20Thumbnail%20SKR.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/there-was-only-darkness-nepal-flood-survivor-recalls-9-days-underground-survivor-story/article71465798.ece",
-    "time": "2026-09-14T09:22:58.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Indian-origin man wanted in U.S. for Medicare fraud",
-    "desc": "Mohammed used American Premier to submit approximately $93 million in alleged fraudulent Medicare claims, resulting in payments of at least $65 million, the Office of the Inspector General, says Department of Health and Human Services",
-    "img": "https://th-i.thgim.com/public/news/national/uo2w31/article71465623.ece/alternates/LANDSCAPE_1200/khadeer-khan-mohammed.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/indian-origin-man-wanted-in-us-for-medicare-fraud/article71465581.ece",
-    "time": "2026-09-14T07:37:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pakistan cricket at a new low after England humiliation",
     "desc": "Described as the worst team to tour England in the last 50 years, Pakistan's cycle of chopping and changing continued when head coach Sarfaraz Ahmed and bowling chief Umar Gul were sacked from their posts",
@@ -772,15 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/a-roof-overhead/article71393728.ece",
     "time": "2026-09-12T17:33:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "After O.P. Bhatt, Coforge NRC chair D.K. Singh resigns amid board tensions",
-    "desc": "Coforge refuted DK Singh’s claims as \"unfounded\" and an \"afterthought\", saying his resignation followed an internal audit review that flagged governance lapses in how he and former Chairman OP Bhatt handled a board evaluation exercise",
-    "img": "https://th-i.thgim.com/public/incoming/2zoezu/article71459238.ece/alternates/LANDSCAPE_1200/Coforge-securesGTUGA0PHJ.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/after-op-bhatt-coforge-nrc-chair-dk-singh-resigns-amid-board-tensions/article71459199.ece",
-    "time": "2026-09-12T05:43:09.000Z"
   },
   {
     "cat": "Tech",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
     "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
   }
 ];

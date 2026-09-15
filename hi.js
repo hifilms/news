@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sanju Samson reflects on competition with Vaibhav Sooryavanshi after match-winning knock against Afghanistan",
+    "desc": "Star India batter Sanju Samson stole the show in the second T20I against Afghanistan at the Arun Jaitley Stadium in New Delhi. The keeper-batter was out of the Zimbabwe tour after a poor run of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-reflects-on-competition-with-vaibhav-sooryavnashi-after-match-winning-knock-against-afghanistan-2026-09-15-1054336",
+    "time": "2026-09-15T18:12:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer opens up after India register stellar victory against Afghanistan in second T20I",
+    "desc": "The Indian team put forth a brilliant performance in the second T20I of the ongoing series against Afghanistan. Taking on the side at the Arun Jaitley Stadium in Delhi on September 15, the Men in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-opens-up-after-india-register-stellar-victory-against-afghanistan-in-second-t20i-2026-09-15-1054335",
+    "time": "2026-09-15T18:02:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson's hammering knock seals series for India after another lacklustre show from Afghanistan",
+    "desc": "India thrashed Afghanistan by seven wickets in the second T20I of the three-match series at the Arun Jaitley Stadium in New Delhi. After a flawless bowling show, in which India managed to restrict Afghanistan to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-s-hammering-knock-seals-series-for-india-after-another-lacklustre-show-from-afghanistan-2026-09-15-1054330",
+    "time": "2026-09-15T16:53:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rinku Singh, Priya Saroj to get married on December 4, wedding set to be held in Lucknow; Check details",
+    "desc": "In a major development, star India batter Rinku Singh is all set to get married to Samajwadi Party MP Priya Saroj. The two are set to get married on December 4, and the couple will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-priya-saroj-to-get-married-on-december-4-wedding-set-to-be-held-in-lucknow-check-details-2026-09-15-1054329",
+    "time": "2026-09-15T16:25:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Varun Chakaravarthy not playing in the second T20I against Afghanistan at Arun Jaitley Stadium?",
     "desc": "The Indian team takes on Afghanistan in the 2nd T20I of the ongoing series. The two sides meet at the Arun Jaitley Stadium in Delhi on September 15. It is worth noting that the Men...",
     "img": "",
@@ -19,7 +55,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "IND vs AFG, 2nd T20I LIVE Score: Samson-Abhishek look to propel India to a good start",
+    "title": "IND vs AFG, 2nd T20I highlights: India defeat Afghanistan by 7 wickets",
     "desc": "The stage is set for the 2nd T20I of the ongoing series between India and Afghanistan. The teams meet at the Arun Jaitley Stadium in Delhi for the clash, and after winning the first T20I...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-vs-afghanistan-2nd-t20i-pitch-report-how-will-surface-in-delhi-play-2026-09-15-1054295",
     "time": "2026-09-15T11:25:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Steve Smith gives crucial update on his future, opens up on availability for Ashes 2027",
-    "desc": "Veteran Australia batter Steve Smith is widely revered as one of the greatest batters of his generation. At 37, Smith remains an integral part of Australia’s Test team, playing a key role in the side’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-gives-crucial-update-on-his-future-opens-up-on-availability-for-ashes-2027-2026-09-15-1054288",
-    "time": "2026-09-15T10:26:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Varun Chakaravarthy ruled out of Afghanistan T20I series due to injury; Check details",
-    "desc": "In a major blow for the Indian team, star spinner has been ruled out of the ongoing T20I series against Afghanistan due to injury. It is worth noting that Chakaravarthy bowled his complete quota of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/varun-chakaravarthy-ruled-out-of-afghanistan-t20i-series-due-to-injury-check-details-2026-09-14-1054213",
-    "time": "2026-09-14T13:25:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer opens up on call to drop Vaibhav Sooryavanshi over Sanju Samson in 1st AFG T20I",
-    "desc": "The Indian team got off to a stellar start to their ongoing T20I series against Afghanistan. Taking on the side at the Arun Jaitley Stadium in Delhi on September 13, the Men in Blue registered...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-call-to-drop-vaibhav-sooryavanshi-over-sanju-samson-in-1st-afg-t20i-2026-09-14-1054211",
-    "time": "2026-09-14T13:10:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chaminda Vaas, Amit Mishra set to join Delhi Capitals' coaching staff ahead of IPL 2027",
-    "desc": "In a major development, former Sri Lanka cricketer Chaminda Vaas and former India cricketer Amit Mishra are all set to join the coaching staff of Delhi Capitals ahead of the IPL (Indian Premier League) 2027....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/chaminda-vaas-amit-mishra-set-to-join-delhi-capitals-coaching-staff-ahead-of-ipl-2027-2026-09-14-1054205",
-    "time": "2026-09-14T11:35:23.000Z"
   }
 ];
