@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Salman performs aarti at Khan family's Ganpati visarjan",
+    "desc": "Salman Khan joined his family for their annual Ganpati visarjan celebrations. He participated in the aarti and prayers before the idol's immersion. The festivities took place at his brother Sohail Khan's residence this year. Pictures and videos of the event have now gone viral on social media. Khan also shared a reflective post on his social media account this week.",
+    "img": "https://static.toiimg.com/photo/msid-134275450,imgsize-404891.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-performs-aarti-at-khan-familys-ganpati-visarjan-joins-iulia-vantur-to-offer-prayers-to-bappa-pics/articleshow/134275053.cms",
+    "time": "2026-09-15T23:03:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ed Sheeran’s tour in trouble after four opening acts drop out in solidarity with rapper Macklemore",
+    "desc": "Sheeran said decision to drop Macklemore over pro-Palestinian comments onstage was made by the promoters alone; the singer has tried to taking a side in the Gaza conflict, arguing that his fans don’t come to his shows to hear politics",
+    "img": "https://th-i.thgim.com/public/incoming/vh5at0/article71470161.ece/alternates/LANDSCAPE_1200/Music-Macklemore-Ed-Sheeran_9_17_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/ed-sheerans-tour-in-trouble-after-four-opening-acts-drop-out-in-solidarity-with-rapper-macklemore/article71470147.ece",
+    "time": "2026-09-15T22:56:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "FBI chief Kash Patel defends hiring policy changes on prostitution, bestiality at fiery hearing",
+    "desc": "The hearing took place two months before the midterm elections in November and at a time when the FBI has opened investigations related to the 2020 contest, including by seizing voter data in Fulton County, Georgia",
+    "img": "https://th-i.thgim.com/public/incoming/phgxqq/article71470153.ece/alternates/LANDSCAPE_1200/2026-09-15T155149Z_447030020_RC2PJNACX0EM_RTRMADP_3_USA-JUSTICE-PATEL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/fbi-chief-kash-patel-defends-hiring-policy-changes-on-prostitution-bestiality-at-fiery-hearing/article71470146.ece",
+    "time": "2026-09-15T22:23:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sheeran's opening acts QUIT tour over Macklemore controversy",
+    "desc": "Four of Ed Sheeran's supporting acts have quit his tour abruptly. This decision came after rapper Macklemore was removed for pro-Palestinian remarks. Irish acts Aaron Rowe and Beoga, and Lukas Graham are leaving the tour. Finneas, Billie Eilish's collaborator, also withdrew from his South American dates. These artists expressed solidarity with Palestine and its people.",
+    "img": "https://static.toiimg.com/photo/msid-134273388,imgsize-349128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ed-sheerans-opening-acts-finneas-aaron-rowe-beoga-lukas-graham-drop-out-of-tour-in-solidarity-with-rapper-macklemore-over-pro-palestine-comments/articleshow/134273142.cms",
+    "time": "2026-09-15T21:55:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kardashian awarded 1 Euro in 2016 Paris robbery",
+    "desc": "A Paris court awarded Kim Kardashian one euro as compensation for a 2016 robbery. She and her stylist, Simone Harouche, received nominal damages for the traumatic experience. The court also awarded significant compensation to a former hotel receptionist. Eight individuals were previously found guilty for their involvement in the 2016 jewel heist. This decision emphasizes accountability and recognition for the victims.",
+    "img": "https://static.toiimg.com/photo/msid-134273122,imgsize-199471.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kim-kardashian-awarded-1-euro-compensation-over-2016-paris-robbery-says-not-about-the-compensation-but-about-accountability/articleshow/134273103.cms",
+    "time": "2026-09-15T21:15:40.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Ronaldo suffers worst Al-Nassr defeat to date in 4-0 Champions League loss",
     "desc": "Cristiano Ronaldo and Al-Nassr endured a nightmare return to the AFC Champions League Elite, suffering a 4-0 defeat to Al-Ain. The result marks Ronaldo’s heaviest loss since joining the Saudi club in 2023 and leaves Al-Nassr bottom after Matchday 1. Ange Postecoglou’s side now face seven remaining league-stage matches to recover from their disastrous opening.",
@@ -261,15 +306,6 @@ const newsData_en = [
     "time": "2026-09-15T14:25:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "How fish has BJP's plate full in West Bengal",
-    "desc": "Amidst the ongoing conversation regarding dietary customs within Hinduism during Durga Puja, chief minister Suvendu Adhikari engaged in prayer and enjoyed traditional bhog. He asserted that faith-based dietary choices should remain personal, asserting his own commitment to sattvik eating on designated days while also accepting fish and goat meat as temple prasad, demonstrating a multicultural approach.",
-    "img": "https://static.toiimg.com/photo/msid-134266681,imgsize-136438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/durga-puja-how-fish-has-bjp-suvendu-adhikari-plate-full-in-west-bengal/articleshow/134266578.cms",
-    "time": "2026-09-15T14:14:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "MDR on person-to-merchant UPI payments above Rs 2,000: Who pays and what changes for you? FAQs answered",
     "desc": "Merchant Discount Rate (MDR) is essentially a fee that a merchant incurs when accepting payments for goods or services through credit or debit cards. It is important to note that person-to-person transactions will continue to be free with no MDR applicable.",
@@ -387,24 +423,6 @@ const newsData_en = [
     "time": "2026-09-15T12:20:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘No reason to make haste’: JD(U) takes cautious stand on UCC, says it will decide after studying Bill",
-    "desc": "Janata Dal (United) will study the Uniform Civil Code legislation before taking a stance. The party will consult its coalition partners in Bihar before making a decision. Bihar's deputy chief minister stated they will not oppose the code without reason. Senior party leader Shyam Rajak had previously expressed opposition to implementing the UCC in Bihar.",
-    "img": "https://static.toiimg.com/photo/msid-134260450,imgsize-90950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-reason-to-make-haste-jdu-takes-cautious-stand-on-ucc-says-it-will-decide-after-studying-bill/articleshow/134260338.cms",
-    "time": "2026-09-15T12:12:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘418’ postponed: Prashanth Neel-presented horror thriller eyes wider multi-language release",
-    "desc": "The horror-thriller film '418' has had its release date postponed indefinitely, initially set for September 18. In light of strong audience interest following the positive response to its trailer, the filmmakers are now focusing on a broader multi-language release strategy. Positive feedback from exhibitors across various markets is encouraging, and the production team will soon reveal the new release date for '418'.",
-    "img": "https://static.toiimg.com/photo/msid-134261353,imgsize-1315898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/418-postponed-prashanth-neel-presented-horror-thriller-delays-september-18-release-plans-wider-multi-language-theatrical-rollout/articleshow/134261246.cms",
-    "time": "2026-09-15T11:55:20.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rs 3.25 lakh meant for father went to wrong account; Karnataka HC orders refund",
     "desc": "The court passed the order after hearing a petition filed by the woman who said she had intended to transfer the money to her father but inadvertently sent it to another account. The account belonged to M/s Standard Engineering Works and, according to the petitioner's case, was dormant.",
@@ -412,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/she-transferred-rs-3-25-lakh-to-her-father-but-last-4-account-digits-were-wrong-money-went-to-another-account-karnataka-high-court-orders-bank-to-return-it/articleshow/134256222.cms",
     "time": "2026-09-15T11:43:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rakesh Roshan leases out two commercial units of 5574 sq ft in Andheri west",
-    "desc": "Filmmaker Rakesh Roshan recently sealed a deal to lease office spaces in Andheri West to BeingU Studios, effective from August 1, 2026, with agreed-upon annual rent increments. Additionally, Roshan and his wife arranged for a residential rental in JVPD Scheme starting August 15, 2026, which includes a security deposit. Notably, they had previously leased commercial space to Fabindia back in December 2025.",
-    "img": "https://static.toiimg.com/photo/msid-134260657,imgsize-362755.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakesh-roshan-leases-out-two-commercial-units-of-5574-sq-ft-in-andheri-west-at-a-monthly-rent-of-rs-7-3-lakh-report/articleshow/134260487.cms",
-    "time": "2026-09-15T11:30:10.000Z"
   },
   {
     "cat": "Sports",
@@ -439,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-india-mess-not-something-that-cant-be-resolved-sports-ministry-source/articleshow/134259858.cms",
     "time": "2026-09-15T11:09:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shah Rukh Khan breaks silence on Ranveer Singh's 'Dhurandhar', says he loved both the parts",
-    "desc": "Shah Rukh Khan has lauded the remarkable success of the 'Dhurandhar' spy-action franchise, revealing his enjoyment after screening both films. In this thrilling storyline, Ranveer Singh takes on the role of a secret operative, delving deep into Karachi's underbelly and the intricate web of geopolitical conflicts. The movies boast a dynamic cast, each actor enriching the plot with compelling performances that captivate audiences.",
-    "img": "https://static.toiimg.com/photo/msid-134259743,imgsize-273131.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-breaks-silence-on-ranveer-singhs-dhurandhar-the-actor-says-he-loved-both-the-parts-fantastic/articleshow/134259575.cms",
-    "time": "2026-09-15T10:56:29.000Z"
   },
   {
     "cat": "Sports",
@@ -738,24 +738,6 @@ const newsData_en = [
     "time": "2026-09-14T13:08:39.000Z"
   },
   {
-    "cat": "World",
-    "title": "Scottish, Northern Irish, Welsh leaders assert right to ‘self-determination’",
-    "desc": "All three parties - the Scottish National Party (SNP), Plaid Cymru in Wales and the pro-Irish unity Sinn Fein in Northern Ireland - want to break away from the U.K. but have different positions on how and when this might take place.",
-    "img": "https://th-i.thgim.com/public/incoming/omoa3l/article71465949.ece/alternates/LANDSCAPE_1200/AFP__20260914__C89D63C__v1__HighRes__BritainWalesPolitics.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/scottish-northern-irish-welsh-leaders-assert-right-to-self-determination/article71465923.ece",
-    "time": "2026-09-14T11:22:26.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Merz wins respite in German municipal polls but tougher tests to come",
-    "desc": "The CDU ⁠won 27.2% of the vote at the weekend, with its coalition ally the Social Democrats on 24.6%, while the AfD climbed to third place with 15.9%, 11.3 points more than its result in 2021",
-    "img": "https://th-i.thgim.com/public/incoming/yufdu5/article71465864.ece/alternates/LANDSCAPE_1200/2026-09-14T082134Z_1107263549_RC2WINADWCAV_RTRMADP_3_EUROPE-ARCTIC-FINLAND.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/merz-wins-respite-in-german-municipal-polls-but-tougher-tests-to-come/article71465861.ece",
-    "time": "2026-09-14T10:22:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pakistan cricket at a new low after England humiliation",
     "desc": "Described as the worst team to tour England in the last 50 years, Pakistan's cycle of chopping and changing continued when head coach Sarfaraz Ahmed and bowling chief Umar Gul were sacked from their posts",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
     "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
   }
 ];
