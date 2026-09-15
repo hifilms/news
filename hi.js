@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Varun Chakaravarthy not playing in the second T20I against Afghanistan at Arun Jaitley Stadium?",
+    "desc": "The Indian team takes on Afghanistan in the 2nd T20I of the ongoing series. The two sides meet at the Arun Jaitley Stadium in Delhi on September 15. It is worth noting that the Men...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-varun-chakaravarthy-not-playing-in-the-second-t20i-against-afghanistan-at-arun-jaitley-stadium-2026-09-15-1054318",
+    "time": "2026-09-15T14:17:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Vaibhav Sooryavanshi not playing vs Afghanistan in 2nd T20I at New Jaitley Stadium in New Delhi?",
+    "desc": "India have made just one change in their playing XI for the second T20I against Afghanistan at the Arun Jaitley Stadium in New Delhi. Star spinner Varun Chakaravarthy, who incurred an injury in the previous...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-vaibhav-sooryavanshi-not-playing-vs-afghanistan-in-2nd-t20i-at-new-jaitley-stadium-in-new-delhi-2026-09-15-1054316",
+    "time": "2026-09-15T13:51:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs AFG, 2nd T20I LIVE Score: Samson-Abhishek look to propel India to a good start",
+    "desc": "The stage is set for the 2nd T20I of the ongoing series between India and Afghanistan. The teams meet at the Arun Jaitley Stadium in Delhi for the clash, and after winning the first T20I...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-2nd-t20i-live-score-india-look-to-clinch-t20i-series-in-delhi-1054311",
+    "time": "2026-09-15T13:17:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch England vs Sri Lanka 1st T20I live on TV and stream online in India?",
+    "desc": "The stage is set for the upcoming T20I series between England and Sri Lanka. The two sides are slated to take on each other in a multi-format white-ball series. The teams will take on each...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-england-vs-sri-lanka-1st-t20i-live-on-tv-and-stream-online-in-india-2026-09-15-1054309",
+    "time": "2026-09-15T13:12:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "F1's return to India on the cards? Mansukh Mandaviya announces 10-member task force to assess F1 revival",
+    "desc": "In a major development, Union Minister of Youth Affairs and Sports Mansukh Mandaviya took centre stage and announced the formation of a 10-member task force to assess the potential revival of F1 in India. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/f1-s-return-to-india-on-the-cards-mansukh-mandaviya-announces-10-member-task-force-to-assess-f1-revival-2026-09-15-1054302",
+    "time": "2026-09-15T12:12:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs Afghanistan, 2nd T20I Pitch Report, how will surface in Delhi play?",
+    "desc": "The stage is set for the second T20I of the ongoing series between India and Afghanistan. The two sides will meet at the Arun Jaitley Stadium for the clash on September 15, and both teams...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-afghanistan-2nd-t20i-pitch-report-how-will-surface-in-delhi-play-2026-09-15-1054295",
+    "time": "2026-09-15T11:25:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Steve Smith gives crucial update on his future, opens up on availability for Ashes 2027",
     "desc": "Veteran Australia batter Steve Smith is widely revered as one of the greatest batters of his generation. At 37, Smith remains an integral part of Australia’s Test team, playing a key role in the side’s...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/chaminda-vaas-amit-mishra-set-to-join-delhi-capitals-coaching-staff-ahead-of-ipl-2027-2026-09-14-1054205",
     "time": "2026-09-14T11:35:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gary Neville highlights what went wrong with Manchester United after 1-0 loss to Manchester City",
-    "desc": "The Premier League 2026-27 continued with arch-rivals Manchester United and City locking horns. In what is considered one of the biggest games in world football, the two sides took on each other at Old Trafford...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/gary-neville-highlights-what-went-wrong-with-manchester-united-after-1-0-loss-to-manchester-city-2026-09-14-1054200",
-    "time": "2026-09-14T10:29:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shree Charani surpasses Poonam Yadav in elite list with four-wicket haul against SL in Women's Asia Cup final",
-    "desc": "The Women’s Asia Cup 2026 final saw India take on Sri Lanka. The two sides met at the Dubai International Cricket Stadium on September 13. The clash saw India register a dominant 72-run victory as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shree-charani-surpasses-poonam-yadav-in-elite-list-with-four-wicket-haul-against-sl-in-women-s-asia-cup-final-2026-09-14-1054194",
-    "time": "2026-09-14T09:09:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan hit with double WTC sanction, docked 11 points for maintaining slow over-rate against England",
-    "desc": "In a major blow to Pakistan Cricket, the side has been hit with a major sanction by the ICC (International Cricket Council). It is worth noting that the Babar Azam-led side was recently clean-swept by...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-hit-with-double-wtc-sanction-docked-11-points-for-maintaining-slow-over-rate-against-england-2026-09-14-1054189",
-    "time": "2026-09-14T08:19:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Cannot receive the trophy': Devajit Saikia supports team India's refusal to take Asia Cup trophy from Naqvi",
-    "desc": "The Indian team put forth a brilliant performance in the final of the Women’s Asia Cup 2026. The side took on Sri Lanka in the final at the Dubai International Cricket Stadium on September 13,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cannot-receive-the-trophy-devajit-saikia-supports-team-india-s-refusal-to-take-asia-cup-trophy-from-naqvi-2026-09-14-1054184",
-    "time": "2026-09-14T07:27:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Alexander Zverev clinches maiden US Open title after thrilling four-set bout against Ben Shelton",
-    "desc": "The US Open 2026 saw Ben Shelton and Alexander Zverev meet in the final. The two stars met at the Arthur Ashe Stadium in New York on September 13th, and it was Zverev who came...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/alexander-zverev-clinches-maiden-us-open-title-after-thrilling-four-set-bout-against-ben-shelton-2026-09-14-1054176",
-    "time": "2026-09-14T06:19:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India once again shun Mohsin Naqvi, refuse to take Women's Asia Cup trophy from ACC chairman",
-    "desc": "The Indian team performed brilliantly as they took on Sri Lanka in the Women's Asia Cup 2026 final. The two sides met at the Dubai International Cricket Stadium on September 13th, and it was team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-once-again-shun-mohsin-naqvi-refuse-to-take-women-s-asia-cup-trophy-from-acc-chairman-2026-09-14-1054147",
-    "time": "2026-09-13T18:54:26.000Z"
   }
 ];
