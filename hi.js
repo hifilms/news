@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Steve Smith gives crucial update on his future, opens up on availability for Ashes 2027",
+    "desc": "Veteran Australia batter Steve Smith is widely revered as one of the greatest batters of his generation. At 37, Smith remains an integral part of Australia’s Test team, playing a key role in the side’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-gives-crucial-update-on-his-future-opens-up-on-availability-for-ashes-2027-2026-09-15-1054288",
+    "time": "2026-09-15T10:26:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Varun Chakaravarthy ruled out of Afghanistan T20I series due to injury; Check details",
     "desc": "In a major blow for the Indian team, star spinner has been ruled out of the ongoing T20I series against Afghanistan due to injury. It is worth noting that Chakaravarthy bowled his complete quota of...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-once-again-shun-mohsin-naqvi-refuse-to-take-women-s-asia-cup-trophy-from-acc-chairman-2026-09-14-1054147",
     "time": "2026-09-13T18:54:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India dominate Sri Lanka to win record 8th Women's Asia Cup title, register stellar 72-run victory",
-    "desc": "The Indian team took on Sri Lanka in the final of the Women’s Asia Cup 2026. The two sides met at the Dubai International Cricket Stadium on September 13th, and the clash saw India register...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-dominate-sri-lanka-to-win-women-s-asia-cup-register-stellar-72-run-win-to-clinch-title-2026-09-13-1054144",
-    "time": "2026-09-13T17:54:54.000Z"
   }
 ];
