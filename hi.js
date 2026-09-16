@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Aryna Sabalenka handed hefty fine by USTA after racket abuse during US Open final",
+    "desc": "Aryna Sabalenka has been handed a $7,500 (Rs. 19 lakhs) fine by the United States Tennis Association following her conduct during the US Open final. The disciplinary action followed a code violation involving an incident...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-handed-hefty-fine-by-usta-after-racket-abuse-during-us-open-final-2026-09-16-1054396",
+    "time": "2026-09-16T10:17:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Varun Chakaravarthy ruled out of Asian Games, BCCI set to announce DC all-rounder as replacement",
+    "desc": "Star India spinner Varun Chakaravarthy has been ruled out of the upcoming Asian Games. The star spinner picked up a side strain in the first T20I against Afghanistan at the Arun Jaitley Stadium and will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/varun-chakaravarthy-ruled-out-of-asian-games-bcci-set-to-announce-dc-all-rounder-as-replacement-2026-09-16-1054388",
+    "time": "2026-09-16T08:35:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Laura Wolvaardt matches Smriti Mandhana's legendary world record with century vs Zimbabwe",
+    "desc": "In the third T20I against Zimbabwe, South Africa captain Laura Wolvaardt played a defining knock of 126 runs off 62 balls. With that, the modern-day legend equalled Smriti Mandhana’s record for most centuries in international...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/laura-wolvaardt-matches-smriti-mandhana-s-legendary-world-record-with-century-vs-zimbabwe-2026-09-16-1054382",
+    "time": "2026-09-16T07:34:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jos Buttler breaks Rohit Sharma's T20I record after 80-run knock vs Sri Lanka",
+    "desc": "Jos Buttler has surpassed Rohit Sharma on the list of most runs scored in T20I cricket history. The former England captain played a sensational 80-run knock against Sri Lanka in the first T20I in Southampton...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-breaks-rohit-sharma-s-t20i-record-after-80-run-knock-vs-sri-lanka-2026-09-16-1054373",
+    "time": "2026-09-16T06:15:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What exactly happened?",
+    "desc": "Lionel Messi has been recalled to Argentina squad for their friendly against Benin on October 6. The star footballer announced his international retirement last month, with the FIFA World Cup 2026 final being considered his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-picked-for-argentina-squad-despite-announcing-international-retirement-what-exactly-happened-2026-09-16-1054358",
+    "time": "2026-09-16T04:43:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harry Brook, Jos Buttler's scathing attack help England register mammoth win over Sri Lanka",
+    "desc": "England defeated Sri Lanka by 119 runs in the opening of the three-match series against Sri Lanka at the Utilita Bowl. Captain Harry Brook led by example, smacking unbeaten 114 runs off only 49 deliveries,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-jos-buttler-s-scathing-attack-help-england-register-mammoth-win-over-sri-lanka-2026-09-16-1054354",
+    "time": "2026-09-16T04:08:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sanju Samson reflects on competition with Vaibhav Sooryavanshi after match-winning knock against Afghanistan",
     "desc": "Star India batter Sanju Samson stole the show in the second T20I against Afghanistan at the Arun Jaitley Stadium in New Delhi. The keeper-batter was out of the Zimbabwe tour after a poor run of...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-priya-saroj-to-get-married-on-december-4-wedding-set-to-be-held-in-lucknow-check-details-2026-09-15-1054329",
     "time": "2026-09-15T16:25:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Varun Chakaravarthy not playing in the second T20I against Afghanistan at Arun Jaitley Stadium?",
-    "desc": "The Indian team takes on Afghanistan in the 2nd T20I of the ongoing series. The two sides meet at the Arun Jaitley Stadium in Delhi on September 15. It is worth noting that the Men...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-varun-chakaravarthy-not-playing-in-the-second-t20i-against-afghanistan-at-arun-jaitley-stadium-2026-09-15-1054318",
-    "time": "2026-09-15T14:17:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Vaibhav Sooryavanshi not playing vs Afghanistan in 2nd T20I at New Jaitley Stadium in New Delhi?",
-    "desc": "India have made just one change in their playing XI for the second T20I against Afghanistan at the Arun Jaitley Stadium in New Delhi. Star spinner Varun Chakaravarthy, who incurred an injury in the previous...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-vaibhav-sooryavanshi-not-playing-vs-afghanistan-in-2nd-t20i-at-new-jaitley-stadium-in-new-delhi-2026-09-15-1054316",
-    "time": "2026-09-15T13:51:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs AFG, 2nd T20I highlights: India defeat Afghanistan by 7 wickets",
-    "desc": "The stage is set for the 2nd T20I of the ongoing series between India and Afghanistan. The teams meet at the Arun Jaitley Stadium in Delhi for the clash, and after winning the first T20I...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-2nd-t20i-live-score-india-look-to-clinch-t20i-series-in-delhi-1054311",
-    "time": "2026-09-15T13:17:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch England vs Sri Lanka 1st T20I live on TV and stream online in India?",
-    "desc": "The stage is set for the upcoming T20I series between England and Sri Lanka. The two sides are slated to take on each other in a multi-format white-ball series. The teams will take on each...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-england-vs-sri-lanka-1st-t20i-live-on-tv-and-stream-online-in-india-2026-09-15-1054309",
-    "time": "2026-09-15T13:12:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "F1's return to India on the cards? Mansukh Mandaviya announces 10-member task force to assess F1 revival",
-    "desc": "In a major development, Union Minister of Youth Affairs and Sports Mansukh Mandaviya took centre stage and announced the formation of a 10-member task force to assess the potential revival of F1 in India. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/f1-s-return-to-india-on-the-cards-mansukh-mandaviya-announces-10-member-task-force-to-assess-f1-revival-2026-09-15-1054302",
-    "time": "2026-09-15T12:12:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs Afghanistan, 2nd T20I Pitch Report, how will surface in Delhi play?",
-    "desc": "The stage is set for the second T20I of the ongoing series between India and Afghanistan. The two sides will meet at the Arun Jaitley Stadium for the clash on September 15, and both teams...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-afghanistan-2nd-t20i-pitch-report-how-will-surface-in-delhi-play-2026-09-15-1054295",
-    "time": "2026-09-15T11:25:43.000Z"
   }
 ];

@@ -1,6 +1,132 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "EPFO પર સરકારનો મોટો નિર્ણય, સેલરી લિમિટ 15000થી વધારીને 25000 રૂપિયા કરવામાં આવી, જાણો શું થશે ફાયદો?",
+    "desc": "મોદી સરકારે EPF અને EPS કવરેજ માટે લાગૂ પગાર મર્યાદાને 15000 રૂપિયાથી વધારીને 25000 રૂપિયા કરવાનો નિર્ણય લીધો છે. કેન્દ્રીય કેબિનેટમાં આ અંગેના પ્રસ્તાવને મંજૂરી અપાઈ. હવે પીએફ પેન્શન કાપની ફરજિયાત સેલરી લિમિટને વધારીને 25000 રૂપિયા કરવામાં આવી છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-news-union-cabinet-approve-enhancement-of-epfo-wage-ceiling-from-15000-to-25000-per-month-491440 ",
+    "time": "2026-09-16T10:43:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અજીત અગરકરની વિદાય પાક્કી! છેલ્લી વખત કરશે ભારતીય ટીમની પસંદગી, જાણો કોણ બનશે ચીફ સિલેક્ટર",
+    "desc": "અજીત અગરકરે વન-ડે વર્લ્ડ કપ 2027 સુધી પસંદગી સમિતિના અધ્યક્ષ તરીકે ચાલુ રહેવાની ઈચ્છા વ્યક્ત કરી હતી, પરંતુ અત્યાર સુધી તેમનો કાર્યકાળ લંબાવવામાં આવ્યો નથી. આ સ્થિતિને જોતાં એ સ્પષ્ટ છે કે તેઓ ટૂંક સમયમાં જ પોતાના પદ પરથી રાજીનામું આપશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ajit-agarkar-exit-from-bcci-selection-committee-who-will-become-next-chief-selector-491442 ",
+    "time": "2026-09-16T10:42:39.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Jio નો સૌથી સસ્તો 5G રિચાર્જ પ્લાન: અનલિમિટેડ 5G ડેટા અને કૉલિંગ સાથે મેળવો આ ફાયદા, જાણો કિંમત",
+    "desc": "Jio યુઝર્સે ઓછી કિંમતમાં 5જી ડેટાવાળો પ્લાન જોઈએ તો આ પ્લાન તમારા માટે ઉપયોગી સાબિત થઈ શકે છે. તેમાં અનલિમિટેડ 5જી ડેટાની સાથે અનલિમિટેડ કોલિંગ, 2જીબી 4G ડેટા અને દરરોજ 100 SMS મળે છે. આવો વિગત જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/jio-bumper-offer-enjoy-unlimited-5g-data-free-sms-with-28-days-validity-491424 ",
+    "time": "2026-09-16T09:58:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ધ ગ્રેટ ઇન્ડિયન કપિલ શર્મા 5નો પહેલો એપિસોડ ક્યારે આવશે? નેટફ્લિક્સે કરી જાહેરાત, જાણો",
+    "desc": "કપિલ શર્માનો \"ધ ગ્રેટ ઇન્ડિયન કપિલ શર્મા શોની પાંચમી સીઝનની જાહેરાત કરવામાં આવી છે. કપિલ સાથે સુનીલ ગ્રોવર, કૃષ્ણા અને કીકુ શારદા જોડાયા છે. અર્ચના પૂરણ સિંહ અને નવજોત સિંહ સિદ્ધુ જજ તરીકે જોવા મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/when-will-the-first-episode-of-the-great-indian-kapil-show-season-5-air-netflix-has-made-the-announcement-find-out-here-491421 ",
+    "time": "2026-09-16T09:40:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "હવે 10 નહીં 5 વર્ષે વધશે સેલેરી ? 8મા પગાર પંચ સામે રાખવામાં આવી આ મોટી માંગ, જાણો",
+    "desc": "કર્મચારીઓ અને પેન્શનરોના સંગઠનોએ 8મા કેન્દ્રીય પગાર પંચ પહેલાં દર પાંચ વર્ષે પગાર અને પેન્શનમાં સુધારો કરવાની માંગ કરી છે. તેમનો દલીલ છે કે 10 વર્ષનો પગાર સુધારો રિવિજન સાઈકલ અને બદલાતી આર્થિક પરિસ્થિતિઓ વચ્ચે મોટો તફાવત બનાવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-salaries-increase-every-5-years-instead-of-10-now-this-major-demand-has-been-raised-regarding-the-8th-pay-commission-find-out-more-491416 ",
+    "time": "2026-09-16T09:03:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "જો દુકાનદાર UPI થી પેમેન્ટ લેવાની ના પાડે, કે વધારાના પૈસા માંગે...તો 2 મિનિટમાં આ રીતે ભણાવો પાઠ!",
+    "desc": "આજકાલ યુપીઆઈથી પેમેન્ટ કરવું એક ખુબ સામાન્ય બની ગયું છે. આવામાં જો કોઈ દુકાનદાર તમારી પાસેથી યુપીઆઈથી પેમેન્ટ લેવાની ના પાડે કે વધારાના ચાર્જની માંગણી કરે તો તેને ફરિયાદ કરવી જરૂરી બને છે. જાણો ફરિયાદ કઈ રીતે કરવી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-to-do-if-a-shopkeeper-refuses-to-accept-upi-payments-or-asks-for-an-extra-charge-491410 ",
+    "time": "2026-09-16T07:44:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "માહી વિજ એ બિગ બોસ 20 માં કર્યો ધડાકો, યુવા ફિલ્મ તેણે ન કરી એટલે કરીના કપૂરને રોલ મળ્યો",
+    "desc": "બિગ બોસ 20 માં માહી વિજ એ મોટો ધડાકો કર્યો છે. તેણે મણીરત્નમની ફિલ્મ યુવાનો ઉલ્લેખ કરતાં કહ્યું કે ફિલ્મમાં કરીના કપૂરના રોલ માટે તે સિલેક્ટ થઈ હતી. કોઈ કારણોસર તેણે ફિલ્મ ન કરી એટલે તે રોલ કરીના કપૂરને મળી ગયો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/mahi-vij-said-on-bigg-boss-20-that-she-got-offere-for-kareena-kapoor-role-in-a-yuva-film-first-491408 ",
+    "time": "2026-09-16T07:33:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ચા ભૂલી જાઓ, 5-10 રૂપિયાના પાન વેચીને કેવી રીતે કરી 50 કરોડની કમાણી? ખેડૂતના દિકરાએ બદલી નાખ્યો બિઝનેસ",
+    "desc": "બિહારના ખેડૂત પરિવારમાંથી આવતા પી.એન. ઠાકુરે માત્ર 2 લાખ રૂપિયાથી મસ્ત બનારસી પાન શરૂ કર્યું હતું. આજે તેમનો વ્યવસાય 50 કરોડ રૂપિયા સુધી પહોંચી ગયો છે અને 400થી વધુ આઉટલેટ્સ ધરાવે છે. તેમની પ્રેરણાદાયી વાર્તા જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-did-he-earn-rs-50-crore-by-selling-paan-worth-rs-5-to-10-a-farmer-son-transformed-the-business-491407 ",
+    "time": "2026-09-16T07:14:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રિતેશ સિધવાનીની પાર્ટીમાં રવીના ટંડને પતિની એક્સ વાઈફ પર ફેંક્યો જ્યૂસનો ગ્લાસ, જોતા રહી ગયા લોકો",
+    "desc": "રવીના ટંડન શાંત અને સંસ્કારી દેખાય છે પણ એક સમય હતો જ્યારે તેણે પાર્ટીમાં મહેમાનોની હાજરીમાં પોતાના પતિ અનિલ થડાનીની એક્સ વાઈફ નતાશા પર જ્યૂસનો ગ્લાસ ફેંક્યો હતો. આ સમયે રવીનાનું રુપ જોઈ પાર્ટીમાં હાજર લોકો દંગ રહી ગયા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/when-raveena-tandon-throw-juice-glass-on-anil-thadani-ex-wife-natasha-in-ritesh-sidhwani-party-491403 ",
+    "time": "2026-09-16T06:20:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આખરે BJP વિધાયકે છોડ્યો જમીન પર કબજો, PM મોદીને મળવા પહોંચ્યા હતા બાળપણના મિત્ર અસગર અલી",
+    "desc": "પીએમ મોદીના બાળપણના મિત્ર, શાળા સમયના દોસ્ત અસગર અલી વોહરાને મોટી રાહત મળી છે. ભાયંદરમાં તેમની જમીન પર કબજો જમાવ્યો હોવાના આરોપો બાદ હવે ભાજપના વિધાયકની કંપનીએ જમીન પરથી કબજો છોડવા અને વોહરા વિરુદધ નોંધાયેલી ફરિયાદ પાછી ખેંચવાનો નિર્ણય લીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modi-vadnagar-school-friend-asgar-ali-vohra-gets-land-back-bjp-mp-vacate-property-491402 ",
+    "time": "2026-09-16T06:14:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોના-ચાંદી ખરીદનાર અને વેપારીઓ માટે સૌથી મહત્વપૂર્ણ સમાચાર: BIS દ્વારા હોલમાર્કિંગ ફીમાં વધારો, જાણો શું છે નવા ભાવ",
+    "desc": "સોનું અને ચાંદી ખરીદનારા ગ્રાહકો તથા જ્વેલરી ક્ષેત્ર સાથે જોડાયેલા વેપારીઓ માટે એક મહત્વના સમાચાર સામે આવ્યા છે. બ્યુરો ઓફ ઈન્ડિયન સ્ટાન્ડર્ડ્સ (BIS) દ્વારા સોનાના દાગીના પર લેવાતી હોલમાર્કિંગ ફીમાં નોંધપાત્ર વધારો કરવામાં આવ્યો છે. આ નવા દરો 14 સપ્ટેમ્બર 2026થી જ અમલમાં આવી ગયા છે. નવા નિયમ અનુસાર આ ફી વજનના આધારે નહીં, પરંતુ પ્રતિ આર્ટિકલ (નંગ) દીઠ લેવામાં આવે છે. એટલે કે આભૂષણનું વજન ગમે તેટલું હોય, ફી તેની સંખ્યાના આધારે નક્કી થશે. આ વધારા પર લાગુ પડતા ટેક્સ અલગથી વસૂલવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/most-important-news-for-gold-and-silver-buyers-and-traders-hike-in-hallmarking-fees-by-bis-491401 ",
+    "time": "2026-09-16T06:07:43.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "મક્કામાં પહેલીવાર વાગી ખતરાની ઘંટી! મુસ્લિમોના સૌથી પવિત્ર શહેરમાં કોણે મોકલ્યું ડ્રોન? જાણો",
+    "desc": "મક્કામાં પહેલી વાર ભયાનક ચેતવણી સંભળાઈ છે. સાઉદી અરેબિયાએ દાવો કર્યો હતો કે મક્કા તરફ જઈ રહેલા હુથી ડ્રોનને પ્રતિબંધિત હવાઈ ક્ષેત્રમાં પ્રવેશતા પહેલા જ અટકાવી દેવામાં આવ્યું હતું અને તેનો નાશ કરવામાં આવ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/alarm-bells-ring-in-mecca-for-the-first-time-who-sent-a-drone-to-the-holiest-city-for-muslims-find-out-491388 ",
+    "time": "2026-09-16T04:38:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ચા, શાકભાજી, વીજળી બિલ, પેટ્રોલ....જેવા ખર્ચા કરવાથી કેટલો લાગશે ચાર્જ? મનમાં ઉઠતા સવાલોના આ રહ્યા જવાબ",
+    "desc": "15 ઓક્ટોબરથી દેશભરમાં યુપીઆઈ પર એમડીઆર ચાર્જ લાગૂ કરાશે. આ એમડીઆર ચાર્જ 2000 રૂપિયાથી વધુના ટ્રાન્ઝેક્શન પર હશે. જો કે સામાન્ય ગ્રાહકો માટે P2P ટ્રાન્ઝેક્શન સંપૂર્ણ ફ્રી રહેશે. અને નાના વેપારીઓને પણ એમડીઆરમાંથી છૂટ મળશે. મનમાં ઉઠતા તમામ સવાલોના જાણો જવાબ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/a-to-z-information-regarding-the-new-rule-for-mdr-charges-on-upi-check-details-here-491379 ",
+    "time": "2026-09-16T04:00:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેટ્રોલ અને ડીઝલના ભાવમાં રાહત ક્યાં સુધી રહેશે? ક્રૂડ ઓઇલ ભાવ હજી પણ 108 ડોલરને પાર, જાણો",
+    "desc": "ક્રૂડ ઓઈલની કિંમતો સતત 100 ડોલરથી ઉપર જઈ રહી છે, આવી સ્થિતિમાં ઓઈલ માર્કેટિંગ કંપનીઓ પર બોજ વધી રહ્યો છે. કારણ કે, ક્રૂડ ઓઈલના એક બેરલમાં 10 ડોલરના વધારાને કારણે કંપનીઓને પ્રતિ લિટર લગભગ 6 રૂપિયાનું નુકસાન થાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/how-long-will-the-relief-in-petrol-and-diesel-prices-last-crude-oil-prices-remain-above-108-doller-find-out-more-491378 ",
+    "time": "2026-09-16T03:38:24.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "અમેરિકા ગમે તે કરે, અમે રશિયા પાસેથી તેલ ખરીદતા રહીશું, 100% ટેરિફની ધમકી પર ભારતે આપ્યો જવાબ",
     "desc": "અમેરિકાએ રશિયા પાસેથી તેલ ખરીદતા દેશો પર 100% ટેરિફ લગાવવા માટે કાયદો ઘડવાની પ્રક્રિયા શરૂ કરી હતી. આ બિલ યુએસ સંસદના એક ગૃહ દ્વારા પસાર કરવામાં આવ્યું હતું. હવે, ભારતે પણ પોતાનો ઇરાદો વ્યક્ત કર્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -315,24 +441,6 @@ const newsData_gu = [
     "time": "2026-09-13T13:13:32.000Z"
   },
   {
-    "cat": "Business",
-    "title": "8મા પગાર પંચમાં કેન્દ્રીય કર્મચારીઓને મળશે ₹3 કરોડનો વીમો, જૂના CGEGIS નિયમોમાં થશે ફેરફાર? જાણો",
-    "desc": "કેન્દ્રીય કર્મચારી સંગઠનોએ 8મા પગાર પંચ પહેલાં CGEGISમાં મોટા ફેરફારોની માંગ કરી છે. કર્મચારીઓનું કહેવું છે કે વર્તમાન ફુગાવાની તુલનામાં વર્તમાન વીમા કવર ખૂબ ઓછું છે. સંગઠનોએ ગ્રુપ C માટે 1 કરોડ રૂપિયા, ગ્રુપ B માટે 1.5 કરોડ રૂપિયા અને ગ્રુપ A માટે 3 કરોડ રૂપિયા સુધીના કવરનું સૂચન કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/central-employees-to-get-rs-3-crore-insurance-under-the-8th-pay-commission-will-there-be-changes-to-the-old-rules-491076 ",
-    "time": "2026-09-13T11:34:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ગણેશ મૂર્તિની આંખોમાંથી આંસુ નીકળવાનો દાવો: ઉજ્જૈનના તાજપુરમાં ગણેશ ચતુર્થી પહેલા દર્શન માટે પહોંચી રહ્યા છે ગ્રામજનો",
-    "desc": "ઉજ્જૈન જિલ્લાથી 18 કિલોમીટર દૂર તાજપુર તહેસીલના માતાજી કા ચોપડા સ્થિત ગણેશ મંદિરની પ્રતિમાની આંખોમાંથી આંસુ આવવાનો દાવો સોશિયલ મીડિયા પર કરવામાં આવી રહ્યો છે. આ વાત ફેલાયા પછી મોટી સંખ્યામાં ગ્રામજનો અને આસપાસના લોકો ગણેશજીના દર્શન માટે પહોંચવા લાગ્યા. લોકોનો દાવો છે કે ગણેશ પ્રતિમાની આંખોમાંથી આંસુ જેવાં ટીપાં નીકળતાં દેખાઈ રહ્યાં છે અને આ સ્થિતિ કેટલાય કલાકોથી બનેલી છે. ગામના ઈશ્વર પાટીદારના જણાવ્યા અનુસાર, સવારે આશરે પૂજા થઈ હતી. ત્યારબાદ પ્રતિમાની આંખોમાંથી ટીપાં આવવાની વાત સામે આવી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ujjain-tajpur-ganesh-chaturthi-miracle-tears-flowing-from-idol-eyes-491057 ",
-    "time": "2026-09-13T07:18:38.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "PM મોદીની જમણી બાજુ પુતિન, તો ડાબી બાજુ જિનપિંગ... બ્રિક્સ ગ્રુપ ફોટોએ કેવી રીતે આખી દુનિયાને આપ્યો પાવરફુલ મેસેજ?",
     "desc": "બ્રિક્સ શિખર સંમેલનના બીજા દિવસે દિલ્હીના ભારત મંડપમમાં ઓપન સેશનની શરૂઆત કરવામાં આવી. ફોટો સેશન પહેલાં બ્રિક્સના સભ્ય દેશોના નેતાઓ અને પાર્ટનર દેશોના નેતાઓએ ગ્રુપ ફોટો ક્લિક કરાવી. હવે આ ગ્રુપ ફોટોમાં નેતાઓના પોઝિશનિંગની ચર્ચા થવા લાગી છે.",
@@ -340,33 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/putin-to-pm-modis-right-jinping-to-his-left-how-did-the-brics-group-photo-send-a-powerful-message-to-the-entire-world-491060 ",
     "time": "2026-09-13T06:55:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બ્રિક્સની ડિનર પાર્ટીથી અળગા રહ્યા ચીનના રાષ્ટ્રપતિ શી જિનપિંગ, શું હતું કારણ જાણો",
-    "desc": "બ્રિક્સ સમિટ 2026 દરમિયાન 12 સપ્ટેમ્બરે રાત્રે ડિનર પાર્ટીનું આયોજન કરવામાં આવ્યું હતું. આ પાર્ટીમાં ચીનના રાષ્ટ્રપતિ શી જિનપિંગ એ હાજરી આપી નહીં. જેના કારણે અલગ અલગ અટકળો શરુ થઈ છે. જો કે ચીનના રાષ્ટ્રપતિ શી જિનપિંગ ડિનરમાં શા માટે હાજર ન હતા તેનું કારણ પણ સામે આવી ગયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-china-president-xi-jinping-not-at-brics-summit-2026-gala-dinner-491058 ",
-    "time": "2026-09-13T06:18:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BRICS ડિનરમાં ગુંજ્યો ‘કિશોર દા’, ‘મુકેશ’નો જાદુ; મલેશિયાના PMએ ‘ખ્વાબ હો તુમ...’ ને &amp;#039;દોસ્ત દોસ્ત ના રહા...&amp;#039; જેવા ક્લાસિક ગીતો ગાયા",
-    "desc": "મલેશિયાના પ્રધાનમંત્રી અનવર ઇબ્રાહિમે BRICS શિખર સંમેલન દરમિયાન PM મોદી સામે કિશોર કુમારનું સદાબહાર ગીત 'ખ્વાબ હો તુમ યા કોઈ હકીકત' ('ख्वाब हो तुम या कोई हकीकत') ગાયું. ઇન્ટરનેટ પર પ્રધાનમંત્રીના આ અંદાજની ખૂબ પ્રશંસા થઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/are-you-a-dream-or-reality-a-touch-of-bollywood-at-brics-malaysian-pm-hums-a-kishore-kumar-song-491040 ",
-    "time": "2026-09-13T04:40:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારત મંડપમમાં ફરી એકઠા થશે દિગ્ગજો, PM મોદીની તાબડતોડ 7 દ્વિપક્ષીય બેઠકો, જાણો દિવસભરનું સમગ્ર શિડ્યુલ",
-    "desc": "BRICS શિખર સંમેલનનો આજે બીજો અને મહત્ત્વપૂર્ણ દિવસ છે, જેમાં સહયોગી અને આમંત્રિત દેશોના નેતાઓનું ભારત મંડપમ પહોંચવું, ફેમિલી ફોટો અને સમાવેશી વૈશ્વિક વિકાસ પર ઓપન સેશન થશે. વડાપ્રધાન નરેન્દ્ર મોદીની કઝાકિસ્તાન, ફિલિપાઇન્સ, ઇજિપ્ત, દક્ષિણ આફ્રિકા, બુરુണ്ടി, નાઈજીરીયા અને યુગાન્ડાના નેતાઓ સાથે દ્વિપક્ષીય બેઠકો પણ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/brics-summit-day-2-giants-will-gather-again-at-bharat-mandapam-pm-modi-has-7-bilateral-meetings-in-a-hurry-see-full-schedule-491037 ",
-    "time": "2026-09-13T03:42:44.000Z"
   },
   {
     "cat": "World",
@@ -412,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/irans-president-is-in-india-meanwhile-trump-has-made-a-major-statement-regarding-the-strait-of-hormuz-491008 ",
     "time": "2026-09-12T12:50:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અફઘાનિસ્તાન સામેની પ્રથમ T20 મેચમાં આ 4 ખેલાડીઓને નહીં મળે તક! એક સ્ટાર ખેલાડીનું નામ પણ સામેલ",
-    "desc": "ટીમ ઈન્ડિયા હાલમાં અફઘાનિસ્તાન સામેની પ્રથમ T20 મેચ માટે તૈયારી કરી રહી છે. આ મેચ 13 સપ્ટેમ્બરે દિલ્હીના અરુણ જેટલી સ્ટેડિયમમાં રમાશે. ત્યારે પ્રથમ T20 મેચમાં આ 4 ખેલાડીઓને બેન્ચ પર બેસવું પડી શકે છે, જેમાં એક સ્ટાર ખેલાડીનું નામ પણ સામેલ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/these-4-players-will-not-get-a-chance-in-first-t20-match-against-afghanistan-490966 ",
-    "time": "2026-09-12T09:07:15.000Z"
   },
   {
     "cat": "World",
@@ -493,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/chatgpt-80s-retro-photo-trend-personal-images-privacy-ai-tools-490863 ",
     "time": "2026-09-11T11:09:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કેટલા વાગ્યે શરૂ થશે ભારત-અફઘાનિસ્તાન વચ્ચેની T20 મેચ ? જાણો ક્યાં જોઈ શકશો લાઈવ",
-    "desc": "ભારત અને અફઘાનિસ્તાન વચ્ચેની T20 શ્રેણીની પ્રથમ મેચ 13 સપ્ટેમ્બરે દિલ્હીના અરુણ જેટલી સ્ટેડિયમમાં રમાશે. ત્યારે આ મેચ કેટલા વાગ્યે શરૂ થશે. તેમજ ટીવી અને મોબાઈલ પર મેચનું લાઈવ પ્રસારણ ક્યાં જોઈ શકશો, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-vs-afghanistan-t20-series-2026-date-time-live-telecast-and-streaming-details-490851 ",
-    "time": "2026-09-11T10:18:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,41 +700,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/easy-steps-of-instagram-80s-trend-photo-making-with-chatgtp-490591 ",
     "time": "2026-09-09T07:58:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "દુઆના જન્મદિવસે રણવીર-દીપિકા શેર કર્યા Unseen ફોટો, દુઆની ક્યુટનેસ એ લુંટી લીધી લાઈમલાઈટ",
-    "desc": "8 સપ્ટેમ્બરે દીપિકા પાદુકોણ અને રણવીર સિંહે તેમના ઈંસ્ટાગ્રામ પર તેમની દીકરી દુઆ સાથેના ફોટો શેર કર્યા હતા. આ ફોટો શેર થયા અને સોશિયલ મીડિયા પર છવાઈ ગયા છે. આ ફોટોમાં દુઆ ની ક્યુટનેસ પર લોકો ફીદા થઈ રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/deepika-padukone-second-baby-maternity-shoot-deepika-ranveer-shared-dua-second-birthday-photos-490583 ",
-    "time": "2026-09-09T05:54:05.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "બ્રિટનમાં અચાનક થંભી હવાઈ સેવા, 300થી વધુ ફ્લાઇટ્સ રદ, જાણો શું છે કારણ",
-    "desc": "ફ્લાઇટ ટ્રેકિંગ વેબસાઇટ Flightradar24 અનુસાર, બ્રિટનમાં મંગળવારે એર ટ્રાફિક કંટ્રોલમાં ટેકનિકલ ખામીને કારણે આશરે 300 ફ્લાઇટ્સ રદ કરવામાં આવી હતી. આના કારણે હીથ્રો, ગેટવિક, માન્ચેસ્ટર અને સ્ટેન્સ્ટેડ એરપોર્ટ પર સેંકડો ફ્લાઇટ્સ રદ કરવી પડી હતી, જ્યારે અન્યમાં વિલંબ થયો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/air-service-disrupted-in-uk-more-than-300-flights-canceled-know-the-reason-490547 ",
-    "time": "2026-09-08T17:16:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "બાદશાહ આગળ વધી ગયો છે, સલમાન ખાને ઈશા રિખીની મૂવ ઓન થવાની આપી સલાહ",
-    "desc": "બાદશાહ સાથે ડિવોર્સ થયા પછી ઈશા રિખી બિગ બોસ 20 માં પહોંચી છે. બિગ બોસ હાઉસમાં એન્ટ્રી કરવાની સાથે જ સલમાન ખાને ઈશાને મૂવ ઓન કરવાની સલાહ આપી દીધી છે અને કહી દીધું છે કે બાદશાહ આગળ વધી ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/salman-khan-advice-to-isha-rikhi-in-bigg-boss-20-isha-rikhi-badshah-divorce-reason-490382 ",
-    "time": "2026-09-07T05:25:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "કરીના-સૈફના લગ્નમાં વેઈટર હતો પંચાયત ફેમ એક્ટર, હવે સફળ અભિનેતા બની બિગ બોસ 20 માં કરી એન્ટ્રી",
-    "desc": "પંચાયત ફેમ આસિફ ખાનના ચાહકોની સંખ્યા આજે લાખોમાં છે પરંતુ એક સમય હતો જ્યારે ઈંડસ્ટ્રીમાં તેને કોઈ ભાવ ન આપતું. પેટ ભરવા માટે તેણે વેઈટરની નોકરી કરી અને વાસણ સાફ કરવા જેવા કામ પણ કર્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/panchayat-fame-actor-aasif-khan-struggle-story-from-waiter-to-successful-actor-490380 ",
-    "time": "2026-09-07T04:59:09.000Z"
   }
 ];
