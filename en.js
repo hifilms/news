@@ -1,5 +1,239 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "India’s pact with an unusual amalgam",
+    "desc": "Bumrah is too special to be lost forever if he is rushed back in when still not 100% ready. Some might view this as extreme, perceiving that he is the recipient of special treatment, but should we really be quibbling?",
+    "img": "https://th-i.thgim.com/public/incoming/yko8tk/article71469839.ece/alternates/LANDSCAPE_1200/08_INDIA_PRACTICE_SESSION_11_09_DELHI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/indias-pact-with-an-unusual-amalgam/article71469868.ece",
+    "time": "2026-09-16T03:03:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Prince William is managing Meghan Markle and Prince Harry’s UK move",
+    "desc": "Prince William and Kate Middleton have taken charge of the situation regarding Meghan Markle and Prince Harry's return to the UK. Their arrival brings the previously distant drama into sharper focus. United in their stance, William and King Charles believe the Sussexes should not represent the royal family. William is keen on maintaining distance from his brother and sister-in-law, who are now living as private citizens in Britain.",
+    "img": "https://static.toiimg.com/photo/msid-134276760,imgsize-346496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/how-prince-william-and-kate-middleton-are-handling-meghan-markle-and-prince-harrys-uk-move-its-been-magnified/articleshow/134276692.cms",
+    "time": "2026-09-16T02:47:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In the 1970s, Harrison Ford scored his breakthrough with ‘Star Wars’",
+    "desc": "Harrison Ford's journey into Hollywood began with humble carpentry gigs and sporadic acting experiences. He made a noteworthy investment by acquiring a sprawling estate in Mandeville Canyon for one million dollars, which served as a family sanctuary filled with various luxuries. After three decades of ownership, he parted ways with this beloved property and now resides in two prominent homes situated in Wyoming and Los Angeles.",
+    "img": "https://static.toiimg.com/photo/msid-134276642,imgsize-95738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-the-1970s-harrison-ford-scored-his-breakthrough-with-star-wars-years-later-in-1983-he-bought-his-first-home-for-usd-1-million/articleshow/134276607.cms",
+    "time": "2026-09-16T02:42:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Jadeja make an ODI return?",
+    "desc": "India’s selectors face key ODI selection decisions for the West Indies series. With Axar Patel and Washington Sundar at the Asian Games, Ravindra Jadeja could return despite concerns over his bowling. Hardik Pandya’s fitness remains uncertain, while Rishabh Pant may get another ODI opportunity ahead of Dhruv Jurel. Injuries and wicketkeeping options will also shape the squad.",
+    "img": "https://static.toiimg.com/photo/msid-134276676,imgsize-125516.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-squad-for-west-indies-series-will-ravindra-jadeja-make-an-odi-return/articleshow/134276568.cms",
+    "time": "2026-09-16T02:42:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harry Brook scripts history, becomes first cricketer to achieve this feat in T20Is",
+    "desc": "In a remarkable feat, Harry Brook reached a notable captaincy milestone in 2026, becoming the only Full Member captain to score two T20I centuries within the same year. His latest achievement was an explosive 114 not out against Sri Lanka in Southampton, which he accomplished off just 42 deliveries, leading England to a commanding 119-run victory in their first T20I match.",
+    "img": "https://static.toiimg.com/photo/msid-134276491,imgsize-105310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/harry-brook-scripts-history-becomes-first-cricketer-to-achieve-this-feat-in-t20is/articleshow/134276459.cms",
+    "time": "2026-09-16T02:30:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brigida Saga marries actor Anand Ram in intimate ceremony",
+    "desc": "Brigida Saga and Anand Ram celebrated their love in a cozy wedding ceremony, sharing delightful moments of their special day with fans. Brigida, renowned for her role in Pavi Teacher, has made her mark in cinema, while Anand is carving out a path in acting and film direction. The couple has been greeted with an outpouring of warm wishes from their admirers as they embark on this new journey together.",
+    "img": "https://static.toiimg.com/photo/msid-134276363,imgsize-156271.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/aaha-kalyanam-fame-brigida-saga-marries-actor-anand-ram-in-intimate-ceremony-shares-dreamy-wedding-photos/articleshow/134276361.cms",
+    "time": "2026-09-16T02:18:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yuri Nakamura passes away after 13-year battle with cancer",
+    "desc": "Japanese-Korean actress Nakamura Yuri has died after a prolonged cancer struggle. Her agency confirmed her passing on September 14, which was a private ceremony. Nakamura battled cancer for thirteen years, experiencing remission and recurrence. She faced a worsening condition in August, but remained peaceful. Friends and colleagues have paid tribute to the late actress.",
+    "img": "https://static.toiimg.com/photo/msid-134276351,imgsize-143504.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/nakamura-yuri-of-romantics-anonymous-fame-passes-away-after-13-year-battle-with-cancer/articleshow/134276327.cms",
+    "time": "2026-09-16T02:16:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘People said a lot of things’: Goenka breaks silence on Pant’s shock LSG exit",
+    "desc": "Rishabh Pant's expensive IPL journey with Lucknow Super Giants concluded after two seasons. The franchise owner stated their relationship with Pant remained cordial and warm. Pant has now returned to his former team, the Delhi Capitals, for a lower fee. Lucknow Super Giants replaced Pant by signing wrist-spinner Kuldeep Yadav. This move followed two unsuccessful seasons for the Lucknow franchise.",
+    "img": "https://static.toiimg.com/photo/msid-134276273,imgsize-111184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/people-said-a-lot-of-things-sanjiv-goenka-breaks-silence-on-rishabh-pants-shock-lsg-exit/articleshow/134276252.cms",
+    "time": "2026-09-16T02:07:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Supriya Menon responds to English debate",
+    "desc": "Producer Supriya Menon responded to backlash over her remarks on the perception of English in public forums, clarifying that her words were distorted and misreported by the press. The debate sparked during a promotional event for the film 'Aasha,' where she raised concerns about why speaking English is seen as a sign of hubris, potentially undermining Malayalam culture. Concurrently, 'Aasha' is earning favorable reviews, particularly about Urvashi's standout performance.",
+    "img": "https://static.toiimg.com/photo/msid-134276175,imgsize-322376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/twisting-words-out-of-context-supriya-menon-questions-media-fact-checking-clarifies-urvashi-reference-amid-aasha-debate/articleshow/134276163.cms",
+    "time": "2026-09-16T01:56:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ahaana Krishna marries Nimish Ravi",
+    "desc": "Actress Ahaana Krishna and cinematographer Nimish Ravi have officially announced their wedding. The couple exchanged vows on September thirteenth, twenty twenty-six, after knowing each other for years. Ahaana shared heartfelt pictures and a note describing Nimish as her best friend. Congratulatory messages poured in from many Malayalam film industry colleagues. Actor Rishab Shetty and his wife Pragathi reportedly attended the wedding ceremony.",
+    "img": "https://static.toiimg.com/photo/msid-134275977,imgsize-456128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/met-you-at-20-married-you-at-30-ahaana-krishna-marries-lokah-cinematographer-nimish-ravi-couple-makes-relationship-official/articleshow/134275966.cms",
+    "time": "2026-09-16T01:23:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ex-Pakistan batter calls India 'arrogant' as he defends Mohsin Naqvi",
+    "desc": "Following their stunning victory against Sri Lanka in the Asia Cup final, India's women's cricket team made a bold statement by refusing to accept the trophy. The players chose to remain in the dressing room, adhering to the BCCI's advisement regarding the presentation. This moment recalls a similar stance taken by the men's team in the previous year's tournament.",
+    "img": "https://static.toiimg.com/photo/msid-134275976,imgsize-168037.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ex-pakistan-batter-calls-india-arrogant-as-he-defends-mohsin-naqvi-after-asia-cup-trophy-row/articleshow/134275958.cms",
+    "time": "2026-09-16T01:23:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Indictment says FBI shut down Russian plot to kill U.S. individuals, target Ukraine supporters",
+    "desc": "An indictment unsealed in Manhattan federal court said a network of the intelligence services has paid and attempted to pay individuals in the United States and in other countries to surveil targets to be killed with plans to then kill them.",
+    "img": "https://th-i.thgim.com/public/incoming/xjjnh3/article71470878.ece/alternates/LANDSCAPE_1200/Border_Shooting_New_Hampshire_99211.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/indictment-says-fbi-shut-down-russian-plot-to-kill-us-individuals-target-ukraine-supporters/article71470877.ece",
+    "time": "2026-09-16T01:18:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu CM Vijay’s London event called off after police raise safety concerns",
+    "desc": "An anticipated public appearance of Tamil Nadu chief minister C Joseph Vijay near London's iconic Shard was abruptly called off due to safety concerns raised by the Metropolitan Police. Fans were advised not to linger at his hotel or travel paths. During his time in the UK, Vijay aimed to attract investments, with his delegation successfully signing MoUs valued at around Rs 12,300 crore.",
+    "img": "https://static.toiimg.com/photo/msid-134275872,imgsize-57488.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-cm-vijays-london-event-called-off-after-police-raise-safety-concerns/articleshow/134275862.cms",
+    "time": "2026-09-16T01:03:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Irumudi' BO day 26: Ravi Teja movie reaches Rs 236.45 cr",
+    "desc": "On its twenty-sixth day, 'Irumudi', starring Ravi Teja, garnered Rs 1.30 crore, elevating its total Indian net collection to a whopping Rs 184.20 crore. The film's global gross stands at Rs 236.45 crore, aided by notable overseas figures. Following a pattern of steady growth, fourth-week collections have slightly increased through the weekend. Also noteworthy, 'Epic - First Semester' has released its box office numbers for the fifth day.",
+    "img": "https://static.toiimg.com/photo/msid-134275847,imgsize-293681.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/irumudi-box-office-collection-day-26-ravi-teja-movie-reaches-rs-236-45-cr-worldwide-fourth-tuesday-earns-rs-1-30-cr/articleshow/134275836.cms",
+    "time": "2026-09-16T00:58:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Samson's blitz against Afg keeps Sooryavanshi waiting",
+    "desc": "Sanju Samson's explosive 57 off 22 balls against Afghanistan in the second T20I was more than a match-winning cameo — it was a compelling reminder of why India's T20I selection calls remain so difficult. Having lost ground to teenage sensation Vaibhav Sooryavanshi, Samson responded with fearless batting while acknowledging the challenge of balancing merit, opportunity and India's long-term vision at the top.",
+    "img": "https://static.toiimg.com/photo/msid-134275834,imgsize-175824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sanju-samsons-blitz-against-afghanistan-keeps-vaibhav-sooryavanshi-waiting-and-the-debate-alive/articleshow/134275784.cms",
+    "time": "2026-09-16T00:56:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In a rare debate, Baghel and Vijay Sharma spar over PM Awas Yojana in Chhattisgarh",
+    "desc": "The crux of the debate was the action taken or lack thereof in their respective tenures — the Congress between 2018 and 2023 and the BJP from December 2023 till date — on the implementation of the central housing scheme for the poor.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/in-a-rare-debate-baghel-and-vijay-sharma-spar-over-pm-awas-yojana-in-chhattisgarh/article71469251.ece",
+    "time": "2026-09-16T00:54:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Hanuman Ansh’ crosses Rs 290 crore worldwide on day 40",
+    "desc": "The spiritual epic Hanuman Ansh is on the brink of a phenomenal Rs 300 crore worldwide milestone as it enters its sixth week. With an impressive India net collection of Rs 231.13 crore after 40 days, and overseas gross earnings at Rs 18.50 crore, the film's total worldwide gross stands at Rs 291.40 crore. Its consistent performance reflects strong audience engagement and positive word of mouth.",
+    "img": "https://static.toiimg.com/photo/msid-134275788,imgsize-951717.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collections-day-40-vishal-chaturvedis-film-maintains-a-strong-hold-crosses-rs-290-crore-mark-worldwide/articleshow/134275767.cms",
+    "time": "2026-09-16T00:48:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'BKU' BO 26 vs 'Im Game'",
+    "desc": "Bethlehem Kudumba Unit is thriving at the box office, grossing Rs 1.40 crore on its fourth Tuesday. The film's total earnings in India have now soared to Rs 149.90 crore, while its worldwide gross has impressively hit Rs 310.55 crore over a span of 26 days. In contrast, Im Game has shown modest performance with Rs 25.22 crore in India net collections and a global gross of Rs 47.59 crore.",
+    "img": "https://static.toiimg.com/photo/msid-134275765,imgsize-462365.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-day-26-vs-im-game-nivin-pauly-and-mamitha-baiju-movie-reaches-rs-310-55-cr-worldwide/articleshow/134275757.cms",
+    "time": "2026-09-16T00:40:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suriya and Jyotika renew wedding vows after 20 years",
+    "desc": "Actor couple Suriya and Jyotika marked 20 years of marriage with a vow renewal ceremony surrounded by their family and close friends. Videos from the special occasion have surfaced online and are being widely shared on social media.",
+    "img": "https://static.toiimg.com/photo/msid-134275756,imgsize-257912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suriya-and-jyotika-renew-their-wedding-vows-in-lavish-ceremony-couple-celebrate-20-years-of-love-and-war/articleshow/134275712.cms",
+    "time": "2026-09-16T00:39:07.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. House advances Russia sanctions Bill that seeks 100% tariffs on India, others; set for final vote",
+    "desc": "The resolution to advance the Russia sanctions Bill and a slew of other legislations was approved by a 214-211 vote, shocking the House Democratic leadership. The Bill is expected to come up for a final vote in the House on September 16",
+    "img": "https://th-i.thgim.com/public/incoming/ydmapq/article71470873.ece/alternates/LANDSCAPE_1200/2026-07-02T115057Z_1326133511_RC2OFKAY4WTB_RTRMADP_3_RUSSIA-OIL-TAX.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russia-sanctions-bill-advances-in-us-house-india-tariffs-final-vote/article71470872.ece",
+    "time": "2026-09-16T00:36:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah does it again! India star breaks major T20I record against Afg",
+    "desc": "Jasprit Bumrah opened the bowling for India with a maiden over. It was his 13th maiden in T20I cricket and helped him become the bowler with the most maiden overs among players from Full Member nations. He moved past Zimbabwe’s Richard Ngarava, who has bowled 12 maiden overs in T20Is.",
+    "img": "https://static.toiimg.com/photo/msid-134270128,imgsize-35295.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/jasprit-bumrah-does-it-again-india-star-breaks-major-t20i-record/articleshow/134270032.cms",
+    "time": "2026-09-16T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mandaadi' BO day 6 vs 'Sardar 2'",
+    "desc": "Mandaadi has crossed fifty crore rupees in India net collections after six days. The film earned four point four crore rupees on its sixth day in theaters. Overseas markets added one point five crore rupees to its total earnings. Sardar 2 also saw a collection drop on its first Tuesday. Both films were released on September tenth, twenty twenty-six.",
+    "img": "https://static.toiimg.com/photo/msid-134275724,imgsize-274392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mandaadi-box-office-collection-day-6-vs-sardar-2-sooris-film-crosses-rs-50-cr-net-karthis-movie-stands-at-rs-20-47-cr/articleshow/134275721.cms",
+    "time": "2026-09-16T00:21:22.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump admin. approves sending 2,000-pound bombs to Israel in upcoming weapons deal",
+    "desc": "Congress has been informally notified about the pending deal, most of which is to be paid for with foreign military financing — in which U.S. taxpayer dollars are given to Israel to turn around and buy the weapons from the United States",
+    "img": "https://th-i.thgim.com/public/incoming/hdqpyl/article71470870.ece/alternates/LANDSCAPE_1200/Iran_US_6_Months_Changed_Mideast_17733.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-admin-approves-sending-2000-pound-bombs-to-israel-in-upcoming-weapons-deal/article71470869.ece",
+    "time": "2026-09-16T00:14:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Toxic' BO day 21: Yash starrer earns Rs 13 lakh",
+    "desc": "Yash's movie 'Toxic' is still captivating audiences in theaters with steady earnings. On its third Tuesday, it garnered Rs 13 lakh net, while the third Saturday saw an impressive Rs 33 lakh net collection. So far, 'Toxic' has raked in a total of Rs 249.37 crore net in India, with a worldwide gross of Rs 341.39 crore, proving to be a commercial success.",
+    "img": "https://static.toiimg.com/photo/msid-134275603,imgsize-452320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-box-office-collections-day-21-yash-tara-sutaria-nayanthara-kiara-advani-starrer-earns-rs-13-lakh-third-tuesday-occupancy-drops-to-14-percent/articleshow/134275594.cms",
+    "time": "2026-09-15T23:56:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amanda Seyfried and Thomas Sadoski part ways after 9 years",
+    "desc": "Amanda Seyfried and Thomas Sadoski confirmed their separation after nine years together. The couple stated they had been apart for a while, finding it beneficial. They first met in 2015 and later married in March 2017. Seyfried and Sadoski share two children, Nina and Thomas Jr. Recent social media posts showed Seyfried sharing updates about her married life.",
+    "img": "https://static.toiimg.com/photo/msid-134275600,imgsize-303793.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/amanda-seyfried-and-thomas-sadoski-part-ways-couple-announce-end-of-9-year-marriage-weve-got-each-other-forever/articleshow/134275558.cms",
+    "time": "2026-09-15T23:54:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Thank You, Colombia’: James Rodríguez retires after an extraordinary 15 years",
+    "desc": "James Rodríguez has retired from international football after 15 years and 131 appearances for Colombia. The iconic No. 10 leaves as the country’s record cap holder, with 31 goals and 43 assists. His career was defined by the 2014 World Cup Golden Boot and memorable performances. At 35, Rodríguez will continue his club career with Atlético Nacional.",
+    "img": "https://static.toiimg.com/photo/msid-134275493,imgsize-7381243.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/thank-you-colombia-captain-james-rodrguez-35-announces-retirement-from-international-football-after-extraordinary-15-year-career/articleshow/134273386.cms",
+    "time": "2026-09-15T23:21:39.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Salman performs aarti at Khan family's Ganpati visarjan",
     "desc": "Salman Khan joined his family for their annual Ganpati visarjan celebrations. He participated in the aarti and prayers before the idol's immersion. The festivities took place at his brother Sohail Khan's residence this year. Pictures and videos of the event have now gone viral on social media. Khan also shared a reflective post on his social media account this week.",
@@ -63,15 +297,6 @@ const newsData_en = [
     "time": "2026-09-15T19:01:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Omar praises India’s foreign policy over Brics mention of Pahalgam, slams Centre on UCC",
-    "desc": "Jammu and Kashmir' chief minister Omar Abdullah commended India’s diplomatic achievements at the recent Brics summit. He highlighted the group's unified condemnation of the Pahalgam terrorist attack. Furthermore, Abdullah expressed concerns about the central government's strategy in implementing the Uniform Civil Code and asserted that such pivotal legislation ought to be decided by Parliament, rather than through isolated state actions that circumvent legislative norms.",
-    "img": "https://static.toiimg.com/photo/msid-134271585,imgsize-1194088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/omar-praises-indias-foreign-policy-over-brics-mention-of-pahalgam-slams-centre-on-ucc/articleshow/134271508.cms",
-    "time": "2026-09-15T18:41:12.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Lady Gaga spotted cradling her baby in LA; child already a few months old",
     "desc": "Lady Gaga was reportedly spotted cradling her baby in Los Angeles, with a source claiming the child is already a few months old. The singer has kept the news private while embracing motherhood away from the spotlight. According to the report, Gaga is in “full nesting mode”, constantly holding her baby to bond and enjoying motherhood.",
@@ -88,15 +313,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/west-asia-war-live-updates-saudi-arabia-houthi-attacks-red-sea-us-iran-september-15-2026/article71466658.ece",
     "time": "2026-09-15T18:12:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Threatens freedom of navigation through Bab-el-Mandeb’: India condemns Houthi strikes on Saudi Arabia",
-    "desc": "India strongly condemned the Houthi strikes aimed at Saudi Arabia, voicing serious concerns over the implications for regional stability and vital maritime routes, such as Bab-el-Mandeb. During the Brics Summit, Foreign Minister Jaishankar engaged with his Saudi counterpart regarding the escalating Houthi situation. India firmly rejected the attacks on sovereign nations and key infrastructures, advocating for an immediate return to peace and stability in the region.",
-    "img": "https://static.toiimg.com/photo/msid-134270789,imgsize-87376.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/threatens-freedom-of-navigation-through-bab-el-mandeb-india-condemns-houthi-strikes-on-saudi-arabia/articleshow/134270703.cms",
-    "time": "2026-09-15T17:59:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -135,6 +351,15 @@ const newsData_en = [
     "time": "2026-09-15T17:41:26.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Why public intellectuals matter in present-day India",
+    "desc": "A public intellectual raises questions about the social, political and economic issues of the day using reasoned arguments; the growing assertion of authoritarian tendencies, destruction of democratic practices and criminalisation of dissent make their role more crucial in the present times",
+    "img": "https://th-i.thgim.com/public/incoming/p53wiq/article71469770.ece/alternates/LANDSCAPE_1200/6270_23_7_2021_16_12_47_4_STUDENTPROTESTSTAN_23_07_4.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-public-intellectuals-matter-in-present-day-india/article71469761.ece",
+    "time": "2026-09-15T17:18:57.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Samson establishes his role of opener as India beat Afghanistan by seven-wickets",
     "desc": "Sanju Samson showcased his incredible skills, leading India to a triumphant T20 series win against Afghanistan with a blistering fifty-seven runs in just twenty-two balls. He was well-supported by Abhishek Sharma, who added thirty-eight not out. Meanwhile, the impressive bowling from Nitish Kumar Reddy eased the coaching staff’s worries, while the stellar performance of Samson and Sharma indicates a tough challenge ahead for the younger players.",
@@ -142,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sanju-samsons-57-off-22-establishes-his-role-of-the-preferred-opener-as-india-beat-afghanistan-by-seven-wickets-to-seal-t20i-series/articleshow/134269649.cms",
     "time": "2026-09-15T17:15:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "DRDO has developed indigenous GaN tech for next-gen radars, electronic warfare: Def min report",
-    "desc": "India's Defense Research and Development Organization (DRDO) has unveiled a significant breakthrough in Gallium Nitride MMIC technology, which is set to enhance its defense capabilities. This indigenous development positions India among a select few nations skilled in high-frequency chip technology. The advanced systems crafted through this innovation promise to improve radar functions and electronic warfare, offering robust wireless signal processing without the risk of overheating.",
-    "img": "https://static.toiimg.com/photo/msid-134269748,imgsize-43326.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/drdo-has-developed-indigenous-gan-tech-for-next-gen-radars-electronic-warfare-def-min-report/articleshow/134269616.cms",
-    "time": "2026-09-15T17:09:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -162,24 +378,6 @@ const newsData_en = [
     "time": "2026-09-15T17:00:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Relief of residents as removal of chemical-laced soil begins in village in Keralam",
-    "desc": "The hazardous chemical waste from the now-defunct Binani Zinc Limited in Ernakulam district was illegally transported and dumped across private lands in Eriyad, a coastal village in Thrissur district, a few months ago, under the guise of regular soil for land filling, raising environmental concerns among the public. A meeting chaired by RDO decided to remove the entire material within two days",
-    "img": "https://th-i.thgim.com/public/incoming/g26vp8/article71469423.ece/alternates/LANDSCAPE_1200/80688_15_9_2026_19_26_37_1_ERIYAD_KKN1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/relief-of-residents-as-removal-of-chemical-laced-soil-begins-in-village-in-keralam/article71468445.ece",
-    "time": "2026-09-15T16:58:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Narrower margin for error in Census second phase, training vital, Registrar General says",
-    "desc": "In a letter sent to all States, Registrar General and Census Commissioner of India Mritunjay Kumar Narayan asks for the integration of gender sensitisation in training programme for enumerators, with emphasis on respectful interaction, accurate recording, and strict avoidance of assumptions or bias",
-    "img": "https://th-i.thgim.com/public/incoming/twl2b8/article71469688.ece/alternates/LANDSCAPE_1200/20260330138L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/narrower-margin-for-error-in-census-second-phase-training-vital-registrar-general-says/article71469463.ece",
-    "time": "2026-09-15T16:53:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sanju Samson joins Rohit Sharma, KL Rahul in India's elite club",
     "desc": "The Kerala batter was a key player in India's T20 World Cup triumph, but his form has been inconsistent since then. He had scored only 33 runs in four innings before the Afghanistan series. With youngster Vaibhav Sooryavanshi also pushing for a place, Samson needed a strong performance. The upcoming Asian Games also added to the importance of his form.",
@@ -187,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sanju-samson-joins-rohit-sharma-kl-rahul-in-indias-elite-club/articleshow/134269217.cms",
     "time": "2026-09-15T16:48:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi court grants three weeks interim bail to Swatantra Bhardwaj to observe his conduct",
-    "desc": "The court added that if the complainant or the investigating officer finds him breaching any of the conditions of the interim bail, they are at liberty to bring the same to the court’s notice without waiting for the next date, so that the interim bail may be reviewed or recalled",
-    "img": "https://th-i.thgim.com/public/incoming/94b7n/article71467834.ece/alternates/LANDSCAPE_1200/PTI09_07_2026_000323B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/swatantra-bhardwaj-interim-bail-delhi-court/article71467809.ece",
-    "time": "2026-09-15T16:37:57.000Z"
   },
   {
     "cat": "Business",
@@ -217,15 +406,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Sonu Sood REACTS to 'Hanuman Ansh's Rs 220 crore success: 'It's high time...'",
-    "desc": "The film Hanuman Ansh has made waves at the box office, collecting over Rs 220 crore. Sonu Sood emphasized that compelling content and emotional resonance outweigh high production costs. Many in Bollywood, like Hema Malini and Kangana Ranaut, have expressed their admiration for the film. Varun Dhawan noted the film's divine essence and stellar performances, showcasing that impactful storytelling is key to audience engagement.",
-    "img": "https://static.toiimg.com/photo/msid-134268242,imgsize-466674.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonu-sood-reacts-to-hanuman-anshs-stunning-rs-220-crore-box-office-success-its-high-time-we-make-films-not-just-for-the-glamour-but-stories/articleshow/134268209.cms",
-    "time": "2026-09-15T15:53:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Was Nana Patekar in a romantic relationship with Manisha Koirala? 'Agni Sakshi' writer reacts",
     "desc": "Screenwriter Ranbir Pushp discussed Nana Patekar and Manisha Koirala's close bond during 'Agni Sakshi'. He acknowledged their understanding and scene discussions, which reflected on screen. Pushp never sensed their relationship extended beyond deep friendship and professional collaboration. He was primarily focused on his own work during the film's production. Later reports and papers mentioned their alleged romance, which he did not observe.",
     "img": "https://static.toiimg.com/photo/msid-134268186,imgsize-235810.cms",
@@ -241,60 +421,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/india-deeply-concerned-about-blockades-in-hormuz-and-bab-el-mandeb-says-govt/article71468322.ece",
     "time": "2026-09-15T15:40:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SRK lost Rs 5000 at Ajmer Sharif, fakir told him he will earn Rs 500 crore",
-    "desc": "In a poignant memory, Shah Rukh Khan reminisced about a visit to Ajmer Sharif alongside his mother. After losing five thousand rupees, a fakir foretold that he would amass five hundred crore. This significant visit was a plea for blessings for his ailing mother, who died shortly before his rise to fame in 1992. He holds dear her blessings and the profound spirituality of Ajmer Sharif.",
-    "img": "https://static.toiimg.com/photo/msid-134267995,imgsize-98306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-lost-rs-5000-at-ajmer-sharif-fakir-told-him-he-will-earn-rs-500-crore-the-actor-once-revealed-i-dont-believe-in-such-things-he-was-right/articleshow/134267378.cms",
-    "time": "2026-09-15T15:37:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Big B to build dharamshala in his Rs 15 crore Ayodhya property in father's memory",
-    "desc": "Amitabh Bachchan is set to honor his father's memory by establishing a memorial dharamshala in Ayodhya. The planned facility will include over twenty rooms on the land he has procured. Currently, the Ayodhya Development Authority is evaluating the building's design to incorporate public suggestions. With construction anticipated to begin in October post-approval, this project focuses on improving the experience for pilgrims visiting the revered city.",
-    "img": "https://static.toiimg.com/photo/msid-134267908,imgsize-403737.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-to-build-dharamshala-in-his-rs-15-crore-ayodhya-property-in-father-harivansh-rai-bachchans-memory-20-rooms-for-devotees-and-more/articleshow/134267873.cms",
-    "time": "2026-09-15T15:31:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Johnny Flynn says private schools should be ‘burnt to the ground’ after ‘traumatic’ experience",
-    "desc": "Harry Potter star Johnny Flynn has opened up about his traumatic experience at Winchester’s Pilgrims’ School, where he was bullied after entering boarding school at seven. The actor developed nervous tics and later underwent therapy, which helped him understand “boarding school syndrome”. Flynn said he does not think private schools should exist.",
-    "img": "https://static.toiimg.com/photo/msid-134267890,imgsize-136087.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harry-potter-star-johnny-flynn-says-private-schools-should-be-burnt-to-the-ground-after-traumatic-experience-at-winchesters-pilgrims-school-therapy-helped-him-understand-boarding-school-syndrome/articleshow/134267820.cms",
-    "time": "2026-09-15T15:31:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dhanush’s 'D56' reportedly titled ‘Padayal’, to begin with pooja ceremony on September 17",
-    "desc": "Dhanush's next project, rumored to be titled 'Padayal', delves into the world of rural action. Produced by his own Wunderbar Films, the film promises an intense narrative filled with raw action and violence. Fans can look forward to a pooja ceremony set for September 17th, creating anticipation for what comes next. Also, don't forget that Dhanush's film 'OM' is slated for a theatrical release next month.",
-    "img": "https://static.toiimg.com/photo/msid-134267644,imgsize-1077036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/d56-dhanush-and-tamizharasan-pachamuthus-next-film-reportedly-titled-padayal-pooja-on-september-17/articleshow/134267611.cms",
-    "time": "2026-09-15T15:09:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika Mandanna to play MS Subbulakshmi; first look and title to be unveiled tomorrow",
-    "desc": "Rashmika Mandanna will portray M S Subbulakshmi in an upcoming biopic film. The actress shared the first poster, and the title will be revealed soon. M S Subbulakshmi was a respected Carnatic musician and Bharat Ratna recipient. The film's launch is set for September 16, marking her 110th birth anniversary. Actor Kamal Haasan will attend the grand launch event as chief guest.",
-    "img": "https://static.toiimg.com/photo/msid-134267039,imgsize-1467928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-to-play-m-s-subbulakshmi-in-her-upcoming-biopic-film-to-launch-on-her-110th-birth-anniversary-what-an-absolute-honour/articleshow/134266990.cms",
-    "time": "2026-09-15T14:34:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "No relief for Salman's 'Maatrubhumi' from CBFC, the film is stuck due to its China connection",
-    "desc": "The war drama 'Maatrubhumi' starring Salman Khan is in a bind as it faces certification delays linked to its connection with China. The lack of a scheduled screening by the Central Board of Film Certification has led to uncertainty about the film's release timeline. Discussions with government officials aim to resolve these issues, but fans may have to wait until 2026 or 2027 for its debut.",
-    "img": "https://static.toiimg.com/photo/msid-134267011,imgsize-290431.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/no-relief-for-salman-khans-maatrubhumi-from-cbfc-the-film-is-stuck-due-to-its-china-connection-causing-obstacles-in-release/articleshow/134266900.cms",
-    "time": "2026-09-15T14:32:58.000Z"
   },
   {
     "cat": "Sports",
@@ -313,24 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/what-does-mdr-on-person-to-merchant-upi-transactions-above-rs-2000-mean-for-you-faqs-answered/articleshow/134266181.cms",
     "time": "2026-09-15T14:11:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bhuvan visits Salman at his house; superstar watches his show",
-    "desc": "Bhuvan Bam recently enjoyed a screening of his show 'The Revolutionaries' at the home of Salman Khan, accompanied by director Nikkhil Advani. The actor expressed his heartfelt thanks to Advani for casting him as the iconic Rash Bihari Bose in this historical drama. Meanwhile, Khan is busy gearing up for his upcoming film 'Matrubhoomi.' Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-134266583,imgsize-600267.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhuvan-bam-visits-salman-khan-at-his-house-drops-pics-as-the-superstar-watches-his-new-show-the-revolutionaries-netizens-react/articleshow/134266558.cms",
-    "time": "2026-09-15T14:07:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nana Patekar refused to buy car worth Rs 1.5 crore, distributed money to the farmers",
-    "desc": "Screenwriter Ranbir Pushp defended Nana Patekar's often misunderstood temperament. He highlighted Patekar's decision to forgo a car purchase for farmer aid. Pushp recounted an incident where Patekar educated a littering motorist about civic duty. He also addressed speculation regarding Patekar's close bond with Manisha Koirala. The screenwriter suggested Patekar's actions were guidance rather than mere anger.",
-    "img": "https://static.toiimg.com/photo/msid-134266390,imgsize-286557.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-refused-to-buy-car-worth-rs-1-5-crore-distributed-money-to-the-farmers-recalls-writer-as-he-slams-the-perceptions-around-the-actor-cant-cause-harm-to-anyone/articleshow/134266212.cms",
-    "time": "2026-09-15T14:02:33.000Z"
   },
   {
     "cat": "Sports",
@@ -369,24 +477,6 @@ const newsData_en = [
     "time": "2026-09-15T13:33:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'People who rejected me are calling': Hanuman Ansh composer",
-    "desc": "The remarkable film Hanuman Ansh has surpassed box office expectations while sticking to a reasonably small budget. Its catchy soundtrack has gained traction on social media, driving conversation and interest. Music composer Dhirendra Mulkalwar shared his astonishment at the film's financial success, noting new opportunities emerging from the industry that had previously overlooked him. Grassroots promotion coupled with social media played an essential role in the film’s ascent.",
-    "img": "https://static.toiimg.com/photo/msid-134265447,imgsize-577981.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/people-who-rejected-me-are-calling-now-hanuman-ansh-composer-on-life-after-films-succes/articleshow/134265259.cms",
-    "time": "2026-09-15T13:20:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tanishaa calls women who have affairs with married men 'evil'",
-    "desc": "Tanishaa Mukerji's comments on X ignited a fiery debate on the morality of women involved with married men. Labeling these women as evil and unaligned with feminism, she emphasized male accountability as well. Journalist Richa Lakhera pushed back, questioning why the blame wasn't equally shared, asserting that the married party must hold the lion's share of responsibility for dishonoring commitments.",
-    "img": "https://static.toiimg.com/photo/msid-134263487,imgsize-397721.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tanishaa-mukerji-sparks-debate-by-calling-women-who-have-affairs-with-married-men-evil-they-are-not-feminists/articleshow/134262345.cms",
-    "time": "2026-09-15T12:49:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "21-year wait over: Matt Renshaw hits Australia's first ODI century against Zimbabwe since 2004",
     "desc": "Matt Renshaw came to the crease when Australia were in trouble at 83/3 in 13 overs after opting to bat first. The left-hander took his time and kept the scoreboard moving before stepping up the attack. He brought up his fifty off 55 balls.",
@@ -396,15 +486,6 @@ const newsData_en = [
     "time": "2026-09-15T12:43:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "SRK opens up about reuniting with Deepika, Rani in 'King'",
-    "desc": "During an engaging social media session, Shah Rukh Khan opened up about his much-anticipated film, King. He shared his excitement about reuniting with beloved co-stars Deepika Padukone and Rani Mukerji. Renowned musician Arijit Singh is set to deliver the film's soundtrack, which is slated for a December 2026 release. A notable highlight is the inclusion of his daughter, Suhana Khan, in the captivating cast.",
-    "img": "https://static.toiimg.com/photo/msid-134262923,imgsize-734620.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-opens-up-about-reuniting-with-deepika-padukone-and-rani-mukerji-in-king-reveals-arijit-singh-is-giving-final-touches-to-music/articleshow/134262128.cms",
-    "time": "2026-09-15T12:37:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Russian oil squeeze, China competition, Saudi pipeline shut: Why India faces a crude triple whammy",
     "desc": "Where does that leave India, a country that imports around 90% of its crude oil? If crude oil prices continue to rise due to global supply constraints and Russian crude discounts ebb, will India’s crude oil bill manage another hit within months?",
@@ -412,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/russian-oil-squeeze-china-competition-saudi-pipeline-shut-why-india-faces-a-crude-triple-whammy/articleshow/134259323.cms",
     "time": "2026-09-15T12:25:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Manoj gets trolled for sharing 'Adipurush' song after 'Jai Jai Ram' release: 'Jealousy'",
-    "desc": "Nitesh Tiwari's latest song 'Jai Jai Ram' from the 'Ramayana' has set the audience abuzz with excitement and anticipation. Just then, 'Adipurush' writer Manoj Muntashir posted 'Ram Siya Ram,' which ignited a flurry of speculation online about the intent behind this timing. Given Muntashir's previous admissions of shame over 'Adipurush,' the reactions were sharp. Notably, Tiwari's take on the epic stars the talents of Ranbir Kapoor and Sai Pallavi.",
-    "img": "https://static.toiimg.com/photo/msid-134262044,imgsize-266343.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-muntashir-gets-trolled-for-sharing-adipurush-song-after-jai-jai-ram-release-from-ranbir-kapoors-ramayana-isko-khushi-doosre-ki-bardhast-nai-hoti/articleshow/134261867.cms",
-    "time": "2026-09-15T12:20:41.000Z"
   },
   {
     "cat": "Business",
@@ -477,15 +549,6 @@ const newsData_en = [
     "time": "2026-09-15T10:15:10.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo's Al Nassr script history, break Argentine club's 87-year-old record",
-    "desc": "The Saudi Pro League record was confirmed on Saturday when substitute Abdullah Al-Hamdan scored from long range to earn Al Nassr a 1-1 draw against Al Khaleej. The goal took Al Nassr past the previous record of 93 consecutive league matches set by Buenos Aires-based Club Atlético River Plate between September 1936 and June 1939.",
-    "img": "https://static.toiimg.com/photo/msid-134255194,imgsize-104339.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-ronaldos-al-nassr-script-history-break-argentine-clubs-87-year-old-record/articleshow/134255095.cms",
-    "time": "2026-09-15T10:04:05.000Z"
-  },
-  {
     "cat": "World",
     "title": "UN urges access for international investigators to Gaza after bodies found",
     "desc": "The ongoing recovery of extensive human remains in Gaza, mostly of women and children, nearly three years after Israel heavily bombed their homes, highlights the possibility that war crimes have been committed, the UN warned",
@@ -504,24 +567,6 @@ const newsData_en = [
     "time": "2026-09-15T09:01:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'This was my last World Cup': Bhuvneshwar reveals why India return hopes faded",
-    "desc": "Bhuvneshwar Kumar's impressive IPL seasons have reignited discussions about his potential return to the Indian team. He admitted feeling deserving of another opportunity while stressing it is not his sole motivation. The veteran pacer has accepted his current omission from the national squad. Bhuvneshwar sensed his 2022 World Cup career might have concluded after the semifinal loss.",
-    "img": "https://static.toiimg.com/photo/msid-134255862,imgsize-63420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/this-was-my-last-world-cup-bhuvneshwar-kumar-reveals-why-india-return-hopes-faded/articleshow/134255830.cms",
-    "time": "2026-09-15T08:00:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chappell leads seven Australia captains in appeal to minister over Imran Khan",
-    "desc": "In a heartfelt appeal, seven former Australian cricket captains have reached out to Foreign Minister Penny Wong, urging her to communicate humanitarian concerns regarding Imran Khan's imprisonment to the Pakistani authorities. With growing worries about his health and treatment, they emphasized the importance of sufficient medical care and the need for regular family contact, echoing similar sentiments expressed by other international cricketers.",
-    "img": "https://static.toiimg.com/photo/msid-134254643,imgsize-78920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/greg-chappell-leads-seven-australia-captains-in-appeal-to-foreign-minister-over-humanitarian-imran-khan-concerns/articleshow/134254580.cms",
-    "time": "2026-09-15T06:58:55.000Z"
-  },
-  {
     "cat": "World",
     "title": "BRICS gives India’s balancing power a boost",
     "desc": "The 18th BRICS Summit in New Delhi is being seen as a significant diplomatic achievement for India. From pushing reforms in global governance to strengthening trade cooperation and facilitating dialogue among rival nations, the summit highlighted India’s growing role as a bridge between competing global powers. Here’s a look at the key outcomes and why the New Delhi Declaration matters.",
@@ -529,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/why-the-brics-summit-was-a-major-diplomatic-win-for-india/article71465371.ece",
     "time": "2026-09-15T06:50:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cummins warns Australia of 'hostility' on first SA Test tour since Sandpaper Gate",
-    "desc": "As the Australian cricket team gears up for a Test series in South Africa, captain Pat Cummins anticipates a wave of hostility from local fans. He feels the squad has put the 2018 ball-tampering incident behind them and admits that the expected backlash from supporters hasn't been as fierce as presumed.",
-    "img": "https://static.toiimg.com/photo/msid-134254067,imgsize-93084.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pat-cummins-warns-australia-could-face-hostility-on-first-south-africa-test-tour-since-sandpaper-gate/articleshow/134253971.cms",
-    "time": "2026-09-15T06:22:43.000Z"
   },
   {
     "cat": "Sports",
@@ -565,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/real-estate-businessman-lost-rs-34-21-lakh-in-fo-trading-taxman-called-it-speculative-but-itat-delhi-allowed-rs-25-09-lakh-as-business-loss-heres-why/articleshow/134251157.cms",
     "time": "2026-09-15T05:53:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sydney Sweeney ad sparks fury as female athletes hit back over sexualisation",
-    "desc": "An advertising campaign featuring Sydney Sweeney has ignited backlash from female athletes who feel it diminishes their hard-earned accomplishments. Olympic swimmer Ariarne Titmus voiced her discontent over the objectification of women, while sprinter Amy Hunt emphasized the dedication behind athleticism. Former gymnast Gracie Kramer echoed these concerns, reflecting on her own experiences and the importance of recognizing female athletes' strength over their appearance.",
-    "img": "https://static.toiimg.com/photo/msid-134252696,imgsize-68862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/sydney-sweeney-faces-backlash-over-sports-betting-ad-as-female-athletes-accuse-campaign-of-sexualizing-women-in-sport-how-do-we-live-in-a-world-where-monetizing-a-womans-body/articleshow/134252563.cms",
-    "time": "2026-09-15T05:24:30.000Z"
   },
   {
     "cat": "World",
@@ -621,24 +648,6 @@ const newsData_en = [
     "time": "2026-09-15T04:54:17.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘I pity Samson’: Ex-cricketer slams Gambhir and management over Sooryavanshi",
-    "desc": "Kris Srikkanth questioned why Vaibhav Sooryavanshi was left out of India's T20 opening match. He emphasized Sooryavanshi's remarkable performance against Zimbabwe, where he was named Player of the Series, and criticized the team management for not giving him a fair opportunity. Furthermore, Srikkanth expressed concern over the inconsistent selection of Sanju Samson and called for more transparent selection policies for both players.",
-    "img": "https://static.toiimg.com/photo/msid-134250938,imgsize-62374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-pity-sanju-samson-ex-india-cricketer-slams-gautam-gambhir-and-management-over-vaibhav-sooryavanshi-handling/articleshow/134250892.cms",
-    "time": "2026-09-15T03:14:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohsin Naqvi 'didn't object' to India refusing Asia Cup trophy from him, says BCCI",
-    "desc": "India beat Sri Lanka by 72 runs in the Asia Cup final in Dubai on Sunday, but the team did not accept the trophy from Naqvi. It was the second year in a row that an Indian team skipped receiving the Asia Cup trophy from the ACC chairman, after the men's team did the same during the 2025 Asia Cup following the Pahalgam terror attack.",
-    "img": "https://static.toiimg.com/photo/msid-134250547,imgsize-168037.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/mohsin-naqvi-didnt-object-to-india-refusing-womens-asia-cup-trophy-from-him-says-rajeev-shukla/articleshow/134250438.cms",
-    "time": "2026-09-15T02:48:42.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. lawmaker submits amendment naming India in Russia sanctions act",
     "desc": "The Lindsey O Graham Sanctioning Russia and Iran Act, passed by the U.S. Senate by an overwhelming 86-11 vote last month, seeks to impose sanctions not only on Russia's leadership and energy sector but also on the \"shadow fleet\" of vessels that enable Moscow to evade sanctions on oil deliveries.",
@@ -655,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/in-loss-for-trump-us-supreme-court-wont-let-postal-service-restrict-mail-ballots/article71466496.ece",
     "time": "2026-09-15T00:32:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'The mistakes I made, I won't make again': Animesh Kujur ready for Asian Games",
-    "desc": "Animesh Kujur arrives in Aichi-Nagoya with a 10.14 personal best in the 100m and the national 200m record of 20.32. He has gained confidence from international competitions, learned how to manage his body, when to peak and when to reduce the load. With strong Asian competition ahead, including Japan's Shuhei Tada and Soshi Mizukubo, Kujur believes his Asian Championships mistakes will not be repeated and is targeting medals in all three events.",
-    "img": "https://static.toiimg.com/photo/msid-134241157,imgsize-66618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-the-mistakes-i-made-i-wont-make-again-sprinter-animesh-kujur-ready-for-a-bigger-challenge/articleshow/134241078.cms",
-    "time": "2026-09-15T00:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -700,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/chinas-spy-chief-warns-of-national-security-risks-from-ai/article71466340.ece",
     "time": "2026-09-14T16:55:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "4 buyers paid Rs 2.08 crore each for flats, but pool, spa, gym missing; RERA orders Rs 10 lakh",
-    "desc": "A reputed builder has been asked to pay Rs 10 lakh compensation to four homebuyers after a joint inspection and photographs showed that several amenities promised in the project, including a senior citizen park, open gym, spa, amphitheatre and sports facilities, had not been delivered.",
-    "img": "https://static.toiimg.com/photo/msid-134243458,imgsize-709415.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/four-homebuyers-paid-rs-2-08-crore-each-for-flats-with-promised-pool-gym-spa-and-sports-facilities-karnataka-rera-orders-rs-10-lakh-compensation-after-many-amenities-were-not-delivered/articleshow/134243422.cms",
-    "time": "2026-09-14T16:32:00.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
