@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Dakota Johnson, MGK ‘vibed’ at Taylor Swift’s NYC apartment before dinner",
+    "desc": "Dakota Johnson and Machine Gun Kelly reportedly spent private time at Taylor Swift’s NYC apartment before heading out for dinner. A source said the two ‘vibed’ and had a ‘really nice time’ together. Their low-key meet-up has sparked fresh dating speculation, though neither Johnson nor Kelly has publicly confirmed a relationship.",
+    "img": "https://static.toiimg.com/photo/msid-134296693,imgsize-123546.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dakota-johnson-and-machine-gun-kelly-vibed-and-had-a-really-nice-time-at-taylor-swifts-nyc-apartment-for-privacy-before-dinner-there-was-definitely-chemistry-report/articleshow/134296685.cms",
+    "time": "2026-09-16T22:41:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "After Senate, US House passes Russia sanctions bill; 100% tariff threat looms for India",
+    "desc": "The US House has successfully passed a sanctions bill aimed at Russian officials and the energy sector. This new legislation empowers President Trump to impose tariffs on significant buyers of Russian oil. India might encounter a staggering 100 percent tariff on its imports due to its energy dealings with Russia. The bill also broadens sanctions against Russia and prolongs measures against Iran for an additional five years.",
+    "img": "https://static.toiimg.com/photo/msid-134296695,imgsize-808174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/after-senate-us-house-passes-russia-sanctions-bill-100-tariff-threat-looms-for-india/articleshow/134296683.cms",
+    "time": "2026-09-16T22:40:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Travis named VICTIM in USD 35 million Ponzi scheme",
+    "desc": "Kansas City Chiefs star Travis Kelce was a victim in a multimillion-dollar Ponzi scheme. Siddharth Jawahar was sentenced to eleven years for defrauding investors of over thirty-five million dollars. Jawahar allegedly invested client funds poorly and used new money to pay earlier investors. He spent investor cash on a lavish lifestyle including private jets and luxury hotels. Kelce's exact financial loss in this scheme has not been disclosed.",
+    "img": "https://static.toiimg.com/photo/msid-134296692,imgsize-224902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swifts-husband-travis-kelce-named-as-victim-in-multimillion-dollar-ponzi-scheme-investor-losses-exceed-usd-35-million/articleshow/134296687.cms",
+    "time": "2026-09-16T22:38:10.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. troops must prepare to fight around the moon: Trump's top military adviser",
+    "desc": "Separately, the head of the Space Force's Combat Forces Command said “our potential adversaries such as the PRC are actively pursuing activities in the system, in parts of space,” referring to the People's Republic of China.",
+    "img": "https://th-i.thgim.com/public/incoming/m0mf44/article71474366.ece/alternates/LANDSCAPE_1200/Space_Weapons_19446.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-troops-must-prepare-to-fight-around-the-moon-trumps-top-military-adviser/article71474351.ece",
+    "time": "2026-09-16T22:29:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Meta admits lapses, govt questions its 'safe harbour' status",
+    "desc": "The government is urging Meta to take more accountability for the online content shared on its platform. Following acknowledged shortcomings, Meta risks the loss of its intermediary safe harbour immunity. The company is now mandated to promptly report any instances of child sexual abuse material to the relevant authorities. The NCPCR highlighted that this safe harbour protection is conditional, not guaranteed.",
+    "img": "https://static.toiimg.com/photo/msid-134296664,imgsize-67316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/child-abuse-content-row-meta-admits-lapses-govt-questions-its-safe-harbour-status/articleshow/134296619.cms",
+    "time": "2026-09-16T22:18:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' becomes highest-grossing film in North America",
+    "desc": "Brand New Day has now become the highest-grossing film domestically. It surpassed Star Wars: The Force Awakens' long-standing box office record. The film has grossed approximately USD 936.773 million in North America. Globally, Spider-Man: Brand New Day has earned around USD 2.45 billion. Marvel Studios and Sony plan future releases for the franchise.",
+    "img": "https://static.toiimg.com/photo/msid-134296618,imgsize-319059.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-overtakes-star-wars-the-force-awakens-to-become-highest-grossing-film-in-north-america-eyes-usd-1-billion-mark/articleshow/134296545.cms",
+    "time": "2026-09-16T22:08:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Federal Reserve hikes key rate to tackle ‘too high’ inflation, defying Trump demands for cut",
+    "desc": "Chairperson Warsh said renewed U.S.-Iran combat, which has driven up gas prices, also convinced officials to support rate hikes; President Trump reacted angrily to the decision, renewing his call for the Fed to lower interest rates “AND FAST”",
+    "img": "https://th-i.thgim.com/public/incoming/yxohqy/article71474114.ece/alternates/LANDSCAPE_1200/2026-09-16T183652Z_1716047873_RC2IKNAR714P_RTRMADP_3_USA-FED.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/federal-reserve-hikes-key-rate-for-first-time-in-three-years-defying-trump-demands-for-cut/article71474094.ece",
+    "time": "2026-09-16T21:51:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘We're the best credit’: Trump calls for lower US interest rates after first Fed hike in 3 years",
+    "desc": "The Federal Reserve has set a new target range by increasing its benchmark interest rate, marking its first hike since 2023. President Donald Trump has called for a substantial reduction in interest rates, advocating for lower borrowing costs given the country's robust credit status. However, officials have stated that ongoing inflation remains a significant factor driving this adjustment.",
+    "img": "https://static.toiimg.com/photo/msid-134296547,imgsize-81540.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/were-the-best-credit-trump-calls-for-lower-us-interest-rates-after-first-fed-hike-in-3-years/articleshow/134296503.cms",
+    "time": "2026-09-16T21:13:41.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Allahabad HC frees man confined after conversion, relationship with Muslim woman; cites Articles 21, 25",
     "desc": "Based on Ayush Malik’s submission that he had voluntarily embraced Islam in 2014 and accepted Ms. Qureshi as his partner, the court observed that such choices cannot be curtailed merely because they are contrary to the wishes of family members",
@@ -115,15 +187,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/cisf-handles-movement-of-over-1000-delegates-during-brics-summit/article71473178.ece",
     "time": "2026-09-16T17:00:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Anant Nag, second Kannada star to win Dadasaheb Phalke",
-    "desc": "After Dr. Rajkumar received the honour in 1995, no Kannada actor had bagged the country’s highest award in the field of cinema; though cinematographer V. K. Murthy, from Karnataka, was honoured with the award in 2008, it was for his work in Hindi cinema",
-    "img": "https://th-i.thgim.com/public/incoming/hjjeaz/article71473803.ece/alternates/LANDSCAPE_1200/_JAI7534.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/anant-nag-brings-dadasaheb-phalke-to-kannada-page-one/article71473751.ece",
-    "time": "2026-09-16T16:47:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -271,15 +334,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Sameer Anjaan blames industry monotony for Arijit Singh's playback singing exit",
-    "desc": "Lyricist Sameer Anjaan shared insights on Arijit Singh's choice to step back from playback singing, highlighting concerns over monotony and insufficient musical diversity. Singh's retirement from new playback projects is officially set for January 2026, although he will pursue independent music creation thereafter. Anjaan pointed out that many thoughtful artists make similar decisions in their careers.",
-    "img": "https://static.toiimg.com/photo/msid-134288954,imgsize-567085.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-slamming-dhurandhar-for-recreating-old-songs-sameer-anjaan-blames-industry-monotony-and-exhaustion-for-arijit-singhs-playback-singing-exit-every-song-sounds-the-same/articleshow/134288865.cms",
-    "time": "2026-09-16T13:11:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Ravie Dubey defends Ranbir Kapoor's casting in 'Ramayana'",
     "desc": "In a recent interview, Ravie Dubey reflected on his rewarding collaboration with Ranbir Kapoor for 'Ramayana'. He characterized Kapoor as an exceptionally dedicated and approachable actor, one of the best in the industry. Dubey considers his role in the film a significant honor, appreciating how Kapoor's unwavering work ethic and team spirit contributed to the film's overarching mission.",
     "img": "https://static.toiimg.com/photo/msid-134288725,imgsize-189154.cms",
@@ -304,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/wpl-2027-bcci-announces-auction-date-check-retention-deadline-and-season-schedule/articleshow/134288274.cms",
     "time": "2026-09-16T12:46:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Leonardo DiCaprio",
-    "desc": "Leonardo DiCaprio places great importance on his craft and the chances he receives in the ever-changing landscape of acting. Acknowledging the transient nature of fame, he encourages embracing each opportunity. Starting with small roles in commercials and TV, his breakthrough came with Titanic, launching him into a realm of versatile and significant performances.",
-    "img": "https://static.toiimg.com/photo/msid-134287638,imgsize-877738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-leonardo-dicaprio-i-just-really-love-doing-what-i-do-i-know-every-career-is-fleeting-and-there-will-be-time-periods-when-i-dont-get-the-opportunities-so-i-am-taking-advantage-of-them-a-powerful-life-lesson-on-making-the-most-of-the-present-loving-your-work-and-knowing-that-no-career-lasts-forever/articleshow/134287466.cms",
-    "time": "2026-09-16T12:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -358,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/how-your-income-and-credit-score-shape-your-loan-approval-chances/articleshow/134285354.cms",
     "time": "2026-09-16T10:53:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Rajesh got addicted to alcohol, threw tantrums after success, Bachchan was the same'",
-    "desc": "Anandji Virji Shah, the composer, shared insights on Rajesh Khanna's evolving behavior post-stardom. He highlighted the stark difference with Amitabh Bachchan, who stayed down-to-earth despite reaching great heights. Anandji fondly remembered their early collaboration, but noted Khanna's growing arrogance and problematic drinking habits that led to dramatic outbursts. He concluded that Khanna's declining career can be attributed to his diminishing humility during his peak success.",
-    "img": "https://static.toiimg.com/photo/msid-134288458,imgsize-300183.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajesh-khanna-got-addicted-to-alcohol-had-arrogance-and-threw-tantrums-recalls-veteran-composer-anandji-who-told-him-days-of-his-stardom-are-over-amitabh-bachchan-remained-the-same/articleshow/134284680.cms",
-    "time": "2026-09-16T10:18:29.000Z"
   },
   {
     "cat": "Sports",
@@ -675,15 +711,6 @@ const newsData_en = [
     "time": "2026-09-15T09:01:16.000Z"
   },
   {
-    "cat": "World",
-    "title": "BRICS gives India’s balancing power a boost",
-    "desc": "The 18th BRICS Summit in New Delhi is being seen as a significant diplomatic achievement for India. From pushing reforms in global governance to strengthening trade cooperation and facilitating dialogue among rival nations, the summit highlighted India’s growing role as a bridge between competing global powers. Here’s a look at the key outcomes and why the New Delhi Declaration matters.",
-    "img": "https://th-i.thgim.com/public/incoming/dny8w3/article71465369.ece/alternates/LANDSCAPE_1200/Editorial%20-%20English%20%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/why-the-brics-summit-was-a-major-diplomatic-win-for-india/article71465371.ece",
-    "time": "2026-09-15T06:50:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Animesh Kujur, Gurindervir Singh shrug off 100m setback, set sights on Asian Games",
     "desc": "India’s top sprinters Animesh Kujur and Gurindervir Singh endured a modest outing in the men’s 100m at the World Athletics Continental Tour Silver meet in Bhubaneswar, but remained confident about peaking at the Aichi-Nagoya Asian Games",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
   }
 ];
