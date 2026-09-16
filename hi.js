@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Hardik Pandya not fit, Rishabh Pant not considered as India announce white-ball squad for West Indies series",
+    "desc": "The Indian team has announced their 15-member squad each for the upcoming ODI and T20 International series against West Indies, starting September 27. Rishabh Pant, who was heavily discussed as one of the probable returns in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-not-fit-rishabh-pant-not-considered-as-india-announce-white-ball-squad-for-west-indies-series-2026-09-16-1054434",
+    "time": "2026-09-16T15:20:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Rajpal evaluates Team India's Davis Cup chances ahead of South Korea clash",
+    "desc": "For the first time in nearly three decades, Team India stands on the precipice of a major Davis Cup breakthrough. They won their last quarterfinal match back in 1993 when Leander Paes and Ramesh Krishnan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/india-eyes-world-finals-spot-ahead-of-high-stakes-davis-cup-tie-against-south-korea-2026-09-16-1054421",
+    "time": "2026-09-16T12:59:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Impact Player rule under consideration; IPL auction to take place in India, confirms Arun Dhumal",
+    "desc": "The IPL 2027 player auction is set to return to India after the recent practice of conducting the event overseas. The decision was taken at the Governing Council meeting on September 15. It will be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/impact-player-rule-under-consideration-ipl-auction-to-take-place-in-india-confirms-arun-dhumal-2026-09-16-1054412",
+    "time": "2026-09-16T11:43:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Youri Tielemans explains reason for joining Manchester United; Ben White reflects on Arsenal's unbeaten run",
+    "desc": "Manchester United midfielder Youri Tielemans has outlined his ambitions at the club ahead of the team’s Premier League meeting with Fulham. He joined the Red Devils this summer after a successful spell with Aston Villa,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/youri-tielemans-explains-reason-for-joining-manchester-united-ben-white-reflects-on-arsenal-s-unbeaten-run-2026-09-16-1054405",
+    "time": "2026-09-16T11:08:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Aryna Sabalenka handed hefty fine by USTA after racket abuse during US Open final",
     "desc": "Aryna Sabalenka has been handed a $7,500 (Rs. 19 lakhs) fine by the United States Tennis Association following her conduct during the US Open final. The disciplinary action followed a code violation involving an incident...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-jos-buttler-s-scathing-attack-help-england-register-mammoth-win-over-sri-lanka-2026-09-16-1054354",
     "time": "2026-09-16T04:08:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson reflects on competition with Vaibhav Sooryavanshi after match-winning knock against Afghanistan",
-    "desc": "Star India batter Sanju Samson stole the show in the second T20I against Afghanistan at the Arun Jaitley Stadium in New Delhi. The keeper-batter was out of the Zimbabwe tour after a poor run of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-reflects-on-competition-with-vaibhav-sooryavnashi-after-match-winning-knock-against-afghanistan-2026-09-15-1054336",
-    "time": "2026-09-15T18:12:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer opens up after India register stellar victory against Afghanistan in second T20I",
-    "desc": "The Indian team put forth a brilliant performance in the second T20I of the ongoing series against Afghanistan. Taking on the side at the Arun Jaitley Stadium in Delhi on September 15, the Men in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-opens-up-after-india-register-stellar-victory-against-afghanistan-in-second-t20i-2026-09-15-1054335",
-    "time": "2026-09-15T18:02:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson's hammering knock seals series for India after another lacklustre show from Afghanistan",
-    "desc": "India thrashed Afghanistan by seven wickets in the second T20I of the three-match series at the Arun Jaitley Stadium in New Delhi. After a flawless bowling show, in which India managed to restrict Afghanistan to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-s-hammering-knock-seals-series-for-india-after-another-lacklustre-show-from-afghanistan-2026-09-15-1054330",
-    "time": "2026-09-15T16:53:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rinku Singh, Priya Saroj to get married on December 4, wedding set to be held in Lucknow; Check details",
-    "desc": "In a major development, star India batter Rinku Singh is all set to get married to Samajwadi Party MP Priya Saroj. The two are set to get married on December 4, and the couple will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-priya-saroj-to-get-married-on-december-4-wedding-set-to-be-held-in-lucknow-check-details-2026-09-15-1054329",
-    "time": "2026-09-15T16:25:08.000Z"
   }
 ];
