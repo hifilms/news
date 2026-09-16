@@ -1,12 +1,165 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Muslim Youth League protests against Mailampulli toll booth",
-    "desc": "Members of the Muslim Youth League blocked the Kozhikode-Palakkad National Highway 966 at Mailampulli on Wednesday, September 16, to protest the construction of a toll booth they claim would exacerbate safety issues on the newly expanded road",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "title": "Allahabad HC frees man confined after conversion, relationship with Muslim woman; cites Articles 21, 25",
+    "desc": "Based on Ayush Malik’s submission that he had voluntarily embraced Islam in 2014 and accepted Ms. Qureshi as his partner, the court observed that such choices cannot be curtailed merely because they are contrary to the wishes of family members",
+    "img": "https://th-i.thgim.com/public/incoming/r517ia/article71474154.ece/alternates/LANDSCAPE_1200/iStock-1571008838.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/muslim-youth-league-protests-against-mailampulli-toll-booth/article71473243.ece",
-    "time": "2026-09-16T15:29:31.000Z"
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-frees-man-confinedafter-conversion-relationship-with-muslim-woman-cites-articles-21-25/article71472875.ece",
+    "time": "2026-09-16T20:18:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt lowers export levies on petrol, diesel and aviation turbine fuel amid fortnightly review",
+    "desc": "India's government has reduced export levies on petrol, diesel, and aviation fuel. The revised rates for these petroleum products took effect from September sixteenth. Export duty on petrol decreased by one rupee to zero point five rupees per litre. Diesel export levies were lowered by five rupees to twenty rupees per litre. These changes reflect a reversal of higher rates implemented earlier this month.",
+    "img": "https://static.toiimg.com/photo/msid-134296262,imgsize-70514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-lowers-export-levies-on-petrol-diesel-and-aviation-turbine-fuel-amid-fortnightly-review/articleshow/134296226.cms",
+    "time": "2026-09-16T19:56:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trump praises PM Modi for curbing ‘illicit opium cultivation’ as India stays on US ‘drug transit’ list",
+    "desc": "President Trump welcomed Prime Minister Modi's efforts to curb opium poppy cultivation in India. Washington designated India among 23 countries as major drug transit or producing nations. This designation does not reflect a failure to tackle the drug trade by India. The US seeks continued cooperation with India under the Drug Policy Framework. Trump also urged China to strengthen action against precursor chemical flows.",
+    "img": "https://static.toiimg.com/photo/msid-134295564,imgsize-93902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/trump-praises-pm-modi-for-curbing-illicit-opium-cultivation-as-india-stays-on-us-drug-transit-list/articleshow/134295296.cms",
+    "time": "2026-09-16T18:56:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Delhi HC questions use Of Maharana Pratap tribute song 'Shoorveer' in 'Mirzapur'",
+    "desc": "In a recent session, the Delhi High Court scrutinized the use of the song 'Shoorveer' in the series 'Mirzapur'. The court directed the film's representatives to view the series and provide reflections. This inquiry stems from a public interest litigation that claims the song's context undermines the honor of Maharana Pratap. Additionally, the court contemplated artistic expression within its discussions.",
+    "img": "https://static.toiimg.com/photo/msid-134295244,imgsize-549420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/delhi-hc-asks-mirzapur-the-movie-makers-lawyer-if-conscience-is-satisfied-over-shoorveer-song-row-you-are-playing-such-a-scene-in-the-background-song-on-maharana-pratap/articleshow/134295193.cms",
+    "time": "2026-09-16T18:49:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "GCC to procure 260 tonnes of bituminous cold mix ahead of Northeast monsoon",
+    "desc": "The procurement comes amid complaints about damaged roads and delays in road relaying work. The mix will be used to fix potholes on bus route and interior roads across 15 zones. Deputy Mayor M. Magesh Kumaar suggests that the GCC award annual, zone-wise maintenance contracts instead",
+    "img": "https://th-i.thgim.com/public/news/national/ohbl6/article71474093.ece/alternates/LANDSCAPE_1200/pothole.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/gcc-to-procure-260-tonnes-of-bituminous-cold-mix-ahead-of-northeast-monsoon/article71473909.ece",
+    "time": "2026-09-16T18:35:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift-Travis Kelce’s $5.35 million Ohio mansion faces fence row",
+    "desc": "Taylor Swift and Travis Kelce’s $5.35 million, 21,000-square-foot Ohio mansion is facing a fence dispute. Plans to increase privacy around their Lake Erie property have twice stalled before the Bratenahl village board. Local neighbours have raised concerns about preserving lake views, open vistas and property values, while the couple awaits approval for the proposed changes.",
+    "img": "https://static.toiimg.com/photo/msid-134294993,imgsize-148575.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-and-travis-kelces-5-35-million-21000-sq-ft-ohio-mansion-privacy-fence-plans-hit-hurdle-bratenahl-board-delays-approval-neighbours-raise-concerns-over-lake-erie-views-and-property-values/articleshow/134294816.cms",
+    "time": "2026-09-16T18:32:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US Federal Reserve chair Kevin Warsh-led FOMC hikes interest rate to 3.75-4% range; first time since 2023",
+    "desc": "The US Federal Reserve's hike decision comes on the back of persistent inflation and a broader increase in global borrowing costs. Inflation has remained stubbornly elevated, while borrowing costs around the world have moved higher.",
+    "img": "https://static.toiimg.com/photo/msid-134294074,imgsize-399963.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-federal-reserve-chair-kevin-warsh-led-fomc-hikes-interest-rate-to-3-75-4-range-first-time-since-2023/articleshow/134292267.cms",
+    "time": "2026-09-16T18:02:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SC issues notice to Boney Kapoor, Janhvi and Khushi",
+    "desc": "The Supreme Court has sent out notices to Boney Kapoor and his daughters over a dispute concerning property in Chennai. The court has mandated both parties to uphold the current conditions of the land. Mediation has been recommended to help settle this protracted legal conflict. This development follows a ruling by the Madras High Court that supported the Kapoor family's position.",
+    "img": "https://static.toiimg.com/photo/msid-134294146,imgsize-528096.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sridevi-property-dispute-supreme-court-issues-notice-to-boney-kapoor-janhvi-kapoor-and-khushi-kapoor-over-2-70-acre-land-bought-by-the-late-actress-in-chennai/articleshow/134294037.cms",
+    "time": "2026-09-16T17:58:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Keralam to support new medical device parks, fast-track approvals, says CM V.D. Satheesan",
+    "desc": "Government is moving towards a 'single door, single document, single approval' system for new industrial projects, with amendments being made to 19 laws, says Chief Minister. The objective is to end prolonged delays and ensure approvals within a defined timeframe",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-kerala/yai5p5/article71473969.ece/alternates/LANDSCAPE_1200/PHOTO-2026-09-16-20-17-17.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/keralam-to-support-new-medical-device-parks-fast-track-approvals-says-cm-vd-satheesan/article71473478.ece",
+    "time": "2026-09-16T17:51:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After England setback, Babar Azam set for first domestic first-class game in seven years",
+    "desc": "In a significant move, Pakistan's cricket captain Babar Azam is set to return to domestic first-class cricket, representing OGDCL in the upcoming President's Trophy. His participation comes on the heels of Pakistan's recent Test series defeat in England. Alongside him, fast bowlers Shaheen Afridi and Haris Rauf are also joining the competition, aiming to bolster their readiness for future Test matches.",
+    "img": "https://static.toiimg.com/photo/msid-134291553,imgsize-39968.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-england-setback-babar-azam-set-for-first-domestic-first-class-game-in-seven-years/articleshow/134291362.cms",
+    "time": "2026-09-16T17:37:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mandakini reveals how ‘Ram Teri Ganga Maili’ breastfeeding scene was filmed",
+    "desc": "Veteran actress Mandakini opened up about the iconic breastfeeding scene from Ram Teri Ganga Maili, revealing that she performed it herself, without a body double. She elaborated on how thoughtful cinematography gave it a unique impact. However, she mentioned feeling uneasy with the scene's ongoing scrutiny, reflecting on the unexpected fame that followed the film's incredible success.",
+    "img": "https://static.toiimg.com/photo/msid-134293361,imgsize-695664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mandakini-reveals-how-ram-teri-ganga-maili-breastfeeding-scene-was-filmed-aaj-kal-aap-dekhte-hain-kitna-low-neck-pehnti-hain-ladkiyan-/articleshow/134292841.cms",
+    "time": "2026-09-16T17:15:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Allahabad HC seeks response from Centre, U.P. government on journalist Satyam Verma’s NSA detention",
+    "desc": "Verma says he was not at the site of violence as mentioned in detention order; he points out that Noida workers’ protest was for minimum wage and did not constitute a threat to public order",
+    "img": "https://th-i.thgim.com/public/incoming/xvlcbe/article71473928.ece/alternates/LANDSCAPE_1200/satyam.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/allahabad-hc-seeks-response-from-centre-up-government-on-journalist-satyam-vermas-nsa-detention/article71473425.ece",
+    "time": "2026-09-16T17:07:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CISF handles movement of over 1,000 delegates during BRICS Summit",
+    "desc": "The delegations included 17 Heads of State and Heads of Government, along with Vice Presidents, Foreign Ministers, Cabinet Ministers, Heads of Delegation, other senior officials, and judicial delegations from 16 countries, including 12 Chief Justices; airport operations continued normally",
+    "img": "https://th-i.thgim.com/public/incoming/6ii66i/article71473923.ece/alternates/LANDSCAPE_1200/BJP-imposing-itGUAGHGKKK.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cisf-handles-movement-of-over-1000-delegates-during-brics-summit/article71473178.ece",
+    "time": "2026-09-16T17:00:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Anant Nag, second Kannada star to win Dadasaheb Phalke",
+    "desc": "After Dr. Rajkumar received the honour in 1995, no Kannada actor had bagged the country’s highest award in the field of cinema; though cinematographer V. K. Murthy, from Karnataka, was honoured with the award in 2008, it was for his work in Hindi cinema",
+    "img": "https://th-i.thgim.com/public/incoming/hjjeaz/article71473803.ece/alternates/LANDSCAPE_1200/_JAI7534.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/anant-nag-brings-dadasaheb-phalke-to-kannada-page-one/article71473751.ece",
+    "time": "2026-09-16T16:47:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lena Dunham welcomes her first child, a baby girl, with husband Luis Felber",
+    "desc": "Actress Lena Dunham and musician Luis Felber have joyfully welcomed their first child into the world. Their path to parenthood was unique, involving a surrogacy experience that Dunham openly shared. She expressed her emotional and physical reflections on the process, delightedly recalling her shopping trips for baby clothes as well as the heartwarming moment of the baby's arrival. Notably, Dunham's fertility challenges included a hysterectomy linked to endometriosis complications.",
+    "img": "https://static.toiimg.com/photo/msid-134292258,imgsize-719270.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lena-dunham-welcomes-her-first-child-a-baby-girl-with-husband-luis-felber-via-surrogacy-shares-her-emotional-journey/articleshow/134292212.cms",
+    "time": "2026-09-16T16:22:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan hand Israel 4-0 win after refusing to play at FIDE World Chess Olympiad",
+    "desc": "In a bold move reflecting its political stance, Pakistan forfeited its opening match at the FIDE World Chess Olympiad, demonstrating solidarity with the Palestinian people by adhering to its policy of non-recognition of Israel. As a result, Israel clinched a default victory with a score of four-zero in the Open section. Despite this setback, Pakistan remains eligible to participate in the upcoming rounds of the Olympiad.",
+    "img": "https://static.toiimg.com/photo/msid-134291948,imgsize-882249.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/pakistan-hand-israel-4-0-win-after-refusing-to-play-at-fide-world-chess-olympiad/articleshow/134291730.cms",
+    "time": "2026-09-16T16:06:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika to play MS Subbulakshmi in ‘M.S",
+    "desc": "Rashmika Mandanna is set to honor the legacy of the legendary MS Subbulakshmi in her upcoming biopic, 'M.S A Legacy On Screen'. The project's launch coincided with the renowned singer's birth anniversary, and Kamal Haasan kicked off production with the inaugural clap. Grateful for the chance to tackle such an essential and challenging role, Mandanna looks forward to the film, accompanied by music from Anirudh Ravichander.",
+    "img": "https://static.toiimg.com/photo/msid-134291555,imgsize-1000186.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rashmika-mandannas-ms-subbulakshmi-biopic-titled-m-s-a-legacy-on-screen-kamal-haasan-gives-first-clap/articleshow/134291530.cms",
+    "time": "2026-09-16T15:43:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2016, Ed Sheeran bought a former ploughed field",
+    "desc": "Ed Sheeran's estate in Suffolk is home to a serene wildlife pond and a lush meadow formed from an excavated field. In an ambitious environmental initiative, around fourteen thousand trees have been planted, bolstering local biodiversity and conservation efforts. However, the utilization of the pond sparked disagreements with neighbors and raised questions in planning meetings, reflecting Sheeran's ongoing dedication to rewilding regions across the UK.",
+    "img": "https://static.toiimg.com/photo/msid-134290350,imgsize-1166548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2016-ed-sheeran-bought-a-former-ploughed-field-years-later-it-became-a-wildlife-heaven-surrounded-by-14000-trees/articleshow/134289746.cms",
+    "time": "2026-09-16T15:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -34,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/who-is-zhang-yiming-meet-tiktok-billionaire-who-has-overtaken-gautam-adani-as-asias-richest-person/articleshow/134290568.cms",
     "time": "2026-09-16T15:02:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Government aiming to create jobs for youth, says Bharath",
-    "desc": "Inaugurating a job fair, Industries Minister says there is a possibility of a semiconductor industry being established at Orvakal with an investment of approximately ₹23,000 crore and it could lead to direct and indirect job opportunities for local youth",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/government-focusing-on-job-creation-for-youth-says-bharath/article71471913.ece",
-    "time": "2026-09-16T14:37:34.000Z"
   },
   {
     "cat": "Business",
@@ -88,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-nani-and-srikanth-odelas-upcoming-action-thriller-gets-an-a-certificate-ahead-of-its-september-24-release/articleshow/134289270.cms",
     "time": "2026-09-16T13:33:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In the 1980s, Michael Keaton built his Montana ranch from the ground up",
-    "desc": "For five transformative years, actor Michael Keaton dedicated himself to the creation of his breathtaking Montana ranch. He took an active role in the building process, using a rustic cabin as his home while the main structure took shape. Throughout the property, elements of stone and cedar reflect the natural beauty of the surroundings, enhanced by a curated collection of Native American art and pieces celebrating Western history.",
-    "img": "https://static.toiimg.com/photo/msid-134286522,imgsize-193687.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-the-1980s-michael-keaton-bought-a-1000-acre-cattle-ranch-in-montana-and-built-his-mountain-house-from-scratch/articleshow/134286389.cms",
-    "time": "2026-09-16T13:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -189,42 +324,6 @@ const newsData_en = [
     "time": "2026-09-16T12:17:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Not Mumbai, not Delhi: This North Indian city tops India in domestic expenditure",
-    "desc": "In Chandigarh, families spend close to nineteen lakh rupees each year, making it the highest among Indian cities. The city and Bengaluru boast identical average household incomes of twenty-eight lakh rupees. Meanwhile, Delhi NCR holds the title for the largest consumption market in the country at a whopping one hundred twenty-six billion dollars, fueled by its vast number of households and significant spending patterns.",
-    "img": "https://static.toiimg.com/photo/msid-134285307,imgsize-1809786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/not-mumbai-not-delhi-this-north-indian-city-tops-india-in-domestic-expenditure/articleshow/134285136.cms",
-    "time": "2026-09-16T11:57:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shehnaaz Gill prays to Waheguru and Ganpati Bappa amid scary mid-air turbulence",
-    "desc": "Shehnaaz Gill recently encountered a harrowing mid-flight turbulence experience while traveling with her brother, sharing a video of the anxious moment and expressing relief upon safe landing. Earlier, she had another scare on the set of 'Ishqnama' when her nose ring got stuck. The Punjabi period romance film released on July 24. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-134287128,imgsize-423302.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shehnaaz-gill-prays-to-waheguru-and-ganpati-bappa-amid-scary-mid-air-turbulence-with-brother-shehbaz-badesha-says-she-is-grateful-to-land-safely-bahut-mushkil-se-bache-aaj/articleshow/134286985.cms",
-    "time": "2026-09-16T11:53:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Suriya and Jyotika renew wedding vows, share inside pics from special celebration",
-    "desc": "Actors Suriya and Jyotika recently renewed their wedding vows celebrating twenty years of marriage. The popular Tamil film industry couple marked this milestone with an intimate family celebration. They also enjoyed a sundowner event on a yacht as part of their festivities. Jyotika shared glimpses of the special occasion, including emotional moments from the vow renewal. The couple's journey reflects their enduring love, friendship, and togetherness beyond their acting careers.",
-    "img": "https://static.toiimg.com/photo/msid-134287107,imgsize-1061944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suriya-and-jyotika-celebrate-20-years-of-wedding-anniversary-by-renewing-their-vows-share-loved-up-inside-pictures-with-family-children-and-friends/articleshow/134287006.cms",
-    "time": "2026-09-16T11:51:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lewis Hamilton and Kim Kardashian enjoy Lake Como boat ride and visit Villa Balbianello",
-    "desc": "Lewis Hamilton and Kim Kardashian recently delighted fans as they embarked on a picturesque boat ride across the stunning shores of Lake Como. Following their serene outing, the duo whisked away to Paris for a romantic dinner date, marking a much-needed break for the Formula One superstar. Since going Instagram official in June, their shared European adventure reflects their deepening connection amidst busy schedules.",
-    "img": "https://static.toiimg.com/photo/msid-134286675,imgsize-344980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/lewis-hamilton-and-kim-kardashian-enjoy-lake-como-boat-ride-and-visit-villa-balbianello-before-heading-to-paris-for-dinner-date-at-celebrity-hotspot-ferdi/articleshow/134286643.cms",
-    "time": "2026-09-16T11:35:04.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘If I were a chicken, I would eat humans’: György Pálfi on the eight-chicken ensemble in ‘Hen’ and making films under Viktor Orbán",
     "desc": "The Hungarian filmmaker talks about the eight chickens who share the role of his leading lady in ‘Hen’, the politics that have shaped who gets to make films in Hungary, and the advantages of knowing your dinner extremely well",
@@ -232,15 +331,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/hungarian-filmmaker-gyorgy-palfi-on-the-eight-chicken-ensemble-in-hen-and-making-films-under-viktor-orban/article71471806.ece",
     "time": "2026-09-16T11:33:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Vvaan' trailer: Sidharth, Tamannaah's film promises fantasy",
-    "desc": "Force of the Forrest' has officially debuted, featuring Sidharth Malhotra and Tamannaah Bhatia in lead roles. This fantasy-folklore film intricately weaves together mythology, adventure, and supernatural elements. Audiences can look forward to its theatrical release on September 25, marking the beginning of a broader folklore universe.",
-    "img": "https://static.toiimg.com/photo/msid-134286224,imgsize-615638.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vvaan-force-of-the-forrest-trailer-out-sidharth-malhotra-and-tamannaah-bhatia-lead-a-fantasy-folklore-adventure-packed-with-romance-action-and-supernatural-mystery/articleshow/134286197.cms",
-    "time": "2026-09-16T11:20:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -268,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/how-your-income-and-credit-score-shape-your-loan-approval-chances/articleshow/134285354.cms",
     "time": "2026-09-16T10:53:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Samantha Ruth Prabhu reveals pregnancy cravings, says idli, curd rice and dosa are her picks",
-    "desc": "Samantha Ruth Prabhu, excitedly anticipating the arrival of her first child with husband Raj Nidimoru, recently opened up about her cravings. She is embracing simple South Indian comfort foods during her pregnancy. After wrapping up her current projects, Samantha plans to take a short break from work and celebrated the joyous occasion with a delightful baby shower ceremony.",
-    "img": "https://static.toiimg.com/photo/msid-134285382,imgsize-1167597.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/samantha-ruth-prabhu-reveals-her-comfort-food-during-pregnancy-picks-idli-for-breakfast-curd-rice-for-lunch-and-dosa-for-dinner/articleshow/134285258.cms",
-    "time": "2026-09-16T10:39:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -333,15 +414,6 @@ const newsData_en = [
     "time": "2026-09-16T09:32:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bhagyashree’s Ganesh Chaturthi aarti sparks succession row in Patwardhan family",
-    "desc": "Bhagyashree Dassani's recent appearance at a temple has uncovered a familial rift within the Patwardhan dynasty regarding succession rights. Her father, Vijaysinhraje Patwardhan, confirmed that Adityaraje, his adopted son, is the singular heir. Bhagyashree addressed her father's health issues as the reason for her involvement, which he openly disputed. This situation brings to the forefront critical conversations about inheritance practices and the evolving roles of women in monarchy.",
-    "img": "https://static.toiimg.com/photo/msid-134283816,imgsize-184527.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhagyashrees-ganesh-chaturthi-aarti-sparks-succession-row-in-patwardhan-family-father-declares-adopted-son-adityaraje-sole-heir/articleshow/134283550.cms",
-    "time": "2026-09-16T09:28:41.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Oracle India may cut 3,000 jobs; routine Indian sector IT roles face pressure",
     "desc": "Reports of the layoffs have also surfaced on X and Reddit, where some users identifying themselves as Oracle employees in India discussed the job cuts. Some said they were given little advance notice before being informed that their positions had been eliminated.",
@@ -352,7 +424,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Mirzapur The Movie' BO Day 13 [LIVE]: Pankaj Tripathi film chases Rs 200 crore",
+    "title": "'Mirzapur The Movie': Pankaj Tripathi film narrowly misses Rs 200 crore mark",
     "desc": "'Mirzapur The Movie' has crossed the Rs. 196 crore mark in India as it enters Day 13, putting the coveted Rs. 200 crore domestic milestone firmly within reach. The Pankaj Tripathi, Ali Fazal and Ravi Kishan starrer has settled into a slow, steady weekday pace in its third week of release, with its worldwide gross already past Rs. 281 crore. With the film now closing in on the Rs. 200 crore club, the coming days will reveal just how much more mileage it has left in theatres.",
     "img": "https://static.toiimg.com/photo/msid-134282884,imgsize-134022.cms",
     "src": "indiatimes.com",
@@ -630,24 +702,6 @@ const newsData_en = [
     "time": "2026-09-15T06:09:16.000Z"
   },
   {
-    "cat": "World",
-    "title": "Asian Games venues and athletes unharmed by extensive flooding in Nagoya, Japan",
-    "desc": "Hirosawa said about 400 athletes and staff who are staying in converted shipping containers — remodeled to serve as temporary housing units for the Asian Games — were briefly evacuated to higher ground during the heavy rain",
-    "img": "https://th-i.thgim.com/public/incoming/ppywgt/article71446046.ece/alternates/LANDSCAPE_1200/Asian_Games_Extreme_Weather_Flooding_23926.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/asian-games-venues-and-athletes-unharmed-by-extensive-flooding-in-nagoya-japan/article71446004.ece",
-    "time": "2026-09-15T05:17:19.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Who is fugitive Khadeer Khan Mohammed?",
-    "desc": "Why is Khadeer Khan Mohammed wanted by U.S. authorities in an alleged $93 million Medicare genetic-testing fraud case? What is the status of the investigation that began in 2025? What could happen next if he is in India?",
-    "img": "https://th-i.thgim.com/public/incoming/w6f2yv/article71466809.ece/alternates/LANDSCAPE_1200/khadeer-khan-mohammed.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/who-is-fugitive-khadeer-khan-mohammed-explained/article71466787.ece",
-    "time": "2026-09-15T05:15:22.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Tributes paid to Dolly Parton, Catherine O’Hara, Rob Reiner and others",
     "desc": "Noah Kahan performed ‘Bridge Over Troubled Water’ as images were displayed of all those from the TV industry who passed away last year, including, Anthony Head, Diane Ladd, Dolly, James Van Der Beek, Robert Duvall, Eric Dane, and Robert Carradine.",
@@ -718,15 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/vijay-meets-ajith-kumar-silverstone-le-mans-car-race-thala-thalapathy-london/article71455432.ece",
     "time": "2026-09-14T13:08:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "A one-click route to diversified investing",
-    "desc": "ETFs are traded on stock exchanges just like shares, allowing investors to buy a basket of securities in a single transaction and thereby “reduce the impact of poor performance” by any one company, unlike investing in a single share",
-    "img": "https://th-i.thgim.com/public/news/national/a66ept/article71463237.ece/alternates/LANDSCAPE_1200/iStock-1472468191.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/etfs-a-one-click-route-to-diversified-investing/article71463244.ece",
-    "time": "2026-09-13T12:01:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
   }
 ];
