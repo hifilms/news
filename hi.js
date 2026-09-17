@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abhishek architects India's carnage with quickfire century, Shreyas' men seal 3-0 series win vs Afghanistan",
+    "desc": "Abhishek Sharma’s blistering knock against Afghanistan was less a T20 innings and more an unrelenting storm. Leading up to the match, there were general expectations that the southpaw might be benched for the dead rubber...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-architects-india-s-carnage-with-quickfire-century-shreyas-men-seal-3-0-series-win-vs-afghanistan-2026-09-17-1054558",
+    "time": "2026-09-17T17:06:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhishek Sharma breaks Rohit Sharma's record, becomes fastest Indian to smack T20I century vs Afghanistan",
     "desc": "Star India batter Abhishek Sharma wreaked havoc in the third T20I against Afghanistan at the Arun Jaitley Stadium in New Delhi. The 26-year-old got going from the very beginning and changed the complexion of the...",
     "img": "",
@@ -19,8 +28,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India post 221 runs in first innings after Abhishek's show",
-    "desc": "Afghanistan have won the toss and elected to bowl first. For India, Sanju Samson and Abhishek Sharma open the innings as Vaibhav Sooryavanshi once again sits out. Having already sealed the three-match series with two comprehensive...",
+    "title": "India register 127 run win in third T20I, seal series 3-0",
+    "desc": "Afghanistan have won the toss and elected to bowl first. For India, Sanju Samson and Abhishek Sharma opened the innings and changed the complexion of the game. The duo stitched a partnership of 142 runs...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-3rd-t20i-live-score-india-vs-afghanistan-latest-match-updates-scorecards-playing-xis-reactions-2026-09-17-1054510",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/dhakshineswar-suresh-reflects-on-growth-and-india-s-davis-cup-quest-against-south-korea-2026-09-17-1054480",
     "time": "2026-09-17T05:35:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sumit Nagal confident of India's doubles depth despite Yuki Bhambri's injury setback in Davis Cup",
-    "desc": "As Team India puts the finishing touches on their preparations for the upcoming Davis Cup Qualifier tie against South Korea, spearhead Sumit Nagal is maintaining a laser-sharp, process-driven focus. Riding high on India's thrilling 3–2...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/sumit-nagal-confident-of-india-s-doubles-depth-despite-yuki-bhambri-s-injury-setback-in-davis-cup-2026-09-17-1054465",
-    "time": "2026-09-17T03:15:26.000Z"
   }
 ];

@@ -360,15 +360,6 @@ const newsData_gu = [
     "time": "2026-09-15T12:04:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મમતા બેનરજીના બાગી સાંસદોને ભાજપનો ડબલ ઝટકો, હવે ના ઘરના ના ઘાટના",
-    "desc": "બંગાળમાં ખેલા હોબે થઈ રહ્યું છે. મમતા બેનર્જીની પાર્ટીથી અલગ થઈને NCPIમાં જોડાઈ જનાર TDPના બાગી સાંસદો માટે ભાજપે દરવાજા બંધ કરી દીધા છે. પાર્ટીએ સ્પષ્ટ ખુલાસો કર્યો છે કે આ સાંસદોને હાલમાં ભાજપમાં જોડવાની કોઈ યોજના નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/double-blow-to-mamata-banerjees-rebel-mps-in-bengal-bjp-closes-doors-leaving-them-in-limbo-491312 ",
-    "time": "2026-09-15T10:57:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "20 વર્ષની Home Loan 12 વર્ષમાં કરો પૂરી! 1 Extra EMI ની આ ટ્રિકથી બચશે લાખો રૂપિયાનું વ્યાજ",
     "desc": "ઘણા લોકો હોમ લોનને સમય પહેલા ખતમ કરવા ઈચ્છે છે. પરંતુ તેને સ્માર્ટ રણનીતિનો ખ્યાલ હોતો નથી. અમે તમને જણાવીશું કે કઈ રીતે 20 વર્ષની હોમ લોન 12 વર્ષમાં ખતમ કરી શકાય છે. વિગતવાર જાણો....",
@@ -475,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/neelam-kothari-answer-on-govinda-love-said-she-was-17-and-she-did-not-know-govinda-was-married-491146 ",
     "time": "2026-09-14T06:28:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "મોહસિન નકવીના હાથે એશિયા કપની ટ્રોફી ન લેવાનું કારણ આવ્યું સામે, ટીમ ઈંડિયાના કોચ એ કરી સ્પષ્ટતા",
-    "desc": "ભારતીય મહિલા ક્રિકેટ ટીમ એ એશિયા કપ 2026 જીત્યા બાદ એસીસી ના અધ્યક્ષ મોહસિન નકવીના હાથે ટ્રોફી લેવાનો ઈન્કાર કર્યો હતો. આ મામલે વિવાદ થતા ટીમ ઈંડિયાના કોચ અમોલ મજૂમદાર એ સ્પષ્ટતા કરી છે કે મહિલા ખેલાડીઓએ શા માટે નકવીના હાથે ટ્રોફી લીધી નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/asia-cup-2026-trophy-controversy-team-india-coach-muzumdar-said-it-was-bcci-decision-on-mohsin-naqvi-491119 ",
-    "time": "2026-09-14T02:49:36.000Z"
   },
   {
     "cat": "World",
