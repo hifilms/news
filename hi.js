@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "What's Team India's schedule in Davis Cup 2026? All you need to know",
+    "desc": "India will take on South Korea in the Davis Cup in the second round of the qualifiers at Olympic Park Tennis Centre in Seoul on September 18 and 19. The winner will move to the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/what-s-team-india-s-schedule-in-davis-cup-2026-all-you-need-to-know-2026-09-17-1054508",
+    "time": "2026-09-17T09:46:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch India vs South Korea Davis Cup match live?",
+    "desc": "South Korea will host India in the Davis Cup 2026 qualifiers in Seoul on Friday and Saturday, September 18 and 19. The two nations will contest the second round of the qualifiers at the Olympic...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/when-and-where-to-watch-india-vs-south-korea-davis-cup-match-live-2026-09-17-1054502",
+    "time": "2026-09-17T08:39:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Veteran Sriram Balaji reflects on Davis Cup motivation after breaking into world top 50",
+    "desc": "Fresh off breaking into the ATP World Top 50 doubles rankings on September 14, 2026, Indian tennis star Sriram Balaji is keeping his focus firmly on national duty. As Team India prepares to square off...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/veteran-sriram-balaji-reflects-on-davis-cup-motivation-after-breaking-into-world-top-50-2026-09-17-1054497",
+    "time": "2026-09-17T07:51:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "14-hour wait, no rooms! Asian Games 2026 chaos leaves Indian athletes stranded in Nagoya",
+    "desc": "The Asian Games 2026 preparations in Japan's Nagoya city have run into a major accommodation mess, with athletes from several countries reportedly struggling to find rooms even after reaching the host city. Indian athletes and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/14-hours-wait-no-rooms-asian-games-2026-chaos-leaves-indian-athletes-stranded-in-nagoya-in-japan-2026-09-17-1054492",
+    "time": "2026-09-17T07:01:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "China knocked out of Asian Games cricket without a ball being bowled; what exactly happened?",
+    "desc": "China’s women’s cricket campaign at the 2026 Asian Games ended before a single delivery was bowled. The rain forced the cancellation of their quarter-final against Bangladesh at Korogi Sports Park in Nisshin on Thursday and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/china-knocked-out-of-asian-games-cricket-without-a-ball-being-bowled-what-exactly-happened-2026-09-17-1054490",
+    "time": "2026-09-17T06:37:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhakshineswar Suresh reflects on growth and India's Davis Cup quest against South Korea",
+    "desc": "Coming off a career-defining performance against the Netherlands in Bengaluru, where he became the first Indian tennis player since Leander Paes in 2004 to win three matches in a single Davis Cup tie, 6-foot-6 powerhouse Dhakshineswar...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/dhakshineswar-suresh-reflects-on-growth-and-india-s-davis-cup-quest-against-south-korea-2026-09-17-1054480",
+    "time": "2026-09-17T05:35:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sumit Nagal confident of India's doubles depth despite Yuki Bhambri's injury setback in Davis Cup",
+    "desc": "As Team India puts the finishing touches on their preparations for the upcoming Davis Cup Qualifier tie against South Korea, spearhead Sumit Nagal is maintaining a laser-sharp, process-driven focus. Riding high on India's thrilling 3–2...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/sumit-nagal-confident-of-india-s-doubles-depth-despite-yuki-bhambri-s-injury-setback-in-davis-cup-2026-09-17-1054465",
+    "time": "2026-09-17T03:15:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Hockey India denies Pakistan's late request for venue change, ready with replacement in case of walkout",
     "desc": "Despite some drama concerning the venue in the last couple of days, Mohali is set to host the 2026 Men’s Asian Champions Trophy. Pakistan Hockey Federation (PHF) made a late request for changes to the...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/india-eyes-world-finals-spot-ahead-of-high-stakes-davis-cup-tie-against-south-korea-2026-09-16-1054421",
     "time": "2026-09-16T12:59:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Impact Player rule under consideration; IPL auction to take place in India, confirms Arun Dhumal",
-    "desc": "The IPL 2027 player auction is set to return to India after the recent practice of conducting the event overseas. The decision was taken at the Governing Council meeting on September 15. It will be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/impact-player-rule-under-consideration-ipl-auction-to-take-place-in-india-confirms-arun-dhumal-2026-09-16-1054412",
-    "time": "2026-09-16T11:43:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Youri Tielemans explains reason for joining Manchester United; Ben White reflects on Arsenal's unbeaten run",
-    "desc": "Manchester United midfielder Youri Tielemans has outlined his ambitions at the club ahead of the team’s Premier League meeting with Fulham. He joined the Red Devils this summer after a successful spell with Aston Villa,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/youri-tielemans-explains-reason-for-joining-manchester-united-ben-white-reflects-on-arsenal-s-unbeaten-run-2026-09-16-1054405",
-    "time": "2026-09-16T11:08:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aryna Sabalenka handed hefty fine by USTA after racket abuse during US Open final",
-    "desc": "Aryna Sabalenka has been handed a $7,500 (Rs. 19 lakhs) fine by the United States Tennis Association following her conduct during the US Open final. The disciplinary action followed a code violation involving an incident...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-handed-hefty-fine-by-usta-after-racket-abuse-during-us-open-final-2026-09-16-1054396",
-    "time": "2026-09-16T10:17:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Varun Chakaravarthy ruled out of Asian Games, BCCI set to announce DC all-rounder as replacement",
-    "desc": "Star India spinner Varun Chakaravarthy has been ruled out of the upcoming Asian Games. The star spinner picked up a side strain in the first T20I against Afghanistan at the Arun Jaitley Stadium and will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/varun-chakaravarthy-ruled-out-of-asian-games-bcci-set-to-announce-dc-all-rounder-as-replacement-2026-09-16-1054388",
-    "time": "2026-09-16T08:35:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Laura Wolvaardt matches Smriti Mandhana's legendary world record with century vs Zimbabwe",
-    "desc": "In the third T20I against Zimbabwe, South Africa captain Laura Wolvaardt played a defining knock of 126 runs off 62 balls. With that, the modern-day legend equalled Smriti Mandhana’s record for most centuries in international...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/laura-wolvaardt-matches-smriti-mandhana-s-legendary-world-record-with-century-vs-zimbabwe-2026-09-16-1054382",
-    "time": "2026-09-16T07:34:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler breaks Rohit Sharma's T20I record after 80-run knock vs Sri Lanka",
-    "desc": "Jos Buttler has surpassed Rohit Sharma on the list of most runs scored in T20I cricket history. The former England captain played a sensational 80-run knock against Sri Lanka in the first T20I in Southampton...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-breaks-rohit-sharma-s-t20i-record-after-80-run-knock-vs-sri-lanka-2026-09-16-1054373",
-    "time": "2026-09-16T06:15:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What exactly happened?",
-    "desc": "Lionel Messi has been recalled to Argentina squad for their friendly against Benin on October 6. The star footballer announced his international retirement last month, with the FIFA World Cup 2026 final being considered his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-picked-for-argentina-squad-despite-announcing-international-retirement-what-exactly-happened-2026-09-16-1054358",
-    "time": "2026-09-16T04:43:47.000Z"
   }
 ];
