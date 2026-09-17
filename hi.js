@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abhishek Sharma breaks Rohit Sharma's record, becomes fastest Indian to smack T20I century vs Afghanistan",
+    "desc": "Star India batter Abhishek Sharma wreaked havoc in the third T20I against Afghanistan at the Arun Jaitley Stadium in New Delhi. The 26-year-old got going from the very beginning and changed the complexion of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-rohit-sharma-s-record-with-swashbuckling-century-vs-afghanistan-2026-09-17-1054546",
+    "time": "2026-09-17T14:39:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are Vaibhav Sooryavanshi and Arshdeep Singh not playing vs Afghanistan in third T20I in New Delhi?",
+    "desc": "India have already sealed the series against Afghanistan at the Arun Jaitley Stadium in New Delhi. That ignited hope of Vaibhav Sooryavanshi returning to the playing XI for the dead rubber. However, the team management...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-vaibhav-sooryavanshi-and-arshdeep-singh-not-playing-vs-afghanistan-in-third-t20i-in-new-delhi-2026-09-17-1054544",
+    "time": "2026-09-17T13:55:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India post 221 runs in first innings after Abhishek's show",
+    "desc": "Afghanistan have won the toss and elected to bowl first. For India, Sanju Samson and Abhishek Sharma open the innings as Vaibhav Sooryavanshi once again sits out. Having already sealed the three-match series with two comprehensive...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-3rd-t20i-live-score-india-vs-afghanistan-latest-match-updates-scorecards-playing-xis-reactions-2026-09-17-1054510",
+    "time": "2026-09-17T12:13:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "What's Team India's schedule in Davis Cup 2026? All you need to know",
     "desc": "India will take on South Korea in the Davis Cup in the second round of the qualifiers at Olympic Park Tennis Centre in Seoul on September 18 and 19. The winner will move to the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/sumit-nagal-confident-of-india-s-doubles-depth-despite-yuki-bhambri-s-injury-setback-in-davis-cup-2026-09-17-1054465",
     "time": "2026-09-17T03:15:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hockey India denies Pakistan's late request for venue change, ready with replacement in case of walkout",
-    "desc": "Despite some drama concerning the venue in the last couple of days, Mohali is set to host the 2026 Men’s Asian Champions Trophy. Pakistan Hockey Federation (PHF) made a late request for changes to the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hockey-india-denies-pakistan-s-late-request-for-venue-change-ready-with-replacement-in-case-of-walkout-2026-09-17-1054461",
-    "time": "2026-09-17T02:34:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya not fit, Rishabh Pant not considered as India announce white-ball squad for West Indies series",
-    "desc": "The Indian team has announced their 15-member squad each for the upcoming ODI and T20 International series against West Indies, starting September 27. Rishabh Pant, who was heavily discussed as one of the probable returns in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-not-fit-rishabh-pant-not-considered-as-india-announce-white-ball-squad-for-west-indies-series-2026-09-16-1054434",
-    "time": "2026-09-16T15:20:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Rajpal evaluates Team India's Davis Cup chances ahead of South Korea clash",
-    "desc": "For the first time in nearly three decades, Team India stands on the precipice of a major Davis Cup breakthrough. They won their last quarterfinal match back in 1993 when Leander Paes and Ramesh Krishnan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/india-eyes-world-finals-spot-ahead-of-high-stakes-davis-cup-tie-against-south-korea-2026-09-16-1054421",
-    "time": "2026-09-16T12:59:14.000Z"
   }
 ];
