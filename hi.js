@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Hockey India denies Pakistan's late request for venue change, ready with replacement in case of walkout",
+    "desc": "Despite some drama concerning the venue in the last couple of days, Mohali is set to host the 2026 Men’s Asian Champions Trophy. Pakistan Hockey Federation (PHF) made a late request for changes to the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hockey-india-denies-pakistan-s-late-request-for-venue-change-ready-with-replacement-in-case-of-walkout-2026-09-17-1054461",
+    "time": "2026-09-17T02:34:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Hardik Pandya not fit, Rishabh Pant not considered as India announce white-ball squad for West Indies series",
     "desc": "The Indian team has announced their 15-member squad each for the upcoming ODI and T20 International series against West Indies, starting September 27. Rishabh Pant, who was heavily discussed as one of the probable returns in...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/lionel-messi-picked-for-argentina-squad-despite-announcing-international-retirement-what-exactly-happened-2026-09-16-1054358",
     "time": "2026-09-16T04:43:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Brook, Jos Buttler's scathing attack help England register mammoth win over Sri Lanka",
-    "desc": "England defeated Sri Lanka by 119 runs in the opening of the three-match series against Sri Lanka at the Utilita Bowl. Captain Harry Brook led by example, smacking unbeaten 114 runs off only 49 deliveries,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-jos-buttler-s-scathing-attack-help-england-register-mammoth-win-over-sri-lanka-2026-09-16-1054354",
-    "time": "2026-09-16T04:08:29.000Z"
   }
 ];

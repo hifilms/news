@@ -1,6 +1,141 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Mandaadi' vs 'Sardar 2' BO day 7: Soori's film leads strong",
+    "desc": "In a remarkable box office showdown, Mandaadi has outperformed Sardar 2, raking in over fifty-four crore rupees in net collections across India. While Sardar 2 managed to secure fourteen crore rupees domestically, Mandaadi's global appeal propelled its worldwide gross to an impressive seventy-five crore rupees, leaving Sardar 2 trailing with a total of about twenty-two crore rupees worldwide.",
+    "img": "https://static.toiimg.com/photo/msid-134300062,imgsize-214751.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mandaadi-vs-sardar-2-box-office-collection-day-7-soori-starrer-takes-strong-lead-over-karthis-spy-thriller/articleshow/134300052.cms",
+    "time": "2026-09-17T02:40:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian athletes land in Japan to a forgettable welcome",
+    "desc": "Indian athletes in rowing and shooting faced a tumultuous start upon arrival, encountering major issues with their accommodation and registration. Several competitors were left without lodging, while others noticed their names were missing from the official list. Additionally, the rowing team's practice was hampered by delayed oars. On the shooting front, coach Samaresh Jung experienced accreditation problems, limiting his access.",
+    "img": "https://static.toiimg.com/photo/msid-134300035,imgsize-195550.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indian-athletes-land-in-japan-to-a-forgettable-welcome/articleshow/134299877.cms",
+    "time": "2026-09-17T02:37:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Diddy’s attorneys drop out of his USD 100 million lawsuit",
+    "desc": "In a surprising twist, Sean Combs' legal representation has exited his defamation case, citing unpaid fees and minimal cooperation from the rapper. Combs claims he changed lawyers due to perceived overcharging, a point his former attorneys dispute, accusing him of neglecting payment duties. The defamation suit originally called for USD 50 million but has since seen amendments.",
+    "img": "https://static.toiimg.com/photo/msid-134299883,imgsize-40810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/sean-diddy-combs-attorneys-drop-out-of-his-usd-100-million-lawsuit-over-overdue-invoices-and-for-being-uncooperative/articleshow/134299843.cms",
+    "time": "2026-09-17T02:30:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chennai mall set to host 12 teams, 168 players",
+    "desc": "Chennai’s Express Avenue Mall turns sporting arena this weekend as the Tamil Nadu Pickleball Premier League returns for its second season, with 168 players and actors Vikram, Varalaxmi Sarathkumar and Keerthy Pandian among the celebrity team owners backing the sport",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/4bfpn6/article71467363.ece/alternates/LANDSCAPE_1200/pickleball",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/tn-pickleball-premier-league-chennai-mall-set-to-host-12-teams-168-players-print-a-dose-of-pickleball/article71467148.ece",
+    "time": "2026-09-17T02:18:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Toxic' BO day 22: Yash starrer inches closer to Rs 250 crore mark in India",
+    "desc": "After twenty-two days in theaters, Yash's 'Toxic' has raked in nearly Rs 249.49 crore in India, with worldwide earnings reaching Rs 341.52 crore. The film’s overseas appeal added Rs 43.75 crore to the tally. While it has had a strong box office run, its pace appears to have slowed down significantly as it enters its third week.",
+    "img": "https://static.toiimg.com/photo/msid-134299632,imgsize-204541.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-box-office-collections-day-22-yash-tara-sutaria-nayanthara-kiara-advani-starrer-inches-closer-to-rs-250-crore-mark-in-india/articleshow/134299624.cms",
+    "time": "2026-09-17T02:11:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Arjun Erigaisi suffered Rd 1 upset against lower-rated opponent",
+    "desc": "India's second-ranked Arjun Erigaisi suffered a surprising Round 1 defeat at the Chess Olympiad. He lost to Thailand's Prin Laohawirapap despite a significant rating advantage. Other Indian players secured victories, ensuring a team win against Thailand. The Indian women's team also achieved a dominant 4-0 victory over their opponents. These results occurred on the opening day of the prestigious Chess Olympiad.",
+    "img": "https://static.toiimg.com/photo/msid-134299581,imgsize-118776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-how-indias-arjun-erigaisi-suffered-biggest-round-1-upset-against-lower-rated-opponent/articleshow/134298445.cms",
+    "time": "2026-09-17T02:07:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Maratha activist Jarange Patil calls off 20-day fast, gives govt 3 months to consider demands",
+    "desc": "Jarange, who had entered the 18th day of his fast at the time of the address, said he was too physically exhausted to continue a long journey with thousands of supporters travelling behind him. He asked Maratha community members not to follow his vehicle after he left Patoda. Instead, he urged them to meet him directly at Khopoli.",
+    "img": "https://static.toiimg.com/photo/msid-134299325,imgsize-122144.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/maratha-activist-jarange-patil-calls-off-20-day-fast-gives-govt-3-months-to-consider-demands/articleshow/134298623.cms",
+    "time": "2026-09-17T02:03:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Hanuman Ansh' box office collections day 41: Film crosses Rs 300 crore worldwide",
+    "desc": "The spiritual drama Hanuman Ansh has celebrated a remarkable achievement by crossing Rs 300 crore in global box office collections. Domestically, it is on the verge of reaching the same stunning milestone. Despite experiencing a minor drop on Wednesday, the film continues to perform admirably, showcasing its lasting appeal among viewers.",
+    "img": "https://static.toiimg.com/photo/msid-134298323,imgsize-337949.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collections-day-41-vishal-chaturvedis-film-joins-the-rs-300-crore-club-despite-27-decline-in-earnings-on-wednesday/articleshow/134297839.cms",
+    "time": "2026-09-17T01:52:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ed Sheeran’s tour row: Celebrities stand by Macklemore after he was dropped from the lineup",
+    "desc": "In a surprising turn, Macklemore was dropped from Ed Sheeran's tour, igniting a chorus of support from fellow celebrities. Artists like Finneas and Lukas Graham swiftly cancelled their tour performances in protest. Additionally, prominent voices such as Hannah Einbinder and Kehlani lent strong backing, while renowned figures like Lewis Hamilton and Roger Waters emphatically criticized the choice, showcasing a united front within the entertainment industry.",
+    "img": "https://static.toiimg.com/photo/msid-134297134,imgsize-245906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ed-sheerans-tour-controversy-lewis-hamilton-kehlani-and-more-support-macklemore-after-he-was-dropped-from-the-lineup/articleshow/134297111.cms",
+    "time": "2026-09-17T01:19:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kraft, Sheeran pledged USD 2 mn each to fight 'humanitarian crisis'",
+    "desc": "Robert Kraft and Ed Sheeran will donate four million dollars for humanitarian aid. This pledge follows Macklemore's announcement of one million dollars for Palestinian support. Macklemore had invited Robert Kraft to match his significant donation. Sheeran had already contacted Kraft earlier that day to commit funds. Their combined efforts aim to build bridges and address the crisis.",
+    "img": "https://static.toiimg.com/photo/msid-134297094,imgsize-214321.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-kraft-responds-to-macklemore-claims-ed-sheeran-and-he-already-pledged-usd-2-million-each-to-fight-humanitarian-crisis/articleshow/134297015.cms",
+    "time": "2026-09-17T01:10:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Football on table, wrestling without groundwork: Unusual sports India will play at Asiad",
+    "desc": "The Aichi-Nagoya 2026 Asian Games will introduce Indian spectators to a range of unique sports, such as teqball, kurash, soft tennis, sepak takraw, and sport climbing. These events not only highlight athletic prowess but also celebrate Asian culture. With a delegation of 503 athletes, India will participate robustly, showcasing diverse sporting talents on an international scale.",
+    "img": "https://static.toiimg.com/photo/msid-134297058,imgsize-248136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/football-on-a-curved-table-wrestling-without-groundwork-five-little-known-sports-india-will-compete-in-at-asian-games-2026/articleshow/134297046.cms",
+    "time": "2026-09-17T01:07:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2008, Leonardo bought a $3.67 million apartment in a building powered by solar panels",
+    "desc": "In 2008, Leonardo DiCaprio made an eco-friendly investment by acquiring a Manhattan apartment at The Riverhouse, renowned for its sustainable features such as solar panels and a sophisticated water-treatment system. In 2014, he expanded his green real estate presence by purchasing the adjacent unit for eight million dollars, enjoying both luxury and environmentally conscious living.",
+    "img": "https://static.toiimg.com/photo/msid-134297051,imgsize-877738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2008-leonardo-dicaprio-bought-a-3-67-million-manhattan-apartment-inside-a-building-powered-by-solar-panels-what-made-the-riverhouse-different/articleshow/134297033.cms",
+    "time": "2026-09-17T00:58:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘God-gifted talent’: Rashid Khan on Sooryavanshi’s skill rarely seen at 15",
+    "desc": "Rashid Khan believes Afghanistan needs to find solutions in the powerplay, while India's fearless young batters have caught his eye. The Afghanistan star explains what makes Abhishek Sharma a ‘very big package’ for Team India and calls 15-year-old Vaibhav Sooryavanshi a \"God-gifted talent\". Rashid also identifies Noor Ahmad and Abdollah Ahmadzai as players to watch and opens up about the one ICC achievement he still wants in his book.",
+    "img": "https://static.toiimg.com/photo/msid-134297037,imgsize-112801.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/he-is-a-god-gifted-talent-rashid-khan-on-vaibhav-sooryavanshi-and-the-skill-that-is-hardly-seen-at-such-a-young-age-exclusive/articleshow/134292874.cms",
+    "time": "2026-09-17T00:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan requests AHF to shift its matches from India",
+    "desc": "Hockey India secretary general Bhola Nath Singh rejected the request, saying there won't be any change in venue for the tournament to be held in Punjab’s Mohali and Jalandhar from October 27 to November 5",
+    "img": "https://th-i.thgim.com/public/incoming/oetcrb/article71475109.ece/alternates/LANDSCAPE_1200/20260914031L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/asian-champions-trophy-pakistan-requests-ahf-to-shift-its-matches-from-india/article71475104.ece",
+    "time": "2026-09-17T00:18:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Macklemore donates USD 1 Mn from tour to Palestine",
+    "desc": "Rapper Macklemore will donate one million dollars from his tour earnings to Palestinian aid groups. This announcement follows his removal from Ed Sheeran's tour after pro-Palestinian remarks. Macklemore has invited billionaire Robert Kraft to match his significant charitable contribution. Several other artists also withdrew from Sheeran's tour in solidarity with Macklemore. The controversy highlights ongoing debates surrounding political expression in music.",
+    "img": "https://static.toiimg.com/photo/msid-134296865,imgsize-225241.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/macklemore-to-donate-entire-usd-1-million-earnings-from-ed-sheerans-loop-tour-to-palestinian-aid-groups/articleshow/134296749.cms",
+    "time": "2026-09-16T23:59:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Dakota Johnson, MGK ‘vibed’ at Taylor Swift’s NYC apartment before dinner",
     "desc": "Dakota Johnson and Machine Gun Kelly reportedly spent private time at Taylor Swift’s NYC apartment before heading out for dinner. A source said the two ‘vibed’ and had a ‘really nice time’ together. Their low-key meet-up has sparked fresh dating speculation, though neither Johnson nor Kelly has publicly confirmed a relationship.",
     "img": "https://static.toiimg.com/photo/msid-134296693,imgsize-123546.cms",
@@ -153,6 +288,15 @@ const newsData_en = [
     "time": "2026-09-16T17:51:49.000Z"
   },
   {
+    "cat": "Business",
+    "title": "What lies beyond India’s E20 push",
+    "desc": "The E20 blend’s promised savings were offset by lower mileage, with consumers spending an estimated ₹88,234 cr. extra over the last three years; its benefits for emissions and forex savings are uncertain, as higher fuel consumption can raise emissions while diverting crops to ethanol can affect food security and exports",
+    "img": "https://th-i.thgim.com/public/news/national/8cvikn/article71474011.ece/alternates/LANDSCAPE_1200/iStock-2265290727.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/what-lies-beyond-indias-e20-push/article71472275.ece",
+    "time": "2026-09-16T17:41:01.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "After England setback, Babar Azam set for first domestic first-class game in seven years",
     "desc": "In a significant move, Pakistan's cricket captain Babar Azam is set to return to domestic first-class cricket, representing OGDCL in the upcoming President's Trophy. His participation comes on the heels of Pakistan's recent Test series defeat in England. Alongside him, fast bowlers Shaheen Afridi and Haris Rauf are also joining the competition, aiming to bolster their readiness for future Test matches.",
@@ -169,24 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mandakini-reveals-how-ram-teri-ganga-maili-breastfeeding-scene-was-filmed-aaj-kal-aap-dekhte-hain-kitna-low-neck-pehnti-hain-ladkiyan-/articleshow/134292841.cms",
     "time": "2026-09-16T17:15:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Allahabad HC seeks response from Centre, U.P. government on journalist Satyam Verma’s NSA detention",
-    "desc": "Verma says he was not at the site of violence as mentioned in detention order; he points out that Noida workers’ protest was for minimum wage and did not constitute a threat to public order",
-    "img": "https://th-i.thgim.com/public/incoming/xvlcbe/article71473928.ece/alternates/LANDSCAPE_1200/satyam.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/allahabad-hc-seeks-response-from-centre-up-government-on-journalist-satyam-vermas-nsa-detention/article71473425.ece",
-    "time": "2026-09-16T17:07:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CISF handles movement of over 1,000 delegates during BRICS Summit",
-    "desc": "The delegations included 17 Heads of State and Heads of Government, along with Vice Presidents, Foreign Ministers, Cabinet Ministers, Heads of Delegation, other senior officials, and judicial delegations from 16 countries, including 12 Chief Justices; airport operations continued normally",
-    "img": "https://th-i.thgim.com/public/incoming/6ii66i/article71473923.ece/alternates/LANDSCAPE_1200/BJP-imposing-itGUAGHGKKK.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cisf-handles-movement-of-over-1000-delegates-during-brics-summit/article71473178.ece",
-    "time": "2026-09-16T17:00:16.000Z"
   },
   {
     "cat": "Entertainment",
@@ -279,42 +405,6 @@ const newsData_en = [
     "time": "2026-09-16T14:01:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shatrughan Sinha wishes PM Narendra Modi ahead of his 76th birthday",
-    "desc": "Shatrughan Sinha has wished Prime Minister Narendra Modi ahead of his 76th birthday, sharing two throwback pictures and a heartfelt message on X. The veteran actor-politician explained that he wanted to send his greetings early before the flood of birthday wishes on September 17. Sinha called Modi “our friend, friend of society” and wished him well-being, love, happiness, peace and a healthy long life. The message comes amid Sinha’s continuing political career and entertainment legacy.",
-    "img": "https://static.toiimg.com/photo/msid-134289507,imgsize-74050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shatrughan-sinha-wishes-narendra-modi-ahead-of-76th-birthday-shares-throwback-pictures-and-heartfelt-note-our-friend-friend-of-society/articleshow/134289401.cms",
-    "time": "2026-09-16T13:44:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nani's 'The Paradise' gets 'A' certificate",
-    "desc": "Nani and director Srikanth Odela reunite for the action thriller 'The Paradise', releasing soon. The film has received an 'A' certificate from the CBFC with a runtime of 169 minutes. Nani described 'The Paradise' as the most physically and mentally tiring film of his career. The makers have opted against releasing a conventional trailer for the upcoming movie. 'The Paradise' will have a wide multilingual release on September 24.",
-    "img": "https://static.toiimg.com/photo/msid-134289339,imgsize-1452411.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-nani-and-srikanth-odelas-upcoming-action-thriller-gets-an-a-certificate-ahead-of-its-september-24-release/articleshow/134289270.cms",
-    "time": "2026-09-16T13:33:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Preity Zinta, Roopali Ganguly, Pankaj Tripathi &amp; others join",
-    "desc": "In a significant reshuffle, the Information and Broadcasting Ministry has revamped the Central Board of Film Certification. The freshly formed eighteen-member board features esteemed figures from the entertainment industry, including actors Preity Zinta and Suniel Shetty. Their tenure is expected to last three years unless additional directions are issued. Meanwhile, Excel Entertainment is taking proactive steps by voluntarily swapping out a song from the Mirzapur series.",
-    "img": "https://static.toiimg.com/photo/msid-134289271,imgsize-369723.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cbfc-reconstitutes-board-preity-zinta-roopali-ganguly-pallavi-joshi-pankaj-tripathi-join-the-new-18-member-committee/articleshow/134289104.cms",
-    "time": "2026-09-16T13:29:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anant Nag to receive Dadasaheb Phalke Award 2024, PM Modi congratulates veteran actor",
-    "desc": "Anant Nag is set to be awarded the illustrious Dadasaheb Phalke Award for his vast contributions to cinema. The ceremony will honor him at the 72nd National Film Awards, taking place in Ekta Nagar, Gujarat, on September 22, 2026. With a remarkable career of over 300 films across various languages, Nag is also fondly remembered for his iconic role in the beloved Doordarshan show, Malgudi Days.",
-    "img": "https://static.toiimg.com/photo/msid-134289259,imgsize-373743.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/kannada-legend-anant-nag-to-receive-dadasaheb-phalke-award-2024-pm-narendra-modi-congratulates-veteran-actor-and-hails-him-as-legendary/articleshow/134289178.cms",
-    "time": "2026-09-16T13:29:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL chairman Arun Dhumal confirms push to bring 2027 auction back to India",
     "desc": "The IPL auction is gearing up to make a comeback to India for its 2027 season. While the exact host city remains undecided, this event promises to be more intimate. Amid discussions surrounding the contentious Impact Player rule, the BCCI is actively gathering insights from franchises and stakeholders. Notably, several key Indian players have raised concerns regarding the effect of this rule on all-rounders' roles in the game.",
@@ -322,33 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-chairman-arun-dhumal-confirms-push-to-bring-2027-auction-back-to-india/articleshow/134288995.cms",
     "time": "2026-09-16T13:23:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajinikanth’s ‘Dharman’ enters third schedule",
-    "desc": "Director Ashwath Marimuthu has officially announced the commencement of Dharman's third filming schedule. The legendary Rajinikanth was spotted on set alongside actress Raashi Khanna. Following the successful wrap of the second schedule, which took place from August 13 to September 4, fans eagerly await more updates, especially after the reveal of Rajinikanth's distinct doctor look. Contributing to the film's technical prowess are Anirudh Ravichander and Niketh Bommi.",
-    "img": "https://static.toiimg.com/photo/msid-134289153,imgsize-1190155.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanths-dharman-enters-third-schedule-as-ashwath-marimuthu-shares-bts-video-with-raashi-khanna-back-with-thalaivar/articleshow/134289078.cms",
-    "time": "2026-09-16T13:20:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ravie Dubey defends Ranbir Kapoor's casting in 'Ramayana'",
-    "desc": "In a recent interview, Ravie Dubey reflected on his rewarding collaboration with Ranbir Kapoor for 'Ramayana'. He characterized Kapoor as an exceptionally dedicated and approachable actor, one of the best in the industry. Dubey considers his role in the film a significant honor, appreciating how Kapoor's unwavering work ethic and team spirit contributed to the film's overarching mission.",
-    "img": "https://static.toiimg.com/photo/msid-134288725,imgsize-189154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ravie-dubey-defends-ranbir-kapoors-casting-in-ramayana-the-sincerity-with-which-he-comes-onto-a-set-is-unparalleled/articleshow/134288479.cms",
-    "time": "2026-09-16T13:02:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India-Pak naval ships collide in international waters; India condemns drone attack near &amp; Mecca more",
-    "desc": "India has lodged a vehement protest against Pakistan following a naval ship collision that occurred in international waters. Additionally, the country condemned a recent Houthi drone attack near Mecca, underscoring its regional implications. The Indian government classified the Shahzad Bhatti Network, which is based in Pakistan, as a terrorist organization.",
-    "img": "https://static.toiimg.com/photo/msid-134288974,imgsize-88216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-india-pak-naval-ships-collide-in-international-waters-india-condemns-drone-attack-near-mecca-more/articleshow/134287261.cms",
-    "time": "2026-09-16T12:59:51.000Z"
   },
   {
     "cat": "Sports",
@@ -432,15 +495,6 @@ const newsData_en = [
     "time": "2026-09-16T09:49:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aditya Chopra was chasing drones at his secret wedding with Rani which had 15 people",
-    "desc": "The wedding of Rani Mukerji and Aditya Chopra in the picturesque landscapes of Italy maintained an air of mystique. With only a week for preparation, designer Sabyasachi Mukherjee fashioned Rani's beautiful lehenga. Karan Johar received a stern warning about leaking any tidbits to the press. Until now, the couple has kept their wedding images under wraps, opting for privacy since the birth of their daughter Adira in 2015.",
-    "img": "https://static.toiimg.com/photo/msid-134284113,imgsize-350517.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditya-chopra-was-chasing-drones-at-his-secret-wedding-with-rani-mukerji-with-15-people-recalls-sabyasachi-mukherjee-i-did-a-custom-sari-for-her/articleshow/134283955.cms",
-    "time": "2026-09-16T09:44:40.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Why Meta’s Zuckerberg rebuffed Dario Amodei’s AI slowdown calls",
     "desc": "Mr. Amodei has warned that the AI development is beginning to outstrip the labs’ ability to understand and control the systems it is creating. But Mr. Zuckerberg is taking a different route, stating that AI companies have a powerful incentive to build systems that are trustworthy",
@@ -459,15 +513,6 @@ const newsData_en = [
     "time": "2026-09-16T08:45:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Mirzapur The Movie': Pankaj Tripathi film narrowly misses Rs 200 crore mark",
-    "desc": "'Mirzapur The Movie' has crossed the Rs. 196 crore mark in India as it enters Day 13, putting the coveted Rs. 200 crore domestic milestone firmly within reach. The Pankaj Tripathi, Ali Fazal and Ravi Kishan starrer has settled into a slow, steady weekday pace in its third week of release, with its worldwide gross already past Rs. 281 crore. With the film now closing in on the Rs. 200 crore club, the coming days will reveal just how much more mileage it has left in theatres.",
-    "img": "https://static.toiimg.com/photo/msid-134282884,imgsize-134022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-13-live-pankaj-tripathi-ali-fazal-and-ravi-kishan-eyes-breaching-rs-200-crore-domestic-finish-line-after-a-global-haul-of-rs-281-crore/articleshow/134282729.cms",
-    "time": "2026-09-16T08:39:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India's squads, schedule, format and all you need to know",
     "desc": "The Chess Olympiad 2026 is underway in Samarkand, with India defending both Open and Women’s titles won in 2024. The 11-round Swiss-system event features five-player teams, with four playing each round. Praggnanandhaa, Arjun, Nihal, Gukesh and Vidit form India’s Open squad, while Humpy, Vaishali, Divya, Vantika and Savitha represent the women’s team.",
@@ -484,24 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dont-make-changes-yuvraj-singhs-warning-to-gautam-gambhir-and-management-ahead-of-2027-world-cup/articleshow/134281447.cms",
     "time": "2026-09-16T07:39:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What stays free, what attracts Rs 5 flat fee, and what 0.4% rate?",
-    "desc": "The new MDR will take effect from October 15. However, UPI payments between individuals, including transfers made to friends, will continue to remain outside the charge. Auto-debits and UPI mandates will also not attract MDR.",
-    "img": "https://static.toiimg.com/photo/msid-134280303,imgsize-592720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/upi-charges-from-october-15-0-4-mdr-on-payments-above-rs-2000-but-flat-rs-5-fee-for-railway-tickets-fuel-insurance-and-utilities-sending-money-to-friends-family-autopay-for-ott-stays-free/articleshow/134280238.cms",
-    "time": "2026-09-16T06:44:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Athletes experienced to stay in containers': Kamal on Asiad accommodation challenge",
-    "desc": "India’s deputy chef-de-mission A Sharath Kamal says Indian athletes will quickly adapt to the unusual Asian Games accommodation, including container rooms and a docked cruise ship. He believes prior preparation will help athletes focus on performance. Sharath is also confident of at least one table tennis medal, with men’s doubles and mixed doubles among India’s strongest medal chances.",
-    "img": "https://static.toiimg.com/photo/msid-134280273,imgsize-81358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/athletes-got-an-experience-to-stay-in-containers-sharath-kamal-on-asian-games-accommodation-challenge/articleshow/134280027.cms",
-    "time": "2026-09-16T06:33:42.000Z"
   },
   {
     "cat": "Sports",
@@ -541,24 +568,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Jos Buttler breaks Rohit Sharma's record, becomes second-highest T20I run-scorer",
-    "desc": "Jos Buttler has now become the second-highest run-scorer in men's T20I cricket. He achieved this milestone during England's victory against Sri Lanka. Buttler scored eighty runs off forty-four balls in the match. Harry Brook also contributed significantly with an unbeaten century. England secured a dominant win in the first T20I.",
-    "img": "https://static.toiimg.com/photo/msid-134277591,imgsize-129668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jos-buttler-breaks-rohit-sharmas-record-becomes-second-highest-t20i-run-scorer/articleshow/134277571.cms",
-    "time": "2026-09-16T04:09:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Even KP couldn’t come close’: Stokes makes huge Brook-Pietersen comparison",
-    "desc": "Harry Brook scored an unbeaten 114 off 49 balls against Sri Lanka. Ben Stokes lauded Brook's talent, comparing him favorably to Kevin Pietersen. Brook's recent move to number three has yielded significant T20I success. He joined Jos Buttler as the second Englishman with centuries in all formats. England secured a dominant 119-run victory in the first T20I.",
-    "img": "https://static.toiimg.com/photo/msid-134277347,imgsize-105152.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/even-kp-couldnt-come-close-ben-stokes-makes-huge-harry-brook-kevin-pietersen-comparison/articleshow/134277330.cms",
-    "time": "2026-09-16T03:44:25.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Srinath is India's man to count on",
     "desc": "From consoling a devastated Nihal Sarin after a cruel time loss to calling out India’s accommodation mess in Samarkand, Srinath Narayanan has been the steady hand all around. The Gambits captain helped his GCL side bounce back to bronze, and now turns his focus to India’s Chess Olympiad campaign, confident a young, tightly knit squad can deliver.",
     "img": "https://static.toiimg.com/photo/msid-134277331,imgsize-128830.cms",
@@ -574,24 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/indias-pact-with-an-unusual-amalgam/article71469868.ece",
     "time": "2026-09-16T03:03:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Jadeja make an ODI return?",
-    "desc": "India’s selectors face key ODI selection decisions for the West Indies series. With Axar Patel and Washington Sundar at the Asian Games, Ravindra Jadeja could return despite concerns over his bowling. Hardik Pandya’s fitness remains uncertain, while Rishabh Pant may get another ODI opportunity ahead of Dhruv Jurel. Injuries and wicketkeeping options will also shape the squad.",
-    "img": "https://static.toiimg.com/photo/msid-134276676,imgsize-125516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-squad-for-west-indies-series-will-ravindra-jadeja-make-an-odi-return/articleshow/134276568.cms",
-    "time": "2026-09-16T02:42:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Brook scripts history, becomes first cricketer to achieve this feat in T20Is",
-    "desc": "In a remarkable feat, Harry Brook reached a notable captaincy milestone in 2026, becoming the only Full Member captain to score two T20I centuries within the same year. His latest achievement was an explosive 114 not out against Sri Lanka in Southampton, which he accomplished off just 42 deliveries, leading England to a commanding 119-run victory in their first T20I match.",
-    "img": "https://static.toiimg.com/photo/msid-134276491,imgsize-105310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/harry-brook-scripts-history-becomes-first-cricketer-to-achieve-this-feat-in-t20is/articleshow/134276459.cms",
-    "time": "2026-09-16T02:30:53.000Z"
   },
   {
     "cat": "Sports",
@@ -693,15 +684,6 @@ const newsData_en = [
     "time": "2026-09-15T11:13:30.000Z"
   },
   {
-    "cat": "World",
-    "title": "UN urges access for international investigators to Gaza after bodies found",
-    "desc": "The ongoing recovery of extensive human remains in Gaza, mostly of women and children, nearly three years after Israel heavily bombed their homes, highlights the possibility that war crimes have been committed, the UN warned",
-    "img": "https://th-i.thgim.com/public/incoming/nm476m/article71467473.ece/alternates/LANDSCAPE_1200/AFP__20260906__C7GG7NZ__v2__HighRes__TopshotPalestinianIsraelConflictGaza.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/un-urges-access-for-international-investigators-to-gaza-after-bodies-found/article71467457.ece",
-    "time": "2026-09-15T09:48:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Jaadugar: A Witch in Mongolia’ series review: A wickedly well-read corrective to Orientalist caricature",
     "desc": "One of the year’s most erudite historical anime, ‘Jaadugar’ rummages through the machinery of empire with scholarly curiosity, gives Islamic history the dignity of lived experience, and discovers that the Mongol court is a remarkably good place for dangerous women to sharpen their wits",
@@ -754,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/remembering-dolly-parton-who-gave-away-everything-but-her-songs/article71392330.ece",
     "time": "2026-09-15T04:54:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hockey India, franchises mull change in HIL governance structure",
-    "desc": "Even as some of the top brass of Hockey India was present in Chandigarh for the formal announcement of the men’s Asian Champions Trophy, HI president Dilip Tirkey was meeting Sports Minister Mansukh Mandaviya and other senior government officials along with HIL franchises in New Delhi",
-    "img": "https://th-i.thgim.com/public/incoming/tdvpt6/article71466241.ece/alternates/LANDSCAPE_1200/image%207.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/hockey-india-franchises-mull-change-in-hil-governance-structure/article71466227.ece",
-    "time": "2026-09-15T00:05:05.000Z"
   },
   {
     "cat": "Tech",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
   }
 ];

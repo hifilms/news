@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "વડાપ્રધાન મોદીનો 76 મો જન્મદિવસ, જાણો દેશભરમાં કેવી રીતે થવાની છે ઉજવણી?",
+    "desc": "વડાપ્રધાન નરેન્દ્ર મોદીના 76 માં જન્મદિવસની ઉજવણીના ભાગરુપે દેશભરમાં 17 સપ્ટેમ્બરે વિવિધ કાર્યક્રમો યોજાશે જેમાં 76,000 દીવા પ્રગટાવવાથી લઈને બાઈક યાત્રા સુધીના આયોજનો છે. તો ચાલો જાણીએ પીએમ મોદીના જન્મદિવસની ઉજવણી દેશભરમાં કેવી રીતે થવાની છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modi-76th-birthday-17-september-pm-modi-birthday-special-celebration-in-india-491481 ",
+    "time": "2026-09-17T02:39:19.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ગણતરીની કલાકોમાં આ વિસ્તારોમાં તૂટી પડશે વાવાઝોડા સાથે ભારે વરસાદ ! 80 કિમીની ઝડપે ફૂંકાશે પવન",
     "desc": "ભારતીય હવામાન વિભાગ (IMD)એ 20 રાજ્યોમાં વાવાઝોડા સાથે ભારે વરસાદની આગાહી કરી છે. દક્ષિણ-પશ્ચિમ રાજસ્થાન પર સર્જાયેલા લો-પ્રેશર સિસ્ટમના કારણે દિલ્હી, ઉત્તર પ્રદેશ, બિહાર અને મધ્ય પ્રદેશ સહિતના અનેક રાજ્યોમાં તેજ પવન ફૂંકાવાની પણ શક્યતા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -331,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/baba-vanga-shocking-viral-pridictions-regarding-artificial-intelligence-491257 ",
     "time": "2026-09-15T04:16:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રાજસ્થાનની સ્થાનિક ચૂંટણીઓનું સૌથી ચોંકાવનારું પરિણામ, ભાજપના આ ઉમેદવારને ફક્ત 1 મત મળ્યો",
-    "desc": "રાજસ્થાનના ડીડવાણા-કૂચામન જિલ્લાના પરબતસર નગર પાલિકા ચૂંટણીનું એક પરિણામ હાલ ખુબ ચર્ચામાં છે. અહીં અલગ અલગ વોર્ડ્સમાં ભાજપ અને રાષ્ટ્રીય લોકતાંત્રિક પાર્ટી (RLD)ના ઉમેદવારોને માત્ર એક મત મળ્યો. ચોંકાવનારી વાત એ પણ હતી કે ભાજપના ઉમદેવાર કૈલાશ ચંદ્ર જે વોર્ડમાંથી ચૂંટણી લડી રહ્યા હતા ત્યાં તેમનો પોતનો મત પણ નહતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/rajasthan-local-body-election-results-bjp-candidate-got-only-one-vote-in-parbatsar-nagar-palika-ward-13-491255 ",
-    "time": "2026-09-15T03:33:49.000Z"
   },
   {
     "cat": "Sports",
@@ -682,15 +682,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/amitabh-bachchan-blog-on-kbc-hosting-why-amitabh-bachchan-said-hosting-is-difficult-now-490676 ",
     "time": "2026-09-10T02:55:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "મંગળવારની રાત નાગોયા માટે કોઈ આફતથી ઓછી નહોતી, આકાશમાંથી સમુદ્ર વરસી પડ્યો",
-    "desc": "ટેકનોલોજીના સુપરપાવર દેશ જાપાનનું ઐતિહાસિક અને આધુનિક શહેર નાગોયા આ સમયે પાણી-પાણી થઈ ગયું છે. ક્રોવાન્હ વાવાઝોડાની અસરને કારણે થયેલા ભારે વરસાદે નાગોયામાં 134 વર્ષ જૂનો વરસાદનો રેકોર્ડ તોડી નાખ્યો છે. માત્ર એક કલાકમાં 104.5 મિલીમીટર વરસાદ નોંધાયો. એટલે કે જાણે આકાશમાંથી સમુદ્ર વરસી પડ્યો હોય. શહેરની લાઈફલાઈન કહેવાતી શોનાઈ નદી પણ ગાંડીતૂર બની ગઈ છે. ભારે પૂરના કારણે તંત્રને ઈતિહાસનું સૌથી ખતરનાક એલર્ટ જાહેર કરવું પડ્યું છે..",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/nagoya-flooded-134-year-rainfall-record-broken-as-typhoon-krovanh-batters-japan-490629 ",
-    "time": "2026-09-09T12:10:43.000Z"
   },
   {
     "cat": "Tech",
