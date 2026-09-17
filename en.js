@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Kim hospitalised with condition linked to father's demise",
+    "desc": "Kim Kardashian was hospitalized with esophagitis, a condition affecting the esophagus. This health issue gained attention due to her father's death from esophageal cancer. Her family is preparing for a new season of their reality television series. Kim is also reportedly dating Formula 1 driver Lewis Hamilton. The couple has been seen together publicly and on social media.",
+    "img": "https://static.toiimg.com/photo/msid-134323129,imgsize-232021.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kim-kardashian-hospitalised-with-esophagitis-condition-linked-to-father-robert-kardashians-demiseisnt-that-what-he-died-of/articleshow/134323091.cms",
+    "time": "2026-09-17T22:38:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Miley Cyrus recalls final conversation with godmother Dolly Parton",
+    "desc": "Miley Cyrus became emotional while recalling her final conversation with godmother Dolly Parton before the music icon’s death. Speaking about her new album, Cyrus reflected on their bond, Parton’s advice and her authenticity. She remembered Parton telling her that “music is escapism” and said her godmother “was just always right” about everything.",
+    "img": "https://static.toiimg.com/photo/msid-134323090,imgsize-116797.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/miley-cyrus-gets-emotional-recalling-her-final-conversation-with-godmother-dolly-parton-before-her-death-im-just-trying-to-keep-myself-together-she-was-just-always-right/articleshow/134323080.cms",
+    "time": "2026-09-17T22:23:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek blazes fastest century in full-member T20s",
+    "desc": "The 26-year-old hammered ​108 off 34 balls, striking nine fours and ⁠11 sixes before falling to Rashid Khan. His hundred eclipsed the previous India record of a 35-ball century set by stalwart Rohit Sharma against Sri Lanka ‌in 2017",
+    "img": "https://th-i.thgim.com/public/incoming/1nkusc/article71478372.ece/alternates/LANDSCAPE_1200/27_INDIA_AFGHANISTAN_T20_MATCH_17_09_DELHI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/abhishek-blazes-fastest-century-in-full-member-t20s/article71478364.ece",
+    "time": "2026-09-17T22:13:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lady Gaga welcomes baby girl; name, birth date REVEALED!",
+    "desc": "Lady Gaga and Michael Polansky have welcomed a baby girl named Rose Bean Polansky. The couple was recently seen with the infant, sparking baby watch rumors. Rose Bean Polansky was reportedly born on June 9 at Cedars-Sinai Medical Center. The couple remains engaged and has not yet married, despite earlier reports. They are currently focusing on their new family member.",
+    "img": "https://static.toiimg.com/photo/msid-134321248,imgsize-124924.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lady-gaga-and-michael-polansky-welcome-baby-girl-name-birth-date-revealed/articleshow/134321059.cms",
+    "time": "2026-09-17T21:48:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government, payment gateways discuss ways to stop merchants passing burden to consumers",
+    "desc": "The government is currently in talks with payment platforms to ensure that merchant fees do not get passed on to consumers. Starting from October fifteenth, officials will closely monitor this situation to protect consumers. They also reassured that merchants will not incur additional GST costs once the MDR is implemented. This initiative aims to support more domestic players in the market and encourage innovation.",
+    "img": "https://static.toiimg.com/photo/msid-134321087,imgsize-592720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/upi-fee-government-payment-gateways-discuss-ways-to-stop-merchants-passing-burden-to-consumers/articleshow/134321080.cms",
+    "time": "2026-09-17T21:31:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kiran Bedi moves Delhi HC seeking to intervene; Centre opposes",
+    "desc": "“What reply will you file? She is a conscientious citizen of the country. She has administrative experience. The matter is in larger public interest,” a Bench of Chief Justice D.K. Upadhyaya and Justice Tejas Karia told the law officer",
+    "img": "https://th-i.thgim.com/public/incoming/6xutzo/article71476318.ece/alternates/LANDSCAPE_1200/20260916078L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/satya-niketan-building-collapse-kiran-bedi-seeks-intervention-in-case-centre-opposes-plea/article71476239.ece",
+    "time": "2026-09-17T21:25:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "MJ estate challenges Paris Jackson's $1.16 million legal fee request",
+    "desc": "Michael Jackson's estate, led by executor John Branca, is challenging Paris Jackson's request for $1.16 million in legal fees after she successfully disputed $625,000 in attorney bonuses. The estate argues her request includes unrelated legal work and overstates the financial benefit secured. The court will determine the reasonable amount Paris should receive.",
+    "img": "https://static.toiimg.com/photo/msid-134321074,imgsize-103514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-jacksons-estate-led-by-executor-john-branca-challenges-paris-jacksons-1-16-million-legal-fee-request-after-court-ordered-return-of-625000-in-attorney-bonuses/articleshow/134321071.cms",
+    "time": "2026-09-17T21:21:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Russia, China veto U.S. proposal for UN experts to keep monitoring sanctions on Iran",
+    "desc": "Iran's UN mission thanked China and Russia for vetoing the resolution, saying on social media that the countries “prevented yet another cynical attempt by the United States and its allies to abuse the Security Council for their political purposes”",
+    "img": "https://th-i.thgim.com/public/incoming/3rpuci/article71478232.ece/alternates/LANDSCAPE_1200/Iran_War__33_8.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russia-china-veto-us-proposal-for-un-experts-to-keep-monitoring-sanctions-on-iran/article71478218.ece",
+    "time": "2026-09-17T21:18:20.000Z"
+  },
+  {
     "cat": "World",
     "title": "U.S. again denies visa to Palestinian President Abbas to attend UN Assembly; allowed to speak via video",
     "desc": "In a statement that did not mention the leader by name, the U.S. State Department said it would deny visas to members of the Palestine Liberation Organization (PLO) and officials with the Palestinian Authority (PA); Later, the UN resolution received 152 votes ‌in favour and three votes against, while four countries abstained",
@@ -106,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/todos-somos-caballas-why-kylian-mbappe-is-under-fire-from-far-right-groups-in-spain-over-a-t-shirt/articleshow/134317122.cms",
     "time": "2026-09-17T16:52:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mid-sea collision: Pak vessel was no match to three-times bigger Indian destroyer INS Kolkata",
-    "desc": "Pakistan's PNS Hunain sustained significant damage after colliding with India's INS Kolkata. The Pakistani vessel had to return to harbor for repairs following the incident. Indian sources stated that the INS Kolkata suffered no damage during the encounter. Pakistan summoned India's Charge d'Affaires to lodge a strong protest over the collision. Indian defense sources reported the Pakistani ship maneuvered unprofessionally, leading to the contact.",
-    "img": "https://static.toiimg.com/photo/msid-134317065,imgsize-238956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mid-sea-collision-pak-vessel-was-no-match-to-three-times-bigger-indian-destroyer-ins-kolkata/articleshow/134316715.cms",
-    "time": "2026-09-17T16:44:23.000Z"
   },
   {
     "cat": "Business",
@@ -261,15 +324,6 @@ const newsData_en = [
     "time": "2026-09-17T13:53:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'If I open my mouth': Decoding deepening fault lines between allies-turned-rivals",
-    "desc": "Akhilesh Yadav and Jayant Chaudhary's political exchanges have become increasingly bitter and personal. Jayant Chaudhary strongly criticized Akhilesh Yadav's remarks regarding seat allocations for the RLD. Akhilesh Yadav's comments linked RLD's seat share to Chaudhary Charan Singh's legacy. Could Akhilesh end up helping Jayant?",
-    "img": "https://static.toiimg.com/photo/msid-134314044,imgsize-1163780.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/if-i-open-my-mouth-decoding-deepening-fault-lines-between-allies-turned-rivals-akhilesh-yadav-jayant-choudhary/articleshow/134311717.cms",
-    "time": "2026-09-17T13:51:07.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Chasing Rahul’, a Bengaluru-based rom-com, highlights the challenges of modern dating",
     "desc": "Munavar Zama, the film's director, shares his passion for ‘90s romantic comedies, discusses the challenges of contemporary dating, and explains why Bengaluru plays a vibrant role, akin to the main characters, in Chasing Rahul, which will premiere in the city on September 18.",
@@ -286,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/gowtam-tinnanuri-reveals-how-ms-subbulakshmis-name-in-biopic-starring-rashmika-mandanna-has-become-a-mantra-for-the-team-she-was-much-more-than-a-legendary-singer/articleshow/134313547.cms",
     "time": "2026-09-17T13:35:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Film scenes with drug consumption, trafficking to carry anti-drug warning label",
-    "desc": "In a bid to combat drug culture in cinema, a new regulation mandates that films featuring drug use now include a prominent anti-drug warning. This regulation aligns with prior measures imposed on OTT platforms and television broadcasts. The central board of film certification (CBFC) has previously taken steps to avoid the glamorization of substance abuse, with guidelines last updated in May 2025.",
-    "img": "https://static.toiimg.com/photo/msid-134313522,imgsize-139422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/film-scenes-with-drug-consumption-trafficking-to-carry-anti-drug-warning-label/articleshow/134313522.cms",
-    "time": "2026-09-17T13:31:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -360,24 +405,6 @@ const newsData_en = [
     "time": "2026-09-17T12:43:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "RGV on Mohit Suri’s Saiyaara: 'I'm not only about guns, gangsters, made Rangeela'",
-    "desc": "Ram Gopal Varma has confirmed his upcoming collaboration with Mohit Suri, revealing that the filmmaker will direct a script he narrated during their meetings. Speaking to Variety India, Varma said he loved Suri’s Saiyaara and that Suri “fell in love” with his script. The project will be a gangster film with a difference, with casting yet to be finalised. Varma, who is also coming on board as executive producer, said the film will start very soon.",
-    "img": "https://static.toiimg.com/photo/msid-134311923,imgsize-77037.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-am-not-only-about-guns-and-gangsters-i-made-rangeela-remember-ram-gopal-varma-reveals-he-loved-mohit-suris-saiyaara-ahead-of-their-collaboration-on-gangster-film/articleshow/134311833.cms",
-    "time": "2026-09-17T12:19:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SRK wishes health and happiness to PM Modi on 76th birthday",
-    "desc": "Several Indian celebrities shared birthday wishes for Prime Minister Narendra Modi on social media. Shah Rukh Khan wished the Prime Minister good health and happiness for many years. Akshay Kumar encouraged people to mark the occasion by helping others in need. Kangana Ranaut shared a video praising Modi's twenty-five years of public service. The film industry celebrated the Prime Minister's seventy-sixth birthday with various tributes.",
-    "img": "https://static.toiimg.com/photo/msid-134311567,imgsize-241806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-wishes-pm-narendra-modi-on-his-76th-birthday-after-akshay-kumar-kangana-ranaut-and-other-celebs-may-you-always-carry-the-strength-to-inspire/articleshow/134311303.cms",
-    "time": "2026-09-17T12:03:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "BCCI set to raise pay of domestic umpires, match referees from new season",
     "desc": "The Board of Control for Cricket in India is set to raise the match fees of domestic umpires and match referees from the 2026-27 season, which will resume after the Duleep Trophy with the Ranji Trophy -the premier red-ball domestic competition- on Oct 11.",
@@ -385,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-set-to-raise-pay-of-domestic-umpires-match-referees-from-new-season/articleshow/134311086.cms",
     "time": "2026-09-17T11:55:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka Chopra's birthday wish for Nick includes Malti singing: WATCH VIDEO",
-    "desc": "Priyanka Chopra shared unseen moments of Nick Jonas and their daughter Malti Marie. Nick played the piano while Malti sang along to a popular song. Priyanka penned a heartfelt note thanking Nick for making dreams come true. Madhu Chopra also wished her son-in-law, expressing gratitude for his presence. The couple met in 2016 and married in December 2018.",
-    "img": "https://static.toiimg.com/photo/msid-134311037,imgsize-258155.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopras-birthday-wish-for-nick-jonas-is-all-things-romantic-as-the-actress-drops-video-of-malti-marie-singing-with-him-to-the-man-that-makes-all-our-dreams-come-true/articleshow/134310890.cms",
-    "time": "2026-09-17T11:47:20.000Z"
   },
   {
     "cat": "Business",
@@ -493,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-board-approves-re-appointment-of-n-chandrasekaran-as-chairman-of-tata-group-for-another-5-year-term/articleshow/134307569.cms",
     "time": "2026-09-17T09:38:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Swara says she was upset after Ram Janmabhoomi verdict, texted Aamir, SRK, Salman",
-    "desc": "Actress Swara Bhasker expressed her dismay over the Ayodhya verdict from 2019, reaching out to her Muslim friends, including fellow actors. She shared how Umar Khalid impacted her love life with Fahad Ahmad, whom she met amidst the anti-CAA protests. They married in 2023 and celebrated the arrival of their daughter, Raabiyaa, in September of that year.",
-    "img": "https://static.toiimg.com/photo/msid-134307306,imgsize-263809.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/swara-bhasker-says-she-was-upset-after-ram-janmabhoomi-verdict-texted-muslims-in-her-phonebook-including-shah-rukh-khan-salman-khan-aamir-khan-to-apologise-as-a-hindu-im-so-ashamed/articleshow/134307266.cms",
-    "time": "2026-09-17T09:22:40.000Z"
   },
   {
     "cat": "Sports",
@@ -691,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/indias-pact-with-an-unusual-amalgam/article71469868.ece",
     "time": "2026-09-16T03:03:29.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Indictment says FBI shut down Russian plot to kill U.S. individuals, target Ukraine supporters",
-    "desc": "An indictment unsealed in Manhattan federal court said a network of the intelligence services has paid and attempted to pay individuals in the United States and in other countries to surveil targets to be killed with plans to then kill them.",
-    "img": "https://th-i.thgim.com/public/incoming/xjjnh3/article71470878.ece/alternates/LANDSCAPE_1200/Border_Shooting_New_Hampshire_99211.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/indictment-says-fbi-shut-down-russian-plot-to-kill-us-individuals-target-ukraine-supporters/article71470877.ece",
-    "time": "2026-09-16T01:18:03.000Z"
   },
   {
     "cat": "Sports",
