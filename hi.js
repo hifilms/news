@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "2,000 Indians in Nagoya ready to house athletes amid accommodation crunch",
+    "desc": "While Indian athletes face accommodation issues in Japan's Nagoya, the Ministry of Youth Affairs and Sports has swung into action and created a three-layer management system to deal with the situation at the Asian Games...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/asian-games-2026-2-000-indians-in-nagoya-ready-to-house-athletes-amid-accommodation-crunch-2026-09-18-1054653",
+    "time": "2026-09-18T15:14:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India thrash Japan, register eight-wicket win to qualify for Asian Games semi-final",
     "desc": "Indian women registered an eight-wicket win over Japan in the ongoing Asian Games. They arrived at the contest as the favourites and were too comfortable for the entire time and made it to the semi-finals...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-architects-india-s-carnage-with-quickfire-century-shreyas-men-seal-3-0-series-win-vs-afghanistan-2026-09-17-1054558",
     "time": "2026-09-17T17:06:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma breaks Rohit Sharma's record, becomes fastest Indian to smack T20I century vs Afghanistan",
-    "desc": "Star India batter Abhishek Sharma wreaked havoc in the third T20I against Afghanistan at the Arun Jaitley Stadium in New Delhi. The 26-year-old got going from the very beginning and changed the complexion of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-rohit-sharma-s-record-with-swashbuckling-century-vs-afghanistan-2026-09-17-1054546",
-    "time": "2026-09-17T14:39:31.000Z"
   }
 ];

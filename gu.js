@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "રામ મંદિરના પુજારીઓ માટે નવા નિયમો: તિલક અને પંચકેશી ફરજિયાત, આ વસ્તુઓ પર લગાવ્યો પ્રતિબંધ",
+    "desc": "રામ મંદિરના દાન ચોરી વિવાદ બાદ, રામ જન્મભૂમિ મંદિરમાં વ્યવસ્થા બદલાઈ ગઈ છે. રામ મંદિરના પુજારીઓ માટે પણ નવા નિયમો જાહેર કરવામાં આવ્યા છે. પુજારીઓ માટે તિલક અને પંચકેશી ફરજિયાત બનાવવામાં આવ્યા છે. જોકે, પર્સ, બહારની વસ્તુઓ અને મોબાઇલ ફોન બંધ રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/new-rules-for-ram-mandir-priests-tilak-and-panchakeshi-mandatory-ban-imposed-on-certain-items-491714 ",
+    "time": "2026-09-18T17:31:28.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "iPhone 18 Pro લેવા સુરતથી મુંબઈ આવ્યો વ્યક્તિ, 12 કલાક ઉભો રહ્યો લાઈનમાં, પછી હાથમાં આવ્યો નવો ફોન",
+    "desc": "iPhone 18 Pro વેચાણ માટે શરૂ થતાં જ ખરીદીનો ધમધમાટ જોવા મળ્યો. સુરતનો એક વ્યક્તિ ખાસ કરીને નવો iPhone ખરીદવા માટે મુંબઈ ગયો. તે લગભગ 12 કલાક સુધી એપલ સ્ટોરની બહાર લાઇનમાં ઊભો રહ્યો. તે વ્યક્તિએ કહ્યું કે તે રાતોરાત સુરતથી મુંબઈ ઉડાન ભરીને ગયો હતો અને સ્ટોર પર પહોંચ્યા પછી, લાઇનમાં આગળ ઊભો રહ્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/man-traveled-from-surat-to-mumbai-to-buy-the-iphone-18-pro-stood-in-line-for-12-hours-before-finally-getting-the-new-phone-491698 ",
+    "time": "2026-09-18T16:02:00.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ડિઝાઇનથી કેમેરા સુધી, કેવો છે આ &amp;#039;પ્રીમિયમ&amp;#039; ફોન ? જાણો તેની બેસ્ટ વસ્તુઓ અને ખામીઓ",
+    "desc": "સેમસંગે તેનો નવો ફ્લેગશિપ કિલર, ગેલેક્સી S26 FE લોન્ચ કર્યો છે. જોરદાર કલર, શક્તિશાળી AI સુવિધાઓ અને 7 વર્ષના સોફ્ટવેર સપોર્ટથી સજ્જ, આ ફોન પ્રીમિયમ અનુભવ આપે છે. શું તે ખરેખર 79,999માં સારો વિકલ્પ છે? ચાલો તેના વિશે જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/samsung-galaxy-s26-fe-review-from-design-to-camera-what-is-this-premium-phone-like-find-out-its-best-features-and-drawbacks-491696 ",
+    "time": "2026-09-18T15:41:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI બદલશે ટીમ ઈન્ડિયાના ચીફ સિલેક્ટર ? આ ગુજરાતી દિગ્ગજ રેસમાં સૌથી આગળ",
+    "desc": "ભારતીય પુરુષ ક્રિકેટ ટીમ માટે આગામી 12 મહિના અત્યંત મહત્વપૂર્ણ છે. આફ્રિકામાં યોજાનારા વન-ડે વર્લ્ડ કપ 2027 માટેની તૈયારીઓ ચાલી રહી છે અને 2025-27ની વર્લ્ડ ટેસ્ટ ચેમ્પિયનશિપ પણ ચાલી રહી છે. આ પરિપ્રેક્ષ્યમાં પસંદગી સમિતિના નેતૃત્વ અંગે BCCIનો નિર્ણય મહત્વપૂર્ણ સાબિત થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/will-bcci-replace-team-india-chief-selector-parthiv-patel-frontrunner-in-the-race-491695 ",
+    "time": "2026-09-18T14:53:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બંગાળમાં મોટો ખેલ : મમતાને નંદીગ્રામના ઉમેદવારે જ આપ્યો દગો, હવે કોંગ્રેસના ઉમેદવારની ધરપકડ",
+    "desc": "પશ્ચિમ બંગાળમાં વિધાનસભાની પેટાચૂંટણી પહેલા ચૂંટણી પંચે TMCના જૂના ચૂંટણી ચિહ્ન પર પ્રતિબંધ લગાવવાની સાથે હવે નવું ચિહ્ન અને પાર્ટીનું નવું નામ આપી દીધું છે...મમતા બેનર્જી અને બળવાખોર જૂથને નવા નામ અને ચૂંટણી ચિહ્ન મળી ગયા છે...પરંતુ TMCના ચૂંટણી ચિહ્નને લઈને રાજનીતિ તેજ થઈ રહી છે. મમતાના ઉમેદવારે તો ચૂંટમી લડવાનો નનૈયો ભણ્યો તો કોંગ્રેસના ઉમેદવારની ધરપકડથી હવે ચૂંટણી સરપ્રદ બની ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/tmc-symbol-ban-mamata-banerjee-gets-football-symbol-rahul-gandhi-attacks-bjp-491683 ",
+    "time": "2026-09-18T14:13:08.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "સરકારી કર્મચારીઓની બલ્લે બલ્લે! ₹17,000 નહીં, હવે મળશે ₹53,000 બોનસ? જાણો શું છે નવું ગણિત",
     "desc": "ફેસ્ટીવલ સિઝનમાં રેલવે કર્મચારીઓ હંમેશાં બોનસની રાહ જોતા હોય છે. જો સંગઠન 17 હજાર બોનસ વધારીને 53 હજાર કરવાની માગણીઓ કરી રહ્યાં છે એની પાછળ કેટલાક ઠોસ કારણ પણ છે જો આ માગણીઓ સ્વીકારાઈ ગઈ 21 સપ્ટેમ્બરે રેલવે કર્મચારીઓની બલ્લે બલ્લે થઈ જવાની છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -306,15 +351,6 @@ const newsData_gu = [
     "time": "2026-09-16T07:33:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ચા ભૂલી જાઓ, 5-10 રૂપિયાના પાન વેચીને કેવી રીતે કરી 50 કરોડની કમાણી? ખેડૂતના દિકરાએ બદલી નાખ્યો બિઝનેસ",
-    "desc": "બિહારના ખેડૂત પરિવારમાંથી આવતા પી.એન. ઠાકુરે માત્ર 2 લાખ રૂપિયાથી મસ્ત બનારસી પાન શરૂ કર્યું હતું. આજે તેમનો વ્યવસાય 50 કરોડ રૂપિયા સુધી પહોંચી ગયો છે અને 400થી વધુ આઉટલેટ્સ ધરાવે છે. તેમની પ્રેરણાદાયી વાર્તા જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-did-he-earn-rs-50-crore-by-selling-paan-worth-rs-5-to-10-a-farmer-son-transformed-the-business-491407 ",
-    "time": "2026-09-16T07:14:37.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રિતેશ સિધવાનીની પાર્ટીમાં રવીના ટંડને પતિની એક્સ વાઈફ પર ફેંક્યો જ્યૂસનો ગ્લાસ, જોતા રહી ગયા લોકો",
     "desc": "રવીના ટંડન શાંત અને સંસ્કારી દેખાય છે પણ એક સમય હતો જ્યારે તેણે પાર્ટીમાં મહેમાનોની હાજરીમાં પોતાના પતિ અનિલ થડાનીની એક્સ વાઈફ નતાશા પર જ્યૂસનો ગ્લાસ ફેંક્યો હતો. આ સમયે રવીનાનું રુપ જોઈ પાર્ટીમાં હાજર લોકો દંગ રહી ગયા હતા.",
@@ -322,15 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/when-raveena-tandon-throw-juice-glass-on-anil-thadani-ex-wife-natasha-in-ritesh-sidhwani-party-491403 ",
     "time": "2026-09-16T06:20:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આખરે BJP વિધાયકે છોડ્યો જમીન પર કબજો, PM મોદીને મળવા પહોંચ્યા હતા બાળપણના મિત્ર અસગર અલી",
-    "desc": "પીએમ મોદીના બાળપણના મિત્ર, શાળા સમયના દોસ્ત અસગર અલી વોહરાને મોટી રાહત મળી છે. ભાયંદરમાં તેમની જમીન પર કબજો જમાવ્યો હોવાના આરોપો બાદ હવે ભાજપના વિધાયકની કંપનીએ જમીન પરથી કબજો છોડવા અને વોહરા વિરુદધ નોંધાયેલી ફરિયાદ પાછી ખેંચવાનો નિર્ણય લીધો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-modi-vadnagar-school-friend-asgar-ali-vohra-gets-land-back-bjp-mp-vacate-property-491402 ",
-    "time": "2026-09-16T06:14:23.000Z"
   },
   {
     "cat": "Business",
@@ -405,15 +432,6 @@ const newsData_gu = [
     "time": "2026-09-15T04:16:17.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "વૈભવ સૂર્યવંશી દરરોજ કેટલું કમાય છે ? 15 વર્ષના આ સ્ટારની દૈનિક કમાણી જાણીને ચોંકી જશો",
-    "desc": "ક્રિકેટની દુનિયામાં વૈભવ સૂર્યવંશીની પ્રગતિ અત્યંત ઝડપી રહી છે. તેની બ્રાન્ડ વેલ્યુમાં ઝડપથી વધારો થઈ રહ્યો છે. IPL 2026માં શાનદાર પ્રદર્શન બાદ તેની બ્રાન્ડ ડીલની વેલ્યૂ હવે પ્રતિ દિવસ ₹1.5થી ₹2 કરોડ સુધી પહોંચી ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/vaibhav-sooryavanshi-earns-up-to-rs-2-crore-per-day-through-brand-deals-reports-491228 ",
-    "time": "2026-09-14T17:12:07.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "સેમસંગે ભારતમાં લોન્ચ કર્યું ગેલેક્સી S26નું સસ્તું વર્ઝન, આ છે કિંમત",
     "desc": "સેમસંગે ભારતમાં તેનો નવો ગેલેક્સી S26 FE લોન્ચ કર્યો છે. FE (ફેન એડિશન) શ્રેણીના આ ફોનમાં, કંપનીએ ફ્લેગશિપ ફોનની ઘણી સુવિધાઓ પ્રદાન કરવાનો પ્રયાસ કર્યો છે. કેમેરા, AI અને પ્રદર્શન પર ધ્યાન કેન્દ્રિત કરવામાં આવ્યું છે. તેની કિંમત 79,999 રૂપિયા છે.",
@@ -430,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/ai-raises-new-concerns-artificial-intelligence-starts-blackmailing-humans-491225 ",
     "time": "2026-09-14T16:33:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ટીમ ઈન્ડિયાને લાગ્યો મોટો ઝટકો, સ્ટાર ખેલાડી અફઘાનિસ્તાન સિરીઝમાંથી બહાર",
-    "desc": "અફઘાનિસ્તાન સામેની T20 સિરીઝ વચ્ચે ભારતીય ટીમને મોટો ઝટકો લાગ્યો છે. વરુણ ચક્રવર્તી ફરી એકવાર ઈજાગ્રસ્ત થતાં આખી સિરીઝમાંથી બહાર થઈ ગયો છે. દિલ્હીના અરુણ જેટલી સ્ટેડિયમમાં પ્રથમ T20 મેચ રમ્યા બાદ તે હવે બાકીની મેચોમાં રમી શકશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/big-blow-for-team-india-varun-chakravarthy-ruled-out-of-afghanistan-series-due-to-injury-491221 ",
-    "time": "2026-09-14T14:31:00.000Z"
   },
   {
     "cat": "Tech",
@@ -592,23 +601,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/tech-shock-apples-foldable-iphone-duo-priced-up-to-449900-check-details-before-buying-490773 ",
     "time": "2026-09-10T14:18:47.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "હ્યુન્ડાઇનો મોટો ઘમાકો, એકસાથે લોન્ચ કરી ત્રણ નવી કાર, આટલી છે કિંમત",
-    "desc": "હ્યુન્ડાઇએ તેની ત્રણ SUVના ખાસ વેરિયન્ટ્સ એકસાથે લોન્ચ કર્યા છે. અમે ક્રેટા, ક્રેટા ઇલેક્ટ્રિક અને અલ્કાઝાર વિશે જણાવી રહ્યા છીએ. કંપનીએ ત્રણેય કાર માટે લાઉન્જ એડિશન લોન્ચ કર્યા છે. બ્રાન્ડે પાછળની સીટ પર બેસનારા મુસાફરો માટે એન્ટરટેઈન્મેન્ટ સ્ક્રીન એડ કરી છે અને એક નવો એક્સટિરીયરમાં નવો કલર પણ એડ કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/hyundai-big-bang-three-new-cars-launched-together-this-is-the-price-490748 ",
-    "time": "2026-09-10T12:30:25.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "iPhone Duo કે Samsung Galaxy Z Fold 8: કોણ કોના પર ભારે?  જાણો કેમેરા, બેટરી, વજન અને પરફોર્મન્સમાં કોણ આગળ",
-    "desc": "Apple ના પહેલા ફોલ્ડેબલ iPhone Duo ની Samsung Galaxy Z Fold8 સાથે સીધી ટક્કર છે. બંનેમાં 7.6 ઇંચની ફોલ્ડેબલ સ્ક્રીન મળે છે, પરંતુ કિંમતમાં લગભગ 1.20 લાખ રૂપિયાનો તફાવત છે. જાણો કેમેરા, બેટરી, વજન અને પરફોર્મન્સમાં કોણ આગળ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/iphone-duo-vs-samsung-galaxy-z-fold8-a-price-difference-of-1-20-lakh-which-one-edges-out-the-other-in-terms-of-camera-battery-and-features-490723 ",
-    "time": "2026-09-10T09:45:49.000Z"
   }
 ];

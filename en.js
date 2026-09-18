@@ -1,5 +1,248 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Assad-era Syrian official jailed for 60 years by U.S. court",
+    "desc": "Samir ⁠Ousman Alsheikh, 74, was charged in 2024 and convicted in March this year on three counts of torture and one count of conspiracy to commit torture for ‌his involvement in the abuse of prisoners at Adra Prison in Damascus",
+    "img": "https://th-i.thgim.com/public/incoming/ss2rvv/article71482304.ece/alternates/LANDSCAPE_1200/2026-08-11T092944Z_1769915961_RC29WMAXFZH1_RTRMADP_3_SYRIA-JUSTICE-ASSAD.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/assad-era-syrian-official-jailed-for-60-years-by-us-court/article71482280.ece",
+    "time": "2026-09-18T17:48:10.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Yemen conflict displaces 1,12,000 people inside country, thousands flee to Djibouti, UN migration agency says",
+    "desc": "The Houthi advance ⁠along Yemen’s c coast is bolstering Tehran’s hand in its conflict ⁠with the U.S., as the group tightens its control of the Bab el-Mandeb Strait, more than six months after U.S. and Israeli attacks on Iran",
+    "img": "https://th-i.thgim.com/public/incoming/qojd0s/article71482228.ece/alternates/LANDSCAPE_1200/Djibouti_Mideast_Crisis_93334.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/yemen-conflict-displaces-112000-people-inside-country-thousands-flee-to-djibouti-un-migration-agency-says/article71482214.ece",
+    "time": "2026-09-18T17:16:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Data show India yielded to U.S. curbs on oil imports",
+    "desc": "Though the government says that energy sourcing is based on “national interest”, India slashed oil imports from Venezuela, Iran, and Russia in the past following U.S. pressure, but immediately resumed sourcing crude from these sources after the curbs eased",
+    "img": "https://th-i.thgim.com/public/incoming/ox2rnw/article71480472.ece/alternates/LANDSCAPE_1200/iStock-182703770.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/venezuela-iran-russia-india-has-historically-complied-with-trump-on-cutting-oil-imports/article71480382.ece",
+    "time": "2026-09-18T17:11:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Punjab govt announces 8 pc DA hike for employees, pensioners",
+    "desc": "The Bhagwant Mann-led government in Chandigarh has officially raised the Dearness Allowance by eight percent for its employees, marking a resolution to the ongoing conflict with state workers and pensioners. This increase will take effect from October first, ensuring immediate relief. Additionally, regular monthly meetings will now be held to discuss employees' needs and welfare, reinforcing the government's pledge to address long-standing demands through constructive dialogue.",
+    "img": "https://static.toiimg.com/photo/msid-134340023,imgsize-57322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/punjab-govt-announces-8-pc-da-hike-for-employees-pensioners/articleshow/134339996.cms",
+    "time": "2026-09-18T16:55:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prajakta Mali sells her Goregaon flat for Rs 1.12 crore days after...",
+    "desc": "Actress Prajakta Mali recently sold her Goregaon East apartment for Rs 1.12 crore. This property transaction occurred after she purchased another apartment in the same locality. The recently sold flat spanned 473 square feet and was registered on September 10, 2026. Mali also has upcoming projects in Marathi and South Indian cinema. Her career continues to expand with new film ventures.",
+    "img": "https://static.toiimg.com/photo/msid-134339928,imgsize-267350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/prajakta-mali-sells-her-goregaon-flat-for-rs-1-12-crore-days-after-buying-a-rs-6-42-crore-home-report/articleshow/134339815.cms",
+    "time": "2026-09-18T16:51:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI Deputy Governor",
+    "desc": "From October 15, a 0.4% MDR will apply to person-to-merchant UPI payments above ₹2,000. The charge will be paid by merchants, not consumers, and will be capped at ₹300 for transactions of ₹75,000 or more",
+    "img": "https://th-i.thgim.com/public/incoming/l2y4ob/article71482146.ece/alternates/LANDSCAPE_1200/20260911188L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/mdr-apprehension-unlikely-to-spur-higher-cash-usage-rbi-deputy-governor/article71482058.ece",
+    "time": "2026-09-18T16:45:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata Banerjee moves Supreme Court against EC decision to freeze TMC name, symbol",
+    "desc": "Mamata Banerjee has challenged the Election Commission's decision in the Supreme Court. The poll panel froze the Trinamool Congress name and symbol for upcoming bypolls. Her faction received a new name and symbol for the October 6 elections. The rival faction was allotted a different name and symbol by the ECI. The dispute over the original party identity remains unresolved by the commission.",
+    "img": "https://static.toiimg.com/photo/msid-134339866,imgsize-92848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mamata-banerjee-moves-supreme-court-against-eci-decision-to-freeze-tmc-name-symbol/articleshow/134339829.cms",
+    "time": "2026-09-18T16:42:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. government writes to PM Modi seeking to change the operator of Chennai airport",
+    "desc": "In the letter sent in August, Chief Minister C. Joseph Vijay has said Tamil Nadu has been industry-friendly, making consistent efforts to attract business and investment; hence, better management of the airport is of paramount importance",
+    "img": "https://th-i.thgim.com/public/incoming/5lamuw/article71481743.ece/alternates/LANDSCAPE_1200/4871_13_9_2026_13_17_6_1_DSC_2298.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/tn-government-writes-to-pm-modi-seeking-to-change-the-operator-of-chennai-airport/article71481590.ece",
+    "time": "2026-09-18T16:11:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Gondhal' director on film becoming India's Oscar entry: 'We have a rich...'",
+    "desc": "In an exciting development, the Marathi film 'Gondhal' has been selected as India's representative for the 99th Academy Awards. Filmmaker Santosh Davakhar expressed his enthusiasm, noting that preparations for an Oscar campaign are already in motion. The film delves into cultural narratives and societal themes via a traditional folk ritual, with the intent to highlight India's vibrant heritage globally. Campaign efforts in Los Angeles are now in full swing.",
+    "img": "https://static.toiimg.com/photo/msid-134339400,imgsize-816756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/santosh-davakhar-director-of-gondhal-on-film-becoming-indias-official-oscar-entry-we-have-a-rich-culture-and-heritage-and-we-should-represent-india-through-good-cinema/articleshow/134339143.cms",
+    "time": "2026-09-18T16:10:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "U.S. national arrested by NIA under terror charges gets bail after 180-day probe deadline lapses",
+    "desc": "Court allowed Mr. Dyke’s bail application after finding that the charge sheet filed by the NIA on September 8, only invoked “piecemeal,” charges of Sections 21 and 23 of the Immigration and Foreigners Act rather than the more serious Section 18 of the Unlawful Activities (Prevention) Act (UAPA) under which Mr. Dyke was originally booked.",
+    "img": "https://th-i.thgim.com/public/news/national/u0d70o/article71199693.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/delhi-court-grants-bail-to-us-national-van-dykes-in-terror-conspiracy-case/article71480347.ece",
+    "time": "2026-09-18T16:08:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Analysts",
+    "desc": "The combination of elevated inflation risks, strong liquidity conditions and a potential global tightening cycle is prompting expectations that the RBI may shift towards a more restrictive monetary stance in the second half of 2026.",
+    "img": "https://th-i.thgim.com/public/incoming/uo7j5i/article71481945.ece/alternates/LANDSCAPE_1200/Nearby1--21-_G5GCEGFUCQ6.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/rbi-may-deliver-two-rate-hikes-by-cy-2026analysts/article71481500.ece",
+    "time": "2026-09-18T15:49:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "NSE IPO subscribed 1.16 times on Day 2 led by non-institutional investors, QIBs",
+    "desc": "The Rs 22,569-crore IPO has become India’s second-largest public issue, behind Hyundai Motor India’s Rs 27,870-crore offering in 2024. It has also moved past LIC’s Rs 21,000-crore IPO of 2022, but remains smaller than Hyundai Motor India’s record issue.",
+    "img": "https://static.toiimg.com/photo/msid-134338899,imgsize-776375.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/nse-ipo-subscribed-1-16-times-on-day-2-led-by-non-institutional-investors-qibs/articleshow/134338877.cms",
+    "time": "2026-09-18T15:45:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "NMDC targets Net Zero operational emissions by 2047",
+    "desc": "The Net Zero roadmap has been divided into three phases – the short-term will cover FY 2026 to FY 2030, medium-term FY2030 to FY2040 and the long-term will run from FY 2040 to FY 2047",
+    "img": "https://th-i.thgim.com/public/incoming/she508/article71481908.ece/alternates/LANDSCAPE_1200/10.02.2026%20NMDC%20.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/nmdc-targets-net-zero-operational-emissions-by-2047/article71481748.ece",
+    "time": "2026-09-18T15:39:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Day before 2023 Manipur violence started, political settlement was discussed with govt., says insurgent group",
+    "desc": "UPF spokesperson Aron Kipgen says the mass displacement and geographical separation of the Kuki-Zo and Meitei communities after May 3, 2023, fundamentally altered the premise on which the groups had negotiated with the Centre before the violence",
+    "img": "https://th-i.thgim.com/public/incoming/zcc21b/article71481880.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-18%20210100.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/manipur/day-before-2023-manipur-violence-started-political-settlement-was-discussed-with-govt-says-insurgent-group/article71480879.ece",
+    "time": "2026-09-18T15:38:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "JD(U) legislators project Nishant Kumar as future Bihar CM",
+    "desc": "“There is no doubt that Nishant Kumar is our leader, and he has all the abilities to lead the party and the State. We all want him to lead Bihar in the coming days. Every MLA and leader of the party wants this,” says Barauli MLA Manjeet Kumar Singh",
+    "img": "https://th-i.thgim.com/public/incoming/sbny4z/article71481710.ece/alternates/LANDSCAPE_1200/PTI08_07_2026_000279B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/jdu-legislators-project-nishant-kumar-as-future-bihar-cm/article71481223.ece",
+    "time": "2026-09-18T15:37:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir, Alia, Neetu perform Ganpati Visarjan, hide Raha's face: PICS inside",
+    "desc": "In a touching ceremony, Ranbir Kapoor, Alia Bhatt, and Neetu Kapoor proudly took part in Ganpati visarjan. The family engaged in the final rituals and joyfully joined the procession to send off Bappa. Dressed in a kurta, Ranbir barefooted carried the intricately decorated idol, while Alia embraced a child in her traditional outfit. The Kapoors harmoniously chanted 'Ganpati Bappa Morya', accompanied by the energetic beats of the dhol.",
+    "img": "https://static.toiimg.com/photo/msid-134338848,imgsize-436292.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-alia-bhatt-neetu-kapoor-perform-ganpati-visarjan-hide-rahas-face-while-posing-for-the-paparazzi-chant-ganpati-bappa-morya-pics-inside/articleshow/134338800.cms",
+    "time": "2026-09-18T15:37:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "KJo, Prince William discuss India's rain crisis ahead of Earthshot Prize",
+    "desc": "Karan Johar met Prince William in London ahead of the 2026 Earthshot Prize in Mumbai. The duo discussed India’s inadequate rainfall, farmers facing water stress and environmental solutions. Johar also spoke about the 15 finalists and five winners, who will each receive £1 million to scale their work and expand its impact globally.",
+    "img": "https://static.toiimg.com/photo/msid-134338795,imgsize-110677.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-meets-prince-william-in-london-ahead-of-earthshot-prize-2026-in-mumbai-duo-discuss-indias-rain-crisis-farmers-under-stress-environmental-solutions-15-finalists-and-1-million-prize-for-each-winner/articleshow/134338616.cms",
+    "time": "2026-09-18T15:34:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sports ministry reaches out to Indian diaspora in Japan amid Asian Games lodging crisis",
+    "desc": "Several athletes, including members of the Indian contingent, have complained about delays in being allotted accommodation. With no dedicated athletes' village, participants have been housed across container-style units, a docked cruise ship and hotels as organisers look to cut costs.",
+    "img": "https://static.toiimg.com/photo/msid-134338748,imgsize-223319.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/sports-ministry-reaches-out-to-indian-diaspora-in-japan-amid-asian-games-lodging-crisis/articleshow/134338677.cms",
+    "time": "2026-09-18T15:27:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI books separate accommodation for men's cricket team at Asian Games",
+    "desc": "Saikia insisted that the BCCI has faith in the local organisation committee to provide satisfactory on-ground facilities at the match venue despite reports of other Asian cricket boards raising objections about the quality of the ground",
+    "img": "https://static.toiimg.com/photo/msid-134338536,imgsize-173529.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/asian-games-bcci-books-separate-accommodation-for-mens-cricket-team-women-stay-in-games-facilities/articleshow/134338494.cms",
+    "time": "2026-09-18T15:13:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "He wrongly showed Rs 9.6 lakh EPF interest in ITR, taxman added it; ITAT gives full relief",
+    "desc": "The tribunal found that the addition could not stand in the absence of evidence that the taxpayer had actually received the amount from the Employees’ Provident Fund Organisation (EPFO), withdrawn it from his EPF account or received any corresponding credit in his bank account.",
+    "img": "https://static.toiimg.com/photo/msid-134338098,imgsize-579086.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rs-9-6-lakh-epf-interest-mistakenly-shown-by-him-in-itr-but-taxman-added-it-to-income-itat-mumbai-orders-full-relief/articleshow/134337856.cms",
+    "time": "2026-09-18T14:38:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman Khan reprimands driver after fan’s foot reportedly gets caught under car",
+    "desc": "In a recent incident that occurred during Ganpati festivities outside Ashish Shelar’s residence, Salman Khan was seen scolding his driver after a fan was hurt. Footage captured his frustration as the car pushed through a throng of fans. While some commenters criticized him, others came to his defense. Salman is also gearing up for Bigg Boss 20 and SVC63.",
+    "img": "https://static.toiimg.com/photo/msid-134337831,imgsize-437873.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-reprimands-driver-after-fans-foot-reportedly-gets-caught-under-car-during-chaos-due-to-ganpati-celebrations-netizens-react-watch-viral-video/articleshow/134337689.cms",
+    "time": "2026-09-18T14:20:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hrithik likes post slamming trolls for body-shaming Katrina",
+    "desc": "At the Ambani celebrations, Katrina Kaif caught the eye of social media, but not all attention was flattering, with body-shaming comments surfacing online. Fortunately, fan support was strong, including a like from Hrithik Roshan on an encouraging post. An Instagram creator stood up against the negativity, celebrating Katrina's impactful career as social media users compared her present visuals to older ones.",
+    "img": "https://static.toiimg.com/photo/msid-134337755,imgsize-299742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-kaif-faces-trolling-over-post-pregnancy-body-hrithik-roshan-shows-support-as-he-likes-post-calling-out-trolls-your-commentary-on-her-wont-affect-her/articleshow/134337681.cms",
+    "time": "2026-09-18T14:18:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shoojit Sircar recalls Amitabh Bachchan’s iconic 'NO' scene as Pink turns 10",
+    "desc": "Shoojit Sircar recalls the making of ‘Pink’ as the Amitabh Bachchan, Taapsee Pannu and Kirti Kulhari starrer completes 10 years. In an interview with Variety India, Sircar reveals how Bachchan’s involvement transformed the project, contributed ideas to the script and helped shape the final “no means no” sequence. The filmmaker also discusses his collaboration with the cast, writer Ritesh Shah and cinematographer Abhik Mukhopadhyay, while reflecting on the film’s lasting impact.",
+    "img": "https://static.toiimg.com/photo/msid-134337262,imgsize-118558.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shoojit-sircar-recalls-how-amitabh-bachchan-helped-shape-its-iconic-no-means-no-moment-as-taapsee-pannu-starrer-pink-clocks-10-years-he-would-read-poetry-and-we-would-listen-he-would-give-certain-ideas/articleshow/134337137.cms",
+    "time": "2026-09-18T13:46:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sehwag shines, Dravid goes ballistic as India beat Australia by seven runs",
+    "desc": "The match was reduced to 20 overs per side after rain interrupted play at the Niranjan Shah Stadium. India posted 182 for six after being sent in to bat by Aussie skipper Jack Czosnek, with Chauhan making 54 off 34 balls and Anvay, son of former India captain Rahul Dravid, scoring 38 off 18.",
+    "img": "https://static.toiimg.com/photo/msid-134337204,imgsize-69556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dravid-sehwag-and-yashbardhan-chauhan-shine-as-india-u-19-edge-australia-by-seven-runs-in-rajkot-youth-odi/articleshow/134337083.cms",
+    "time": "2026-09-18T13:45:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyadarshan says he still doesn't 'know how to make a successful film'",
+    "desc": "Filmmaker Priyadarshan candidly reveals that underlying insecurity propels his cinematic journey. Despite directing ninety-eight films, he grapples with self-doubt regarding his success. His newest endeavor, Haiwaan, featuring Akshay Kumar and Saif Ali Khan, has faced challenges at the box office, accumulating around fifteen crore rupees globally. This film revisits themes from his earlier Malayalam work, Oppam.",
+    "img": "https://static.toiimg.com/photo/msid-134337225,imgsize-556652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/im-a-very-insecure-person-priyadarshan-admits-he-still-doesnt-know-how-to-make-a-successful-film-after-98-movies-amid-akshay-kumar-and-saif-ali-khan-starrer-haiwaans-box-office-failure/articleshow/134337116.cms",
+    "time": "2026-09-18T13:44:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata gets 'footballer', but can she win TMC 'khela'? Maharashtra has a red-card warning",
+    "desc": "The Election Commission has designated new names and symbols for both Mamata Banerjee's faction and its competitor. This decision mirrors previous disputes seen in Maharashtra with Shiv Sena and NCP. The commission is now tasked with determining the rightful claim to the original TMC name and symbol, influenced heavily by recent Supreme Court decisions that prioritise organisational support in addition to electoral backing.",
+    "img": "https://static.toiimg.com/photo/msid-134336417,imgsize-1216895.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mamata-gets-footballer-but-can-she-win-tmc-khela-maharashtra-has-a-red-card-warning/articleshow/134335435.cms",
+    "time": "2026-09-18T13:31:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pilot handles Punjab turbulence with ‘no CM face’ formula; but can he carry Congress beyond winning line?",
+    "desc": "Sachin Pilot has successfully brought together key leaders of the Punjab Congress, such as Channi and Warring, as they gear up for the 2027 assembly elections. With Rahul Gandhi positioned as the prominent figure of their campaign, this strategic move is designed to counter formidable opponents like the Aam Aadmi Party. However, Pilot now faces the crucial task of maintaining this unity through to the elections.",
+    "img": "https://static.toiimg.com/photo/msid-134337258,imgsize-1018801.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/smooth-take-off-pilot-handles-punjab-turbulence-with-no-cm-face-formula-but-can-he-carry-congress-beyond-winning-line/articleshow/134336670.cms",
+    "time": "2026-09-18T13:18:01.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘Daayra’ movie review: Meghna Gulzar challenges the circle of public conscience",
     "desc": "A gritty examination of the cost of instant retribution, the police procedural, anchored by a fantastic Prithviraj Sukumaran and an unusually off-key Kareena Kapoor Khan, probes the grey area where the line between justice and vengeance blurs.",
@@ -16,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shruti-hassan-says-she-prayed-about-thousand-times-that-men-get-periods-reveals-having-pcos-it-would-be-so-collaborative-if-you-knew-what-i-was-going-through/articleshow/134336096.cms",
     "time": "2026-09-18T12:56:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Former Thodupuzha municipal chairman accuses police of framing him in drug case",
-    "desc": "George claims that while police seized drug paraphernalia from his two-wheeler, no MDMA was found. He accused certain officers with links to CPI(M) of targeting him due to his political affiliation. Idukki District Police Chief dismissed George’s allegations as baseless, asserting that the arrest was based on solid video evidence",
-    "img": "https://th-i.thgim.com/public/incoming/ablrhj/article71480828.ece/alternates/LANDSCAPE_1200/80759_18_9_2026_17_55_5_1_SANEESHGEORGE.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/former-thodupuzha-municipal-chairman-accuses-police-of-framing-him-in-drug-case/article71480740.ece",
-    "time": "2026-09-18T12:55:28.000Z"
   },
   {
     "cat": "Entertainment",
@@ -99,24 +333,6 @@ const newsData_en = [
     "time": "2026-09-18T12:19:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "U.S. national arrested by NIA under terror charges gets bail after 180-day probe deadline lapses",
-    "desc": "Court allowed Mr. Dyke’s bail application after finding that the charge sheet filed by the NIA on September 8, only invoked “piecemeal,” charges of Sections 21 and 23 of the Immigration and Foreigners Act rather than the more serious Section 18 of the Unlawful Activities (Prevention) Act (UAPA) under which Mr. Dyke was originally booked.",
-    "img": "https://th-i.thgim.com/public/news/national/u0d70o/article71199693.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/delhi-court-grants-bail-to-us-national-van-dykes-in-terror-conspiracy-case/article71480347.ece",
-    "time": "2026-09-18T12:15:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kuppam’s flowers now wilt by 8 a.m.: El Niño scorches Andhra’s flower basket, cuts output by 40%",
-    "desc": "It is September and the heat that came in March has not left Kuppam’s flower belt; flowering is four weeks late, blooms are smaller and lighter, and a half-acre that fetched ₹58,000 last August brings ₹23,000 this year",
-    "img": "https://th-i.thgim.com/public/migration_catalog/54ja7/article51693422.ece/alternates/LANDSCAPE_1200/06hynrh01-floriHY07-FLOWERS.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/kuppams-flowers-now-wilt-by-8-am-el-nino-scorches-andhras-flower-basket-cuts-output-by-40/article71479647.ece",
-    "time": "2026-09-18T11:36:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sundeep Kishan defends ‘Sigma’ co-star Faria Abdullah after success questions",
     "desc": "Actor Sundeep Kishan champions young performers against undue career scrutiny. He defended Faria Abdullah over success ratio questions, highlighting her achievements. Kishan also backed Anaswara Rajan against comparisons with fellow actors. He questioned the lack of support for Telugu talent achieving outside the industry. The film Sigma releases on October 2, marking Jason Sanjay's debut.",
@@ -124,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sundeep-kishan-defends-sigma-co-star-faria-abdullah-after-success-ratio-questions-she-has-done-so-much-by-25/articleshow/134334052.cms",
     "time": "2026-09-18T11:34:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Enrique Iglesias",
-    "desc": "According to Enrique Iglesias, significant victories often emerge from profound failures. He suggests that setbacks impart essential lessons and resilience. Accepting feelings of sadness post-failure is part of the journey. Iglesias advocates for the notion that every day is a new opportunity for growth, emphasizing that overcoming difficulties can push individuals toward remarkable personal and professional advancement.",
-    "img": "https://static.toiimg.com/photo/msid-134332732,imgsize-443189.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/quote-of-the-day-by-enrique-iglesias-my-biggest-successes-have-come-thanks-to-my-biggest-failures-if-you-dont-have-challenges-in-life-sometimes-its-difficult-to-improve-yourself-a-lesson-on-how-to-change-your-mindset-about-failing-from-the-bailando-singer/articleshow/134332061.cms",
-    "time": "2026-09-18T11:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -153,33 +360,6 @@ const newsData_en = [
     "time": "2026-09-18T11:22:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Unconstitutional, illegal, undemocratic’: Mamata after EC assigns new symbol and name",
-    "desc": "Mamata Banerjee declared the internal dispute a \"black day\" in India's democratic history. Her camp's Nandigram candidate withdrew nomination after the Election Commission froze the party name. The Election Commission assigned new names and symbols to rival Trinamool Congress factions. Banerjee's faction received \"Mamata All India Trinamool Congress\" and the \"Football Player\" symbol. Her camp will now support the Congress party in Nandigram and Assam.",
-    "img": "https://static.toiimg.com/photo/msid-134333449,imgsize-48186.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/unconstitutional-illegal-undemocratic-mamata-after-ec-assigns-new-symbol-and-name/articleshow/134332700.cms",
-    "time": "2026-09-18T11:15:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Suhas addresses ‘Mandaadi’ success meet controversy, respects Telugu fans",
-    "desc": "Actor Suhas expressed heartfelt appreciation to the Telugu audience for their steadfast support throughout his career journey. Starting from YouTube shorts to landing lead roles, he acknowledged how their acceptance of his work opened doors for him. Suhas also conveyed his gratitude for the warmth received for his film Mandaadi, vowing to persistently honor the trust and love bestowed upon him.",
-    "img": "https://static.toiimg.com/photo/msid-134333232,imgsize-126629.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/suhas-addresses-mandaadi-success-meet-controversy-with-heartfelt-note-to-telugu-fans-you-supported-me-at-every-step/articleshow/134333213.cms",
-    "time": "2026-09-18T11:00:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Vettuvam' glimpse unveils a dark world of power, blood, and survival",
-    "desc": "Director Pa Ranjith's eagerly awaited film 'Vettuvam' has teed off, showcasing a riveting world. Themes surrounding dominance, resilience, and social disparity intertwine throughout the narrative. The film stars Arya and Attakathi Dinesh in leading roles, with a score crafted by GV Prakash Kumar. 'Vettuvam' is set to deliver a genuine and impactful cinematic journey.",
-    "img": "https://static.toiimg.com/photo/msid-134333155,imgsize-94969.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/pa-ranjiths-vettuvam-glimpse-out-arya-attakathi-dinesh-sobhita-dhulipala-lead-a-dark-world-of-power-blood-and-survival-in-the-filmmakers-long-awaited-film/articleshow/134333124.cms",
-    "time": "2026-09-18T10:56:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Marathi film 'Gondhal' selected as India's official entry for Oscars 2027",
     "desc": "The Marathi film 'Gondhal' has been selected to represent India at the 99th Academy Awards. Set against the backdrop of a traditional ritual in rural Maharashtra, this film was chosen from a pool of thirty-three entries by the selection committee. Notably, it is the fourth Marathi film to earn an Oscar nomination, with the ceremony scheduled for March 14, 2027.",
@@ -187,24 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/marathi-film-gondhal-selected-as-indias-official-entry-for-oscars-2027-by-film-federation-chosen-from-33-contenders/articleshow/134332821.cms",
     "time": "2026-09-18T10:46:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Doctor’s driver ‘examines’ patients, prescribes medicines at Kanpur hospital; probe ordered",
-    "desc": "The incident came to light after a video surfaced on social media on September 16, 2026, purportedly showing a man sitting in an OPD room at the Kanshiram Hospital, speaking to patients and writing prescriptions",
-    "img": "https://th-i.thgim.com/public/incoming/rsmfiy/article71480210.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-18%20152818.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/doctors-driver-examines-patients-prescribes-medicines-at-kanpur-hospital-probe-ordered/article71480086.ece",
-    "time": "2026-09-18T10:27:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mandaadi' director Mathimaran praises Mahima Nambiar's effort",
-    "desc": "Director Mathimaran praised Mahima Nambiar for her unwavering dedication to 'Mandaadi', noting her return to filming just six days post a severe accident that required twenty stitches. He also commended Suhas for his remarkable transformation in his Tamil debut. Since its release, 'Mandaadi' has excelled at the box office, prompting the team to celebrate both its financial success and the commitment of its cast.",
-    "img": "https://static.toiimg.com/photo/msid-134332063,imgsize-145825.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mandaadi-director-mathimaran-praises-mahima-nambiar-for-returning-to-shoot-six-days-after-surgery-following-accident-and-20-stitches-says-i-am-truly-thankful-to-her/articleshow/134332050.cms",
-    "time": "2026-09-18T10:24:49.000Z"
   },
   {
     "cat": "Business",
@@ -226,39 +388,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "‘I was two inches taller’: Dev Sharma was rejected in Ranbir Kapoor's 'Ramayana'",
-    "desc": "Actor Dev Sharma, who now plays Lord Ram in 'Mahakavya Shri Ramayan Katha', has opened up about being turned down for the role of Lakshman in both 'Adipurush' and Nitesh Tiwari's 'Ramayana'. As per mid-day, Sharma revealed that height and physique differences with the actors playing Ram cost him both roles, a rejection he initially took as a sign his connection to the epic wasn't meant to be, before eventually landing his current part.",
-    "img": "https://static.toiimg.com/photo/msid-134332224,imgsize-150056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-was-two-inches-taller-than-the-actor-playing-lord-rama-dev-sharma-reveals-being-rejected-as-lakshman-in-ranbir-kapoors-ramayana-due-to-height-difference-and-in-prabhas-adipurush/articleshow/134331438.cms",
-    "time": "2026-09-18T10:14:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Deepika-Ranveer visit Siddhivinayak ahead of second baby's arrival",
     "desc": "Ranveer Singh and Deepika Padukone visited Siddhivinayak Temple for their second baby. Ranveer also visited Lalbaugcha Raja to offer thanks and seek blessings. He pledged to support the education of one thousand girls during his visit. The couple recently shared maternity photos featuring their daughter Dua. Ranveer is filming 'Pralay' while Deepika stars in 'King'.",
     "img": "https://static.toiimg.com/photo/msid-134332023,imgsize-365915.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-ranveer-singh-twin-in-purple-as-they-visit-siddhivinayak-temple-ahead-of-second-babys-arrival-couple-did-the-same-before-dua-was-born/articleshow/134331608.cms",
     "time": "2026-09-18T10:06:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "12 students injured as school van hits road divider in Jharkhand",
-    "desc": "The accident occurred on the Bhuvaneshwari Temple Road this morning when the driver lost control of the vehicle, and the school van crashed into the road divider near N. Type quarters in Telco Stadium area",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/12-students-injured-as-school-van-hits-road-divider-in-jharkhand/article71480178.ece",
-    "time": "2026-09-18T10:06:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sway DaSafo passes away at 44",
-    "desc": "London rapper Sway DaSafo has died at 44, reportedly in Ghana; cause unconfirmed. Tributes poured in from KSI, Kash Ahmad, Kadeem Ramsay, Adam Deacon, Lemar and Clara Amfo. Known for his 2005 MOBO win and Mercury-nominated album \"This Is My Demo,\" he'd battled Hodgkin Lymphoma in 2010. He leaves four children.",
-    "img": "https://static.toiimg.com/photo/msid-134331674,imgsize-137828.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sway-dasafo-passes-away-at-44-london-rapper-and-uk-hip-hop-pioneer-remembered-by-ksi-mobo-awards-and-more/articleshow/134331655.cms",
-    "time": "2026-09-18T09:55:15.000Z"
   },
   {
     "cat": "Sports",
@@ -268,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-opening-ceremony-when-and-where-to-watch-live-in-india/articleshow/134331225.cms",
     "time": "2026-09-18T09:41:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Allu Arjun, Atlee’s 'Raaka' makers tease ‘global triumph’ in latest update",
-    "desc": "'Raaka' makers have teased a mysterious “global star” joining Allu Arjun and Atlee’s sci-fi action film. The update has revived reports of Will Smith being in talks for a key role, though his casting remains unconfirmed. Starring Allu Arjun and Deepika Padukone, 'Raaka' continues to build curiosity with its secretive updates and ambitious scale.",
-    "img": "https://static.toiimg.com/photo/msid-134331019,imgsize-175090.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/raaka-is-will-smith-joining-allu-arjun-deepika-padukone-and-atlees-sci-fi-epic-makers-tease-global-triumph-in-latest-update/articleshow/134330951.cms",
-    "time": "2026-09-18T09:19:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -315,15 +441,6 @@ const newsData_en = [
     "time": "2026-09-18T08:54:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Under tight security, ‘divine umbrellas’ from Chennai reach Tirupati for Tirumala Brahmotsavams",
-    "desc": "Nine of the 11 ‘divine umbrellas’ go up to Tirumala for Saturday’s Garuda Seva and two to the Padmavati temple at Tiruchanur; security has been tight since a 2013 plot to plant bombs in them was foiled at Puttur",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/pojsqx/article71479949.ece/alternates/LANDSCAPE_1200/1.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/under-tight-security-divine-umbrellas-from-chennai-reach-tirupati-for-tirumala-brahmotsavams/article71479784.ece",
-    "time": "2026-09-18T08:33:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Definitely a shortage’: India’s Chef de Mission admits crisis, reveals additional rooms booked",
     "desc": "India's Chef de Mission acknowledged the struggle with accommodation shortages at the Asian Games. Following a reduction in their allocated rooms, the Indian contingent successfully secured more hotel spaces. Additionally, challenges arose from transport and accreditation logistics, which compounded the difficulties. An unexpected delay also affected the flag-hoisting ceremony, but India's focus continues to be on ensuring the comfort and performance of its athletes throughout the Games.",
@@ -340,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-15-live-pankaj-tripathi-ali-fazal-and-ravi-kishan-inches-closer-to-rs-205-crore-india-net-and-rs-300-crore-worldwide-gross-milestones/articleshow/134329344.cms",
     "time": "2026-09-18T07:52:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "China Coast Guard vessel rams Philippine ship on mission to aid fishermen at sea",
-    "desc": "According to the Philippine Coast Guard, the Chinese vessel made several dangerous manoeuvres before hitting the Philippine ship at around 11.13 am local time. \"The China Coast Guard deliberately rammed a civilian government vessel on a humanitarian and livelihood mission,\" the Philippine Coast Guard said. China's embassy in Manila had not immediately responded to a request for comment on the incident.",
-    "img": "https://static.toiimg.com/photo/msid-134329314,imgsize-84672.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/china-coast-guard-vessel-rams-philippine-ship-on-mission-to-aid-fishermen-at-sea/articleshow/134328835.cms",
-    "time": "2026-09-18T07:44:45.000Z"
   },
   {
     "cat": "Sports",
@@ -405,15 +513,6 @@ const newsData_en = [
     "time": "2026-09-18T06:30:58.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Nothing against sportsman spirit': Pakistan on decision to boycott Israel at Olympiad",
-    "desc": "Pakistan refused to play Israel in the opening round of the 2026 Chess Olympiad in Samarkand, handing Israel a 4-0 walkover. Pakistan’s chess federation said the decision followed the government’s policy of not recognising Israel and was also meant to show solidarity with Palestinians. Officials stressed the boycott was about state policy, not the players or sporting spirit.",
-    "img": "https://static.toiimg.com/photo/msid-134327637,imgsize-115472.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/nothing-against-sportsman-spirit-pakistan-explain-decision-to-boycott-israel-at-chess-olympiad/articleshow/134326830.cms",
-    "time": "2026-09-18T06:10:53.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. troops must prepare to fight around the moon: Trump's top military adviser",
     "desc": "Separately, the head of the Space Force's Combat Forces Command said “our potential adversaries such as the PRC are actively pursuing activities in the system, in parts of space,” referring to the People's Republic of China.",
@@ -430,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/amid-tata-group-power-struggle-shapoor-mistry-backs-rbis-call-on-tata-sons-listing-full-text-of-statement/articleshow/134327302.cms",
     "time": "2026-09-18T06:02:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Buttler dethrones Pollard to become No. 1 T20 run-scorer, first to score 15000 runs",
-    "desc": "In an impressive display of talent, Jos Buttler has carved his name in T20 cricket history as the first player to exceed fifteen thousand runs. This momentous achievement sets him apart from Kieron Pollard, the previous record-holder. Moreover, his remarkable performance contributed to England's victory over Sri Lanka, winning the series by six wickets with ample overs left to play.",
-    "img": "https://static.toiimg.com/photo/msid-134327027,imgsize-107980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jos-buttler-dethrones-keiron-pollard-to-become-no-1-t20-run-scorer-first-to-score-15000-runs/articleshow/134326569.cms",
-    "time": "2026-09-18T05:44:19.000Z"
   },
   {
     "cat": "World",
@@ -468,15 +558,6 @@ const newsData_en = [
     "time": "2026-09-18T04:55:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘He has to wait’: Gambhir’s message to Sooryavanshi as teenage sensation watches on",
-    "desc": "India coach Gautam Gambhir stressed patience for young Vaibhav Sooryavanshi's senior team opportunities. Established players' consistent performances will always precede new talent entering the squad. Gambhir found Sanju Samson's exclusion from the England series a difficult coaching decision. Samson repaid faith with half-centuries, while Abhishek Sharma achieved a record score. The team prioritized the World Cup winning opening combination for consistency.",
-    "img": "https://static.toiimg.com/photo/msid-134326249,imgsize-57388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/he-has-to-wait-gautam-gambhirs-message-to-vaibhav-sooryavanshi-as-teenage-sensation-watches-on/articleshow/134326185.cms",
-    "time": "2026-09-18T04:52:40.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
     "desc": "The figures offer one of the most detailed public windows into ​how leading companies in ‌the industry are developing the technology amid growing concern that AI could soon reach a point at which it could feed its own development with little input from ‌humans",
@@ -493,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/us-government-website-used-ai-search-tool-from-china-that-fbi-said-copied-anthropic/article71479341.ece",
     "time": "2026-09-18T03:58:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How India’s Asian Games medal story has changed over two decades",
-    "desc": "India's Asian Games medal tally has consistently surpassed fifty medals in recent editions. Hangzhou saw India achieve its highest-ever medal haul, crossing one hundred medals. This success reflects a broader sporting ecosystem with medals from multiple disciplines. Olympic performance also shows progress with multiple medals in five consecutive games. India's sporting floor is rising, indicating sustained improvement and future potential.",
-    "img": "https://static.toiimg.com/photo/msid-134323792,imgsize-260373.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/the-peaks-are-higher-the-floor-is-rising-how-indias-asian-games-medal-story-has-changed-over-two-decades/articleshow/134323671.cms",
-    "time": "2026-09-18T01:55:18.000Z"
   },
   {
     "cat": "World",
@@ -675,42 +747,6 @@ const newsData_en = [
     "time": "2026-09-17T05:22:20.000Z"
   },
   {
-    "cat": "World",
-    "title": "Guterres",
-    "desc": "We have geopolitical divides, and in these geopolitical divides, we have powers that themselves violate international law and sit in the Security Council; that has been paralysing the Security Council, as we know, said António Guterres",
-    "img": "https://th-i.thgim.com/public/incoming/ez9pov/article71475292.ece/alternates/LANDSCAPE_1200/2026-09-16T163315Z_579928687_RC2QXKA4XP9K_RTRMADP_3_SUDAN-POLITICS-UN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/global-powers-that-themselves-violate-international-law-sit-in-security-council-guterres/article71475285.ece",
-    "time": "2026-09-17T05:10:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. House of Representatives to take up Russia sanctions bill next week",
-    "desc": "Ukrainian civilians continue to be killed by Putin’s war machine, and this bill hits the Kremlin’s coffers hard; Now is the time to pass it and force Putin to the negotiating table, said Senate Foreign Relations ranking member Jeanne Shaheen",
-    "img": "https://th-i.thgim.com/public/incoming/8x2ra7/article71461192.ece/alternates/LANDSCAPE_1200/Army_Drones_52948.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-house-of-representatives-to-take-up-russia-sanctions-bill-next-week/article71461175.ece",
-    "time": "2026-09-17T03:42:27.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. lawmaker submits amendment naming India in Russia sanctions act",
-    "desc": "The Lindsey O Graham Sanctioning Russia and Iran Act, passed by the U.S. Senate by an overwhelming 86-11 vote last month, seeks to impose sanctions not only on Russia's leadership and energy sector but also on the \"shadow fleet\" of vessels that enable Moscow to evade sanctions on oil deliveries.",
-    "img": "https://th-i.thgim.com/public/incoming/2fn7vk/article71466532.ece/alternates/LANDSCAPE_1200/2026-09-12T134140Z_1399024278_RC2PHNAJ1813_RTRMADP_3_BRICS-SUMMIT.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act/article71466531.ece",
-    "time": "2026-09-17T03:38:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. House advances Russia sanctions Bill that seeks 100% tariffs on India, others; set for final vote",
-    "desc": "The resolution to advance the Russia sanctions Bill and a slew of other legislations was approved by a 214-211 vote, shocking the House Democratic leadership. The Bill is expected to come up for a final vote in the House on September 16",
-    "img": "https://th-i.thgim.com/public/incoming/ydmapq/article71470873.ece/alternates/LANDSCAPE_1200/2026-07-02T115057Z_1326133511_RC2OFKAY4WTB_RTRMADP_3_RUSSIA-OIL-TAX.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/russia-sanctions-bill-advances-in-us-house-india-tariffs-final-vote/article71470872.ece",
-    "time": "2026-09-17T03:37:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Chennai mall set to host 12 teams, 168 players",
     "desc": "Chennai’s Express Avenue Mall turns sporting arena this weekend as the Tamil Nadu Pickleball Premier League returns for its second season, with 168 players and actors Vikram, Varalaxmi Sarathkumar and Keerthy Pandian among the celebrity team owners backing the sport",
@@ -729,15 +765,6 @@ const newsData_en = [
     "time": "2026-09-17T00:18:57.000Z"
   },
   {
-    "cat": "Business",
-    "title": "FM urges industry to look beyond rate cuts to compliance and revenue; calls for robust tax policy research",
-    "desc": "Drawing comparisons with institutions such as the Institute for Fiscal Studies in the UK and the International Bureau of Fiscal Documentation in Amsterdam, Sitharaman said India needed more visible and rigorous independent tax policy research",
-    "img": "https://th-i.thgim.com/public/incoming/weqakl/article71473051.ece/alternates/LANDSCAPE_1200/20260916056L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/fm-urges-industry-to-look-beyond-rate-cuts-to-compliance-revenue-calls-for-robust-tax-policy-research/article71472456.ece",
-    "time": "2026-09-16T14:36:52.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘If I were a chicken, I would eat humans’: György Pálfi on the eight-chicken ensemble in ‘Hen’ and making films under Viktor Orbán",
     "desc": "The Hungarian filmmaker talks about the eight chickens who share the role of his leading lady in ‘Hen’, the politics that have shaped who gets to make films in Hungary, and the advantages of knowing your dinner extremely well",
@@ -745,15 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/hungarian-filmmaker-gyorgy-palfi-on-the-eight-chicken-ensemble-in-hen-and-making-films-under-viktor-orban/article71471806.ece",
     "time": "2026-09-16T11:33:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2027 auction likely to return to India, says league chairman Arun Dhumal",
-    "desc": "Every year we try for this to happen in India, but we don't get the venue given the heavy marriage season. So, we definitely want it to be here this year, given that it would be a smaller auction and hopefully we will get the venue, Arun Dhumal said",
-    "img": "https://th-i.thgim.com/public/incoming/5o0d8n/article71472146.ece/alternates/LANDSCAPE_1200/VIS_4155.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ipl-2027-auction-likely-to-return-to-india-says-league-chairman-arun-dhumal/article71472108.ece",
-    "time": "2026-09-16T11:15:24.000Z"
   },
   {
     "cat": "Tech",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
     "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
   }
 ];
