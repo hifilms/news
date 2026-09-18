@@ -1,5 +1,221 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "25 years on, Konaseema Railway Line project yet to get on track",
+    "desc": "The ambitious 57-km Kotipalli–Narsapur railway line—which includes three bridges across the mighty Godavari River—still hangs fire 25 years after its foundation stone was laid. Locals rue successive governments’ silence on bringing a train to Konaseema, with many blaming lack of political will among the elected representatives from the Godavari region, despite severe losses to trade, commerce, tourism, and connectivity. T. Appala Naidu explores the reasons behind the project’s delay.",
+    "img": "https://th-i.thgim.com/public/incoming/vi4f7b/article71477953.ece/alternates/LANDSCAPE_1200/10237_17_9_2026_18_1_50_1_5.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/25-years-on-konaseema-railway-line-project-yet-to-get-on-track/article71476791.ece",
+    "time": "2026-09-18T02:29:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman Khan folds his hands as the crowd surrounds him after Ganpati darshan",
+    "desc": "Salman Khan visited Ashish Shelar's Ganpati pandal in Mumbai on Thursday. A large crowd gathered, making it difficult for the actor to reach his car. He calmly requested people to make way while security personnel escorted him. Salman Khan also noticed and briefly interacted with children in the crowd. The actor has been actively participating in Ganesh Chaturthi festivities with his family.",
+    "img": "https://static.toiimg.com/photo/msid-134324038,imgsize-203942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-folds-his-hands-as-the-crowd-surrounds-him-after-ganpati-darshan-asks-security-to-protect-children-as-young-fans-gather-to-catch-his-glimpse/articleshow/134324017.cms",
+    "time": "2026-09-18T02:20:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress says U.S. law on Russian oil purchase is an ‘affront’ to India’s sovereignty",
+    "desc": "The government is projecting the recently concluded BRICS Summit’s joint declaration as a symbol of the world’s trust in India, but is now facing ‘aggressive bullying from a strategic partner’, party general secretary K.C. Venugopal says",
+    "img": "https://th-i.thgim.com/public/incoming/2v3ek7/article71477737.ece/alternates/LANDSCAPE_1200/18th-PHUKAN-DelGKIG94H1N.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-says-us-law-on-russian-oil-purchase-is-an-affront-to-indias-sovereignty/article71477239.ece",
+    "time": "2026-09-18T02:13:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Allu Aravind says MS Subbulakshmi ‘chose’ Rashmika",
+    "desc": "Rashmika Mandanna will portray MS Subbulakshmi in an upcoming biopic directed by Gowtam Tinnanuri. Producer Allu Aravind stated that MS Subbulakshmi herself chose Mandanna for this role. Actor Kamal Haasan acknowledged the significant pressure associated with this challenging portrayal. Previously, Sai Pallavi and Rukmini Vasanth were linked to the biopic project. This new film follows an earlier dropped attempt with Vidya Balan.",
+    "img": "https://static.toiimg.com/photo/msid-134323925,imgsize-287686.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-aravind-says-ms-subbulakshmi-chose-rashmika-mandanna-kamal-haasan-backs-her-casting-you-have-to-do-it-bravely/articleshow/134323898.cms",
+    "time": "2026-09-18T02:10:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Millie and Jake adopt a baby boy; share FIRST PIC",
+    "desc": "Millie Bobby Brown and Jake Bongiovi confirmed the arrival of their second child. The couple shared the happy news on social media, revealing their baby is a boy. This marks their second adoption, after welcoming their daughter in August 2025. They began dating in 2021 and married in 2024. The couple has kept their daughter out of the public eye.",
+    "img": "https://static.toiimg.com/photo/msid-134323724,imgsize-268485.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/millie-bobby-brown-and-jake-bongiovi-adopt-a-baby-boy-share-first-glimpse-in-cute-family-photo-pic/articleshow/134323716.cms",
+    "time": "2026-09-18T02:06:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How India’s Asian Games medal story has changed over two decades",
+    "desc": "India's Asian Games medal tally has consistently surpassed fifty medals in recent editions. Hangzhou saw India achieve its highest-ever medal haul, crossing one hundred medals. This success reflects a broader sporting ecosystem with medals from multiple disciplines. Olympic performance also shows progress with multiple medals in five consecutive games. India's sporting floor is rising, indicating sustained improvement and future potential.",
+    "img": "https://static.toiimg.com/photo/msid-134323792,imgsize-260373.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/the-peaks-are-higher-the-floor-is-rising-how-indias-asian-games-medal-story-has-changed-over-two-decades/articleshow/134323671.cms",
+    "time": "2026-09-18T01:55:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prince Harry makes first statement after UK move without Meghan Markle",
+    "desc": "Last Thursday, Prince Harry made a solo appearance at an Invictus event in London, expressing his joy at returning to British soil. Having moved back to the UK with Meghan Markle last month, their children, Archie and Lilibet, have already begun their new school journey. The family’s six-year stay in Montecito, California, now feels like a chapter closed.",
+    "img": "https://static.toiimg.com/photo/msid-134323758,imgsize-475216.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/prince-harry-makes-his-first-official-statement-since-moving-to-the-uk-with-meghan-markle-and-their-children/articleshow/134323742.cms",
+    "time": "2026-09-18T01:44:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Irumudi' to 'Thudakkam': South OTT releases",
+    "desc": "South Indian OTT platforms welcome several new film releases this Friday. 'Thudakkam' marks Vismaya Mohanlal's acting debut in a thrilling narrative. Ravi Teja stars in 'Irumudi', a father's search for his missing daughter. 'Modha Rathri' and 'Ram And Leela' explore arranged and romantic relationships respectively. 'Idi Mazha Kaattu' connects diverse lives through a migrant woman's search.",
+    "img": "https://static.toiimg.com/photo/msid-134323709,imgsize-492597.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/irumudi-thudakkam-to-ram-and-leela-south-ott-releases-this-week/articleshow/134323695.cms",
+    "time": "2026-09-18T01:39:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mirzapur The Movie' box office collections day 14; Pankaj Tripathi film holds at Rs 3.75 cr",
+    "desc": "Mirzapur The Movie has shown impressive earnings, pulling in Rs 3.75 crore on its fourteenth day. After two weeks, the film's total net collection in India has reached Rs 203.20 crore, while overseas markets added Rs 75 lakh on the same day. Its worldwide gross now totals Rs 291.89 crore. Meanwhile, the Delhi High Court raised concerns about the use of a song during a particularly violent scene.",
+    "img": "https://static.toiimg.com/photo/msid-134323613,imgsize-321218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collections-day-14-pankaj-tripathi-film-holds-at-rs-3-75-cr-india-net-crosses-rs-200-cr-worldwide-gross-rs-291-89-cr/articleshow/134323608.cms",
+    "time": "2026-09-18T01:14:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 1995, Pierce Brosnan and his wife fought a conglomerate for a grey whale nursery",
+    "desc": "Pierce Brosnan and Keely Shaye Smith took a stand against a conglomerate's proposal to construct a saltworks facility in Mexico, threatening a crucial grey whale nursery. Their dedication ignited a global movement involving celebrities and environmental advocates, leading to the project's cancellation. As a result, Laguna San Ignacio has been designated a UNESCO World Heritage site, safeguarding this essential habitat for future generations.",
+    "img": "https://static.toiimg.com/photo/msid-134323602,imgsize-507973.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1995-james-bond-star-pierce-brosnan-and-his-wife-fought-a-giant-saltworks-beside-a-grey-whale-nursery-in-2000-mexico-abandoned-the-project/articleshow/134323590.cms",
+    "time": "2026-09-18T01:11:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "JLo's lookalike arrested; mugshot goes viral",
+    "desc": "A Minnesota woman's mugshot has gained significant online attention. Social media users noted her striking resemblance to Hollywood star Jennifer Lopez. She was arrested for allegedly stealing power-tool batteries worth approximately USD 580. The woman admitted to the theft and faced a gross misdemeanor charge. Her booking photograph quickly captured the internet's imagination and sparked comparisons.",
+    "img": "https://static.toiimg.com/photo/msid-134323439,imgsize-212433.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-lopez-lookalikes-mugshot-goes-viral-after-shoplifting-arrest-fans-react/articleshow/134323375.cms",
+    "time": "2026-09-18T01:05:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Parvathy Thiruvothu recalls father's advice on marriage",
+    "desc": "Actor Parvathy Thiruvothu reflects on her father's wisdom regarding marriage and owning a home. At just twenty-five, she purchased her first house, effectively quelling any further conversations about her marital status. Parvathy emphasizes that marriage should be driven by personal choice rather than social expectations. Although she has enjoyed meaningful relationships, none have culminated in marriage. Currently, her film 'Prathamadhrishtya Kuttakkar' is enjoying a successful run in theaters.",
+    "img": "https://static.toiimg.com/photo/msid-134323572,imgsize-197195.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/parvathy-thiruvothu-reveals-why-she-chose-to-buy-her-first-house-when-father-asked-her-to-consider-marriage-at-25-after-that-my-parents-never-mentioned-it-again/articleshow/134323566.cms",
+    "time": "2026-09-18T01:00:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why was Shahzad Bhatti Network designated as a terrorist group under UAPA?",
+    "desc": "The Union Ministry of Home Affairs (MHA) said in a notification that the Shahzad Bhatti Network (SBN), through its terrorist activities, poses a “serious threat to the democratic system, communal harmony, and internal security of the country”",
+    "img": "https://th-i.thgim.com/public/incoming/9mtdil/article71475638.ece/alternates/LANDSCAPE_1200/Shahzad%20Bhatti.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-was-shahzad-bhatti-network-designated-as-a-terrorist-group-under-uapa-explained/article71475616.ece",
+    "time": "2026-09-18T00:44:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu must change mindset, allow Hindi in schools: SC",
+    "desc": "The Supreme Court has urged Tamil Nadu to rethink its position on Hindi education, emphasizing that states should not operate like separate nations. The bench called for discussions with the Centre about Navodaya Vidyalayas. Tamil Nadu's resistance is based on its two-language policy that diverges from this approach. The hearing is set to resume in December.",
+    "img": "https://static.toiimg.com/photo/msid-134323508,imgsize-103924.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tn-must-change-mindset-allow-hindi-in-schools-sc/articleshow/134323503.cms",
+    "time": "2026-09-18T00:44:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Irumudi' BO day 28: Ravi Teja film at Rs 95 lakhs",
+    "desc": "Ravi Teja's film 'Irumudi' earned Rs 95 lakhs on its twenty-eighth day. The movie's India net collection has now reached Rs 186.10 crore. Its worldwide gross collection stands at Rs 238.65 crore after overseas contributions. Yash's film 'Toxic' also shows strong box office performance in India. 'Toxic' has accumulated Rs 297.92 crore in India gross collections.",
+    "img": "https://static.toiimg.com/photo/msid-134323485,imgsize-315126.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/irumudi-box-office-collections-day-28-ravi-teja-film-holds-at-rs-95-lakhs-amid-ott-release-india-net-at-rs-186-10-cr/articleshow/134323483.cms",
+    "time": "2026-09-18T00:38:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'My biggest bet would surely be the doubles’: Neha on India’s TT medal hopes at Asiad",
+    "desc": "India’s table tennis team has moved from being satisfied with a close loss to China to entering the Asian Games with a world No. 3 men’s doubles pair. Neha Aggarwal Sharma believes the change in mindset is visible, but says India still needs another generation to consistently challenge China, Japan and Korea. She also identifies mixed doubles, men’s and women’s doubles as India’s genuine medal chances and discusses Manika Batra’s absence.",
+    "img": "https://static.toiimg.com/photo/msid-134318614,imgsize-111039.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-my-biggest-bet-would-surely-be-the-doubles-neha-aggarwal-sharma-on-indias-table-tennis-medal-hopes/articleshow/134318539.cms",
+    "time": "2026-09-18T00:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek leaves Sooryavanshi chasing as six-hitting race takes a twist",
+    "desc": "Abhishek Sharma added 11 more sixes to his tally on Thursday, smashing 108 off just 34 balls against Afghanistan in the third and final T20I at the Arun Jaitley Stadium in Delhi. His breathtaking knock included a 30-ball century, the fastest T20I hundred by an Indian batter. It was also the fastest century by a batter from a Full Member nation against another Full Member nation.",
+    "img": "https://static.toiimg.com/photo/msid-134317459,imgsize-57089.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharma-vs-vaibhav-sooryavanshi-who-is-winning-the-six-hitting-battle/articleshow/134317246.cms",
+    "time": "2026-09-18T00:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bombay HC seeks Maharashtra govt. reply on Malegaon Deputy Mayor's plea against removing Tipu portrait from her office",
+    "desc": "Nilesh Kakade, the Leader of the Opposition Shiv Sena (Eknath Shinde) party in the Malegaon Municipal Corporation, complained about the particular portrait of Tipu Sultan in the office building of the corporation, the petition states",
+    "img": "https://th-i.thgim.com/public/incoming/cs424m/article71479178.ece/alternates/LANDSCAPE_1200/IMG_vbk-BOMBAY-HC_5_1_RQ8PJ5BE%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/bombay-hc-seeks-maharashtra-govt-reply-on-malegaon-deputy-mayors-plea-against-removing-tipu-portrait-from-her-office/article71477381.ece",
+    "time": "2026-09-18T00:24:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mandaadi' BO day 8 vs 'Sardar 2'",
+    "desc": "Mandaadi has impressively garnered over Rs 3.25 crore net on its eighth day, bringing its total net collections in India to Rs 57.30 crore. Meanwhile, Sardar 2 managed to collect Rs 66 lakh net on the same day, culminating in a total of Rs 15.21 crore in India. Both films remain in theaters, fiercely competing for box office supremacy.",
+    "img": "https://static.toiimg.com/photo/msid-134323446,imgsize-294928.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mandaadi-box-office-collection-day-8-vs-sardar-2-soori-film-records-7-1-decline-worldwide-gross-reaches-rs-79-93-cr/articleshow/134323441.cms",
+    "time": "2026-09-18T00:22:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Hanuman Ansh' box office collection day 42: Shobhinaw Satyaa's film rise 4.2%",
+    "desc": "Hanuman Ansh continues its strong box office performance on day forty-two. The spiritual drama recorded a net collection of Rs 6.25 crore in India. This latest figure marked a 4.2% rise over the previous day's earnings. The film has now accumulated Rs 243.38 crore in India net collections. Its worldwide gross collection has reached Rs 309.15 crore.",
+    "img": "https://static.toiimg.com/photo/msid-134323443,imgsize-260359.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-42-shobhinaw-satyaa-vihaan-shedge-film-sees-4-2-rise-worldwide-gross-hits-rs-309-15-cr/articleshow/134323437.cms",
+    "time": "2026-09-18T00:20:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bethlehem Kudumba Unit' BO day 28 vs 'I'm Game'",
+    "desc": "On its twenty-eighth day in theaters, Bethlehem Kudumba Unit experienced a decline in box office earnings, garnering one crore five lakhs on September seventeenth. To date, its net collection in India has achieved one hundred fifty-two point two zero crores, with overseas earnings reaching one hundred thirty-six point two zero crores. Overall, the film's worldwide gross now totals three hundred thirteen point ninety-two crores.",
+    "img": "https://static.toiimg.com/photo/msid-134323397,imgsize-413159.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-collection-day-28-vs-im-game-nivin-pauly-film-drops-16-0-mamitha-baiju-film-mints-rs-313-92-cr-worldwide/articleshow/134323390.cms",
+    "time": "2026-09-18T00:04:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma opens up on Gill-Gambhir backing after record 30-ball century",
+    "desc": "Abhishek Sharma made the most of that freedom on Thursday, smashing a record 30-ball century against Afghanistan in the third and final T20I in Delhi. His 108 off 34 balls, which included 11 sixes, helped India post 221/7 and complete a 3-0 series sweep with a 127-run win.",
+    "img": "https://static.toiimg.com/photo/msid-134318947,imgsize-35678.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/very-important-for-captain-and-coach-to-be-on-your-side-abhishek-sharma-on-shubman-gill-gautam-gambhir-backing/articleshow/134318856.cms",
+    "time": "2026-09-18T00:00:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Poland warns Russia planning drone or rocket strikes on NATO territory, says attacks will be called ‘accidental’",
+    "desc": "Polish PM also announced he would travel to Ukraine overnight to September 18, in what can be seen as an act of defiance against Russia after European leaders narrowly escaped a drone strike on a train near the Polish-Ukrainian border early in the week",
+    "img": "https://th-i.thgim.com/public/incoming/7537zr/article71478397.ece/alternates/LANDSCAPE_1200/Poland_Russia_12747.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/poland-warns-russia-planning-drone-or-rocket-strikes-on-nato-territory-says-attacks-will-be-called-accidental/article71478396.ece",
+    "time": "2026-09-17T23:36:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jemima shares STUNNING pics from her wedding",
+    "desc": "Jemima Goldsmith shared stunning photos from her wedding to Cameron O'Reilly. The intimate ceremony occurred on Saturday, September 12, with family and close friends present. Jemima wore an Oscar de la Renta gown while her sons walked her down the aisle. Her stepdaughter and Cameron's daughters also participated in the bridal party. The wedding follows her mother's death and amid concerns over Imran Khan's health.",
+    "img": "https://static.toiimg.com/photo/msid-134323208,imgsize-385985.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jemima-goldsmith-shares-stunning-wedding-photos-with-cameron-oreilly-sons-with-imran-khan-walk-her-down-the-aisle-pics/articleshow/134323190.cms",
+    "time": "2026-09-17T23:35:58.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Kim hospitalised with condition linked to father's demise",
     "desc": "Kim Kardashian was hospitalized with esophagitis, a condition affecting the esophagus. This health issue gained attention due to her father's death from esophageal cancer. Her family is preparing for a new season of their reality television series. Kim is also reportedly dating Formula 1 driver Lewis Hamilton. The couple has been seen together publicly and on social media.",
@@ -34,6 +250,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lady-gaga-and-michael-polansky-welcome-baby-girl-name-birth-date-revealed/articleshow/134321059.cms",
     "time": "2026-09-17T21:48:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The new BJP team’s piecemeal reset",
+    "desc": "Apart from the usual distribution of organisational berths to poll-going States, caste groups, and other demographics of sex and age, the new BJP team reflects the party’s attempts at a reset. Nistula Hebbar reports on how three terms in power have brought both the pieties of the past and anxieties of the future into focus",
+    "img": "https://th-i.thgim.com/public/incoming/t1sso3/article71475671.ece/alternates/LANDSCAPE_1200/PTI08_23_2026_000635B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/the-new-bjp-teams-piecemeal-reset/article71475657.ece",
+    "time": "2026-09-17T21:41:33.000Z"
   },
   {
     "cat": "Business",
@@ -91,12 +316,30 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "Charting a smooth path for hosts & guests",
+    "desc": "As homestays mushroom across Karnataka’s tourist destinations, safety concerns and unauthorised establishments are putting the sector under scrutiny. The Tourism Department is now moving to streamline registrations, tighten regulations, and bring a new Bed & Breakfast policy, writes Rashmi Patil",
+    "img": "https://th-i.thgim.com/public/incoming/art6cn/article71477362.ece/alternates/LANDSCAPE_1200/_DSC3152.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/charting-a-smooth-path-for-hosts-guests/article71454594.ece",
+    "time": "2026-09-17T19:37:35.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "‘May your service be accompanied by good health’: Bangladesh PM Rahman wishes PM Modi on birthday",
     "desc": "Bangladesh's Prime Minister Tarique Rahman warmly wished Narendra Modi on his birthday, showcasing Dhaka’s intent to improve its fraught relationship with India. The occasion was marked by messages from various world leaders and leaders from India’s opposition as well. To commemorate, the Bharatiya Janata Party kicked off a series of service activities throughout the month, with well-known figures from the film industry also sharing their best wishes.",
     "img": "https://static.toiimg.com/photo/msid-134320771,imgsize-97696.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/may-your-service-be-accompanied-by-good-health-bangladesh-pm-rahman-wishes-pm-modi-on-birthday/articleshow/134320743.cms",
     "time": "2026-09-17T19:34:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "rehabilitation fails to solve problems of  P&T Apartment Complex residents in Kochi",
+    "desc": "Residents of the apartment complex, who were rehabilitated to the building from the banks of a city canal, complain that their miseries are far from over. Their troubles range from leaking toilets to an unsteady 25,000-litre concrete water tank on the open terrace to severe water shortage",
+    "img": "https://th-i.thgim.com/public/incoming/1omz39/article71477083.ece/alternates/LANDSCAPE_1200/PT_apartment_04.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/a-dream-shattered-rehabilitation-fails-to-solve-problems-of-pt-apartment-complex-residents-in-kochi/article71473275.ece",
+    "time": "2026-09-17T19:32:18.000Z"
   },
   {
     "cat": "World",
@@ -108,6 +351,15 @@ const newsData_en = [
     "time": "2026-09-17T19:25:26.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Cold blood, hot streak: Elena Rybakina’s US Open triumph and her quiet rise to World No. 1",
+    "desc": "An Achilles injury, just four days of practice, and a final against the top seed and two-time defending champion... Rybakina’s path to the US Open title was anything but simple. However, her tennis made it look that way. In the process, she ascended to the top of the world rankings.",
+    "img": "https://th-i.thgim.com/public/incoming/xh1scf/article71478166.ece/alternates/LANDSCAPE_1200/GettyImages-2294476120.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/elena-rybakina-world-no-1-us-open-2026-rise-sabalenka-analysis-stats/article71478154.ece",
+    "time": "2026-09-17T19:14:29.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Ranveer Singh visits Lalbaugcha Raja, seeks blessings of Lord Ganesha",
     "desc": "Actor Ranveer Singh visited Mumbai's Lalbaugcha Raja seeking divine blessings. He is currently occupied with shooting his upcoming zombie thriller film Pralay. The actor was last seen in the highly successful movie Dhurandhar The Revenge. Ranveer Singh and his wife Deepika Padukone are expecting their second child soon. Their first child, daughter Dua, was born in September 2024.",
@@ -115,6 +367,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-seeks-lord-ganeshas-blessings-at-lalbaugcha-raja-as-he-gears-up-to-become-a-father-again-watch-videos/articleshow/134320228.cms",
     "time": "2026-09-17T18:58:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "HAL cannot do everything alone, private sector crucial to aerospace ecosystem: CMD Ravi K.",
+    "desc": "HAL has 25 Tejas Mk1 airframes ready, but delivery to the IAF is late due to delays in engine supplies from GE, says CMD; also awaiting commercial proposal from GE for the engine to power the LCA Mk2",
+    "img": "https://th-i.thgim.com/public/incoming/lat19a/article71478124.ece/alternates/LANDSCAPE_1200/HHN7KlIa4AAqdKd.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/hal-cannot-do-everything-alone-private-sector-crucial-to-aerospace-ecosystem-cmd-ravi-k/article71477254.ece",
+    "time": "2026-09-17T18:18:01.000Z"
   },
   {
     "cat": "Entertainment",
@@ -144,24 +405,6 @@ const newsData_en = [
     "time": "2026-09-17T17:33:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Bridgerton' star Phoebe Dynevor marries Cameron Fuller in DREAMY FRENCH WEDDING",
-    "desc": "Phoebe Dynevor tied the knot with Cameron Fuller, a film producer, in a picturesque setting in Provence on September 5, 2026. The actress shared stunning monochrome photos capturing the essence of their special day. Dynevor dazzled in a unique Louis Vuitton bridal gown, emphasizing her elegant style. The couple, who got engaged in May 2024, started dating in early 2023, marking a beautiful chapter in the Bridgerton star's life.",
-    "img": "https://static.toiimg.com/photo/msid-134318016,imgsize-672881.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bridgerton-star-phoebe-dynevor-marries-cameron-fuller-in-dreamy-french-wedding-shares-first-pics/articleshow/134317916.cms",
-    "time": "2026-09-17T17:18:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre tells states to act against unauthorised stem cell therapy",
-    "desc": "The Union health ministry has directed states to act against unauthorized stem cell therapy. It reiterated that such treatments are only for approved disease conditions. Stem cell therapy for autism spectrum disorder must remain restricted to clinical trials. Non-compliance with these directions can attract professional misconduct and penalties. Authorities must ensure unproven stem cell interventions are not offered outside the regulatory framework.",
-    "img": "https://static.toiimg.com/photo/msid-134317940,imgsize-130150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/centre-tells-states-to-act-against-unauthorised-stem-cell-therapy/articleshow/134317887.cms",
-    "time": "2026-09-17T17:13:31.000Z"
-  },
-  {
     "cat": "World",
     "title": "China opposes U.S. sanctions bill, says will not accept 'long-arm jurisdiction'",
     "desc": "The U.S. House of Representatives passed the Lindsey O Graham Sanctioning Russia and Iran Act 2026 that authorises Donald Trump to impose sanctions on Russia and steep tariffs on its leading trading partners such as India and China",
@@ -187,24 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/she-first-willed-her-79-square-yards-land-to-her-younger-sister-then-revoked-it-second-will-gave-it-to-her-adopted-daughter-why-punjab-haryana-hc-upheld-it/articleshow/134316961.cms",
     "time": "2026-09-17T16:35:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir, Alia celebrate Ganesh Chaturthi 2026 at home; festive PICS go viral",
-    "desc": "In 2026, Ranbir Kapoor and Alia Bhatt warmly celebrated Ganesh Chaturthi at their residence. They welcomed jewellery chairman Saurabh Gadgil, who shared intriguing stories from their discussion. Looking ahead, the couple will grace the screen together in 'Love & War' and 'Brahmastra Part Two', while Alia gears up for 'Tumbbad 2' and Ranbir takes on the epic 'Ramayana' and 'Animal Park' under Sandeep Reddy Vanga.",
-    "img": "https://static.toiimg.com/photo/msid-134316986,imgsize-768419.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-alia-bhatt-celebrate-ganesh-chaturthi-2026-at-home-festive-pics-from-krishnaraj-bungalow-go-viral/articleshow/134316955.cms",
-    "time": "2026-09-17T16:31:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did Konkona-Amol make relationship official? Netizens call it hard launch: WATCH",
-    "desc": "Konkona Sen Sharma delighted fans with a fun-filled video in celebration of Amol Parashar's birthday, leading to swirling rumors about their relationship status. Their playful exchange caught the attention of many, prompting speculation of a romantic connection. Dating rumors have surrounded the duo since 2025 following their collaboration in 'Dolly Kitty Aur Woh Chamakte Sitare'. Amol has previously reacted to the conjectures about his personal life.",
-    "img": "https://static.toiimg.com/photo/msid-134316711,imgsize-247690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/konkona-sen-sharma-and-amol-parashars-relationship-official-actress-birthday-reel-for-him-sparks-speculations-netizens-call-it-hard-launch-finally/articleshow/134316620.cms",
-    "time": "2026-09-17T16:17:19.000Z"
   },
   {
     "cat": "Sports",
@@ -234,15 +459,6 @@ const newsData_en = [
     "time": "2026-09-17T15:40:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Brad Pitt lost Ines de Ramon at Taylor Swift and Travis Kelce's wedding",
-    "desc": "Brad Pitt has revealed a funny moment from Taylor Swift and Travis Kelce’s lavish wedding at Madison Square Garden. The actor said he briefly lost girlfriend Ines de Ramon on the dance floor during the 10-to-12-hour celebration. Pitt recalled that other guests helped him locate her, while praising the wedding as thoughtful, moving and great fun.",
-    "img": "https://static.toiimg.com/photo/msid-134316184,imgsize-112714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-reveals-he-briefly-lost-ines-de-ramon-on-dance-floor-at-taylor-swift-and-travis-kelces-12-hour-madison-square-garden-wedding-guests-helped-him-locate-her/articleshow/134316097.cms",
-    "time": "2026-09-17T15:36:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Abhishek Sharma pulls off yoga celebration after smashing fastest T20I century",
     "desc": "Abhishek Sharma smashed the fastest T20I century by an Indian batter, reaching the milestone in just 30 balls during the third and final T20I at the Arun Jaitley Stadium. Abhishek smashed 11 sixes and nine fours during his 108-run whirlwind knock off just 34 balls as he broke former India captain Rohit Sharma's record for the fastest T20I century by an Indian.",
@@ -250,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharma-pulls-off-yoga-celebration-after-smashing-fastest-t20i-century-by-indian-watch/articleshow/134315875.cms",
     "time": "2026-09-17T15:18:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pa. Ranjith announces first pan-India film ‘Vettuvam’",
-    "desc": "Filmmaker Pa. Ranjith is set to unveil his much-anticipated pan-India film, 'Vettuvam', which showcases a Mallakhamba pole on its poster, hinting at a theme tied to the traditional sport. Fans can catch an exciting sneak peek of 'Vettuvam' on September 18 at 12 PM. This film aims for a grand multi-language release, boasting a talented cast and dedicated technical crew.",
-    "img": "https://static.toiimg.com/photo/msid-134315707,imgsize-1150085.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vettuvam-poster-pa-ranjiths-next-film-is-about-indias-traditional-mallakhamba-sport-glimpse-release-details-out/articleshow/134315602.cms",
-    "time": "2026-09-17T15:06:29.000Z"
   },
   {
     "cat": "Sports",
@@ -279,33 +486,6 @@ const newsData_en = [
     "time": "2026-09-17T14:37:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "In 1993, Michael Jackson, along with two collaborators, patented the ‘anti-gravity’ shoes",
-    "desc": "Michael Jackson's legendary forward lean was the result of innovative engineering, combining a unique shoe design with a clever stage mechanism. This patented footwear featured a specialized heel that gripped a stage hitch, allowing the illusion of anti-gravity to captivate audiences. With its patent now expired, this technology remains a fascinating chapter in entertainment history.",
-    "img": "https://static.toiimg.com/photo/msid-134314571,imgsize-627731.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1993-michael-jackson-along-with-two-collaborators-patented-the-anti-gravity-shoes-heres-how-the-king-of-pop-pulled-off-his-impossible-looking-lean/articleshow/134314043.cms",
-    "time": "2026-09-17T14:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'#Love': Arjun Das and Aishwarya Lekshmi starrer release date out",
-    "desc": "The much-anticipated romantic comedy series '#Love' will feature Arjun Das and Aishwarya Lekshmi as the lead pair, navigating the nuances of contemporary love. Scheduled for release on Netflix on October 2, 2026, the show promises to resonate with diverse audiences through its Tamil and dubbed language options. With Balaji Mohan at the helm, viewers are in for a delightful exploration of relationships.",
-    "img": "https://static.toiimg.com/photo/msid-134314827,imgsize-485040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/love-ott-release-date-when-and-where-to-watch-arjun-das-and-aishwarya-lekshmi-starrer-romantic-comedy-series-online/articleshow/134314756.cms",
-    "time": "2026-09-17T14:20:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "National Award-winning filmmaker Dominic Sangma assaulted with bamboo sticks",
-    "desc": "On Wednesday evening, filmmaker Dominic Sangma was reportedly assaulted near Rakap village while trying to protect FTII students from harassment by two men. The accused, known as Techi Nanu and Techi Sanjay, have been named in the FIR filed at Balijan Police Station. Authorities are actively investigating the incident and the surrounding allegations of assault. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-134314257,imgsize-763339.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/national-award-winning-filmmaker-dominic-sangma-allegedly-assaulted-with-fists-and-bamboo-sticks-near-ftii-jote-in-arunachal-pradesh-after-intervening-in-student-harassment-fir-filed-against-two-men/articleshow/134314155.cms",
-    "time": "2026-09-17T14:01:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No Sooryavanshi again; Shreyas Iyer makes one big change",
     "desc": "Afghanistan captain Ibrahim Zadran won the toss and opted to field against India in the third and final T20I at the Arun Jaitley Stadium in Delhi on Thursday. Afghanistan captain Ibrahim Zadran said his team wanted to bowl first in the previous two matches as well but lost the toss on both occasions.",
@@ -313,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/no-vaibhav-sooryavanshi-shreyas-iyer-makes-one-change-for-3rd-t20i-vs-afghanistan/articleshow/134313942.cms",
     "time": "2026-09-17T13:54:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman calls PM Modi 'Narendra Bhai' on his 76th birthday, netizens react",
-    "desc": "Many celebrities took to social media to send their best wishes to Prime Minister Narendra Modi on his birthday. Salman Khan's endearing salutation of 'Narendra bhai' captured the attention of internet users. Additionally, both Shah Rukh Khan and Akshay Kumar contributed their greetings. Kangana Ranaut even posted a video praising Modi's dedication to serving the nation, with everyone expressing hopes for his continued health and service to the country.",
-    "img": "https://static.toiimg.com/photo/msid-134314106,imgsize-301625.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-calls-pm-modi-narendra-bhai-as-he-wishes-him-on-his-76th-birthday-netizens-react-and-say-only-bhai-can-do-this/articleshow/134313532.cms",
-    "time": "2026-09-17T13:53:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -333,51 +504,6 @@ const newsData_en = [
     "time": "2026-09-17T13:45:58.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Gowtam Tinnanuri says MS Subbulakshmi’s name became a ‘mantra’",
-    "desc": "Gowtam Tinnanuri will direct the upcoming biopic MS A Legacy On Screen. Rashmika Mandanna has been cast to portray the legendary singer MS Subbulakshmi. The film was launched on the singer's 110th birth anniversary. Research revealed many facets of her life beyond her musical talent. The team approaches the biopic with immense love and deep admiration.",
-    "img": "https://static.toiimg.com/photo/msid-134313685,imgsize-1371292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/gowtam-tinnanuri-reveals-how-ms-subbulakshmis-name-in-biopic-starring-rashmika-mandanna-has-become-a-mantra-for-the-team-she-was-much-more-than-a-legendary-singer/articleshow/134313547.cms",
-    "time": "2026-09-17T13:35:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 2020, Beyoncé revealed having over 80,000 bees at home and hives on her roof",
-    "desc": "Iconic singer Beyoncé maintains eighty thousand bees at her home for honey. She harvests honey and is developing hemp and honey farms for healing. Beyoncé started beekeeping due to her daughters' severe allergies and their health. She values family and learned dedication from her parents' work ethic. The star recently re-released her anniversary 'B-Day' album for fans.",
-    "img": "https://static.toiimg.com/photo/msid-134311569,imgsize-98805.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/in-2020-beyonc-revealed-having-over-80000-bees-at-home-and-hives-on-her-roof-heres-how-the-american-singer-got-into-the-hobby-of-beekeeping-and-harvesting-honey/articleshow/134311079.cms",
-    "time": "2026-09-17T13:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sheeba Chaddha opens up on playing Manthara in ‘Ramayana’: ‘There was no real prep’",
-    "desc": "Sheeba Chaddha is set to play the role of Manthara in Nitesh Tiwari's much-anticipated Ramayana film, with the release planned over two parts starting November 2026. Chaddha noted that her preparation for the character was minimal, as she aims to stay faithful to the original epic's characterization. The film boasts a remarkable ensemble cast portraying key figures from the mythology.",
-    "img": "https://static.toiimg.com/photo/msid-134313354,imgsize-585356.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sheeba-chaddha-opens-up-on-playing-manthara-in-nitesh-tiwari-and-ranbir-kapoors-ramayana-part-1-there-was-no-real-prep/articleshow/134313194.cms",
-    "time": "2026-09-17T13:18:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'With a heavy heart': Prithvi Shaw, fiancee Akriti part ways after engagement",
-    "desc": "Prithvi Shaw and Akriti Agarwal announced their engagement on March 8. The India batter shared a series of romantic pictures from the occasion. In one photograph, Shaw could be seen going down on one knee to propose to Agarwal, while another showed the couple displaying their engagement rings.",
-    "img": "https://static.toiimg.com/photo/msid-134312783,imgsize-54968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/with-a-heavy-heart-prithvi-shaw-fiancee-akriti-agarwal-part-ways-six-months-after-engagement/articleshow/134312632.cms",
-    "time": "2026-09-17T12:55:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sonakshi-Zaheer share Ganpati aarti video, switch off comments",
-    "desc": "Celebrating Ganpati festivities, Sonakshi Sinha and Zaheer Iqbal gathered at Arpita Khan Sharma's house, where they performed the sacred Ganesh aarti with the Khan family. The couple posted about their celebration online but opted to disable comments. Shatrughan Sinha expressed his delight and support for their relationship, emphasizing the couple's commitment to honoring one another's cultural values and family heritage.",
-    "img": "https://static.toiimg.com/photo/msid-134312759,imgsize-517602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonakshi-sinha-and-zaheer-iqbal-share-ganpati-aarti-video-from-arpita-khans-house-switch-off-comments-amid-past-trolling/articleshow/134312600.cms",
-    "time": "2026-09-17T12:53:07.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Tata Trusts dissents to reappointment of N. Chandrasekaran as Tata Sons chairperson",
     "desc": "The Tata Trusts formally placed on record their acceptance of the decision the following day and advised Tata Sons to initiate the process for setting up a Selection Committee for appointing a successor, in accordance with the Articles of Association of Tata Sons, the Tata Trusts said in a statement",
@@ -387,15 +513,6 @@ const newsData_en = [
     "time": "2026-09-17T12:52:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Suriya's sister Brindha shares heartfelt message for Suriya and Jyotika",
-    "desc": "Celebrating a remarkable twenty years together, Tamil stars Suriya and Jyotika recommitted their love for one another in a sweet ceremony in Scotland. Joined by their children and intimate family, the occasion was filled with joy. Suriya's sister, Brindha Sivakumar, not only shared lovely snapshots but also expressed her heartfelt sentiments.",
-    "img": "https://static.toiimg.com/photo/msid-134312670,imgsize-1356524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suriya-and-jyotika-celebrate-20-years-of-marriage-in-scotland-as-karuppu-actors-sister-brindha-shares-rare-family-pictures-and-calls-vow-renewal-a-blissful-experience/articleshow/134312526.cms",
-    "time": "2026-09-17T12:51:53.000Z"
-  },
-  {
     "cat": "World",
     "title": "Why was the former President of Kosovo convicted by The Hague? Explained",
     "desc": "Swiss politician Dick Marty authored a Council of Europe report, known as the Marty report, in 2010, which alleged that the KLA placed many Serbians in secret detention centres where they were subjected to inhuman and degrading treatment, before ultimately “disappearing”",
@@ -403,15 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/why-was-the-former-president-of-kosovo-convicted-by-the-hague-explained/article71475621.ece",
     "time": "2026-09-17T12:43:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI set to raise pay of domestic umpires, match referees from new season",
-    "desc": "The Board of Control for Cricket in India is set to raise the match fees of domestic umpires and match referees from the 2026-27 season, which will resume after the Duleep Trophy with the Ranji Trophy -the premier red-ball domestic competition- on Oct 11.",
-    "img": "https://static.toiimg.com/photo/msid-134311223,imgsize-59106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-set-to-raise-pay-of-domestic-umpires-match-referees-from-new-season/articleshow/134311086.cms",
-    "time": "2026-09-17T11:55:02.000Z"
   },
   {
     "cat": "Business",
@@ -459,15 +567,6 @@ const newsData_en = [
     "time": "2026-09-17T10:57:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "India's schedule at Asian Games 2026: check full list of events and dates",
-    "desc": "The 107 medals India won in Hangzhou three years ago were a big jump from 70 in Jakarta-Palembang in 2018 and the first three-figure haul at an Asiad by any nation barring China, Japan and South Korea.",
-    "img": "https://static.toiimg.com/photo/msid-134309421,imgsize-125742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/from-cricket-hockey-to-badmnton-and-athletics-indias-schedule-at-asian-games-2026-check-full-list-of-events-and-dates/articleshow/134309091.cms",
-    "time": "2026-09-17T10:50:00.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Why Meta’s Zuckerberg rebuffed Dario Amodei’s AI slowdown calls",
     "desc": "Mr. Amodei has warned that the AI development is beginning to outstrip the labs’ ability to understand and control the systems it is creating. But Mr. Zuckerberg is taking a different route, stating that AI companies have a powerful incentive to build systems that are trustworthy",
@@ -475,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/why-metas-zuckerberg-rebuffed-dario-amodeis-ai-slowdown-calls/article71471837.ece",
     "time": "2026-09-17T10:35:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I still have flashbacks': Steve Smith recalls Sandpapergate",
-    "desc": "Steve Smith was one of the central figures in the controversy during Australia's Test against South Africa in Cape Town in March 2018. He was sent home, suspended for 12 months and removed as Australia captain after admitting his involvement in a plan to change the condition of the ball using sandpaper. David Warner was also banned for a year and removed from leadership roles, while Cameron Bancroft received a nine-month suspension.",
-    "img": "https://static.toiimg.com/photo/msid-134308783,imgsize-66120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-still-have-flashbacks-steve-smith-recalls-2018-sandpapergate-ahead-of-south-africa-tour/articleshow/134307825.cms",
-    "time": "2026-09-17T10:28:03.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +585,6 @@ const newsData_en = [
     "time": "2026-09-17T10:08:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Unscheduled filming': Ganguly's biopic shoot leads to over Rs 6 lakh fine",
-    "desc": "Leicestershire have been fined £5,000 and deducted 27 points after their Grace Road pitch was deemed poor during the Glamorgan match. The club cited extreme heat and an unscheduled Bollywood shoot linked to Sourav Ganguly’s biopic as factors. However, the disciplinary panel rejected the filming as a mitigating factor, leaving Leicestershire facing a serious relegation battle.",
-    "img": "https://static.toiimg.com/photo/msid-134308349,imgsize-34518.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/unscheduled-bollywood-filming-sourav-gangulys-biopic-shoot-leads-to-over-rs-6-lakh-fine-for-england-club/articleshow/134307261.cms",
-    "time": "2026-09-17T10:07:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Tata Sons reverses course, reappoints Chandrasekaran as chairman for another 5 yrs",
     "desc": "The Tata Sons board has approved a fresh five-year term for N Chandrasekaran as executive chairman. This decision reverses his earlier stance not to seek reappointment for the leadership role. The reappointment was approved at a board meeting held in Mumbai on Thursday. Chandrasekaran's current five-year term is scheduled to end in February 2027. No decision has yet been made regarding the potential listing of Tata Sons.",
@@ -511,24 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-board-approves-re-appointment-of-n-chandrasekaran-as-chairman-of-tata-group-for-another-5-year-term/articleshow/134307569.cms",
     "time": "2026-09-17T09:38:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rizwan loses Lahore HC plea; PCB to take actions on Pakistan cricketers",
-    "desc": "The Pakistan Cricket Board will wait for the NCCIA’s forensic report before deciding whether to take disciplinary action against Mohammad Rizwan and Imam-ul-Haq. The Lahore High Court dismissed Rizwan’s petition challenging NCCIA notices. The agency is examining mobile phones taken from both players and is expected to submit its findings to the PCB next week.",
-    "img": "https://static.toiimg.com/photo/msid-134306521,imgsize-156460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mohammad-rizwan-loses-lahore-hc-plea-pcb-to-take-actions-on-pakistan-cricketers/articleshow/134306136.cms",
-    "time": "2026-09-17T08:43:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "From GMP to market cap &amp; global comparison",
-    "desc": "NSE is positioned to gain from increasing retail participation in the capital markets. However, its earnings continue to depend substantially on transaction volumes. NSE’s post-issue price-earnings (P/E) multiple of 42.9 is lower than BSE’s 53, even though NSE holds a dominant position in the market.",
-    "img": "https://static.toiimg.com/photo/msid-134306267,imgsize-884322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/nse-ipo-opens-for-subscription-from-gmp-to-market-cap-global-comparison-top-10-things-to-know/articleshow/134305003.cms",
-    "time": "2026-09-17T07:48:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
     "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
   }
 ];

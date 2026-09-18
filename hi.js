@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Where to watch India-W vs Japan-W, Asian Games, cricket quarter-final live on TV and stream online in India?",
+    "desc": "The stage is set for the Asian Games 2026 cricket quarter-final. India women will be taking on Japan women in the clash as the two sides meet at the Korogi Sports Park, Nisshin, on September...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-w-vs-japan-w-asian-games-cricket-quarter-final-live-on-tv-and-stream-online-in-india-2026-09-18-1054574",
+    "time": "2026-09-18T02:05:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jos Buttler scripts history, achieves massive feat with 2nd T20I victory against Sri Lanka",
+    "desc": "England and Sri Lanka continued their ongoing T20I series by taking on each other in the 2nd T20I. The two sides met at Sophia Gardens in Cardiff on September 17, and the game saw England...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-scripts-history-achieves-massive-feat-with-2nd-t20i-victory-against-sri-lanka-2026-09-18-1054570",
+    "time": "2026-09-18T01:28:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhishek architects India's carnage with quickfire century, Shreyas' men seal 3-0 series win vs Afghanistan",
     "desc": "Abhishek Sharma’s blistering knock against Afghanistan was less a T20 innings and more an unrelenting storm. Leading up to the match, there were general expectations that the southpaw might be benched for the dead rubber...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/14-hours-wait-no-rooms-asian-games-2026-chaos-leaves-indian-athletes-stranded-in-nagoya-in-japan-2026-09-17-1054492",
     "time": "2026-09-17T07:01:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "China knocked out of Asian Games cricket without a ball being bowled; what exactly happened?",
-    "desc": "China’s women’s cricket campaign at the 2026 Asian Games ended before a single delivery was bowled. The rain forced the cancellation of their quarter-final against Bangladesh at Korogi Sports Park in Nisshin on Thursday and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/china-knocked-out-of-asian-games-cricket-without-a-ball-being-bowled-what-exactly-happened-2026-09-17-1054490",
-    "time": "2026-09-17T06:37:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dhakshineswar Suresh reflects on growth and India's Davis Cup quest against South Korea",
-    "desc": "Coming off a career-defining performance against the Netherlands in Bengaluru, where he became the first Indian tennis player since Leander Paes in 2004 to win three matches in a single Davis Cup tie, 6-foot-6 powerhouse Dhakshineswar...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/dhakshineswar-suresh-reflects-on-growth-and-india-s-davis-cup-quest-against-south-korea-2026-09-17-1054480",
-    "time": "2026-09-17T05:35:43.000Z"
   }
 ];
