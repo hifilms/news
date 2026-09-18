@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India thrash Japan, register eight-wicket win to qualify for Asian Games semi-final",
+    "desc": "Indian women registered an eight-wicket win over Japan in the ongoing Asian Games. They arrived at the contest as the favourites and were too comfortable for the entire time and made it to the semi-finals...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-thrash-japan-register-eight-wicket-win-to-qualify-for-asian-games-semi-final-2026-09-18-1054639",
+    "time": "2026-09-18T12:43:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sumit Nagal fails to impress after stunning start, India trail 2-0 in Davis Cup tie vs South Korea",
+    "desc": "After a disappointing start to the Davis Cup, India needed a strong start through Sumit Nagal in the second game of the tie. Earlier in the day, Dhakshineswar Suresh suffered after making an early impression,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/sumit-nagal-fails-to-impress-after-stunning-start-india-trail-2-0-in-davis-cup-tie-vs-south-korea-2026-09-18-1054627",
+    "time": "2026-09-18T11:08:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Manu Bhaker, Tajinderpal Singh Toor named India's flag-bearers for Asian Games opening ceremony",
     "desc": "Double Olympic medallist Manu Bhaker and defending Asian Games shot put champion Tajinderpal Singh Toor will carry the Indian flag at the opening ceremony of the 2026 Asian Games in Japan on Saturday. The announcement brings...",
     "img": "",
@@ -28,8 +46,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Sumit Nagal dominates, takes 3-0 lead against Chung",
-    "desc": "After Dhakshineswar Suresh lead in the first set, South Korea's Soonwoo Kwon made a strong comeback in the second set and followed it up with another brilliant show in the third set, winning consecutive games...",
+    "title": "Hyeon Chung beats Sumit Nagal, South Korea take 2-0 lead",
+    "desc": "South Korea took a 2-0 lead over India in the Davis Cup World Group Qualifiers after Hyeon Chung defeated Sumit Nagal 2-6, 6-4, 7-5. The Indian number one Tennis player controlled the opener with aggressive...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/india-vs-south-korea-davis-cup-match-soonwoo-kwon-dhakshineswar-vs-suresh-and-hyeon-chung-vs-sumit-nagal-at-olympic-tennis-centre-seoul-1054578",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-rohit-sharma-s-record-with-swashbuckling-century-vs-afghanistan-2026-09-17-1054546",
     "time": "2026-09-17T14:39:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are Vaibhav Sooryavanshi and Arshdeep Singh not playing vs Afghanistan in third T20I in New Delhi?",
-    "desc": "India have already sealed the series against Afghanistan at the Arun Jaitley Stadium in New Delhi. That ignited hope of Vaibhav Sooryavanshi returning to the playing XI for the dead rubber. However, the team management...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-vaibhav-sooryavanshi-and-arshdeep-singh-not-playing-vs-afghanistan-in-third-t20i-in-new-delhi-2026-09-17-1054544",
-    "time": "2026-09-17T13:55:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India register 127 run win in third T20I, seal series 3-0",
-    "desc": "Afghanistan have won the toss and elected to bowl first. For India, Sanju Samson and Abhishek Sharma opened the innings and changed the complexion of the game. The duo stitched a partnership of 142 runs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-3rd-t20i-live-score-india-vs-afghanistan-latest-match-updates-scorecards-playing-xis-reactions-2026-09-17-1054510",
-    "time": "2026-09-17T12:13:10.000Z"
   }
 ];
