@@ -1,12 +1,57 @@
 const newsData_en = [
   {
     "cat": "World",
+    "title": "Pakistan will go to 'any extent' to defend Saudi Arabia: Army spokesperson",
+    "desc": "The remarks came amid an ongoing escalation involving Saudi Arabia and Yemen's Houthis, who carried out attacks on Saudi territory in recent days and established control over the strategic Bab el-Mandeb Strait in the Red Sea",
+    "img": "https://th-i.thgim.com/public/incoming/btkkd2/article71482599.ece/alternates/LANDSCAPE_1200/Saudi_Arabia_Yemen_War_64824.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/pakistan-will-go-to-any-extent-to-defend-saudi-arabia-army-spokesperson/article71482595.ece",
+    "time": "2026-09-18T22:33:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'World War Z 2': Brad Pitt returns as lead in zombie thriller",
+    "desc": "Brad Pitt will reprise his role in the long-awaited 'World War Z' sequel. Edward Berger is set to direct the zombie thriller, marking a reunion with Pitt. The project was previously stalled but is now a high priority for Paramount Pictures. Dennis Kelly is attached to write the screenplay for the upcoming film. Pitt, Dede Gardner, and Jeremy Kleiner will back the film, while Berger will executive produce.",
+    "img": "https://static.toiimg.com/photo/msid-134345504,imgsize-309406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitts-long-awaited-world-war-z-2-finally-in-motion-director-edward-berger-to-helm-high-priority-zombie-thriller/articleshow/134344024.cms",
+    "time": "2026-09-18T22:23:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jhiram Valley Maoist attack case ‘rarest of rare': court order",
+    "desc": "According to the September 16 verdict, the conspiracy behind the attack was finalised during a meeting of the South Regional Unified Command [of the Communist Party of India (Maoist)] held between February 16-25 in 2013",
+    "img": "https://th-i.thgim.com/public/incoming/21g8ul/article71482445.ece/alternates/LANDSCAPE_1200/North-India-briGK2GG98F4.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/jhiram-valley-maoist-attack-case-rarest-of-rare-court-order/article71481943.ece",
+    "time": "2026-09-18T21:26:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amendments made to industrial land allotment regulations in Keralam",
+    "desc": "To facilitate optimal utilisation of industrial assets subleasing in industrial parks and estates will now be permitted for a maximum of 10 years subject to certain conditions. Renewal of sublease will require new written approval of KINFRA or KSIDC, the land allotment agencies",
+    "img": "https://th-i.thgim.com/public/incoming/6svdl8/article71481135.ece/alternates/LANDSCAPE_1200/Cabinet-approveGSUFO071O.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/amendments-made-to-industrial-land-allotment-regulations-in-keralam/article71480001.ece",
+    "time": "2026-09-18T18:55:37.000Z"
+  },
+  {
+    "cat": "World",
     "title": "Assad-era Syrian official jailed for 60 years by U.S. court",
     "desc": "Samir ⁠Ousman Alsheikh, 74, was charged in 2024 and convicted in March this year on three counts of torture and one count of conspiracy to commit torture for ‌his involvement in the abuse of prisoners at Adra Prison in Damascus",
     "img": "https://th-i.thgim.com/public/incoming/ss2rvv/article71482304.ece/alternates/LANDSCAPE_1200/2026-08-11T092944Z_1769915961_RC29WMAXFZH1_RTRMADP_3_SYRIA-JUSTICE-ASSAD.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/assad-era-syrian-official-jailed-for-60-years-by-us-court/article71482280.ece",
     "time": "2026-09-18T17:48:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Why 'Dhurandhar' lost to 'Gondhal' in Oscar race; jury member EXPLAINS",
+    "desc": "The Marathi thriller 'Gondhal' has been chosen to represent India at the 99th Academy Awards following a comprehensive evaluation by a jury. This exceptional film showcases the richness of Indian culture and traditions, which contributed to its selection. In contrast, 'Dhurandhar,' featuring Ranveer Singh, only garnered four votes from the fourteen-member panel, highlighting 'Gondhal's' unique appeal as it competes in the Best International Feature Film category next year.",
+    "img": "https://static.toiimg.com/photo/msid-134341102,imgsize-789449.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/why-dhurandhar-lost-to-gondhal-in-oscar-race-jury-member-reveals-ranveer-singh-starrer-got-just-4-votes/articleshow/134340915.cms",
+    "time": "2026-09-18T17:43:17.000Z"
   },
   {
     "cat": "World",
@@ -63,15 +108,6 @@ const newsData_en = [
     "time": "2026-09-18T16:42:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "T.N. government writes to PM Modi seeking to change the operator of Chennai airport",
-    "desc": "In the letter sent in August, Chief Minister C. Joseph Vijay has said Tamil Nadu has been industry-friendly, making consistent efforts to attract business and investment; hence, better management of the airport is of paramount importance",
-    "img": "https://th-i.thgim.com/public/incoming/5lamuw/article71481743.ece/alternates/LANDSCAPE_1200/4871_13_9_2026_13_17_6_1_DSC_2298.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/tn-government-writes-to-pm-modi-seeking-to-change-the-operator-of-chennai-airport/article71481590.ece",
-    "time": "2026-09-18T16:11:57.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Gondhal' director on film becoming India's Oscar entry: 'We have a rich...'",
     "desc": "In an exciting development, the Marathi film 'Gondhal' has been selected as India's representative for the 99th Academy Awards. Filmmaker Santosh Davakhar expressed his enthusiasm, noting that preparations for an Oscar campaign are already in motion. The film delves into cultural narratives and societal themes via a traditional folk ritual, with the intent to highlight India's vibrant heritage globally. Campaign efforts in Los Angeles are now in full swing.",
@@ -79,15 +115,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/santosh-davakhar-director-of-gondhal-on-film-becoming-indias-official-oscar-entry-we-have-a-rich-culture-and-heritage-and-we-should-represent-india-through-good-cinema/articleshow/134339143.cms",
     "time": "2026-09-18T16:10:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "U.S. national arrested by NIA under terror charges gets bail after 180-day probe deadline lapses",
-    "desc": "Court allowed Mr. Dyke’s bail application after finding that the charge sheet filed by the NIA on September 8, only invoked “piecemeal,” charges of Sections 21 and 23 of the Immigration and Foreigners Act rather than the more serious Section 18 of the Unlawful Activities (Prevention) Act (UAPA) under which Mr. Dyke was originally booked.",
-    "img": "https://th-i.thgim.com/public/news/national/u0d70o/article71199693.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/delhi-court-grants-bail-to-us-national-van-dykes-in-terror-conspiracy-case/article71480347.ece",
-    "time": "2026-09-18T16:08:40.000Z"
   },
   {
     "cat": "Business",
@@ -115,24 +142,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/nmdc-targets-net-zero-operational-emissions-by-2047/article71481748.ece",
     "time": "2026-09-18T15:39:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Day before 2023 Manipur violence started, political settlement was discussed with govt., says insurgent group",
-    "desc": "UPF spokesperson Aron Kipgen says the mass displacement and geographical separation of the Kuki-Zo and Meitei communities after May 3, 2023, fundamentally altered the premise on which the groups had negotiated with the Centre before the violence",
-    "img": "https://th-i.thgim.com/public/incoming/zcc21b/article71481880.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-18%20210100.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/manipur/day-before-2023-manipur-violence-started-political-settlement-was-discussed-with-govt-says-insurgent-group/article71480879.ece",
-    "time": "2026-09-18T15:38:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "JD(U) legislators project Nishant Kumar as future Bihar CM",
-    "desc": "“There is no doubt that Nishant Kumar is our leader, and he has all the abilities to lead the party and the State. We all want him to lead Bihar in the coming days. Every MLA and leader of the party wants this,” says Barauli MLA Manjeet Kumar Singh",
-    "img": "https://th-i.thgim.com/public/incoming/sbny4z/article71481710.ece/alternates/LANDSCAPE_1200/PTI08_07_2026_000279B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/jdu-legislators-project-nishant-kumar-as-future-bihar-cm/article71481223.ece",
-    "time": "2026-09-18T15:37:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -298,15 +307,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "In 2023, Jennifer Lopez and Ben Affleck bought a home and put it on sale within a year",
-    "desc": "Jennifer Lopez and Ben Affleck acquired a stunning estate in Beverly Crest in 2023, but are now looking to offload it for less than fifty million dollars. The couple's relationship took a turn as they separated in April 2024 and finalized their divorce by January 2025. Despite listing the home initially at sixty million and reducing the price several times, it remains unsold after a recent offer didn't materialize.",
-    "img": "https://static.toiimg.com/photo/msid-134333267,imgsize-385897.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2023-jennifer-lopez-and-ben-affleck-bought-a-beverly-crest-mansion-for-usd-60-85-million-however-the-couple-were-ready-to-sell-it-off-within-a-year-after-breaking-up-for-less-than-usd-50-million/articleshow/134333186.cms",
-    "time": "2026-09-18T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Soori recreates Rajinikanth’s phone call at ‘Mandaadi’ success meet",
     "desc": "The film Mandaadi's success was celebrated by its cast and crew. Actor Soori received significant praise for his performance in the challenging project. Superstar Rajinikanth personally called Soori to appreciate the film's intense action sequences. Filmmaker Vetri Maaran highlighted Soori's evolving career and audience connection. This success meet marked another milestone in Soori's acting journey.",
     "img": "https://static.toiimg.com/photo/msid-134335456,imgsize-149906.cms",
@@ -340,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sundeep-kishan-defends-sigma-co-star-faria-abdullah-after-success-ratio-questions-she-has-done-so-much-by-25/articleshow/134334052.cms",
     "time": "2026-09-18T11:34:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Radhika Apte says she was 'really taken aback' revisiting old SRK films",
-    "desc": "Radhika Apte elaborated on the impact of classic Bollywood romances on contemporary perceptions of love and relationships. She pointed out that women's choices were often overlooked in these films, interpreting relentless pursuit as endearing rather than disturbing. Additionally, Apte criticized the sexualization and moral scrutiny faced by female protagonists, insights that align with her upcoming role in the anthology series 'Lust Stories 3'.",
-    "img": "https://static.toiimg.com/photo/msid-134333897,imgsize-511811.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-a-woman-says-no-its-never-taken-as-no-radhika-apte-says-she-was-really-taken-aback-revisiting-old-shah-rukh-khan-films-as-a-teenager-and-their-portrayal-of-romance/articleshow/134333809.cms",
-    "time": "2026-09-18T11:28:47.000Z"
   },
   {
     "cat": "Business",
@@ -451,7 +442,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Mirzapur The Movie' BO Day 15 [LIVE]: Pankaj Tripathi film leaps towards Rs 205 crore domestic net milestone",
+    "title": "'Mirzapur The Movie' inches closer to Rs 300 crore in 15 days",
     "desc": "‘Mirzapur The Movie’ has entered Day 15 of its theatrical run after crossing the Rs 200 crore mark in India. The Pankaj Tripathi, Ali Fazal and Ravi Kishan starrer has collected Rs 203.63 crore India net so far. With its worldwide gross at around Rs 292 crore, the Gurmmeet Singh directorial is now within striking distance of the Rs 205 crore domestic and Rs 300 crore worldwide milestones.",
     "img": "https://static.toiimg.com/photo/msid-134329569,imgsize-96779.cms",
     "src": "indiatimes.com",
@@ -484,15 +475,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/indonesia-begins-operation-to-right-capsized-ship-in-java-sea-as-129-remain-missing/article71479645.ece",
     "time": "2026-09-18T06:57:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma reveals Yuvraj's message after scoring record-breaking century",
-    "desc": "Abhishek Sharma smashed a record 30-ball century against Afghanistan after receiving advice from mentor Yuvraj Singh to avoid forcing shots and rotate the strike. He scored 102 as India posted 221/7 and won by 127 runs. Abhishek finished the three-match series with 229 runs, including two centuries, responding strongly after facing pressure following a difficult Zimbabwe series.",
-    "img": "https://static.toiimg.com/photo/msid-134328425,imgsize-128364.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/afghanistan-tour-of-india/abhishek-sharma-reveals-yuvraj-singhs-message-after-scoring-record-breaking-ton-against-afghanistan/articleshow/134328110.cms",
-    "time": "2026-09-18T06:54:50.000Z"
   },
   {
     "cat": "World",
@@ -711,15 +693,6 @@ const newsData_en = [
     "time": "2026-09-17T06:53:34.000Z"
   },
   {
-    "cat": "World",
-    "title": "Federal Reserve hikes key rate to tackle ‘too high’ inflation, defying Trump demands for cut",
-    "desc": "Chairperson Warsh said renewed U.S.-Iran combat, which has driven up gas prices, also convinced officials to support rate hikes; President Trump reacted angrily to the decision, renewing his call for the Fed to lower interest rates “AND FAST”",
-    "img": "https://th-i.thgim.com/public/incoming/yxohqy/article71474114.ece/alternates/LANDSCAPE_1200/2026-09-16T183652Z_1716047873_RC2IKNAR714P_RTRMADP_3_USA-FED.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/federal-reserve-hikes-key-rate-for-first-time-in-three-years-defying-trump-demands-for-cut/article71474094.ece",
-    "time": "2026-09-17T06:05:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Remembering Peter Cullen, Chester Bennington and the Hasbro childhood",
     "desc": "On Transformers Day, a look back at how a few cool pieces of plastic gave children elaborate battles to stage, worlds to invent, heroes to admire and eventually a soundtrack to grow up with that taught a generation there was always more to it than meets the eye",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
     "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

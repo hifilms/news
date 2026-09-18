@@ -324,15 +324,6 @@ const newsData_bn = [
     "time": "2026-09-08T05:21:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "৭২ বছরের প্রথা ভাঙছে! প্রথমবার দিল্লির বাইরে জাতীয় চলচ্চিত্র পুরস্কার",
-    "desc": "দীর্ঘ ৭২ বছরের প্রথায় বদল। এই প্রথম দিল্লির বাইরে অনুষ্ঠিত হতে চলেছে জাতীয় চলচ্চিত্র পুরস্কারের অনুষ্ঠান। গুজরাটের একতা নগর, অর্থাৎ স্ট্যাচু অফ ইউনিটির কাছেই বসবে ৭২তম National Film Awards-এর আসর। ২২ সেপ্টেম্বর রাষ্ট্রপতি দ্রৌপদী মুর্মু পুরস্কারপ্রাপকদের হাতে সম্মান তুলে দেবেন বলে জানা গিয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/national-film-awards-2026-gujarat-ekta-nagar-first-time-outside-delhi_670044.html ",
-    "time": "2026-09-08T04:50:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "হোয়াটসঅ্যাপের 'ইউজারনেম' ফিচার সুরক্ষা ও গোপনীয়তায় কত বড় চ্যালেঞ্জ?",
     "desc": "WhatsApp is rolling out a new username feature, allowing users to chat without sharing phone numbers. হোয়াটসঅ্যাপের এই নতুন ফিচারে নম্বর গোপন রেখে চ্যাট করার সুযোগ পাবেন ব্যবহারকারীরা, যা সাইবার নিরাপত্তা বাড়াবে এবং ব্যক্তিগত সুরক্ষা নিশ্চিত করবে।",
