@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "અક્ષય કુમારની ફિલ્મ હૈવાન ફ્લોપ, હનુમાન અંશ એ કરી છપ્પરફાડ કમાણી, જાણો કેવા છે મિર્ઝાપુર ફિલ્મના હાલ",
+    "desc": "બોક્સ ઓફિસ પર હાલ હનુમાન અંશ, મિર્ઝાપુર ધ મુવી, હૈવાન સહિતની ફિલ્મો ચાલી રહી છે. આ ફિલ્મોમાંથી બોક્સ ઓફિસ કમાણીની બાબતમાં કઈ ફિલ્મ છેલ્લા 1 વીકમાં હિટ રહી અને કઈ ફિલ્મ ફ્લોપ સાબિત થઈ ચાલો તમને જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/film-haiwaan-flop-on-box-office-hanuman-ansh-noted-massive-earnings-know-about-mirzapur-box-office-collection-491630 ",
+    "time": "2026-09-18T06:16:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "QR કોડથી લઈને સ્ટૈટિક પેમેન્ટ સુધીની 5 રીત અપનાવી બચાવી શકો છો UPI પેમેન્ટ પર લાગતો ચાર્જ",
+    "desc": "જ્યારથી જાહેર થયું છે કે 2000 થી વધુના યુપીઆઈ પેમેન્ટ પર 0.4 ટકા MDR લાગુ થશે ત્યારથી લોકો એ જાણવા માંગે છે કે આ ચાર્જથી બચવા માટે શું કરી શકાય. તો ચાલો તમને 5 એવી રીતો વિશે જણાવીએ જેને અપનાવીને તમે યુપીઆઈ પેમેન્ટ પર લાગતા ચાર્જથી બચી શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/how-to-avoid-charges-on-upi-payments-5-tips-to-save-mdr-know-about-qr-codes-to-static-payments-method-491612 ",
+    "time": "2026-09-18T03:06:44.000Z"
+  },
+  {
     "cat": "World",
     "title": "મશીન જ બનાવી રહ્યા છે રોબોટ, ચીને ખોલી ફેક્ટરી... દર 10 મિનિટે બનાવશે રોબોટ",
     "desc": "ચીને એક એવી રોબોટ ફેક્ટરીનું ઉદ્ઘાટન કર્યું છે, જે દર 10 મિનિટે એક રોબોટ બનાવી શકે છે. ચીની મીડિયાના અહેવાલો અનુસાર, આ ફેક્ટરીને એક ડિજિટલ સિસ્ટમ સંચાલિત કરે છે, જેને UBTECH પોતાનું ‘સ્માર્ટ બ્રેઇન’ કહે છે. કંપનીના જણાવ્યા અનુસાર, આ સિસ્ટમ ફેક્ટરીના સંચાલનમાં મદદ કરે છે.",
@@ -297,15 +315,6 @@ const newsData_gu = [
     "time": "2026-09-16T03:38:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "અમેરિકા ગમે તે કરે, અમે રશિયા પાસેથી તેલ ખરીદતા રહીશું, 100% ટેરિફની ધમકી પર ભારતે આપ્યો જવાબ",
-    "desc": "અમેરિકાએ રશિયા પાસેથી તેલ ખરીદતા દેશો પર 100% ટેરિફ લગાવવા માટે કાયદો ઘડવાની પ્રક્રિયા શરૂ કરી હતી. આ બિલ યુએસ સંસદના એક ગૃહ દ્વારા પસાર કરવામાં આવ્યું હતું. હવે, ભારતે પણ પોતાનો ઇરાદો વ્યક્ત કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/no-matter-what-the-us-does-we-will-continue-buying-oil-from-russia-india-responds-to-the-threat-of-100-percent-tariffs-491367 ",
-    "time": "2026-09-16T02:35:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "સચિન તેંડુલકરનો વર્લ્ડ રેકોર્ડ તૂટ્યો... 40 વર્ષના આ બેટ્સમેને રચ્યો ઈતિહાસ",
     "desc": "ઓસ્ટ્રેલિયા સામેની પ્રથમ વન-ડે મેચ માટે મેદાનમાં ઉતરતાની સાથે જ ઝિમ્બાબ્વેના બ્રેન્ડન ટેલરે સચિન તેંડુલકરનો એક મોટો વર્લ્ડ રેકોર્ડ તોડ્યો છે. ટેલરની વન-ડે કારકિર્દી હવે 22 વર્ષ અને 146 દિવસની થઈ ગઈ છે, જ્યારે સચિને 22 વર્ષ અને 91 દિવસ સુધી વન-ડે ક્રિકેટ રમ્યું હતું. 40 વર્ષીય ટેલર નિવૃત્તિ, ICC દ્વારા પ્રતિબંધ અને વાપસી બાદ આ સિદ્ધિ હાંસલ કરી છે.",
@@ -349,15 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/these-3-big-reasons-suddenly-there-was-an-earthquake-in-the-stock-market-sensex-broke-1400-points-immediately-491339 ",
     "time": "2026-09-15T12:54:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "20 વર્ષની Home Loan 12 વર્ષમાં કરો પૂરી! 1 Extra EMI ની આ ટ્રિકથી બચશે લાખો રૂપિયાનું વ્યાજ",
-    "desc": "ઘણા લોકો હોમ લોનને સમય પહેલા ખતમ કરવા ઈચ્છે છે. પરંતુ તેને સ્માર્ટ રણનીતિનો ખ્યાલ હોતો નથી. અમે તમને જણાવીશું કે કઈ રીતે 20 વર્ષની હોમ લોન 12 વર્ષમાં ખતમ કરી શકાય છે. વિગતવાર જાણો....",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/pay-off-20-year-home-loan-in-just-12-years-save-lakhs-in-interest-with-1-extra-emi-strategy-491307 ",
-    "time": "2026-09-15T10:22:37.000Z"
   },
   {
     "cat": "Tech",
@@ -565,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/chatgpt-80s-retro-photo-trend-personal-images-privacy-ai-tools-490863 ",
     "time": "2026-09-11T11:09:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "બાળક વિશે વિચાર્યું પણ ન હતું અને મળી ગુડ ન્યુઝ, સામંથાએ પ્રેગ્નેન્સી અંગે કર્યો ખુલાસો",
-    "desc": "સામંથા રુથ પ્રભુ હાલ તેની પ્રેગ્નેન્સી ઈન્જોય કરી રહી છે. સોશિયલ મીડિયા પર તે પોતાના ફોટો શેર કરતી રહે છે. સામંથા તેના પહેલા બાળકના આગમન માટે ખુશ છે પણ આ બાળક તેના માટે સરપ્રાઈઝ છે. આ વાત તેણે એક મુલાકાત દરમિયાન કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/samantha-ruth-prabhu-said-her-first-pregnancy-was-surprise-for-her-she-was-ok-not-having-kids-490793 ",
-    "time": "2026-09-11T03:26:51.000Z"
   },
   {
     "cat": "Tech",

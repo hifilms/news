@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Manu Bhaker, Tajinderpal Singh Toor named India's flag-bearers for Asian Games opening ceremony",
+    "desc": "Double Olympic medallist Manu Bhaker and defending Asian Games shot put champion Tajinderpal Singh Toor will carry the Indian flag at the opening ceremony of the 2026 Asian Games in Japan on Saturday. The announcement brings...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/manu-bhaker-tajinderpal-singh-toor-named-india-s-flag-bearers-for-asian-games-opening-ceremony-2026-09-18-1054603",
+    "time": "2026-09-18T07:37:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhakshineswar Suresh suffers defeat as Soonwoo Kwon helps South Korea take 1-0 lead in Davis Cup",
+    "desc": "South Korea defeated India 3-6, 6-3, 6-4 in the ongoing Davis Cup to take a 1-0 lead. Soonwoo Kwon struggled to make an impression early on, but from the second set, he changed the complexion...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/dhakshineswar-suresh-suffers-defeat-as-soonwoo-kwon-helps-south-korea-take-1-0-lead-in-davis-cup-2026-09-18-1054602",
+    "time": "2026-09-18T07:27:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India need 'courage and belief' to beat South Korea in Davis Cup, says Yuki Bhambri",
+    "desc": "Team India resume their long-standing Asian rivalry against South Korea on Friday in the second round of the Davis Cup Qualifiers at the historic Olympic Park Tennis Centre. With a coveted spot in November’s Final...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/india-need-courage-and-belief-to-beat-south-korea-in-davis-cup-says-yuki-bhambri-2026-09-18-1054588",
+    "time": "2026-09-18T05:06:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sumit Nagal dominates, takes 3-0 lead against Chung",
+    "desc": "After Dhakshineswar Suresh lead in the first set, South Korea's Soonwoo Kwon made a strong comeback in the second set and followed it up with another brilliant show in the third set, winning consecutive games...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/india-vs-south-korea-davis-cup-match-soonwoo-kwon-dhakshineswar-vs-suresh-and-hyeon-chung-vs-sumit-nagal-at-olympic-tennis-centre-seoul-1054578",
+    "time": "2026-09-18T03:59:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Where to watch India-W vs Japan-W, Asian Games, cricket quarter-final live on TV and stream online in India?",
     "desc": "The stage is set for the Asian Games 2026 cricket quarter-final. India women will be taking on Japan women in the clash as the two sides meet at the Korogi Sports Park, Nisshin, on September...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-3rd-t20i-live-score-india-vs-afghanistan-latest-match-updates-scorecards-playing-xis-reactions-2026-09-17-1054510",
     "time": "2026-09-17T12:13:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What's Team India's schedule in Davis Cup 2026? All you need to know",
-    "desc": "India will take on South Korea in the Davis Cup in the second round of the qualifiers at Olympic Park Tennis Centre in Seoul on September 18 and 19. The winner will move to the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/what-s-team-india-s-schedule-in-davis-cup-2026-all-you-need-to-know-2026-09-17-1054508",
-    "time": "2026-09-17T09:46:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch India vs South Korea Davis Cup match live?",
-    "desc": "South Korea will host India in the Davis Cup 2026 qualifiers in Seoul on Friday and Saturday, September 18 and 19. The two nations will contest the second round of the qualifiers at the Olympic...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/when-and-where-to-watch-india-vs-south-korea-davis-cup-match-live-2026-09-17-1054502",
-    "time": "2026-09-17T08:39:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Veteran Sriram Balaji reflects on Davis Cup motivation after breaking into world top 50",
-    "desc": "Fresh off breaking into the ATP World Top 50 doubles rankings on September 14, 2026, Indian tennis star Sriram Balaji is keeping his focus firmly on national duty. As Team India prepares to square off...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/veteran-sriram-balaji-reflects-on-davis-cup-motivation-after-breaking-into-world-top-50-2026-09-17-1054497",
-    "time": "2026-09-17T07:51:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "14-hour wait, no rooms! Asian Games 2026 chaos leaves Indian athletes stranded in Nagoya",
-    "desc": "The Asian Games 2026 preparations in Japan's Nagoya city have run into a major accommodation mess, with athletes from several countries reportedly struggling to find rooms even after reaching the host city. Indian athletes and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/14-hours-wait-no-rooms-asian-games-2026-chaos-leaves-indian-athletes-stranded-in-nagoya-in-japan-2026-09-17-1054492",
-    "time": "2026-09-17T07:01:01.000Z"
   }
 ];
