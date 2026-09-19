@@ -1,8 +1,35 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Suresh-Balaji gear up for doubles action against Nam-Park",
-    "desc": "After losing back-to-back matches on the first day of the Davis Cup 2026 qualifiers round 2, India gears up for doubles action. The duo of Dhakshineshwar Suresh and Sriram Balaji will be taking on South...",
+    "title": "India's Davis Cup campaign ends after Soonwoo Kwon beats Sumit Nagal in Seoul",
+    "desc": "N Sriram Balaji and Dhakshineshwar Suresh’s incredible win in the Davis Cup doubles rejuvenated India’s campaign. The focus then immediately shifted towards Sumit Nagal, who took the court against South Korea’s Kwon Soon-woo in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/india-s-davis-cup-campaign-ends-after-soonwoo-kwon-beats-sumit-nagal-in-seoul-2026-09-19-1054688",
+    "time": "2026-09-19T06:55:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suresh Balaji, Dhakshineswar Suresh script India's comeback in Davis Cup with doubles win over South Korea",
+    "desc": "India executed a high-stakes tactical pivot on Day 2 of the Davis Cup tie against South Korea at Seoul’s Olympic Tennis Centre. The visitors suffered on the opening day of the qualifier, as both their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/suresh-balaji-dhakshineswar-suresh-script-india-s-comeback-in-davis-cup-with-doubles-win-over-south-korea-2026-09-19-1054680",
+    "time": "2026-09-19T05:14:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Ajit Agarkar not willing to extend as chief selector? Everything you need to know about BCCI's AGM",
+    "desc": "Ajit Agarkar has informed the BCCI that he does not intend to seek an extension as India’s chief selector after his current contract expires on October 4. The former India allrounder conveyed his decision to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ajit-agarkar-not-willing-to-extend-as-chief-selector-everything-you-need-to-know-about-bcci-s-agm-2026-09-19-1054676",
+    "time": "2026-09-19T03:30:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Korea crush India's hopes, qualify for first quarter-final",
+    "desc": "India's Suresh and Balaji stunned the South Korean pair of Jisung Nam and Uisung Park in the first set. India won the first set by 6-3. In the second set, South Korea won 6-3. To seek...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/india-vs-south-korea-davis-cup-mens-doubles-tennis-match-live-updates-n-sriram-balaji-dhakshineshwar-suresh-vs-jisung-nam-uisung-park-1054672",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/manu-bhaker-tajinderpal-singh-toor-named-india-s-flag-bearers-for-asian-games-opening-ceremony-2026-09-18-1054603",
     "time": "2026-09-18T07:37:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dhakshineswar Suresh suffers defeat as Soonwoo Kwon helps South Korea take 1-0 lead in Davis Cup",
-    "desc": "South Korea defeated India 3-6, 6-3, 6-4 in the ongoing Davis Cup to take a 1-0 lead. Soonwoo Kwon struggled to make an impression early on, but from the second set, he changed the complexion...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/dhakshineswar-suresh-suffers-defeat-as-soonwoo-kwon-helps-south-korea-take-1-0-lead-in-davis-cup-2026-09-18-1054602",
-    "time": "2026-09-18T07:27:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India need 'courage and belief' to beat South Korea in Davis Cup, says Yuki Bhambri",
-    "desc": "Team India resume their long-standing Asian rivalry against South Korea on Friday in the second round of the Davis Cup Qualifiers at the historic Olympic Park Tennis Centre. With a coveted spot in November’s Final...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/india-need-courage-and-belief-to-beat-south-korea-in-davis-cup-says-yuki-bhambri-2026-09-18-1054588",
-    "time": "2026-09-18T05:06:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hyeon Chung beats Sumit Nagal, South Korea take 2-0 lead",
-    "desc": "South Korea took a 2-0 lead over India in the Davis Cup World Group Qualifiers after Hyeon Chung defeated Sumit Nagal 2-6, 6-4, 7-5. The Indian number one Tennis player controlled the opener with aggressive...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/india-vs-south-korea-davis-cup-match-soonwoo-kwon-dhakshineswar-vs-suresh-and-hyeon-chung-vs-sumit-nagal-at-olympic-tennis-centre-seoul-1054578",
-    "time": "2026-09-18T03:59:33.000Z"
   }
 ];
