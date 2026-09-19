@@ -1,6 +1,42 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Death of Anna University student was not due to Dengue, clarifies Public Health Department",
+    "desc": "The department posts on X that the student in question died of scrub typhus, and it was the only reported case. News of a dengue outbreak triggered alarm on campus, causing students to rush to a primary health centre for tests",
+    "img": "https://th-i.thgim.com/public/incoming/9id7nc/article71485916.ece/alternates/LANDSCAPE_1200/DSC_2794.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/death-of-anna-university-student-was-not-due-to-dengue-clarifies-public-health-department/article71484377.ece",
+    "time": "2026-09-19T18:56:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kevin Costner, 71, spending time with 39-year-old influencer McKenna Wesley",
+    "desc": "Kevin Costner, 71, is reportedly spending time with 39-year-old lifestyle influencer McKenna Wesley following his 2024 divorce from Christine Baumgartner. The pair have been spotted together in Scottsdale and Santa Barbara, while sources claim they met through their shared love of golf. Wesley’s representative declined to comment on their relationship.",
+    "img": "https://static.toiimg.com/photo/msid-134359404,imgsize-135641.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kevin-costner-71-reportedly-spending-time-with-39-year-old-influencer-mckenna-wesley-amid-romance-rumours-yellowstone-star-spotted-with-her-after-his-divorce-from-christine-baumgartner/articleshow/134359374.cms",
+    "time": "2026-09-19T18:34:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Union I&B Ministry denies censor exemption to 31 films at IDSFFK in Keralam",
+    "desc": "The films being prevented from screening at the IDSFFK include 18 officially selected films for the festival, nine films in the International Non-Fiction section, three films in the Festival Winners section and one film from the Nepal Package",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/2xecum/article71485853.ece/alternates/LANDSCAPE_1200/1001057780.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/union-ib-ministry-denies-censor-exemption-to-31-films-at-idsffk-in-keralam/article71485856.ece",
+    "time": "2026-09-19T17:54:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England sweep Sri Lanka 3-0, replace India at top of T20I rankings",
+    "desc": "England beat Sri Lanka by eight wickets in the third T20I at Old Trafford in Manchester on Saturday to complete a 3-0 series sweep. The hosts chased down Sri Lanka's 125-run target with 62 balls to spare. The win also helped England move back to the top of the T20 world rankings, replacing India.",
+    "img": "https://static.toiimg.com/photo/msid-134358312,imgsize-64749.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-sweep-sri-lanka-3-0-replace-india-at-top-of-t20i-rankings/articleshow/134358240.cms",
+    "time": "2026-09-19T17:38:01.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Political, religious leaders protest against ‘Tantra in Silence’ event in Kashmir; officials clarify no permission granted",
     "desc": "A poster showed that Swami Dhyan Sumit, who heads the Shree Rajneesh Foundation, is scheduled to attend the event titled ‘Tantra in Silence’ from September 24 to 27 in Gurez valley; Bandipora district administration says the public is advised not to rely on such unauthorised promotional claims",
     "img": "https://th-i.thgim.com/public/incoming/97wpud/article71484549.ece/alternates/LANDSCAPE_1200/SRNIA_25-8-2013_12-49-55_05-GUREZ-SGR-25-08-2013.JPG",
@@ -99,15 +135,6 @@ const newsData_en = [
     "time": "2026-09-19T15:43:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Mamata’s Rejinagar bypoll candidate announces withdrawal from contest, retracts later",
-    "desc": "On the last-minute decision to remain in the contest, Rabiul Alam Chowdhury says he decided to fight the polls to be held on October 6 as per the wishes of former West Bengal CM Mamata Banerjee; a former Trinamool Congress MLA, Mr. Chowdhury had earlier said ‘it is becoming difficult to motivate grassroots workers who have been facing regular harassment’",
-    "img": "https://th-i.thgim.com/public/incoming/sc449s/article71484514.ece/alternates/LANDSCAPE_1200/PTI09_18_2026_000241A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/mamatas-rejinagar-bypoll-candidate-rabiul-alam-chowdhury/article71484466.ece",
-    "time": "2026-09-19T15:41:49.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Can Rs 6,000 be split into three Rs 2,000 payments? No daily cap",
     "desc": "The NPCI framework and the FAQs issued with it do not stipulate that multiple payments relating to a single bill must be clubbed together. Such a restriction, if in place, could prevent businesses from breaking up larger payments into multiple transactions of Rs 2,000 or less.",
@@ -117,24 +144,6 @@ const newsData_en = [
     "time": "2026-09-19T15:30:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "IMD forecasts wet spell in coastal Andhra Pradesh up to September 23",
-    "desc": "The low-pressure area over Andaman Sea is likely to intensify into a depression and reach south Odisha-north Andhra Pradesh coasts around September 23, it says; A.P. State Disaster Management Authority cautions those living in low-lying areas and advises fishermen to return to coast immediately",
-    "img": "https://th-i.thgim.com/public/incoming/8odavx/article71485519.ece/alternates/LANDSCAPE_1200/20RAIN.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/imd-forecasts-wet-spell-in-coastal-andhra-pradesh-up-to-september-23/article71485284.ece",
-    "time": "2026-09-19T15:29:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala High Court orders TDB to implement proposal to improve security and storage of Thiruvabharanam",
-    "desc": "The Commissioner proposes a digital database for each Thiruvabharanam, including a unique asset number, name of the Devaswom, register number, weight, type of metal, gemstone number, photographs, current storage location and custodian, and transfer and inspection history",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-orders-tdb-to-implement-proposal-to-improve-security-and-storage-of-thiruvabharanam/article71481840.ece",
-    "time": "2026-09-19T15:24:10.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Celebs congratulate Deepika-Ranveer on their second baby; fans add, 'luckiest parents'",
     "desc": "Deepika Padukone and Ranveer Singh celebrated the arrival of their second daughter on September 19, 2026, announcing the delightful news to their followers on social media. Fans and Bollywood stars alike have flooded the couple with heartfelt wishes. Deepika is preparing for a role in the upcoming film 'King' with Shah Rukh Khan, while Ranveer is engaged in crafting a gripping zombie thriller titled 'Pralay'.",
@@ -142,6 +151,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/girls-are-the-best-anil-kapoor-kriti-sanon-and-other-celebs-congratulate-deepika-padukone-and-ranveer-singh-on-their-second-baby-fans-add-luckiest-parents/articleshow/134356053.cms",
     "time": "2026-09-19T14:49:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tom Brady’s 2019 Patriots jersey sells for $273,107 after photo match",
+    "desc": "At auction, Tom Brady's 2019 New England Patriots jersey sold for an astonishing $273,107, marking a significant moment when he overtook Peyton Manning on the all-time passing yards leaderboard. The auction attracted intense competition with twenty-four bids, driven by the item's authentication and photo-matching details, demonstrating the high value placed on memorabilia from Brady's illustrious career.",
+    "img": "https://static.toiimg.com/photo/msid-134356055,imgsize-57373.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/nfl/news/in-2026-a-collector-paid-25000-to-start-bidding-on-tom-bradys-patriots-jersey-it-was-tied-to-his-2019-peyton-manning-milestone-and-sold-for-273107/articleshow/134356055.cms",
+    "time": "2026-09-19T14:49:48.000Z"
   },
   {
     "cat": "Business",
@@ -370,21 +388,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Mirzapur The Movie' BO Day 16 [LIVE]: Pankaj Tripathi film crosses Rs 207 crore India net",
-    "desc": "'Mirzapur The Movie' continues to add small but steady sums to its overall tally as it enters Day 16, with its India net collection now at Rs. 206.91 crore. The Pankaj Tripathi, Ali Fazal and Ravi Kishan starrer, well past its opening surge, is now running on the strength of a loyal audience base in its third week, with the worldwide gross closing in fast on the symbolic Rs. 300 crore mark.",
+    "title": "'Mirzapur' zooms past Rs 300 crore globally on Day 16",
+    "desc": "'Mirzapur The Movie' continues to add small but steady sums to its overall tally with Day 16, with its India net collection well past Rs. 210 crore. The Pankaj Tripathi, Ali Fazal and Ravi Kishan starrer, well past its opening surge, is now running on the strength of a loyal audience base in its third week, with the worldwide gross zoomed past the symbolic Rs. 300 crore mark.",
     "img": "https://static.toiimg.com/photo/msid-134351491,imgsize-157699.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-16-live-pankaj-tripathi-ali-fazal-rasika-dugal-ravi-kishan-eyes-rs-210-crore-india-net-and-rs-300-crore-worldwide-milestones-as-it-heads-into-third-weekend/articleshow/134351404.cms",
     "time": "2026-09-19T09:40:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rohit Shetty sets 8 Jan 2027",
-    "desc": "Rohit Shetty announced 'Golmaal 5' will release on January 8, 2027, reuniting Ajay Devgn, Arshad Warsi, Kunal Kemmu, Sharman Joshi, Shreyas Talpade and Tusshar Kapoor, with Akshay Kumar joining the franchise for the first time. Filming began in Ooty in April 2026. The release marks 20 years since the original 2006 film launched the beloved comedy series.",
-    "img": "https://static.toiimg.com/photo/msid-134351501,imgsize-341492.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/golmaal-5-release-date-announced-rohit-shetty-announces-january-8-2027-release-for-ajay-devgn-akshay-kumar-and-arshad-warsi-kunal-kemmu-starrer-comedy-franchise/articleshow/134350891.cms",
-    "time": "2026-09-19T09:39:43.000Z"
   },
   {
     "cat": "Sports",
@@ -457,15 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-troops-must-prepare-to-fight-around-the-moon-trumps-top-military-adviser/article71474351.ece",
     "time": "2026-09-19T07:37:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "The 8.07m jump that made Yohannan an Asiad legend",
-    "desc": "Thaduthuvila Chandapillai Yohannan had etched his name in history with an astounding long jump record achieved in Tehran in 1974. Battling through pain and injuries, he has showcased remarkable athletic prowess, a journey nurtured by his father's unwavering support and encouragement. Yohannan's story is one of dedication and resilience, inspiring him to eagerly support the next generation of athletes aiming for greatness.",
-    "img": "https://static.toiimg.com/photo/msid-134349913,imgsize-115867.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/the-leap-that-began-with-a-dare-a-childhood-challenge-a-swollen-toe-and-the-8-07m-jump-that-made-tc-yohannan-an-asian-games-legend/articleshow/134349875.cms",
-    "time": "2026-09-19T07:20:31.000Z"
   },
   {
     "cat": "Sports",
@@ -774,15 +774,6 @@ const newsData_en = [
     "time": "2026-09-17T12:52:01.000Z"
   },
   {
-    "cat": "Business",
-    "title": "What lies beyond India’s E20 push",
-    "desc": "The E20 blend’s promised savings were offset by lower mileage, with consumers spending an estimated ₹88,234 cr. extra over the last three years; its benefits for emissions and forex savings are uncertain, as higher fuel consumption can raise emissions while diverting crops to ethanol can affect food security and exports",
-    "img": "https://th-i.thgim.com/public/news/national/8cvikn/article71474011.ece/alternates/LANDSCAPE_1200/iStock-2265290727.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/what-lies-beyond-indias-e20-push/article71472275.ece",
-    "time": "2026-09-17T11:40:49.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Why Meta’s Zuckerberg rebuffed Dario Amodei’s AI slowdown calls",
     "desc": "Mr. Amodei has warned that the AI development is beginning to outstrip the labs’ ability to understand and control the systems it is creating. But Mr. Zuckerberg is taking a different route, stating that AI companies have a powerful incentive to build systems that are trustworthy",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
