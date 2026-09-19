@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Dhoomakethu' trailer out: Sajin lead time-loop comedy",
+    "desc": "The trailer for Malayalam film Dhoomakethu has been released, promising a unique time travel narrative. The movie centers on a newly married couple caught in a mysterious repeating cycle. Sajin Gopu's character searches for answers after a deadly sequence of events occurs. This intriguing film explores the time-loop concept with a grounded Malayalam setting. Dhoomakethu is scheduled to release in theaters on September 25.",
+    "img": "https://static.toiimg.com/photo/msid-134346663,imgsize-235640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/dhoomakethu-trailer-out-sajin-gopu-trapped-in-deadly-time-loop-after-marriage-watch/articleshow/134346652.cms",
+    "time": "2026-09-19T02:27:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Star England pacer escapes charges as police drop assault investigation",
+    "desc": "Derbyshire Police have concluded their investigation into Brydon Carse's alleged assault, resulting in no charges being filed against the England fast bowler. Previously removed from the England squad for the Pakistan series, Carse faced prior arrest for drunkenness. With the legal proceedings now settled, Carse can move forward without the weight of uncertainty hanging over him.",
+    "img": "https://static.toiimg.com/photo/msid-134346596,imgsize-93006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/star-england-pacer-escapes-charges-as-police-drop-assault-investigation/articleshow/134346589.cms",
+    "time": "2026-09-19T02:23:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SS Rajamouli launches trailer of Jason Sanjay's 'Sigma,' a fun adventure ride",
+    "desc": "Exciting news! The trailer for 'Sigma', directed by Jason Sanjay, has been unveiled, sparking a flurry of anticipation. Renowned filmmaker SS Rajamouli credited the movie as an exhilarating, youthful adventure. Featuring Sundeep Kishan, 'Sigma' explores a gripping heist infused with dark underworld elements. Fans will be thrilled to know that this film is set for a theatrical release on October 2, 2026, signaling a new beginning for Sanjay's directorial career.",
+    "img": "https://static.toiimg.com/photo/msid-134346619,imgsize-90569.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ss-rajamouli-launches-trailer-of-sigma-says-vijays-son-jason-sanjays-film-is-a-fun-adventure-ride-with-gen-z-action/articleshow/134346608.cms",
+    "time": "2026-09-19T02:22:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What makes Asiad host Nagoya special? A city of cars, football, and sporting legacy",
+    "desc": "Nagoya, known for its automobile industry, also boasts a rich sporting heritage. The city’s football culture was transformed by stars Gary Lineker and Dragan Stojkovic, alongside manager Arsene Wenger, who led Nagoya Grampus to major honours. As the Asian Games begin, Nagoya’s sporting legacy is gaining fresh attention, with the city welcoming Asia’s leading athletes and sporting stars.",
+    "img": "https://static.toiimg.com/photo/msid-134346401,imgsize-269298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/what-makes-asian-games-host-nagoya-special-a-city-of-cars-football-and-sporting-legacy/articleshow/134346349.cms",
+    "time": "2026-09-19T02:21:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "List of International Feature Film submissions",
+    "desc": "The Marathi film 'Gondhal' will represent India at the 99th Academy Awards. This film unfolds over a night centered around a traditional ritual. It explores themes of faith, tradition, desire, deception, and fate. The selection marks the fourth time a Marathi film has been chosen. India has never won the International Feature Film Oscar before.",
+    "img": "https://static.toiimg.com/photo/msid-134346194,imgsize-237758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/oscars-2027-international-feature-film-submissions-indias-gondhal-to-compete-against-romanias-fjord-frances-minotaur-polands-fatherland/articleshow/134346057.cms",
+    "time": "2026-09-19T01:15:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dorothy' trailer out: Keerthy Suresh in Karthik Subbaraj film",
+    "desc": "The much-anticipated trailer for Karthik Subbaraj's 'Dorothy' is finally out, receiving an enthusiastic response from viewers. This poignant film delves into themes of friendship and social discord in the rural landscapes of 1990s India. With Keerthy Suresh and Sananth leading the cast, it made a notable debut at TIFF. The original score, composed by the iconic Ilaiyaraaja, adds depth to the narrative.",
+    "img": "https://static.toiimg.com/photo/msid-134346185,imgsize-185054.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dorothy-trailer-out-keerthy-suresh-leads-karthik-subbaraj-film-fans-call-it-raw-and-rustic-watch/articleshow/134346177.cms",
+    "time": "2026-09-19T01:13:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 1968, Dom DeLuise invested USD 103,000 in a ranch and sold it for USD 6.49 million",
+    "desc": "In 1968, actor Dom DeLuise acquired a Pacific Palisades ranch for just USD 103,000. Following his death, the property sold for a remarkable USD 6.5 million, highlighting an impressive appreciation over fifty-three years. The new owners replaced the original structure with a contemporary home, which is now assessed at an astonishing USD 21 million.",
+    "img": "https://static.toiimg.com/photo/msid-134346158,imgsize-202064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1968-dom-deluise-spent-usd-103000-on-a-ranch-the-property-was-sold-for-a-whopping-usd-6-49-million-after-53-years/articleshow/134346151.cms",
+    "time": "2026-09-19T01:01:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Pawan Sehrawat replaced Tajinderpal Singh as India's Asian Games flag-bearer",
+    "desc": "Pawan Sehrawat has been chosen as the flag-bearer for India's opening ceremony at the Asian Games, stepping in for Tajinderpal Singh Toor, who faced delays with his official kit. Toor mentioned that his kit would arrive too late to participate in the event. Additionally, the athletics team is still waiting for their uniforms. Sehrawat will accompany Manu Bhaker in carrying the Indian flag.",
+    "img": "https://static.toiimg.com/photo/msid-134346127,imgsize-39704.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/pawan-sehrawat-replaces-tajinderpal-singh-toor-as-indias-asian-games-flag-bearer/articleshow/134346121.cms",
+    "time": "2026-09-19T00:53:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bethlehem Kudumba Unit' BO day 29 vs 'Im Game'",
+    "desc": "Nivin Pauly's film 'Bethlehem Kudumba Unit' earned over one crore rupees on its twenty-ninth day. The movie's India net collection has now reached one hundred fifty-three crore rupees. Worldwide gross collections for the film have surpassed three hundred fifteen crore rupees. Overseas markets contributed thirteen crore rupees to the film's total earnings. Dulquer Salmaan's 'Im Game' has achieved forty-seven crore rupees worldwide gross.",
+    "img": "https://static.toiimg.com/photo/msid-134346082,imgsize-477629.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-collections-day-29-vs-im-game-nivin-pauly-film-drops-1-9-rs-315-37-cr-worldwide-rs-153-23-cr-india-net/articleshow/134346077.cms",
+    "time": "2026-09-19T00:42:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Haar nahi maanunga': Sujeet's Asian Games gold mission on the road to LA Olympics",
+    "desc": "Wrestler Sujeet Kalkal’s Olympic dream was shattered before he could even step on the mat at the Paris qualifiers. Stranded at Dubai airport for three days, he arrived in Kyrgyzstan after the weigh-in had ended. Now, the 23-year-old is looking at the Asian Games as a fresh start. Representing India in the competitive 65kg category, Sujeet is determined to win gold and keep his Olympic dream alive.",
+    "img": "https://static.toiimg.com/photo/msid-134336609,imgsize-25952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/haar-nahi-maanunga-sujeet-kalkals-asian-games-2026-gold-mission-on-the-road-to-la-olympics/articleshow/134336297.cms",
+    "time": "2026-09-19T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mandaadi' BO day 9 vs Karthi's 'Sardar 2'",
+    "desc": "Soori's film 'Mandaadi' continued its steady theatrical run, showing growth on its ninth day. The movie earned Rs 3.50 crore in India net collections on its second Friday. This collection brought the film's total India net earnings to Rs 60.80 crore. The Tamil version contributed the larger share to the day's India net earnings. 'Mandaadi' has now reached Rs 84.75 crore in worldwide gross collections.",
+    "img": "https://static.toiimg.com/photo/msid-134346054,imgsize-209128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mandaadi-box-office-collection-day-9-vs-karthis-sardar-2-sooris-film-rises-7-7-rs-84-75-cr-worldwide/articleshow/134346050.cms",
+    "time": "2026-09-19T00:28:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mirzapur The Movie' box office collection day 15: Pankaj Tripathi film sees 31.3% drop",
+    "desc": "Mirzapur The Movie earned Rs 2.75 crore on its fifteenth day. The film’s cumulative India net earnings have now reached Rs 206.20 crore. Its worldwide gross total has climbed to Rs 296.14 crore after fifteen days. The movie saw a 31.3 percent drop in daily collection from yesterday. Mirzapur The Movie was released in theatres on September 4, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-134346048,imgsize-321218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-15-pankaj-tripathi-film-sees-31-3-drop-rs-2-75-cr-on-third-friday-rs-296-14-cr-worldwide/articleshow/134346038.cms",
+    "time": "2026-09-19T00:25:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'It's a Medical Miracle' BO day 1 vs 'L&amp;O'",
+    "desc": "Two Malayalam films, 'It's a Medical Miracle' and 'L&O - Law and Order', opened in theaters on September 18. 'It's a Medical Miracle' earned fifty-five lakhs net on its opening day. The fantasy movie follows a young man's mysterious journey after waking up brain-dead. 'L&O - Law and Order' collected twenty-nine lakhs net, featuring Mammootty in a cameo. Both films are now competing for audience attention at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-134345952,imgsize-459558.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/its-a-medical-miracle-box-office-collections-day-1-vs-lo-law-and-order-sangeeth-prathap-film-opens-at-rs-55-lakhs/articleshow/134345942.cms",
+    "time": "2026-09-19T00:09:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Hanuman Ansh' Day 43 Box Office: Vishal Chaturvedi film records 20.0% drop",
+    "desc": "Hanuman Ansh continues its theatrical run, earning Rs 5.00 crore on its forty-third day. The film's total India net collection has now reached Rs 248.38 crore. Its worldwide gross collection has climbed to Rs 316.30 crore after earning overseas. The movie experienced a 20.0 percent drop in earnings compared to the previous day. This spiritual drama follows a young man's journey to become Neem Karoli Baba.",
+    "img": "https://static.toiimg.com/photo/msid-134345847,imgsize-260359.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-43-vishal-chaturvedi-film-records-20-0-drop-rs-316-30-cr-worldwide-gross-rs-248-38-cr-india-net/articleshow/134345835.cms",
+    "time": "2026-09-19T00:02:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. appeals court rejects Trump policy allowing swift deportations to third countries",
+    "desc": "The Trump administration has entered into a series of agreements that have allowed it to send more than 25,000 migrants to at least 29 third countries, in many cases Mexico, according to Third Country Deportation Watch",
+    "img": "https://th-i.thgim.com/public/incoming/e11e5p/article71483210.ece/alternates/LANDSCAPE_1200/2026-04-11T225122Z_1227172276_RC23NKAN3ZT0_RTRMADP_3_USA-COSTA-RICA-DEPORTATION.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-appeals-court-rejects-trump-policy-allowing-swift-deportations-to-third-countries/article71483004.ece",
+    "time": "2026-09-18T23:49:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' extends theatrical run to Nov 16; OTT release delayed",
+    "desc": "Brand New Day's theatrical run may extend through November 16. The film has achieved record-breaking box-office success both domestically and globally. Its exclusive theatrical window is reportedly being extended by Sony Pictures and exhibitors. This extension could impact the previously announced November 17 digital release date. The movie is expected to eventually stream on Netflix, with a potential premiere around late November 2026.",
+    "img": "https://static.toiimg.com/photo/msid-134345804,imgsize-357178.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-starring-spider-man-brand-new-day-extends-theatrical-run-to-november-16-amid-box-office-success-ott-release-to-be-delayed/articleshow/134345572.cms",
+    "time": "2026-09-18T23:48:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lily Collins wraps up final season of 'Emily in Paris'",
+    "desc": "Actress Lily Collins shared an emotional farewell to her Emily Cooper character. She posted behind-the-scenes pictures and a heartfelt message on Instagram. Collins expressed gratitude to the cast, crew, and creator Darren Star for the experience. She reflected on the surreal and bittersweet feeling of concluding the show. The actress stated she will forever carry this chapter with her.",
+    "img": "https://static.toiimg.com/photo/msid-134345531,imgsize-305383.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lily-collins-wraps-up-final-season-of-emily-in-paris-bids-adieu-to-her-character-au-revoir-emily-cooper/articleshow/134344017.cms",
+    "time": "2026-09-18T22:41:13.000Z"
+  },
+  {
     "cat": "World",
     "title": "Pakistan will go to 'any extent' to defend Saudi Arabia: Army spokesperson",
     "desc": "The remarks came amid an ongoing escalation involving Saudi Arabia and Yemen's Houthis, who carried out attacks on Saudi territory in recent days and established control over the strategic Bab el-Mandeb Strait in the Red Sea",
@@ -18,6 +171,15 @@ const newsData_en = [
     "time": "2026-09-18T22:23:48.000Z"
   },
   {
+    "cat": "Business",
+    "title": "Trump signs Russia sanctions bill into law, gains authority to impose 100% tariff on India and China",
+    "desc": "President Trump has officially enacted a new sanctions law aimed at Russia and Iran, empowering the U.S. to impose penalties on nations purchasing Russian energy supplies. Countries like India and China, significant buyers of Russian crude and gas, have raised concerns about the potential impact on India-US relations and energy security. Both Russia and China have also expressed their discontent towards these sanctions.",
+    "img": "https://static.toiimg.com/photo/msid-134345399,imgsize-745779.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/trump-signs-russia-sanctions-bill-into-law-gains-authority-to-impose-100-tariff-on-india-and-china/articleshow/134344362.cms",
+    "time": "2026-09-18T22:15:54.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Jhiram Valley Maoist attack case ‘rarest of rare': court order",
     "desc": "According to the September 16 verdict, the conspiracy behind the attack was finalised during a meeting of the South Regional Unified Command [of the Communist Party of India (Maoist)] held between February 16-25 in 2013",
@@ -34,6 +196,33 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/amendments-made-to-industrial-land-allotment-regulations-in-keralam/article71480001.ece",
     "time": "2026-09-18T18:55:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "I find GCL entertaining; it actually gives chess a new life: Abhimanyu Mishra",
+    "desc": "In his maiden Global Chess League foray, the American chess prodigy was part of a side that finished sixth out of six. But the 17-year-old Grandmaster thinks highly of the star-studded, innovative competition. He talks about playing in India, his chess journey, and the strengths of reigning World champion Gukesh among others.",
+    "img": "https://th-i.thgim.com/public/incoming/efp0q0/article71482307.ece/alternates/LANDSCAPE_1200/55414599726_5bec801234_o.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/abhimanyu-mishra-youngest-grandmaster-gukesh-global-chess-league-interview/article71482306.ece",
+    "time": "2026-09-18T18:20:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amid strong El Niño, Wayanad sees sharp rise in September temperatures",
+    "desc": "Between September 1 and 17, 2026, the average maximum temperature in the hill district stood at 29.2°C, around 1.9°C higher than the average for the previous three years, with experts warning of potential impacts on water resources and agriculture.",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/ph77pe/article71481329.ece/alternates/LANDSCAPE_1200/19tvkz1-wynd.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/amid-strong-el-nino-wayanad-sees-sharp-rise-in-september-temperatures/article71481353.ece",
+    "time": "2026-09-18T18:15:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rags to riches – how Ollie Robinson plotted his way back from cricketing wilderness",
+    "desc": "The 32-year-old pacer spent more than two years outside the England Test set-up, with his fitness, pace and attitude all under a cloud. However, in a stunning turnaround, the swing and seam exponent has come charging back, helping England win four Tests this summer, and three of them with Player-of-the-Match performances.",
+    "img": "https://th-i.thgim.com/public/incoming/2x6qqr/article71482284.ece/alternates/LANDSCAPE_1200/GettyImages-2290531347.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ollie-robinson-england-new-ball-king-comeback/article71482283.ece",
+    "time": "2026-09-18T17:51:48.000Z"
   },
   {
     "cat": "World",
@@ -72,15 +261,6 @@ const newsData_en = [
     "time": "2026-09-18T17:11:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Punjab govt announces 8 pc DA hike for employees, pensioners",
-    "desc": "The Bhagwant Mann-led government in Chandigarh has officially raised the Dearness Allowance by eight percent for its employees, marking a resolution to the ongoing conflict with state workers and pensioners. This increase will take effect from October first, ensuring immediate relief. Additionally, regular monthly meetings will now be held to discuss employees' needs and welfare, reinforcing the government's pledge to address long-standing demands through constructive dialogue.",
-    "img": "https://static.toiimg.com/photo/msid-134340023,imgsize-57322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-govt-announces-8-pc-da-hike-for-employees-pensioners/articleshow/134339996.cms",
-    "time": "2026-09-18T16:55:38.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Prajakta Mali sells her Goregaon flat for Rs 1.12 crore days after...",
     "desc": "Actress Prajakta Mali recently sold her Goregaon East apartment for Rs 1.12 crore. This property transaction occurred after she purchased another apartment in the same locality. The recently sold flat spanned 473 square feet and was registered on September 10, 2026. Mali also has upcoming projects in Marathi and South Indian cinema. Her career continues to expand with new film ventures.",
@@ -97,15 +277,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/mdr-apprehension-unlikely-to-spur-higher-cash-usage-rbi-deputy-governor/article71482058.ece",
     "time": "2026-09-18T16:45:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mamata Banerjee moves Supreme Court against EC decision to freeze TMC name, symbol",
-    "desc": "Mamata Banerjee has challenged the Election Commission's decision in the Supreme Court. The poll panel froze the Trinamool Congress name and symbol for upcoming bypolls. Her faction received a new name and symbol for the October 6 elections. The rival faction was allotted a different name and symbol by the ECI. The dispute over the original party identity remains unresolved by the commission.",
-    "img": "https://static.toiimg.com/photo/msid-134339866,imgsize-92848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mamata-banerjee-moves-supreme-court-against-eci-decision-to-freeze-tmc-name-symbol/articleshow/134339829.cms",
-    "time": "2026-09-18T16:42:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -190,30 +361,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Salman Khan reprimands driver after fan’s foot reportedly gets caught under car",
-    "desc": "In a recent incident that occurred during Ganpati festivities outside Ashish Shelar’s residence, Salman Khan was seen scolding his driver after a fan was hurt. Footage captured his frustration as the car pushed through a throng of fans. While some commenters criticized him, others came to his defense. Salman is also gearing up for Bigg Boss 20 and SVC63.",
-    "img": "https://static.toiimg.com/photo/msid-134337831,imgsize-437873.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-reprimands-driver-after-fans-foot-reportedly-gets-caught-under-car-during-chaos-due-to-ganpati-celebrations-netizens-react-watch-viral-video/articleshow/134337689.cms",
-    "time": "2026-09-18T14:20:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Hrithik likes post slamming trolls for body-shaming Katrina",
     "desc": "At the Ambani celebrations, Katrina Kaif caught the eye of social media, but not all attention was flattering, with body-shaming comments surfacing online. Fortunately, fan support was strong, including a like from Hrithik Roshan on an encouraging post. An Instagram creator stood up against the negativity, celebrating Katrina's impactful career as social media users compared her present visuals to older ones.",
     "img": "https://static.toiimg.com/photo/msid-134337755,imgsize-299742.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-kaif-faces-trolling-over-post-pregnancy-body-hrithik-roshan-shows-support-as-he-likes-post-calling-out-trolls-your-commentary-on-her-wont-affect-her/articleshow/134337681.cms",
     "time": "2026-09-18T14:18:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shoojit Sircar recalls Amitabh Bachchan’s iconic 'NO' scene as Pink turns 10",
-    "desc": "Shoojit Sircar recalls the making of ‘Pink’ as the Amitabh Bachchan, Taapsee Pannu and Kirti Kulhari starrer completes 10 years. In an interview with Variety India, Sircar reveals how Bachchan’s involvement transformed the project, contributed ideas to the script and helped shape the final “no means no” sequence. The filmmaker also discusses his collaboration with the cast, writer Ritesh Shah and cinematographer Abhik Mukhopadhyay, while reflecting on the film’s lasting impact.",
-    "img": "https://static.toiimg.com/photo/msid-134337262,imgsize-118558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shoojit-sircar-recalls-how-amitabh-bachchan-helped-shape-its-iconic-no-means-no-moment-as-taapsee-pannu-starrer-pink-clocks-10-years-he-would-read-poetry-and-we-would-listen-he-would-give-certain-ideas/articleshow/134337137.cms",
-    "time": "2026-09-18T13:46:45.000Z"
   },
   {
     "cat": "Sports",
@@ -226,75 +379,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Priyadarshan says he still doesn't 'know how to make a successful film'",
-    "desc": "Filmmaker Priyadarshan candidly reveals that underlying insecurity propels his cinematic journey. Despite directing ninety-eight films, he grapples with self-doubt regarding his success. His newest endeavor, Haiwaan, featuring Akshay Kumar and Saif Ali Khan, has faced challenges at the box office, accumulating around fifteen crore rupees globally. This film revisits themes from his earlier Malayalam work, Oppam.",
-    "img": "https://static.toiimg.com/photo/msid-134337225,imgsize-556652.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/im-a-very-insecure-person-priyadarshan-admits-he-still-doesnt-know-how-to-make-a-successful-film-after-98-movies-amid-akshay-kumar-and-saif-ali-khan-starrer-haiwaans-box-office-failure/articleshow/134337116.cms",
-    "time": "2026-09-18T13:44:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mamata gets 'footballer', but can she win TMC 'khela'? Maharashtra has a red-card warning",
-    "desc": "The Election Commission has designated new names and symbols for both Mamata Banerjee's faction and its competitor. This decision mirrors previous disputes seen in Maharashtra with Shiv Sena and NCP. The commission is now tasked with determining the rightful claim to the original TMC name and symbol, influenced heavily by recent Supreme Court decisions that prioritise organisational support in addition to electoral backing.",
-    "img": "https://static.toiimg.com/photo/msid-134336417,imgsize-1216895.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mamata-gets-footballer-but-can-she-win-tmc-khela-maharashtra-has-a-red-card-warning/articleshow/134335435.cms",
-    "time": "2026-09-18T13:31:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pilot handles Punjab turbulence with ‘no CM face’ formula; but can he carry Congress beyond winning line?",
-    "desc": "Sachin Pilot has successfully brought together key leaders of the Punjab Congress, such as Channi and Warring, as they gear up for the 2027 assembly elections. With Rahul Gandhi positioned as the prominent figure of their campaign, this strategic move is designed to counter formidable opponents like the Aam Aadmi Party. However, Pilot now faces the crucial task of maintaining this unity through to the elections.",
-    "img": "https://static.toiimg.com/photo/msid-134337258,imgsize-1018801.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/smooth-take-off-pilot-handles-punjab-turbulence-with-no-cm-face-formula-but-can-he-carry-congress-beyond-winning-line/articleshow/134336670.cms",
-    "time": "2026-09-18T13:18:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "‘Daayra’ movie review: Meghna Gulzar challenges the circle of public conscience",
     "desc": "A gritty examination of the cost of instant retribution, the police procedural, anchored by a fantastic Prithviraj Sukumaran and an unusually off-key Kareena Kapoor Khan, probes the grey area where the line between justice and vengeance blurs.",
     "img": "https://th-i.thgim.com/public/entertainment/movies/ih13lb/article71480851.ece/alternates/LANDSCAPE_1200/Prithviraj%20Sukumaran%20in%20%E2%80%98Daayra%E2%80%99",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/daayra-movie-review-meghna-gulzar-challenges-the-circle-of-public-conscience/article71480773.ece",
     "time": "2026-09-18T12:57:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shruti Hassan says she prayed about thousand times that men get periods",
-    "desc": "Shruti Haasan is championing the cause of menstrual health awareness and advocating for period leave. She expressed her desire for men to understand the challenges of menstruation to build empathy for those who experience it. Sharing her own battles with painful periods caused by PCOS, Haasan emphasizes that open dialogue leads to better workplace accommodations. On the horizon, she has two films set for release, 'Train' and 'Aakasamlo Oka Tara'.",
-    "img": "https://static.toiimg.com/photo/msid-134336174,imgsize-108685.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shruti-hassan-says-she-prayed-about-thousand-times-that-men-get-periods-reveals-having-pcos-it-would-be-so-collaborative-if-you-knew-what-i-was-going-through/articleshow/134336096.cms",
-    "time": "2026-09-18T12:56:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajinikanth's ‘Jailer 2’ NEW promo introduces Suraj Venjaramoodu as Dileep",
-    "desc": "The exciting promo for 'Jailer 2' introduces viewers to Suraj Venjaramoodu's captivating character Dileep, hinting at his pivotal role in the film's unfolding drama. As anticipation builds, the creators are strategically releasing character-centric teasers. The film marks Rajinikanth's return as Muthuvel Pandian, directed by Nelson Dilipkumar, and is set to hit global theaters on October 15.",
-    "img": "https://static.toiimg.com/photo/msid-134336019,imgsize-136424.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-new-promo-suraj-venjaramoodu-makes-an-intense-appearance-as-dileep-in-rajinikanth-and-nelson-dilipkumars-action-sequel/articleshow/134335967.cms",
-    "time": "2026-09-18T12:54:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nithari case victim's father questions Surendra Koli's death, claims murder",
-    "desc": "The father of a Nithari case victim questions Surendra Koli's death, alleging murder. Koli was found hanging in Haridwar, with police investigating the scene. The victim's father believes Koli was murdered and not a suicide victim. He suggests Koli might have been killed if he knew crucial case information. The Nithari case involved the discovery of skeletal remains in Noida.",
-    "img": "https://static.toiimg.com/photo/msid-134336542,imgsize-174060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nithari-case-victims-father-questions-surendra-kolis-death-claims-murder/articleshow/134335931.cms",
-    "time": "2026-09-18T12:52:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘VIBE’ Twitter review: Kunal’s comedy gets warm audience response",
-    "desc": "Audiences on X are raving about Kunal Kemmu's film 'VIBE', particularly highlighting its humor and talented cast. Many recommend watching it in theaters to fully appreciate the comedic elements. However, some feedback points to concerns about the latter part of the film and its technical execution. Praise for Kunal Kemmu and Sparsh Srivastava's performances is prominent, contributing to lively discussions across social platforms.",
-    "img": "https://static.toiimg.com/photo/msid-134335553,imgsize-1030458.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vibe-x-twitter-review-kunal-kemmu-and-preity-zintas-comedy-gets-warm-audience-response-fans-call-it-best-comedy-film-of-this-year-as-audiences-praise-its-humour/articleshow/134335505.cms",
-    "time": "2026-09-18T12:52:54.000Z"
   },
   {
     "cat": "World",
@@ -307,39 +397,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Soori recreates Rajinikanth’s phone call at ‘Mandaadi’ success meet",
-    "desc": "The film Mandaadi's success was celebrated by its cast and crew. Actor Soori received significant praise for his performance in the challenging project. Superstar Rajinikanth personally called Soori to appreciate the film's intense action sequences. Filmmaker Vetri Maaran highlighted Soori's evolving career and audience connection. This success meet marked another milestone in Soori's acting journey.",
-    "img": "https://static.toiimg.com/photo/msid-134335456,imgsize-149906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/soori-recreates-rajinikanths-phone-call-at-mandaadi-success-meet-vetri-maaran-says-audiences-see-him-as-the-boy-from-their-own-home/articleshow/134335436.cms",
-    "time": "2026-09-18T12:27:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actor shrugs off accent jibes",
-    "desc": "Rashmika Mandanna says her multilingual career across Telugu, Kannada, Tamil and Hindi cinema was never planned but grew organically. Responding to accent trolls, she calls herself a \"Jack of all trades, master of none\" but stays focused on her craft. Upcoming projects include \"Ranabaali,\" \"Mysaa\" and Allu Arjun's \"Raaka.\"",
-    "img": "https://static.toiimg.com/photo/msid-134335378,imgsize-227079.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/im-a-jack-of-all-trades-and-master-of-none-rashmika-mandanna-hits-back-at-trolls-criticising-her-accent-working-across-languages-and-how-she-is-not-necessarily-good-at-any-language/articleshow/134335335.cms",
-    "time": "2026-09-18T12:23:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Spain selects ‘La Bola Negra’, France picks ‘Minotaur’ as Vatican City makes historic first submission",
     "desc": "Javier Calvo and Javier Ambrossi’s Cannes Best Director winner will represent Spain, Andrey Zvyagintsev’s Grand Prix winner will compete for France, while the Vatican enters the Academy Awards for the first time with documentary short ‘Green Lava’",
     "img": "https://th-i.thgim.com/public/entertainment/movies/e7p8zb/article71480674.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/oscars-2027-spain-selects-la-bola-negra-france-picks-minotaur-as-vatican-city-makes-historic-first-submission/article71480709.ece",
     "time": "2026-09-18T12:19:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sundeep Kishan defends ‘Sigma’ co-star Faria Abdullah after success questions",
-    "desc": "Actor Sundeep Kishan champions young performers against undue career scrutiny. He defended Faria Abdullah over success ratio questions, highlighting her achievements. Kishan also backed Anaswara Rajan against comparisons with fellow actors. He questioned the lack of support for Telugu talent achieving outside the industry. The film Sigma releases on October 2, marking Jason Sanjay's debut.",
-    "img": "https://static.toiimg.com/photo/msid-134334067,imgsize-169246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sundeep-kishan-defends-sigma-co-star-faria-abdullah-after-success-ratio-questions-she-has-done-so-much-by-25/articleshow/134334052.cms",
-    "time": "2026-09-18T11:34:36.000Z"
   },
   {
     "cat": "Business",
@@ -349,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-has-record-forex-reserves-but-why-is-rupee-still-not-out-of-the-woods/articleshow/134333283.cms",
     "time": "2026-09-18T11:22:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Marathi film 'Gondhal' selected as India's official entry for Oscars 2027",
-    "desc": "The Marathi film 'Gondhal' has been selected to represent India at the 99th Academy Awards. Set against the backdrop of a traditional ritual in rural Maharashtra, this film was chosen from a pool of thirty-three entries by the selection committee. Notably, it is the fourth Marathi film to earn an Oscar nomination, with the ceremony scheduled for March 14, 2027.",
-    "img": "https://static.toiimg.com/photo/msid-134332897,imgsize-363246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/marathi-film-gondhal-selected-as-indias-official-entry-for-oscars-2027-by-film-federation-chosen-from-33-contenders/articleshow/134332821.cms",
-    "time": "2026-09-18T10:46:46.000Z"
   },
   {
     "cat": "Business",
@@ -376,24 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/shiv-kapur-last-to-win-asian-games-gold-in-golf-for-india-hopeful-two-decade-long-medal-wait-will-end/articleshow/134331815.cms",
     "time": "2026-09-18T10:18:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Deepika-Ranveer visit Siddhivinayak ahead of second baby's arrival",
-    "desc": "Ranveer Singh and Deepika Padukone visited Siddhivinayak Temple for their second baby. Ranveer also visited Lalbaugcha Raja to offer thanks and seek blessings. He pledged to support the education of one thousand girls during his visit. The couple recently shared maternity photos featuring their daughter Dua. Ranveer is filming 'Pralay' while Deepika stars in 'King'.",
-    "img": "https://static.toiimg.com/photo/msid-134332023,imgsize-365915.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-ranveer-singh-twin-in-purple-as-they-visit-siddhivinayak-temple-ahead-of-second-babys-arrival-couple-did-the-same-before-dua-was-born/articleshow/134331608.cms",
-    "time": "2026-09-18T10:06:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch live in India",
-    "desc": "The Asian Games 2026 begin in Aichi-Nagoya, Japan, on September 19, with India aiming to improve on its record 107-medal haul from Hangzhou 2023. Manu Bhaker and Tajinderpal Singh Toor will carry India’s flag at the opening ceremony. In India, the ceremony will be telecast on Sony Sports channels and streamed live on SonyLIV.",
-    "img": "https://static.toiimg.com/photo/msid-134331348,imgsize-8354726.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-opening-ceremony-when-and-where-to-watch-live-in-india/articleshow/134331225.cms",
-    "time": "2026-09-18T09:41:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -441,15 +477,6 @@ const newsData_en = [
     "time": "2026-09-18T08:01:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Mirzapur The Movie' inches closer to Rs 300 crore in 15 days",
-    "desc": "‘Mirzapur The Movie’ has entered Day 15 of its theatrical run after crossing the Rs 200 crore mark in India. The Pankaj Tripathi, Ali Fazal and Ravi Kishan starrer has collected Rs 203.63 crore India net so far. With its worldwide gross at around Rs 292 crore, the Gurmmeet Singh directorial is now within striking distance of the Rs 205 crore domestic and Rs 300 crore worldwide milestones.",
-    "img": "https://static.toiimg.com/photo/msid-134329569,imgsize-96779.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-15-live-pankaj-tripathi-ali-fazal-and-ravi-kishan-inches-closer-to-rs-205-crore-india-net-and-rs-300-crore-worldwide-gross-milestones/articleshow/134329344.cms",
-    "time": "2026-09-18T07:52:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Strong possibility’: Gautam Gambhir on Hardik Pandya, Nitish Reddy in playing XI",
     "desc": "Pandya, who has not played any cricket since May due to a quadriceps injury, was not picked for the upcoming ODI series against the West Indies as he is not in a position to bowl 10 overs.",
@@ -457,15 +484,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/strong-possibility-gautam-gambhir-on-hardik-pandya-nitish-reddy-in-playing-xi/article71479561.ece",
     "time": "2026-09-18T07:22:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Charani, Shafali help India beat Japan, to face Bangladesh in semis",
-    "desc": "In a stunning display of skill, India Women triumphed over Japan with an impressive eight-wicket win in the Asian Games quarter-finals. The Indian bowlers suffocated Japan's innings, allowing them to score just fifty-seven runs. Leading the charge, Shafali Verma's explosive forty runs hastened the chase, advancing India into the semi-finals against Bangladesh, mirroring the line-up from the Women’s Asia Cup.",
-    "img": "https://static.toiimg.com/photo/msid-134328747,imgsize-990355.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/shree-charanis-four-for-shafalis-quick-40-help-india-beat-japan-in-asian-games-quater-finals/articleshow/134328592.cms",
-    "time": "2026-09-18T07:11:36.000Z"
   },
   {
     "cat": "World",
@@ -484,15 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-vessel-damages-philippine-fishing-boat-september-18-2026/article71479602.ece",
     "time": "2026-09-18T06:38:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India’s flag bearers revealed: Bhaker, Toor to lead contingent at Asian Games opening",
-    "desc": "As the Asian Games opening ceremony approaches, Manu Bhaker and Tajinderpal Singh Toor have been chosen to carry India's flag, symbolising the country's sports spirit. Bhaker, celebrated for her double Olympic medal triumph, recently earned two bronzes at the Paris Olympics. Toor, a leader in shot put with two previous Asian Games titles, brings valuable experience.",
-    "img": "https://static.toiimg.com/photo/msid-134327953,imgsize-135120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/indias-flag-bearers-revealed-manu-bhaker-tajinderpal-singh-toor-to-lead-contingent-at-asian-games-opening-ceremony/articleshow/134327751.cms",
-    "time": "2026-09-18T06:30:58.000Z"
   },
   {
     "cat": "World",
@@ -520,15 +529,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/malaysias-king-allows-former-leader-najib-to-serve-rest-of-his-graft-sentence-under-house-arrest/article71479473.ece",
     "time": "2026-09-18T05:36:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India’s Quimcy Dsouza storms into Teqball semis at Asian Games",
-    "desc": "Quimcy Joaquim Dsouza has advanced to the semifinals of Teqball after a gripping comeback victory over Japan's top seed Yuina Sakamoto. Following this, she showcased her skills by securing a decisive win against Cambodia's Koemyean DY. This outstanding performance not only cements her place in the semifinals but also positions her for a potential historic medal for India, where she will challenge Indonesia's Ima Sumaya next.",
-    "img": "https://static.toiimg.com/photo/msid-134326948,imgsize-79725.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/one-win-from-history-indias-quimcy-dsouza-stuns-top-seed-to-storm-into-teqball-semis-at-asian-games/articleshow/134326887.cms",
-    "time": "2026-09-18T05:34:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -790,15 +790,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/apple-at-50-a-loyalist-on-the-brands-evolution-in-india/article70846889.ece",
     "time": "2026-09-10T06:45:56.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Charlie Kirk and the indignity of digital immortality",
-    "desc": "A year after his assassination, Charlie Kirk has entered a purgatory Dante could scarcely have imagined, where the dead man is denied the dignity of disappearance and condemned to eternal circulation as an endlessly regenerating digital phantom",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/o7t0fj/article71450470.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/society/charlie-kirk-kirkification-death-anniversary-meme-ai-kirkify/article71450264.ece",
-    "time": "2026-09-10T06:39:06.000Z"
   },
   {
     "cat": "Tech",

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Suresh-Balaji gear up for doubles action against Nam-Park",
+    "desc": "After losing back-to-back matches on the first day of the Davis Cup 2026 qualifiers round 2, India gears up for doubles action. The duo of Dhakshineshwar Suresh and Sriram Balaji will be taking on South...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/india-vs-south-korea-davis-cup-mens-doubles-tennis-match-live-updates-n-sriram-balaji-dhakshineshwar-suresh-vs-jisung-nam-uisung-park-1054672",
+    "time": "2026-09-19T02:11:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He was better': Sumit Nagal opens up after heartbreaking loss against Hyeon Chung in Davis Cup 2026 qualifier",
+    "desc": "Round 2 of the Davis Cup 2026 qualifiers saw India take on South Korea. India’s Dhakshineshwar Suresh took on Soonwoo Kwon in the first match of the day, with Sumit Nagal taking on Hyeon Chung...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/he-was-better-sumit-nagal-opens-up-after-heartbreaking-loss-against-hyeon-chung-in-davis-cup-2026-qualifiers-2026-09-19-1054670",
+    "time": "2026-09-19T01:53:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zimbabwe enter unique list, suffer hefty defeat against Australia in 2nd ODI in Harare",
+    "desc": "Zimbabwe and Australia continued their ongoing ODI series by taking on each other in the 2nd ODI. The two sides met at the Harare Sports Club on September 18, and it was Australia that came...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-enter-unique-list-suffer-hefty-defeat-against-australia-in-2nd-odi-in-harare-2026-09-19-1054668",
+    "time": "2026-09-19T01:36:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "2,000 Indians in Nagoya ready to house athletes amid accommodation crunch",
     "desc": "While Indian athletes face accommodation issues in Japan's Nagoya, the Ministry of Youth Affairs and Sports has swung into action and created a three-layer management system to deal with the situation at the Asian Games...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/india-vs-south-korea-davis-cup-match-soonwoo-kwon-dhakshineswar-vs-suresh-and-hyeon-chung-vs-sumit-nagal-at-olympic-tennis-centre-seoul-1054578",
     "time": "2026-09-18T03:59:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch India-W vs Japan-W, Asian Games, cricket quarter-final live on TV and stream online in India?",
-    "desc": "The stage is set for the Asian Games 2026 cricket quarter-final. India women will be taking on Japan women in the clash as the two sides meet at the Korogi Sports Park, Nisshin, on September...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-w-vs-japan-w-asian-games-cricket-quarter-final-live-on-tv-and-stream-online-in-india-2026-09-18-1054574",
-    "time": "2026-09-18T02:05:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler scripts history, achieves massive feat with 2nd T20I victory against Sri Lanka",
-    "desc": "England and Sri Lanka continued their ongoing T20I series by taking on each other in the 2nd T20I. The two sides met at Sophia Gardens in Cardiff on September 17, and the game saw England...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-scripts-history-achieves-massive-feat-with-2nd-t20i-victory-against-sri-lanka-2026-09-18-1054570",
-    "time": "2026-09-18T01:28:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek architects India's carnage with quickfire century, Shreyas' men seal 3-0 series win vs Afghanistan",
-    "desc": "Abhishek Sharma’s blistering knock against Afghanistan was less a T20 innings and more an unrelenting storm. Leading up to the match, there were general expectations that the southpaw might be benched for the dead rubber...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-architects-india-s-carnage-with-quickfire-century-shreyas-men-seal-3-0-series-win-vs-afghanistan-2026-09-17-1054558",
-    "time": "2026-09-17T17:06:36.000Z"
   }
 ];
