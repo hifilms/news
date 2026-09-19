@@ -1,5 +1,32 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "American Idol leaves LA for Georgia for Season 25 as unscripted production falls",
+    "desc": "American Idol is moving production from Los Angeles to Georgia for Season 25, marking another setback for LA’s unscripted television industry. Unscripted production in Los Angeles has fallen 62.7% over five years, while Georgia offers tax credits of up to 30% for qualifying reality and unscripted productions, making it an attractive filming destination.",
+    "img": "https://static.toiimg.com/photo/msid-134360306,imgsize-105632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/american-idol-is-leaving-los-angeles-for-georgia-for-season-25-as-las-unscripted-production-drops-62-7-in-five-years-with-georgia-offering-up-to-30-tax-credits-for-reality-shows/articleshow/134360292.cms",
+    "time": "2026-09-19T21:05:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What is the India-Pakistan conflict at sea about?",
+    "desc": "What happened on September 15 in the North Arabian Sea? What kind of vessels were involved? Was there any damage to the vessels? How did India react to the incident? What is Pakistan’s version? What is Article 10 of the 1991 Agreement that India alleged Pakistan violated?",
+    "img": "https://th-i.thgim.com/public/incoming/9ohi2g/article71471568.ece/alternates/LANDSCAPE_1200/DEMOLITION%20PAKISTAN%20HIGH%20COMMISSION%20DELHI%20%202026_20_08_18.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/what-is-the-india-pakistan-conflict-at-sea-about-explained/article71485874.ece",
+    "time": "2026-09-19T20:45:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How will the U.S.’s Sanctioning Act affect India?",
+    "desc": "Why did the U.S. introduce the Lindsey O. Graham Sanctioning Russia and Iran Act, 2026? What does this new law say about tariffs? What particular condition impacts India’s imports of Russian oil? How could this impact India’s economy? Is there any provision for a waiver of tariffs?",
+    "img": "https://th-i.thgim.com/public/incoming/py3l8e/article71485941.ece/alternates/LANDSCAPE_1200/Trump__1953.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/how-will-the-uss-sanctioning-act-affect-india-explained/article71485870.ece",
+    "time": "2026-09-19T20:05:32.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Death of Anna University student was not due to Dengue, clarifies Public Health Department",
     "desc": "The department posts on X that the student in question died of scrub typhus, and it was the only reported case. News of a dengue outbreak triggered alarm on campus, causing students to rush to a primary health centre for tests",
@@ -379,15 +406,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Zubeen Garg’s first death anniversary: Wife says 'Still waiting for justice'",
-    "desc": "Assam honors the memory of music legend Zubeen Garg on his first death anniversary with a colorful array of cultural celebrations. Over the course of three days at Zubeen Kshetra, crowds assembled for a blend of music, prayers, and vibrant traditional performances. Garima Garg, his wife, finds solace in the solidarity of his fans, while artists nationwide offer heartfelt tributes, even as the family pursues justice for his untimely demise.",
-    "img": "https://static.toiimg.com/photo/msid-134351530,imgsize-556046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zubeen-gargs-first-death-anniversary-wife-garima-garg-says-family-says-legal-process-is-ongoing-we-are-still-waiting-for-that-answer-and-we-have-to-get-that-justice/articleshow/134351430.cms",
-    "time": "2026-09-19T09:41:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Mirzapur' zooms past Rs 300 crore globally on Day 16",
     "desc": "'Mirzapur The Movie' continues to add small but steady sums to its overall tally with Day 16, with its India net collection well past Rs. 210 crore. The Pankaj Tripathi, Ali Fazal and Ravi Kishan starrer, well past its opening surge, is now running on the strength of a loyal audience base in its third week, with the worldwide gross zoomed past the symbolic Rs. 300 crore mark.",
     "img": "https://static.toiimg.com/photo/msid-134351491,imgsize-157699.cms",
@@ -702,15 +720,6 @@ const newsData_en = [
     "time": "2026-09-18T06:38:51.000Z"
   },
   {
-    "cat": "World",
-    "title": "Malaysia's King allows former leader Najib to serve rest of his graft sentence under house arrest",
-    "desc": "It marked an unprecedented use of house arrest as a form of royal clemency in Malaysia and could renew debate over royal powers, the rule of law and the treatment of Malaysia's most prominent corruption convict",
-    "img": "https://th-i.thgim.com/public/incoming/k8321w/article71479502.ece/alternates/LANDSCAPE_1200/Malaysia_Corruption_41303.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/malaysias-king-allows-former-leader-najib-to-serve-rest-of-his-graft-sentence-under-house-arrest/article71479473.ece",
-    "time": "2026-09-18T05:36:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Inside Fred again.. and LATIN MAFIA’s 50-hour live mixtape experiment",
     "desc": "Over 50 fifty unbroken hours in a Mexico City room, with the cameras running the whole time, the British producer and the Mexican trio built their mixtape 9 months & 50 hours, in front of anyone who wanted to watch",
@@ -745,15 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/abhishek-blazes-fastest-century-in-full-member-t20s/article71478364.ece",
     "time": "2026-09-17T22:13:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cold blood, hot streak: Elena Rybakina’s US Open triumph and her quiet rise to World No. 1",
-    "desc": "An Achilles injury, just four days of practice, and a final against the top seed and two-time defending champion... Rybakina’s path to the US Open title was anything but simple. However, her tennis made it look that way. In the process, she ascended to the top of the world rankings.",
-    "img": "https://th-i.thgim.com/public/incoming/xh1scf/article71478166.ece/alternates/LANDSCAPE_1200/GettyImages-2294476120.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/elena-rybakina-world-no-1-us-open-2026-rise-sabalenka-analysis-stats/article71478154.ece",
-    "time": "2026-09-17T19:14:29.000Z"
   },
   {
     "cat": "Entertainment",
@@ -865,15 +865,6 @@ const newsData_en = [
   },
   {
     "cat": "Tech",
-    "title": "A loyalist on the brand’s evolution in India",
-    "desc": "From buying an iPod Mini in 2004 to standing in line for early iPad launches, one long-time user traces how Apple Inc. shaped taste, tech and aspiration in India — and how the global giant has, over time, gone quietly desi",
-    "img": "https://th-i.thgim.com/public/incoming/lvrdb/article70850214.ece/alternates/LANDSCAPE_1200/IMG_BL0204_Tech_1997_iPh_2_1_N5FPOTH3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/apple-at-50-a-loyalist-on-the-brands-evolution-in-india/article70846889.ece",
-    "time": "2026-09-10T06:45:56.000Z"
-  },
-  {
-    "cat": "Tech",
     "title": "Government issues warning for these Android smartphone and tablet users",
     "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
     "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
