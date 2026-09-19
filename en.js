@@ -1,12 +1,228 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Chief Minister Chandrababu Naidu asks officials to declare drought-hit mandals in Andhra Pradesh on October 1",
-    "desc": "Calling for a scientific assessment of deficit rainfall conditions under the influence of El Nino, the Chief Minister bats for micro-irrigation to safeguard crops and insists that there be no drinking water shortage anywhere in the State; preliminary estimates for 2026-Kharif season indicate the impact of El Nino on 513 mandals with situation in 268 being severe",
-    "img": "https://th-i.thgim.com/public/incoming/q6k2x9/article71484763.ece/alternates/LANDSCAPE_1200/PTI09_17_2026_000357A.jpg",
+    "title": "Political, religious leaders protest against ‘Tantra in Silence’ event in Kashmir; officials clarify no permission granted",
+    "desc": "A poster showed that Swami Dhyan Sumit, who heads the Shree Rajneesh Foundation, is scheduled to attend the event titled ‘Tantra in Silence’ from September 24 to 27 in Gurez valley; Bandipora district administration says the public is advised not to rely on such unauthorised promotional claims",
+    "img": "https://th-i.thgim.com/public/incoming/97wpud/article71484549.ece/alternates/LANDSCAPE_1200/SRNIA_25-8-2013_12-49-55_05-GUREZ-SGR-25-08-2013.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-chandrababu-naidu-asks-officials-to-declare-drought-hit-mandals-in-andhra-pradesh-on-october-1/article71484605.ece",
-    "time": "2026-09-19T12:47:46.000Z"
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/political-religious-leaders-protest-against-event-in-kashmirs-gurez/article71484395.ece",
+    "time": "2026-09-19T17:24:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘System’ run by Modi prefers andhbhakts over students who ask questions, says Rahul Gandhi",
+    "desc": "Congress leader Rahul Gandhi says students pose a danger to the ‘system’, the top layer of which he said consisted of six people, as they question why institutions like judiciary, bureaucracy and the Election Commission ‘are not doing their jobs properly’",
+    "img": "https://th-i.thgim.com/public/incoming/9q2uyj/article71485821.ece/alternates/LANDSCAPE_1200/20260919348L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/system-run-by-modi-prefers-andhbhakts-over-students-who-ask-questions-says-rahul-gandhi/article71485654.ece",
+    "time": "2026-09-19T17:21:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bruno Mars dismisses $50 million casino debt rumours: ‘I’m debt free’",
+    "desc": "Bruno Mars has dismissed long-running claims that he owed $50 million in casino debt, telling a Las Vegas audience, “I’m debt free.” The 40-year-old singer has an estimated $260 million net worth, built through music, touring and real estate. His portfolio includes a lavish Studio City mansion and properties in Hawaii.",
+    "img": "https://static.toiimg.com/photo/msid-134357930,imgsize-191916.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bruno-mars-puts-60-million-casino-debt-rumours-to-rest-im-debt-free-singers-260-million-fortune-includes-studio-city-mansion-honolulu-estate-and-las-vegas-residency/articleshow/134357829.cms",
+    "time": "2026-09-19T17:19:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chirag Paswan launches Gen Z outreach to ‘counter’ Rahul Gandhi's campaign",
+    "desc": "Called ‘Youth Bole To’, the Union Minister’s campaign will kick off in Patna on September 24 before moving to Uttar Pradesh; party insiders say he wants to project himself as a major youth leader and is looking to make an impact in the 2027 U.P. election",
+    "img": "https://th-i.thgim.com/public/incoming/evtc0w/article71485823.ece/alternates/LANDSCAPE_1200/20260822191L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/chirag-paswan-launches-gen-z-outreach-to-counter-rahul-gandhis-campaign/article71484919.ece",
+    "time": "2026-09-19T17:18:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 1997, Paul Newman donated part of his land; in 2011, it was turned into a preserve",
+    "desc": "In 1997, actor Paul Newman generously donated land aimed at conservation, which alongside other acquisitions, formed a nature preserve. Officially opened in 2011, the Newman-Poses Nature Preserve showcases his commitment to ecological activism. Following his death, his daughters have passionately upheld his legacy, ensuring the preserve remains a vibrant sanctuary for future generations.",
+    "img": "https://static.toiimg.com/photo/msid-134352026,imgsize-72496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1997-paul-newman-donated-7-5-acres-of-his-land-to-westport-14-years-later-his-dream-of-turning-it-into-a-preserve-came-true-in-the-form-of-a-39-acre-protected-land/articleshow/134351970.cms",
+    "time": "2026-09-19T16:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After Sagar tragedy, Madhya Pradesh Police uncover hooch racket with Delhi link",
+    "desc": "14 arrested over a period of two days, taking the total number of those held in the case to 37; chemical used to make the counterfeit liquor that led to at least 20 deaths earlier this month came from company in Delhi, police allege",
+    "img": "https://th-i.thgim.com/public/incoming/ub5hx7/article71485711.ece/alternates/LANDSCAPE_1200/9d3b6042-dc5b-47de-8d95-5e6a814bf04e.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/after-sagar-tragedy-madhya-pradesh-police-uncover-hooch-racket-with-delhi-link/article71484881.ece",
+    "time": "2026-09-19T16:19:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Greenland, Denmark say Trump deal won't compromise sovereignty",
+    "desc": "Key details of the agreement have not been made public, including the scale of U.S. military presence in the self-governing Danish territory and whether any formal power over foreign policy and resources ‌would be ceded to Washington",
+    "img": "https://th-i.thgim.com/public/incoming/vt3h1c/article71485678.ece/alternates/LANDSCAPE_1200/2026-01-17T175810Z_735032905_RC233JA47T7Y_RTRMADP_3_USA-TRUMP-GREENLAND-PROTESTS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/greenland-denmark-say-trump-deal-wont-compromise-sovereignty/article71485651.ece",
+    "time": "2026-09-19T16:12:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengaluru firm ropes in Israel’s P-Cure to launch network of compact proton therapy centres in India",
+    "desc": "The first centre, a 660-bed quaternary campus built around integrated artificial intelligence and augmented care solutions, will come up at Sentient Health City, in Jakkur. The partners will invest ₹1,900 crore to build dedicated proton therapy infrastructure across India",
+    "img": "https://th-i.thgim.com/public/incoming/5g40s3/article71485691.ece/alternates/LANDSCAPE_1200/IMG_BL0902_Pulse_Capsule_2_1_KHFI46AQ.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-firm-ropes-in-israels-p-cure-to-launch-network-of-compact-proton-therapy-centres-in-india/article71481906.ece",
+    "time": "2026-09-19T16:12:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Authentication mandatory for these refills",
+    "desc": "Consumers who have not undergone BAA will not be stopped from receiving LPG cylinders. However, those who choose not to complete the authentication will have to pay the prevailing market price and will not receive the subsidy.",
+    "img": "https://static.toiimg.com/photo/msid-134356801,imgsize-714567.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/lpg-aadhaar-rule-from-october-1-authentication-mandatory-for-subsidised-gas-refills-how-to-complete-process-check-steps/articleshow/134356757.cms",
+    "time": "2026-09-19T16:01:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Father-son duo makes history: Shigenobu and Koji light cauldron",
+    "desc": "Japan’s Shigenobu Murofushi and his son Koji Murofushi jointly lit the cauldron at the 20th Asian Games in Nagoya, bringing the torch relay to a memorable end. Both Shigenobu and Koji are former Asian Games champions in hammer throw. The duo climbed the stairs to the podium together before lighting the cauldron.",
+    "img": "https://static.toiimg.com/photo/msid-134356626,imgsize-51913.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/father-son-duo-makes-history-five-time-asian-games-champion-shigenobu-murofushi-and-olympic-gold-medallist-son-koji-light-cauldron-in-aichi-nagoya/articleshow/134356286.cms",
+    "time": "2026-09-19T15:45:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Katrina Kaif opens up about physical changes during and after pregnancy",
+    "desc": "Katrina Kaif has opened up about the physical changes she experienced during and after pregnancy, amid scrutiny over her appearance and body-shaming. The actress revealed that her skin became more sensitive post-pregnancy, prompting her to adopt a gentler skincare routine focused on cleansing, repair and protection, while prioritising overall wellbeing.",
+    "img": "https://static.toiimg.com/photo/msid-134356621,imgsize-90476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-kaif-opens-up-about-physical-changes-during-and-after-pregnancy-amid-trolling-and-body-shaming-post-pregnancy-my-skin-became-even-more-sensitive/articleshow/134356587.cms",
+    "time": "2026-09-19T15:43:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata’s Rejinagar bypoll candidate announces withdrawal from contest, retracts later",
+    "desc": "On the last-minute decision to remain in the contest, Rabiul Alam Chowdhury says he decided to fight the polls to be held on October 6 as per the wishes of former West Bengal CM Mamata Banerjee; a former Trinamool Congress MLA, Mr. Chowdhury had earlier said ‘it is becoming difficult to motivate grassroots workers who have been facing regular harassment’",
+    "img": "https://th-i.thgim.com/public/incoming/sc449s/article71484514.ece/alternates/LANDSCAPE_1200/PTI09_18_2026_000241A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/mamatas-rejinagar-bypoll-candidate-rabiul-alam-chowdhury/article71484466.ece",
+    "time": "2026-09-19T15:41:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Can Rs 6,000 be split into three Rs 2,000 payments? No daily cap",
+    "desc": "The NPCI framework and the FAQs issued with it do not stipulate that multiple payments relating to a single bill must be clubbed together. Such a restriction, if in place, could prevent businesses from breaking up larger payments into multiple transactions of Rs 2,000 or less.",
+    "img": "https://static.toiimg.com/photo/msid-134356410,imgsize-592720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/upi-mdr-is-coming-can-a-rs-6000-bill-be-split-into-three-rs-2000-payments-to-avoid-charges-for-now-npci-has-no-daily-cap/articleshow/134356384.cms",
+    "time": "2026-09-19T15:30:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IMD forecasts wet spell in coastal Andhra Pradesh up to September 23",
+    "desc": "The low-pressure area over Andaman Sea is likely to intensify into a depression and reach south Odisha-north Andhra Pradesh coasts around September 23, it says; A.P. State Disaster Management Authority cautions those living in low-lying areas and advises fishermen to return to coast immediately",
+    "img": "https://th-i.thgim.com/public/incoming/8odavx/article71485519.ece/alternates/LANDSCAPE_1200/20RAIN.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/imd-forecasts-wet-spell-in-coastal-andhra-pradesh-up-to-september-23/article71485284.ece",
+    "time": "2026-09-19T15:29:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala High Court orders TDB to implement proposal to improve security and storage of Thiruvabharanam",
+    "desc": "The Commissioner proposes a digital database for each Thiruvabharanam, including a unique asset number, name of the Devaswom, register number, weight, type of metal, gemstone number, photographs, current storage location and custodian, and transfer and inspection history",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-orders-tdb-to-implement-proposal-to-improve-security-and-storage-of-thiruvabharanam/article71481840.ece",
+    "time": "2026-09-19T15:24:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celebs congratulate Deepika-Ranveer on their second baby; fans add, 'luckiest parents'",
+    "desc": "Deepika Padukone and Ranveer Singh celebrated the arrival of their second daughter on September 19, 2026, announcing the delightful news to their followers on social media. Fans and Bollywood stars alike have flooded the couple with heartfelt wishes. Deepika is preparing for a role in the upcoming film 'King' with Shah Rukh Khan, while Ranveer is engaged in crafting a gripping zombie thriller titled 'Pralay'.",
+    "img": "https://static.toiimg.com/photo/msid-134356063,imgsize-621969.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/girls-are-the-best-anil-kapoor-kriti-sanon-and-other-celebs-congratulate-deepika-padukone-and-ranveer-singh-on-their-second-baby-fans-add-luckiest-parents/articleshow/134356053.cms",
+    "time": "2026-09-19T14:49:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Aramco stops crude supplies to India; replacement barrels costlier as oil tops $100",
+    "desc": "The pipeline was shut late last week after it was allegedly targeted by drones. It had become Saudi Arabia’s main alternative route for transporting crude after the maritime chokepoint, the Strait of Hormuz, was disrupted.",
+    "img": "https://static.toiimg.com/photo/msid-134356058,imgsize-845348.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/saudi-aramco-stops-crude-supplies-to-indian-refiners-after-pipeline-attack-replacement-barrels-available-but-oil-is-at-over-100-and-freight-costs-are-set-to-rise/articleshow/134356048.cms",
+    "time": "2026-09-19T14:49:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Carrot Top hospitalized in Las Vegas after suicide attempt",
+    "desc": "Comedian Carrot Top, whose real name is Scott Thompson, has been hospitalized in Las Vegas following a reported suicide attempt. His scheduled Luxor performance was canceled. His representative confirmed that Thompson is recovering in hospital and receiving care and support, while his family has thanked fans for their concern and requested privacy as he recovers.",
+    "img": "https://static.toiimg.com/photo/msid-134356011,imgsize-112365.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/carrot-top-whose-real-name-is-scott-thompson-hospitalized-in-las-vegas-after-suicide-attempt-luxor-show-canceled-as-comedians-representative-confirms-he-is-recovering-asks-for-privacy/articleshow/134355976.cms",
+    "time": "2026-09-19T14:44:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Play well and shine’: PM Modi wishes Team India as Asian Games 2026 begins",
+    "desc": "As the Asian Games kicked off, Prime Minister Modi sent his heartfelt wishes to the Indian athletes. Olympic medallist Manu Bhaker and renowned kabaddi player Pawan Sehrawat spearheaded the Indian team. Starting Sunday, these talented athletes will launch their pursuit of medals across multiple sports, with ambitions high to exceed their previous best from Hangzhou. A lineup of celebrated sports stars is set to compete for India’s glory.",
+    "img": "https://static.toiimg.com/photo/msid-134355720,imgsize-173059.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/play-well-and-shine-pm-modi-wishes-team-india-as-asian-games-2026-begins-medal-hunt-starts-sunday/articleshow/134355617.cms",
+    "time": "2026-09-19T14:14:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika welcomes 2nd baby on Radhashtami, both daughters are September girls",
+    "desc": "Deepika Padukone and Ranveer Singh have welcomed their second child, a baby girl, on September 19, 2026. The little one arrived on Radhashtami, making the occasion even more special. Their first daughter, Dua, born on September 8, 2024, is now a big sister. The couple recently shared a pregnancy photoshoot featuring Dua and also celebrated the family’s growing bond through heartfelt social media posts.",
+    "img": "https://static.toiimg.com/photo/msid-134355678,imgsize-220691.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-and-ranveer-singh-welcome-their-second-baby-girl-after-dua-on-radhashtami-their-daughters-are-now-both-september-born/articleshow/134355112.cms",
+    "time": "2026-09-19T14:10:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I'm interested in governance, not politics': Leander Paes on AITA presidency bid",
+    "desc": "As Leander Paes runs for the office of president of the All India Tennis Association, elections for which is stated to be held later this year, the tennis legend wants to turn around a sports body that has been in the news for playing truant. In New York for the US Open, he spoke to TOI about his plans and goals for Indian tennis.",
+    "img": "https://static.toiimg.com/photo/msid-134355610,imgsize-93786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/im-interested-in-governance-not-politics-leander-paes-on-aita-presidency-bid/articleshow/134355466.cms",
+    "time": "2026-09-19T14:05:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Missed Jaspal sir a lot': Manu Bhaker gets emotional after opening ceremony",
+    "desc": "Manu Bhaker said she missed Jaspal Rana during the ceremony, making the special occasion an emotional one. She carried the Indian flag alongside kabaddi star Pawan Sehrawat. Rana, a former shooter and coach, died on June 11 at the age of 49. He played an important role in Bhaker’s career and guided her to two bronze medals at the 2024 Paris Olympics.",
+    "img": "https://static.toiimg.com/photo/msid-134355320,imgsize-58496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/missed-jaspal-rana-sir-a-lot-manu-bhaker-gets-emotional-after-asian-games-opening-ceremony/articleshow/134355104.cms",
+    "time": "2026-09-19T13:43:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India’s Asian Games 2026 schedule September 20: Events, timings",
+    "desc": "India’s medal campaign at the Asian Games 2026 will gather pace on Sunday, with several athletes and teams in action across different events. With medal events in teqball, a cricket semifinal, shooting action and the start of both hockey campaigns, Sunday will be an important day for the Indian contingent at the Asian Games 2026.",
+    "img": "https://static.toiimg.com/photo/msid-134352006,imgsize-65346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indias-full-schedule-today-september-20-events-timings/articleshow/134351683.cms",
+    "time": "2026-09-19T13:34:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika-Ranveer welcome second baby girl after Dua, congratulations pour in",
+    "desc": "In a joyful update, Deepika Padukone and Ranveer Singh have welcomed their second child into the family. Announcing their pregnancy earlier this year, the couple now adds another member to their family, joining their daughter Dua, who was born in September 2024. This delightful news comes nearly two years after their first child's arrival, leaving fans excited for a sneak peek of their growing family.",
+    "img": "https://static.toiimg.com/photo/msid-134350578,imgsize-341250.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-ranveer-singh-welcome-second-baby-become-parents-to-a-baby-girl-announce-with-an-adorable-post-pic-inside/articleshow/134332302.cms",
+    "time": "2026-09-19T13:32:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "producer hails Wanted as true game-changer",
+    "desc": "Producer Boney Kapoor marked 17 years of Salman Khan's 'Wanted', calling it a \"true game-changer\" in Hindi mass-action cinema. He celebrated Salman's iconic Radhe act on Instagram, pairing a throwback theatre photo with the song 'Le Le Mazaa Le'. Directed by Prabhu Deva, the 2009 film also starred Ayesha Takia, Prakash Raj and Anil Kapoor.",
+    "img": "https://static.toiimg.com/photo/msid-134354339,imgsize-171555.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/boney-kapoor-hails-salman-khan-as-iconic-radhe-in-wanted-as-film-clocks-17-years-calls-it-a-true-game-changer-and-landmark-of-indian-cinema/articleshow/134354319.cms",
+    "time": "2026-09-19T12:32:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -36,15 +252,6 @@ const newsData_en = [
     "time": "2026-09-19T12:17:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "accused husband found dead in village lake",
-    "desc": "According to the police, Anand had allegedly strangled Vidya to death using an ID-card lanyard at the lodge before fleeing the scene. The murder came to light on September 16, following which police launched a search for him",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/doddaballapur-lodge-murder-accused-husband-found-dead-in-village-lake/article71484079.ece",
-    "time": "2026-09-19T12:17:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Ilaiyaraaja marks 50 years as ‘Gondhal’ becomes India’s Oscar entry",
     "desc": "Ilaiyaraaja is celebrating 50 years in Indian cinema with a major international milestone. His music features in the Marathi psychological thriller 'Gondhal', which has been selected as India’s official entry for the Best International Feature Film category at the 99th Academy Awards. Directed by Santosh Davakhar, the film marks the first Ilaiyaraaja-scored movie chosen as India’s Oscar entry.",
@@ -61,24 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/18-years-after-the-2008-financial-meltdown-how-a-crisis-born-in-us-reshaped-india/articleshow/134352862.cms",
     "time": "2026-09-19T11:55:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Punjab CM Mann",
-    "desc": "Stubble burning in Punjab and Haryana is often blamed for increased air pollution in the Delhi-NCR region. Due to the short window for the Rabi crop (wheat) after the paddy harvest in October and November, many farmers burn their fields to quickly clear the crop residue",
-    "img": "https://th-i.thgim.com/public/incoming/545cn7/article71484536.ece/alternates/LANDSCAPE_1200/PTI09_14_2026_000100B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/punjab/not-in-favour-of-firs-against-farmers-over-stubble-burning-punjab-cm-mann/article71484467.ece",
-    "time": "2026-09-19T11:44:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tulu as additional official language of Dakshina Kannada and Udupi districts in Karnataka | Explained",
-    "desc": "The Registrar General and Census Commissioner has recognised Tulu as an independent language of India ever since the department was established, and the Census Report gives statistics about Tulu speakers as a separate linguistic community",
-    "img": "https://th-i.thgim.com/public/incoming/9nal25/article71484547.ece/alternates/LANDSCAPE_1200/DSC_9222.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/tulu-as-additional-official-language-of-dakshina-kannada-and-udupi-districts-in-karnataka-explained/article71484444.ece",
-    "time": "2026-09-19T11:43:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -135,15 +324,6 @@ const newsData_en = [
     "time": "2026-09-19T10:46:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Amendments made to industrial land allotment regulations in Keralam",
-    "desc": "To facilitate optimal utilisation of industrial assets subleasing in industrial parks and estates will now be permitted for a maximum of 10 years subject to certain conditions. Renewal of sublease will require new written approval of KINFRA or KSIDC, the land allotment agencies",
-    "img": "https://th-i.thgim.com/public/incoming/6svdl8/article71481135.ece/alternates/LANDSCAPE_1200/Cabinet-approveGSUFO071O.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/amendments-made-to-industrial-land-allotment-regulations-in-keralam/article71480001.ece",
-    "time": "2026-09-19T10:36:12.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Half’ makes history as first Malayalam film in TIFF’s Midnight Madness",
     "desc": "The Malayalam film 'Half' has made waves at the Toronto International Film Festival (TIFF), achieving a notable achievement in the Midnight Madness section. Audience reactions were overwhelmingly positive, praising the film's gripping narrative and unique visual style. During a Q&A session, lead actors Ranjith Sajeev and Aiswarya Raj shared insights about their roles, while the film’s stunning action sequences and sound design received high accolades from viewers.",
@@ -162,24 +342,6 @@ const newsData_en = [
     "time": "2026-09-19T10:24:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJD protests UPI changes, says Centre should fund digital payments",
-    "desc": "The Biju Janata Dal (BJD) has firmly dismissed the government's recent proposal to impose fees on UPI transactions that exceed two thousand rupees. Party officials emphasized the need for the Centre to seek alternative funding sources for enhancing digital infrastructure. They proposed tapping into the Reserve Bank of India's dividends for this purpose, warning that this charge could adversely affect both merchants' earnings and consumer expenses.",
-    "img": "https://static.toiimg.com/photo/msid-134351976,imgsize-57198.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjd-protests-upi-changes-says-centre-should-fund-digital-payments/articleshow/134351954.cms",
-    "time": "2026-09-19T10:11:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. government writes to PM Modi seeking to change the operator of Chennai airport",
-    "desc": "In the letter sent in August, Chief Minister C. Joseph Vijay has said Tamil Nadu has been industry-friendly, making consistent efforts to attract business and investment; hence, better management of the airport is of paramount importance",
-    "img": "https://th-i.thgim.com/public/incoming/5lamuw/article71481743.ece/alternates/LANDSCAPE_1200/4871_13_9_2026_13_17_6_1_DSC_2298.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/tn-government-writes-to-pm-modi-seeking-to-change-the-operator-of-chennai-airport/article71481590.ece",
-    "time": "2026-09-19T10:08:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Jhooth nahi bolunga’: Rohit reveals comfort food he craved during match nights",
     "desc": "In a candid moment, former captain Rohit Sharma opened up about his comfort food during Test matches. Facing long hours of play often stirred feelings of anxiety and sleeplessness, yet his mother's baked banana wafers brought him peace. With their familiar taste, these beloved snacks accompanied Rohit throughout his illustrious Test career, grounding him amid the pressure.",
@@ -196,15 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/hiphop-tamizha-adhi-meesaya-murukku-2-tamizhanda-movement-porunai-documentary/article71482110.ece",
     "time": "2026-09-19T10:02:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Entry to Kambathrayan Giri temple restricted on Purattasi Saturdays over recent forest fire",
-    "desc": "The fire had damaged grasslands and small vegetation, while rocks in some areas remained highly heated. Burnt vegetation, loose soil, and rocks could pose a risk of slips, falls and falling rocks, the Forest Dept. said",
-    "img": "https://th-i.thgim.com/public/incoming/m686lj/article71484257.ece/alternates/LANDSCAPE_1200/9870_4_9_2026_13_37_21_1_FIRE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/entry-to-kambathrayan-giri-temple-restricted-on-purattasi-saturdays-over-recent-forest-fire/article71484190.ece",
-    "time": "2026-09-19T09:47:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -232,33 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/golmaal-5-release-date-announced-rohit-shetty-announces-january-8-2027-release-for-ajay-devgn-akshay-kumar-and-arshad-warsi-kunal-kemmu-starrer-comedy-franchise/articleshow/134350891.cms",
     "time": "2026-09-19T09:39:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arya reveals how 'Vettuvam' grew into a Rs 75 crore project",
-    "desc": "Pa Ranjith’s project 'Vettuvam' exceeded its original concept, ballooning from a modest budget of twenty-five crore to an impressive seventy-five crore rupees. Actor Arya, who initially anticipated a brief sixty-day shoot, lauded Ranjith as a standout filmmaker in India. Sobhita Dhulipala also emphasized the empowering nature of Ranjith's female roles within the film.",
-    "img": "https://static.toiimg.com/photo/msid-134351169,imgsize-154886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/arya-reveals-pa-ranjith-initially-pitched-vettuvam-as-a-60-day-film-before-it-grew-into-a-rs-75-crore-project-with-larger-ambitions-for-that-mindset-hats-off-to-you-sir/articleshow/134351160.cms",
-    "time": "2026-09-19T09:32:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vikrant to open real-life ‘Musafir Cafe’ in Himachal, Uttarakhand: Pic",
-    "desc": "Vikrant Massey is bringing the charm of Musafir Cafe to life with two new establishments in the scenic states of Himachal Pradesh and Uttarakhand. These cafes will feature a cozy ambiance that harmonizes with the majestic mountains. Additionally, the project will include dedicated spaces for artist residencies, encouraging creative expression. Excitingly, the second season of Musafir Cafe has also been officially confirmed for viewers.",
-    "img": "https://static.toiimg.com/photo/msid-134351302,imgsize-340270.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikrant-massey-to-open-real-life-musafir-cafe-in-himachal-pradesh-and-uttarakhand-with-around-20-artist-residency-rooms-first-look-revealed/articleshow/134351248.cms",
-    "time": "2026-09-19T09:29:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sobhita opens up about intense martial arts training for ‘Vettuvam’",
-    "desc": "Sobhita Dhulipala is gearing up for her challenging role in Pa. Ranjith's sports drama 'Vettuvam', which centers around the unique traditional sport of Mallakhamba. To bring authenticity to her character, Sobhita has undergone rigorous physical training in various martial arts and is committed to performing her own stunts, viewing this endeavor as a collaborative journey. The film boasts a stellar cast and the captivating soundtrack composed by GV Prakash Kumar.",
-    "img": "https://static.toiimg.com/photo/msid-134351195,imgsize-605226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sobhita-dhulipala-reveals-rigorous-mallakhamba-and-martial-arts-training-for-pa-ranjiths-vettuvam-the-preparation-blasted-open-my-mind-and-body/articleshow/134350905.cms",
-    "time": "2026-09-19T09:15:06.000Z"
   },
   {
     "cat": "Sports",
@@ -297,33 +423,6 @@ const newsData_en = [
     "time": "2026-09-19T08:48:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Samay Raina, sorry’: Farah Khan reacts to being called ‘number one YouTuber’",
-    "desc": "Farah Khan graced Saba Ibrahim's new home in Mumbai, playfully dubbed the leading YouTuber and amusingly apologizing to fellow creator Samay Raina for the title. After a hiatus from filmmaking, Farah embraced vlogging, quickly capturing a large audience. Her channel showcases delightful cooking sessions with celebrities and engaging dialogues, providing an exciting creative escape that complements her directing endeavors.",
-    "img": "https://static.toiimg.com/photo/msid-134350833,imgsize-528858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-raina-sorry-farah-khan-reacts-to-being-called-number-one-youtuber-by-saba-ibrahim-and-khalid-niaz-during-their-new-home-tour/articleshow/134350664.cms",
-    "time": "2026-09-19T08:44:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kurnool prepares two sites for Ganesh idol immersion",
-    "desc": "According to Industries and Commerce Minister and Kurnool MLA T.G. Bharath Gupta, necessary arrangements are being made to conduct the Ganesh idols immersion at the Vinayaka Ghat on the K-C Canal and the Handri-Neeva site near the Nannur toll gate",
-    "img": "https://th-i.thgim.com/public/incoming/yix1w9/article71484097.ece/alternates/LANDSCAPE_1200/10215_19_9_2026_11_52_38_1_IMG_20260919_WA0033.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-prepares-two-sites-for-ganesh-idol-immersion/article71483788.ece",
-    "time": "2026-09-19T08:43:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India’s Davis Cup campaign ends with 1-3 loss to South Korea",
-    "desc": "India’s Davis Cup campaign ended with a 1-3 loss to South Korea in Seoul. Dhakshineswar Suresh and N Sriram Balaji kept India alive with a 6-3, 3-6, 6-3 doubles win, but Sumit Nagal lost 1-6, 2-6 to Soonwoo Kwon. Korea became the first Asian team to reach the knockout stage under the new format.",
-    "img": "https://static.toiimg.com/photo/msid-134350743,imgsize-88924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/indias-davis-cup-campaign-ends-with-1-3-loss-to-south-korea/articleshow/134348833.cms",
-    "time": "2026-09-19T08:43:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No Dhoni, Kohli or Rohit: Pat Cummins names 'toughest' India player he faced",
     "desc": "Pat Cummins, the Australian cricket captain, named Cheteshwar Pujara as his toughest foe from India. Pujara’s unwavering spirit and resilience during two challenging Border-Gavaskar Trophy series tested the Australians' resolve. Across 25 Tests, he amassed 2,074 runs with a remarkable average of 49.38. Cummins also mentioned other formidable competitors like Brendon McCullum and Saeed Ajmal, alongside the likes of Alastair Cook and AB de Villiers in his reflections.",
@@ -331,33 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-ms-dhoni-virat-kohli-or-rohit-sharma-pat-cummins-names-toughest-india-player-he-faced/articleshow/134350780.cms",
     "time": "2026-09-19T08:42:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhruva Natchathiram' release: HC asks Gautham Menon to submit documents",
-    "desc": "The Madras High Court has approved an extension for Dhruva Natchathiram's release date, pushing it to October 31. The filmmakers are now tasked with finalizing necessary procedures for the spy thriller's grand cinematic release. Additionally, Gautham Menon is required to submit evidence concerning payments made for Vikram as anticipation builds for this highly awaited film's debut.",
-    "img": "https://static.toiimg.com/photo/msid-134350786,imgsize-194479.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhruva-natchathiram-release-madras-high-court-asks-gautham-menon-to-submit-documents-over-rs-10-57-crore-payment-gives-him-more-time-as-vikram-starrer-gets-new-october-31-deadline/articleshow/134350772.cms",
-    "time": "2026-09-19T08:40:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mallika on hospital food, Actor-comedian slams vegetarian",
-    "desc": "Mallika Dua faced backlash after recalling how Hinduja Hospital offered her dal soup instead of paya soup, calling \"vegetarian hospitals\" ridiculous. She also criticised poor bedside manners, sparking online debate. She later clarified she wasn't blaming all doctors, defended her right as a patient to comment, and revealed she's undergoing an iron infusion.",
-    "img": "https://static.toiimg.com/photo/msid-134350662,imgsize-176985.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/what-is-a-vegetarian-hospital-actor-comedian-mallika-dua-questions-vegetarian-hospital-food-policies-after-being-offered-dal-soup-instead-of-paya-sparks-online-debate/articleshow/134350631.cms",
-    "time": "2026-09-19T08:25:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Ahaan Panday’s palatial 4-floor Mumbai home with boho-chic decor",
-    "desc": "Ahaan Panday’s luxurious four-storey Bandra mansion has been a family home for nearly two decades. His sister Alanna Panday previously gave fans a detailed tour of the property on her YouTube channel, revealing its spacious front yard, multiple living rooms, staff flats, outdoor areas, security cameras and a gaming room. The ‘Saiyaara’ actor also briefly appeared during the tour, only to playfully shut the door when Alanna asked to show his bedroom.",
-    "img": "https://static.toiimg.com/photo/msid-134350593,imgsize-120572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-saiyaara-star-ahaan-pandays-palatial-mumbai-home-with-four-floors-boho-chic-interiors-game-room-and-fingerprint-access-and-lush-front-yard/articleshow/134350153.cms",
-    "time": "2026-09-19T08:24:17.000Z"
   },
   {
     "cat": "Sports",
@@ -396,15 +468,6 @@ const newsData_en = [
     "time": "2026-09-19T07:20:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Mamata Banerjee's Rejinagar pick withdraws from bypolls contest, then retracts",
-    "desc": "Rabiul Alam Chowdhury's announcement came a day after Sanchita Pradhan Dey, the faction's candidate in Nandigram, withdrew her nomination. She had met West Bengal Chief Minister Suvendu Adhikari with her husband on Thursday, but did not publicly explain her decision to quit. After Dey's withdrawal, Mamata's faction backed Congress candidate Milan Pradhan in Nandigram.",
-    "img": "https://static.toiimg.com/photo/msid-134349725,imgsize-174284.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/trouble-mounts-for-mamata-banerjee-as-her-rejinagar-bypolls-pick-withdraws/articleshow/134349583.cms",
-    "time": "2026-09-19T07:06:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Both will come’: BCCI’s update on Asia Cup trophies India refused to take from Naqvi",
     "desc": "The arrival of India's Asia Cup trophies at the BCCI headquarters in Mumbai is on the horizon. BCCI secretary Devajit Saikia assured fans that the silverware would be en route soon. Both the men's and women's cricket teams chose not to participate in trophy presentations in Dubai. Notably, the women's team held their own medal ceremony after clinching the final, demonstrating a resolute stance towards trophy recognition.",
@@ -424,39 +487,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'We waited for like 6 hrs to get a room': Gukesh on why Arjun lost Round 1 game",
-    "desc": "World champion D Gukesh said Arjun Erigaisi’s shock opening-round loss was partly influenced by India’s hectic arrival and accommodation issues, with players waiting six hours for rooms. Gukesh also backed India’s decision to field him on Board 4, saying Pragg and Arjun were in strong form and the order was chosen to maximise the team’s chances.",
-    "img": "https://static.toiimg.com/photo/msid-134348556,imgsize-80060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/we-all-waited-for-like-6-hours-to-get-a-room-d-gukesh-explains-why-arjun-erigaisi-lost-in-chess-olympiad-round-1-game/articleshow/134348479.cms",
-    "time": "2026-09-19T05:52:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘After working a 12-hour shift, a woman comes home, cooks food’: Radhika Apte",
-    "desc": "Radhika Apte has opened up about why women often struggle to find time for their own desires while balancing work, motherhood and household responsibilities. Speaking to IANS in the context of ‘Lust Stories 3’, the actor said women often have “zero time” for themselves and stressed that motherhood should not become their entire identity. She also discussed the unequal burden of domestic work, arguing that sharing responsibilities could give women more space to live for themselves.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-working-a-12-hour-shift-a-woman-comes-home-cooks-food-lust-stories-3-star-radhika-apte-says-women-often-have-zero-time-for-their-own-desires-while-balancing-work-motherhood-and-household-duties/articleshow/134348510.cms",
-    "time": "2026-09-19T05:46:04.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Manav-Manush pair leads India’s table tennis medal hopes",
     "desc": "The Indian men's team faces Indonesia in its first match of Group F and plays against Iran in its second match on September 20. The women's team is also placed in Group F and starts its campaign against Indonesia before taking on Singapore in its second match of the day",
     "img": "https://th-i.thgim.com/public/incoming/bropqf/article71483704.ece/alternates/LANDSCAPE_1200/COMMONWEALTH%20TABLE%20TENNIS%20CHAMPIONSHIP%20NEW%20DELHI%20112.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/manav-manush-pair-spearheads-indias-asian-games-medal-bid/article71483689.ece",
     "time": "2026-09-19T05:10:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why was the Asian Games 2026 flag-hoisting ceremony delayed?",
-    "desc": "A flag-hoisting ceremony for six Asian Games contingents, including India, was delayed by over an hour on Friday due to what organisers called “miscommunication” between the OCA and ANAGOC. Contingents were made to wait and later sent back. India’s chef de mission Sahdev Yadav acknowledged organisational issues, saying extra hotel rooms had been booked to minimise inconvenience.",
-    "img": "https://static.toiimg.com/photo/msid-134348035,imgsize-159040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/why-was-the-asian-games-2026-flag-hoisting-ceremony-delayed/articleshow/134347962.cms",
-    "time": "2026-09-19T04:55:57.000Z"
   },
   {
     "cat": "Sports",
@@ -477,24 +513,6 @@ const newsData_en = [
     "time": "2026-09-19T04:11:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Delhi a terrifying daily story for women': Rahul, Priyanka slam Amit Shah over teen's gangrape-murder",
-    "desc": "In a fervent response to women's safety issues, Congress leaders Rahul Gandhi and Priyanka Gandhi Vadra have raised grave concerns in the wake of a teenage girl's gang rape and murder. They demanded thorough accountability from authorities and condemned recent instances of sexual violence against minors. Their criticisms targeted both the Delhi Police and Union Home Minister Amit Shah for perceived negligence in handling such critical incidents.",
-    "img": "https://static.toiimg.com/photo/msid-134347444,imgsize-72590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-a-terrifying-daily-story-for-women-rahul-priyanka-slam-amit-shah-over-teens-gangrape-murder/articleshow/134347405.cms",
-    "time": "2026-09-19T04:11:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ronaldinho-inspired Teqball puts her one win away from Asiad history",
-    "desc": "Quimcy Joaquim Dsouza is set to vie for the bronze medal in Teqball at the upcoming Asian Games 2026. After a tough semifinal defeat against Indonesia's Ima Sumaya, Dsouza's determination shines through. Her journey is pivotal for Indian Teqball, as she aims to carve her name in history as the first Indian to clinch a Teqball medal at the Games, following an impressive showing in the group stages.",
-    "img": "https://static.toiimg.com/photo/msid-134347392,imgsize-871056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/at-13-quimcy-dsouza-was-a-middle-distance-runner-before-football-took-over-11-years-later-ronaldinho-inspired-teqball-has-put-her-one-win-from-asian-games-history/articleshow/134347339.cms",
-    "time": "2026-09-19T03:54:24.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. State Department clears $2.7 billion Ukraine defence package",
     "desc": "If the purchase is concluded, Ukraine would finance it using a combination of ‌European contributions and U.S. Foreign Military Financing (FMF) appropriated during the administration of former President Joe ‌Biden, the State Department said in a notification",
@@ -502,33 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-state-department-clears-27-billion-ukraine-defence-package/article71483529.ece",
     "time": "2026-09-19T03:29:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Humpy downs 'Greek Goddess' Tsolakidou; Gukesh back above 2700",
-    "desc": "Koneru Humpy avenged her recent Global Chess League setbacks against Greece’s Stavroula Tsolakidou, helping India’s women extend their unbeaten run at the Chess Olympiad. In the open section, Gukesh returned to winning ways against Italy’s Sabino Brunello after slipping below 2700. India won the open tie 3-1, while both teams continued their strong starts to the tournament.",
-    "img": "https://static.toiimg.com/photo/msid-134346836,imgsize-104406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-3-koneru-humpy-downs-greek-goddess-tsolakidou-gukesh-back-above-2700/articleshow/134346470.cms",
-    "time": "2026-09-19T02:50:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What makes Asiad host Nagoya special? A city of cars, football, and sporting legacy",
-    "desc": "Nagoya, known for its automobile industry, also boasts a rich sporting heritage. The city’s football culture was transformed by stars Gary Lineker and Dragan Stojkovic, alongside manager Arsene Wenger, who led Nagoya Grampus to major honours. As the Asian Games begin, Nagoya’s sporting legacy is gaining fresh attention, with the city welcoming Asia’s leading athletes and sporting stars.",
-    "img": "https://static.toiimg.com/photo/msid-134346401,imgsize-269298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/what-makes-asian-games-host-nagoya-special-a-city-of-cars-football-and-sporting-legacy/articleshow/134346349.cms",
-    "time": "2026-09-19T02:21:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Haar nahi maanunga': Sujeet's Asian Games gold mission on the road to LA Olympics",
-    "desc": "Wrestler Sujeet Kalkal’s Olympic dream was shattered before he could even step on the mat at the Paris qualifiers. Stranded at Dubai airport for three days, he arrived in Kyrgyzstan after the weigh-in had ended. Now, the 23-year-old is looking at the Asian Games as a fresh start. Representing India in the competitive 65kg category, Sujeet is determined to win gold and keep his Olympic dream alive.",
-    "img": "https://static.toiimg.com/photo/msid-134336609,imgsize-25952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/haar-nahi-maanunga-sujeet-kalkals-asian-games-2026-gold-mission-on-the-road-to-la-olympics/articleshow/134336297.cms",
-    "time": "2026-09-19T00:30:00.000Z"
   },
   {
     "cat": "World",
@@ -673,24 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/oscars-2027-spain-selects-la-bola-negra-france-picks-minotaur-as-vatican-city-makes-historic-first-submission/article71480709.ece",
     "time": "2026-09-18T12:19:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "RBI has record forex reserves, but why is rupee still not out of the woods?",
-    "desc": "The currency is now hovering back to its two-month lows. While the RBI is intervening to prevent major volatility, the fact is the rupee is still facing immense pressure, and experts believe the currency is unlikely to appreciate much any time soon.",
-    "img": "https://static.toiimg.com/photo/msid-134333733,imgsize-704423.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-has-record-forex-reserves-but-why-is-rupee-still-not-out-of-the-woods/articleshow/134333283.cms",
-    "time": "2026-09-18T11:22:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "NSE’s mega IPO crosses full subscription mark with strong institutional demand",
-    "desc": "The National Stock Exchange of India's IPO saw full subscription on its second day. Strong demand from institutional investors drove the significant subscription levels. Qualified Institutional Buyers and non-institutional investors showed robust interest in the offering. The IPO is an entirely an offer for sale, with proceeds going to selling shareholders. NSE shares are expected to debut on the market on September twenty-fourth.",
-    "img": "https://static.toiimg.com/photo/msid-134332284,imgsize-173864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/nses-mega-rs-22569-crore-ipo-crosses-full-subscription-mark-with-strong-institutional-demand/articleshow/134331709.cms",
-    "time": "2026-09-18T10:18:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/iphone-duo-india-price-launch-fold-design-review/article71450124.ece",
     "time": "2026-09-10T10:01:15.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "A loyalist on the brand’s evolution in India",
+    "desc": "From buying an iPod Mini in 2004 to standing in line for early iPad launches, one long-time user traces how Apple Inc. shaped taste, tech and aspiration in India — and how the global giant has, over time, gone quietly desi",
+    "img": "https://th-i.thgim.com/public/incoming/lvrdb/article70850214.ece/alternates/LANDSCAPE_1200/IMG_BL0204_Tech_1997_iPh_2_1_N5FPOTH3.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/apple-at-50-a-loyalist-on-the-brands-evolution-in-india/article70846889.ece",
+    "time": "2026-09-10T06:45:56.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
   }
 ];

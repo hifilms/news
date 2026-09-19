@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "World No. 2 Alexander Zverev defeats Croatia's Matej Dodig 6-4, 7-6 in straight sets",
+    "desc": "Fresh after winning the US Open by beating home favourite Ben Shelton in the final, world number 2 Alexander Zverev confirmed his participation in the ongoing Davis Cup. Representing Germany, the 29-year-old took on Croatia’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/davis-cup-2026-qualifiers-germany-vs-croatia-alexander-zverev-matej-dodig-live-updates-2026-09-19-1054715",
+    "time": "2026-09-19T13:44:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Where to watch Asian Games 2026 live on TV and stream online in India?",
     "desc": "India recorded their best-ever medal performance at the previous edition of the Asian Games. Hence, there’s certainly a sense of expectation from the contingent in the 20th Asian Games, which marked its opening ceremony on...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/he-was-better-sumit-nagal-opens-up-after-heartbreaking-loss-against-hyeon-chung-in-davis-cup-2026-qualifiers-2026-09-19-1054670",
     "time": "2026-09-19T01:53:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zimbabwe enter unique list, suffer hefty defeat against Australia in 2nd ODI in Harare",
-    "desc": "Zimbabwe and Australia continued their ongoing ODI series by taking on each other in the 2nd ODI. The two sides met at the Harare Sports Club on September 18, and it was Australia that came...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-enter-unique-list-suffer-hefty-defeat-against-australia-in-2nd-odi-in-harare-2026-09-19-1054668",
-    "time": "2026-09-19T01:36:25.000Z"
   }
 ];
