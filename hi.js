@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Where to watch Asian Games 2026 live on TV and stream online in India?",
+    "desc": "India recorded their best-ever medal performance at the previous edition of the Asian Games. Hence, there’s certainly a sense of expectation from the contingent in the 20th Asian Games, which marked its opening ceremony on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/where-to-watch-asian-games-2026-live-on-tv-and-stream-online-in-india-2026-09-19-1054705",
+    "time": "2026-09-19T11:18:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manu Bhaker, Pawan Sehrawat lead Indian contingent in Asian Games opening ceremony",
+    "desc": "Pawan Sehrawat and Manu Bhaker carried the Indian flag at the opening ceremony of the Asian Games 2026 in Aichi-Nagoya. The event formally announced the commencement of the 20th edition of the continental sporting event...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/manu-bhaker-pawan-sehrawat-lead-indian-contingent-in-asian-games-opening-ceremony-2026-09-19-1054700",
+    "time": "2026-09-19T10:27:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch Davis Cup 2026 qualifier matches live in India?",
+    "desc": "The Davis Cup 2026 qualifier matches continue on September 20; it is worth noting that the Indian team’s campaign at the event ended after they faced South Korea in the second round. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/when-and-where-to-watch-davis-cup-2026-qualifier-matches-live-in-india-2026-09-19-1054696",
+    "time": "2026-09-19T09:30:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Korea hand India harsh reality check in Davis Cup, exposing massive gap in singles game",
+    "desc": "India arrived at Seoul’s Olympic Park Tennis Centre with plenty of optimism. To acclimate to the conditions and the surface, the contingent arrived rather early and the move was heavily appreciated by the fans, who...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/south-korea-hand-india-harsh-reality-check-in-davis-cup-exposing-massive-gap-in-singles-game-2026-09-19-1054695",
+    "time": "2026-09-19T09:27:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India's Davis Cup campaign ends after Soonwoo Kwon beats Sumit Nagal in Seoul",
     "desc": "N Sriram Balaji and Dhakshineshwar Suresh’s incredible win in the Davis Cup doubles rejuvenated India’s campaign. The focus then immediately shifted towards Sumit Nagal, who took the court against South Korea’s Kwon Soon-woo in the...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-enter-unique-list-suffer-hefty-defeat-against-australia-in-2nd-odi-in-harare-2026-09-19-1054668",
     "time": "2026-09-19T01:36:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "2,000 Indians in Nagoya ready to house athletes amid accommodation crunch",
-    "desc": "While Indian athletes face accommodation issues in Japan's Nagoya, the Ministry of Youth Affairs and Sports has swung into action and created a three-layer management system to deal with the situation at the Asian Games...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/asian-games-2026-2-000-indians-in-nagoya-ready-to-house-athletes-amid-accommodation-crunch-2026-09-18-1054653",
-    "time": "2026-09-18T15:14:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India thrash Japan, register eight-wicket win to qualify for Asian Games semi-final",
-    "desc": "Indian women registered an eight-wicket win over Japan in the ongoing Asian Games. They arrived at the contest as the favourites and were too comfortable for the entire time and made it to the semi-finals...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-thrash-japan-register-eight-wicket-win-to-qualify-for-asian-games-semi-final-2026-09-18-1054639",
-    "time": "2026-09-18T12:43:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sumit Nagal fails to impress after stunning start, India trail 2-0 in Davis Cup tie vs South Korea",
-    "desc": "After a disappointing start to the Davis Cup, India needed a strong start through Sumit Nagal in the second game of the tie. Earlier in the day, Dhakshineswar Suresh suffered after making an early impression,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/sumit-nagal-fails-to-impress-after-stunning-start-india-trail-2-0-in-davis-cup-tie-vs-south-korea-2026-09-18-1054627",
-    "time": "2026-09-18T11:08:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manu Bhaker, Tajinderpal Singh Toor named India's flag-bearers for Asian Games opening ceremony",
-    "desc": "Double Olympic medallist Manu Bhaker and defending Asian Games shot put champion Tajinderpal Singh Toor will carry the Indian flag at the opening ceremony of the 2026 Asian Games in Japan on Saturday. The announcement brings...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/manu-bhaker-tajinderpal-singh-toor-named-india-s-flag-bearers-for-asian-games-opening-ceremony-2026-09-18-1054603",
-    "time": "2026-09-18T07:37:01.000Z"
   }
 ];
