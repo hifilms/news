@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ફરી બદલાશે ભારતનો ODI કેપ્ટન? આ ખેલાડીને મળી શકે છે જવાબદારી, જાણો કેમ?",
+    "desc": "ટીમ ઈન્ડિયાને ન્યૂઝીલેન્ડની ધરતી પર ક્રિકેટના ત્રણેય ફોર્મેટમાં કઠિન કસોટીનો સામનો કરવો પડશે. જો કે, આ પ્રવાસનું શેડ્યૂલ કેટલાક ખેલાડીઓ માટે માથાનો દુખાવો સાબિત થઈ શકે છે. છેલ્લી વનડે અને પહેલી ટેસ્ટ વચ્ચે માત્ર ચાર દિવસનો જ અંતર છે, તેથી ભારતીય ટીમ પાસે પ્રેક્ટિસ માટે વધુ સમય નહીં હોય.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/will-india-odi-captain-change-again-this-player-could-get-the-responsibility-find-out-why-491876 ",
+    "time": "2026-09-20T14:35:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અડવાણી, જયશંકરથી લઇને ઇલેક્શન કમિશ્નરને ચૂંટણી પંચની નોટિસ, દિલ્હીની મતદાર યાદીમાં ગડબડી? 33 લાખ નામ સામેલ",
+    "desc": "દિલ્હીમાં મતદાતા યાદીના SIR ને લઈને વિવાદ વધી રહ્યો છે. મુખ્ય ચૂંટણી અધિકારી દ્વારા મતદાન ફોર્મમાં ગડબડીને લઈને 33 લાખથી વધુ મતદાતાઓને નોટિસ મોકલવામાં આવી છે. નોટિસોની આ યાદીમાં લાલકૃષ્ણ અડવાણીથી લઈને એસ જયશંકર સુધી અનેક દિગ્ગજોના નામ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/delhi-voter-list-controversy-election-commission-issues-notices-to-33-lakh-voters-including-lk-advani-s-jaishankar-491875 ",
+    "time": "2026-09-20T13:58:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "બેંકના ગ્રાહકો માટે મોટા સમાચાર! 28થી 30 સપ્ટેમ્બર રહેશે હડતાળ, 5 દિવસ કામકાજ ઠપ્પ",
+    "desc": "આ બેંકે 28થી 30 સપ્ટેમ્બરે પ્રસ્તાવિત બેંક હડતાળ અંગે ગ્રાહકોને માહિતી આપી છે. હડતાળના બે દિવસ પહેલા રજા છે, જેના કારણે પાંચ દિવસ માટે બેંક બંધ રહેવાની શક્યતા છે. ચાલો જાણીએ કે કયા કાર્યો પહેલા પૂર્ણ કરવાની જરૂર છે અને કઈ સેવાઓ ઓનલાઈન મળી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-news-for-bank-customers-strike-from-september-28-to-30-operations-to-remain-stalled-for-5-days-491860 ",
+    "time": "2026-09-20T11:25:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "યુક્રેનનો રશિયા પર અત્યાર સુધીનો સૌથી મોટો હુમલો: 1,000 થી વધુ ડ્રોન છોડ્યા, 2 લોકોના મોત!",
+    "desc": "યુક્રેને રશિયા પર મોટો ડ્રોન હુમલો કર્યો છે. આ હુમલામાં 2 રશિયન નાગરિકોના મોત થયા છે. યુક્રેને 1 હજારથી વધુ ડ્રોનથી હુમલો કર્યો છે. રશિયાનું કહેવું છે કે 1600થી વધુ ડ્રોનને રોકી દેવામાં આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/ukraine-launches-biggest-drone-attack-on-russia-over-1000-drones-fired-2-killed-491859 ",
+    "time": "2026-09-20T11:16:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UGC બિલના વિરોધમાં ભારે વિરોધ પ્રદર્શન, પોલીસ સાથે થયું ધર્ષણ, જાણો",
+    "desc": "રવિવારે, પશ્ચિમ ઉત્તર પ્રદેશના આગ્રા અને ફિરોઝાબાદમાં યુજીસી બિલને લઈને ભારે વિરોધ પ્રદર્શન થયું હતું. બંને જિલ્લામાં મોટી સંખ્યામાં વિરોધીઓ રસ્તા પર ઉતરી આવ્યા હતા. ફિરોઝાબાદમાં, બેરીકેડ પર પોલીસ સાથે ઝપાઝપી થઈ હતી. પોલીસ કાર્યવાહીનો વિરોધ કરવા માટે કેટલાક વિરોધીઓએ ગાંધી પાર્કમાં ધરણા પ્રદર્શન કર્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/massive-protests-against-the-ugc-bill-scuffle-with-police-find-out-more-491857 ",
+    "time": "2026-09-20T10:49:56.000Z"
+  },
+  {
     "cat": "Business",
     "title": "1 શેર પર ₹160નું ડિવિડન્ડ આપી રહી છે કંપની, આ જ અઠવાડિયે છે રેકોર્ડ ડેટ!",
     "desc": "શું તમે પણ શેર બજારમાં ડિવિડન્ડ સ્ટોક પર દાવ લગાવો છો તો તમારા માટે સારા સમાચાર છે. આવતીકાલે મહારાષ્ટ્ર સ્કૂટર લિમિટેડના શેર એક્સ-ડિવિડન્ડ ટ્રેડ કરશે. કંપની એક શેર પર 160 રૂપિયાનું ડિવિડન્ડ આપી રહી છે.",
@@ -405,15 +450,6 @@ const newsData_gu = [
     "time": "2026-09-17T02:39:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ગણતરીની કલાકોમાં આ વિસ્તારોમાં તૂટી પડશે વાવાઝોડા સાથે ભારે વરસાદ ! 80 કિમીની ઝડપે ફૂંકાશે પવન",
-    "desc": "ભારતીય હવામાન વિભાગ (IMD)એ 20 રાજ્યોમાં વાવાઝોડા સાથે ભારે વરસાદની આગાહી કરી છે. દક્ષિણ-પશ્ચિમ રાજસ્થાન પર સર્જાયેલા લો-પ્રેશર સિસ્ટમના કારણે દિલ્હી, ઉત્તર પ્રદેશ, બિહાર અને મધ્ય પ્રદેશ સહિતના અનેક રાજ્યોમાં તેજ પવન ફૂંકાવાની પણ શક્યતા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/imd-heavy-rain-alert-17-september-weather-update-gujarat-rain-491478 ",
-    "time": "2026-09-16T16:55:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "વેસ્ટ ઈન્ડિઝ સિરીઝ માટે ભારતીય ટીમ જાહેર, જાડેજાની વાપસી, રોહિત-કોહલીનું શું થયું ?",
     "desc": "ભારતીય ટીમ વેસ્ટ ઈન્ડિઝ સામે ત્રણ મેચની વન-ડે અને T20 શ્રેણી રમશે. આ બંને શ્રેણી માટે ભારતીય ટીમની જાહેરાત કરવામાં આવી છે. રવિન્દ્ર જાડેજાની ટીમમાં વાપસી થઈ છે, ત્યારે બીજા કયા ખેલાડીઓને તક મળી છે અને કોનું પત્તુ કપાયું છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -430,24 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/petroleum-lockdown-in-bankrupt-pakistan-work-only-4-days-a-week-schools-and-colleges-shut-491473 ",
     "time": "2026-09-16T14:38:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "વકીલ સાહેબે પીએમ મોદીને રાજકારણનો કક્કો શીખવાડ્યો, ગુજરાત છોડવાનો ફાયદો ડબલ થયો",
-    "desc": "સંઘર્ષમાંથી સંકલ્પ સુધી અને સંઘની શાખાથી રાષ્ટ્રીય સંગઠન સુધીની સફર. નરેન્દ્ર મોદીના જીવનમાં RSSએ શિસ્ત, સંગઠન અને વિચારધારાનો પાયો નાખ્યો. કટોકટીના ભૂગર્ભ સંઘર્ષથી લઈને ભાજપની સંગઠનાત્મક જવાબદારી અને ગુજરાતના રાજકીય ઉથલપાથલ સુધી. કેવી રીતે એક સંગઠનકારનું નામ રાષ્ટ્રીય રાજકારણમાં ગુંજવા લાગ્યું? જાણીએ આ ખાસ અહેવાલમાં....",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/from-a-common-rss-volunteer-to-the-prime-minister-of-india-the-struggle-saga-of-narendra-modi-491463 ",
-    "time": "2026-09-16T13:42:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મું પગાર પંચ અને 18 સપ્ટેમ્બરની ડેડલાઈન... સરકારીના કર્મચારીઓને આ સમાચાર જાણવા જરૂરી",
-    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ 8મા પગાર પંચની ભલામણોની આતુરતાપૂર્વક રાહ જોઈ રહ્યા છે. એવી અપેક્ષા છે કે આ પંચ તેની રચનાના 18 મહિનાની અંદર તેની અંતિમ ભલામણો જાહેર કરશે. ત્યારે પગાર પંચે ડેડલાઈન સુધીમાં તેનો રિપોર્ટ સોંપવાની તૈયારીઓ શરૂ કરી દીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-government-employees-salary-hike-september-18-deadline-491462 ",
-    "time": "2026-09-16T13:23:11.000Z"
   },
   {
     "cat": "Sports",
@@ -565,24 +583,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ramayana-movie-first-song-jai-jai-ram-song-release-on-ganesh-chaturthi-491160 ",
     "time": "2026-09-14T06:54:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "જોરદાર ઘટવાના છે પેટ્રોલ અને ડિઝલના ભાવ! ઈરાન યુદ્ધ પર ડોનાલ્ડ ટ્રમ્પનું એક મોટું નિવેદન",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે હાલનો યુદ્ધ 28 ફેબ્રુઆરીથી શરૂ થયો હતો. અમેરિકા અને ઇઝરાયલી હુમલામાં ઈરાનના ભૂતપૂર્વ સુપ્રીમ લીડર આયાતુલ્લાહ અલી ખામેનીના મૃત્યુ બાદ, ઈરાને બદલો લેવા માટે હુમલા શરૂ કર્યા છે. આનાથી સમગ્ર પ્રદેશમાં તણાવ વધ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/petrol-and-diesel-prices-set-to-drop-sharply-donald-trump-major-statement-on-the-iran-war-491024 ",
-    "time": "2026-09-12T16:42:21.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "દિલ્હીની BRICS સમિટે દુનિયાને આપ્યા ત્રણ મોટા સંદેશ, બદલાઈ ગયું છે પાવર સેન્ટર",
-    "desc": "ભારત અને ચીનની દોસ્તીનો નવો અધ્યાય આજથી શરૂ થયો છે કેમ કે, સાત વર્ષ બાદ ચીનના રાષ્ટ્રપતિ ભારત આવ્યા અને બ્રિક્સ સંમેલનમાં હાજરી આપી. આજે BRICS સમિટમાંથી એક એવી તસવીર સામે આવી છે, જેણે આખી દુનિયાની રાજનીતિમાં હલચલ મચાવી દીધી છે. વૈશ્વિક મંચ પર આ એવો નજારો હતો જેની કલ્પના કદાચ પશ્ચિમી દેશોએ ક્યારેય નહીં કરી હોય.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/new-power-center-emerges-modi-putin-and-xi-in-one-frame-at-delhi-brics-summit-491020 ",
-    "time": "2026-09-12T15:24:40.000Z"
   },
   {
     "cat": "Tech",

@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Alexander Zverev shines as Germany book place in Davis Cup 2026 final eight",
+    "desc": "The Davis Cup 2026 qualifier round 2 continued, and several sides booked their tickets to Bologna for the final eight stages of the event. Many eyes were set upon Germany and its team of Alexander...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/alexander-zverev-shines-as-germany-book-place-in-davis-cup-2026-final-8-2026-09-20-1054776",
+    "time": "2026-09-20T14:52:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Elavenil Valarivan's silver medals highlight India's excellent start to the campaign",
+    "desc": "The Indian contingent kicked off its campaign at the Asian Games 2026. India made a strong start to the event, ending the first day with two silver medal victories and several medals assured in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/asian-games-2026-elavenil-valarivan-s-silver-medals-highlight-india-s-excellent-start-to-the-campaign-2026-09-20-1054772",
+    "time": "2026-09-20T13:44:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Craig Ervine scripts history, becomes oldest player in history to achieve massive feat in 3rd Australia ODI",
+    "desc": "Zimbabwe and Australia continued their ongoing ODI series by taking on each other in the third ODI. The two sides met at the Harare Sports Club on September 20th, and the clash began with Zimbabwe...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/craig-ervine-scripts-history-becomes-oldest-player-in-history-to-achieve-massive-feat-in-3rd-australia-odi-2026-09-20-1054762",
+    "time": "2026-09-20T11:57:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Elavenil Valarivan opens up after silver medal victory in air rifle event at Asian Games 2026",
+    "desc": "The Indian contingent opened its account at the Asian Games 2026. India clinched silver at the women's 10m air rifle team event as the trio of Elavenil Valarivan, Sonam Maskar and Vidarsa Vinod finished second...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/elavenil-valarivan-opens-up-after-silver-medal-victory-in-air-rifle-event-at-asian-games-2026-2026-09-20-1054759",
+    "time": "2026-09-20T11:01:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Varun Sanyal declared medically unfit to compete in Asian Games 2026 after attempting weight cut",
     "desc": "In a major development, India’s star MMA fighter Varun Sanyal has been ruled out of the Asian Games 2026. It is worth noting that Sanyal was slated to compete in the men’s traditional 77 kg...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/where-to-watch-asian-games-2026-live-on-tv-and-stream-online-in-india-2026-09-19-1054705",
     "time": "2026-09-19T11:18:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manu Bhaker, Pawan Sehrawat lead Indian contingent in Asian Games opening ceremony",
-    "desc": "Pawan Sehrawat and Manu Bhaker carried the Indian flag at the opening ceremony of the Asian Games 2026 in Aichi-Nagoya. The event formally announced the commencement of the 20th edition of the continental sporting event...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/manu-bhaker-pawan-sehrawat-lead-indian-contingent-in-asian-games-opening-ceremony-2026-09-19-1054700",
-    "time": "2026-09-19T10:27:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch Davis Cup 2026 qualifier matches live in India?",
-    "desc": "The Davis Cup 2026 qualifier matches continue on September 20; it is worth noting that the Indian team’s campaign at the event ended after they faced South Korea in the second round. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/when-and-where-to-watch-davis-cup-2026-qualifier-matches-live-in-india-2026-09-19-1054696",
-    "time": "2026-09-19T09:30:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Korea hand India harsh reality check in Davis Cup, exposing massive gap in singles game",
-    "desc": "India arrived at Seoul’s Olympic Park Tennis Centre with plenty of optimism. To acclimate to the conditions and the surface, the contingent arrived rather early and the move was heavily appreciated by the fans, who...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/south-korea-hand-india-harsh-reality-check-in-davis-cup-exposing-massive-gap-in-singles-game-2026-09-19-1054695",
-    "time": "2026-09-19T09:27:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's Davis Cup campaign ends after Soonwoo Kwon beats Sumit Nagal in Seoul",
-    "desc": "N Sriram Balaji and Dhakshineshwar Suresh’s incredible win in the Davis Cup doubles rejuvenated India’s campaign. The focus then immediately shifted towards Sumit Nagal, who took the court against South Korea’s Kwon Soon-woo in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/india-s-davis-cup-campaign-ends-after-soonwoo-kwon-beats-sumit-nagal-in-seoul-2026-09-19-1054688",
-    "time": "2026-09-19T06:55:18.000Z"
   }
 ];
