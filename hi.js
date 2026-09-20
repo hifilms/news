@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Varun Sanyal declared medically unfit to compete in Asian Games 2026 after attempting weight cut",
+    "desc": "In a major development, India’s star MMA fighter Varun Sanyal has been ruled out of the Asian Games 2026. It is worth noting that Sanyal was slated to compete in the men’s traditional 77 kg...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/varun-sanyal-declared-medically-unfit-to-compete-in-asian-games-2026-after-attempting-weight-cut-2026-09-20-1054752",
+    "time": "2026-09-20T09:53:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India women register dominant 114-run victory over Bangladesh, book ticket to Asian Games cricket final",
+    "desc": "India women took on Bangladesh in the Asian Games 2026 cricket semi-final. The two sides met at the Korogi Sports Park, Nisshin, on September 20, and it was the Indian team who were extremely dominant...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-women-register-dominant-114-run-victory-over-bangladesh-book-ticket-to-asian-games-cricket-final-2026-09-20-1054745",
+    "time": "2026-09-20T07:55:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shafali Verma scripts history, slams century against Bangladesh in Asian Games semi-final",
+    "desc": "The Asian Games cricket semi-final saw India women taking on Bangladesh women. The two sides took on each other at the Korogi Sports Park, Nisshin, on September 20, and the clash saw India women coming...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-scripts-history-slams-century-against-bangladesh-in-asian-games-semi-final-2026-09-20-1054743",
+    "time": "2026-09-20T07:46:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India opens account in medal tally at Asian Games 2026, clinches silver in shooting",
+    "desc": "The Asian Games 2026 action continues in Aichi-Nagoya, Japan, with Indian athletes competing across several sports on September 20. The day features major events in shooting, hockey, cricket, teqball and mixed martial arts, among others....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-medal-tally-at-asian-games-2026-2026-09-20-1054735",
+    "time": "2026-09-20T04:31:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "World No. 2 Alexander Zverev defeats Croatia's Matej Dodig 6-4, 7-6 in straight sets",
     "desc": "Fresh after winning the US Open by beating home favourite Ben Shelton in the final, world number 2 Alexander Zverev confirmed his participation in the ongoing Davis Cup. Representing Germany, the 29-year-old took on Croatia’s...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/india-s-davis-cup-campaign-ends-after-soonwoo-kwon-beats-sumit-nagal-in-seoul-2026-09-19-1054688",
     "time": "2026-09-19T06:55:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suresh Balaji, Dhakshineswar Suresh script India's comeback in Davis Cup with doubles win over South Korea",
-    "desc": "India executed a high-stakes tactical pivot on Day 2 of the Davis Cup tie against South Korea at Seoul’s Olympic Tennis Centre. The visitors suffered on the opening day of the qualifier, as both their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/suresh-balaji-dhakshineswar-suresh-script-india-s-comeback-in-davis-cup-with-doubles-win-over-south-korea-2026-09-19-1054680",
-    "time": "2026-09-19T05:14:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Ajit Agarkar not willing to extend as chief selector? Everything you need to know about BCCI's AGM",
-    "desc": "Ajit Agarkar has informed the BCCI that he does not intend to seek an extension as India’s chief selector after his current contract expires on October 4. The former India allrounder conveyed his decision to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ajit-agarkar-not-willing-to-extend-as-chief-selector-everything-you-need-to-know-about-bcci-s-agm-2026-09-19-1054676",
-    "time": "2026-09-19T03:30:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Korea crush India's hopes, qualify for first quarter-final",
-    "desc": "India's Suresh and Balaji stunned the South Korean pair of Jisung Nam and Uisung Park in the first set. India won the first set by 6-3. In the second set, South Korea won 6-3. To seek...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/india-vs-south-korea-davis-cup-mens-doubles-tennis-match-live-updates-n-sriram-balaji-dhakshineshwar-suresh-vs-jisung-nam-uisung-park-1054672",
-    "time": "2026-09-19T02:11:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'He was better': Sumit Nagal opens up after heartbreaking loss against Hyeon Chung in Davis Cup 2026 qualifier",
-    "desc": "Round 2 of the Davis Cup 2026 qualifiers saw India take on South Korea. India’s Dhakshineshwar Suresh took on Soonwoo Kwon in the first match of the day, with Sumit Nagal taking on Hyeon Chung...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/he-was-better-sumit-nagal-opens-up-after-heartbreaking-loss-against-hyeon-chung-in-davis-cup-2026-qualifiers-2026-09-19-1054670",
-    "time": "2026-09-19T01:53:38.000Z"
   }
 ];

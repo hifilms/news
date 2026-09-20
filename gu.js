@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "1 શેર પર ₹160નું ડિવિડન્ડ આપી રહી છે કંપની, આ જ અઠવાડિયે છે રેકોર્ડ ડેટ!",
+    "desc": "શું તમે પણ શેર બજારમાં ડિવિડન્ડ સ્ટોક પર દાવ લગાવો છો તો તમારા માટે સારા સમાચાર છે. આવતીકાલે મહારાષ્ટ્ર સ્કૂટર લિમિટેડના શેર એક્સ-ડિવિડન્ડ ટ્રેડ કરશે. કંપની એક શેર પર 160 રૂપિયાનું ડિવિડન્ડ આપી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/rs-160-dividend-per-share-record-date-this-week-for-high-yield-investors-491854 ",
+    "time": "2026-09-20T09:43:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ઓછો ખર્ચ, વધુ આરામ! ભારતની 5 CNG ઓટોમેટિક કારો, માઇલેજ 36 KM",
+    "desc": "ઓફિસ જવાની સફરથી લઈને ફેમિલી ટ્રિપ સુધી, જો તમે સીએનજી કારની સાથે ઓટોમેટિક ગિયરનો આરામ ઈચ્છો છો તો આ 5 ગાડીઓ પર નજર કરી શકો છો. તેમાં હેચબેક, સેડાન અને એસયુવી જેવા લુકવાળી કાર સામેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/low-running-cost-high-comfort-top-5-cng-automatic-cars-in-india-with-over-36-km-kg-mileage-491852 ",
+    "time": "2026-09-20T09:12:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "OTT પર રાજ કરતી 3 હોરર સીરીઝ, છાતીના પાટિયા બેસાડી દે તેવા ડરામણા દ્રશ્યો, ખતરનાક પ્લોટ તમને પણ ડરાવશે",
+    "desc": "ઓટીટી પર હોરર જોનરની ફિલ્મો અને સીરીઝ જોવાના શોખીનો મોટી સંખ્યામાં છે. જો તમે પણ હોરર અને ક્રિપી ફિલ્મો અને સીરીઝ જોવાના શોખીન છો તો આજે તમને 3 એવી ફિલ્મો વિશે જણાવીએ જે તમને નેક્સ્ટ લેવલ ડરનો અનુભવ કરાવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/ott-3-most-scary-and-dangerous-web-series-on-ott-in-hindi-the-haunting-of-hill-house-the-devils-hour-marianne-491847 ",
+    "time": "2026-09-20T07:35:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "બબીતા જી એટલે કે મુનમુન દત્તાએ તારક મહેતા શોના સેટને કહ્યો ભૂતિયા, જાણો શું છે કારણ",
+    "desc": "તારક મહેતા શોના લોકપ્રિય પાત્રોમાંથી એક બબીતા જી એટલે કે મુનમુન દત્તાએ શોના સેટને ભૂતિયા કહ્યો છે. હાલ સીરીયલમાં પણ ભૂતનો ટ્રેક ચલાવવામાં આવી રહ્યો છે ત્યારે મુનમુન દત્તાએ શોના સેટને ભૂતિયા શા માટે કહ્યો છે ચાલો તમને જણાવીએ વિગતવાર.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/babita-ji-aka-munmun-dutta-said-taarak-mehta-show-set-look-haunted-if-no-body-shooting-on-it-491834 ",
+    "time": "2026-09-20T06:35:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારતની ઐતિહાસિક જીત, હોકીમાં ઉઝબેકિસ્તાનને 19-0થી કચડી નાખ્યું, દીપિકાએ ધડાધડ 8 ગોલ ફટકાર્યા",
+    "desc": "એશિયન ગેમ્સ 2026માં ભારતે શાનદાર શરૂઆત કરી છે. ભારતીય મહિલા હોકી ટીમે ઉઝબેકિસ્તાનને 19-0થી હરાવ્યું છે, જેમાં દીપિકાએ એકલા 8 ગોલ કર્યા હતા. બીજી તરફ, શૂટિંગમાં ભારતે 10 મીટર એર રાઇફલ ટીમ ઇવેન્ટમાં સિલ્વર મેડલ જીતીને પોતાનું ખાતું ખોલ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/asian-games-2026-historic-win-for-india-uzbekistan-crushed-19-0-in-hockey-with-deepika-scoring-a-barrage-of-8-goals-491833 ",
+    "time": "2026-09-20T06:32:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બેકાબૂ BMW કાર પુલ પરથી નીચે ખાબકી, કારમાં સવાર 3 યુવકના મોત, 1 ની હાલત ગંભીર, જુઓ Video",
+    "desc": "મુંબઈથી એક દુ:ખદ ખબર સામે આવી છે. અહીં ફુલ સ્પીડમાં આવતી બીએમડબલ્યુ કાર પુલ પરથી નીચે ખાબકી છે. મળતી જાણકારી અનુસાર કારમાં 4 યુવકો સવારે હતા જેમાંથી 3 નું મોત ઘટનાસ્થળે જ થઈ ગયું જ્યારે 1 ને ગંભીર હાલતમાં હોસ્પિટલમાં દાખલ કરવામાં આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/mumbai-major-accident-out-of-control-bmw-car-falls-off-bridge-3-youths-in-car-die-1-in-critical-condition-491830 ",
+    "time": "2026-09-20T05:18:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ડોનાલ્ડ ટ્રમ્પની AI ફોર્સ બનાવવાની જાહેરાત, ટૂંક સમયમાં નિમાશે ચીફ ઓફિસર, જાણો શું છે US પ્રેસિડેન્ટનો પ્લાન?",
+    "desc": "દુનિયામાં છેડાયેલા ડિજિટલ, ટેકનોલોજીકલ અને AI વોર વચ્ચે અમેરિકાએ એક જાહેરાત કરી છે. અમેરિકા AI ફોર્સ બનાવવાની તૈયારી કરી રહ્યું છે, જેના માટે જલ્દી જ ચીફ ઓફિસર અને એક ટીમની જાહેરાત રાષ્ટ્રપતિ ટ્રમ્પ પોતે કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/donald-trump-announces-the-creation-of-an-ai-force-a-chief-officer-will-be-appointed-soonfind-out-what-the-us-presidents-plan-is-491829 ",
+    "time": "2026-09-20T05:01:32.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Jio એ આપી મોટી ભેટ! આ યુઝર્સને 799 રૂપિયાવાળું Amazon Prime Lite બિલકુલ ફ્રી, આ રીતે કરો ક્લેમ",
+    "desc": "રિલાયન્સ Jio પોતાના 10 વર્ષ પૂરા થવા પર હોમ યુઝર્સને મોટી ભેટ આપી રહ્યું છે. કંપની 30 થી 100 Mbps ના 3-ઇન-1 પ્લાન્સ પર 799 રૂપિયાવાળું એમેઝોન પ્રાઇમ લાઇટ સબ્સ્ક્રિપ્શન એક વર્ષ માટે બિલકુલ ફ્રી આપી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/jio-gave-a-big-gift-amazon-prime-lite-worth-799-rupees-to-these-users-absolutely-free-so-claim-491825 ",
+    "time": "2026-09-20T03:49:28.000Z"
+  },
+  {
     "cat": "World",
     "title": "યુદ્ધ ખતમ કરવા ઈરાન એ જણાવી 7 શરતો, અમેરિકા નહીં માને તો થશે નિર્ણાયક જંગ",
     "desc": "ઈરાન અને અમેરિકા વચ્ચે ચાલતા યુદ્ધ પર દુનિયાભરના દેશોની નજર છે. આ યુદ્ધની અસર ભારત સહિતના અનેક દેશો પર થઈ રહી છે. ઈરાન દ્વારા અમેરિકા સામે 7 શરતો રાખવામાં આવી છે. જો આ શરતોને યુએસ માન્ય નહીં રાખે તો નિર્ણાયક જંગની ચેતવણી આપવામાં આવી છે.",
@@ -378,24 +450,6 @@ const newsData_gu = [
     "time": "2026-09-16T13:23:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સ્મશાનમાં રણક્યો ફોન અને બદલાઈ ગઈ કિસ્મત : જાણો કેવી રીતે નરેન્દ્ર મોદી પહેલીવાર બન્યા ગુજરાતના CM",
-    "desc": "ગુજરાતથી દૂર કરાયેલા સંગઠન મહામંત્રીનો ગુજરાતમાં એવો પુનરાગમન થયો, જેણે રાજ્યના રાજકારણની દિશા જ બદલી નાખી. વર્ષ 2001માં કેશુભાઈ પટેલના રાજીનામા બાદ નરેન્દ્ર મોદીને ગુજરાતની કમાન સોંપાઈ અને 7 ઓક્ટોબરે તેમણે મુખ્યમંત્રી તરીકે શપથ લીધા. કેવી રીતે શરૂ થઈ આ ઐતિહાસિક રાજકીય સફર? જુઓ આ ખાસ અહેવાલમાં...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/one-call-from-atal-ji-that-changed-it-all-the-inside-story-of-narendra-modis-rise-in-gujarat-october-7-2001-491455 ",
-    "time": "2026-09-16T13:13:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ચાની કીટલી, પરિવારનો સંઘર્ષ અને મોટા સપનાં... નરેન્દ્ર મોદીના બાળપણની એ વાતો, જે કદાચ તમે નહીં જાણતા હો!",
-    "desc": "17 સપ્ટેમ્બર 1950ના રોજ વડનગરમાં જન્મેલા નરેન્દ્ર મોદીના બાળપણની શરૂઆત સામાન્ય પરિવાર અને સંઘર્ષભર્યા વાતાવરણમાં થઈ હતી. પિતાની ચાની દુકાનથી શરૂ થયેલી જીવનયાત્રામાં મહેનત, જવાબદારી અને નેતૃત્વના સંસ્કારોનો મહત્વનો ફાળો રહ્યો. આ સંઘર્ષભરી સફરે તેમના વ્યક્તિત્વ અને રાજકીય જીવનને આકાર આપ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/tea-stall-to-national-leadership-untold-story-of-pm-modi-childhood-and-struggle-491453 ",
-    "time": "2026-09-16T12:32:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "અજીત અગરકરની વિદાય પાક્કી! છેલ્લી વખત કરશે ભારતીય ટીમની પસંદગી, જાણો કોણ બનશે ચીફ સિલેક્ટર",
     "desc": "અજીત અગરકરે વન-ડે વર્લ્ડ કપ 2027 સુધી પસંદગી સમિતિના અધ્યક્ષ તરીકે ચાલુ રહેવાની ઈચ્છા વ્યક્ત કરી હતી, પરંતુ અત્યાર સુધી તેમનો કાર્યકાળ લંબાવવામાં આવ્યો નથી. આ સ્થિતિને જોતાં એ સ્પષ્ટ છે કે તેઓ ટૂંક સમયમાં જ પોતાના પદ પરથી રાજીનામું આપશે.",
@@ -423,15 +477,6 @@ const newsData_gu = [
     "time": "2026-09-16T09:40:17.000Z"
   },
   {
-    "cat": "Business",
-    "title": "હવે 10 નહીં 5 વર્ષે વધશે સેલેરી ? 8મા પગાર પંચ સામે રાખવામાં આવી આ મોટી માંગ, જાણો",
-    "desc": "કર્મચારીઓ અને પેન્શનરોના સંગઠનોએ 8મા કેન્દ્રીય પગાર પંચ પહેલાં દર પાંચ વર્ષે પગાર અને પેન્શનમાં સુધારો કરવાની માંગ કરી છે. તેમનો દલીલ છે કે 10 વર્ષનો પગાર સુધારો રિવિજન સાઈકલ અને બદલાતી આર્થિક પરિસ્થિતિઓ વચ્ચે મોટો તફાવત બનાવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-salaries-increase-every-5-years-instead-of-10-now-this-major-demand-has-been-raised-regarding-the-8th-pay-commission-find-out-more-491416 ",
-    "time": "2026-09-16T09:03:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "માહી વિજ એ બિગ બોસ 20 માં કર્યો ધડાકો, યુવા ફિલ્મ તેણે ન કરી એટલે કરીના કપૂરને રોલ મળ્યો",
     "desc": "બિગ બોસ 20 માં માહી વિજ એ મોટો ધડાકો કર્યો છે. તેણે મણીરત્નમની ફિલ્મ યુવાનો ઉલ્લેખ કરતાં કહ્યું કે ફિલ્મમાં કરીના કપૂરના રોલ માટે તે સિલેક્ટ થઈ હતી. કોઈ કારણોસર તેણે ફિલ્મ ન કરી એટલે તે રોલ કરીના કપૂરને મળી ગયો.",
@@ -457,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/alarm-bells-ring-in-mecca-for-the-first-time-who-sent-a-drone-to-the-holiest-city-for-muslims-find-out-491388 ",
     "time": "2026-09-16T04:38:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "સચિન તેંડુલકરનો વર્લ્ડ રેકોર્ડ તૂટ્યો... 40 વર્ષના આ બેટ્સમેને રચ્યો ઈતિહાસ",
-    "desc": "ઓસ્ટ્રેલિયા સામેની પ્રથમ વન-ડે મેચ માટે મેદાનમાં ઉતરતાની સાથે જ ઝિમ્બાબ્વેના બ્રેન્ડન ટેલરે સચિન તેંડુલકરનો એક મોટો વર્લ્ડ રેકોર્ડ તોડ્યો છે. ટેલરની વન-ડે કારકિર્દી હવે 22 વર્ષ અને 146 દિવસની થઈ ગઈ છે, જ્યારે સચિને 22 વર્ષ અને 91 દિવસ સુધી વન-ડે ક્રિકેટ રમ્યું હતું. 40 વર્ષીય ટેલર નિવૃત્તિ, ICC દ્વારા પ્રતિબંધ અને વાપસી બાદ આ સિદ્ધિ હાંસલ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/zimbabwe-brendan-taylor-breaks-sachin-tendulkar-longest-odi-career-record-491348 ",
-    "time": "2026-09-15T15:25:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -531,15 +567,6 @@ const newsData_gu = [
     "time": "2026-09-14T06:54:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "વર્ષો બાદ નીલમ કોઠારીએ તોડી ચુપ્પી, ગોવિંદાના પ્રેમ વિશે કર્યો મોટો ખુલાસો",
-    "desc": "નીલમ અને ગોવિંદાની જોડી 90 ના દાયકાની હીટ જોડી હતી. ગોવિંદા અને નીલમ એ એક બીજા સાથે 14 ફિલ્મો કરી હતી. જેના કારણે ગોવિંદા નીલમના પ્રેમમાં પડ્યો હતો. જો કે આ પ્રેમ પ્રકરણ મામલે નીલમે વર્ષો પછી ખુલાસો કર્યો છે. નીલમ એ તેના પાસ્ટ વિશે શું કહ્યું ચાલો તમને જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/neelam-kothari-answer-on-govinda-love-said-she-was-17-and-she-did-not-know-govinda-was-married-491146 ",
-    "time": "2026-09-14T06:28:33.000Z"
-  },
-  {
     "cat": "World",
     "title": "જોરદાર ઘટવાના છે પેટ્રોલ અને ડિઝલના ભાવ! ઈરાન યુદ્ધ પર ડોનાલ્ડ ટ્રમ્પનું એક મોટું નિવેદન",
     "desc": "અમેરિકા અને ઈરાન વચ્ચે હાલનો યુદ્ધ 28 ફેબ્રુઆરીથી શરૂ થયો હતો. અમેરિકા અને ઇઝરાયલી હુમલામાં ઈરાનના ભૂતપૂર્વ સુપ્રીમ લીડર આયાતુલ્લાહ અલી ખામેનીના મૃત્યુ બાદ, ઈરાને બદલો લેવા માટે હુમલા શરૂ કર્યા છે. આનાથી સમગ્ર પ્રદેશમાં તણાવ વધ્યો છે.",
@@ -556,24 +583,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/new-power-center-emerges-modi-putin-and-xi-in-one-frame-at-delhi-brics-summit-491020 ",
     "time": "2026-09-12T15:24:40.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "&amp;#039;ચાઈનીઝ બબલ&amp;#039; દુનિયાનું કોઈપણ તત્વ તપાસ વિના જિનપિંગના સંપર્કમાં આવી શકતું નથી, આવી છે સુરક્ષા વ્યવસ્થા",
-    "desc": "ટ્રમ્પ ભલે શી જિનપિંગની જાસૂસી કરવાની વાત કબૂલી રહ્યા હોય પરંતુ હકીકત એ છે કે જિનપિંગની જાસૂસી કરવી અને તેમની સુરક્ષામાં સેંધ લગાવવી લગભગ અશક્ય છે. કેમ કે જિનપિંગ સુરક્ષાના એક અભેદ્ય ચક્રમાં રહે છે. આ ચક્રની અંદર જ જિનપિંગ શ્વાસ લે છે, તેની અંદર જ ખાય છે અને પાણીનું એક ટીપું પણ પરવાનગી વિના અંદર પ્રવેશી શકતું નથી. સુરક્ષા વિજ્ઞાનની ભાષામાં તેને કહેવામાં આવે છે-'ચાઈનીઝ બબલ', એટલે કે ચીનની અભેદ્ય સુરક્ષાનું બબલ. આ 'ચાઈનીઝ બબલ'માં સુરક્ષા કેટલા લેયરમાં છે જોઈએ આ ખાસ અહેવાલમાં...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/unbreakable-shield-how-xi-jinping-travels-within-his-ultimate-security-bubble-491015 ",
-    "time": "2026-09-12T12:57:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ભારતમાં ઈરાનના રાષ્ટ્રપતિ, બીજી તરફ ટ્રમ્પે હોર્મુઝ સ્ટ્રેટ પર આપ્યું મોટું નિવેદન! ઈરાને પણ અમેરિકાને આપી આ સલાહ",
-    "desc": "નવી દિલ્હીમાં બ્રિક્સ સમિટ દરમિયાન, મસૂદ પેઝેશ્કિયાન અનવર ઇબ્રાહિમ સાથે મુલાકાત કરી હતી, અને કહ્યું કે મધ્ય પૂર્વને અમેરિકા જેવા પ્રાદેશિક પોલીસમેનની જરૂર નથી. આ દરમિયાન, ડબલિનમાં, ડોનાલ્ડ ટ્રમ્પે હોર્મુઝ સ્ટ્રેટ, ઈરાન, તેલ અને સાઉદી પાઇપલાઇન હુમલાઓ અંગે જણાવ્યું હતું કે પરિસ્થિતિમાં સુધારો થશે, વેપાર પર ચર્ચા થઈ છે અને યુદ્ધ ટૂંક સમયમાં સમાપ્ત થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/irans-president-is-in-india-meanwhile-trump-has-made-a-major-statement-regarding-the-strait-of-hormuz-491008 ",
-    "time": "2026-09-12T12:50:26.000Z"
   },
   {
     "cat": "Tech",
