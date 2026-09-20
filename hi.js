@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Spain dominate Chile to reach Davis Cup 2026 final eight, Jodar and Merida star in victory",
+    "desc": "Spain became the latest team to reach the final eight stage of the Davis Cup 2026; the side took on Chile in round 2 of the qualifiers and went through to the knockouts undefeated in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/spain-dominate-chile-to-reach-davis-cup-2026-final-eight-jodar-and-merida-star-in-victory-2026-09-20-1054784",
+    "time": "2026-09-20T17:55:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Josh Inglis slams magnificent century, achieves massive feat with brilliant knock against Zimbabwe",
+    "desc": "Australia and Zimbabwe took on each other in the third ODI of the series between the two sides. The two teams met at the Harare Sports Club on September 20th, and the game began with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/josh-inglis-slams-magnificent-century-achieves-massive-feat-with-brilliant-knock-against-zimbabwe-2026-09-20-1054780",
+    "time": "2026-09-20T15:28:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Alexander Zverev shines as Germany book place in Davis Cup 2026 final eight",
     "desc": "The Davis Cup 2026 qualifier round 2 continued, and several sides booked their tickets to Bologna for the final eight stages of the event. Many eyes were set upon Germany and its team of Alexander...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/india-medal-tally-at-asian-games-2026-2026-09-20-1054735",
     "time": "2026-09-20T04:31:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "World No. 2 Alexander Zverev defeats Croatia's Matej Dodig 6-4, 7-6 in straight sets",
-    "desc": "Fresh after winning the US Open by beating home favourite Ben Shelton in the final, world number 2 Alexander Zverev confirmed his participation in the ongoing Davis Cup. Representing Germany, the 29-year-old took on Croatia’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/davis-cup-2026-qualifiers-germany-vs-croatia-alexander-zverev-matej-dodig-live-updates-2026-09-19-1054715",
-    "time": "2026-09-19T13:44:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch Asian Games 2026 live on TV and stream online in India?",
-    "desc": "India recorded their best-ever medal performance at the previous edition of the Asian Games. Hence, there’s certainly a sense of expectation from the contingent in the 20th Asian Games, which marked its opening ceremony on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/where-to-watch-asian-games-2026-live-on-tv-and-stream-online-in-india-2026-09-19-1054705",
-    "time": "2026-09-19T11:18:58.000Z"
   }
 ];
