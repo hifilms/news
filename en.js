@@ -1,6 +1,24 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Hayden Panettiere's memorial: Hollywood stars attend",
+    "desc": "Friends and co-stars gathered in Malibu for Hayden Panettiere's memorial service. The private ceremony honored the actress's life and celebrated her legacy. Her 'Nashville' co-stars delivered speeches and performed a song during the service. Meanwhile, authorities continue investigating the circumstances surrounding her untimely death. Investigators are examining the possibility of an illicitly obtained and contaminated pill.",
+    "img": "https://static.toiimg.com/photo/msid-134377079,imgsize-70898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hayden-panettieres-memorial-connie-britton-ruby-roseevan-ross-nashville-co-stars-and-other-hollywood-stars-attend/articleshow/134375357.cms",
+    "time": "2026-09-20T22:29:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran shuts language centre linked to French embassy",
+    "desc": "Based on the Tehran prosecutor's office, the illegal centre affiliated with the French embassy in Tehran, which has operated for years under the guise of language instruction, was closed, the judiciary's Mizan news website said",
+    "img": "https://th-i.thgim.com/public/incoming/o284iy/article71489089.ece/alternates/LANDSCAPE_1200/iStock-1089812416.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-shuts-language-centre-linked-to-french-embassy/article71489087.ece",
+    "time": "2026-09-20T20:31:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Mini says she didn't like Salman Khan's comment about Kabir Khan being scared of her",
     "desc": "Mini Mathur won Prime Video's 'Alliance' reality show, taking home the trophy and prize money. She discussed Salman Khan's comments about her husband, Kabir Khan, being scared. Mathur expressed happiness that Salman saw her beyond her identity as Kabir Khan's wife. She recalled the contestants' excitement during Salman Khan's surprise visit to the house. His presence provided a much-needed energy boost before the finale.",
     "img": "https://static.toiimg.com/photo/msid-134374919,imgsize-255476.cms",
@@ -279,24 +297,6 @@ const newsData_en = [
     "time": "2026-09-20T10:37:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside Deepika Padukone-Ranveer Singh's Rs 100 crore sea-facing Bandra quadruplex",
-    "desc": "Deepika Padukone and Ranveer Singh have welcomed their second baby girl, marking a new chapter for their family. As they embrace parenthood once again, take a look inside their luxurious Mumbai homes, including their reported Rs 100 crore sea-facing Bandra quadruplex and Prabhadevi residence, known for its elegant interiors and stunning views.",
-    "img": "https://static.toiimg.com/photo/msid-134366768,imgsize-88164.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-ranveer-singh-welcome-second-baby-girl-inside-their-rs-100-crore-sea-facing-bandra-quadruplex-and-prabhadevi-home/articleshow/134366673.cms",
-    "time": "2026-09-20T10:32:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kajal Raghwani is safe after fans CHASE her car, BREAK WINDOWS",
-    "desc": "Kajal Raghwani had a frightening experience in Bihar Sharif when a large crowd chased her car after a jewellery showroom inauguration. Several people reportedly damaged a Toyota Fortuner, believing the actress was inside. Kajal later assured fans that she was safe. Meanwhile, police questioned whether the event had permission, while the showroom operator claimed the administration had been informed and an application submitted.",
-    "img": "https://static.toiimg.com/photo/msid-134366552,imgsize-512586.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/bhojpuri-actress-kajal-raghwani-is-safe-after-fans-chase-her-car-break-windows-at-bihar-sharif-showroom-launch/articleshow/134366365.cms",
-    "time": "2026-09-20T10:14:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Horrific! Former England footballer run over by pitch roller",
     "desc": "Former England winger Andros Townsend escaped serious injury after appearing to be struck and briefly run over by a pitch roller during PT Prachuap’s warm-up against Pattani FC in Thailand. Despite suffering superficial thigh wounds, the 35-year-old came off the bench in the 93rd minute as PT Prachuap won 3-0, continuing his “Thai adventure” in extraordinary fashion.",
@@ -313,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/dilpreet-singhs-four-goal-show-headlines-indias-13-1-rout-of-indonesia-at-asian-games/articleshow/134365493.cms",
     "time": "2026-09-20T08:24:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Hotspots to be mapped, pending road works get Oct 31 deadline",
-    "desc": "In a concerted effort to tackle air pollution, the Delhi government is enhancing its oversight of environmental quality. District officials will create maps highlighting pollution hotspots and will identify nearby contributors to the problem. Agencies are tasked with implementing strategies and timelines for effective pollution management, with a deadline for finishing pending road and civil works set for October thirty-first.",
-    "img": "https://static.toiimg.com/photo/msid-134365470,imgsize-59986.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-pollution-crackdown-hotspots-to-be-mapped-pending-road-works-get-oct-31-deadline/articleshow/134365428.cms",
-    "time": "2026-09-20T08:22:53.000Z"
   },
   {
     "cat": "Sports",
@@ -522,15 +513,6 @@ const newsData_en = [
     "time": "2026-09-19T07:37:44.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Can your boss force you to serve full notice period? Know buyout rules &amp; costs",
-    "desc": "Notice period buyouts are often treated as though they are a standard right available to employees. However, there is no specific legal provision that gives an employee an automatic right to buy out the notice period.",
-    "img": "https://static.toiimg.com/photo/msid-134339803,imgsize-540966.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/can-your-boss-force-you-to-serve-the-full-notice-period-know-when-you-can-buy-out-what-happens-if-employer-says-no-and-what-you-may-have-to-pay/articleshow/134339540.cms",
-    "time": "2026-09-19T06:26:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Manav-Manush pair leads India’s table tennis medal hopes",
     "desc": "The Indian men's team faces Indonesia in its first match of Group F and plays against Iran in its second match on September 20. The women's team is also placed in Group F and starts its campaign against Indonesia before taking on Singapore in its second match of the day",
@@ -556,24 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/russia-sanctions-bill-advances-in-us-house-india-tariffs-final-vote/article71470872.ece",
     "time": "2026-09-19T04:11:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. State Department clears $2.7 billion Ukraine defence package",
-    "desc": "If the purchase is concluded, Ukraine would finance it using a combination of ‌European contributions and U.S. Foreign Military Financing (FMF) appropriated during the administration of former President Joe ‌Biden, the State Department said in a notification",
-    "img": "https://th-i.thgim.com/public/incoming/5q3xfw/article71483540.ece/alternates/LANDSCAPE_1200/Turkey_NATO_Summit_Trump_45_41.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-state-department-clears-27-billion-ukraine-defence-package/article71483529.ece",
-    "time": "2026-09-19T03:29:47.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. appeals court rejects Trump policy allowing swift deportations to third countries",
-    "desc": "The Trump administration has entered into a series of agreements that have allowed it to send more than 25,000 migrants to at least 29 third countries, in many cases Mexico, according to Third Country Deportation Watch",
-    "img": "https://th-i.thgim.com/public/incoming/e11e5p/article71483210.ece/alternates/LANDSCAPE_1200/2026-04-11T225122Z_1227172276_RC23NKAN3ZT0_RTRMADP_3_USA-COSTA-RICA-DEPORTATION.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-appeals-court-rejects-trump-policy-allowing-swift-deportations-to-third-countries/article71483004.ece",
-    "time": "2026-09-18T23:49:21.000Z"
   },
   {
     "cat": "Sports",
