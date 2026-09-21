@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "New party emerges as a frontrunner as Israel goes to polls amid Netanyahu’s waning appeal",
+    "desc": "Yashar leads in opinion polls as its leader Gadi Eisenkot’s popularity among voters eclipses that of Netanyahu; Eisenkot bats for strategic wars over endless ones and concurs with the PM on matter such as two-state solution and Iran",
+    "img": "https://th-i.thgim.com/public/incoming/yg5dsw/article71488959.ece/alternates/LANDSCAPE_1200/Israel_Politics_16966.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/new-party-emerges-as-a-frontrunner-as-israel-goes-to-polls-amid-netanyahus-waning-appeal/article71488057.ece",
+    "time": "2026-09-21T02:48:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pragg outwits Dutch No. 1 Anish Giri for first win; sister Vaishali loses",
+    "desc": "At the 2026 Chess Olympiad, R Praggnanandhaa secured his first win by outplaying Dutch No. 1 Anish Giri in a tense Ruy Lopez, helping India beat the Netherlands 3-1. Gukesh also won, while Erigaisi and Nihal drew. India’s women suffered a narrow 1.5-2.5 loss to Poland, with Vaishali defeated by Aleksandra Maltsevskaya. Poland have now beaten India in three successive Olympiads.",
+    "img": "https://static.toiimg.com/photo/msid-134378331,imgsize-82918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-5-praggnanandhaa-outwits-dutch-no-1-anish-giri-for-first-win-vaishalis-defeat-caps-indias-mixed-day/articleshow/134377923.cms",
+    "time": "2026-09-21T02:35:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Girish A.D. on teaming up with Mohanlal and Mammootty",
+    "desc": "Director Girish A.D. is eager to helm a film featuring renowned actors Mammootty and Mohanlal. He acknowledges the immense responsibility of crafting a narrative that lives up to their iconic status. Despite lacking a script that fits both legends, he remains open to exploring potential stories in the future, emphasizing that quality storytelling prevails over star power.",
+    "img": "https://static.toiimg.com/photo/msid-134378260,imgsize-338107.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/girish-a-d-on-teaming-up-with-mohanlal-and-mammootty-i-see-it-as-huge-responsibility-says-he-fears-hearing-he-came-and-ruined-it/articleshow/134378234.cms",
+    "time": "2026-09-21T02:29:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India clinch silver in men’s 10m air rifle team event",
+    "desc": "In an impressive display of skill, India clinched a silver medal in the men's 10m air rifle team event, thanks to the efforts of Rudrankksh Patil, Himanshu Dhillon, and Parth Mane who secured second place in qualification. China took home gold while breaking the event's world record. Notably, Rudrankksh and Himanshu also advanced to the individual final, showcasing India's strong performance in shooting competitions at the Games.",
+    "img": "https://static.toiimg.com/photo/msid-134378150,imgsize-83958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-india-clinch-silver-in-mens-10m-air-rifle-team-event/articleshow/134378041.cms",
+    "time": "2026-09-21T02:15:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift attends Patrick Mahomes’ 31st birthday party",
+    "desc": "At a lively celebration for Patrick Mahomes' 31st birthday, newlyweds Taylor Swift and Travis Kelce made a grand appearance at their shared steakhouse. Swift turned heads in a stunning black dress, complemented by Kelce's olive-green attire. Their joy was evident in photos, where Swift shared smiles with loved ones. Embracing marital bliss, she is also busy crafting new songs, ensuring fans have much to look forward to.",
+    "img": "https://static.toiimg.com/photo/msid-134377921,imgsize-102498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-and-travis-kelce-celebrate-patrick-mahomes-31st-birthday-bash-at-his-and-kelces-steakhouse/articleshow/134377896.cms",
+    "time": "2026-09-21T01:50:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India's semiconductor push targets chips for cars, TVs, power infra: Vaishnaw",
+    "desc": "India is stepping up efforts to establish a larger presence in the global semiconductor value chain, with the government seeking to move beyond chip assembly and testing, and build capabilities spanning design, fabrication, equipment and materials",
+    "img": "https://th-i.thgim.com/public/incoming/oab0n0/article71488408.ece/alternates/LANDSCAPE_1200/PTI09_19_2026_000600B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/indias-semiconductor-push-targets-chips-for-cars-tvs-power-infra-vaishnaw/article71488287.ece",
+    "time": "2026-09-21T01:46:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vidya Balan's Juhu home has a Palakkad touch",
+    "desc": "Actress Vidya Balan enjoys living in a luxurious Juhu apartment facing the sea, purchased by her and her husband for more than fourteen crore rupees. The home blends traditional South Indian architecture with charming Palakkad design elements. Classic wooden furniture and expansive windows enhance the apartment's inviting comfort. Meanwhile, Vidya is eagerly preparing for her role in the upcoming film 'Jailer 2'.",
+    "img": "https://static.toiimg.com/photo/msid-134377844,imgsize-370231.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/vidya-balans-rs-14-cr-sea-facing-juhu-home-has-a-palakkad-touch-south-indian-interiors-add-classic-charm/articleshow/134377822.cms",
+    "time": "2026-09-21T01:46:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor celebrates Travis' touchdown: 'That's my husband'",
+    "desc": "Taylor Swift joyfully cheered for husband Travis Kelce during Sunday Night Football. She was seen mouthing \"That’s my husband\" while pointing to her ring. Swift also shared hugs and shouted \"Yes! Touchdown!\" with other guests in the VIP box. This sweet moment occurred after Swift and Kelce reportedly tied the knot in July. The singer continues to show her support for the NFL star at games.",
+    "img": "https://static.toiimg.com/photo/msid-134377611,imgsize-255030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/proud-wife-taylor-swift-celebrates-travis-kelces-touchdown-points-to-wedding-ring-and-says-thats-my-husband-watch/articleshow/134377592.cms",
+    "time": "2026-09-21T01:34:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian hockey teams don saffron jerseys in opening matches",
+    "desc": "‘The Indian Olympic Association had given us options regarding the team kit colours, and Hockey India selected blue as the first choice for the Indian team’s kit,’ Dilip Tirkey had said during the send-off ceremony",
+    "img": "https://th-i.thgim.com/public/incoming/4qvtgt/article71489017.ece/alternates/LANDSCAPE_1200/HSpSh7UawAAANuO.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/asian-games-2026-indian-hockey-teams-don-saffron-jerseys-in-opening-matches/article71489010.ece",
+    "time": "2026-09-21T01:33:41.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Russian election, cast as test of support for Ukraine war, enters final day",
+    "desc": "Most anti-war candidates ‌were barred from the ballot; those who did run from the liberal Yabloko party said they feared for their freedom after courts handed long jail terms to two senior party figures before the vote for comments about the conflict deemed illegal by authorities",
+    "img": "https://th-i.thgim.com/public/incoming/4wqe7u/article71487172.ece/alternates/LANDSCAPE_1200/2026-09-20T030057Z_298613436_RC2OMNA1ZR3Q_RTRMADP_3_RUSSIA-ELECTION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russian-election-cast-as-test-of-support-for-ukraine-war-enters-final-day/article71487152.ece",
+    "time": "2026-09-21T01:19:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vidya Balan as Kantha in 'Jailer 2'",
+    "desc": "In an exciting glimpse of 'Jailer 2', Vidya Balan's character Kantha emerges, captivating audiences with her cigarette in hand as she strides down the stairs. This strong character introduction comes after those of Suraj Venjaramoodu and SJ Suryah. Fans eagerly await the movie's release on October 15, sharing their admiration for Balan’s striking transformation and the dynamic casting choices.",
+    "img": "https://static.toiimg.com/photo/msid-134377541,imgsize-187214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vidya-balan-as-kantha-in-jailer-2-actress-locks-horn-with-rajinikanth-in-nelson-dilipkumars-sequel-watch-character-glimpse/articleshow/134377525.cms",
+    "time": "2026-09-21T01:06:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Hanuman Ansh' Day 45: Vishal Chaturvedi's film sees 41% growth",
+    "desc": "Hanuman Ansh saw a significant box office rise on its forty-fifth day. The spiritual drama collected over thirteen crore rupees in India net on Sunday. This collection marked a forty-one percent growth compared to the previous day's earnings. The film's cumulative India net collection has now reached two hundred seventy-one crore rupees. Worldwide gross collections for Hanuman Ansh have surpassed three hundred forty-seven crore rupees.",
+    "img": "https://static.toiimg.com/photo/msid-134377463,imgsize-260359.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-45-vishal-chaturvedis-film-sees-41-growth-earns-rs-13-75-cr-on-sunday/articleshow/134377421.cms",
+    "time": "2026-09-21T01:05:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 1981, Clint Eastwood bought his beloved Carmel-by-the-Sea home",
+    "desc": "Clint Eastwood's enchanting Spanish Revival estate, Las Ondas, nestled in Carmel, held a special place in his heart for over a decade. Purchased in 1981, the iconic actor called it home until 1996 while also taking on the role of mayor of Carmel-by-the-Sea. This beloved property later changed hands for around USD 2.25 million, a testament to its allure.",
+    "img": "https://static.toiimg.com/photo/msid-134377433,imgsize-51388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1981-clint-eastwood-bought-his-carmel-by-the-sea-home-where-he-served-his-term-as-mayor-of-carmel-for-one-term/articleshow/134377424.cms",
+    "time": "2026-09-21T01:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mandaadi' BO day 11 vs 'Sardar 2': Soori's film earns Rs 8 cr",
+    "desc": "The film 'Mandaadi', featuring Soori, has displayed remarkable box office strength by earning Rs 8 crore on its eleventh day, bringing its total net collection in India to Rs 75.55 crore. Globally, it has amassed Rs 103.72 crore, showcasing its impressive run. In contrast, Karthi's 'Sardar 2' has made Rs 15.84 crore in India net collections, contributing to a worldwide gross of Rs 23.35 crore.",
+    "img": "https://static.toiimg.com/photo/msid-134377389,imgsize-347284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mandaadi-box-office-collection-day-11-vs-sardar-2-sooris-film-earns-rs-8-cr-sees-22-1-growth-karthis-actioner-reaches-rs-23-35-cr-worldwide/articleshow/134377383.cms",
+    "time": "2026-09-21T00:37:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ed Sheeran says friends and family ‘ABANDONED’ him",
+    "desc": "Ed Sheeran performed emotionally in Philadelphia after opening acts withdrew. He expressed feeling abandoned by friends and family during the tour. Sheeran acknowledged changing the stage layout due to security concerns. The singer stated he continued performing for his dedicated fans. This concert followed controversy over Macklemore's removal from the tour.",
+    "img": "https://static.toiimg.com/photo/msid-134377287,imgsize-166074.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ed-sheeran-says-friends-and-family-abandoned-him-amid-macklemore-controversy-had-so-many-people-telling-me-to-cancel-this-tour/articleshow/134377206.cms",
+    "time": "2026-09-21T00:36:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Getting away from gunshots",
+    "desc": "For many young Israelis, Dharamkot in Himachal Pradesh offers an escape from the pressures of military service and conflict, drawing them to India’s Hummus Trail, in search of peace and healing. Though there has been a marginal dip in visitors after the war, locals in the tranquil Himalayan retreat worry about over tourism, drug use, and rave culture, finds Vikas Vasudeva",
+    "img": "https://th-i.thgim.com/public/incoming/6cbkjo/article71484106.ece/alternates/LANDSCAPE_1200/08_RVM_3000.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/himachal-pradesh/getting-away-from-gunshots/article71484095.ece",
+    "time": "2026-09-21T00:30:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mourinho fumes at referee, Simeone urges respect after fiery Madrid derby",
+    "desc": "Those were two clear red cards; ⁠the difficulties we've faced since the sending-off; 11 against 10; well, we can imagine what 50 minutes of 11 against 9 would have been like if justice had been done, said Jose Mourinho",
+    "img": "https://th-i.thgim.com/public/incoming/69oys4/article71489880.ece/alternates/LANDSCAPE_1200/2026-09-20T162512Z_18559265_UP1EM9K199TLM_RTRMADP_3_SOCCER-SPAIN-ATM-RMA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/mourinho-fumes-at-referee-simeone-urges-respect-after-fiery-madrid-derby/article71489879.ece",
+    "time": "2026-09-21T00:26:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bethlehem Kudumba Unit' BO day 31 vs 'Im Game'",
+    "desc": "Nivin Pauly's film 'Bethlehem Kudumba Unit' earned Rs 2.32 crore on its thirty-first day. The movie's India net collection has now reached Rs 157.45 crore after its successful run. Worldwide gross collections for the film stand at an impressive Rs 320.63 crore. This Malayalam film showed a significant 22.1% growth in daily earnings. Meanwhile, 'Im Game' has garnered Rs 47.82 crore globally.",
+    "img": "https://static.toiimg.com/photo/msid-134377351,imgsize-324547.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-collections-day-31-vs-im-game-nivin-pauly-film-grows-22-1-reaches-rs-320-63-cr-worldwide-dulquer-salmaans-film-stands-at-rs-47-82-cr-worldwide/articleshow/134377346.cms",
+    "time": "2026-09-21T00:15:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'VIBE' BO day 3: Kunal Kemmu, Preity Zinta film earns Rs 7.45 cr",
+    "desc": "Kunal Kemmu's film 'VIBE' recorded a box office increase on its third day. The action comedy earned Rs 3.00 crore, showing a rise from Saturday's earnings. This collection brought the film's total net earnings to Rs 7.45 crore. The movie had opened with Rs 1.70 crore on its first day. 'VIBE' features Kunal Kemmu directing and starring alongside other actors.",
+    "img": "https://static.toiimg.com/photo/msid-134377360,imgsize-453152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/vibe-box-office-collections-day-3-kunal-kemmu-preity-zinta-film-earns-rs-7-45-cr-sees-9-1-growth-mints-rs-3-cr-on-sunday/articleshow/134377359.cms",
+    "time": "2026-09-21T00:12:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Heavy rains, squally wind likely in West Bengal from September 22",
+    "desc": "A low-pressure area over the east-central Bay of Bengal and adjoining north Andaman Sea is likely to intensify into a depression on Monday, bringing a spell of heavy rain and squally weather to West Bengal from September 22 to September 26",
+    "img": "https://th-i.thgim.com/public/incoming/dlep9e/article71489082.ece/alternates/LANDSCAPE_1200/raingoaway.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/heavy-rains-squally-wind-likely-in-west-bengal-from-september-22/article71488466.ece",
+    "time": "2026-09-21T00:02:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "New Found Glory guitarist Chad Gilbert passes away at 45",
+    "desc": "Chad Gilbert, New Found Glory's lead guitarist, has died at age 45. He passed away peacefully in his sleep surrounded by loved ones. Gilbert battled serious health challenges including brain tumors and cancer. His guitar playing and songwriting significantly shaped the band's sound. He is remembered as a legendary musician and devoted family man.",
+    "img": "https://static.toiimg.com/photo/msid-134377141,imgsize-287526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/new-found-glory-guitarist-chad-gilbert-passes-away-months-after-removing-3-brain-tumours-and-battling-rare-cancer/articleshow/134377132.cms",
+    "time": "2026-09-20T23:16:18.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Hayden Panettiere's memorial: Hollywood stars attend",
     "desc": "Friends and co-stars gathered in Malibu for Hayden Panettiere's memorial service. The private ceremony honored the actress's life and celebrated her legacy. Her 'Nashville' co-stars delivered speeches and performed a song during the service. Meanwhile, authorities continue investigating the circumstances surrounding her untimely death. Investigators are examining the possibility of an illicitly obtained and contaminated pill.",
@@ -37,6 +226,15 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "AAI plans slew of changes at airport for improved passenger experience",
+    "desc": "Officials say they have identified issues faced by passengers and made a detailed plan to enhance various facilities. They will improve signage, create workstations, and upgrade furniture. Move follows T.N.’s letter to Centre seeking to change airport operator",
+    "img": "https://th-i.thgim.com/public/incoming/7n0s56/article71487976.ece/alternates/LANDSCAPE_1200/chennai%20airport5.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/aai-plans-slew-of-changes-at-airport-for-improved-passenger-experience/article71487645.ece",
+    "time": "2026-09-20T18:47:19.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "PMK’s abstention adds to changing electoral equations",
     "desc": "The impact of the SIR of electoral rolls on the size of the electorate was relatively limited in Madurantakam, with the electorate declining only marginally, whereas the number of voters increased significantly in 2026 compared with the 2024 Lok Sabha election",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -45,13 +243,13 @@ const newsData_en = [
     "time": "2026-09-20T18:34:08.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Indian hockey teams don saffron jerseys in opening matches",
-    "desc": "‘The Indian Olympic Association had given us options regarding the team kit colours, and Hockey India selected blue as the first choice for the Indian team’s kit,’ Dilip Tirkey had said during the send-off ceremony",
-    "img": "https://th-i.thgim.com/public/incoming/4qvtgt/article71489017.ece/alternates/LANDSCAPE_1200/HSpSh7UawAAANuO.jpg",
+    "cat": "Politics",
+    "title": "The copyright stakes in the EU FTA",
+    "desc": "Draft India-EU FTA’s copyright provisions could require changes to India’s Copyright Act and weaken existing exceptions for students, archivists, Internet service providers; negotiators must seek to restore the WIPO Copyright Treaty to the National Treatment clause and preserve the country’s digital copyright flexibilities",
+    "img": "https://th-i.thgim.com/public/news/national/dnkka0/article71488964.ece/alternates/LANDSCAPE_1200/iStock-2293870211.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/asian-games-2026-indian-hockey-teams-don-saffron-jerseys-in-opening-matches/article71489010.ece",
-    "time": "2026-09-20T18:09:11.000Z"
+    "url": "https://www.thehindu.com/news/national/the-copyright-stakes-in-the-eu-fta/article71487735.ece",
+    "time": "2026-09-20T17:27:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -61,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-raina-reacts-to-wedding-rumours-with-medha-shankr-sorry-we-will-have-to-postpone/articleshow/134372569.cms",
     "time": "2026-09-20T17:23:21.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "New party emerges as a frontrunner as Israel goes to polls amid Netanyahu’s waning appeal",
-    "desc": "Yashar leads in opinion polls as its leader Gadi Eisenkot’s popularity among voters eclipses that of Netanyahu; Eisenkot bats for strategic wars over endless ones and concurs with the PM on matter such as two-state solution and Iran",
-    "img": "https://th-i.thgim.com/public/incoming/yg5dsw/article71488959.ece/alternates/LANDSCAPE_1200/Israel_Politics_16966.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/new-party-emerges-as-a-frontrunner-as-israel-goes-to-polls-amid-netanyahus-waning-appeal/article71488057.ece",
-    "time": "2026-09-20T17:08:14.000Z"
   },
   {
     "cat": "Sports",
@@ -91,24 +280,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "When Shweta Bachchan revealed what she HATES about Aishwarya",
-    "desc": "During an episode of Koffee With Karan, Shweta Bachchan Nanda candidly expressed her admiration for Aishwarya Rai Bachchan's independence and dedication to motherhood. However, she addressed her frustration with Aishwarya's tendency to be slow in responding to communications. When discussing fear, Abhishek Bachchan showed a preference for his mother's influence over that of his wife. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-134370962,imgsize-800105.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-shweta-bachchan-revealed-what-she-hates-about-aishwarya-rai-bachchan-abhishek-bachchan-asked-her-to-be-quiet/articleshow/134370891.cms",
-    "time": "2026-09-20T15:32:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 2015, Ashton Kutcher and Mila Kunis began building a sustainable L.A. farmhouse",
-    "desc": "Ashton Kutcher and Mila Kunis have spent five years developing KuKu Farms, a sprawling six-acre estate that imitates a classic farmhouse infused with contemporary amenities. The residence features reclaimed materials and open beams that contribute to its charming, rustic appeal. Powered solely by solar energy, the property not only aims for sustainability but also fosters a nurturing environment for family life.",
-    "img": "https://static.toiimg.com/photo/msid-134365721,imgsize-1802230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2015-ashton-kutcher-and-mila-kunis-began-building-a-sustainable-l-a-farmhouse-five-years-later-its-solar-system-powered-the-entire-property/articleshow/134365703.cms",
-    "time": "2026-09-20T15:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Konkona drops health update after hospitalisation due to dengue",
     "desc": "After dealing with dengue and a hospital stay, Konkona Sen Sharma is on the mend and back in action promoting Lust Stories 3. She recently sent out a warm birthday message to Amol Parashar, leading to buzz about their potential romance. The duo had earlier collaborated in Dolly Kitty Aur Woh Chamakte Sitare. Lust Stories 3 premiered on September 18, 2026, showcasing a talented cast.",
     "img": "https://static.toiimg.com/photo/msid-134370896,imgsize-237756.cms",
@@ -126,15 +297,6 @@ const newsData_en = [
     "time": "2026-09-20T15:18:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ameesha Patel QUESTIONS female stars' BIG ENTOURAGES",
-    "desc": "Santhi Narayanasamy, the beloved daughter of legendary actor Sivaji Ganesan, passed away at the age of seventy-two due to an illness this past Sunday. Her family is deeply mourning her loss as friends and well-wishers gathered to pay their respects at her Valasaravakkam home. Many notable figures from the film industry came to express their condolences. Santhi was also recognized for her contributions to two significant films.",
-    "img": "https://static.toiimg.com/photo/msid-134370740,imgsize-774148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ameesha-patel-questions-female-stars-big-entourages-on-film-promotions-costs-more-than-their-films-opening-day-collection/articleshow/134370299.cms",
-    "time": "2026-09-20T15:12:05.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "When doctors go behind the app wall, who gets left behind?",
     "desc": "Digital healthcare presents a dual landscape, offering innovative benefits while simultaneously imposing hurdles for various patients. Younger generations tend to embrace online health services with ease, yet reliable internet access and digital literacy remain essential for comprehensive medical support. Initiatives such as ABHA strive to digitally integrate healthcare systems. Ultimately, technology should serve to enhance, rather than substitute, the necessary human touch in patient care.",
@@ -142,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/healthcare-goes-digital-when-doctors-go-behind-the-app-wall-who-gets-left-behind/articleshow/134369357.cms",
     "time": "2026-09-20T13:44:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Brahmastra' actor in judicial custody after woman files complaint over marriage promise",
-    "desc": "Saurav Gurjar, known for his role in Mahabharat, has been placed in judicial custody following allegations from a woman who claims he deceived and harassed her under false promises of marriage. After meeting on Instagram and developing a relationship via WhatsApp, they lived together in the US and India, where Gurjar allegedly persuaded her to leave her job. Police have initiated an investigation into the actor's actions.",
-    "img": "https://static.toiimg.com/photo/msid-134369564,imgsize-435842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/brahmastra-actor-saurav-gurjar-in-judicial-custody-after-woman-files-complaint-over-marriage-promise-report/articleshow/134369341.cms",
-    "time": "2026-09-20T13:36:41.000Z"
   },
   {
     "cat": "Sports",
@@ -169,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-ukraine-launches-over-1000-drones-at-russia-akhileshs-up-poll-strategy-more/articleshow/134369243.cms",
     "time": "2026-09-20T13:30:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Motivational quote of the day by Kate Winslet",
-    "desc": "Quote of the day by Kate Winslet comes from April Wheeler, the character she played in the 2008 drama 'Revolutionary Road'. The line, “If being crazy means living life as if it matters, then I don’t mind being completely insane,” comes during April's conversation with her husband Frank about leaving their suburban life and moving to Paris. Here's what the quote means, the context behind the scene, and the lessons it offers about conformity, authenticity, judgment, courage and living a life that feels meaningful.",
-    "img": "https://static.toiimg.com/photo/msid-134365633,imgsize-97602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/motivational-quote-of-the-day-by-kate-winslet-if-being-crazy-means-living-life-as-if-it-matters-then-i-dont-mind-being-completely-insane-a-powerful-life-lesson-on-courage-and-true-freedom/articleshow/134365568.cms",
-    "time": "2026-09-20T13:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -199,39 +343,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Jab bhai bolta hai toh uske baad koi nahi bol sakta'",
-    "desc": "Filmmaker Kunal Kohli praised Salman Khan for his bold stand against online trolling and body-shaming, emphasizing the significance of Khan's insights on social media conduct. Kohli remarked on the audience's keen engagement with Khan’s authoritative remarks during the show. Additionally, he condemned paparazzi and those promoting toxic celebrity culture, expressing his admiration for Khan's bravery in addressing these pressing issues.",
-    "img": "https://static.toiimg.com/photo/msid-134368718,imgsize-579646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kunal-kohli-hails-salman-khan-for-taking-strong-stand-on-trolls-and-paparazzi-jab-bhai-bolta-hai-toh-uske-baad-koi-nahin-bol-sakta/articleshow/134368649.cms",
-    "time": "2026-09-20T12:43:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Madonna invested $12 million in a Beverly Hills estate",
-    "desc": "Madonna purchased a Beverly Hills estate for twelve million dollars in 2003. She expanded the residence into a seventeen thousand square foot compound over ten years. The singer listed the transformed property for twenty-two point five million dollars in 2013. Madonna ultimately sold her expansive Beverly Hills estate for nineteen point five million dollars. Rockstar Energy Drink founder Russell Weiner purchased the home from her in 2015.",
-    "img": "https://static.toiimg.com/photo/msid-134365444,imgsize-1130578.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2003-madonna-invested-12-million-in-a-beverly-hills-estate-and-expanded-it-into-a-17000-sq-ft-compound-a-decade-later-the-american-singer-sold-it-for-19-5-million/articleshow/134365420.cms",
-    "time": "2026-09-20T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Neem Karoli Baba's daughter has watched Hanuman Ansh 15 times and cried each time'",
     "desc": "‘Hanuman Ansh’ producer Ragini Sona credits Neem Karoli Baba’s blessings for the film’s success, recalling a profound meeting with his daughter Girija ji. She also spoke about meeting Baba’s grandson Dhananjan ji and credited Virat Kohli and Anushka Sharma for sparking curiosity about Neem Karoli Baba among a younger generation.",
     "img": "https://static.toiimg.com/photo/msid-134368355,imgsize-380933.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neem-karoli-babas-daughter-has-watched-hanuman-ansh-15-times-and-cried-each-time-says-producer-ragini-sona-we-saw-that-she-is-a-total-replica-of-baba/articleshow/134368251.cms",
     "time": "2026-09-20T12:16:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Why should we get into this?': Salman questions celebs being asked for political views",
-    "desc": "Salman Khan addressed online trolling, alleged paid campaigns and film ratings during the latest ‘Bigg Boss 20’ Weekend Ka Vaar episode. He claimed some industry figures may encourage trolling and questioned the ethics of paid ratings. Salman also discussed why celebrities should not be pressured to comment on politics, saying they may lack information or simply choose to stay away. His remarks have since gone viral.",
-    "img": "https://static.toiimg.com/photo/msid-134368306,imgsize-553529.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/why-should-we-get-into-this-salman-khan-questions-celebrities-being-asked-for-political-views-also-alleges-paid-trolling/articleshow/134367946.cms",
-    "time": "2026-09-20T12:13:54.000Z"
   },
   {
     "cat": "Politics",
@@ -241,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/uttarakhand-cm-dhami-joins-women-in-traditional-chachani-dance-during-badrinath-visit/articleshow/134368195.cms",
     "time": "2026-09-20T12:10:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prakash Raj reacts to Vijay meeting Ajith in England",
-    "desc": "Actor-politician Vijay’s meeting with Ajith Kumar at the Le Mans race in Silverstone has drawn attention. Reacting to the reunion, Prakash Raj said there was nothing wrong with Vijay travelling abroad to meet his friend. He urged people to assess whether Vijay achieved the purpose of his trip and said his government should be given at least one year before judging its performance.",
-    "img": "https://static.toiimg.com/photo/msid-134368111,imgsize-1086320.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/prakash-raj-reacts-to-vijay-ajith-meeting-in-england-says-nothing-wrong-in-him-going-abroad-and-meeting-his-friend-ajith/articleshow/134368053.cms",
-    "time": "2026-09-20T12:04:11.000Z"
   },
   {
     "cat": "Sports",
@@ -270,24 +378,6 @@ const newsData_en = [
     "time": "2026-09-20T11:56:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kangana HITS BACK at people trolling Maithili for arriving in Rolls-Royce",
-    "desc": "Kangana Ranaut has defended young singer-turned-politician Maithili Thakur after she was trolled for arriving at Mumbai’s Lalbaugcha Raja pandal in a luxury Rolls-Royce Cullinan. Kangana questioned why politicians are expected to live modestly despite having their own careers and success. Maithili, a folk singer from Bihar, entered politics as a BJP candidate in the 2025 Bihar Assembly elections and has since continued her musical career.",
-    "img": "https://static.toiimg.com/photo/msid-134367497,imgsize-442963.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hits-back-at-people-trolling-maithili-thakur-for-arriving-in-rolls-royce-at-lalbaugcha-raja-some-people-a-start-to-burn/articleshow/134367439.cms",
-    "time": "2026-09-20T11:27:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Varun REACTS after Salman defends him against trolls; Neha says, 'Tiger zinda hai'",
-    "desc": "Salman Khan recently defended Varun Dhawan and Sohail Khan against online trolling over their appearance during ‘Bigg Boss 20’. Varun and David Dhawan later reacted to Salman’s remarks. The actor also criticised paparazzi for clicking celebrities from uncomfortable angles and urged women to speak up against such behaviour. Neha Dhupia, whom Salman mentioned, responded to his comments on social media, writing, “Tiger… zinda hai…”",
-    "img": "https://static.toiimg.com/photo/msid-134367022,imgsize-634007.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-dhawan-david-dhawan-react-after-salman-khan-defends-him-against-trolls-neha-dhupia-says-tiger-zinda-hai/articleshow/134366881.cms",
-    "time": "2026-09-20T10:48:55.000Z"
-  },
-  {
     "cat": "World",
     "title": "Brazil, India are building strategic ties for a changing world, says Brazil’s Foreign Minister",
     "desc": "On whether BRICS seeks to replace the U.S. dollar, the Brazilian envoy says the possible use of local currencies for settling part of bilateral trade is something many countries already do, and that governments do not tell companies which currency they must use",
@@ -295,15 +385,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/brazil-india-are-building-strategic-ties-for-a-changing-world-says-brazils-foreign-minister/article71459802.ece",
     "time": "2026-09-20T10:37:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Horrific! Former England footballer run over by pitch roller",
-    "desc": "Former England winger Andros Townsend escaped serious injury after appearing to be struck and briefly run over by a pitch roller during PT Prachuap’s warm-up against Pattani FC in Thailand. Despite suffering superficial thigh wounds, the 35-year-old came off the bench in the 93rd minute as PT Prachuap won 3-0, continuing his “Thai adventure” in extraordinary fashion.",
-    "img": "https://static.toiimg.com/photo/msid-134365953,imgsize-65768.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/horrific-former-england-footballer-andros-townsend-run-over-by-pitch-roller-in-freak-accident-watch/articleshow/134365849.cms",
-    "time": "2026-09-20T09:10:07.000Z"
   },
   {
     "cat": "Sports",
@@ -342,24 +423,6 @@ const newsData_en = [
     "time": "2026-09-20T08:07:28.000Z"
   },
   {
-    "cat": "World",
-    "title": "Russian election, cast as test of support for Ukraine war, enters final day",
-    "desc": "Most anti-war candidates ‌were barred from the ballot; those who did run from the liberal Yabloko party said they feared for their freedom after courts handed long jail terms to two senior party figures before the vote for comments about the conflict deemed illegal by authorities",
-    "img": "https://th-i.thgim.com/public/incoming/4wqe7u/article71487172.ece/alternates/LANDSCAPE_1200/2026-09-20T030057Z_298613436_RC2OMNA1ZR3Q_RTRMADP_3_RUSSIA-ELECTION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/russian-election-cast-as-test-of-support-for-ukraine-war-enters-final-day/article71487152.ece",
-    "time": "2026-09-20T07:54:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "After Oscar's 2027 entry, 'Gondhal' to now release in Hindi, Tamil, and Telugu",
-    "desc": "The much-anticipated Marathi film 'Gondhal' is set to make waves with its upcoming releases in Hindi, Tamil, and Telugu. The film's editor has confirmed that the dubbed versions are ready, and viewers can expect an official announcement soon. Emphasizing the importance of a theatrical experience, the makers have decided against a quick OTT release, believing that the big screen provides an unmatched connection to the story.",
-    "img": "https://static.toiimg.com/photo/msid-134365143,imgsize-360087.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/after-oscars-2027-entry-gondhal-to-now-release-in-hindi-tamil-and-telugu-the-team-to-announce-details-soon-exclusive/articleshow/134365093.cms",
-    "time": "2026-09-20T07:45:20.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Uday Kotak warns gold imports may hit $88-90bn; says ‘Indians and their gold a puzzle’",
     "desc": "\"Indians and their gold - that is a puzzle we have to find a way to solve,\" he said. Kotak suggested that a committee could be considered to work out a solution that takes into account people's requirements while also addressing the country's capital and current account challenges.",
@@ -387,24 +450,6 @@ const newsData_en = [
     "time": "2026-09-20T06:25:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Second medal for India, Elavenil wins silver in women’s 10m air rifle at Asiad 2026",
-    "desc": "Elavenil Valarivan narrowly missed gold in the women’s 10m air rifle final at the Aichi-Nagoya Asian Games, settling for silver with 252.4 points. Japan’s Taichi Hinata won gold with 253.0, while South Korea’s Ban Hyojin took bronze. Elavenil had earlier helped India win team silver, adding a second medal to the country’s shooting haul.",
-    "img": "https://static.toiimg.com/photo/msid-134364207,imgsize-27614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/elavenil-valarivan-narrowly-misses-out-on-gold-settles-for-womens-10m-air-rifle-silver-at-asian-games-2026/articleshow/134364039.cms",
-    "time": "2026-09-20T06:15:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Red Pawns, Red Soldiers: How the Bolsheviks built a chess superpower",
-    "desc": "In his latest Grandmaster View column, India’s young GM Aarav Dengla looks back at how the Bolsheviks transformed chess from a pastime of Russia’s aristocracy into an instrument of mass education, military training and cultural revolution. From Ilyin-Zhenevsky and the Red Army to Botvinnik, Tal, Karpov and Kasparov, Aarav traces how a century-old state-backed experiment helped build the Soviet chess machine, and a legacy that still shapes the chess world today.",
-    "img": "https://static.toiimg.com/photo/msid-134363509,imgsize-165374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/red-pawns-red-soldiers-how-the-bolsheviks-built-a-chess-superpower/articleshow/134363468.cms",
-    "time": "2026-09-20T04:26:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Builder gave homebuyer parking in 2008, society changed rules; here’s why court gave interim relief to resident",
     "desc": "The Phase-1 society claimed that the area where the couple had been parking their car belonged to the society. The builder, however, took a different position, saying the space formed part of the open area of the building where it proposed to develop a recreation ground.",
@@ -421,15 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/ed-sheeran-set-to-return-to-stage-after-palestinian-controversy/article71486920.ece",
     "time": "2026-09-20T02:42:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Champions return, 314 debutants arrive: Inside India’s 500-plus Asian Games campaign",
-    "desc": "India begins its campaign at Aichi-Nagoya with a 500-plus athlete contingent; 314 of them are making their first Asian Games appearance. Mirabai Chanu returns with the Asian Games medal missing from her collection, while Anahat Singh arrives as a World Junior Squash Champion. Defending champions Avinash Sable, Tajinderpal Singh Toor, Parul Chaudhary, Jyothi Surekha Vennam and Satwik-Chirag will look to build on India’s 106-medal haul at Hangzhou.",
-    "img": "https://static.toiimg.com/photo/msid-134362717,imgsize-688090.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/champions-return-314-debutants-arrive-inside-indias-500-plus-asian-games-campaign/articleshow/134362698.cms",
-    "time": "2026-09-20T02:02:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -477,15 +513,6 @@ const newsData_en = [
     "time": "2026-09-19T14:49:37.000Z"
   },
   {
-    "cat": "Business",
-    "title": "How a crisis born in US reshaped India",
-    "desc": "The 2008 global financial crisis hit India through markets, capital flows and trade, but its banking system remained resilient. The shock exposed gaps in financial resolution and regulation, prompting reforms including the IBC, stronger safeguards for systemically important banks and higher buffers. Nearly 18 years later, India is stronger, but rising AI investment raises fresh questions about leverage and financial stability.",
-    "img": "https://static.toiimg.com/photo/msid-134353645,imgsize-206846.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/18-years-after-the-2008-financial-meltdown-how-a-crisis-born-in-us-reshaped-india/articleshow/134352862.cms",
-    "time": "2026-09-19T11:55:12.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Tamil, friendship and music: The many lives of Hiphop Tamizha Adhi",
     "desc": "Ahead of the release of his ‘Meesaya Murukku 2,’ Hiphop Tamizha Adhi speaks about how the film addresses the challenges Tamil indie artists face, the joys of working with friends, and what lies ahead for his Tamizhanda Movement",
@@ -529,24 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/asian-games-2026-quimcy-dsouza-closes-in-on-historic-teqball-medal-for-india/article71482584.ece",
     "time": "2026-09-19T04:54:57.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. House advances Russia sanctions Bill that seeks 100% tariffs on India, others; set for final vote",
-    "desc": "The resolution to advance the Russia sanctions Bill and a slew of other legislations was approved by a 214-211 vote, shocking the House Democratic leadership. The Bill is expected to come up for a final vote in the House on September 16",
-    "img": "https://th-i.thgim.com/public/incoming/ydmapq/article71470873.ece/alternates/LANDSCAPE_1200/2026-07-02T115057Z_1326133511_RC2OFKAY4WTB_RTRMADP_3_RUSSIA-OIL-TAX.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/russia-sanctions-bill-advances-in-us-house-india-tariffs-final-vote/article71470872.ece",
-    "time": "2026-09-19T04:11:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "I find GCL entertaining; it actually gives chess a new life: Abhimanyu Mishra",
-    "desc": "In his maiden Global Chess League foray, the American chess prodigy was part of a side that finished sixth out of six. But the 17-year-old Grandmaster thinks highly of the star-studded, innovative competition. He talks about playing in India, his chess journey, and the strengths of reigning World champion Gukesh among others.",
-    "img": "https://th-i.thgim.com/public/incoming/efp0q0/article71482307.ece/alternates/LANDSCAPE_1200/55414599726_5bec801234_o.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/abhimanyu-mishra-youngest-grandmaster-gukesh-global-chess-league-interview/article71482306.ece",
-    "time": "2026-09-18T18:20:01.000Z"
   },
   {
     "cat": "Business",

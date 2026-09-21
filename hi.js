@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India win another medal in shooting as men's team wins 10m air rifle silver at Asian Games 2026",
+    "desc": "India's Rudrankksh Patil, Himanshu Dhillon and Parth Mane combined for a silver-medal finish in the men's 10m air rifle team event at the Asian Games 2026 in Aichi-Nagoya on Monday. The Indian trio posted an aggregate...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-win-another-medal-in-shooting-as-men-s-team-wins-10m-air-rifle-silver-at-asian-games-2026-2026-09-21-1054794",
+    "time": "2026-09-21T02:20:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Spain dominate Chile to reach Davis Cup 2026 final eight, Jodar and Merida star in victory",
     "desc": "Spain became the latest team to reach the final eight stage of the Davis Cup 2026; the side took on Chile in round 2 of the qualifiers and went through to the knockouts undefeated in...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-scripts-history-slams-century-against-bangladesh-in-asian-games-semi-final-2026-09-20-1054743",
     "time": "2026-09-20T07:46:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India opens account in medal tally at Asian Games 2026, clinches silver in shooting",
-    "desc": "The Asian Games 2026 action continues in Aichi-Nagoya, Japan, with Indian athletes competing across several sports on September 20. The day features major events in shooting, hockey, cricket, teqball and mixed martial arts, among others....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-medal-tally-at-asian-games-2026-2026-09-20-1054735",
-    "time": "2026-09-20T04:31:09.000Z"
   }
 ];
