@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
-    "cat": "World",
-    "title": "પેટ્રોલ 400ને પાર પહોંચ્યું, સરકારની ચેતવણી 1000 રૂપિયે લિટર ભરાવવાની તૈયારી રાખજો",
-    "desc": "પાકિસ્તાનમાં પેટ્રોલના ભાવ 400 રૂપિયાને પાર પહોંચી ગયા છે અને પેટ્રોલિયમ મંત્રીએ ચેતવણી આપી છે કે જો અછત વધશે તો પેટ્રોલનો ભાવ એક હજાર રૂપિયા પ્રતિ લિટર સુધી પહોંચી શકે છે. જનતા પાસે પેટ ભરવા માટે અનાજ નથી અને ગાડીઓ ચલાવવા માટે પેટ્રોલ નથી. ઉપરથી સત્તાધિશો તેમને સ્કૂટર યોગ શિખવાની સલાહ આપી રહ્યા છે. જનરલ મુનીર અને શહબાઝ શરીફની જોડીએ પાકિસ્તાની જનતાને નર્કથી બદતર જિંદગી જીવવા મજબુર કરી દીધી છે.",
+    "cat": "Business",
+    "title": "RBIનો મોટો નિર્ણય! બેંકોની આ ટ્રિક્સ હવે નહીં કરે કામ, નિયમોમાં થશે ફેરફાર",
+    "desc": "RBIએ બેંકો માટે નવા બજાર જોખમ સંબંધિત મૂડી નિયમો જાહેર કર્યા છે, જે 1 એપ્રિલ, 2027થી અમલમાં આવશે. સુધારેલા બેસલ III માળખા હેઠળ, બેંકો હવે ઓછી મૂડી જરૂરિયાતોનો લાભ લેવા માટે ટ્રેડિંગ બુક અને બેંકિંગ બુક વચ્ચે મનસ્વી રીતે નાણાકીય સાધનોનું વર્ગીકરણ કરી શકશે નહીં.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/no-food-no-fuel-and-a-1000-rupee-petrol-crisis-how-pakistans-leadership-is-driving-the-nation-into-the-abyss-491952 ",
-    "time": "2026-09-21T11:52:02.000Z"
+    "url": " http://zeenews.india.com/gujarati/business/major-decision-by-rbi-these-banking-tricks-will-no-longer-work-rules-to-change-491978 ",
+    "time": "2026-09-21T16:24:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ટ્રમ્પના કમાન્ડની રાહમાં અમેરિકા, તો બદલાની તૈયારીમાં ઈરાન; ખાડી દેશોમાં તણાવ ચરમસીમાએ!",
+    "desc": "યુદ્ધના મોરચે ફરી એકવાર ઈરાન અને અમેરિકા એક્ટિવ થઈ ગયા છે. અમેરિકા અને ઈઝરાયેલને ડર છે કે ઈરાન વળતો મોટો હુમલો કરી શકે છે. તો ઈરાનને પણ આશંકા છે કે, આ વખતે અમેરિકા અને ઈઝરાયેલ મોટા હુમલાની તૈયારી કરી રહ્યા છે. આ આશંકાને જોતા ઈરાને પોતાનું સૌથી મોટુ વોર એલર્ટ- કોડ 100 લાગૂ કરી દીધુ છે. શું છે ઈરાનનો આ કોડ 100 અને અમેરિકન હુમલાની સ્થિતિમાં ઈરાને કયા મોટા વળતા હુમલાની તૈયારી કરી છે જોઈએ આ ખાસ અહેવાલમાં",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/middle-east-on-brink-of-war-iran-enforces-code-100-alert-as-us-israel-prepare-major-strike-491965 ",
+    "time": "2026-09-21T14:26:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSKના નવા હેડ કોચ બન્યા ઝહીર ખાન, IPL 2027ને લઈને ચોકાવનારૂ એલાન",
+    "desc": "ચેન્નાઈ સુપર કિંગ્સે IPL 2027 માટે નવા હેડ કોચની જાહેરાત કરી છે. ભૂતપૂર્વ ભારતીય સ્ટાર બોલર ઝહીર ખાનને CSKના હેડ કોચ તરીકે પસંદ કરવામાં આવ્યા છે. તેઓ સ્ટીફન ફ્લેમિંગનું સ્થાન લેશે, જેમણે લાંબા સમય બાદ આ પદ પરથી રાજીનામું આપવાનો નિર્ણય લીધો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/zaheer-khan-becomes-csk-new-head-coach-shocking-announcement-regarding-ipl-2027-491962 ",
+    "time": "2026-09-21T13:46:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Tata Sonsનો માત્ર 1 શેર ધરાવતા રોકાણકાર બની શકે છે કરોડપતિ! શું છે આખું ગણિત? જાણો",
+    "desc": "જો ટાટા સન્સનો IPO આવે છે, તો વર્તમાન મૂલ્યાંકન પર, એક શેરની કિંમત 1 કરોડ રૂપિયાથી વધુ હોઈ શકે છે. જાણો કઈ રીતે ગણતરી થાય છે અને ટાટાના આ શેર આટલો મોંધો કેમ છે તેના વિશે પણ તમને આ લેખ દ્વારા જણાવીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/an-investor-holding-just-one-share-of-tata-sons-could-become-a-millionaire-what-is-the-math-behind-this-find-out-491955 ",
+    "time": "2026-09-21T13:17:25.000Z"
   },
   {
     "cat": "Tech",
@@ -15,7 +42,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/tata-is-bringing-this-impressive-car-the-price-could-be-under-6-lakh-it-launches-on-september-25-find-out-more-491951 ",
-    "time": "2026-09-21T11:43:54.000Z"
+    "time": "2026-09-21T12:11:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પેટ્રોલ 400ને પાર પહોંચ્યું, સરકારની ચેતવણી 1000 રૂપિયે લિટર ભરાવવાની તૈયારી રાખજો",
+    "desc": "પાકિસ્તાનમાં પેટ્રોલના ભાવ 400 રૂપિયાને પાર પહોંચી ગયા છે અને પેટ્રોલિયમ મંત્રીએ ચેતવણી આપી છે કે જો અછત વધશે તો પેટ્રોલનો ભાવ એક હજાર રૂપિયા પ્રતિ લિટર સુધી પહોંચી શકે છે. જનતા પાસે પેટ ભરવા માટે અનાજ નથી અને ગાડીઓ ચલાવવા માટે પેટ્રોલ નથી. ઉપરથી સત્તાધિશો તેમને સ્કૂટર યોગ શિખવાની સલાહ આપી રહ્યા છે. જનરલ મુનીર અને શહબાઝ શરીફની જોડીએ પાકિસ્તાની જનતાને નર્કથી બદતર જિંદગી જીવવા મજબુર કરી દીધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/no-food-no-fuel-and-a-1000-rupee-petrol-crisis-how-pakistans-leadership-is-driving-the-nation-into-the-abyss-491952 ",
+    "time": "2026-09-21T11:52:02.000Z"
   },
   {
     "cat": "Tech",
@@ -477,15 +513,6 @@ const newsData_gu = [
     "time": "2026-09-17T08:31:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભારતનો ‘સિલિકોન શંખનાદ’! ટેક ક્ષેત્રે મહાસત્તા બનવા મોદી સરકારનો મેગા પ્લાન",
-    "desc": "આજે પીએમ મોદીનો જન્મદિવસ છે અને આ અવસરે તેમણે સેમીકોન ઈન્ડિયા 2026નું ઉદ્ધાટન કર્યું. 1.27 લાખ કરોડ રૂપિયાના સેમીકન્ડક્ટર 2.0 મિશનની સાથે ભારત હવે દુનિયાનું નવું ચિપ હબ બનવા જઈ રહ્યું છે. જાણો શું છે સરકારનો મેગા પ્લાન?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-narendra-modi-inaugurates-semicon-india-2026-1-27-lakh-cr-mission-china-taiwan-491545 ",
-    "time": "2026-09-17T07:55:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "દૂરદર્શનની એવી સીરીયલ જે દુનિયાભરમાં હતી લોકપ્રિય, સીરીયલ જોવા લોકો ભારતથી વીડિયો કેસેટ મંગાવતા",
     "desc": "દૂરદર્શન પર 80 ના દાયકામાં એક એવી સીરીયલ શરુ થઈ હતી જે લોકપ્રિય થઈ હતી. આ સીરયલ શરુ થવાની હોય ત્યારે લોકો કામ કાજ છોડી ટીવી સામે બેસી જતા હતા. આ સીરીયલના સમયે બજારો ખાલી થઈ જતી એવું કહેવાય છે.",
@@ -493,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/doordarshan-classic-tv-show-buniyaad-on-ott-buniyaad-story-and-star-cast-491514 ",
     "time": "2026-09-17T04:52:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "વડનગરની ચાની કીટલીથી દેશના PM સુધી... કેવી રીતે સંઘર્ષે ઘડ્યું નરેન્દ્ર મોદીનું વ્યક્તિત્વ?",
-    "desc": "વડનગરના રેલવે સ્ટેશનથી શરૂ થયેલી એક સફર, ચાની કીટલી, પરિવારનો સંઘર્ષ અને બાળપણથી જ નેતૃત્વના સંસ્કારો. 17 સપ્ટેમ્બર, 1950ના રોજ જન્મેલા નરેન્દ્ર મોદીના જીવનની શરૂઆત વૈભવમાં નહીં, પરંતુ મહેનત અને જવાબદારી વચ્ચે થઈ હતી. પિતાની ચાની દુકાનથી લઈને ભારતભ્રમણ સુધી. કેવી રીતે ઘડાયું એક એવું વ્યક્તિત્વ, જેણે આગળ જઈને રાષ્ટ્રીય રાજકારણમાં આગવી ઓળખ બનાવી?. જાણીએ નરેન્દ્ર મોદીના બાળપણ અને સંઘર્ષની અનકહી કહાની.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-modi-birthday-special-how-did-struggle-shape-narendra-modi-personality-491493 ",
-    "time": "2026-09-17T04:11:35.000Z"
   },
   {
     "cat": "Sports",

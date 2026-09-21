@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Zaheer Khan appointed Chennai Super Kings head coach ahead of IPL 2027 as franchise looks to bounce back",
+    "desc": "In one of the biggest developments, five-time IPL (Indian Premier League) champions Chennai Super Kings have come forward and named former India pacer Zaheer Khan as their head coach ahead of the IPL 2027 season....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/zaheer-khan-named-chennai-super-kings-head-coach-ahead-of-ipl-2027-2026-09-21-1054857",
+    "time": "2026-09-21T12:58:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will weather in Sano fare as Japan eye top-flight cricket action against India?",
+    "desc": "The stage is set for the one-off T20I clash between India and Japan. The two sides are slated to take on each other at the Sano International Cricket Ground on September 22nd, and both sides...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-jpn-weather-report-how-will-weather-in-sano-as-japan-eye-top-flight-cricket-action-against-india-2026-09-21-1054856",
+    "time": "2026-09-21T12:27:55.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jack Edwards added to Australia ODI squad to face SA, pace duo released from the team ahead of the series",
     "desc": "The stage is set for the ODI series between Australia and South Africa. The two sides are slated to take on each other across three ODI matches. The first ODI of the series will be...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/india-win-another-medal-in-shooting-as-men-s-team-wins-10m-air-rifle-silver-at-asian-games-2026-2026-09-21-1054794",
     "time": "2026-09-21T02:20:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spain dominate Chile to reach Davis Cup 2026 final eight, Jodar and Merida star in victory",
-    "desc": "Spain became the latest team to reach the final eight stage of the Davis Cup 2026; the side took on Chile in round 2 of the qualifiers and went through to the knockouts undefeated in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/spain-dominate-chile-to-reach-davis-cup-2026-final-eight-jodar-and-merida-star-in-victory-2026-09-20-1054784",
-    "time": "2026-09-20T17:55:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Josh Inglis slams magnificent century, achieves massive feat with brilliant knock against Zimbabwe",
-    "desc": "Australia and Zimbabwe took on each other in the third ODI of the series between the two sides. The two teams met at the Harare Sports Club on September 20th, and the game began with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/josh-inglis-slams-magnificent-century-achieves-massive-feat-with-brilliant-knock-against-zimbabwe-2026-09-20-1054780",
-    "time": "2026-09-20T15:28:56.000Z"
   }
 ];
