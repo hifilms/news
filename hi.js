@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jack Edwards added to Australia ODI squad to face SA, pace duo released from the team ahead of the series",
+    "desc": "The stage is set for the ODI series between Australia and South Africa. The two sides are slated to take on each other across three ODI matches. The first ODI of the series will be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jack-edwards-added-to-australia-odi-squad-to-face-sa-pace-duo-released-from-the-team-ahead-of-the-series-2026-09-21-1054851",
+    "time": "2026-09-21T11:19:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Edinburgh Castle Rockers clinch ETPL 2026 title after stellar 7-wicket win against Belfast Wolves",
+    "desc": "The ETPL (European T20 Premier League) 2026 final saw Edinburgh Castle Rockers taking on Belfast Wolves. The two sides met at The Village, Malahide, Dublin, on September 20th. The clash saw Rockers put in an...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/edinburgh-castle-rockers-clinch-etpl-2026-title-after-stellar-7-wicket-win-against-belfast-wolves-2026-09-21-1054841",
+    "time": "2026-09-21T09:35:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Absolutely pathetic': Gary Neville slams Manchester United after latter's run of subpar form in the PL",
+    "desc": "Manchester United’s subpar run of form continued as the side took on Fulham in the Premier League. The two sides met at the Craven Cottage on September 20th, and United failed to register a victory...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/absolutely-pathetic-gary-neville-slams-manchester-united-after-latter-s-run-of-subpar-form-in-the-pl-2026-09-21-1054834",
+    "time": "2026-09-21T08:20:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'That would be my aspiration': Stephen Fleming reflects on his long-term vision as England head coach",
+    "desc": "England’s newly appointed Test head coach, Stephen Fleming, is looking for a complete rebuild of the side. It is worth noting that Brendon McCullum recently stepped down as the Test head coach, bringing the era...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/that-would-be-my-aspiration-stephen-fleming-reflects-on-his-long-term-vision-as-england-head-coach-2026-09-21-1054828",
+    "time": "2026-09-21T07:29:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Antigua and Barbuda Falcons clinch CPL 2026 title, register dominant eight-wicket win over Jamaica Kingsmen",
+    "desc": "The CPL (Caribbean Premier League) 2026 final saw Antigua and Barbuda Falcons take on Jamaica Kingsmen. The two sides met at Kensington Oval, Bridgetown, Barbados, on September 20th, and the Falcons came out on top...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/antigua-and-barbuda-falcons-clinch-cpl-2026-title-register-dominant-eight-wicket-win-over-jamaica-kingsmen-2026-09-21-1054820",
+    "time": "2026-09-21T06:45:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Himanshu Dhillon, Rudrankksh Patil add to India's medal tally, clinch silver and bronze in Asian Games 2026",
+    "desc": "The Indian contingent performed brilliantly once more in the early stages of the Asian Games 2026, on day 2. After finishing the first day with two medals, India has added four more halfway through the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/himanshu-dhillon-rudrankksh-patil-add-to-india-s-medal-tally-clinch-silver-and-bronze-in-asian-games-2026-2026-09-21-1054809",
+    "time": "2026-09-21T05:24:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suchika Tariyal makes history, wins India's first-ever Women's MMA bronze at Asian Games 2026",
+    "desc": "Indian mixed martial arts (MMA) athlete Suchika Tariyal made history on Monday by securing the country's first-ever medal in the discipline at the Asian Games 2026 in Aichi-Nagoya. The 36-year-old won bronze in the women's...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/suchika-tariyal-makes-history-wins-india-first-ever-women-mma-bronze-at-asian-games-2026-latest-updates-2026-09-21-1054805",
+    "time": "2026-09-21T04:15:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India win another medal in shooting as men's team wins 10m air rifle silver at Asian Games 2026",
     "desc": "India's Rudrankksh Patil, Himanshu Dhillon and Parth Mane combined for a silver-medal finish in the men's 10m air rifle team event at the Asian Games 2026 in Aichi-Nagoya on Monday. The Indian trio posted an aggregate...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/josh-inglis-slams-magnificent-century-achieves-massive-feat-with-brilliant-knock-against-zimbabwe-2026-09-20-1054780",
     "time": "2026-09-20T15:28:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Alexander Zverev shines as Germany book place in Davis Cup 2026 final eight",
-    "desc": "The Davis Cup 2026 qualifier round 2 continued, and several sides booked their tickets to Bologna for the final eight stages of the event. Many eyes were set upon Germany and its team of Alexander...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/alexander-zverev-shines-as-germany-book-place-in-davis-cup-2026-final-8-2026-09-20-1054776",
-    "time": "2026-09-20T14:52:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Elavenil Valarivan's silver medals highlight India's excellent start to the campaign",
-    "desc": "The Indian contingent kicked off its campaign at the Asian Games 2026. India made a strong start to the event, ending the first day with two silver medal victories and several medals assured in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/asian-games-2026-elavenil-valarivan-s-silver-medals-highlight-india-s-excellent-start-to-the-campaign-2026-09-20-1054772",
-    "time": "2026-09-20T13:44:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Craig Ervine scripts history, becomes oldest player in history to achieve massive feat in 3rd Australia ODI",
-    "desc": "Zimbabwe and Australia continued their ongoing ODI series by taking on each other in the third ODI. The two sides met at the Harare Sports Club on September 20th, and the clash began with Zimbabwe...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/craig-ervine-scripts-history-becomes-oldest-player-in-history-to-achieve-massive-feat-in-3rd-australia-odi-2026-09-20-1054762",
-    "time": "2026-09-20T11:57:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Elavenil Valarivan opens up after silver medal victory in air rifle event at Asian Games 2026",
-    "desc": "The Indian contingent opened its account at the Asian Games 2026. India clinched silver at the women's 10m air rifle team event as the trio of Elavenil Valarivan, Sonam Maskar and Vidarsa Vinod finished second...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/elavenil-valarivan-opens-up-after-silver-medal-victory-in-air-rifle-event-at-asian-games-2026-2026-09-20-1054759",
-    "time": "2026-09-20T11:01:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Varun Sanyal declared medically unfit to compete in Asian Games 2026 after attempting weight cut",
-    "desc": "In a major development, India’s star MMA fighter Varun Sanyal has been ruled out of the Asian Games 2026. It is worth noting that Sanyal was slated to compete in the men’s traditional 77 kg...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/varun-sanyal-declared-medically-unfit-to-compete-in-asian-games-2026-after-attempting-weight-cut-2026-09-20-1054752",
-    "time": "2026-09-20T09:53:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India women register dominant 114-run victory over Bangladesh, book ticket to Asian Games cricket final",
-    "desc": "India women took on Bangladesh in the Asian Games 2026 cricket semi-final. The two sides met at the Korogi Sports Park, Nisshin, on September 20, and it was the Indian team who were extremely dominant...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-women-register-dominant-114-run-victory-over-bangladesh-book-ticket-to-asian-games-cricket-final-2026-09-20-1054745",
-    "time": "2026-09-20T07:55:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shafali Verma scripts history, slams century against Bangladesh in Asian Games semi-final",
-    "desc": "The Asian Games cricket semi-final saw India women taking on Bangladesh women. The two sides took on each other at the Korogi Sports Park, Nisshin, on September 20, and the clash saw India women coming...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-scripts-history-slams-century-against-bangladesh-in-asian-games-semi-final-2026-09-20-1054743",
-    "time": "2026-09-20T07:46:31.000Z"
   }
 ];
