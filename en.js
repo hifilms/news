@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Class 10 girl and boy returning from coaching groped and assaulted in Bihar’s Jamui, sparking a political row",
+    "desc": "Police register suo motu FIR, arrest three as viral video of crime sparks political row; NCW directs support for teens, says steps should be taken to stop video circulation; Rahul Gandhi slams patriarchy; Tejashwi says Bihar put to shame by NDA govt.",
+    "img": "https://th-i.thgim.com/public/news/national/vkc1xq/article71492749.ece/alternates/LANDSCAPE_1200/de949761-1e86-4b65-ab39-b476881afbe3.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/two-class-10-students-a-girl-and-a-boy-groped-and-harassed-in-bihars-jamui-sparking-a-political-row/article71491560.ece",
+    "time": "2026-09-21T20:59:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court orders fresh probe into 2012 rape-murder near Dharmasthala in Karnataka",
+    "desc": "Top court directs State to constitute a tech-savvy and efficient SIT without any officer from the old probe team and complete the investigation within three months; lone accused in case was acquitted by CBI court in 2023",
+    "img": "https://th-i.thgim.com/public/incoming/6d9z5a/article71492835.ece/alternates/LANDSCAPE_1200/6744_19_8_2025_16_15_17_2_18_08_2025_SUPREME_COURT04.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/supreme-court-orders-fresh-probe-into-2012-rape-murder-near-dharmasthala-in-karnataka/article71492604.ece",
+    "time": "2026-09-21T19:22:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka to track cancer patients after fake drug bust",
+    "desc": "In order to make it easy for laboratories, doctors, and pharmaceutical firms to differentiate between fake and original drugs, the department has written to the headquarters of Pfizer to release their reference standards, says Health Minister U.T. Khader",
+    "img": "https://th-i.thgim.com/public/incoming/mkv560/article71492676.ece/alternates/LANDSCAPE_1200/iStock-2120556953.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-track-cancer-patients-after-fake-drug-bust/article71492327.ece",
+    "time": "2026-09-21T19:20:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Getting away from gunshots",
+    "desc": "For many young Israelis, Dharamkot in Himachal Pradesh offers an escape from the pressures of military service and conflict, drawing them to India’s Hummus Trail, in search of peace and healing. Though there has been a marginal dip in visitors after the war, locals in the tranquil Himalayan retreat worry about over tourism, drug use, and rave culture, finds Vikas Vasudeva",
+    "img": "https://th-i.thgim.com/public/incoming/6cbkjo/article71484106.ece/alternates/LANDSCAPE_1200/08_RVM_3000.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/himachal-pradesh/getting-away-from-gunshots/article71484095.ece",
+    "time": "2026-09-21T19:04:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu explains to Cauvery Authority the rationale behind its demand for clearing backlog of 16 tmc ft",
+    "desc": "It says the demand is based on the principle of pro-rata share in the flows realised. The Cauvery tribunal and the SC had referred to the concept of pro-rata for adoption in times of distress",
+    "img": "https://th-i.thgim.com/public/incoming/rvrdpf/article71493052.ece/alternates/LANDSCAPE_1200/10213_3_8_2026_19_25_28_1_KA04WATERFLOWINBELEGUNDULU.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-explains-to-cauvery-authority-the-rationale-behind-its-demand-for-clearing-backlog-of-16-tmc-ft/article71492248.ece",
+    "time": "2026-09-21T18:54:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hyderabad’s Paradise-Shamirpet elevated corridor hopes to take long-distance traffic off local roads",
+    "desc": "The 18.18-km corridor is planned to have multiple entry and exit ramps,, allowing motorists to bypass several busy junctions, while the existing road below will continue to serve local traffic. The project is estimated to be completed by the beginning of 2028.",
+    "img": "https://th-i.thgim.com/public/incoming/t8zlrd/article71493055.ece/alternates/LANDSCAPE_1200/_DSC2845.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabads-paradise-shamirpet-elevated-corridor-hopes-to-take-long-distance-traffic-off-local-roads/article71488339.ece",
+    "time": "2026-09-21T18:54:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK visits Lalbaugcha Raja with Gauri and Suhana",
+    "desc": "Shah Rukh Khan graced the iconic Lalbaugcha Raja with his presence, accompanied by his wife and daughter, during a warm evening aarti. Fans thronged to catch a glimpse of the beloved actor, who wasn't alone as numerous film celebrities also made their way to the celebrated pandal for Ganeshotsav. Anticipation builds for Khan's next film, 'King', which is set to hit theaters on December 24.",
+    "img": "https://static.toiimg.com/photo/msid-134396659,imgsize-804188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-visits-lalbaugcha-raja-with-gauri-khan-and-suhana-khan-to-seek-lord-ganeshs-blessings-joins-evening-aarti-video/articleshow/134396610.cms",
+    "time": "2026-09-21T18:42:42.000Z"
+  },
+  {
     "cat": "World",
     "title": "U.S. television networks halt Trump coverage in revolt over White House ban",
     "desc": "The move means there will be no television coverage of Mr. Trump's trip on Monday, September 21, to the United Nations General Assembly in New York, where he was due to meet a series of foreign leaders.",
@@ -18,6 +81,15 @@ const newsData_en = [
     "time": "2026-09-21T17:42:01.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Manoj Bajpayee moves Delhi HC to protect personality rights",
+    "desc": "In a notable legal move, actor Manoj Bajpayee has turned to the Delhi High Court to safeguard his identity. He claims his image and voice have been used without permission, particularly through AI technologies. The court raised issues regarding jurisdiction; however, Bajpayee's legal team referenced defendants based in Delhi. This petition mirrors the growing trend of public figures seeking similar protections due to concerns over unauthorized endorsements and AI-generated content.",
+    "img": "https://static.toiimg.com/photo/msid-134395195,imgsize-425645.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-bajpayee-moves-delhi-high-court-to-protect-personality-rights-from-ai-misuse-report/articleshow/134395099.cms",
+    "time": "2026-09-21T17:40:21.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Tamil Nadu government hospitals running short of critical medicines for pre-term babies",
     "desc": "Surfactant medicines are essential to inflate the lungs of pre-term babies in need of the therapy. Inquiries with a number of hospitals and doctors reveal that a number of centres have been facing short supply of surfactant drugs",
@@ -25,6 +97,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/chennai/government-hospitals-running-low-on-live-saving-drugs-for-pre-term-babies/article71492267.ece",
     "time": "2026-09-21T17:36:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Cillian Murphy",
+    "desc": "Cillian Murphy's quote highlights the shared responsibility of men and women in shaping society. The 'Oppenheimer' star's words focus on equality, collective responsibility and the choices people make for the future, reminding us that everyone has a role in influencing the kind of society we leave for the next generation.",
+    "img": "https://static.toiimg.com/photo/msid-134390751,imgsize-1631316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-cillian-murphy-men-and-women-are-custodians-of-this-society-and-we-both-decide-whats-going-to-happen-for-our-future-a-powerful-life-lesson-on-responsibility-and-equality-from-the-oppenheimer-star/articleshow/134390643.cms",
+    "time": "2026-09-21T17:30:00.000Z"
   },
   {
     "cat": "Business",
@@ -54,13 +135,13 @@ const newsData_en = [
     "time": "2026-09-21T17:10:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SIT report finds 105 instances of unauthorised currency removal",
-    "desc": "Solicitor General Tushar Mehta, appearing for the Uttar Pradesh government, said the probe had been “substantially concluded” and a charge sheet in the case would be filed before the court of the jurisdictional Additional Sessions Judge on or before September 25, 2026.",
-    "img": "https://th-i.thgim.com/public/incoming/1q0f7z/article71492901.ece/alternates/LANDSCAPE_1200/PTI09_13_2026_000308B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ram-temple-donations-theft-case-chargesheet-on-or-before-september-25/article71491193.ece",
-    "time": "2026-09-21T17:04:50.000Z"
+    "cat": "Entertainment",
+    "title": "Eric Idle says he wants to be buried in Provence after surviving cancer.",
+    "desc": "Monty Python star Eric Idle, 83, has opened up about surviving pancreatic cancer, his peaceful life in Provence and his views on mortality. Idle also recalled a 2001 conversation with Beatles legend George Harrison about death and rebirth, revealing their differing beliefs about the afterlife during Harrison’s final days and his iconic comedy legacy.",
+    "img": "https://static.toiimg.com/photo/msid-134394296,imgsize-49044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/monty-python-star-eric-idle-83-says-id-like-to-be-buried-here-in-provence-after-surviving-pancreatic-cancer-recalls-rebirth-talk-with-beatles-star-george-harrison-on-his-deathbed-in-2001/articleshow/134394176.cms",
+    "time": "2026-09-21T17:02:20.000Z"
   },
   {
     "cat": "Politics",
@@ -100,7 +181,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Drishyam 3' director opens up on Akshaye Khanna",
+    "title": "'Drishyam 3' director on Akshaye's exit: 'Yeh kya tarika hai'",
     "desc": "In a recent interview, director Abhishek Pathak opened up about Akshaye Khanna's unexpected departure from Drishyam 3. To keep the production on track, he swiftly decided to proceed without Khanna, casting Jaideep Ahlawat as his replacement. Remarkably, the director adapted the character for Ahlawat in just a few days, ensuring that over 200 crew members could continue with their critical work on the film.",
     "img": "https://static.toiimg.com/photo/msid-134394050,imgsize-1004421.cms",
     "src": "indiatimes.com",
@@ -115,15 +196,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/india-new-zealand-fta-ratified-will-enter-into-force-from-october-20/article71490545.ece",
     "time": "2026-09-21T16:37:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court orders fresh probe into 2012 rape-murder near Dharmasthala in Karnataka",
-    "desc": "Society would be failing in its duty if it does not provide justice to the victim of such a heinous crime by conducting a proper investigation and bringing the real culprits to book, says top court Bench; it adds that the probe should be completed within three months and submitted in court concerned",
-    "img": "https://th-i.thgim.com/public/incoming/6d9z5a/article71492835.ece/alternates/LANDSCAPE_1200/6744_19_8_2025_16_15_17_2_18_08_2025_SUPREME_COURT04.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/supreme-court-orders-fresh-probe-into-2012-rape-murder-near-dharmasthala-in-karnataka/article71492604.ece",
-    "time": "2026-09-21T16:34:21.000Z"
   },
   {
     "cat": "Business",
@@ -142,15 +214,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/sp-group-bonds-offered-at-premium-on-tata-sons-stake-sale-plan-bankers-say/article71492590.ece",
     "time": "2026-09-21T16:21:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Two Class 10 students, a girl and a boy, groped and harassed in Bihar’s Jamui, sparking a political row",
-    "desc": "A video of the assault on the teenage pair goes viral on social media; police file suo motu FIR, arrest three; NCW directs support of victims, says viral video must not be shared; this is patriarchy, not culture, says Congress leader Rahul Gandhi",
-    "img": "https://th-i.thgim.com/public/news/national/vkc1xq/article71492749.ece/alternates/LANDSCAPE_1200/de949761-1e86-4b65-ab39-b476881afbe3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/two-class-10-students-a-girl-and-a-boy-groped-and-harassed-in-bihars-jamui-sparking-a-political-row/article71491560.ece",
-    "time": "2026-09-21T16:07:00.000Z"
   },
   {
     "cat": "Sports",
@@ -214,6 +277,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/politics-was-plagued-by-dynasties-casteism-cm-yogi-takes-swipe-at-opposition-parties/articleshow/134392800.cms",
     "time": "2026-09-21T15:30:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Before Wi-Fi fame, Hedy Lamarr co-patented a revolutionary communication system in 1942",
+    "desc": "Hedy Lamarr, widely known as a Hollywood actress, also helped develop a groundbreaking frequency-hopping communication system during World War II. In 1942, she and composer George Antheil received a patent for the technology designed to prevent radio-guided torpedoes from being intercepted. Decades later, her pioneering work gained wider recognition, highlighting Lamarr’s remarkable contribution to wireless communication and innovation.",
+    "img": "https://static.toiimg.com/photo/msid-134389509,imgsize-476899.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1942-hedy-lamarr-co-patented-a-torpedo-communication-system-55-years-later-her-wireless-innovation-gained-widespread-recognition/articleshow/134389480.cms",
+    "time": "2026-09-21T15:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -378,15 +450,6 @@ const newsData_en = [
     "time": "2026-09-21T12:10:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "OTT releases this week (September 21-September 27)",
-    "desc": "The OTT calendar for September 21 to September 27 has something for every kind of viewer. The week brings a mix of new movies, returning shows and fresh series across genres, ranging from romance and comedy to crime, mystery, courtroom drama and supernatural stories. With several new titles arriving over the next few days, here’s a look at what you can stream this week.",
-    "img": "https://static.toiimg.com/photo/msid-134388730,imgsize-54810.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/ott-releases-this-week-september-21-september-27-shaque-trust-no-one-hunkkaar-the-roar-brothers-the-love-hypothesis-wonkas-the-golden-ticket-and-more/photostory/134388730.cms",
-    "time": "2026-09-21T11:54:08.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Irish privacy regulator fines Google €403 million over location data processing",
     "desc": "“As ​a result ‌of Google’s failures, individuals could have been unaware that their location was being used to, for ‌example, influence them with ads ​or to infer their interests, and could lose control ⁠over their personal data,” DPC Deputy Commissioner Graham Doyle said",
@@ -394,33 +457,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/irish-privacy-regulator-fines-google-403-million-over-location-data-processing/article71491276.ece",
     "time": "2026-09-21T11:45:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anaswara Rajan breaks into laughter over ‘histrionics’ question at ‘Itllu Arjuna’ event",
-    "desc": "Anaswara Rajan’s unexpected laughter at a question during the ‘Itllu Arjuna’ press meet has caught attention online. The actor appeared surprised by the question before breaking into laughter, prompting a lighthearted reaction from the audience and social media users. Anaswara is also set to star alongside Chiranjeevi in ‘Kaaka’, where she will play his daughter.",
-    "img": "https://static.toiimg.com/photo/msid-134388620,imgsize-738169.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/anaswara-rajan-laughs-after-being-asked-how-do-you-comment-on-your-histrionics-as-an-actor-at-itllu-arjuna-press-meet-netizens-react-she-insulted-that-stupid-question-with-just-a-smile/articleshow/134388516.cms",
-    "time": "2026-09-21T11:38:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Team 'Hanuman Ansh' meets Amit Shah after the film crosses Rs 300 crore",
-    "desc": "The team of ‘Hanuman Ansh’, including director Vishal Chaturvedi and actor Shobhinaw Satyaa, met Union Home Minister Amit Shah in New Delhi following the film’s successful theatrical run. During the interaction, Shah spoke about Neem Karoli Baba, who inspired the film, and discussed Indian culture and traditions. Producer Mahaveer Jain also spoke about their upcoming film ‘RamBola’.",
-    "img": "https://static.toiimg.com/photo/msid-134388429,imgsize-268957.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/team-hanuman-ansh-meets-amit-shah-in-delhi-after-the-film-crosses-rs-300-crore-home-minister-speaks-about-neem-karoli-baba-during-interaction/articleshow/134388275.cms",
-    "time": "2026-09-21T11:28:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Veteran Bengali actress Mithu Mukherjee passes away in Mumbai",
-    "desc": "Veteran Bengali actress Mithu Mukherjee, known for her work in the 1970s and 1980s, passed away at 71 in Mumbai after battling cancer for nearly a year. She made her film debut in 1972 and rose to fame with Marjina Abdulla. She later appeared in Bengali and Hindi films alongside prominent actors before retiring from acting in the 1990s.",
-    "img": "https://static.toiimg.com/photo/msid-134387941,imgsize-222738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/veteran-bengali-actress-mithu-mukherjee-dies-at-71-in-mumbai-after-prolonged-battle-with-cancer-for-nearly-a-year-prosenjit-chatterjee-and-aicwa-pay-tribute/articleshow/134387566.cms",
-    "time": "2026-09-21T11:13:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -504,15 +540,6 @@ const newsData_en = [
     "time": "2026-09-21T09:29:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Govt dissolves digital communications commission with immediate effect",
-    "desc": "Decisions for projects upto Rs 100 crore can be taken by the secretary DoT, upto Rs 500 crore by the telecom minister and those above Rs 500 crore to Rs 1,000 were considered by the DCC. Now the same will be referred to the expenditure finance committee, inter-ministerial body under finmin’s dept of expenditure which will evaluate the same before being submitted to the cabinet for formal approval.",
-    "img": "https://static.toiimg.com/photo/msid-134385508,imgsize-57634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/govt-dissolves-digital-communications-commission-with-immediate-effect/articleshow/134385021.cms",
-    "time": "2026-09-21T09:12:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Age is just a number': Ex-India chief selector backs Rohit to continue playing ODIs",
     "desc": "Chetan Sharma, the former chief selector, champions the continued ODI careers of Rohit Sharma and Virat Kohli, emphasising that age should not hinder performance. With Rohit’s remarkable century and Virat’s unwavering scoring prowess as key factors, he advocates for their selection. Additionally, he applauds the BCCI's domestic cricket mandate, expressing confidence in both Indian teams clinching gold at the 2026 Asian Games.",
@@ -523,7 +550,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Hanuman Ansh' BO Day 46 [LIVE]: Neem Kaorli Baba biopic crosses Rs 274 domestic net",
+    "title": "'Hanuman Ansh' crosses Rs 352 crore globally on Day 46",
     "desc": "'Hanuman Ansh', Vishal Chaturvedi’s spiritual drama on Neem Karoli Baba continues its strong theatrical run after collecting Rs. 13.75 crore on Day 45. The film has now crossed Rs. 272 crore in India net collections, while its India gross stands at Rs. 321.30 crore. With overseas earnings of Rs. 26 crore, the film is around the Rs. 347 crore worldwide mark and could eye the Rs. 350 crore milestone as its next major target.",
     "img": "https://static.toiimg.com/photo/msid-134383534,imgsize-117290.cms",
     "src": "indiatimes.com",
@@ -702,24 +729,6 @@ const newsData_en = [
     "time": "2026-09-18T16:45:48.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Analysts",
-    "desc": "The combination of elevated inflation risks, strong liquidity conditions and a potential global tightening cycle is prompting expectations that the RBI may shift towards a more restrictive monetary stance in the second half of 2026.",
-    "img": "https://th-i.thgim.com/public/incoming/uo7j5i/article71481945.ece/alternates/LANDSCAPE_1200/Nearby1--21-_G5GCEGFUCQ6.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/rbi-may-deliver-two-rate-hikes-by-cy-2026analysts/article71481500.ece",
-    "time": "2026-09-18T15:49:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "NMDC targets Net Zero operational emissions by 2047",
-    "desc": "The Net Zero roadmap has been divided into three phases – the short-term will cover FY 2026 to FY 2030, medium-term FY2030 to FY2040 and the long-term will run from FY 2040 to FY 2047",
-    "img": "https://th-i.thgim.com/public/incoming/she508/article71481908.ece/alternates/LANDSCAPE_1200/10.02.2026%20NMDC%20.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/nmdc-targets-net-zero-operational-emissions-by-2047/article71481748.ece",
-    "time": "2026-09-18T15:39:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Daayra’ movie review: Meghna Gulzar challenges the circle of public conscience",
     "desc": "A gritty examination of the cost of instant retribution, the police procedural, anchored by a fantastic Prithviraj Sukumaran and an unusually off-key Kareena Kapoor Khan, probes the grey area where the line between justice and vengeance blurs.",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
   }
 ];
