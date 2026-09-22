@@ -1,30 +1,129 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "Prime accused arrested after being shot in police encounter",
-    "desc": "Nandan Yadav sustained injuries in his leg during the encounter, while co-accused Hare Ram Yadav injured his leg while trying to escape from the spot; three minors were apprehended as accused in the incident on September 21",
-    "img": "https://th-i.thgim.com/public/incoming/tj3ou1/article71494718.ece/alternates/LANDSCAPE_1200/Screenshot%202320.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/jamui-minor-girl-harassment-case-main-accused-shot-in-the-leg-during-police-encounter/article71494721.ece",
-    "time": "2026-09-22T15:51:16.000Z"
+    "cat": "Entertainment",
+    "title": "Sylvester compares rivalry with Arnold to Elon Musk’s Tesla legal battle",
+    "desc": "Sylvester Stallone has compared his fierce rivalry with Arnold Schwarzenegger to Elon Musk’s legal battle with Tesla, describing his decades-long feud with the actor as “like life and death.” Stallone recalled how they competed intensely for roles before eventually reconciling and working together in films including the Expendables franchise.",
+    "img": "https://static.toiimg.com/photo/msid-134420021,imgsize-84132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sylvester-stallone-compares-life-and-death-rivalry-with-arnold-schwarzenegger-to-elon-musks-legal-battle-with-tesla-we-were-at-each-others-throats/articleshow/134419947.cms",
+    "time": "2026-09-22T20:01:26.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Genome Analysis Centre to be established in Amaravati, says Health Minister",
-    "desc": "Satya Kumar Yadav inaugurates a genome sequencing centre at the NATCO cancer centre at the Government General Hospital in Guntur; says the proposed Quantum Valley centre will expand genetic testing and research, including the collection and analysis of genetic information related to cancer and rare diseases",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "title": "Confident of a hat-trick in U.P.: Nabin",
+    "desc": "Workers’ energy, enthusiasm show lotus will bloom in State again, says BJP chief after concluding his first visit to west U.P. after taking over as party head; ahead of parleys, Oppn. MPs engage in one-upmanship over who can defeat ruling party",
+    "img": "https://th-i.thgim.com/public/incoming/74058o/article71497190.ece/alternates/LANDSCAPE_1200/20260922155L.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/genome-analysis-centre-to-be-established-in-amaravati-says-health-minister/article71496429.ece",
-    "time": "2026-09-22T15:43:19.000Z"
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/confident-of-a-hat-trick-inupnabin/article71495972.ece",
+    "time": "2026-09-22T19:57:14.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Girl gang-raped on her 17th birthday at a Delhi park, by three men posing as police personnel",
-    "desc": "Three accused are an advocate, B.Sc. student, and an onion seller, injured in Tuesday police operation; faking police jargon, the men separated the girl from her friend, threatened her with a firearm, knife before rape; case registered under BNS, POCSO sections",
-    "img": "https://th-i.thgim.com/public/incoming/5cb8oc/article71494153.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-22%20at%2009.43.20.jpeg",
+    "title": "Ethanol company sues Andhra farmer over pollution claims, seeks ₹1 crore compensation",
+    "desc": "Sentini BioProducts Pvt. Ltd. has sued farmer M. Muralidhar Reddy of Gandepalli village, near Keesara in the NTR district, requesting that he be directed to issue a public apology and perpetual injunction restraining the farmer from making any misleading and malicious statements in the future",
+    "img": "https://th-i.thgim.com/public/incoming/xp8xem/article71497047.ece/alternates/LANDSCAPE_1200/10237_4_4_2024_10_8_17_4__GNR2177.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/minor-girl-gang-raped-at-astha-kunj-park-near-kalkaji-mandir-by-men-posing-as-policemen-friend-assaulted/article71494085.ece",
-    "time": "2026-09-22T15:42:28.000Z"
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ethanol-company-sues-andhra-farmer-over-pollution-claims-seeks-1-crore-compensation/article71496115.ece",
+    "time": "2026-09-22T18:30:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India begins anti-dumping probes against imports of Glycine chemical from China",
+    "desc": "If it is established that the dumping has caused material injury to domestic players, the DGTR would recommend the imposition of duties on the imports. The Finance Ministry takes the final decision to impose these duties",
+    "img": "https://th-i.thgim.com/public/incoming/pl8kyd/article71497059.ece/alternates/LANDSCAPE_1200/IMG_bl14Anti-Dumping_3_1_JG96TI85.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/india-begins-anti-dumping-probes-against-imports-of-glycine-chemical-from-china/article71497044.ece",
+    "time": "2026-09-22T17:45:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "President Droupadi Murmu urges celebs to not endorse health-harming products",
+    "desc": "President Murmu addressed the 72nd National Film Awards ceremony in Gujarat. She urged popular film personalities to avoid endorsing harmful products for public health. The President also called for increased women's representation on award selection juries. She emphasized the importance of diverse perspectives in the selection process. Murmu also appealed for better welfare and social security for film industry workers.",
+    "img": "https://static.toiimg.com/photo/msid-134417925,imgsize-273622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/president-droupadi-murmu-urges-celebs-to-not-endorse-health-harming-products-amid-fda-led-by-tukaram-mundhe-sent-notices-to-shah-rukh-khan-ajay-devgn-tiger-shroff-for-endorsing-elaichi-brand/articleshow/134417773.cms",
+    "time": "2026-09-22T17:39:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Parineeti Chopra slams trolls body-shaming postpartum mothers like Katrina",
+    "desc": "Parineeti Chopra criticized online trolling of postpartum bodies after Katrina Kaif faced criticism. She called such comments uneducated and a waste of time for everyone involved. Chopra stated that evidence of growing a human life should be celebrated. She intentionally avoids social media to escape negativity and online trolls. The actress questioned why people target celebrities with such pointless remarks.",
+    "img": "https://static.toiimg.com/photo/msid-134417160,imgsize-251287.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/parineeti-chopra-slams-trolls-body-shaming-postpartum-mothers-like-katrina-kaif-making-a-human-life-a-baby-that-evidence-on-the-body-is-not-celebrated/articleshow/134412917.cms",
+    "time": "2026-09-22T17:11:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Murmu urges actors against endorsing harmful health products; ‘True star spreads light, not darkness’",
+    "desc": "President Droupadi Murmu distributed the 72nd National Film Awards for 2024 in various categories of cinema at Ekta Nagar (Kevadia), near the Statue of Unity, in a glittering ceremony attended by top talents of the film industry",
+    "img": "https://th-i.thgim.com/public/incoming/vjezxt/article71496954.ece/alternates/LANDSCAPE_1200/PTI09_22_2026_000360B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/murmu-urges-actors-against-endorsing-harmful-health-products-true-star-spreads-light-not-darkness/article71496753.ece",
+    "time": "2026-09-22T17:05:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Must act now’: Kashmiri leader urges UNHRC action over ‘worsening’ rights situation in PoJK, PoGB",
+    "desc": "Sardar Shaukat Ali Kashmiri has appealed to the UN Human Rights Council for urgent intervention regarding deteriorating human rights conditions in Pakistan-occupied Jammu and Kashmir. He emphasised the need for an independent investigation into alleged violations and arbitrary detentions, while also voicing concerns about the issues surrounding political representation and land rights in Pakistan-occupied Gilgit-Baltistan.",
+    "img": "https://static.toiimg.com/photo/msid-134416853,imgsize-793219.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/must-act-now-kashmiri-leader-urges-unhrc-action-over-worsening-rights-situation-in-pojk-pogb/articleshow/134416750.cms",
+    "time": "2026-09-22T16:49:40.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Macron says talks with Trump on Red Sea, Ukraine ‘constructive’",
+    "desc": "French President Emmanuel Macron said there was a “willingness to reopen (the Strait of) Hormuz,” a vital shipping route for the world’s oil and gas, which has been blockaded by Iran during the war in West Asia",
+    "img": "https://th-i.thgim.com/public/incoming/bhohs2/article71496890.ece/alternates/LANDSCAPE_1200/Egypt_Mideast_Wars_Gaza_58768.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/macron-says-talks-with-trump-on-red-sea-ukraine-constructive/article71496874.ece",
+    "time": "2026-09-22T16:42:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lionel Richie hospitalised for third time, undergoes heart procedure",
+    "desc": "Lionel Richie has been hospitalised for the third time in three months after experiencing atrial fibrillation, according to reports. The singer is undergoing a heart procedure to treat the irregular heartbeat. His latest health issue has also led to the cancellation of three upcoming shows with Earth, Wind & Fire as part of their ongoing tour.",
+    "img": "https://static.toiimg.com/photo/msid-134416527,imgsize-70089.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lionel-richie-hospitalised-for-third-time-in-three-months-with-irregular-heartbeat-undergoes-afib-heart-procedure-earth-wind-fire-cancel-three-tour-shows/articleshow/134416377.cms",
+    "time": "2026-09-22T16:30:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Torpedo jar fragment, ring wells found in underwater archaeological exploration off the Poompuhar coast in  Mayiladuthurai district",
+    "desc": "A broken piece of a torpedo jar, believed to have been brought from West Asia during the early historic period, has been found by archaeologists of the Tamil Nadu State Department of Archaeology during the third phase of the survey. The archaeologists also found four ancient ring wells with diameters ranging from 60 cm to 65 cm. According to Mr. Kumar, the discovery of the ring wells indicates that a palaeochannel might have been present at the location.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/rku780/article71496631.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-22%20at%208.11.38%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/torpedo-jar-fragment-ring-wells-found-in-underwater-archaeological-exploration-off-the-poompuhar-coast-in-mayiladuthuraidistrict/article71496643.ece",
+    "time": "2026-09-22T16:21:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UPI MDR will fund innovation, protect small merchants: NPCI’s Dilip Asbe",
+    "desc": "The introduction of merchant fees by UPI is a strategic move aimed at enhancing the sustainability and growth of the digital payments ecosystem. Notably, small merchants are exempted from these fees as long as their transactions do not exceed Rs 2,000, ensuring they remain protected. Meanwhile, larger merchants, who already incur fees for card payments, will find this transition familiar.",
+    "img": "https://static.toiimg.com/photo/msid-134416333,imgsize-109938.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/upi-mdr-will-fund-innovation-protect-small-merchants-npcis-dilip-asbe/articleshow/134416263.cms",
+    "time": "2026-09-22T16:19:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fortis investors flag legal overhang after Delhi HC order",
+    "desc": "Domestic and foreign institutional investors of Fortis Healthcare (Fortis) have expressed concern that the Delhi High Court’s order seeking a forensic audit of transactions involving its former promoters. The Aug 31 high court order came in a case arising from Japanese firm Daiichi Sankyo’s efforts to enforce its arbitral award against the erstwhile Fortis promoters. Last week, Fortis filed a special leave petition (SLP) in the Supreme Court challenging the order.",
+    "img": "https://static.toiimg.com/photo/msid-134416047,imgsize-135612.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fortis-investors-flag-legal-overhang-after-delhi-hc-order/articleshow/134415947.cms",
+    "time": "2026-09-22T16:02:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump touts Venezuela oil deal, says it will drive down energy prices worldwide",
+    "desc": "US President Donald Trump announced a major oil deal with Venezuela. This agreement covers sixty-five billion barrels of oil and aims to lower global energy costs. The deal is expected to boost Venezuela's oil production significantly over time. Experts, however, believe immediate price changes are unlikely due to infrastructure needs. Trump also linked this policy to wider US interests in the Western Hemisphere.",
+    "img": "https://static.toiimg.com/photo/msid-134415804,imgsize-66406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/unga-address-donald-trump-touts-venezuela-oil-deal-says-it-will-drive-down-energy-prices-worldwide/articleshow/134415730.cms",
+    "time": "2026-09-22T15:49:27.000Z"
   },
   {
     "cat": "Sports",
@@ -43,15 +142,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hayden-panettiere-cause-of-death-revealed-heroes-and-nashville-star-died-of-accidental-overdose-involving-fentanyl-and-other-drugs-says-coroner/articleshow/134415602.cms",
     "time": "2026-09-22T15:36:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Krishnagiri consumer court directs NHAI, contractor to pay ₹1 lakh to commuter, ₹1 crore in damages",
-    "desc": "The District Consumer Disputes Redressal Commission has held the National Highways Authority of India and its contractor, M/s. Shiva Buildtech, guilty of “gross deficiency in service” for failing to maintain the Krishnagiri-Hosur toll stretch despite collecting crores of rupees in toll revenue",
-    "img": "https://th-i.thgim.com/public/incoming/pnv0tj/article71496600.ece/alternates/LANDSCAPE_1200/10213_19_8_2025_17_47_27_1_KA20NAHIFLYOVERWORKINHOSUR002.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/krishnagiriconsumer-court-directsnhai-contractor-to-pay-1lakhto-commuter-1crorein-damages/article71495770.ece",
-    "time": "2026-09-22T15:32:30.000Z"
   },
   {
     "cat": "Tech",
@@ -99,24 +189,6 @@ const newsData_en = [
     "time": "2026-09-22T15:10:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rajya Sabha polls in 12 seats on October 16",
-    "desc": "With BSP MP Ramji Gautam vacating his seat, party to be left without any MPs for first time since 1989; SP or allies may gain this seat in U.P., while BJP likely to gain a seat in West Bengal bypoll after TMC MP’s resignation",
-    "img": "https://th-i.thgim.com/public/incoming/tl57rn/article71496470.ece/alternates/LANDSCAPE_1200/MSME-DevelopmenGR0GDI6MA.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajya-sabha-polls-in-12-seats-on-october-16/article71495593.ece",
-    "time": "2026-09-22T15:05:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court says Delhi SIR notices seem ‘machine-generated’ and mechanically issued",
-    "desc": "The court asked the Election Commission’s counsel if the people to whom these notices were sent at least know what logical discrepancies they have to prove incorrect; petitioners argue that the term ‘logical discrepancies’ was not defined by the ECI",
-    "img": "https://th-i.thgim.com/public/incoming/iw9kp9/article71495270.ece/alternates/LANDSCAPE_1200/24_VOTERS_SIR_DRIVE_CENTRE_17_09_DELHI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sc-says-delhi-sir-notices-seem-machine-generated-and-mechanically-issued/article71495055.ece",
-    "time": "2026-09-22T15:04:13.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Yami Gautam reacts to Best Actress National Award win",
     "desc": "Yami Gautam Dhar took home the Best Actress award for her exceptional performance in Article 370. Offering words of wisdom to budding artists, she emphasized the importance of hard work and unwavering dedication to their craft. Notably, Mammootty and Kartik Aaryan were jointly honored with the Best Actor accolade for their impressive roles.",
@@ -154,7 +226,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Where is the Village? P T Usha questions Asian Games accommodation model",
+    "title": "Where is the Village? PT Usha questions Asian Games accommodation model",
     "desc": "Usha, one of India's most successful Asian Games athletes, said an Athletes Village is about more than accommodation. She said it brings athletes from different countries together and creates the atmosphere that is associated with a multi-sport event.",
     "img": "https://static.toiimg.com/photo/msid-134414179,imgsize-243610.cms",
     "src": "indiatimes.com",
@@ -205,15 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/72nd-national-film-awards-sukumar-gv-prakash-venky-atluri-niharika-konidela-and-other-winners-receive-honours-from-president-droupadi-murmu/articleshow/134412735.cms",
     "time": "2026-09-22T13:47:26.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Sri Lanka court convicts 14 accused; nine others acquitted",
-    "desc": "A 15th defendant was found guilty of only some of the charges; the men were accused of aiding and abetting the suicide bombers who struck three luxury hotels and three churches on April 21, 2019, killing 279 people",
-    "img": "https://th-i.thgim.com/public/incoming/9uly19/article71495688.ece/alternates/LANDSCAPE_1200/Sri_Lanka_Easter_Sunday_Bombings_85_86.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/sri-lanka-2019-easter-sunday-bombings-convictions-sentencing/article71495581.ece",
-    "time": "2026-09-22T13:32:57.000Z"
   },
   {
     "cat": "Sports",
@@ -333,15 +396,6 @@ const newsData_en = [
     "time": "2026-09-22T11:02:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Why are 2024 films are winning in 2026",
-    "desc": "The 72nd National Film Awards are being presented in 2026, but the films being honoured belong to the 2024 award cycle. From ‘Article 370’ and ‘Bramayugam’ to ‘Chandu Champion’ and ‘Stree 2’, here’s why these films are receiving recognition two years after their release and how the National Film Awards’ eligibility, jury process and timeline work.",
-    "img": "https://static.toiimg.com/photo/msid-134410264,imgsize-358403.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/72nd-national-film-awards-explained-why-article-370-bramayugam-chandu-champion-and-stree-2-are-winning-in-2026-for-their-2024-film-cycle/articleshow/134410186.cms",
-    "time": "2026-09-22T10:56:27.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "125 shells, 10 minutes and a German attack on Madras",
     "desc": "On September 22, 1914, World War I reached India when the German cruiser SMS Emden shelled Madras, firing more than 125 shells in around 10 minutes. The attack set a Burmah Oil tank ablaze, damaged buildings and sent residents fleeing. This story revisits the dramatic raid, the Emden’s deceptive disguise, its mysterious retreat and how the German warship’s name became part of southern India’s vocabulary.",
@@ -349,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/the-backstory-125-shells-10-minutes-and-a-german-attack-on-madras-when-wwi-reached-india/articleshow/134409860.cms",
     "time": "2026-09-22T10:47:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mammootty hopes to entertain audiences more after National Award win",
-    "desc": "Mammootty is set to receive his fourth National Film Award for Best Actor for his performance in Bramayugam. The veteran actor shared his happiness and called national recognition “an inspiration to every performer” while crediting those who supported his journey. He also spoke about his transformation as Kodumon Potti and promised to continue entertaining audiences with his work.",
-    "img": "https://static.toiimg.com/photo/msid-134409890,imgsize-89778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bramayugam-star-mammootty-wins-fourth-national-award-for-best-actor-says-he-hopes-to-entertain-audiences-more-more-and-more-times-its-an-inspiration-to-every-performer-to-get-recognised-by-the-nation/articleshow/134409845.cms",
-    "time": "2026-09-22T10:36:44.000Z"
   },
   {
     "cat": "Business",
@@ -433,7 +478,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Hanuman Ansh' BO Day 46 [LIVE]: Neem Kaorli Baba biopic eyes Rs 280 crore domestic net",
+    "title": "Neem Kaorli Baba biopic's worldwide gross hits Rs 366 crore on Day 46",
     "desc": "'Hanuman Ansh' continues its remarkable theatrical run on Day 47, with the Vishal Chaturvedi directorial crossing the Rs. 276 crore mark in India. The spiritual drama had a modest start before witnessing a sharp turnaround from its third week. With the film's worldwide gross already past Rs. 350 crore, the extended run has opened up another set of milestones for the Shobhinaw Satyaa-starrer.",
     "img": "https://static.toiimg.com/photo/msid-134406038,imgsize-78082.cms",
     "src": "indiatimes.com",
@@ -468,15 +513,6 @@ const newsData_en = [
     "time": "2026-09-22T07:07:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Babar Azam struggles to handle captaincy': Waqar Younis warns 'losing a player'",
-    "desc": "Former captain Waqar Younis believes Babar Azam's Test leadership is negatively impacting his batting. He feels the team risks losing a valuable player due to this added pressure. This discussion follows Pakistan's recent series defeat against England. Babar has also faced criticism for not fully supporting his teammates. The batter has not scored a Test century in nearly four years.",
-    "img": "https://static.toiimg.com/photo/msid-134404884,imgsize-72182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-struggles-to-handle-captaincy-waqar-younis-warns-we-are-losing-a-player/articleshow/134404625.cms",
-    "time": "2026-09-22T06:48:18.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. television networks halt Trump coverage in revolt over White House ban",
     "desc": "The move means there will be no television coverage of Mr. Trump's trip on Monday, September 21, to the United Nations General Assembly in New York, where he was due to meet a series of foreign leaders.",
@@ -502,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/wife-sold-soft-drink-for-rs-26-instead-of-rs-25-re-1-overcharge-led-to-husband-facing-case-for-13-years-bombay-hc-quashes-prosecution-because-wife-was-shop-owner/articleshow/134401326.cms",
     "time": "2026-09-22T06:17:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SAI ramps up logistical support for Indian contingent",
-    "desc": "The Sports Authority of India has deployed airport assistance, transport services and medical support to help athletes and officials during the Aichi-Nagoya 2026 Asian Games. Earlier, at the onset of the Games, SAI, Embassy of India in Japan and IOA had liasoned with local diaspora also if needed.",
-    "img": "https://static.toiimg.com/photo/msid-134404014,imgsize-101889.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/sai-ramps-up-logistical-support-for-indian-contingent-at-2026-asian-games/articleshow/134403871.cms",
-    "time": "2026-09-22T06:04:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -682,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/pakistan-ex-pm-imran-khans-three-sisters-arrested-in-lahore/article71490800.ece",
     "time": "2026-09-21T10:06:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "New party emerges as a frontrunner as Israel goes to polls amid Netanyahu’s waning appeal",
-    "desc": "Yashar leads in opinion polls as its leader Gadi Eisenkot’s popularity among voters eclipses that of Netanyahu; Eisenkot bats for strategic wars over endless ones and concurs with the PM on matter such as two-state solution and Iran",
-    "img": "https://th-i.thgim.com/public/incoming/yg5dsw/article71488959.ece/alternates/LANDSCAPE_1200/Israel_Politics_16966.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/new-party-emerges-as-a-frontrunner-as-israel-goes-to-polls-amid-netanyahus-waning-appeal/article71488057.ece",
-    "time": "2026-09-21T02:48:41.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
   }
 ];
