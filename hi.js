@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Linda Noskova, Marie Bouzkova win as Czechia eliminate Great Britain in Billie Jean King Cup",
+    "desc": "Czech Republic won both singles matches against Great Britain in the quarter-finals of the Billie Jean King Cup in Shenzhen. With the 2-0 win, they now progressed to the semis, which will be played later...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/linda-noskova-marie-bouzkova-win-as-czechia-eliminate-great-britain-in-billie-jean-king-cup-2026-09-22-1054974",
+    "time": "2026-09-22T15:44:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What's the wide controversy in India vs Japan T20I match? Was the umpire right to reverse decision?",
+    "desc": "India escaped a late scare against Japan in the rain-shortened one-off T20I in Sano after an umpiring correction in the final over helped preserve a two-run victory and secured a record for the lowest total...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-s-the-wide-controversy-in-india-vs-japan-t20i-match-was-the-umpire-right-to-reverse-decision-2026-09-22-1054962",
+    "time": "2026-09-22T13:09:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Naorem Roshibina Devi secures Asian Games medal in Wushu for third consecutive edition",
+    "desc": "Naorem Roshibina Devi secured a third consecutive Asian Games medal on Tuesday after reaching the women’s Sanda 60kg semifinals with a 5-0 win over Chu Man Sin of Macao, China. The result guarantees the Manipuri...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/naorem-roshibina-devi-secures-asian-games-medal-in-wushu-for-third-consecutive-edition-2026-09-22-1054955",
+    "time": "2026-09-22T11:55:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mark Wood announces international retirement, explains reason behind sudden announcement",
+    "desc": "England ace pacer Mark Wood has announced his decision to retire from international cricket. The 36-year-old has fought a prolonged battle with injuries that ultimately ended his career with 253 wickets across 146 matches. He...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mark-wood-announces-international-retirement-explains-reason-behind-sudden-announcement-2026-09-22-1054950",
+    "time": "2026-09-22T11:08:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India confirms Asian Games 2026 medal in men's badminton, stuns Japan with historic 3-0 win",
     "desc": "India secured a medal in the men’s team badminton competition at the Asian Games 2026 after completing a 3-0 quarterfinal victory over hosts Japan. With the win, the Indian side moved into the semifinals and it...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-sl-w-asian-games-final-india-women-vs-sri-lanka-women-latest-match-updates-scorecards-playing-xi-reactions-smriti-mandhana-shafali-verma-1054896",
     "time": "2026-09-22T04:35:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Billie Jean King Cup Quarter-Final 1 today, Czech Republic to take on Great Britain; watch Live on VETO OTT",
-    "desc": "The 2026 Billie Jean King Cup Finals are set for an exciting quarter-final clash as Czech Republic (Czechia) take on Great Britain in Quarterfinal 1 on Tuesday (September 22). The match will be played at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/billie-jean-king-cup-quarter-final-1-today-czech-republic-to-take-on-great-britain-watch-live-on-veto-ott-2026-09-22-1054891",
-    "time": "2026-09-22T03:32:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zaheer Khan appointed Chennai Super Kings head coach ahead of IPL 2027 as franchise looks to bounce back",
-    "desc": "In one of the biggest developments, five-time IPL (Indian Premier League) champions Chennai Super Kings have come forward and named former India pacer Zaheer Khan as their head coach ahead of the IPL 2027 season....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/zaheer-khan-named-chennai-super-kings-head-coach-ahead-of-ipl-2027-2026-09-21-1054857",
-    "time": "2026-09-21T12:58:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will weather in Sano fare as Japan eye top-flight cricket action against India?",
-    "desc": "The stage is set for the one-off T20I clash between India and Japan. The two sides are slated to take on each other at the Sano International Cricket Ground on September 22nd, and both sides...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-jpn-weather-report-how-will-weather-in-sano-as-japan-eye-top-flight-cricket-action-against-india-2026-09-21-1054856",
-    "time": "2026-09-21T12:27:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jack Edwards added to Australia ODI squad to face SA, pace duo released from the team ahead of the series",
-    "desc": "The stage is set for the ODI series between Australia and South Africa. The two sides are slated to take on each other across three ODI matches. The first ODI of the series will be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jack-edwards-added-to-australia-odi-squad-to-face-sa-pace-duo-released-from-the-team-ahead-of-the-series-2026-09-21-1054851",
-    "time": "2026-09-21T11:19:13.000Z"
   }
 ];
