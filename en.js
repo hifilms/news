@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "BJP MLA stirs row with ‘Muslims should bring their daughters, sisters’ to Garba remarks",
+    "desc": "I want to tell Rameshwar Sharma ji that what he has said definitely works to divide this country. He should now take this up with his senior leaders in the Bharatiya Janata Party, said AIMIM State president Mohsin Ali Khan",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-mla-stirs-row-with-muslims-should-bring-their-daughters-sisters-to-garba-remarks/article71496775.ece",
+    "time": "2026-09-22T23:18:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Macron urges world to choose UN over ‘law of the jungle’",
+    "desc": "‘What is our credibility worth if we remain inactive on Gaza; some claim that peace has been achieved, but this has not opened up humanitarian deliveries; it is a spectacle that shames us all,’ said Emmanuel Macron",
+    "img": "https://th-i.thgim.com/public/incoming/57cwnl/article71497348.ece/alternates/LANDSCAPE_1200/2026-09-22T201651Z_1424024691_RC2IONA74OKZ_RTRMADP_3_UN-ASSEMBLY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/macron-urges-world-to-choose-un-over-law-of-the-jungle/article71497347.ece",
+    "time": "2026-09-22T22:05:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Presley's death case linked to Matthew Perry over Ketamine use",
+    "desc": "Presley Gerber's body was released by the Medical Examiner following his tragic death at a rehabilitation facility. He was found unresponsive shortly after being admitted, and authorities suspect an overdose. Reports indicate he had a history of substance use issues, including a prescription for ketamine. Gerber had previously documented his struggles with addiction and mental health publicly.",
+    "img": "https://static.toiimg.com/photo/msid-134420381,imgsize-424793.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/presley-gerbers-body-released-after-autopsy-death-case-linked-to-matthew-perry-amid-suspected-ketamine-use/articleshow/134420380.cms",
+    "time": "2026-09-22T21:59:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "M.P. Minister expresses regret on body-shaming remarks on woman colleague after backlash",
+    "desc": "A lot of development work has been done by her in her ward in my assembly constituency; whatever I said about her has been presented in the wrong manner by the Congress people, said Kailash Vijayvargiya",
+    "img": "https://th-i.thgim.com/public/incoming/7ni1vx/article71497192.ece/alternates/LANDSCAPE_1200/20250601151L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-minister-expresses-regret-on-body-shaming-remarks-on-woman-colleague-after-backlash/article71496305.ece",
+    "time": "2026-09-22T20:13:28.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Sylvester compares rivalry with Arnold to Elon Musk’s Tesla legal battle",
     "desc": "Sylvester Stallone has compared his fierce rivalry with Arnold Schwarzenegger to Elon Musk’s legal battle with Tesla, describing his decades-long feud with the actor as “like life and death.” Stallone recalled how they competed intensely for roles before eventually reconciling and working together in films including the Expendables franchise.",
@@ -88,15 +124,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lionel-richie-hospitalised-for-third-time-in-three-months-with-irregular-heartbeat-undergoes-afib-heart-procedure-earth-wind-fire-cancel-three-tour-shows/articleshow/134416377.cms",
     "time": "2026-09-22T16:30:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Torpedo jar fragment, ring wells found in underwater archaeological exploration off the Poompuhar coast in  Mayiladuthurai district",
-    "desc": "A broken piece of a torpedo jar, believed to have been brought from West Asia during the early historic period, has been found by archaeologists of the Tamil Nadu State Department of Archaeology during the third phase of the survey. The archaeologists also found four ancient ring wells with diameters ranging from 60 cm to 65 cm. According to Mr. Kumar, the discovery of the ring wells indicates that a palaeochannel might have been present at the location.",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/rku780/article71496631.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-22%20at%208.11.38%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/torpedo-jar-fragment-ring-wells-found-in-underwater-archaeological-exploration-off-the-poompuhar-coast-in-mayiladuthuraidistrict/article71496643.ece",
-    "time": "2026-09-22T16:21:46.000Z"
   },
   {
     "cat": "Politics",
@@ -361,15 +388,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Anant Nag gets standing ovation",
-    "desc": "Veteran actor Anant Nag received the Dadasaheb Phalke Award for 2024 at the 72nd National Film Awards and earned a standing ovation. Information and Broadcasting Minister Ashwini Vaishnaw praised his more than five-decade contribution to cinema, saying, “You have rendered great service to the film industry.” From Naa Ninna Bidalaare and Mungaru Male to K.G.F, Anant Nag’s celebrated filmography spans several generations of Kannada cinema.",
-    "img": "https://static.toiimg.com/photo/msid-134412728,imgsize-155808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/72nd-national-film-awards-anant-nag-gets-standing-ovation-for-dadasaheb-phalke-award-honor-as-ashwini-vaishnaw-praises-his-more-than-five-decade-contribution-you-have-rendered-great-service-to-the-film-industry/articleshow/134411280.cms",
-    "time": "2026-09-22T11:41:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Nani and Srikanth Odela’s ‘The Paradise’ gets interim court protection",
     "desc": "Nani’s The Paradise faces a legal development ahead of its September 24 theatrical release, with a Bengaluru court issuing an interim injunction. The order restricts circulation of specific online content alleged to be false and defamatory, while allowing genuine reviews and criticism. The interim protection will remain in force until further orders, with the next hearing scheduled for October 28, 2026.",
     "img": "https://static.toiimg.com/photo/msid-134411035,imgsize-272845.cms",
@@ -394,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-swing-fiis-are-selling-diis-are-buying-who-is-right/articleshow/134409940.cms",
     "time": "2026-09-22T11:02:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "125 shells, 10 minutes and a German attack on Madras",
-    "desc": "On September 22, 1914, World War I reached India when the German cruiser SMS Emden shelled Madras, firing more than 125 shells in around 10 minutes. The attack set a Burmah Oil tank ablaze, damaged buildings and sent residents fleeing. This story revisits the dramatic raid, the Emden’s deceptive disguise, its mysterious retreat and how the German warship’s name became part of southern India’s vocabulary.",
-    "img": "https://static.toiimg.com/photo/msid-134409961,imgsize-1242538.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-backstory-125-shells-10-minutes-and-a-german-attack-on-madras-when-wwi-reached-india/articleshow/134409860.cms",
-    "time": "2026-09-22T10:47:13.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
   }
 ];
