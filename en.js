@@ -1,5 +1,230 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Nag Ashwin confirms ‘Kalki 2898 AD Part 2’ regular shoot to begin in October 2026",
+    "desc": "Part 2' will commence in October 2026. The director anticipates completing the filming by mid-2027, following the success of the first film. He expressed gratitude for the audience's positive response and enthusiasm for the sequel. 'Kalki 2898 AD' won two National Awards, enhancing the team's motivation for the next installment.",
+    "img": "https://static.toiimg.com/photo/msid-134424537,imgsize-1372597.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/kalki-2898-ad-part-2-update-nag-ashwin-confirms-regular-shoot-for-prabhas-amitabh-bachchan-kamal-haasan-starrer-begins-in-october-2026/articleshow/134424489.cms",
+    "time": "2026-09-23T02:47:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Don't Trouble The Trouble' trailer OUT",
+    "desc": "The newly released trailer for 'Don't Trouble The Trouble' showcases Fahadh Faasil as a magician devoid of any real magic. Set to premiere on October 2, 2026, the film features prominent voice-overs from Mohanlal and Kamal Haasan. The plot revolves around Suri, who aids a girl with actual supernatural powers in her quest to locate her parents, leading to unforeseen challenges and adventures.",
+    "img": "https://static.toiimg.com/photo/msid-134424493,imgsize-212169.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/dont-trouble-the-trouble-trailer-fahadh-faasils-fake-magician-meets-a-superpowered-child-nandamuri-balakrishna-mohanlal-and-kamal-haasan-join/articleshow/134424448.cms",
+    "time": "2026-09-23T02:42:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bunnie Xo responds to haters about her and Dylan Wolf’s romance",
+    "desc": "Following her divorce from Jelly Roll, Bunnie Xo has embarked on a new romantic journey with 24-year-old Dylan Wolf. This relationship has faced scrutiny from social media users because of the 22-year age difference. Nevertheless, Bunnie has publicly expressed her contentment, claiming that being with Dylan has enabled her to reclaim her happiness and confidence. Additionally, the former couple reportedly continues to pursue their shared IVF and surrogacy goals.",
+    "img": "https://static.toiimg.com/photo/msid-134424437,imgsize-91736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bunnie-xo-flaunts-new-romance-with-calabasas-confidential-star-dylan-wolf-responds-to-haters-the-girl-is-living-her-best-life/articleshow/134424394.cms",
+    "time": "2026-09-23T02:40:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Allu Arjun congratulates Sukumar on National Award win for ‘Pushpa 2’",
+    "desc": "Allu Arjun congratulated director Sukumar for his achievement at the 72nd National Film Awards. Both won National Awards for their contributions to the 'Pushpa' franchise. The first part of 'Pushpa' showcased Allu Arjun's character rise in the smuggling trade. The sequel further developed his story and achieved significant box office success. Other notable winners at the awards included Yami Gautam and Kartik Aaryan.",
+    "img": "https://static.toiimg.com/photo/msid-134424450,imgsize-801961.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/both-of-us-got-national-awards-allu-arjun-says-sukumars-national-award-means-as-much-as-his-own/articleshow/134424419.cms",
+    "time": "2026-09-23T02:40:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dolly Parton’s manager files restraining order against Bryan Seaver",
+    "desc": "In a notable legal dispute, Danny Nozell, who manages Dolly Parton, has taken action against Bryan Seaver by filing a restraining order due to purported threats. Seaver, recently let go after Parton’s passing, insists his communications were misconstrued. The order restricts Seaver from engaging with Dolly's business and connections, as allegations arise over his attempts to intimidate and compromise the Parton legacy. Legal proceedings are still ongoing.",
+    "img": "https://static.toiimg.com/photo/msid-134424312,imgsize-59396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-partons-manager-alleges-dolly-partons-nephew-bryan-seaver-threatened-him-and-officially-filed-a-restraining-order/articleshow/134424225.cms",
+    "time": "2026-09-23T02:26:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil prices ease as Saudi restores key pipeline, traders optimistic on US-Iran talks",
+    "desc": "Oil prices have dropped below $100 a barrel due to Saudi Arabia restarting crude supply operations. Diplomatic efforts to resolve the US-Iran conflict have also contributed to easing market pressure. US crude inventories increased by 1.8 million barrels in the past week, contrary to analysts' expectations. Iraq is reportedly increasing its oil exports, signaling a shift in regional supply dynamics.",
+    "img": "https://static.toiimg.com/photo/msid-134424135,imgsize-845348.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-ease-as-saudi-arabia-restores-key-pipeline-traders-remain-optimistic-for-us-iran-talks/articleshow/134424032.cms",
+    "time": "2026-09-23T02:10:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CITU opposes privatisation of Ramayapatnam Port",
+    "desc": "“Already, 80.55% of the port construction was completed so far. At a time when it can generate revenues, why the government is trying to privatise it? Who will be benefitted with this move?” asked a CITU leader",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/citu-opposes-privatisation-of-ramayapatnam-port/article71496395.ece",
+    "time": "2026-09-23T02:09:54.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "'You should not be here': Trump tells CNN at UN as standoff with media outlets persists",
+    "desc": "The tense moment was a stark reminder of how dramatically the bitter conflict between U.S. President Donald Trump and news outlets whose coverage he objects to as “fake news\" has escalated in just a few days",
+    "img": "https://th-i.thgim.com/public/incoming/udxnvi/article71498025.ece/alternates/LANDSCAPE_1200/Trump_49762.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/you-should-not-be-here-trump-tells-cnn-at-un-as-standoff-with-media-outlets-persists/article71498021.ece",
+    "time": "2026-09-23T01:52:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How a Nagoya baseball ground was transformed into an Asian Games cricket venue",
+    "desc": "In Nagoya, a baseball field is poised for transformation into a cricket venue for the Asian Games. The Japan Cricket Association has generously invested in this endeavor, ensuring a top-notch facility for international teams. Notable hurdles involve creating high-quality cricket pitches using local materials. Once completed, the new turf wickets will serve men's tournaments before the ground returns to its baseball roots after the events.",
+    "img": "https://static.toiimg.com/photo/msid-134423947,imgsize-137360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/how-a-nagoya-baseball-ground-was-transformed-into-an-asian-games-cricket-venue/articleshow/134423925.cms",
+    "time": "2026-09-23T01:49:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Japan gets a crash course in cricket as Asian Games bring sport to new audience",
+    "desc": "Cricket, although steeped in tradition in Japan, has yet to capture a massive fan base. With approximately 7,300 registered members in the Japan Cricket Association, awareness remains limited. To bridge this gap, Korogi Sports Park has introduced visual aids to enhance spectators' understanding. Meanwhile, Indian athletes struggle to find familiar dishes due to language barriers, but have managed to uncover some supportive Indian eateries that cater to their culinary preferences.",
+    "img": "https://static.toiimg.com/photo/msid-134423847,imgsize-156068.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/japan-gets-a-crash-course-in-cricket-as-asian-games-bring-sport-to-new-audience/articleshow/134423818.cms",
+    "time": "2026-09-23T01:42:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ssunita on divorce rumours, says she doesn't regret marrying Govinda",
+    "desc": "Ssunita Ahuja says she has no regrets marrying Govinda after 40 years, despite divorce rumours and reports linking him to co-star Komal Rani. She called Govinda \"very nice\" and \"very honest.\" Ssunita earlier reacted sharply to the rumours; Govinda hit back. She later withdrew her divorce case, which his manager addressed.",
+    "img": "https://static.toiimg.com/photo/msid-134423821,imgsize-266544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ssunita-ahuja-breaks-silence-on-divorce-rumours-says-she-doesnt-regret-marrying-govinda/articleshow/134423803.cms",
+    "time": "2026-09-23T01:32:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Malayalam actor Vinu Mohan and Vidya divorce",
+    "desc": "Vinu Mohan and Vidya have reportedly divorced after 13 years of marriage, marking the end of their relationship. They had been married since 2013, having met through their connection with the film industry. Vinu has removed pictures of Vidya from his social media account, which has raised speculation among fans. Vidya still retains their pictures on her Instagram, and her account name reflects their previous union.",
+    "img": "https://static.toiimg.com/photo/msid-134423800,imgsize-379342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/malayalam-actor-vinu-mohan-and-vidya-divorce-13-year-marriage-comes-to-an-end-reports/articleshow/134423784.cms",
+    "time": "2026-09-23T01:29:15.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Macron urges world to choose UN over ‘law of the jungle’",
+    "desc": "‘What is our credibility worth if we remain inactive on Gaza; some claim that peace has been achieved, but this has not opened up humanitarian deliveries; it is a spectacle that shames us all,’ said Emmanuel Macron",
+    "img": "https://th-i.thgim.com/public/incoming/57cwnl/article71497348.ece/alternates/LANDSCAPE_1200/2026-09-22T201651Z_1424024691_RC2IONA74OKZ_RTRMADP_3_UN-ASSEMBLY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/macron-urges-world-to-choose-un-over-law-of-the-jungle/article71497347.ece",
+    "time": "2026-09-23T01:23:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Cruise unveils 'Digger' at star‑studded London premiere",
+    "desc": "Tom Cruise premiered his new film 'Digger' in London, showcasing his unique character of oil tycoon Digger Rockwell. The movie explores themes of power and greed, hinting at an impending ecological disaster. Directed by Alejandro G. Inarritu, the film features a careful crafting of its narrative and visuals. Cruise's performance is considered a culmination of his extensive acting experience.",
+    "img": "https://static.toiimg.com/photo/msid-134423746,imgsize-367067.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-unveils-digger-at-starstudded-london-premiere-prince-william-and-princess-kate-attend-watch/articleshow/134423569.cms",
+    "time": "2026-09-23T01:22:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Presley Gerber’s ex-girlfriend Lexi Wood pays her respects to 27-year-old model",
+    "desc": "In a heartbreaking development, Presley Gerber, son of model Cindy Crawford, has died at the young age of 27 due to an alleged overdose and subsequent cardiac arrest. Lexi Wood, his former girlfriend, expressed her sorrow through social media, sharing memories of their deep bond and praising his compassionate spirit. The loss has deeply impacted his family, especially sister Kaia Gerber, as they grapple with this unexpected tragedy.",
+    "img": "https://static.toiimg.com/photo/msid-134423711,imgsize-338270.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/presley-gerbers-ex-lexi-wood-issues-an-emotional-statement-after-the-models-demise-he-will-always-hold-such-special-place-in-my-heart/articleshow/134423693.cms",
+    "time": "2026-09-23T01:13:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Roshibina Devi assures medal after second chance, one win away from Asian Games final",
+    "desc": "Naorem Roshibina Devi was initially not selected for the Asian Games but received a late opportunity. After Divyanshi Choudhary was injured, Roshibina took her place in the team. She has performed well, securing at least a bronze medal after defeating her opponents. This achievement follows her previous successes in Jakarta and Hangzhou, where she earned a bronze and a silver medal. Roshibina aims for gold in the ongoing competition.",
+    "img": "https://static.toiimg.com/photo/msid-134423686,imgsize-44702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/roshibina-devi-assures-medal-after-second-chance-one-win-away-from-asian-games-final/articleshow/134423668.cms",
+    "time": "2026-09-23T01:12:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2011, Johnny Galecki bought a ranch for $1.2 million; he listed it for $825,000 years later",
+    "desc": "In 2011, Johnny Galecki made a significant investment of USD 1.5 million in a California ranch enriched with various modern amenities. Sadly, the property faced a tragic turnaround in 2017 when wildfires ravaged the area, leading to the destruction of his main house and others nearby. As a result, he opted to sell the ranch for USD 825,000, a considerable loss.",
+    "img": "https://static.toiimg.com/photo/msid-134423568,imgsize-150640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2011-big-bang-theory-alum-johnny-galecki-bought-a-160-acre-california-ranch-for-1-2-million-years-later-he-listed-it-for-825000-after-wildfires-destroyed-the-land-in-2017/articleshow/134423546.cms",
+    "time": "2026-09-23T01:00:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pranati Nayak qualifies for Asian Games vault final, sets up shot at redemption",
+    "desc": "Pranati Nayak has officially qualified for the vault final at the Asian Games, scoring an impressive 12.916. Her routine featured a challenging Tsukahara back 360-degree turn and a handspring pike forward somersault. Coach Ashok Mishra set this benchmark ahead of the event, and now Pranati looks forward to Thursday's final to improve upon her last outing at the Commonwealth Games.",
+    "img": "https://static.toiimg.com/photo/msid-134423591,imgsize-84374.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/pranati-nayak-qualifies-for-asian-games-vault-final-sets-up-shot-at-redemption/articleshow/134423576.cms",
+    "time": "2026-09-23T00:56:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda SPOTTED with Komal Rani, amid row with wife",
+    "desc": "Bollywood actor Govinda visited the Lalbaugcha Raja in Mumbai for Ganpati blessings with co-star Komal Rani. They participated in prayers, joining fellow devotees at the pandal. Recently, rumors about their relationship have emerged, leading to allegations from Govinda's wife, Sunita Ahuja. The actor emphasized his hopes for a successful comeback film, 'Roopa', aimed at younger audiences. He believes this project may inspire and rekindle dreams for many viewers.",
+    "img": "https://static.toiimg.com/photo/msid-134423272,imgsize-259473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-with-spotted-with-komal-rani-swarnkar-at-lalbaugcha-raja-amid-cheating-allegations-by-wife-ssunita-ahuja/articleshow/134423265.cms",
+    "time": "2026-09-23T00:46:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mammootty, Dhanush share National Award posts",
+    "desc": "In a grand ceremony celebrating excellence in cinema, Mammootty won the Best Actor award for his outstanding role in 'Bramayugam' at the 72nd National Film Awards. Dhanush's film 'Raayan' was recognized as the Best Tamil Film, and he received a Special Mention. Both actors, donned in traditional attire, were honored by President Droupadi Murmu.",
+    "img": "https://static.toiimg.com/photo/msid-134423524,imgsize-398717.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mammootty-says-national-award-for-best-actor-is-an-honour-he-will-cherish-for-a-lifetime-dhanush-shares-family-moment-this-is-for-my-fans/articleshow/134423509.cms",
+    "time": "2026-09-23T00:45:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I can start my senior career confidently’: Anahat Singh on what comes next",
+    "desc": "Anahat Singh has finished with the juniors, winning the World Junior Championship in her final year. Now comes the Asian Games, where she is the third seed in the women's singles draw and the gold carries a quota place for LA 2028. After a senior breakthrough in Hong Kong, she is working on her physicality, learning from Gregory Gaultier and Saurav Ghosal, and taking it one event at a time.",
+    "img": "https://static.toiimg.com/photo/msid-134416539,imgsize-134094.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/i-can-start-my-senior-career-confidently-anahat-singh-on-the-asian-games-and-what-comes-next/articleshow/134416434.cms",
+    "time": "2026-09-23T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mandaadi' BO day 13 vs 'Sardar 2'",
+    "desc": "On Day 13, Soori's film 'Mandaadi' earned Rs 1.90 crores, bringing its total gross collection to Rs 93.40 crores. The film showed a decline in earnings compared to the previous day but still performed well overall. Its first week collection was Rs 57.30 crores, with stronger weekend numbers contributing to the totals. In contrast, Karthi's 'Sardar 2' has reported low collections, struggling to compete against 'Mandaadi'.",
+    "img": "https://static.toiimg.com/photo/msid-134423434,imgsize-375606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mandaadi-box-office-collection-day-13-vs-sardar-2-sooris-film-reaches-rs-93-40-cr-india-gross-karthis-film-stands-at-rs-23-63-cr-worldwide/articleshow/134423430.cms",
+    "time": "2026-09-23T00:21:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'BKU' BO day 33 vs 'Pradhama Drishtya Kuttakkar'",
+    "desc": "Nivin Pauly's 'Bethlehem Kudumba Unit' has garnered Rs 63 lakhs net on its 33rd day in cinemas, bringing its total gross in India to Rs 186.56 crores despite a noticeable decline in earnings. In a related note, 'Pradhama Drishtya Kuttakkar' experienced a downturn, earning Rs 82 lakhs on Day 12. Both films face significant challenges in improving their box office performance as industry experts forecast tough times ahead.",
+    "img": "https://static.toiimg.com/photo/msid-134423425,imgsize-284775.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-collection-day-33-vs-pradhama-drishtya-kuttakkar-nivin-pauly-film-drops-55-0-parvathy-thiruvothu-film-earns-rs-82-lakhs/articleshow/134423417.cms",
+    "time": "2026-09-23T00:18:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Imtiaz Ali's daughter Ida gets engaged to Krish",
+    "desc": "Imtiaz Ali's daughter Ida Ali got engaged to longtime partner Krish Agarwal, who proposed on July 1 in Norway. They celebrated in Mumbai, with Imtiaz sharing photos and blessings. Imtiaz called it \"the greatest happiness.\" Ida, a filmmaker herself, directed 'On a Whim.' Krish, outside entertainment, has dated Ida for years.",
+    "img": "https://static.toiimg.com/photo/msid-134423409,imgsize-331549.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imtiaz-alis-daughter-ida-ali-gets-engaged-to-krish-agarwal-filmmaker-showers-blessings-see-photo/articleshow/134423405.cms",
+    "time": "2026-09-23T00:14:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tobey Maguire and Jennifer Meyer reach divorce agreement",
+    "desc": "Tobey Maguire and Jennifer Meyer have reportedly reached a settlement in their ongoing divorce proceedings. They have filed to restore their legal status as single individuals, pending judicial approval. However, they still need to settle matters concerning their assets and any related disputes. Maguire is seeking joint custody of their son, Otis, through mediation. The couple announced their separation in 2016, with Meyer filing for divorce in 2020.",
+    "img": "https://static.toiimg.com/photo/msid-134423227,imgsize-223760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-star-tobey-maguire-and-estranged-wife-jennifer-meyer-reach-agreement-six-years-after-filing-for-divorce/articleshow/134423219.cms",
+    "time": "2026-09-22T23:36:27.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "BJP MLA stirs row with ‘Muslims should bring their daughters, sisters’ to Garba remarks",
     "desc": "I want to tell Rameshwar Sharma ji that what he has said definitely works to divide this country. He should now take this up with his senior leaders in the Bharatiya Janata Party, said AIMIM State president Mohsin Ali Khan",
@@ -9,13 +234,13 @@ const newsData_en = [
     "time": "2026-09-22T23:18:42.000Z"
   },
   {
-    "cat": "World",
-    "title": "Macron urges world to choose UN over ‘law of the jungle’",
-    "desc": "‘What is our credibility worth if we remain inactive on Gaza; some claim that peace has been achieved, but this has not opened up humanitarian deliveries; it is a spectacle that shames us all,’ said Emmanuel Macron",
-    "img": "https://th-i.thgim.com/public/incoming/57cwnl/article71497348.ece/alternates/LANDSCAPE_1200/2026-09-22T201651Z_1424024691_RC2IONA74OKZ_RTRMADP_3_UN-ASSEMBLY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/macron-urges-world-to-choose-un-over-law-of-the-jungle/article71497347.ece",
-    "time": "2026-09-22T22:05:57.000Z"
+    "cat": "Entertainment",
+    "title": "Taylor Swift announces new song 'Patient Zero'",
+    "desc": "Taylor Swift has announced the release of her new song 'Patient Zero', following her summer wedding. This will be her first song since marrying Travis Kelce at Madison Square Garden. Additionally, Swift has been nominated for nine MTV VMA awards and will receive the inaugural Artist Director Honors. Fans have been actively trying to decode hints from her recent appearances.",
+    "img": "https://static.toiimg.com/photo/msid-134423073,imgsize-198154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-announces-new-song-patient-zero-her-first-track-release-since-wedding-to-travis-kelce/articleshow/134423065.cms",
+    "time": "2026-09-22T22:45:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -25,6 +250,24 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/presley-gerbers-body-released-after-autopsy-death-case-linked-to-matthew-perry-amid-suspected-ketamine-use/articleshow/134420380.cms",
     "time": "2026-09-22T21:59:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The story of a ‘Government Farm Village’ in Madras",
+    "desc": "At one time, Government Farm – now located in the Guindy/Saidapet region – spanned 300 acres with a fence all around it. The idea of Governor Sir William Denison, it was set up in 1865",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/x85zs8/article71495173.ece/alternates/LANDSCAPE_1200/4eb0546a-5895-443e-b76f-78fc8c5f66fe.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/the-story-of-a-government-farm-village-in-madras/article71494494.ece",
+    "time": "2026-09-22T21:35:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Progressive Muslim groups oppose AIMPLB’s ‘Save India, Save Shariat’ campaign, call for gender-just reforms",
+    "desc": "Signatories argued that the campaign could provide political ammunition to the BJP and Sangh Parivar by allowing them to portray themselves as defenders of constitutional principles while suggesting that Muslims sought a separate legal framework",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/mumbai/progressive-muslim-groups-oppose-aimplbs-save-india-save-shariat-campaign-call-for-gender-just-reforms/article71495952.ece",
+    "time": "2026-09-22T21:23:34.000Z"
   },
   {
     "cat": "Politics",
@@ -55,6 +298,24 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "The 1981 byelection that triggered turns and twists in Tamil Nadu politics",
+    "desc": "There is also an ongoing litigation in the Madras High Court over the election results in the Tiruppathur Assembly constituency where the ruling TVK candidate was declared elected by just one vote. Interestingly, 40 years ago, Tiruppathur hogged the limelight, even at the national level, for strange reasons",
+    "img": "https://th-i.thgim.com/public/incoming/jq3gx6/article71496939.ece/alternates/LANDSCAPE_1200/HP43639.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/the-1981-assembly-byelection-that-triggered-turns-and-twists-in-tamil-nadu-politics/article71496870.ece",
+    "time": "2026-09-22T18:52:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Doctor loses ₹1.19 crore in alleged digital arrest scam in Keralam’s Kasaragod; accused nabbed from Hyderabad airport",
+    "desc": "The alleged fraud took place between November 24 and December 17, 2025, when the accused and his associates allegedly contacted the doctor, a native of Nileswaram in Kasaragod, over the phone and WhatsApp video calls",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/doctor-loses-119-crore-in-alleged-digital-arrest-scam-in-keralams-kasaragod-accused-nabbed-from-hyderabad-airport/article71491272.ece",
+    "time": "2026-09-22T18:43:38.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Ethanol company sues Andhra farmer over pollution claims, seeks ₹1 crore compensation",
     "desc": "Sentini BioProducts Pvt. Ltd. has sued farmer M. Muralidhar Reddy of Gandepalli village, near Keesara in the NTR district, requesting that he be directed to issue a public apology and perpetual injunction restraining the farmer from making any misleading and malicious statements in the future",
     "img": "https://th-i.thgim.com/public/incoming/xp8xem/article71497047.ece/alternates/LANDSCAPE_1200/10237_4_4_2024_10_8_17_4__GNR2177.JPG",
@@ -64,39 +325,21 @@ const newsData_en = [
   },
   {
     "cat": "Business",
+    "title": "Towards recognising women farmers",
+    "desc": "Maharashtra’s passage of the Women Farmers’ Empowerment Bill, granting women independent recognition as farmers irrespective of land ownership, brings into focus the structural bias against the female agricultural workforce, highlights the need for a database of women farmers and using it to ensure access to welfare schemes",
+    "img": "https://th-i.thgim.com/public/incoming/hdhkhf/article71497034.ece/alternates/LANDSCAPE_1200/9712_4_9_2026_14_4_0_1__DSC5062_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/towards-recognising-women-farmers/article71497026.ece",
+    "time": "2026-09-22T17:48:40.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "India begins anti-dumping probes against imports of Glycine chemical from China",
     "desc": "If it is established that the dumping has caused material injury to domestic players, the DGTR would recommend the imposition of duties on the imports. The Finance Ministry takes the final decision to impose these duties",
     "img": "https://th-i.thgim.com/public/incoming/pl8kyd/article71497059.ece/alternates/LANDSCAPE_1200/IMG_bl14Anti-Dumping_3_1_JG96TI85.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/india-begins-anti-dumping-probes-against-imports-of-glycine-chemical-from-china/article71497044.ece",
     "time": "2026-09-22T17:45:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "President Droupadi Murmu urges celebs to not endorse health-harming products",
-    "desc": "President Murmu addressed the 72nd National Film Awards ceremony in Gujarat. She urged popular film personalities to avoid endorsing harmful products for public health. The President also called for increased women's representation on award selection juries. She emphasized the importance of diverse perspectives in the selection process. Murmu also appealed for better welfare and social security for film industry workers.",
-    "img": "https://static.toiimg.com/photo/msid-134417925,imgsize-273622.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/president-droupadi-murmu-urges-celebs-to-not-endorse-health-harming-products-amid-fda-led-by-tukaram-mundhe-sent-notices-to-shah-rukh-khan-ajay-devgn-tiger-shroff-for-endorsing-elaichi-brand/articleshow/134417773.cms",
-    "time": "2026-09-22T17:39:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Parineeti Chopra slams trolls body-shaming postpartum mothers like Katrina",
-    "desc": "Parineeti Chopra criticized online trolling of postpartum bodies after Katrina Kaif faced criticism. She called such comments uneducated and a waste of time for everyone involved. Chopra stated that evidence of growing a human life should be celebrated. She intentionally avoids social media to escape negativity and online trolls. The actress questioned why people target celebrities with such pointless remarks.",
-    "img": "https://static.toiimg.com/photo/msid-134417160,imgsize-251287.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/parineeti-chopra-slams-trolls-body-shaming-postpartum-mothers-like-katrina-kaif-making-a-human-life-a-baby-that-evidence-on-the-body-is-not-celebrated/articleshow/134412917.cms",
-    "time": "2026-09-22T17:11:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Murmu urges actors against endorsing harmful health products; ‘True star spreads light, not darkness’",
-    "desc": "President Droupadi Murmu distributed the 72nd National Film Awards for 2024 in various categories of cinema at Ekta Nagar (Kevadia), near the Statue of Unity, in a glittering ceremony attended by top talents of the film industry",
-    "img": "https://th-i.thgim.com/public/incoming/vjezxt/article71496954.ece/alternates/LANDSCAPE_1200/PTI09_22_2026_000360B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/murmu-urges-actors-against-endorsing-harmful-health-products-true-star-spreads-light-not-darkness/article71496753.ece",
-    "time": "2026-09-22T17:05:41.000Z"
   },
   {
     "cat": "Politics",
@@ -115,15 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/macron-says-talks-with-trump-on-red-sea-ukraine-constructive/article71496874.ece",
     "time": "2026-09-22T16:42:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lionel Richie hospitalised for third time, undergoes heart procedure",
-    "desc": "Lionel Richie has been hospitalised for the third time in three months after experiencing atrial fibrillation, according to reports. The singer is undergoing a heart procedure to treat the irregular heartbeat. His latest health issue has also led to the cancellation of three upcoming shows with Earth, Wind & Fire as part of their ongoing tour.",
-    "img": "https://static.toiimg.com/photo/msid-134416527,imgsize-70089.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lionel-richie-hospitalised-for-third-time-in-three-months-with-irregular-heartbeat-undergoes-afib-heart-procedure-earth-wind-fire-cancel-three-tour-shows/articleshow/134416377.cms",
-    "time": "2026-09-22T16:30:25.000Z"
   },
   {
     "cat": "Politics",
@@ -162,15 +396,6 @@ const newsData_en = [
     "time": "2026-09-22T15:40:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Hayden Panettiere died of accidental overdose involving fentanyl and other drugs",
-    "desc": "Hayden Panettiere’s cause of death has been revealed by the Greenville County Coroner’s Office. The 36-year-old Heroes and Nashville star died from an accidental overdose involving fentanyl and several other drugs. Panettiere was found unresponsive at a South Carolina apartment on August 16, with police confirming that their investigation into her death remains ongoing.",
-    "img": "https://static.toiimg.com/photo/msid-134415706,imgsize-48647.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hayden-panettiere-cause-of-death-revealed-heroes-and-nashville-star-died-of-accidental-overdose-involving-fentanyl-and-other-drugs-says-coroner/articleshow/134415602.cms",
-    "time": "2026-09-22T15:36:12.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Trump says U.S. will henceforth call AI ‘super intelligence’",
     "desc": "“From this point forward, all ​of United ‌States documents, and hopefully the world’s will be changed ‌to use ​the much more accurate term ‘super’ as ⁠opposed to artificial. So it’s ‌super intelligence,” Mr. Trump said in a UN General Assembly speech",
@@ -189,15 +414,6 @@ const newsData_en = [
     "time": "2026-09-22T15:24:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nani’s 'The Paradise' nears Rs 20 crore in advance bookings",
-    "desc": "Nani's 'The Paradise' has achieved impressive advance bookings totaling Rs 18.58 crore, inclusive of block seats. Scheduled for a global theatrical release on September 24, Hyderabad tops the charts for first-day ticket sales. Ongoing interest for the days following the release is evident, as the film's promotional efforts draw to a close ahead of its debut.",
-    "img": "https://static.toiimg.com/photo/msid-134414847,imgsize-277234.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nanis-the-paradise-sets-the-box-office-buzzing-nears-rs-20-crore-in-advance-bookings-as-day-1-inches-towards-rs-10-crore/articleshow/134414844.cms",
-    "time": "2026-09-22T15:16:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "The most crucial thing you missed in that Sydney Sweeney ad",
     "desc": "women losing household security, relationships and, in the worst cases, physical safety because of gambling by men around them.That is rather more tangible than an imagined slight to female athletes. We spent so much time arguing about the Trojan horse that we almost failed to notice what had been carted into our city.",
@@ -208,39 +424,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Keerthy Suresh 'Da' remark on her 'Dorothy' co-stars stirs up controversy",
-    "desc": "Keerthy Suresh’s casual interaction with Dorothy co-stars Rishikanth and Sananth at a Madurai promotional event has sparked discussion online. Her use of “Da” while joking with the actors divided fans, with some calling it disrespectful while others saw it as friendly banter. Dorothy, directed by Karthik Subbaraj with music by Ilaiyaraaja, stars Keerthy Suresh, Rishikanth and Sananth and releases on September 25.",
-    "img": "https://static.toiimg.com/photo/msid-134414137,imgsize-253750.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/keerthy-suresh-calls-her-dorothy-co-stars-rishikanth-and-sananth-close-friends-but-her-da-remark-stirs-up-controversy/articleshow/134414125.cms",
-    "time": "2026-09-22T15:10:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yami Gautam reacts to Best Actress National Award win",
-    "desc": "Yami Gautam Dhar took home the Best Actress award for her exceptional performance in Article 370. Offering words of wisdom to budding artists, she emphasized the importance of hard work and unwavering dedication to their craft. Notably, Mammootty and Kartik Aaryan were jointly honored with the Best Actor accolade for their impressive roles.",
-    "img": "https://static.toiimg.com/photo/msid-134414876,imgsize-224254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yami-gautam-reacts-to-best-actress-national-award-win-do-your-work-with-honesty-one-day-you-will-reach-your-destination/articleshow/134414877.cms",
-    "time": "2026-09-22T14:38:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Dadasaheb Phalke honour for Anant Nag; Mammootty, Kartik Aaryan, Yami Gautam receive Best Actor awards",
     "desc": "In a dazzling ceremony, President Droupadi Murmu celebrated the efforts of some of the popular artistes of Indian cinema at the 72nd National Film Awards, with veterans Anant Nag and Mammootty receiving the top honours",
     "img": "https://th-i.thgim.com/public/incoming/eyb9am/article71495660.ece/alternates/LANDSCAPE_1200/Anant%20Nag.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/72nd-national-film-awards-anant-nag-mammootty-yami-gautam-dadasaheb-phalke-kartik-aaryan-national-awards/article71495610.ece",
     "time": "2026-09-22T14:38:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhanush is a brilliant actor, so half your job is done': Arun Matheswaran",
-    "desc": "Captain Miller garnered a prestigious National Film Award for its emphasis on social and environmental issues. Dhanush was honored with a Special Mention due to his compelling performance in this notable film. Director Arun Matheswaran commended Dhanush for his vital role in this demanding project. The film was celebrated at the 72nd National Film Awards, where Dhanush proudly received his award from President Droupadi Murmu.",
-    "img": "https://static.toiimg.com/photo/msid-134414112,imgsize-154785.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhanush-is-a-brilliant-actor-so-half-your-job-is-done-arun-matheswaran-praises-his-captain-miller-actor-after-national-award-win/articleshow/134414107.cms",
-    "time": "2026-09-22T14:30:13.000Z"
   },
   {
     "cat": "Sports",
@@ -261,24 +450,6 @@ const newsData_en = [
     "time": "2026-09-22T14:06:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Gurugram collapses in rains while Greater Noida planned for 30-40 years: Supreme Court",
-    "desc": "The Supreme Court noted Gurugram's infrastructure collapses during rains due to inadequate investment. Greater Noida was planned for the next forty years, unlike Gurugram. The court heard a plea challenging Karnataka's Premium Floor Area Ratio scheme. This scheme allows purchasing additional construction rights by paying premium charges. The court clarified the scheme should not regularize illegal construction.",
-    "img": "https://static.toiimg.com/photo/msid-134413792,imgsize-150668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gurugram-collapses-in-rains-while-greater-noida-planned-for-30-40-years-supreme-court/articleshow/134413551.cms",
-    "time": "2026-09-22T14:02:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rani Mukerji's mother's funeral: SRK, Alia, Karan Johar, Anil pay last respects",
-    "desc": "In a heartbreaking turn of events, Rani Mukerji's mother, Krishna Mukerji, has died at seventy-five, as confirmed by Yash Raj Films, which also asked for family privacy. Friends from the film industry, including Shah Rukh Khan, gathered to pay their respects at the funeral on Tuesday. Krishna was instrumental in nurturing Rani's passion for acting from an early age. Rani’s recent projects include 'Mardaani 3' and the upcoming film 'King.'",
-    "img": "https://static.toiimg.com/photo/msid-134414176,imgsize-292598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-mukerjis-mothers-funeral-shah-rukh-khan-alia-bhatt-karan-johar-anil-kapoor-among-others-arrive-to-offer-their-final-respects/articleshow/134414115.cms",
-    "time": "2026-09-22T13:59:02.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump's White House media ban faces long odds in court, legal experts say",
     "desc": "The President’s justification for the ban could be its undoing in a legal challenge because U.S. courts have long held that the government cannot condition press access on ‌favourable coverage once it has opened a space to the media, according to legal experts",
@@ -295,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-medal-tally-where-does-india-rank-after-womens-cricket-retains-gold/articleshow/134413865.cms",
     "time": "2026-09-22T13:49:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sukumar, GV Prakash, Venky Atluri receive honours",
-    "desc": "Sukumar, GV Prakash Kumar, Venky Atluri, Niharika Konidela and other winners received their National Film Awards from President Droupadi Murmu. Sukumar won Best Original Screenplay for Pushpa 2, GV Prakash Kumar won Best Music Direction for Amaran, and Venky Atluri was honoured for Lucky Baskhar. The ceremony also recognised Niharika Konidela, Nitin Zihani Choudhary, Deepali Noor, Sheetal Sharma, Anl Arasu, Ravi Kumar and other technical talents.",
-    "img": "https://static.toiimg.com/photo/msid-134412749,imgsize-83607.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/72nd-national-film-awards-sukumar-gv-prakash-venky-atluri-niharika-konidela-and-other-winners-receive-honours-from-president-droupadi-murmu/articleshow/134412735.cms",
-    "time": "2026-09-22T13:47:26.000Z"
   },
   {
     "cat": "Sports",
@@ -324,42 +486,6 @@ const newsData_en = [
     "time": "2026-09-22T12:57:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rani Mukerji's mother passes away: When she said her daughter got National Award very late",
-    "desc": "Rani Mukerji is heartbroken after the passing of her beloved mother, Krishna Mukerji, at the age of seventy-five. Krishna was a source of unwavering support for Rani, famously celebrating her daughter's National Award win for Mrs Chatterjee Vs Norway, and consistently believed that Rani's talent deserved recognition since her role in Black.",
-    "img": "https://static.toiimg.com/photo/msid-134413969,imgsize-300919.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-mukerjis-mother-passes-away-heres-when-she-said-her-daughter-got-national-award-very-late-in-her-career-for-mrs-chatterjee-vs-norway/articleshow/134412944.cms",
-    "time": "2026-09-22T12:55:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM Dhami directs time-bound disposal of pending SC/ST atrocity cases in Uttarakhand",
-    "desc": "Uttarakhand Chief Minister Pushkar Singh Dhami directed officials to ensure time-bound disposal of pending cases registered under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989, and stressed timely relief, protection and rehabilitation of victims.",
-    "img": "https://static.toiimg.com/photo/msid-134412669,imgsize-132267.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cm-dhami-directs-time-bound-disposal-of-pending-sc/st-atrocity-cases-in-uttarakhand/articleshow/134412468.cms",
-    "time": "2026-09-22T12:37:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pankaj Udhas' wife leases out 3347sq feet property in Pune for Rs 2.89 crore",
-    "desc": "Late ghazal singer Pankaj Udhas' wife Farida Pankaj Udhas has leased a 3,347 sq ft commercial property in Pune to ICICI Bank for nine years at a total rent of around Rs 2.89 crore. The deal includes a monthly rent of Rs 2.50 lakh, a 10% escalation every three years, a Rs 10 lakh security deposit and multiple parking spaces.",
-    "img": "https://static.toiimg.com/photo/msid-134412680,imgsize-303653.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pankaj-udhas-wife-leases-out-3347sq-feet-commercial-property-in-pune-with-a-total-rent-of-rs-2-89-crore-report/articleshow/134412314.cms",
-    "time": "2026-09-22T12:22:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mammootty receives standing ovation, Dhanush honoured",
-    "desc": "Mammootty and Dhanush received their National Film Awards from President Droupadi Murmu, with both stars making classic appearances at the ceremony. Mammootty won Best Actor for 'Bramayugam,' while Dhanush’s 'Raayan' was honoured as Best Tamil Film, with his sons Yatra and Linga witnessing the moment. Their National Award reunion, along with director Rajkumar Periasamy and editor R Kalaivanan’s honours, has further raised expectations for 'OM.'",
-    "img": "https://static.toiimg.com/photo/msid-134412170,imgsize-117818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/72nd-national-film-awards-mammootty-receives-standing-ovation-as-he-wins-best-actor-for-bramayugam-dhanush-and-rajkumar-periasamy-also-honoured-for-captain-miller-and-amaran/articleshow/134412168.cms",
-    "time": "2026-09-22T12:21:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Who is Roshibina? Wushu star who faced selection row before assuring herself a medal",
     "desc": "Naorem Roshibina Devi assured herself a third successive Asian Games medal after defeating Macao, China’s Chu Man Sin 5-0 in the women’s Sanda 60kg quarterfinal at Aichi-Nagoya. The Manipuri wushu star, who won bronze in 2018 and silver in 2023, reached the semifinals after a selection controversy preceded her return to the squad.",
@@ -369,15 +495,6 @@ const newsData_en = [
     "time": "2026-09-22T12:16:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kartik Aaryan, Mammootty, Yami",
-    "desc": "The 72nd National Film Awards ceremony was held today in Gujarat, moving away from the traditional New Delhi venue. President Droupadi Murmu honoured notable talents like Kartik Aaryan and Mammootty with awards for their standout performances. Yami Gautam triumphed as Best Actress for 'Article 370', which also secured the Best Feature Film accolade.",
-    "img": "https://static.toiimg.com/photo/msid-134411931,imgsize-290269.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/72nd-national-film-awards-kartik-aaryan-mammootty-win-best-actor-honours-yami-gautam-named-best-actress-randeep-hooda-wins-best-debut-director-award-from-president-droupadi-murmu/articleshow/134407391.cms",
-    "time": "2026-09-22T12:03:23.000Z"
-  },
-  {
     "cat": "World",
     "title": "More than 10,000 could flee Yemen fighting to Djibouti in coming months: UN",
     "desc": "The Iran-backed Houthis earlier this month seized control of Yemen’s Red Sea coastline, in a dramatic offensive that has left hundreds of people on both sides dead, threatened global trade and pushed up energy prices",
@@ -385,24 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/more-than-10000-could-flee-yemen-fighting-to-djibouti-in-coming-months-un/article71495274.ece",
     "time": "2026-09-22T11:59:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nani and Srikanth Odela’s ‘The Paradise’ gets interim court protection",
-    "desc": "Nani’s The Paradise faces a legal development ahead of its September 24 theatrical release, with a Bengaluru court issuing an interim injunction. The order restricts circulation of specific online content alleged to be false and defamatory, while allowing genuine reviews and criticism. The interim protection will remain in force until further orders, with the next hearing scheduled for October 28, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-134411035,imgsize-272845.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nani-and-srikanth-odelas-the-paradise-gets-interim-court-protection-days-ahead-of-september-24-release-as-bengaluru-court-restricts-circulation-of-specific-online-content/articleshow/134411013.cms",
-    "time": "2026-09-22T11:28:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aditya Dhar teases ‘Dhurandhar’ with ‘hopefully next year’ at 72nd National Film Awards",
-    "desc": "At the 72nd National Film Awards, Aditya Dhar and Yami Gautam celebrated as \"Article 370\" won Best Feature Film and Yami bagged Best Actress. She called it the \"biggest validation\" for an artist. Dhar briefly addressed \"Dhurandhar,\" promising discussion \"hopefully next year.\" The two-film franchise has grossed around Rs 3,000 crore.",
-    "img": "https://static.toiimg.com/photo/msid-134410602,imgsize-140298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/72nd-national-film-awards-aditya-dhar-teases-dhurandhar-with-hopefully-next-year-remark-as-yami-gautam-celebrates-article-370-win/articleshow/134410556.cms",
-    "time": "2026-09-22T11:10:39.000Z"
   },
   {
     "cat": "Business",
@@ -450,15 +549,6 @@ const newsData_en = [
     "time": "2026-09-22T08:32:42.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "India survive huge Japan scare, win by two runs in historic T20I",
-    "desc": "In a nail-biting finish, India clinched a historic T20 International victory against Japan by a narrow margin of just two runs. Although facing challenges from Japan's spin bowlers, India's own spinners made a remarkable comeback, ultimately securing the team's 200th win in men's T20 cricket. This match showcased the resilience and strategic prowess of both sides, making it a memorable encounter.",
-    "img": "https://static.toiimg.com/photo/msid-134406899,imgsize-99306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-survive-huge-japan-scare-win-by-two-runs-in-historic-t20i/articleshow/134406816.cms",
-    "time": "2026-09-22T08:21:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Nasdaq hits record high as AI stocks rally; AMD crosses $1 trillion valuation",
     "desc": "Wall Street began the week strongly as technology and AI stocks propelled the Nasdaq higher. Chipmakers led the rally, with several companies seeing significant share price increases. Easing Treasury yields and falling crude oil prices also supported the positive market sentiment. Investors watched developments in the Middle East and upcoming United States-China talks. Markets remained focused on potential future Federal Reserve interest rate decisions.",
@@ -477,15 +567,6 @@ const newsData_en = [
     "time": "2026-09-22T07:54:55.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Abhishek Sharma equals unwanted T20I record",
-    "desc": "India captain Shreyas Iyer won the toss and opted to bat in the rain-hit five-over-a-side clash. Sanju Samson faced five balls and scored a single before giving the strike to Abhishek Sharma. Japan immediately made the breakthrough as Charlie Hara-Hinze dismissed Abhishek for a golden duck. Hara-Hinze bowled one on leg stump and Abhishek crouched low to try and help the ball along. However, he only managed a top edge, with Shoma Sugaya-Slater running back to complete a good catch.",
-    "img": "https://static.toiimg.com/photo/msid-134406317,imgsize-39332.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/five-golden-ducks-in-2026-abhishek-sharma-equals-unwanted-t20i-record/articleshow/134406215.cms",
-    "time": "2026-09-22T07:45:03.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Neem Kaorli Baba biopic's worldwide gross hits Rs 366 crore on Day 46",
     "desc": "'Hanuman Ansh' continues its remarkable theatrical run on Day 47, with the Vishal Chaturvedi directorial crossing the Rs. 276 crore mark in India. The spiritual drama had a modest start before witnessing a sharp turnaround from its third week. With the film's worldwide gross already past Rs. 350 crore, the extended run has opened up another set of milestones for the Shobhinaw Satyaa-starrer.",
@@ -493,24 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-46-live-vishal-chaturvedi-and-shobhinaw-satyaas-spiritual-biopic-on-neem-kaorli-baba-continues-extended-run-with-eyes-on-rs-280-crore-domestic-run-and-rs-355-crore-worldwide-gross/articleshow/134405645.cms",
     "time": "2026-09-22T07:36:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shafali Verma creates history, surpasses Laura Wolvaardt for major T20I record",
-    "desc": "Shafali Verma has etched her name in history by breaking the record for the most T20I runs in a calendar year, surpassing Laura Wolvaardt's previous achievement. With an impressive tally that includes one century and seven fifties, Verma has showcased remarkable consistency this season. Alongside Smriti Mandhana, they have solidified their record partnership, totaling over 4,000 runs as Indian openers.",
-    "img": "https://static.toiimg.com/photo/msid-134405776,imgsize-127262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/shafali-verma-creates-history-surpasses-laura-wolvaardt-to-become-highest-run-scorer-in-womens-t20is-in-a-calendar-year/articleshow/134405560.cms",
-    "time": "2026-09-22T07:18:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer enters history books, becomes first captain to do this",
-    "desc": "In an unprecedented move, India's captain Shreyas Iyer chose to bat first during a historic T20I match against Japan, who they faced for the first time in men's T20 cricket. The game was shortened to five overs per side due to rain, yet held significance as part of the 'Sport 75' celebrations. Sanju Samson and Abhishek Sharma maintained their roles as opening batsmen for this exciting encounter.",
-    "img": "https://static.toiimg.com/photo/msid-134405492,imgsize-129226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shreyas-iyer-enters-history-books-becomes-first-captain-to-do-this-in-india-japan-5-over-t20i/articleshow/134405345.cms",
-    "time": "2026-09-22T07:08:43.000Z"
   },
   {
     "cat": "Business",
@@ -529,15 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-networks-halt-trump-coverage-in-revolt-over-white-house-ban/article71492960.ece",
     "time": "2026-09-22T06:32:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vansh Bedi reported fixing approach during DPL; DDCA seeks BCCI intervention",
-    "desc": "During the recently concluded season of the Delhi Premier League, cricketer Vansh Bedi from Central Delhi Kings reported an attempt at match-fixing to the Anti-Corruption Wing. The Delhi and District Cricket Association is now looking to the BCCI for guidance following this incident linked to a sting operation conducted by a media outlet.",
-    "img": "https://static.toiimg.com/photo/msid-134404504,imgsize-986106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vansh-bedi-reported-fixing-approach-during-delhi-premier-league-3-ddca-seeks-bcci-intervention/articleshow/134404311.cms",
-    "time": "2026-09-22T06:22:53.000Z"
   },
   {
     "cat": "Business",
@@ -738,15 +792,6 @@ const newsData_en = [
     "time": "2026-09-21T00:26:18.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "I relaxed a bit, but gave my best: Elavenil",
-    "desc": "“Somewhere I knew I was in the top three and although I was coming back to my process and techniques, I did get a bit relaxed. I really need to work on my [game in] finals. But I think I gave my absolute best,” Elavenil said",
-    "img": "https://th-i.thgim.com/public/incoming/hm3unz/article71488105.ece/alternates/LANDSCAPE_1200/6744_20_9_2026_14_25_20_1_41_RVM_7963.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/i-relaxed-a-bit-but-gave-my-best-elavenil/article71488009.ece",
-    "time": "2026-09-20T13:26:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Shalini Adnani’s ‘Our Share of Sand’: Inside the Indian sand-mining story heading to Venice",
     "desc": "Ahead of the world premiere of ‘Our Share of Sand’ at Venice Critics’ Week, the Chilean-Indian filmmaker discusses growing up between two cultures, the human cost of India’s development boom and the moral compromises that come with privilege CAN U ADD SUBHEADS TO THE COPY PL",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/chinas-spy-chief-warns-of-national-security-risks-from-ai/article71466340.ece",
     "time": "2026-09-14T16:55:09.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
   }
 ];

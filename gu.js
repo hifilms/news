@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "શું આજે ખરેખર 12 કલાકનો દિવસ અને 12 કલાકની રાત હશે? 23 સપ્ટેમ્બરના ઈક્વિનોક્સનું જાણો સંપૂર્ણ સત્ય",
+    "desc": "શું આજે, બુધવાર, 23 સપ્ટેમ્બરના રોજ દિવસ અને રાત ખરેખર 12 કલાક લાંબા હશે? આ વાત ઘણીવાર સપ્ટેમ્બર ઈક્વિનોક્સ વિશે કહેવામાં આવે છે, પરંતુ વાસ્તવિકતા થોડી અલગ છે. આજની આ ખગોળીય ઘટના પછી, ભારતમાં દિવસો ધીમે ધીમે ટૂંકા અને રાત લાંબી થતી જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/will-today-really-have-12-hours-of-daylight-and-12-hours-of-night-know-the-full-truth-about-the-september-23-equinox-492091 ",
+    "time": "2026-09-23T02:42:50.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ભાજપ સાથે જબરો દાવ થઈ ગયો, બધાએ ક્રોસ વોટિંગ કરી નાખતા ઉમેદવારને મળ્યા 0 મત",
     "desc": "કોઈ ચૂંટણીમાં ભાજપના ઉમેદવારને શૂન્ય મત મળે અને કોંગ્રેસ તથા સાથે પક્ષ ચૂંટણી જીતી જાય એવું માન્યમાં આવે ખરું? પરંતુ આ બિલકુલ સાચી વાત છે. રાજસ્થાનના નાગૌર જિલ્લાની મુંડવા નગરપાલિકામાં ચેરમેન માટે થયેલી ચૂંટણી ભાજપ હાર્યું તો ખરા પરંતુ સાથે સાથે એક પણ મત ઉમેદવારને મળ્યો નહીં. રસપ્રદ વાત એ છે કે નગરપાલિકાની ચૂંટણીમાં સૌથી મોટો પક્ષ જ ભાજપ હતો.",
@@ -448,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/upi-payment-request-links-could-be-discontinued-find-out-how-this-will-impact-customers-491716 ",
     "time": "2026-09-18T18:09:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રામ મંદિરના પુજારીઓ માટે નવા નિયમો: તિલક અને પંચકેશી ફરજિયાત, આ વસ્તુઓ પર લગાવ્યો પ્રતિબંધ",
-    "desc": "રામ મંદિરના દાન ચોરી વિવાદ બાદ, રામ જન્મભૂમિ મંદિરમાં વ્યવસ્થા બદલાઈ ગઈ છે. રામ મંદિરના પુજારીઓ માટે પણ નવા નિયમો જાહેર કરવામાં આવ્યા છે. પુજારીઓ માટે તિલક અને પંચકેશી ફરજિયાત બનાવવામાં આવ્યા છે. જોકે, પર્સ, બહારની વસ્તુઓ અને મોબાઇલ ફોન બંધ રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/new-rules-for-ram-mandir-priests-tilak-and-panchakeshi-mandatory-ban-imposed-on-certain-items-491714 ",
-    "time": "2026-09-18T17:31:28.000Z"
   },
   {
     "cat": "Tech",

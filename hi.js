@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Billie Jean King Cup Quarter-Final 2 today, Kazakhstan to face Spain; watch Live on VETO OTT",
+    "desc": "The second quarter-final of the Billie Jean King Cup, one of the biggest and most prestigious team competitions in women's tennis, will be played on Wednesday (September 23) at the Shenzhen Bay Sports Center Arena...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/billie-jean-king-cup-quarter-final-2-today-kazakhstan-vs-spain-at-shenzhen-bay-sports-center-arena-watch-live-on-veto-ott-2026-09-23-1054990",
+    "time": "2026-09-23T02:47:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Linda Noskova, Marie Bouzkova win as Czechia eliminate Great Britain in Billie Jean King Cup",
     "desc": "Czech Republic won both singles matches against Great Britain in the quarter-finals of the Billie Jean King Cup in Shenzhen. With the 2-0 win, they now progressed to the semis, which will be played later...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-fails-to-impress-india-women-s-badminton-team-knocked-out-of-quarters-at-asian-games-2026-2026-09-22-1054901",
     "time": "2026-09-22T04:56:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND-W vs SL-W Asian Games, cricket final: India beat Sri Lanka by 147 runs to clinch gold",
-    "desc": "Indian women take on Sri Lanka in the final of the Asian Games 2026 at Korogi Sports Park in Nisshin. The Harmanpreet Kaur-led side has been a force to reckon with in the ongoing tournament,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-sl-w-asian-games-final-india-women-vs-sri-lanka-women-latest-match-updates-scorecards-playing-xi-reactions-smriti-mandhana-shafali-verma-1054896",
-    "time": "2026-09-22T04:35:31.000Z"
   }
 ];
