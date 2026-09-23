@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Prema Rawat fails to impress as Dehradun vs Mussoorie set for women's UPL 2026 final",
+    "desc": "Mussoorie Queens and Dehradun Warriors will meet in the women’s final of the Uttarakhand Premier League 2026 after finishing first and second in the league standings. The summit clash, scheduled for Thursday, September 24, will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/prema-rawat-fails-to-impress-as-dehradun-vs-mussoorie-set-for-women-s-upl-2026-final-2026-09-24-1055101",
+    "time": "2026-09-23T20:27:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No Rybakina, no party! Spain knocks out Kazakhstan to qualify for first Billie Jean King Cup semis since 2008",
+    "desc": "Spain reached the Billie Jean King Cup semi-finals for the first time since 2008 after edging Kazakhstan 2-1 in a dramatic quarter-final in Shenzhen. Cristina Bucsa played a decisive role in the tie, returning to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/no-rybakina-no-party-as-spain-knocks-out-kazakhstan-to-qualify-for-first-billie-jean-king-cup-semis-since-2008-2026-09-23-1055091",
+    "time": "2026-09-23T16:27:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "13-year-old Chinese athlete Yu Zidi wins three gold medals at Asian Games 2026",
     "desc": "China’s 13-year-old Yu Zidi has set another record and strengthened her status as one of swimming’s most closely watched young talents by winning three gold medals at the Asian Games 2026. On Wednesday, September 23,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/jay-meena-assures-india-s-first-ever-medal-in-soft-tennis-at-asian-games-skeet-team-secures-bronze-medal-2026-09-23-1055001",
     "time": "2026-09-23T04:14:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Billie Jean King Cup Quarter-Final 2, Kazakhstan vs Spain underway; watch Live on VETO OTT",
-    "desc": "The second quarter-final of the Billie Jean King Cup, one of the biggest and most prestigious team competitions in women's tennis, will be played on Wednesday (September 23) at the Shenzhen Bay Sports Center Arena...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/billie-jean-king-cup-quarter-final-2-today-kazakhstan-vs-spain-at-shenzhen-bay-sports-center-arena-watch-live-on-veto-ott-2026-09-23-1054990",
-    "time": "2026-09-23T02:47:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Linda Noskova, Marie Bouzkova win as Czechia eliminate Great Britain in Billie Jean King Cup",
-    "desc": "Czech Republic won both singles matches against Great Britain in the quarter-finals of the Billie Jean King Cup in Shenzhen. With the 2-0 win, they now progressed to the semis, which will be played later...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/linda-noskova-marie-bouzkova-win-as-czechia-eliminate-great-britain-in-billie-jean-king-cup-2026-09-22-1054974",
-    "time": "2026-09-22T15:44:03.000Z"
   }
 ];

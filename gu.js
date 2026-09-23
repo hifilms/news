@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "અચાનક સોના-ચાંદીના ભાવમાં મોટો ઘટાડો, આટલું સસ્તું થયું ગોલ્ડ, જાણો નવા ભાવ",
+    "desc": "સોના અને ચાંદીના ભાવમાં મોટો ઘટાડો જોવા મળ્યો છે. સોનાના ભાવમાં આશરે ₹1,600નો ઘટાડો થયો છે અને ચાંદીના ભાવમાં પણ મોટો ઘટાડો નોંધાયો છે. કોમોડિટી સેક્ટરથી લઈને બુલિયન માર્કેટ સુધીના તમામ બજારોમાં આ બંને ધાતુઓના ભાવ ઘટ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-price-fall-check-latest-rates-in-india-gold-become-cheaper-492187 ",
+    "time": "2026-09-23T16:04:00.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "‘Charaiveti, Charaiveti’: WION સમિટમાં બોલ્યા ગજેન્દ્ર શેખાવત, ભારત 2047 સુધીમાં એક વિક્સિત રાષ્ટ્ર બનવાના રસ્તે અગ્રેસર",
     "desc": "કેન્દ્રીય મંત્રી ગજેન્દ્રસિંહ શેખાવતે ભારતની 2047 સુધીમાં વિક્સિત રાષ્ટ્ર બનવાની યાત્રાનું વર્ણન કરવા માટે એક અદભૂત પ્રાચીન મંત્ર 'ચારૈવેતિ, ચારૈવેતિ'નું આહ્વાન કર્યું. આ સાથે જ આર્થિક વિકાસ, જિયોપોલિટિકલ પડકારો અને ઝડપથી થતા વૈશ્વિક પરિવર્તન પર ભાર મૂક્યો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -331,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/massive-protests-against-the-ugc-bill-scuffle-with-police-find-out-more-491857 ",
     "time": "2026-09-20T10:49:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "1 શેર પર ₹160નું ડિવિડન્ડ આપી રહી છે કંપની, આ જ અઠવાડિયે છે રેકોર્ડ ડેટ!",
-    "desc": "શું તમે પણ શેર બજારમાં ડિવિડન્ડ સ્ટોક પર દાવ લગાવો છો તો તમારા માટે સારા સમાચાર છે. આવતીકાલે મહારાષ્ટ્ર સ્કૂટર લિમિટેડના શેર એક્સ-ડિવિડન્ડ ટ્રેડ કરશે. કંપની એક શેર પર 160 રૂપિયાનું ડિવિડન્ડ આપી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/rs-160-dividend-per-share-record-date-this-week-for-high-yield-investors-491854 ",
-    "time": "2026-09-20T09:43:12.000Z"
   },
   {
     "cat": "Tech",

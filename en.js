@@ -1,21 +1,246 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "CM",
-    "desc": "Satheesan said the project, launched with an initial allocation of ₹400 crore in the 2026-27 State Budget, was not merely a port development initiative but a long-term vision to achieve comprehensive development by harnessing the potential of the sea",
-    "img": "https://th-i.thgim.com/public/incoming/m3j093/article71500010.ece/alternates/LANDSCAPE_1200/20260916138L.jpg",
+    "title": "Minister in CEC-EC selection panel fails ‘perception test’, says Justice Datta in split verdict",
+    "desc": "Justice Datta said the Minister “cannot be expected to defy the Prime Minister”; he said the Prime Minister and his Cabinet Minister shared a “collective responsibility” and inclusion of a Minister “fails to provide an independent countenance”",
+    "img": "https://th-i.thgim.com/public/incoming/czeqjs/article71499439.ece/alternates/LANDSCAPE_1200/vbk-stock-sc5-file-Supreme-Court.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/world-maritime-day-marks-beginning-of-a-new-maritime-outlook-for-keralam-cm/article71499144.ece",
-    "time": "2026-09-23T15:52:53.000Z"
+    "url": "https://www.thehindu.com/news/national/minister-in-cec-ec-selection-panel-fails-perception-test-says-justice-datta-in-split-verdict/article71499280.ece",
+    "time": "2026-09-23T20:06:05.000Z"
   },
   {
     "cat": "Politics",
-    "title": "LVPI will help strengthen healthcare ecosystem in Amaravati, says Chief Minister Chandrababu Naidu",
-    "desc": "Coming up in 12 acres and with a potential of treating three lakh people annually, the L.V. Prasad Eye Institute in the capital will also undertake research and training programmes, and have an Eye and Brain Centre too, says the Chief Minister",
-    "img": "https://th-i.thgim.com/public/incoming/9cdy8y/article71501085.ece/alternates/LANDSCAPE_1200/10745_23_9_2026_18_50_27_1_IMG_20260923_WA0013.JPG",
+    "title": "Rain batters Srikakulam for second day",
+    "desc": "Vajrapukotturu village in Srikakulam district recorded highest rainfall of 88.25 mm; Orange alert has been issued for Visakhapatnam, Srikakulam, Anakapalli, and Alluri Sitarama Raju districts; all educational institutions in these districts to remain closed owing to the heavy rain forecast",
+    "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/lvpi-will-help-strengthen-healthcare-ecosystem-in-amaravati-says-chief-minister-chandrababu-naidu/article71499937.ece",
-    "time": "2026-09-23T15:49:48.000Z"
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/rain-batters-srikakulam-for-second-day/article71500370.ece",
+    "time": "2026-09-23T19:27:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "H. Shankar",
+    "desc": "‘CBG (compressed bio-gas) is fuel that can be a good form of energy we can invest in. With SAF (sustainable aviation fuel), we can be a part of sustainability in aviation fuel,’ the Managing Director of the Navratna company says",
+    "img": "https://th-i.thgim.com/public/incoming/73xbw6/article71501411.ece/alternates/LANDSCAPE_1200/DSC_2057.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/cpcl-looking-to-be-a-part-of-the-renewable-energy-growth-journey-h-shankar/article71501107.ece",
+    "time": "2026-09-23T19:16:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kenny Rogers’ former Las Vegas home now seeks $3.95M after expansion",
+    "desc": "Kenny Rogers’ former Las Vegas home, which sold for $2.79 million in 2021, is now listed for $3.95 million. The property has since expanded to more than two acres, while its 7,249-square-foot existing structure was stripped for a planned 20,000-square-foot rebuild. The unfinished estate retains completed plans for a sprawling luxury mansion, pool and subterranean garage.",
+    "img": "https://static.toiimg.com/photo/msid-134445204,imgsize-135351.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2021-kenny-rogers-former-las-vegas-home-sold-for-2-79-million-after-the-property-expanded-to-2-acres-and-was-stripped-for-a-20000-sq-ft-rebuild-the-unfinished-estate-is-asking-3-95-million/articleshow/134445150.cms",
+    "time": "2026-09-23T19:13:38.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Zelenskyy, at UN, urges leaders to keep choking Russia’s revenues and impede its war efforts",
+    "desc": "‘When someone gives Russia more money through trade, they give this war more time; and that is exactly why we insist on limiting trade with the aggressor, and why we are burning Russia's revenues ourselves,’ said Volodymyr Zelenskyy",
+    "img": "https://th-i.thgim.com/public/incoming/v6exvy/article71501451.ece/alternates/LANDSCAPE_1200/2296782769.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/zelenskyy-at-un-urges-leaders-to-keep-choking-russias-revenues-and-impede-its-war-efforts/article71501448.ece",
+    "time": "2026-09-23T18:52:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Udta Teer' trailer: Ayushmann plays Pakistani spy in espionage satire",
+    "desc": "The trailer for 'Udta Teer' featuring Ayushmann Khurrana and Sara Ali Khan has been released recently. The film is set to release in theatres nationwide on October 9, 2026. The story revolves around a Pakistani agent who loses his memory and believes he is part of India's Counter-Terrorism Squad. Directed by Akash A Kaushik, the film mixes action and comedy with themes of mistaken identity.",
+    "img": "https://static.toiimg.com/photo/msid-134444761,imgsize-444294.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/udta-teer-trailer-ayushmann-khurrana-and-sara-ali-khan-reunite-for-espionage-satire-he-plays-an-amnesiac-pakistani-spy/articleshow/134444675.cms",
+    "time": "2026-09-23T18:46:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "former CEC Quraishi",
+    "desc": "Delimitation and SIR are intertwined and tailored to favour BJP, say Opposition leaders at The Hindu event; government has not yet prorogued the Monsoon Session as it plans to bring the Bills around October 11, says Jairam Ramesh",
+    "img": "https://th-i.thgim.com/public/incoming/q0lguw/article71501306.ece/alternates/LANDSCAPE_1200/06_Book_Launch_The_Delimitation_Debate_The_Union_and_its_Units_23_09_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sir-is-illegal-and-needs-to-be-reversed-former-cec-quraishi/article71501241.ece",
+    "time": "2026-09-23T18:43:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Elisa Donovan says she ‘wasn’t surprised’ by Brittany Murphy’s death",
+    "desc": "Clueless star Elisa Donovan has recalled her concerns about former co-star Brittany Murphy before her 2009 death. Speaking on the Still Here Hollywood podcast, Donovan said she “wasn’t surprised” by the news and remembered Murphy appearing physically unwell. Donovan said she suspected Murphy was dealing with an eating disorder and drug problems, while acknowledging they were not close friends.",
+    "img": "https://static.toiimg.com/photo/msid-134444387,imgsize-89719.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/clueless-star-elisa-donovan-says-she-wasnt-surprised-by-brittany-murphys-death-she-was-not-healthy-suspected-eating-disorder-drug-problems/articleshow/134444362.cms",
+    "time": "2026-09-23T18:24:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mujhe Salman Khan se mila de': 'Dhurandhar' singer opens up on his mother's wish",
+    "desc": "Khan Saab opened up about his emotional journey in Bollywood and how he missed his late parents. The singer recalled his mother's dreams and her wish to meet Salman Khan. He often visited his mother's grave to share his achievements, which brought both happiness and sadness. Khan Saab also remembered wanting to take his mother on a flight and buy his father a car.",
+    "img": "https://static.toiimg.com/photo/msid-134444317,imgsize-436383.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mujhe-salman-khan-se-mila-de-dhurandhar-singer-khan-saab-opens-up-on-his-mothers-wish-to-meet-the-superstar/articleshow/134444278.cms",
+    "time": "2026-09-23T18:18:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump weighs 90-day diesel export ban as US fuel prices hit record high: Report",
+    "desc": "The Trump administration is contemplating a 90-day ban on US diesel exports to combat rising energy prices. This initiative comes as diesel prices have surged significantly amid international conflicts and supply disruptions. While some officials oppose the ban, others argue it could create long-term economic consequences. The discussions have intensified due to pressure from Republican lawmakers ahead of the midterm elections.",
+    "img": "https://static.toiimg.com/photo/msid-134443754,imgsize-36518.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/trump-weighs-90-day-diesel-export-ban-as-us-fuel-prices-hit-record-high-report/articleshow/134443699.cms",
+    "time": "2026-09-23T17:52:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Officiating Jathedar of Akal Takht writes to Pakistan Punjab CM for protection of Sikh heritage sites in Lahore",
+    "desc": "Giani Kuldip Singh Gargajj wrote to Pakistan's Punjab Chief Minister regarding the protection of Sikh historical sites. He specifically mentioned the importance of Lal Khooh and Kattari Chandu in Lahore's Walled City. Gargajj requested an inquiry into the current status of these heritage sites. He suggested involving experts from various departments to assess the historical significance of these locations.",
+    "img": "https://static.toiimg.com/photo/msid-134443716,imgsize-49738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/officiating-jathedar-of-akal-takht-writes-to-pakistan-punjab-cm-for-protection-of-sikh-heritage-sites-in-lahore/articleshow/134443676.cms",
+    "time": "2026-09-23T17:50:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP leader asks Karnataka to learn from Tamil Nadu on protecting interests of farmers",
+    "desc": "Accusing the Karnataka government and Chief Minister D.K. Shivakumar of failing to protect the interests of the State with respect to the Cauvery, Deputy Leader of the Opposition Arvind Bellad remarked that the State should learn from Tamil Nadu on protecting its share of water as well as its farmers during distress",
+    "img": "https://th-i.thgim.com/public/incoming/229svi/article71501385.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-23%20at%2012.56.34.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/bjp-leader-asks-karnataka-to-learn-from-tamil-nadu-on-protecting-interests-of-farmers/article71500732.ece",
+    "time": "2026-09-23T17:45:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kudumbashree’s Janakeeya hotels shrink in Kozhikode as subsidies dry up",
+    "desc": "Introduced under the State government’s Hunger-free Keralam initiative in 2020 to provide a traditional meal at ₹20, Janakeeya hotels in Kozhikode have declined from 102 to 72, with six outlets shutting down during the current financial year",
+    "img": "https://th-i.thgim.com/public/incoming/4p2545/article71500439.ece/alternates/LANDSCAPE_1200/Quarter-centuryGUHF2IS1D.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kudumbashrees-janakeeya-hotels-shrink-in-kozhikode-as-subsidies-dry-up/article71499569.ece",
+    "time": "2026-09-23T17:37:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "One Indian killed in attack on ship off Oman; Centre condemns attack",
+    "desc": "Union Minister Sarbananda Sonowal said that Suraj Yadav from Uttar Pradesh succumbed to head injuries after the attack on the vessel MV Cape Dao; Mr. Sonowal also said there were 20 Indian seafarers on board, and all 19 surviving crew members have been safely evacuated by the Royal Navy of Oman",
+    "img": "https://th-i.thgim.com/public/news/national/ie6m1t/article71501344.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-23%20at%2022.52.22.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/indian-national-killed-mv-cape-dao-attack-indian-embassy-oman/article71501151.ece",
+    "time": "2026-09-23T17:26:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "One fight separates Roshibina Devi from wushu gold medal",
+    "desc": "The 25-year-old stormed into the women’s 60kg sanda final on Wednesday, defeating Indonesia’s Thania Kusumaningtyas 2-0 at the Aichi Prefectural Martial Arts Hall. Roshibina will face China’s Zhang Xiaoyu in the final on Thursday, with history within touching distance.",
+    "img": "https://static.toiimg.com/photo/msid-134443233,imgsize-124401.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-one-fight-separates-roshibina-devi-from-wushu-gold/articleshow/134443155.cms",
+    "time": "2026-09-23T17:20:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Badrinath Dham sees record 17.79 lakh pilgrims so far this year",
+    "desc": "Badrinath Dham has experienced a significant increase in pilgrimage, recording over 1.77 million visitors as of September 22. This surpasses the previous annual footfall record set in 2023. Visitor numbers have rebounded following declines due to the 2014 disaster and the Covid-19 pandemic. The government is enhancing facilities and safety measures to accommodate the growing number of devotees.",
+    "img": "https://static.toiimg.com/photo/msid-134443136,imgsize-382562.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/badrinath-dham-sees-record-17-79-lakh-pilgrims-so-far-this-year/articleshow/134443001.cms",
+    "time": "2026-09-23T17:09:14.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump's Board of Peace proposes $2.45 billion blueprint to begin Gaza reconstruction",
+    "desc": "At a meeting of the group’s board in New York on the sidelines of the UN General Assembly, the governors unveiled a 66-project blueprint to get things started while acknowledging enormous hurdles that must still be overcome",
+    "img": "https://th-i.thgim.com/public/incoming/6t8l91/article71501287.ece/alternates/LANDSCAPE_1200/2026-09-23T160224Z_97190875_RC2YONACXCH3_RTRMADP_3_USA-TRUMP-BOARD-OF-PEACE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trumps-board-of-peace-proposes-245-billion-blueprint-to-begin-gaza-reconstruction/article71501269.ece",
+    "time": "2026-09-23T16:59:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aadar makes marriage to Alekha legal, a year after wedding",
+    "desc": "On Ganesh Chaturthi, Aadar Jain and Alekha Advani made their love official by registering their marriage. Their splendid wedding celebration took place earlier in February 2025. Photos from their registration day captured the couple alongside their family in the courtroom. Their journey started with a picturesque beach proposal in September 2023, and the news was met with a flurry of warm wishes from friends and celebrity admirers.",
+    "img": "https://static.toiimg.com/photo/msid-134442687,imgsize-779319.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoors-cousin-aadar-jain-makes-marriage-to-alekha-advani-legal-over-a-year-after-wedding-trial-period-over/articleshow/134442629.cms",
+    "time": "2026-09-23T16:42:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "1 Indian killed, 19 rescued after MV Cape Dao attacked off Oman; MEA calls for end to shipping attacks",
+    "desc": "In a tragic incident off the coast of Oman, the MV Cape Dao was attacked while en route to India, resulting in the death of one Indian seafarer. Nineteen others were successfully rescued, and the Indian Ministry of External Affairs expressed its condolences. The embassy in Oman is actively coordinating the repatriation of the crew, reiterating India's commitment to ensuring safe navigation in international waters.",
+    "img": "https://static.toiimg.com/photo/msid-134442550,imgsize-106314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/1-indian-killed-19-rescued-after-mv-cape-dao-attacked-off-oman-mea-calls-for-end-to-shipping-attacks/articleshow/134442340.cms",
+    "time": "2026-09-23T16:30:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iranian advisers helped Houthis seize Yemen's Red Sea coast in less than 48 hours: report",
+    "desc": "The key port city of Mokha was abandoned as residents left in the night, allowing the Houthis to roll in unopposed on September 10. Their seizure of strategic islands nearby further enhanced their ability to attack Saudi oil shipments in the Red Sea",
+    "img": "https://th-i.thgim.com/public/incoming/hfe7ds/article71501184.ece/alternates/LANDSCAPE_1200/2026-07-23T181801Z_1910885437_RC2TJMA9472R_RTRMADP_3_YEMEN-SHIPPING-ADEN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iranian-advisers-helped-houthis-seize-yemens-red-sea-coast-in-less-than-48-hours-report/article71501137.ece",
+    "time": "2026-09-23T16:24:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aditya, Yami drop emotional posts as 'Article 370' sweeps 3 national awards",
+    "desc": "Aditya Dhar's impactful film 'Article 370' has garnered three National Film Awards, including Best Feature Film and Best Actress for Yami Gautam. Both the director and Gautam expressed heartfelt thanks for the overwhelming support during the film's creation. This poignant narrative explores the Indian government's controversial 2019 decision to revoke Jammu and Kashmir's special status and was released on February 23, 2024, directed by Aditya Suhas Jambhale.",
+    "img": "https://static.toiimg.com/photo/msid-134442424,imgsize-617236.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditya-dhars-article-370-sweeps-3-national-awards-director-calls-the-win-deeply-special-yami-gautam-credits-him-and-their-son-vedavid/articleshow/134442381.cms",
+    "time": "2026-09-23T16:21:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition calls for CEC Gyanesh Kumar’s removal after report on Election Commissioners’ dissent",
+    "desc": "Both ECs recorded formal objections regarding centralisation of poll roll database, “illegal” changes in Form 6, removal of voters in West Bengal, Goa; terming the CEC the “chief architect of vote chori”, Congress calls for SC-monitored probe",
+    "img": "https://th-i.thgim.com/public/incoming/pw1nmv/article71498570.ece/alternates/LANDSCAPE_1200/ELECTION%20COMMISSION%20PC%20DELHI%202025_17_08_26.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/election-commission-dissent-sparks-opposition-call-for-cec-gyanesh-kumars-removal/article71498434.ece",
+    "time": "2026-09-23T16:20:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dolly Parton secretly travelled to Germany for experimental cancer treatment",
+    "desc": "Dolly Parton reportedly travelled secretly to Frankfurt, Germany, on a private jet for an experimental cancer treatment before her death at 80. Sources said the country music icon remained in Germany for about a week before returning home and believed the treatment had restored her strength. The exact type of cancer and nature of the experimental procedure remain undisclosed.",
+    "img": "https://static.toiimg.com/photo/msid-134442307,imgsize-95053.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-parton-secretly-travelled-to-germany-for-experimental-cancer-treatment-before-her-death-at-80-flew-to-frankfurt-on-private-jet-and-stayed-for-a-week-report/articleshow/134442243.cms",
+    "time": "2026-09-23T16:15:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India's proposal under consideration for safe Black Sea shipping, Zelenskyy says",
+    "desc": "India, Egypt, and Turkey are exploring maritime truce options for safe navigation in the Black Sea. Ukrainian President Volodymyr Zelenskyy indicated readiness to support a truce if Russia responds positively. India's External Affairs Minister S Jaishankar is actively engaging with both Ukraine and Russia to mediate the conflict. Disruptions in shipping have impacted grain supplies globally, raising concerns among multiple countries.",
+    "img": "https://static.toiimg.com/photo/msid-134442336,imgsize-75480.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indias-proposal-under-consideration-for-safe-black-sea-shipping-zelenskyy-says/articleshow/134442211.cms",
+    "time": "2026-09-23T16:15:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Indian plantation sector urged to become global suppliers",
+    "desc": "In a developed India, plantation sector should have higher value per hectare, better technology adoption, increased exports, higher income for growers, and higher productivity; its focus should move from commodities to value-added products, says Amit Kumar, Joint Secretary of the Ministry of Commerce and Industry",
+    "img": "https://th-i.thgim.com/public/incoming/ugp7qc/article71501154.ece/alternates/LANDSCAPE_1200/10214_23_9_2026_18_40_16_2__SAT6776.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/indian-plantation-sector-urged-to-become-global-suppliers/article71501081.ece",
+    "time": "2026-09-23T16:13:11.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran President tells UN in rare wartime address",
+    "desc": "President Masoud Pezeshkian held up photos of the late Supreme Leader Ali Khamenei and the more than 150 school children killed on the first days of the war; The ‌United States delegation walked out ‌at ⁠the start of the speech",
+    "img": "https://th-i.thgim.com/public/incoming/qfly7x/article71500649.ece/alternates/LANDSCAPE_1200/AP09_23_2026_000383A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-president-masoud-pezeshkian-un-general-assembly-wartime-speech-us-israel/article71500620.ece",
+    "time": "2026-09-23T15:58:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK's net worth FALLS by Rs 2,490 cr, yet he remains India's RICHEST actor",
+    "desc": "Shah Rukh Khan's wealth has seen a reduction to Rs 10,000 crore, marking a noteworthy decline since last year. Despite this, he maintains his status as India's richest actor, with stalwarts Amitabh Bachchan and Salman Khan trailing behind. As he gears up for his next film, 'King', set for release on December 24, 2026, the project boasts a star-studded cast, including his daughter, Suhana Khan.",
+    "img": "https://static.toiimg.com/photo/msid-134441913,imgsize-667465.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-estimated-net-worth-takes-a-rs-2490-crore-hit-in-one-year-but-king-star-remains-indias-richest-actor-while-amitabh-bachchan-salman-khan-and-hrithik-roshan-follow-report/articleshow/134441783.cms",
+    "time": "2026-09-23T15:50:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -36,24 +261,6 @@ const newsData_en = [
     "time": "2026-09-23T15:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Andhra Pradesh Cabinet clears four new Police Commissionerates",
-    "desc": "They will be headquartered in Rajamahendravaram, Guntur, Tirupati and Kurnool; it also gives the green signal for several power sector proposals, revised administrative sanctions totalling ₹463.55 crore for works under HNSS project, and SMI Policy that aims to identify, verify and empanel credible influencers to disseminate information on government schemes",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-four-new-police-commissionerates/article71500068.ece",
-    "time": "2026-09-23T15:26:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Man murdered inside J.P. Nagar shop",
-    "desc": "On September 22, between 7.20 p.m. and 7.45 p.m., when Raju was alone at the shop on the first floor, Hari allegedly went and started arguing with him. He allegedly assaulted Raju, leaving him critically injured.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-man-murdered-inside-jp-nagar-shop/article71499897.ece",
-    "time": "2026-09-23T15:23:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Hanuman Ansh' director didn't take fees before release, will now get Rs 50 crore",
     "desc": "'Hanuman Ansh' has been a significant success, projected to earn substantial profits for its creators. Anupriya Nagar, the producer, initially invested Rs 50 lakh into the film's modest budget. The film generated Rs 366.45 crore in its first 47 days of release, with profit-sharing planned among the producers and director. Future earnings from OTT, satellite, and music rights are still pending confirmation, adding more to the overall returns.",
@@ -63,31 +270,13 @@ const newsData_en = [
     "time": "2026-09-23T15:23:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Indi Congress MLA’s resignation over drought status embarrasses government",
-    "desc": "The Speaker told the House that he had rejected Mr Patil’s resignation, as it did not comply with the rules; Describing Patil’s resignation as an emotional response, Shivakumar said the Indi MLA had been pacified",
-    "img": "https://th-i.thgim.com/public/incoming/3okrnl/article71500094.ece/alternates/LANDSCAPE_1200/0a0570d4-8dcb-4319-9dea-2597fa950cf0.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-special-session-indi-congress-mlas-resignation-over-drought-status-embarrasses-government/article71499567.ece",
-    "time": "2026-09-23T15:22:19.000Z"
-  },
-  {
-    "cat": "Politics",
+    "cat": "World",
     "title": "Soorya Krishnamoorthy, who dedicated his life to promote arts, passes away in Keralam",
     "desc": "The Soorya Stage and Film Society founded by him has been bringing the best of musicians, dancers and films to Thiruvananthapuram in Keralam every year without fail as part of the Soorya Music, Dance and Film Festival",
     "img": "https://th-i.thgim.com/public/incoming/rh5nwm/article67325579.ece/alternates/LANDSCAPE_1200/SOORYA_KRISHNAMOORTHY_4.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/soorya-krishnamoorthy-who-dedicated-his-life-to-promote-arts-passes-away-in-keralam/article71500633.ece",
     "time": "2026-09-23T15:15:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "After years in limbo, Kottayam skywalk gets a push",
-    "desc": "Originally announced by the UDF government in 2015, the project lost momentum after the LDF assumed office the following year. Since then, repeated attempts to revive it have failed, turning the unfinished structure into a recurring flashpoint between the two political fronts",
-    "img": "https://th-i.thgim.com/public/incoming/a8ekjb/article71500724.ece/alternates/LANDSCAPE_1200/80687_30_11_2024_19_24_44_2_HI15.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/after-years-in-limbo-kottayam-skywalk-gets-a-push/article71500045.ece",
-    "time": "2026-09-23T15:10:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -106,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/gondhal-director-santosh-davakhar-responds-to-anurag-kashyaps-oscar-selection-remark-please-watch-before-passing-a-verdict/articleshow/134441050.cms",
     "time": "2026-09-23T15:06:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Tehran will not surrender in war with U.S., but believes in diplomacy: Iran President tells UN",
-    "desc": "President Masoud Pezeshkian held up photos of the late Supreme Leader Ali Khamenei and the more than 150 school children killed on the first days of the war; The ‌United States delegation walked out ‌at ⁠the start of the speech",
-    "img": "https://th-i.thgim.com/public/incoming/qfly7x/article71500649.ece/alternates/LANDSCAPE_1200/AP09_23_2026_000383A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-president-masoud-pezeshkian-un-general-assembly-wartime-speech-us-israel/article71500620.ece",
-    "time": "2026-09-23T14:54:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -163,24 +343,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Nani’s 'The Paradise' advance booking crosses Rs 40 crore before release",
-    "desc": "Nani's anticipated release, 'The Paradise', is making waves in advance ticket sales, surpassing Rs 40 crore ahead of its September 24 debut. This impressive figure reflects strong interest, especially in Telugu regions. Notably, Hyderabad has emerged as a key player, contributing Rs 7.47 crore to the sales. Directed by Srikanth Odela, the film promises to tackle significant social themes, showcasing Nani in a compelling role.",
-    "img": "https://static.toiimg.com/photo/msid-134440117,imgsize-248285.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nanis-the-paradise-advance-booking-crosses-rs-40-crore-before-release-as-srikanth-odela-directorial-records-strong-demand-despite-a-certificate/articleshow/134440105.cms",
-    "time": "2026-09-23T13:55:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Radhikka says audiences have become less prudish about lust",
-    "desc": "In 'Lust Stories 3', Radhikka Madan takes center stage in a thought-provoking Netflix anthology that delves into intimacy and desire. Reflecting on how audience perceptions of female sexuality have evolved since the series' inception, Madan highlights the crucial role of storytelling in representing women's desires in cinema. Her personal journey of unlearning societal norms surrounding lust illustrates a broader trend; discussions of desire are increasingly becoming normalized in contemporary society.",
-    "img": "https://static.toiimg.com/photo/msid-134440037,imgsize-552809.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lust-stories-3-star-radhikka-madan-says-audiences-have-become-less-prudish-about-lust-praises-karan-johar-for-giving-kiara-advanis-lust-stories-scene-his-full-support-despite-backlash-he-owned-it-and-celebrated-it/articleshow/134439925.cms",
-    "time": "2026-09-23T13:50:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Drishyam 3 director on the film, Ajay Devgn, Dhurandhar, Akshaye Khanna's exit",
     "desc": "Abhishek Pathak is wrapping up the post-production process for the much-anticipated 'Drishyam 3'. He acknowledges the weight of continuing the franchise's legacy and understands the intense pressure to satisfy viewers. Focused on the development of Vijay Salgaonkar's character, he underscores his unwavering determination to protect his family. Additionally, Pathak raises alarms about audience attendance in cinemas versus streaming services, and notes the extensive screenplay revisions made due to casting changes.",
     "img": "https://static.toiimg.com/photo/msid-134439550,imgsize-254944.cms",
@@ -207,24 +369,6 @@ const newsData_en = [
     "time": "2026-09-23T13:22:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nani’s 'The Paradise': Cast, plot, OTT, advance booking",
-    "desc": "'The Paradise' is set in 1980s Secunderabad and follows Jadal, played by Nani, a man from a marginalised community who finds himself at the centre of a larger fight for dignity, identity and recognition. Directed by Srikanth Odela, the action drama also features Raghav Juyal, Mohan Babu, Kayadu Lohar and Sonali Kulkarni in key roles. With Anirudh Ravichander composing the music, the film is mounted as an intense, multilingual theatrical spectacle.",
-    "img": "https://static.toiimg.com/photo/msid-134439312,imgsize-173704.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nanis-the-paradise-cast-plot-fees-advance-booking-box-office-prediction-cbfc-rating-and-ott-details/articleshow/134438844.cms",
-    "time": "2026-09-23T13:18:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "After Salman’s apparent support for Kat, Sameera drops body positivity note",
-    "desc": "Sameera Reddy recently took to social media to promote a powerful message of body positivity, sharing a touching video that highlights various body types and embraces body diversity. This initiative aligns with Salman Khan's stance against the trolling of celebrities regarding their appearances and personal lives. Amidst this dialogue, Katrina Kaif has faced scrutiny after becoming a mother, igniting a broader conversation about societal standards.",
-    "img": "https://static.toiimg.com/photo/msid-134438921,imgsize-387006.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-salman-khans-apparent-support-for-katrina-kaif-sameera-reddy-shares-emotional-body-positivity-note-whether-you-are-a-new-mama-your-body-needs-you-to-love-it-back/articleshow/134438758.cms",
-    "time": "2026-09-23T13:06:09.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "EC 'dissent' row: Opposition seeks CEC's arrest, fresh polls in states; BJP lauds 'pure democracy'",
     "desc": "Opposition parties in India are demanding action against Chief Election Commissioner Gyanesh Kumar amid allegations of electoral fraud. Reports indicate that Election Commissioners have raised objections about the Special Intensive Revision of electoral rolls. Leaders from various parties are calling for Kumar's resignation and fresh elections in states where elections took place. The BJP defended the Election Commission, emphasizing internal disagreements indicate a democratic process.",
@@ -232,24 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ec-dissent-row-opposition-seeks-cecs-arrest-fresh-polls-in-states-bjp-lauds-pure-democracy-top-developments/articleshow/134437472.cms",
     "time": "2026-09-23T12:56:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Diane Keaton",
-    "desc": "In a reflective 1987 interview with Vanity Fair, Diane Keaton expressed her insights on the nature of happiness. She highlighted the ephemeral nature of joyful moments, suggesting they can't be clutched tightly, yet their memories can bring solace in the future. Keaton pointed out that while our happiness may ebb and flow, it inevitably reemerges in diverse aspects of life.",
-    "img": "https://static.toiimg.com/photo/msid-134438378,imgsize-95888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-diane-keaton-you-cant-hold-on-to-happiness-or-a-good-moment-but-it-will-be-back-and-the-memory-will-stay-a-powerful-life-lesson-that-highlights-the-importance-of-embracing-every-moment/articleshow/134438220.cms",
-    "time": "2026-09-23T12:49:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ram Charan celebrates Chiranjeevi’s 48 years in the Telugu film industry",
-    "desc": "Chiranjeevi recently completed 48 years in the Telugu film industry, marking a significant milestone in his career. His son, Ram Charan, shared an emotional message celebrating his father's achievements and their family's transformation. Chiranjeevi expressed gratitude to his fans for their unwavering support throughout his journey and acknowledged the contributions of his colleagues in the industry.",
-    "img": "https://static.toiimg.com/photo/msid-134437997,imgsize-182058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ram-charan-celebrates-chiranjeevis-48-years-in-the-telugu-film-industry-with-emotional-note-that-day-changed-everything-for-you-and-our-family/articleshow/134437595.cms",
-    "time": "2026-09-23T12:38:04.000Z"
   },
   {
     "cat": "Sports",
@@ -261,15 +387,6 @@ const newsData_en = [
     "time": "2026-09-23T12:34:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mukesh Chhabra named in COMPLAINT over vulgar comment on IGL",
-    "desc": "Mukesh Chhabra is facing a formal complaint for allegedly making inappropriate remarks during an episode of Samay Raina's 'India's Got Latent Season 2'. Anurag Shrivastav, the complainant, argues that Chhabra's statement carries social implications that undermine viewer dignity and child safety. Shrivastav also questions Netflix's content approval process and calls for an investigation into Monika Shergill's role, especially following earlier criticisms from Ranveer Allahbadia in the prior season.",
-    "img": "https://static.toiimg.com/photo/msid-134437484,imgsize-277785.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-rainas-indias-got-latent-2-faces-fresh-controversy-as-complaint-targets-mukesh-chhabra-and-ott-platform-over-alleged-inappropriate-language/articleshow/134437260.cms",
-    "time": "2026-09-23T12:27:26.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Bihar, Maharashtra, Delhi, Haryana &amp; West Bengal': Oppn seeks fresh polls after EC 'dissent' report",
     "desc": "Tejashwi Yadav has accused the Election Commission of being under BJP's influence to achieve electoral victories across various states. He also expressed his worries regarding the modifications to the voting records' retention period. Additionally, DMK chief MK Stalin has joined the call for the ousting of Chief Election Commissioner Gyanesh Kumar, citing election discrepancies, while former West Bengal Chief Minister Mamata Banerjee condemned the Commission’s management of voting lists.",
@@ -277,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bihar-maharashtra-delhi-haryana-west-bengal-oppn-seeks-fresh-polls-after-ec-dissent-report/articleshow/134436699.cms",
     "time": "2026-09-23T12:14:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Vvaan: Force of Forrest' gets CBFC clearance with zero cuts",
-    "desc": "Force of the Forrest' has received a U/A 16+ certificate. The film was cleared by the Central Board of Film Certification with no cuts or modifications. It is a folk fantasy thriller set in a mysterious forest and explores themes of violence and romance. The movie's official runtime is confirmed at 2 hours, 16 minutes, and 25 seconds.",
-    "img": "https://static.toiimg.com/photo/msid-134436461,imgsize-739734.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-vvaan-force-of-the-forrest-gets-cbfc-clearance-with-zero-cuts-sidharth-malhotra-and-tamannaah-bhatia-film-receives-u/a-16-certificate/articleshow/134436265.cms",
-    "time": "2026-09-23T12:05:57.000Z"
   },
   {
     "cat": "Business",
@@ -297,13 +405,13 @@ const newsData_en = [
     "time": "2026-09-23T12:05:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Utter disregard of human rights': Kashmiri activist slams Pak at UNHRC over PoK protest crackdown",
-    "desc": "At the UN Human Rights Council, Tasleema Akhtar, a dedicated Kashmiri activist, called attention to the pressing human rights issues in Pakistan-occupied Jammu and Kashmir. She outlined the severe lack of basic infrastructure and essential services for PoK residents in contrast to those in the Jammu and Kashmir Union Territory.",
-    "img": "https://static.toiimg.com/photo/msid-134434489,imgsize-109462.cms",
+    "cat": "Entertainment",
+    "title": "Radhika opens up about trauma of her leaked intimate scene",
+    "desc": "Radhika Apte opened up about the profound effects that a leaked intimate scene had on her life. Following the incident, she experienced significant fear, leading her to stay indoors for four days. This breach not only impacted her personal safety but also strained her relationships with friends and family. After consulting with her driver and staff for reassurance, she continues to pursue her career, recently appearing in 'Lust Stories 3'.",
+    "img": "https://static.toiimg.com/photo/msid-134435147,imgsize-337096.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/utter-disregard-of-human-rights-kashmiri-activist-slams-pak-at-unhrc-over-pok-protest-crackdown/articleshow/134433606.cms",
-    "time": "2026-09-23T11:20:05.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-literally-couldnt-step-out-of-the-house-for-four-days-lust-stories-3-star-radhika-apte-opens-up-about-trauma-of-leaked-intimate-scene-as-people-around-her-began-seeing-discussing-the-clip-recalls-asking-staff-to-protect-her/articleshow/134434640.cms",
+    "time": "2026-09-23T11:36:57.000Z"
   },
   {
     "cat": "World",
@@ -313,15 +421,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/this-years-el-nino-driven-heat-could-cause-nearly-half-a-million-more-deaths-group-says/article71498323.ece",
     "time": "2026-09-23T11:17:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Deliberations sign of pure democracy': BJP reacts to EC 'SIR split' row, targets Congress",
-    "desc": "BJP MP Sambit Patra defended the Election Commission's internal discussions as a sign of democracy. He accused opposition parties, particularly Congress, of undermining constitutional institutions due to electoral defeats. Patra highlighted that criticism of the Election Commission indicates a broader campaign against democratic bodies. He emphasized that the opposition's attacks are inappropriate and calls into question their respect for established institutions.",
-    "img": "https://static.toiimg.com/photo/msid-134432947,imgsize-40238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/deliberations-sign-of-pure-democracy-bjp-reacts-to-ec-sir-split-row-targets-congress/articleshow/134432747.cms",
-    "time": "2026-09-23T10:46:36.000Z"
   },
   {
     "cat": "Business",
@@ -351,15 +450,6 @@ const newsData_en = [
     "time": "2026-09-23T09:55:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "EC on 'SIR split' row: Poll Panel says 'queries' raised by commissioners 'part of standard practice'",
-    "desc": "The Election Commission responded robustly to concerns expressed by electoral commissioners about the electoral process and the centralization of the database. It clarified that addressing operational inquiries is a routine part of administrative processes aimed at bolstering voter rights. The Commission underlined several recent reforms it has enacted across various states, reiterating its dedication to statutory compliance and the cybersecurity measures that protect electoral data.",
-    "img": "https://static.toiimg.com/photo/msid-134431301,imgsize-105158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ec-on-sir-split-row-poll-panel-says-queries-raised-by-commissioners-part-of-standard-practice/articleshow/134431151.cms",
-    "time": "2026-09-23T09:48:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kerala actor Savithri Sreedharan dies at 78",
     "desc": "Her portrayal of Jameela, the mother of the titular character in Sudani from Nigeria, won her critical acclaim. She received Kerala State Film Award for Best Character Actress and a Special Jury Mention at 66th National Film Awards for her performance in the film",
@@ -369,15 +459,6 @@ const newsData_en = [
     "time": "2026-09-23T09:44:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Setty",
-    "desc": "India stands on the brink of a financial revolution aimed at enhancing high-value manufacturing and cutting-edge technology. The SBI chairman highlighted the importance of banking support to boost competitiveness in new industries. Key areas like renewables, semiconductors, and biotechnology hold the key to India's economic future. Recent advancements in digital infrastructure exemplify how technology fosters innovative global solutions.",
-    "img": "https://static.toiimg.com/photo/msid-134430880,imgsize-62434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/banks-role-must-shift-from-supporting-economy-to-financing-transformation-setty/articleshow/134430754.cms",
-    "time": "2026-09-23T09:27:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'We last won it in 2011': Rinku wants Virat, Rohit to win 2027 ODI World Cup",
     "desc": "Rinku Singh wants Virat Kohli and Rohit Sharma to be part of India's 2027 ODI World Cup campaign and believes their presence would be special for the team and the country. Rinku has played two ODIs and 48 T20Is so far. He was also part of India's victorious 2026 T20 World Cup campaign on home soil earlier this year.",
@@ -385,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-last-won-it-in-2011-rinku-singh-wants-virat-kohli-rohit-sharma-to-win-2027-odi-world-cup-for-india/articleshow/134430595.cms",
     "time": "2026-09-23T09:26:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Can’t isolate her': SC backs Noida DM’s plea over Rs 5 lakh penalty in student NSA case",
-    "desc": "The Supreme Court is evaluating district magistrate Medha Roopam's appeal concerning the detention of Akriti Chaudhary, who was held under the National Security Act in relation to a protest in Noida. The court emphasizes Roopam's involvement in the larger decision-making context. Previously, the Allahabad high court dismissed the detention as based on false information and mandated that Rs 5 lakh be deducted from Roopam's salary as compensation.",
-    "img": "https://static.toiimg.com/photo/msid-134429673,imgsize-101656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cant-isolate-her-sc-backs-noida-dms-plea-over-rs-5-lakh-penalty-in-student-nsa-case/articleshow/134429655.cms",
-    "time": "2026-09-23T09:00:31.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +486,6 @@ const newsData_en = [
     "time": "2026-09-23T08:55:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Differing views normal part of deliberation': EC responds after report flags rift over SIR",
-    "desc": "The Election Commission of India addressed concerns regarding differing opinions among its members during the Special Intensive Revision process. It emphasised that such differences are normal in decision-making and all final decisions are taken unanimously. The Commission criticised media reports highlighting isolated internal notes while neglecting overall approvals and initiatives. Opposition leaders have intensified their criticism, alleging that the revision targets specific elector groups favorable to the BJP.",
-    "img": "https://static.toiimg.com/photo/msid-134430011,imgsize-108866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/differing-views-normal-part-of-deliberation-ec-responds-after-report-flags-rift-over-sir/articleshow/134429923.cms",
-    "time": "2026-09-23T08:43:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Deepika's nine-goal show powers India to 20-1 win over Thailand",
     "desc": "Deepika was the star of the match, scoring nine times in a remarkable individual performance. All nine goals came from penalty corners, with Deepika repeatedly finding a way past the Thailand defence as India dominated the contest. Navneet Kaur added four goals, while Rutuja Pisal completed her hat-trick.",
@@ -433,7 +496,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Hanuman Ansh' BO Day 48 [LIVE]: Neem Kaorli Baba biopic crosses Rs 283 crore domestic net milestone",
+    "title": "'Hanuman Ansh' narrowly misses Rs 285 crore domestic net mark on Day 48 by Rs 7 lakhs",
     "desc": "Vishal Chaturvedi's spiritual biopic 'Hanuman Ansh', starring Shobhinaw Satyaa as Neem Karoli Baba, continues its remarkable box-office trajectory on Day 48. After a modest start, the film experienced a sharp week-on-week surge, pushing its India net collection past Rs 281 crore and global gross to Rs 366.45 crore. Supported by strong word-of-mouth and high-profile celebrity endorsements, the extended theatrical run is now setting its sights on the Rs 285 crore domestic net milestone.",
     "img": "https://static.toiimg.com/photo/msid-134429409,imgsize-82558.cms",
     "src": "indiatimes.com",
@@ -453,7 +516,7 @@ const newsData_en = [
     "cat": "Sports",
     "title": "After 28 years, Mirabai finally puts India back on Asian Games podium",
     "desc": "With India's hopes resting on her shoulders, the Tokyo Olympic silver medallist Mirabai Chanu lifted 198kg to win silver in the women's 49kg event at the Asian Games 2026 in Aichi-Nagoya. It was India's first Asian Games weightlifting medal since Karnam Malleswari won silver at the 1998 Bangkok Games.",
-    "img": "https://static.toiimg.com/photo/msid-134429180,imgsize-41485.cms",
+    "img": "https://static.toiimg.com/photo/msid-134443601,imgsize-132751.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/after-28-years-mirabai-chanu-finally-puts-india-back-on-asian-games-weightlifting-podium/articleshow/134428940.cms",
     "time": "2026-09-23T07:54:59.000Z"
@@ -612,15 +675,6 @@ const newsData_en = [
     "time": "2026-09-23T04:03:31.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Manu Bhaker finishes fifth in 10m air pistol final, misses Asian Games medal",
-    "desc": "Manu Bhaker finished fifth in the women’s 10m air pistol final at the Aichi-Nagoya Asian Games, missing out on a medal after qualifying third with 579-20x. The Indian began the final strongly but was eliminated after the fourth stage with a score of 181.1.",
-    "img": "https://static.toiimg.com/photo/msid-134425700,imgsize-112986.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/manu-bhaker-finishes-fifth-in-10m-air-pistol-final-misses-asian-games-medal/articleshow/134425379.cms",
-    "time": "2026-09-23T04:02:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump praises new British PM Andy Burnham but slams U.K. deal on Indian Ocean islands",
     "desc": "Despite U.K. nerves about how new PM Andy Burnham’s meeting with the U.S. President would go, as they sat in front of U.K. and U.S. flags, Mr. Trump declared that trans-Atlantic relations were “more up than they were with your last Prime Minister”",
@@ -628,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-praises-new-british-pm-andy-burnham-but-slams-uk-deal-on-indian-ocean-islands/article71498109.ece",
     "time": "2026-09-23T03:34:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India win bronze in women’s skeet team event at Asian Games",
-    "desc": "At the Aichi-Nagoya Asian Games, India's women's skeet team clinched a bronze medal, showcasing their exceptional talent. With Raiza Dhillon and Parinaaz Dhaliwal both scoring 111 points, along with Maheshwari Chauhan's 109, they totaled 331 points. While China took gold with 346 points and Kazakhstan secured silver, this victory highlights a pivotal moment for Indian shooting sports on an international stage.",
-    "img": "https://static.toiimg.com/photo/msid-134424920,imgsize-82696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/india-win-bronze-in-womens-skeet-team-event-at-asian-games/articleshow/134424864.cms",
-    "time": "2026-09-23T03:20:48.000Z"
   },
   {
     "cat": "Business",
@@ -765,15 +810,6 @@ const newsData_en = [
     "time": "2026-09-22T11:59:18.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Heavy LHB bogie corrosion worries Railways; toilet leaks, saline air blamed",
-    "desc": "Recently senior railway engineers have raised concerns over heavy corrosion in the bogies of LHB passenger coaches, despite the use of materials that are designed to resist corrosion and efforts to strengthen cleaning and maintenance practices.",
-    "img": "https://static.toiimg.com/photo/msid-134406811,imgsize-532475.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/heavy-corrosion-in-lhb-train-coach-bogies-despite-improved-materials-worries-railway-engineers-toilet-leaks-cleaning-chemicals-and-saline-air-blamed-railway-board-orders-special-safety-checks/articleshow/134406709.cms",
-    "time": "2026-09-22T10:29:55.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. television networks halt Trump coverage in revolt over White House ban",
     "desc": "The move means there will be no television coverage of Mr. Trump's trip on Monday, September 21, to the United Nations General Assembly in New York, where he was due to meet a series of foreign leaders.",
@@ -799,24 +835,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/rudrankksh-indian-shootings-chosen-one/article71492995.ece",
     "time": "2026-09-22T03:00:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "CNN, MS NOW, Politico to sue Trump administration over White House access",
-    "desc": "\"This morning, we notified the government that we are filing a lawsuit today to protect our First Amendment rights and defend the principle that the government does not decide what the press reports or publishes,\" says the statement",
-    "img": "https://th-i.thgim.com/public/incoming/6lel8k/article71491291.ece/alternates/LANDSCAPE_1200/2026-09-20T213341Z_1166113885_RC2RXGAW6383_RTRMADP_3_UN-ASSEMBLY-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/cnn-ms-now-politico-to-sue-trump-administration-over-white-house-access/article71491230.ece",
-    "time": "2026-09-22T01:33:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. refuses visas for Iran UN delegation members: state media",
-    "desc": "\"In an unprecedented hostile move by the U.S. government, U.S. President Donald Trump has denied U.S. visas to certain members of the president's high-level delegation, including members of his communications team,\" says state news agency IRNA",
-    "img": "https://th-i.thgim.com/public/incoming/emced/article71492978.ece/alternates/LANDSCAPE_1200/2026-09-21T171724Z_991394771_RC2RNNA5V79D_RTRMADP_3_UN-ASSEMBLY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-refuses-visas-for-iran-un-delegation-members-state-media/article71492961.ece",
-    "time": "2026-09-21T17:42:01.000Z"
   },
   {
     "cat": "Business",
@@ -873,15 +891,6 @@ const newsData_en = [
     "time": "2026-09-21T14:18:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Gold is the only medal that counts for shooter Himanshu",
-    "desc": "“I am only happy when I win gold. My father always says gold is the only medal that counts; every silver is a gold lost. That thought has always been with me and that was my target here too,” Himanshu says",
-    "img": "https://th-i.thgim.com/public/incoming/o9ajdp/article71491671.ece/alternates/LANDSCAPE_1200/38_RVM_1901.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/gold-is-the-only-medal-that-counts-for-shooter-himanshu/article71491647.ece",
-    "time": "2026-09-21T13:38:12.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Irish privacy regulator fines Google €403 million over location data processing",
     "desc": "“As ​a result ‌of Google’s failures, individuals could have been unaware that their location was being used to, for ‌example, influence them with ads ​or to infer their interests, and could lose control ⁠over their personal data,” DPC Deputy Commissioner Graham Doyle said",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/irish-privacy-regulator-fines-google-403-million-over-location-data-processing/article71491276.ece",
     "time": "2026-09-21T11:45:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shalini Adnani’s ‘Our Share of Sand’: Inside the Indian sand-mining story heading to Venice",
-    "desc": "Ahead of the world premiere of ‘Our Share of Sand’ at Venice Critics’ Week, the Chilean-Indian filmmaker discusses growing up between two cultures, the human cost of India’s development boom and the moral compromises that come with privilege CAN U ADD SUBHEADS TO THE COPY PL",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/pp1cu7/article71383925.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/shalini-adnanis-our-share-of-sand-inside-the-indian-sand-mining-story-heading-to-venice/article71383898.ece",
-    "time": "2026-09-20T08:07:28.000Z"
   }
 ];
