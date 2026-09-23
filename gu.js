@@ -414,24 +414,6 @@ const newsData_gu = [
     "time": "2026-09-20T02:40:12.000Z"
   },
   {
-    "cat": "Business",
-    "title": "LPG સિલિન્ડરધારકો સાવધાન! 1 ઓક્ટોબરથી બદલાશે નિયમ, જાણો",
-    "desc": "LPG ઓથેંટિકેશન ડિલિવરી સમયે, વિતરકના શોરૂમમાં અથવા OMC મોબાઇલ એપ્લિકેશન પર કરી શકાય છે. સરકાર છેલ્લા કેટલાય સમયથી લોકોને આધાર ઓથેંટિકેશન કરવાનું કહી રહી છે, ત્યારે સરકાર 1 ઓક્ટોબરથી નિયમો બદલી રહી છે, જેની અસર બધા ગ્રાહકો પર પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/lpg-cylinder-holders-take-note-rules-to-change-from-october-1-find-out-the-details-491813 ",
-    "time": "2026-09-19T17:12:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કેતન મર્ડર કેસમાં 5053 પાનાની ચાર્જશીટ, 3 ચશ્મદીદ સહિત કુલ 85 સાક્ષીઓએ ખોલ્યા રહસ્યો!",
-    "desc": "કેતન અગ્રવાલ હત્યા કેસમાં પુણે ગ્રામ્યમાં ચાર્જશીટ દાખલ કરવામાં આવી છે. આ ચાર્જશીટ 5,053 પાના લાંબી છે. એ મહત્વનું જોઈએ કે કેતનની હત્યા તેની મંગેતર સિયા ગોયલ દ્વારા તેના પ્રેમી ચેતન ચૌધરી સાથે મળીને કરવામાં આવી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/5053-page-chargesheet-filed-in-the-ketan-murder-case-a-total-of-85-witnesses-including-3-eyewitnesses-have-revealed-the-details-491812 ",
-    "time": "2026-09-19T16:23:35.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રણવીર સિંહ બન્યા પિતા, દીપિકા પાદુકોણે બીજા બાળકને આપ્યો જન્મ",
     "desc": "દીપિકા પાદુકોણના ઘરે એક નાનકડા મહેમાનનો જન્મ થયો છે. દીપિકા પાદુકોણ અને રણવીર સિંહ બીજી વખત માતા-પિતા બન્યા છે. દીપિકાએ પોતે આ ખુશખબર તેના ચાહકો સાથે શેર કરી. તેમને ઇન્સ્ટાગ્રામ પોસ્ટથી બીજા બાળકની માહિતી આપી છે.",
@@ -448,24 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/a-big-surprise-from-mahindra-new-suv-launched-for-under-rs-10-lakh-find-out-more-491806 ",
     "time": "2026-09-19T14:04:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "&amp;quot;UPI નહીં, ફક્ત કેસ!&amp;quot; MDR ચાર્જનો વિરોધ કરવા માટે દુકાનદારોએ લીધો એક સાહસિક નિર્ણય",
-    "desc": "2,000 રૂપિયાથી વધુના UPI વ્યવહારો પર પ્રસ્તાવિત MDRના વિરોધમાં ગાઝિયાબાદ સ્થિત અનેક દુકાનદારોએ 15 ઓક્ટોબરથી માત્ર રોકડ ચુકવણીની જાહેરાત કરી છે. હાલમાં જ સરકાર દ્વારા ચુકવણી પર ચાર્જ લગાવવામાં આવ્યો છે. જે 15 ઓક્ટોબરથી લાગુ કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/no-upi-cash-only-shopkeepers-take-a-bold-decision-to-protest-against-mdr-charges-491804 ",
-    "time": "2026-09-19T13:20:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "51 પર પહોંચ્યો GMP, 21 સપ્ટેમ્બરે ખુલશે આ IPO, જાણો કંપની વિશે",
-    "desc": "આ IPO ગ્રે માર્કેટમાં સારૂ પ્રદર્શન કરી રહ્યો છે. વર્તમાન GMP 48 ટકાનો લિસ્ટિંગ ગેઇન દર્શાવે છે. આ કંપનીનું નામ રોબોકિડ્ઝ એજ્યુવેન્ચર્સ છે, લિસ્ટિંગ પર રોકાણકારોને સારો ફાયદો થઈ શકે છે. આ IPO BSE પર લિસ્ટ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/robokidz-eduventures-ipo-gmp-reaches-rs-51-this-ipo-opens-on-september-21-know-more-about-the-company-491797 ",
-    "time": "2026-09-19T12:53:07.000Z"
   },
   {
     "cat": "Sports",

@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "রাজনীতিতে ভূমিকম্প: ভেঙে খান খান হল বিরোধী দল, ১২ বিধায়ক সরাসরি বিজেপিতে যোগ দিলেন",
+    "desc": "বুধবার নতুন দিল্লিতে বিজেপির কেন্দ্রীয় কার্যালয়ে এক বিশেষ অনুষ্ঠানের মধ্য দিয়ে এই বিধায়কদের দলে স্বাগত জানানো হয়। কেন্দ্রীয় সংসদ বিষয়ক ও সংখ্যালঘু উন্নয়ন মন্ত্রী কিরেণ রিজিজু, বিজেপির জাতীয় মুখপাত্র এবং উত্তর-পূর্বের দায়িত্বপ্রাপ্ত নেতা সম্বিত পাত্র-সহ অন্যান্য শীর্ষ নেতাদের উপস্থিতিতে এই যোগদান পর্ব সম্পন্ন হয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/big-boost-for-nda-in-northeast-8-udp-mlas-merge-with-bjp-following-assurances-on-regional-demands_672020.html ",
+    "time": "2026-09-23T14:53:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "অতি গভীর নিম্নচাপ কখন আছড়ে পড়বে? সবচেয়ে বেশি ক্ষতিগ্রস্ত হবে কোন রাজ্য? বাংলা ও কলকাতায় কী ঘটবে?",
+    "desc": "সকলেই সাইক্লোন 'অর্ণবে'র খোঁজ নিচ্ছেন। জানতে চাইছেন, এখন ঠিক কোথায় অবস্থান করছে এই ঘূর্ণিঝড়? এর গতিপথ কেমন? কিন্তু, লেটেস্ট আপডেটে জানানো হয়েছে, এটি অতি গভীর নিম্নচাপ, সাইক্লোন নয়। আর 'অর্ণব' বলেও এটিকে ডাকা হচ্ছে না। বঙ্গোপসাগরের পশ্চিম-মধ্য ও সংলগ্ন উত্তর-পশ্চিম এলাকায় অবস্থানরত এই নিম্নচাপটি শক্তিশালী হয়ে অতি গভীর নিম্নচাপে পরিণত হতে চলেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/cyclone-updates-depression-now-around-120-km-from-vizag-landfall-near-kalingapatnam-tonight_672019.html ",
+    "time": "2026-09-23T14:28:48.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "'২০৪৭-এর মধ্যে ভারতকে উন্নত দেশ করাই লক্ষ্য', WION Tourism Summit-এ বললেন গজেন্দ্র সিং শেখাওয়াত",
     "desc": "WION-এর Iconic Tourism Summit-এ কেন্দ্রীয় সংস্কৃতি ও পর্যটনমন্ত্রী গজেন্দ্র সিং শেখাওয়াত ভারতের উন্নয়নযাত্রা নিয়ে বক্তব্য রাখেন। তিনি বৈদিক ‘চরৈবেতি, চরৈবেতি’ মন্ত্রের উল্লেখ করে এগিয়ে চলার কথা বলেন। তাঁর বক্তব্য অনুযায়ী, ভারতের অর্থনৈতিক অগ্রগতি ও পর্যটনের সম্ভাবনা দেশকে ২০৪৭ সালের মধ্যে উন্নত দেশে পরিণত করার লক্ষ্যের সঙ্গে যুক্ত।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -169,15 +187,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/ukraine-russia-1600-drones-moscow-refinery-fire-duma-election_671599.html ",
     "time": "2026-09-21T05:27:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রক্তখেকো বিএমডব্লিউ! সর্বনাশা গতিতে এসে ব্রিজ থেকে ছিটকে সোজা নীচে গিয়ে পড়ল গাড়িটি! দোমড়ানো গাড়ির ভিতরেই...",
-    "desc": "ঘটনার একটি সিসিটিভি ফুটেজ সামনে এসেছে, যেখানে দুর্ঘটনার রোমহর্ষক দৃশ্য ধরা পড়েছে। সিসিটিভি ফুটেজে দেখা যাচ্ছে, ভোর ৫টা ৩ মিনিট নাগাদ গাড়িটি আচমকা ওভারব্রিজ থেকে নীচে পড়ে যায়। আছড়ে পড়ার সঙ্গে সঙ্গেই দুমড়েমুচড়ে যায় গাড়িটি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/bmw-accident-mumbai-coastal-road-accident-speeding-bmw-falls-off-mumbai-coast-road-bridge-3-dead_671534.html ",
-    "time": "2026-09-20T07:30:39.000Z"
   },
   {
     "cat": "World",

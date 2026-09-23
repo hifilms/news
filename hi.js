@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "13-year-old Chinese athlete Yu Zidi wins three gold medals at Asian Games 2026",
+    "desc": "China’s 13-year-old Yu Zidi has set another record and strengthened her status as one of swimming’s most closely watched young talents by winning three gold medals at the Asian Games 2026. On Wednesday, September 23,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/13-year-old-chinese-athlete-yu-zidi-wins-three-gold-medals-at-asian-games-2026-2026-09-23-1055068",
+    "time": "2026-09-23T11:41:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India settles for bronze in men's badminton after Lakshya Sen, Ayush Shetty fail to impress",
+    "desc": "India secured a second consecutive Asian Games medal in men’s team badminton after China ended their title hopes with a 3-1 victory in the semi-final in Aichi, Japan. They had reached the semi-finals by defeating...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-settles-for-bronze-in-men-s-badminton-after-lakshya-sen-ayush-shetty-fail-to-impress-2026-09-23-1055051",
+    "time": "2026-09-23T10:30:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "South Africa announce updated squad for Australia ODIs after Kwena Maphaka ruled out",
     "desc": "South Africa have suffered another blow to their fast-bowling resources with Kwena Maphaka ruled out of the three-match ODI series against Australia. The ace pacer sustained a right hamstring strain and that left the Proteas...",
     "img": "",
@@ -70,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/linda-noskova-marie-bouzkova-win-as-czechia-eliminate-great-britain-in-billie-jean-king-cup-2026-09-22-1054974",
     "time": "2026-09-22T15:44:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What's the wide controversy in India vs Japan T20I match? Was the umpire right to reverse decision?",
-    "desc": "India escaped a late scare against Japan in the rain-shortened one-off T20I in Sano after an umpiring correction in the final over helped preserve a two-run victory and secured a record for the lowest total...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-s-the-wide-controversy-in-india-vs-japan-t20i-match-was-the-umpire-right-to-reverse-decision-2026-09-22-1054962",
-    "time": "2026-09-22T13:09:19.000Z"
   }
 ];
