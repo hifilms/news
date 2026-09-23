@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "‘Charaiveti, Charaiveti’: WION સમિટમાં બોલ્યા ગજેન્દ્ર શેખાવત, ભારત 2047 સુધીમાં એક વિક્સિત રાષ્ટ્ર બનવાના રસ્તે અગ્રેસર",
+    "desc": "કેન્દ્રીય મંત્રી ગજેન્દ્રસિંહ શેખાવતે ભારતની 2047 સુધીમાં વિક્સિત રાષ્ટ્ર બનવાની યાત્રાનું વર્ણન કરવા માટે એક અદભૂત પ્રાચીન મંત્ર 'ચારૈવેતિ, ચારૈવેતિ'નું આહ્વાન કર્યું. આ સાથે જ આર્થિક વિકાસ, જિયોપોલિટિકલ પડકારો અને ઝડપથી થતા વૈશ્વિક પરિવર્તન પર ભાર મૂક્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/wion-iconic-tourism-summit-and-awards-2026-gajendra-singh-shekhawat-india-developed-nation-by-2027-492135 ",
+    "time": "2026-09-23T10:25:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "3 દિવસની હડતાળને પગલે મોટો નિર્ણય, 27 સપ્ટેમ્બર રવિવારે તમામ સરકારી બેંકો ખુલ્લી રહેશે",
+    "desc": "જો તમારે આગામી કેટલાક દિવસોમાં બેંક સંબંધિત કામકાજ હોય તો આ સમાચાર ખાસ જાણો. કારણ કે બેંકોમાં 3 દિવસની દેશવ્યાપી હડતાળ થવા જઈ રહી છે. સતત અનેક દિવસો સુધી બેંકિંગ સેવાઓ ઠપ ન રહે અને લોકોને હેરાનગતિ ન થાય તેના માટે થઈને સરકારે હવે મોટો નિર્ણય લીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bank-strikes-latest-update-banks-will-remain-open-on-sunday-september-27-check-details-492133 ",
+    "time": "2026-09-23T09:45:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "અમેરિકા-ઈરાન તણાવ વચ્ચે, સોનું ખરીદવું કે ચાંદી? શેમાં વધારે થશે ફાયદો? જાણો એક્સપર્ટે શું કહ્યું",
+    "desc": "US ઈરાન યુદ્ધ વચ્ચે કાચા તેલના ભાવમાં ઉતાર ચઢાવ વચ્ચે ગોલ્ડ અને સિલ્વરમાં કરેક્શન જોવા મળ્યું છે, એક્સપર્ટના જણાવ્યા મુજબ, સોનાને જિયોપોલિટિકલ ટેન્શન વચ્ચે સેફ હૈવનનો ફાયદો મળી શકે છે. જ્યારે સિલ્વર પર ઈંડસ્ટ્રિયલ ડિમાંડ અને વ્યાજદરો પર પણ અસર કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/amidst-us-iran-tensions-gold-or-silver-which-offers-better-returns-find-out-what-the-experts-say-492126 ",
+    "time": "2026-09-23T07:51:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "કર્ણાટકના યુવકની UAEમાં ઘાતકી હત્યા, 9 ટુકડાંમાં મળ્યો મૃતદેહ, પત્ની અને પુત્રનો કોઈ અતોપત્તો નથી!",
+    "desc": "UAEથી એક ચોંકાવનારા સમાચાર આવ્યા છે જ્યાં ભારતના કર્ણાટકમા ઉડુપીના એલ્વિશ પ્રકાશ કુંદરનો મૃતદેહ 2 મહિના બાદ એક કારમાંથી 9 ટુકડાંમાં મળી આવ્યો છે. પત્ની અને પુત્ર પણ ગૂમ છે જેમના વિશે કોઈ માહિતી નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/uae-news-karnataka-alwin-prakash-kunder-killed-body-found-in-9-piece-492119 ",
+    "time": "2026-09-23T07:42:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda-Sunita Ahuja: ગોવિંદાએ કોમલ રાની સાથે કર્યા લાલબાગચા રાજાના દર્શન, સુનીતા આહુજા જોવા મળી એકલી",
+    "desc": "લાલ બાગચા રાજા ના દર્શન કરવા બોલીવુડના અન્ય કપલની જેમ ગોવિંદા અને સુનીતા આહુજા પણ પહોંચ્યા હતા. જો કે આ કપલના દર્શનમાં ફરક હતો. સુનીતા આહુજા એ ગણપતિ બાપ્પાના દર્શન કર્યા તેની થોડી કલાક પછી ગોવિંદા કોમલ રાની સાથે દર્શન કરવા પહોંચ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/govinda-visited-lalbaugcha-raja-with-komal-rani-and-sunita-ahuja-was-seen-alone-at-pandal-492115 ",
+    "time": "2026-09-23T06:37:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "રોકાણકારો માલામાલ ! 50 ટકાથી વધારેના પ્રોફિટ સાથે લિસ્ટ થયો આ IPO, 107 ગણાથી વધારે થયો હતો સબસ્ક્રાઈબ",
+    "desc": "આ કંપનીના શેર BSE પર 639.10 પર લિસ્ટ થયા છે, જે 50.73 ટકાનો વધારો દર્શાવે છે. NSE પર કંપનીના શેર 624 પર લિસ્ટ થયા, જે પ્રીમિયમ 47.17% છે. IPOમાં કંપનીના શેરનો ભાવ 424 હતો. આ કંપનીનું નામ SS રિટેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/investors-hit-the-jackpot-this-ipo-listed-with-a-profit-of-over-50-percent-it-was-subscribed-more-than-107-times-492113 ",
+    "time": "2026-09-23T05:59:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "યુપીમાં પત્ની-પુત્ર અને બે પૂજારીઓની હત્યા કરનારો આરોપી એન્કાઉન્ટરમાં માર્યો ગયો, 8 કલાક ચાલ્યું બંધક સંકટ",
+    "desc": "ઉત્તર પ્રદેશથી એક હચમચાવી નાખતી ઘટના સામે આવી છે. એક યુવકે તેની પત્ની, બે પુજારીઓ અને પુત્રની ગોળી મારીને હત્યા કરી અને ત્યારબાદ પોતાના જ બાળકોને ઘરમાં બંધક બનાવી રાખ્યા. 8 કલાકની ભારે જદ્દોજહેમત બાદ પોલીસે આ બંધક સંકટ ખતમ કરવામાં સફળતા મેળવી અને આરોપી અરવિંદ સિંહ એન્કાઉન્ટરમાં ઠાર મરાયો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/accused-who-killed-wife-son-and-two-priests-in-up-killed-in-encounter-hostage-crisis-lasted-8-hours-492094 ",
+    "time": "2026-09-23T03:34:16.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "શું આજે ખરેખર 12 કલાકનો દિવસ અને 12 કલાકની રાત હશે? 23 સપ્ટેમ્બરના ઈક્વિનોક્સનું જાણો સંપૂર્ણ સત્ય",
     "desc": "શું આજે, બુધવાર, 23 સપ્ટેમ્બરના રોજ દિવસ અને રાત ખરેખર 12 કલાક લાંબા હશે? આ વાત ઘણીવાર સપ્ટેમ્બર ઈક્વિનોક્સ વિશે કહેવામાં આવે છે, પરંતુ વાસ્તવિકતા થોડી અલગ છે. આજની આ ખગોળીય ઘટના પછી, ભારતમાં દિવસો ધીમે ધીમે ટૂંકા અને રાત લાંબી થતી જશે.",
@@ -369,15 +432,6 @@ const newsData_gu = [
     "time": "2026-09-19T16:23:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભારતમાં બદલાશે હવામાનનું ચિત્ર! 180 વૈજ્ઞાનિકોએ ‘પ્રલય’ જેવા માહોલની આપી ચેતવણી",
-    "desc": "180થી વધુ વૈજ્ઞાનિકોએ 2026-27માં શક્તિશાળી 'એલ નીનો' (El Niño) આવવાની ચેતવણી આપી છે. તેની ભારત પર ગંભીર અસરો પડી શકે છે, જેના પરિણામે ભારે ગરમી અને વરસાદમાં ઘટાડો થઈ શકે છે, તેમજ જંગલો, વન્યજીવન, કૃષિ અને મહાસાગરો પર પણ અસર પડી શકે છે. વૈજ્ઞાનિકોએ પર્યાવરણ પર મોનિટરિંગ કરવાની હાકલ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pralay-like-weather-may-hit-india-in-coming-months-180-scientists-issue-warning-491811 ",
-    "time": "2026-09-19T15:55:16.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રણવીર સિંહ બન્યા પિતા, દીપિકા પાદુકોણે બીજા બાળકને આપ્યો જન્મ",
     "desc": "દીપિકા પાદુકોણના ઘરે એક નાનકડા મહેમાનનો જન્મ થયો છે. દીપિકા પાદુકોણ અને રણવીર સિંહ બીજી વખત માતા-પિતા બન્યા છે. દીપિકાએ પોતે આ ખુશખબર તેના ચાહકો સાથે શેર કરી. તેમને ઇન્સ્ટાગ્રામ પોસ્ટથી બીજા બાળકની માહિતી આપી છે.",
@@ -448,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/obsession-for-iphone-18-pro-husband-sold-gold-to-buy-new-iphone-for-wife-491718 ",
     "time": "2026-09-19T02:59:31.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "UPIથી પૈસા માંગતી લિંક થઈ શકે છે બંધ, જાણો ગ્રાહકો પર શું પડશે અસર",
-    "desc": "કોઈ વેપારી, ઓનલાઈન કંપની અથવા વ્યક્તિ તમને UPI પર એક લિંક મોકલે છે. આ લિંક પર ક્લિક કરો, તમારો PIN દાખલ કરો, અને ચુકવણી પૂર્ણ થઈ જશે તેને પુલ ટ્રાન્ઝેક્શન તરીકે ઓળખાતી આ સુવિધા ટૂંક સમયમાં બંધ થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/upi-payment-request-links-could-be-discontinued-find-out-how-this-will-impact-customers-491716 ",
-    "time": "2026-09-18T18:09:54.000Z"
   },
   {
     "cat": "Tech",
@@ -540,15 +585,6 @@ const newsData_gu = [
     "time": "2026-09-17T14:09:04.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "પૃથ્વી શોથી અલગ થઈ મંગેતર આકૃતિ અગ્રવાલ, લગ્ન પહેલાં કેમ તોડ્યો સંબંધ? ભાવુક પોસ્ટમાં જણાવ્યું સાચું કારણ",
-    "desc": "ભારતીય ક્રિકેટર પૃથ્વી શોના અંગત જીવનમાં મુશ્કેલ સમય આવ્યો છે. તેની મંગેતર આકૃતિ અગ્રવાલે ઇન્સ્ટાગ્રામ પોસ્ટ દ્વારા પુષ્ટિ કરી છે કે તેઓ બંને અલગ થઈ ગયા છે. તેમની વચ્ચે મતભેદ હોવાની અફવાઓ ઘણા દિવસોથી ચાલી રહી હતી, પરંતુ હવે એ વાતની પુષ્ટિ થઈ ગઈ છે કે પૃથ્વી શો અને આકૃતિ અગ્રવાલ વચ્ચેનો સંબંધ પૂરો થઈ ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/prithvi-shaw-and-akriti-agarwal-officially-called-off-their-engagement-know-why-491571 ",
-    "time": "2026-09-17T11:59:44.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકા પર 9/11થી પણ મોટો આતંકી હુમલો થશે?, એક હુમલાથી ઘૂંટણિયે આવી જશે ડોનાલ્ડ ટ્રમ્પ?",
     "desc": "એક પણ મિસાઈલ છોડ્યા વિના કે એક પણ પરમાણું બોંમ્બ ફેક્યા વિના...દુનિયાની સૌથી મોટી મહાસત્તા અમેરિકા જો એક જ ઝટકામાં ઘૂંટણિએ આવી જાય તો શું થાય. ઈરાન યુદ્ધની એકદમ સચોટ ભવિષ્યવાણી કરનાર દુનિયાના જાણીતા ભૂ-રાજકીય અને ફાયનાન્શિયલ એક્સપર્ટ પ્રોફેસર જિયાંગે આ વખતે અમેરિકાને લઈને એવી ભવિષ્યવાણી કરી છે, જેને લઈને વોશિંગ્ટનથી લઈને વોલ સ્ટ્રીટ સુધી ખળભળાટ મચી ગયો છે. પ્રોફેસર જિયાંગે દાવો કર્યો છે કે અમેરિકા પર થનારો આગામી મોટો આતંકી હુમલો કોઈ ઈમારત કે સૈન્ય મથક પર નહીં, પરંતુ તેની ફાઈનાન્શિયલ સિસ્ટમ પર થશે. જેના કારણે અચાનક આખો દેશ ઠપ થઈ શકે છે અને તેની અસર સમગ્ર દુનિયા પર પડી શકે છે.",
@@ -601,15 +637,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/mahi-vij-said-on-bigg-boss-20-that-she-got-offere-for-kareena-kapoor-role-in-a-yuva-film-first-491408 ",
     "time": "2026-09-16T07:33:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રિતેશ સિધવાનીની પાર્ટીમાં રવીના ટંડને પતિની એક્સ વાઈફ પર ફેંક્યો જ્યૂસનો ગ્લાસ, જોતા રહી ગયા લોકો",
-    "desc": "રવીના ટંડન શાંત અને સંસ્કારી દેખાય છે પણ એક સમય હતો જ્યારે તેણે પાર્ટીમાં મહેમાનોની હાજરીમાં પોતાના પતિ અનિલ થડાનીની એક્સ વાઈફ નતાશા પર જ્યૂસનો ગ્લાસ ફેંક્યો હતો. આ સમયે રવીનાનું રુપ જોઈ પાર્ટીમાં હાજર લોકો દંગ રહી ગયા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/when-raveena-tandon-throw-juice-glass-on-anil-thadani-ex-wife-natasha-in-ritesh-sidhwani-party-491403 ",
-    "time": "2026-09-16T06:20:04.000Z"
   },
   {
     "cat": "Tech",
