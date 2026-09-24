@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "આંધ્ર-ઓડિશા તટ સાથે અથડાયું વાવાઝોડું અર્નબ: આગામી 12 કલાક ભારે તબાહીનો ખતરો, અનેક પુલ તણાયા, 5000 લોકોને ખસેડાયા",
+    "desc": "બંગાળની ખાડીમાં રચાયેલ ડીપ ડિપ્રેશન આખરે આંધ્રપ્રદેશ અને ઓડિશાના દરિયાકાંઠાના વિસ્તારોમાં પ્રવેશ્યું છે. IMD અનુસાર, આ હવામાન સિસ્ટમ કલિંગપટ્ટનમ નજીક લગભગ 5 કિલોમીટર પ્રતિ કલાકની ઝડપે દરિયાકાંઠેથી પસાર થઈ રહી છે. આ લેન્ડફોલ આગામી બે કલાક સુધી ચાલશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/odisha-andhra-pradesh-weather-deep-depression-progresses-after-landfall-red-alert-in-several-states-492214 ",
+    "time": "2026-09-24T07:05:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ઊભેલી ટ્રક સાથે અથડાતા થતા કારનો કચ્ચરઘાણ નીકળી ગયો, કેબિનેટ મંત્રીની પુત્રી સહિત 4ના મોત",
+    "desc": "ઝારખંડના ગ્રામીણ વિકાસ મંત્રી દીપિકા પાંડે સિંહની પુત્રીનું એક કાર અને ટ્રક વચ્ચે થયેલા ગમખ્વાર અકસ્માતમાં મોત નિપજ્યું. કારમાં સવાર 3 અન્ય લોકોના પણ અકસ્માતમાં જીવ ગયા. અકસ્માત બુધવારે મોડી રાતે થયો. અકસ્માત એટલો ભયાનક હતો કે કારનું પડીકું વળી ગયું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/jharkhand-jamshedpur-news-minister-deepika-pandey-singh-daughter-died-in-road-accident-492212 ",
+    "time": "2026-09-24T06:20:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "યમુના એક્સપ્રેસ વે પર સ્લિપર બસ આગની જ્વાળામાં લપેટાઈ, 9 મુસાફરો જીવતા ભૂંજાઈ ગયા, અનેક ઘાયલ",
+    "desc": "ઉત્તર પ્રદેશમાં એક ગમખ્વાર અકસ્માત સર્જાયો છે જેમાં 9 લોકો જીવતા ભૂંજાઈ ગયા. યમુના એક્સપ્રેસ વે પર એક દર્દનાક અકસ્માત થયો જેમાં એક સ્લિપર બસ આગની જ્વાળાઓમાં લપેટાઈ ગઈ. અનેક મુસાફરોએ બારીઓમાંથી કૂદીને પોતાના જીવ બચાવ્યા. બસ મુસાફરોને લઈને નોઈડાથી મહોબા જઈ રહી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/several-people-died-after-a-sleeper-bus-caught-fire-on-the-yamuna-expressway-492198 ",
+    "time": "2026-09-24T03:19:06.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ભારત તરફ આવતા જહાજ પર ઓમાન નજીક હુમલો, 1 ભારતીયનું મોત, 19 લોકોને રેસ્ક્યૂ કરાયા",
     "desc": "ભારત માટે એક ખરાબ સમાચાર સામે આવ્યા છે. ભારત તરફ આવતા કોમર્શિયલ જહાજ પર હુમલો કરવામાં આવ્યો જેમાં 1 ભારતીયનું મોત થયું છે જ્યારે 19 લોકોનું રેસ્ક્યૂ કરવામાં આવ્યું. શું છે આ મામલો ચાલો જાણીએ વિસ્તારપૂર્વક.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/attack-on-indian-commercial-ship-near-oman-1-indian-killed-19-rescued-here-is-detail-news-492190 ",
-    "time": "2026-09-24T02:37:01.000Z"
+    "time": "2026-09-24T03:03:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "કુતરાને પ્રેમ કરો, માણસ કરતાં વફાદાર હોય, ગોવિંદાની લાલબાગચા રાજાની મુલાકાત બાદ સુનીતા આહુજાનું રિએકશન",
+    "desc": "સુનીતા આહુજા ફરી એકવાર આંકરા મિજાજમાં જોવા મળી છે. સુનીતાએ એરપોર્ટ પર એવું નિવેદન આપ્યું હતું કે માણસ તો દગાબાજ હોય છે, ગમે એટલો પ્રેમ કરો કોઈ ફાયદો નથી, તેના કરતાં પ્રાણીને પ્રેમ કરો તે આજીવન વફાદાર રહે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/love-animal-they-are-more-loyal-sunita-ahuja-reaction-after-govinda-visit-to-lalbaugcha-raja-with-komal-492191 ",
+    "time": "2026-09-24T03:02:27.000Z"
   },
   {
     "cat": "World",
@@ -297,15 +333,6 @@ const newsData_gu = [
     "time": "2026-09-21T03:33:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "લોનાવાલાના ટાઈગર પોઈન્ટની રેકીથી લોહગઢ કિલ્લામાં હત્યા સુધીનું ષડયંત્ર કેવી રીતે રચાયું ચાર્જશીટમાં ખુલ્યા રહસ્યો",
-    "desc": "કેતન અગ્રવાલ મર્ડર કેસમાં પોલીસે કોર્ટમાં 5053 પેજની ચાર્જશીટ દાખલ કરી છે. ચાર્જશીટમાં પોલીસે સિયા ગોયલ અને અન્ય 2 લોકોના નામનો સમાવેશ કરવામાં આવ્યો છે. ચાર્જશીટમાં ઉલ્લેખ છે કે સિયા સહિત 3 લોકોએ કેતનની હત્યા દુર્ઘટના લાગે તે માટે પ્લાનિંગ કર્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-case-police-file-5053-page-chargesheet-know-how-siya-goyal-planed-ketan-agarwal-murder-491903 ",
-    "time": "2026-09-21T02:32:45.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઈટલીમાં પણ બુરખા અને નકાબ પર લાગશે પ્રતિબંધ? વિદેશી વિદ્યાર્થીઓને સંખ્યા થશે મર્યાદિત, મેલોનીએ કરી મોટી જાહેરાત",
     "desc": "વડા પ્રધાન જ્યોર્જિયો મેલોનીએ ઇટાલિયન શાળાઓમાં મોટા ફેરફારોની જાહેરાત કરી છે. સરકાર એક કાયદો લાવી રહી છે, જે બુરખા અને નકાબ પર પ્રતિબંધ મૂકવાનો પ્રસ્તાવ મૂકે છે, દરેક વર્ગખંડમાં બિન-ઇટાલિયન વિદ્યાર્થીઓની સંખ્યા મર્યાદિત કરે છે, અને કેટલાક કિસ્સાઓમાં, માતાપિતા માટે ઇટાલિયન ભાષા શીખવાનું ફરજિયાત બનાવે છે.",
@@ -324,24 +351,6 @@ const newsData_gu = [
     "time": "2026-09-20T14:35:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "અડવાણી, જયશંકરથી લઇને ઇલેક્શન કમિશ્નરને ચૂંટણી પંચની નોટિસ, દિલ્હીની મતદાર યાદીમાં ગડબડી? 33 લાખ નામ સામેલ",
-    "desc": "દિલ્હીમાં મતદાતા યાદીના SIR ને લઈને વિવાદ વધી રહ્યો છે. મુખ્ય ચૂંટણી અધિકારી દ્વારા મતદાન ફોર્મમાં ગડબડીને લઈને 33 લાખથી વધુ મતદાતાઓને નોટિસ મોકલવામાં આવી છે. નોટિસોની આ યાદીમાં લાલકૃષ્ણ અડવાણીથી લઈને એસ જયશંકર સુધી અનેક દિગ્ગજોના નામ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/delhi-voter-list-controversy-election-commission-issues-notices-to-33-lakh-voters-including-lk-advani-s-jaishankar-491875 ",
-    "time": "2026-09-20T13:58:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "બેંકના ગ્રાહકો માટે મોટા સમાચાર! 28થી 30 સપ્ટેમ્બર રહેશે હડતાળ, 5 દિવસ કામકાજ ઠપ્પ",
-    "desc": "આ બેંકે 28થી 30 સપ્ટેમ્બરે પ્રસ્તાવિત બેંક હડતાળ અંગે ગ્રાહકોને માહિતી આપી છે. હડતાળના બે દિવસ પહેલા રજા છે, જેના કારણે પાંચ દિવસ માટે બેંક બંધ રહેવાની શક્યતા છે. ચાલો જાણીએ કે કયા કાર્યો પહેલા પૂર્ણ કરવાની જરૂર છે અને કઈ સેવાઓ ઓનલાઈન મળી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-news-for-bank-customers-strike-from-september-28-to-30-operations-to-remain-stalled-for-5-days-491860 ",
-    "time": "2026-09-20T11:25:51.000Z"
-  },
-  {
     "cat": "World",
     "title": "યુક્રેનનો રશિયા પર અત્યાર સુધીનો સૌથી મોટો હુમલો: 1,000 થી વધુ ડ્રોન છોડ્યા, 2 લોકોના મોત!",
     "desc": "યુક્રેને રશિયા પર મોટો ડ્રોન હુમલો કર્યો છે. આ હુમલામાં 2 રશિયન નાગરિકોના મોત થયા છે. યુક્રેને 1 હજારથી વધુ ડ્રોનથી હુમલો કર્યો છે. રશિયાનું કહેવું છે કે 1600થી વધુ ડ્રોનને રોકી દેવામાં આવ્યા છે.",
@@ -349,15 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/ukraine-launches-biggest-drone-attack-on-russia-over-1000-drones-fired-2-killed-491859 ",
     "time": "2026-09-20T11:16:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "UGC બિલના વિરોધમાં ભારે વિરોધ પ્રદર્શન, પોલીસ સાથે થયું ધર્ષણ, જાણો",
-    "desc": "રવિવારે, પશ્ચિમ ઉત્તર પ્રદેશના આગ્રા અને ફિરોઝાબાદમાં યુજીસી બિલને લઈને ભારે વિરોધ પ્રદર્શન થયું હતું. બંને જિલ્લામાં મોટી સંખ્યામાં વિરોધીઓ રસ્તા પર ઉતરી આવ્યા હતા. ફિરોઝાબાદમાં, બેરીકેડ પર પોલીસ સાથે ઝપાઝપી થઈ હતી. પોલીસ કાર્યવાહીનો વિરોધ કરવા માટે કેટલાક વિરોધીઓએ ગાંધી પાર્કમાં ધરણા પ્રદર્શન કર્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/massive-protests-against-the-ugc-bill-scuffle-with-police-find-out-more-491857 ",
-    "time": "2026-09-20T10:49:56.000Z"
   },
   {
     "cat": "Tech",
@@ -592,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/when-will-the-first-episode-of-the-great-indian-kapil-show-season-5-air-netflix-has-made-the-announcement-find-out-here-491421 ",
     "time": "2026-09-16T09:40:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "માહી વિજ એ બિગ બોસ 20 માં કર્યો ધડાકો, યુવા ફિલ્મ તેણે ન કરી એટલે કરીના કપૂરને રોલ મળ્યો",
-    "desc": "બિગ બોસ 20 માં માહી વિજ એ મોટો ધડાકો કર્યો છે. તેણે મણીરત્નમની ફિલ્મ યુવાનો ઉલ્લેખ કરતાં કહ્યું કે ફિલ્મમાં કરીના કપૂરના રોલ માટે તે સિલેક્ટ થઈ હતી. કોઈ કારણોસર તેણે ફિલ્મ ન કરી એટલે તે રોલ કરીના કપૂરને મળી ગયો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/mahi-vij-said-on-bigg-boss-20-that-she-got-offere-for-kareena-kapoor-role-in-a-yuva-film-first-491408 ",
-    "time": "2026-09-16T07:33:01.000Z"
   },
   {
     "cat": "Tech",
