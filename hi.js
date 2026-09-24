@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Roshibina Devi clinches silver in wushu; Satnam Singh, Salman Khan win rowing bronze at Asian Games",
+    "desc": "India started their day on a strong note at the Asian Games on Thursday, winning two early medals. Roshibina Devi won the silver medal after losing to China's Xiaoyu Zhang in the final of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/roshibina-devi-clinches-silver-in-wushu-satnam-singh-salman-khan-win-rowing-bronze-at-asian-games-2026-latest-updates-2026-09-24-1055107",
+    "time": "2026-09-24T02:10:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Prema Rawat fails to impress as Dehradun vs Mussoorie set for women's UPL 2026 final",
     "desc": "Mussoorie Queens and Dehradun Warriors will meet in the women’s final of the Uttarakhand Premier League 2026 after finishing first and second in the league standings. The summit clash, scheduled for Thursday, September 24, will...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-announce-t20i-squad-for-india-series-rachin-ravindra-ruled-out-with-injury-during-promo-shoot-2026-09-23-1055004",
     "time": "2026-09-23T04:43:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jay Meena assures India's first-ever medal in soft tennis at Asian Games, skeet team secures bronze medal",
-    "desc": "India has secured a historic bronze medal in soft tennis after Jay Meena secured the semi-final spot by edging past the Philippines’ Sherwin Nuguit 4-3 in the quarter-final. However, in the semis, he lost 2-4...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/jay-meena-assures-india-s-first-ever-medal-in-soft-tennis-at-asian-games-skeet-team-secures-bronze-medal-2026-09-23-1055001",
-    "time": "2026-09-23T04:14:25.000Z"
   }
 ];
