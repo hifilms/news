@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Defending champion Italy scripts stunning comeback as hosts China knocked out of Billie Jean King Cup",
+    "desc": "Jasmine Paolini once again proved decisive for Italy as the defending champions overcame China 2-1 in Shenzhen to book their place in the Billie Jean King Cup semi-finals for a fourth successive year. The tie began...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/defending-champion-italy-scripts-stunning-comeback-as-hosts-china-knocked-out-of-billie-jean-king-cup-2026-09-24-1055216",
+    "time": "2026-09-24T17:50:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Matthew Breetzke's ton and Marco Jansen's historic day help South Africa pick 67-run win over Australia",
+    "desc": "South Africa defeated Australia by 67 runs in the opening ODI of the three-match series in Durban. It was their first meeting in the format since the 2023 ODI World Cup semi-final at the iconic...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/matthew-breetzke-s-ton-and-marco-jansen-s-historic-day-help-south-africa-pick-67-run-win-over-australia-2026-09-24-1055214",
+    "time": "2026-09-24T17:25:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Japan Cricket COO explains benefits of playing India; long-term implications, impact among associate nations",
+    "desc": "The cricketing world was treated to an unforgettable spectacle when India faced Japan in a historic one-off men's T20I at the Sano International Cricket Ground. Persistent rain forced the match to be shortened to five...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/japan-cricket-coo-explains-benefits-of-playing-india-long-term-implications-impact-among-associate-nations-2026-09-24-1055213",
+    "time": "2026-09-24T16:41:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hayley Matthews sets new record for West Indies, as visitors beat Zimbabwe by 99 runs in first ODI",
+    "desc": "Star West Indies batter Hayley Matthews produced a record-breaking innings in the first ODI against Zimbabwe at Harare Sports Club. The all-rounder smacked 182 runs off 156 balls and set the record for the highest...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hayley-matthews-sets-new-record-for-west-indies-as-visitors-beat-zimbabwe-by-99-runs-in-first-odi-2026-09-24-1055209",
+    "time": "2026-09-24T15:54:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Team India bags silver medal in mixed 4x400m relay race at Asian Games 2026",
     "desc": "The Indian team added yet another medal to their tally as they ended up finishing in second place in the mixed 4x400m relay race. The team of Machettira Poovamma, Vishal Thennarasu, Ramraj Vithya, and Thekkinalil...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/elina-svitolina-s-ukraine-seals-spot-in-billie-jean-king-cup-semi-final-after-hard-fought-win-over-belgium-2026-09-24-1055171",
     "time": "2026-09-24T10:29:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch England vs Sri Lanka 2nd ODI live on TV and stream online in India?",
-    "desc": "After sealing the T20I series 3-0, England kicked off the ODI series with an 89-run win at Chester-le-Street. Captain Harry Brook and Will Jacks kept the scoreboard ticking for the majority of the period, while...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-england-vs-sri-lanka-2nd-odi-live-on-tv-and-stream-online-in-india-2026-09-24-1055170",
-    "time": "2026-09-24T10:21:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I'd love to see him on pacy wickets': Rob Walter challenges Vaibhav Sooryavanshi ahead of NZ vs IND series",
-    "desc": "The Indian team is gearing up for several assignments in the future; with the side set to take on the West Indies, they also have a heavy schedule for the upcoming tour of New Zealand....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-d-love-to-see-him-on-pacy-wickets-rob-walter-challenges-vaibhav-sooryavanshi-ahead-of-nz-vs-ind-series-2026-09-24-1055163",
-    "time": "2026-09-24T09:00:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo opens up on his decision to not retire from Portugal after FIFA World Cup 2026",
-    "desc": "The UEFA Nations League is right around the corner, and the best international sides in world football are hard at work to prepare during the international break. Ahead of the tournament, many fans were left...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cristiano-ronaldo-opens-up-on-his-decision-to-not-retire-from-portugal-after-fifa-world-cup-2026-2026-09-24-1055160",
-    "time": "2026-09-24T08:49:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lisa Keightley steps down as Mumbai Indians' head coach ahead of WPL 2027, franchise names replacement",
-    "desc": "WPL (Women’s Premier League) franchise Mumbai Indians women took centre stage and announced the departure of Lisa Keightley as the side’s head coach. It is interesting to note that Keightley has been appointed Cricket Australia's...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lisa-keightley-steps-down-as-mumbai-indians-head-coach-ahead-of-wpl-2027-franchise-names-replacement-2026-09-24-1055155",
-    "time": "2026-09-24T08:08:16.000Z"
   }
 ];
