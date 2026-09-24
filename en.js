@@ -1,6 +1,60 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Dove Cameron marries Damiano David in Italy",
+    "desc": "Dove Cameron and Damiano David have married in an intimate ceremony held in Italy. The couple chose stylish suits for the occasion, diverging from traditional wedding attire, which garnered significant attention. During the ceremony, they shared a romantic kiss as friends and family celebrated their union. Cameron and David first met at the 2022 MTV Video Music Awards and started dating the following year.",
+    "img": "https://static.toiimg.com/photo/msid-134472004,imgsize-284507.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dove-cameron-marries-damiano-david-in-a-dreamy-wedding-in-italy-couple-suit-up-for-intimate-ceremony-pics/articleshow/134471989.cms",
+    "time": "2026-09-24T22:35:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Petition in Bombay High Court seeks stay on SIR in Maharashtra, restoration of voter names",
+    "desc": "The petition says Mr. Sandhu and Mr. Joshi recorded objections on 14 occasions in 10 months over voter registration, deletion and restoration of names, the database, the work of officers who register voters and software processes",
+    "img": "https://th-i.thgim.com/public/incoming/lbtka7/article71425682.ece/alternates/LANDSCAPE_1200/IMG_Bombay_High_Court_2_1_59DCPNA5.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/petition-in-bombay-high-court-seeks-stay-on-sir-in-maharashtra-restoration-of-voter-names/article71505245.ece",
+    "time": "2026-09-24T20:23:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel’s Netanyahu, at UN, calls accusations of genocide in Gaza ‘the biggest lie of the century’",
+    "desc": "‘Mr. Mamdani, since you were elected mayor of this city, many Jews no longer feel safe in New York; they talk to me, they tell me this isn’t the city we remember, it changed so quickly,’ said Benjamin Netanyahu",
+    "img": "https://th-i.thgim.com/public/incoming/t9admo/article71505773.ece/alternates/LANDSCAPE_1200/2296961569.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israels-netanyahu-at-un-calls-accusations-of-genocide-in-gaza-the-biggest-lie-of-the-century/article71505769.ece",
+    "time": "2026-09-24T20:18:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bitumen price surge hits road works, adding to motorists’ woes in Kochi",
+    "desc": "Bitumen price rises from ₹10,093 to ₹14,915 per 156-kg barrel between March 5 and September 16; Kochi Corporation explores allowing additional estimates to bridge the gap caused by the price variation; contractors seek a Finance department directive to cover excess costs in local-body projects",
+    "img": "https://th-i.thgim.com/public/incoming/quwabn/article71505596.ece/alternates/LANDSCAPE_1200/Road06.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/bitumen-price-surge-hits-road-works-adding-to-motorists-woes-in-kochi/article71494267.ece",
+    "time": "2026-09-24T19:23:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Youth Congress seeks arrest of director, professor; independent probe into student’s death",
+    "desc": "Even if, for the sake of argument, we say that for 1% that he was cheating, we are not talking merely about cheating here.; a person has lost his life, said Indian Youth Congress national president Uday Bhanu Chib",
+    "img": "https://th-i.thgim.com/public/incoming/wl3el9/article71505744.ece/alternates/LANDSCAPE_1200/PTI07_21_2026_000374B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/mumbai/iit-bombay-student-death-youth-congress-seeks-arrest-of-director-professor-independent-probe-into-students-death/article71505357.ece",
+    "time": "2026-09-24T19:22:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Court allows Shopian school, sealed under UAPA, to resume academic activities",
+    "desc": "The interim relief has been granted till the main case is decided; the court heard the petition and, if it deemed fit, could completely halt education at the school with 400 students living on the campus, said Advocate S. M. Iqbal",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/court-allows-shopian-school-sealed-under-uapa-to-resume-academic-activities/article71505545.ece",
+    "time": "2026-09-24T18:53:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Govinda calls Diljit Dosanjh a 'world-level star'",
     "desc": "Govinda has expressed heartfelt thanks to Diljit Dosanjh for referring to him as legendary in a recent interview. He reminisced about their initial encounter and shared how he foresaw Diljit's promising career in entertainment. Pleased by Diljit's success, Govinda eagerly anticipates his further achievements. Meanwhile, he is busy promoting his upcoming film 'Roopa', marking a significant return after his last roles in 'Rangeela Raja' (2019) and a 2022 documentary.",
     "img": "https://static.toiimg.com/photo/msid-134468406,imgsize-661226.cms",
@@ -144,15 +198,6 @@ const newsData_en = [
     "time": "2026-09-24T17:02:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "If I were pardoned one murder, first person I would shoot is Gyanesh Kumar: VIP chief Mukesh Sahani on CEC",
-    "desc": "At a press conference, he points out that as law-abiding citizens one would not commit such an extreme act; he says Election Commission has turned into an arm of the BJP and that Gyanesh Kumar should have some shame",
-    "img": "https://th-i.thgim.com/public/news/4gwmto/article71505540.ece/alternates/LANDSCAPE_1200/Mukesh_sahani.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/if-i-were-pardoned-one-murder-first-person-i-would-shoot-is-gyanesh-kumar-vip-chief-mukesh-sahani-on-cec/article71504152.ece",
-    "time": "2026-09-24T17:02:15.000Z"
-  },
-  {
     "cat": "World",
     "title": "Yemen says govt. forces repel Houthi push on key Taiz-Aden route",
     "desc": "The steep, winding mountain pass, known as Hejat al-Abd, is a lifeline for forces fighting on behalf of Yemen’s government, which has been ‌hemmed in by a lightning Houthi advance this month linked to the Iran war",
@@ -160,15 +205,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/yemen-says-govt-forces-repel-houthi-push-on-key-taiz-aden-route/article71505498.ece",
     "time": "2026-09-24T16:56:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The many categories of SIR’s logical discrepancy list keep voters on toes",
-    "desc": "Up to 11 distinct categories of logical discrepancies have been identified and applied across various States and Union Territories in the third phase of the SIR, expanding from the original four categories initially used when the concept was introduced in West Bengal",
-    "img": "https://th-i.thgim.com/public/incoming/m6w8x4/article71505482.ece/alternates/LANDSCAPE_1200/_JAI6728.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/the-many-categories-of-sirs-logical-discrepancy-list-keep-voters-on-toes/article71504625.ece",
-    "time": "2026-09-24T16:52:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -196,15 +232,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/sri-lankas-parliament-begins-debate-on-controversial-bill-on-judges-retirement-age/article71505422.ece",
     "time": "2026-09-24T16:43:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ADR",
-    "desc": "The Nationalist Democratic Progressive Party (NDPP), Trinamool and Congress together accounted for 64 (58%) of the 111 MPs/MLAs who changed parties; the Naga People’s Front (NPF) led the list of parties that received the maximum number of lawmakers, with 32 (29%), followed by the BJP with 29 (26%) and the Nationalist Citizens Party of India (NCPI) with 20 (18%)",
-    "img": "https://th-i.thgim.com/public/incoming/lujckw/article71505262.ece/alternates/LANDSCAPE_1200/TH03-SHIV-SAHAYGNVG6VVO3.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/111-sitting-mps-and-mlas-changed-their-political-parties-after-being-elected-adr/article71504234.ece",
-    "time": "2026-09-24T16:41:35.000Z"
   },
   {
     "cat": "Business",
@@ -378,33 +405,6 @@ const newsData_en = [
     "time": "2026-09-24T14:05:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'All elections rigged, laws illegal': Rahul Gandhi attacks Centre over EC-SIR row; BJP calls it 'jooth ki goonj'",
-    "desc": "Congress leader Rahul Gandhi has intensified accusations against the government and the Election Commission regarding electoral integrity. He demands the immediate resignation of Chief Election Commissioner Gyanesh Kumar, citing evidence of electoral manipulation. Concerns regarding unresolved objections from Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi further bolster his claims. The BJP has responded by rejecting his allegations and challenging his assertions about anti-incumbency.",
-    "img": "https://static.toiimg.com/photo/msid-134464274,imgsize-1091805.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/all-elections-rigged-laws-illegal-rahul-gandhi-attacks-centre-over-ec-sir-row-bjp-calls-it-jooth-ki-goonj/articleshow/134464189.cms",
-    "time": "2026-09-24T14:02:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'We know what delay did in Shiv Sena': On TMC symbol row, SC asks EC to set time limit for final decision",
-    "desc": "The Supreme Court instructed the Election Commission to provide reasonable time for both factions in the Trinamool Congress dispute. The court emphasized the need for prompt resolution to avoid delays seen in other political party disputes. Senior Advocate Kapil Sibal represented Mamata Banerjee, arguing that the Election Commission's order left her client without an effective remedy.",
-    "img": "https://static.toiimg.com/photo/msid-134464386,imgsize-974880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-know-what-delay-did-in-shiv-sena-on-tmc-symbol-row-sc-asks-ec-to-set-time-limit-for-final-decision/articleshow/134464338.cms",
-    "time": "2026-09-24T14:00:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman Khan's 'Monster' locks a Rs 100 crore theatrical deal",
-    "desc": "In a thrilling announcement, PVRInox has secured the distribution rights for Salman Khan's film 'Monster' at Rs 100 crore. This cinematic experience, directed by Vamshi Paidipally, is planned for an Eid 2027 release. The cast includes Nayanthara, with Ronit Roy and Seema Biswas joining recently. The distributor is enthusiastic about the film's grand visuals and various avatars of the lead actor, predicting an impressive audience turnout.",
-    "img": "https://static.toiimg.com/photo/msid-134464306,imgsize-546351.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-and-nayantharas-monster-locks-a-rs-100-crore-theatrical-deal-with-multiplex-chain-leading-giant-in-exhibition-is-confident-of-making-big-profits-report/articleshow/134464264.cms",
-    "time": "2026-09-24T13:51:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "0.08 seconds! India hold off Vietnam to win mixed 4x400m silver at Asiad",
     "desc": "Manu kept India in the race before handing over to Vithya Ramaraj for the final leg. Vithya, known for her strong anchor legs, made up ground on the final lap and pulled India into second place to seal the silver.",
@@ -423,24 +423,6 @@ const newsData_en = [
     "time": "2026-09-24T13:41:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "POCSO case cannot be quashed on settlement, says Delhi HC",
-    "desc": "In a significant ruling, the Delhi HC determined that proceedings under the POCSO Act must continue, regardless of any compromises reached by the involved parties. Justice Sachin Datta emphasized the serious nature of child sexual assault, asserting that these offenses have profound societal ramifications worthy of prosecution. The court invoked a Supreme Court precedent, reminding that the victimization of children deserves vigilant attention, beyond personal settlements.",
-    "img": "https://static.toiimg.com/photo/msid-134463991,imgsize-249080.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pocso-case-cannot-be-quashed-on-settlement-says-delhi-hc/articleshow/134463991.cms",
-    "time": "2026-09-24T13:38:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Humphrey Bogart",
-    "desc": "Humphrey Bogart's assertion, 'Everybody has something to conceal,' underscores the intricate dynamics of personal privacy. It illustrates the tendency for people to mask certain facets of their lives, despite the facade of openness social media presents. Bogart faced years of hardship in his early career before achieving iconic status in cinematic history, often portraying characters that mirrored the complexity of hidden truths.",
-    "img": "https://static.toiimg.com/photo/msid-134462727,imgsize-606938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-humphrey-bogart-everybody-has-something-to-conceal-when-the-american-actor-highlighted-that-everyone-keeps-a-part-of-their-life-hidden/articleshow/134462712.cms",
-    "time": "2026-09-24T13:30:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Just 1.85%, yet NSE has best debut among India's five biggest IPOs",
     "desc": "NSE made its debut as a listed company on the BSE, opening at ₹1,800 and closing at ₹1,818. The initial public offering was valued at ₹22,561.57 crore, making it the second-largest in Indian history. NSE's shares gained 1.85% on the first day despite a broader market decline. The company's IPO was subscribed 5.71 times.",
@@ -448,24 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/just-1-85-yet-nse-has-best-debut-among-indias-five-biggest-ipos/articleshow/134462301.cms",
     "time": "2026-09-24T12:44:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi HC denies anticipatory bail to YouTuber Ajeet Bharti in casteist remarks case",
-    "desc": "Delhi High Court rejected Ajeet Bharti's request for anticipatory bail in a caste-related case. The court determined that a prima facie case was established under the Scheduled Castes and the Scheduled Tribes Act. Bharti's remarks were deemed derogatory and part of a public social media discussion. His lawyer argued against the applicability of the SC/ST Act based on provocation.",
-    "img": "https://static.toiimg.com/photo/msid-134461406,imgsize-73712.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-hc-denies-anticipatory-bail-to-youtuber-ajeet-bharti-in-casteist-remarks-case/articleshow/134461232.cms",
-    "time": "2026-09-24T11:56:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Manipulated the voter rolls': Mahua Moitra files police complaint against Gyanesh Kumar over SIR row",
-    "desc": "TMC MP Mahua Moitra has filed a police complaint against Chief Election Commissioner Gyanesh Kumar, alleging manipulation of voter rolls. Moitra raised specific concerns over unauthorized amendments to Form 6 related to voter registration. Her allegations came a day after a report stated that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi had raised objections at least 14 times over 10 months to decisions and orders related to the SIR.",
-    "img": "https://static.toiimg.com/photo/msid-134460039,imgsize-105447.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/manipulated-the-voter-rolls-mahua-moitra-files-police-complaint-against-gyanesh-kumar-over-sir-row/articleshow/134459691.cms",
-    "time": "2026-09-24T10:56:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -765,15 +729,6 @@ const newsData_en = [
     "time": "2026-09-22T17:45:42.000Z"
   },
   {
-    "cat": "World",
-    "title": "Macron says talks with Trump on Red Sea, Ukraine ‘constructive’",
-    "desc": "French President Emmanuel Macron said there was a “willingness to reopen (the Strait of) Hormuz,” a vital shipping route for the world’s oil and gas, which has been blockaded by Iran during the war in West Asia",
-    "img": "https://th-i.thgim.com/public/incoming/bhohs2/article71496890.ece/alternates/LANDSCAPE_1200/Egypt_Mideast_Wars_Gaza_58768.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/macron-says-talks-with-trump-on-red-sea-ukraine-constructive/article71496874.ece",
-    "time": "2026-09-22T16:42:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India concludes day four with overall one gold, four silver and two bronze medals",
     "desc": "President Murmu and PM Modi congratulate the women's cricket team on clinching the first gold medal for India; Lakshya Sen’s stirring comeback helped India’s men’s badminton team seal a memorable win over Japan in the Asian Games quarterfinals",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
   }
 ];
