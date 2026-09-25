@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Spot for Billie Jean King Cup 2026 final up for grabs as Spain take on Czechia today; watch live on VETO OTT",
+    "desc": "The stage is set for the first semi-final of the ongoing Billie Jean King Cup 2026; Spain will be taking on Czechia in the semi-final, and both sides will look to put in their best...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/spot-for-billie-jean-king-cup-2026-final-up-for-grabs-as-spain-take-on-czechia-today-watch-live-on-veto-ott-2026-09-25-1055227",
+    "time": "2026-09-25T02:38:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Defending champion Italy scripts stunning comeback as hosts China knocked out of Billie Jean King Cup",
     "desc": "Jasmine Paolini once again proved decisive for Italy as the defending champions overcame China 2-1 in Shenzhen to book their place in the Billie Jean King Cup semi-finals for a fourth successive year. The tie began...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-sets-eye-on-test-cricket-expects-virat-kohli-rohit-sharma-to-play-odi-world-cup-2027-2026-09-24-1055183",
     "time": "2026-09-24T11:33:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Elina Svitolina's Ukraine seals spot in Billie Jean King Cup semi-final after hard-fought win over Belgium",
-    "desc": "Ukraine became the latest country to book its spot in the semi-final of the ongoing Billie Jean King Cup 2026. The side reached the semis for the second year running, as they registered a brilliant...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/elina-svitolina-s-ukraine-seals-spot-in-billie-jean-king-cup-semi-final-after-hard-fought-win-over-belgium-2026-09-24-1055171",
-    "time": "2026-09-24T10:29:45.000Z"
   }
 ];

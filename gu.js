@@ -297,15 +297,6 @@ const newsData_gu = [
     "time": "2026-09-22T04:06:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "જમુઈમાં છોકરી સાથે છેડતીના કેસમાં 3 સગીરની અટકાયત, અન્ય 2 શોધ ચાલુ, જાણો",
-    "desc": "જમુઈના એક વાયરલ વીડિયોમાં દસમા ધોરણની એક વિદ્યાર્થિની, જે તેના મિત્ર સાથે ફરવા ગઈ હતી, રસ્તામાં કેટલાક યુવાનો દ્વારા તેની છેડતી કરવામાં આવી હતી. આ બાબતએ ખૂબ ધ્યાન ખેંચ્યું હતું અને પોલીસે આ કેસમાં ત્રણ આરોપીઓની ધરપકડ કરી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/three-minors-detained-in-a-case-of-molestation-of-a-girl-in-jamui-search-underway-for-two-others-read-more-491994 ",
-    "time": "2026-09-21T18:13:58.000Z"
-  },
-  {
     "cat": "Business",
     "title": "RBIનો મોટો નિર્ણય! બેંકોની આ ટ્રિક્સ હવે નહીં કરે કામ, નિયમોમાં થશે ફેરફાર",
     "desc": "RBIએ બેંકો માટે નવા બજાર જોખમ સંબંધિત મૂડી નિયમો જાહેર કર્યા છે, જે 1 એપ્રિલ, 2027થી અમલમાં આવશે. સુધારેલા બેસલ III માળખા હેઠળ, બેંકો હવે ઓછી મૂડી જરૂરિયાતોનો લાભ લેવા માટે ટ્રેડિંગ બુક અને બેંકિંગ બુક વચ્ચે મનસ્વી રીતે નાણાકીય સાધનોનું વર્ગીકરણ કરી શકશે નહીં.",
@@ -592,15 +583,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/film-haiwaan-flop-on-box-office-hanuman-ansh-noted-massive-earnings-know-about-mirzapur-box-office-collection-491630 ",
     "time": "2026-09-18T06:16:25.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "મશીન જ બનાવી રહ્યા છે રોબોટ, ચીને ખોલી ફેક્ટરી... દર 10 મિનિટે બનાવશે રોબોટ",
-    "desc": "ચીને એક એવી રોબોટ ફેક્ટરીનું ઉદ્ઘાટન કર્યું છે, જે દર 10 મિનિટે એક રોબોટ બનાવી શકે છે. ચીની મીડિયાના અહેવાલો અનુસાર, આ ફેક્ટરીને એક ડિજિટલ સિસ્ટમ સંચાલિત કરે છે, જેને UBTECH પોતાનું ‘સ્માર્ટ બ્રેઇન’ કહે છે. કંપનીના જણાવ્યા અનુસાર, આ સિસ્ટમ ફેક્ટરીના સંચાલનમાં મદદ કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/china-humanoid-robot-factory-produce-robot-every-10-minutes-491604 ",
-    "time": "2026-09-17T15:53:27.000Z"
   },
   {
     "cat": "Entertainment",
