@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "ક્યારે અને ક્યાં શરૂ થશે કોકરોચોનું હવે પછીનું આંદોલન? અભિજીત દીપકેએ જણાવ્યો પ્લાન",
+    "desc": "કોકરોચ જનતા પાર્ટી વળી પાછી આંદોલન કરવાના મૂડમાં આવી ગઈ છે. આ વખતે તેણે હવે મુખ્ય ચૂંટણી કમિશનર જ્ઞાનેશ કુમારના રાજીનામાની માંગણી કરી નાખી છે. આ માટે 48 કલાકનું અલ્ટીમેટમ પણ આપેલું છે. જાણો આંદોલન ક્યારથી શરૂ થશે અને ક્યાં થશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cjp-demanding-cec-gyanesh-kumar-resignation-if-not-then-protest-start-from-2-october-says-dipke-492278 ",
+    "time": "2026-09-25T07:16:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "એશિયન ગેમ્સ 2026: બીજો ગોલ્ડ મેડલ આવ્યો ઝોળીમાં, શુટિંગમાં કમલજીત અને સુરુચિનું સટીક નિશાન, જાણો ભારતની મેડલ ટેલી",
+    "desc": "ભારતે એશિયન ગેમ્સ 2026માં બીજો ગોલ્ડ મેડલ જીત્યો છે. જાપાનના નાગોયામાં શુક્રવારે સુરુચિ અને કમલજીતની જોડીએ 10 મીટર પિસ્ટલ શુટિંગના મિક્સ્ડ ઈવેન્ટમાં 484.6ના સ્કોર સાથે પહેલું સ્થાન મેળવ્યું. શુટિંગમાં આ એશિયન ગેમ્સનો પહેલો ગોલ્ડ મેડલ છે. ભારતને ફાળે અત્યાર સુધીમાં કેટલા મેડલ આવ્યા તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/asian-games-2026-india-medal-tally-gold-silver-bronze-kamaljeet-suruchi-singh-492271 ",
+    "time": "2026-09-25T05:20:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold-Silver Rate: ગણતરીના કલાકોમાં ચાંદી 7000 અને સોનું 2500 રૂપિયા સસ્તું થઈ ગયું, આગળ શું રહેશે સ્થિતિ? ખાસ જાણો",
+    "desc": "સોના અને ચાંદીના ભાવમાં છેલ્લા કેટલાક દિવસથી સતત ઘટાડો જોવા મળી રહ્યો છે. ગુરુવારે પણ ભાવ તૂટીને બંધ થયા. IBJAના લેટેસ્ટ રેટ મુજબ હાલ 24 કેરેટ સોનું ઘટીને 1.50 લાખ પર પહોંચ્યું જ્યારે ચાંદી પણ તૂટીને 2.28 લાખ પર આવી છે. એક્સપર્ટ સોનામાં આ કડાકા વિશે શું કહે છે તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-have-been-seen-falling-for-four-consecutive-days-what-expert-says-492261 ",
+    "time": "2026-09-25T03:24:10.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "હવામાન વિભાગનું મોટું એલર્ટ! 25 સપ્ટેમ્બરે ગુજરાત સહિત અનેક રાજ્યોમાં ભારે વરસાદની આગાહી",
     "desc": "હવામાન વિભાગે 25 સપ્ટેમ્બરે દેશના અનેક રાજ્યોમાં આંધી-તોફાન અને વીજળીના કડાકા-ભડાકા સાથે ભારે વરસાદની આગાહી કરી છે. ગુજરાત સહિત ઉત્તર પ્રદેશ, બિહાર, ઝારખંડ, ઓડિશા, છત્તીસગઢ, મધ્ય પ્રદેશ સહિતના રાજ્યોમાં ભારે વરસાદની સંભાવના છે. કેટલાક વિસ્તારોમાં 70 કિમી પ્રતિ કલાક સુધીની ઝડપે પવન ફૂંકાવાની શક્યતા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -288,15 +315,6 @@ const newsData_gu = [
     "time": "2026-09-22T05:24:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "વર્ષ 2026નું પહેલું વાવાઝોડું ત્રાટકવાના એંધાણ, જાણો કયા-કયા રાજ્યોમાં મચી શકે તબાહી? ગુજરાતનું શું થશે",
-    "desc": "આ વર્ષનું પહેલું વાવાઝોડું આવે તેવી શક્યતા હાલ વર્તાઈ રહી છે. જો કે હજુ આ સિસ્ટમ વાવાઝોડામાં ફેરવાય તેવી પૂરેપૂરી શક્યતા વ્યક્ત કરાઈ છે નથી પરંતુ એવી સંભાવના છે કે તે ડિપ ડિપ્રેશનમાં ફેરવાઈને તે વાવાઝોડું બની ત્રાટકી શકે છે. જો તે વાવાઝોડું બને તો તેનું નામ અર્ણબ રાખવામાં આવશે અને તે કયા કયા રાજ્યોમાં કહેર મચાવી શકે છે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bay-of-bengal-system-will-it-turn-into-cyclone-which-states-may-get-affected-what-impact-on-gujarat-492003 ",
-    "time": "2026-09-22T04:06:41.000Z"
-  },
-  {
     "cat": "Business",
     "title": "RBIનો મોટો નિર્ણય! બેંકોની આ ટ્રિક્સ હવે નહીં કરે કામ, નિયમોમાં થશે ફેરફાર",
     "desc": "RBIએ બેંકો માટે નવા બજાર જોખમ સંબંધિત મૂડી નિયમો જાહેર કર્યા છે, જે 1 એપ્રિલ, 2027થી અમલમાં આવશે. સુધારેલા બેસલ III માળખા હેઠળ, બેંકો હવે ઓછી મૂડી જરૂરિયાતોનો લાભ લેવા માટે ટ્રેડિંગ બુક અને બેંકિંગ બુક વચ્ચે મનસ્વી રીતે નાણાકીય સાધનોનું વર્ગીકરણ કરી શકશે નહીં.",
@@ -322,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/zaheer-khan-becomes-csk-new-head-coach-shocking-announcement-regarding-ipl-2027-491962 ",
     "time": "2026-09-21T13:46:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Tata Sonsનો માત્ર 1 શેર ધરાવતા રોકાણકાર બની શકે છે કરોડપતિ! શું છે આખું ગણિત? જાણો",
-    "desc": "જો ટાટા સન્સનો IPO આવે છે, તો વર્તમાન મૂલ્યાંકન પર, એક શેરની કિંમત 1 કરોડ રૂપિયાથી વધુ હોઈ શકે છે. જાણો કઈ રીતે ગણતરી થાય છે અને ટાટાના આ શેર આટલો મોંધો કેમ છે તેના વિશે પણ તમને આ લેખ દ્વારા જણાવીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/an-investor-holding-just-one-share-of-tata-sons-could-become-a-millionaire-what-is-the-math-behind-this-find-out-491955 ",
-    "time": "2026-09-21T13:17:25.000Z"
   },
   {
     "cat": "Tech",
@@ -585,15 +594,6 @@ const newsData_gu = [
     "time": "2026-09-18T06:16:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "દૂરદર્શનની એવી સીરીયલ જે દુનિયાભરમાં હતી લોકપ્રિય, સીરીયલ જોવા લોકો ભારતથી વીડિયો કેસેટ મંગાવતા",
-    "desc": "દૂરદર્શન પર 80 ના દાયકામાં એક એવી સીરીયલ શરુ થઈ હતી જે લોકપ્રિય થઈ હતી. આ સીરયલ શરુ થવાની હોય ત્યારે લોકો કામ કાજ છોડી ટીવી સામે બેસી જતા હતા. આ સીરીયલના સમયે બજારો ખાલી થઈ જતી એવું કહેવાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/doordarshan-classic-tv-show-buniyaad-on-ott-buniyaad-story-and-star-cast-491514 ",
-    "time": "2026-09-17T04:52:54.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Jio નો સૌથી સસ્તો 5G રિચાર્જ પ્લાન: અનલિમિટેડ 5G ડેટા અને કૉલિંગ સાથે મેળવો આ ફાયદા, જાણો કિંમત",
     "desc": "Jio યુઝર્સે ઓછી કિંમતમાં 5જી ડેટાવાળો પ્લાન જોઈએ તો આ પ્લાન તમારા માટે ઉપયોગી સાબિત થઈ શકે છે. તેમાં અનલિમિટેડ 5જી ડેટાની સાથે અનલિમિટેડ કોલિંગ, 2જીબી 4G ડેટા અને દરરોજ 100 SMS મળે છે. આવો વિગત જાણીએ.",
@@ -601,15 +601,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/jio-bumper-offer-enjoy-unlimited-5g-data-free-sms-with-28-days-validity-491424 ",
     "time": "2026-09-16T09:58:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ધ ગ્રેટ ઇન્ડિયન કપિલ શર્મા 5નો પહેલો એપિસોડ ક્યારે આવશે? નેટફ્લિક્સે કરી જાહેરાત, જાણો",
-    "desc": "કપિલ શર્માનો \"ધ ગ્રેટ ઇન્ડિયન કપિલ શર્મા શોની પાંચમી સીઝનની જાહેરાત કરવામાં આવી છે. કપિલ સાથે સુનીલ ગ્રોવર, કૃષ્ણા અને કીકુ શારદા જોડાયા છે. અર્ચના પૂરણ સિંહ અને નવજોત સિંહ સિદ્ધુ જજ તરીકે જોવા મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/when-will-the-first-episode-of-the-great-indian-kapil-show-season-5-air-netflix-has-made-the-announcement-find-out-here-491421 ",
-    "time": "2026-09-16T09:40:17.000Z"
   },
   {
     "cat": "Tech",
