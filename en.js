@@ -1,21 +1,183 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Joe Jonas finds buyer for Brooklyn condo as Swift’s song sparks Turner buzz",
+    "desc": "Joe Jonas has found a buyer for his Brooklyn condo, which went into contract just before Taylor Swift released “Patient Zero.” The song has sparked speculation among fans about Jonas and his ex-wife Sophie Turner. The 2,654-square-foot property was listed for $6.75 million after Jonas bought it for $6.5 million in May 2024.",
+    "img": "https://static.toiimg.com/photo/msid-134492120,imgsize-101457.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/joe-jonas-finds-buyer-for-brooklyn-condo-just-before-taylor-swifts-patient-zero-sparks-sophie-turner-speculation-2654-sq-ft-property-listed-for-6-75-million-after-6-5-million-purchase-in-2024/articleshow/134492103.cms",
+    "time": "2026-09-25T20:06:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "E20 fuel increases mileage, helps farmers, and will not harm vehicles, says Gadkari",
+    "desc": "‘All automobile companies will bring out vehicles equipped with flex-fuel engines that can run on 100% ethanol. The country will no longer need to import petrol and diesel worth ₹22 lakh crore. There will be no pollution’",
+    "img": "https://th-i.thgim.com/public/incoming/mk6lvk/article71510352.ece/alternates/LANDSCAPE_1200/PTI09_25_2026_000256B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/e20-fuel-increases-mileage-helps-farmers-and-will-not-harm-vehicles-says-gadkari/article71509834.ece",
+    "time": "2026-09-25T19:35:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hyderabad Metro Rail Phase-I takeover, Phase-II expansion hit roadblock as funding search drags on",
+    "desc": "SBI Caps, entrusted with identifying a financial institution willing to lend around ₹13,500 crore for the takeover, has reportedly been unable to finalise a deal despite approaching several agencies. Top officials familiar with the matter say no lender has so far shown willingness to provide the loan at low interest rates sought by the government",
+    "img": "https://th-i.thgim.com/public/incoming/pgabu7/article71510354.ece/alternates/LANDSCAPE_1200/Centre-willing-G8FG0O0RM.5.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/hyderabad-metro-rail-phase-i-takeover-phase-ii-expansion-hit-roadblock-as-funding-search-drags-on/article71509329.ece",
+    "time": "2026-09-25T19:33:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A laddu mirroring the changing fortunes of Balapur",
+    "desc": "For three decades, the Balapur Ganesh laddu has grown from a ₹450 village tradition into a ₹39-lakh symbol of faith, prosperity and changing fortunes. Once bought by farmers and shared among villagers, the prasadam is now sought by businessmen and real-estate entrepreneurs, reflecting the dramatic transformation of a once-rural landscape",
+    "img": "https://th-i.thgim.com/public/incoming/d3ktfz/article71510349.ece/alternates/LANDSCAPE_1200/_DSC8613.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/a-laddu-mirroring-the-changing-fortunes-of-balapur/article71509261.ece",
+    "time": "2026-09-25T19:31:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Couldn’t believe I had won a medal, says Baranica",
+    "desc": "Even when my coach Milber Bertrand Russell told me to look up at the big screen for the official confirmation, I was not sure, I wanted him to confirm from the officials, said Baranica Elangovan",
+    "img": "https://th-i.thgim.com/public/incoming/hpcyz6/article71510321.ece/alternates/LANDSCAPE_1200/55_RVM_0055.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/couldnt-believe-i-had-won-a-medal-says-baranica/article71509646.ece",
+    "time": "2026-09-25T18:58:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tiruchi N. Siva to political rivals",
+    "desc": "Tolerance is not acceptance; tolerance does not mean we have accepted it or that we are not capable; the talented will wait for the right moment; those are the words of Anna, said Tiruchi N. Siva",
+    "img": "https://th-i.thgim.com/public/incoming/5v2vq0/article71510304.ece/alternates/LANDSCAPE_1200/BVR_3892.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tolerance-is-not-acceptance-tiruchi-n-siva-to-political-rivals/article71510284.ece",
+    "time": "2026-09-25T18:37:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Michael Douglas says he never fell in love with co-star until he saw his wife Catherine",
+    "desc": "Celebrating their shared birthdays, Michael Douglas and Catherine Zeta-Jones took to social media, pouring out their emotions. Douglas reflected on the special moment he fell for Zeta-Jones, highlighting their enduring bond since their marriage in 2000. The couple, who have two children together, first crossed paths in 1998 and became engaged in 1999 before tying the knot in a beautiful ceremony in New York City.",
+    "img": "https://static.toiimg.com/photo/msid-134490996,imgsize-473688.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-douglas-says-he-had-never-fallen-in-love-on-movie-screen-until-he-saw-his-wife-catherine-zeta-jones-she-was-magic-in-a-way-that-went-beyond-beauty/articleshow/134490981.cms",
+    "time": "2026-09-25T18:19:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "AI-led phone price hikes persist, hitting Indian customers",
+    "desc": "Phone affordability has taken a hit as a series of price hikes has put budget phones out of reach for many buyers, who are choosing to wait for sales or settle for less powerful devices",
+    "img": "https://th-i.thgim.com/public/incoming/w2051s/article71510264.ece/alternates/LANDSCAPE_1200/2026-02-09T103924Z_565968379_RC2VPGAKTI7X_RTRMADP_3_EU-META-PLATFORMS-AI-ANTITRUST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/ai-led-phone-price-hikes-persist-hitting-indian-customers/article71508595.ece",
+    "time": "2026-09-25T17:54:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Man City found guilty on all but one of 115 charges, reports say",
+    "desc": "The club has diligently respected due process for eight years on the basis the Premier ‌League ⁠board and executive would behave as an independent, impartial and fair minded regulator, ⁠free from partisan influence, said the club in a statement",
+    "img": "https://th-i.thgim.com/public/incoming/rnv2y0/article71510243.ece/alternates/LANDSCAPE_1200/Man_City_Charges_Soccer_97869.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/man-city-found-guilty-on-all-but-one-of-115-charges-reports-say/article71510230.ece",
+    "time": "2026-09-25T17:48:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "18th IDSFFK begins under a cloud of censorship",
+    "desc": "Uncertainty remains over the 31 films for which the Union Ministry of Information and Broadcasting (I&B) has denied censor exemption even as Minister for Cultural Affairs said the Kerala State Chalachitra Academy is making all possible efforts, including legal measures, to secure permission for screening",
+    "img": "https://th-i.thgim.com/public/incoming/4hy7bv/article71509727.ece/alternates/LANDSCAPE_1200/6.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/18th-idsffk-begins-under-a-cloud-of-censorship/article71509212.ece",
+    "time": "2026-09-25T17:39:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lawyers’ group seek fresh hearing in CEC law challenge, Noida DM case",
+    "desc": "The Lawyers Association for Constitution urged that a top court bench – excluding Justice Satish Chandra Sharma – hear both matters, citing public reports that his son is empanelled as standing counsel for the ECI before the MP High Court",
+    "img": "https://th-i.thgim.com/public/incoming/uqhz8l/article71510213.ece/alternates/LANDSCAPE_1200/7_BM_District%20Magistrate.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/lawyers-group-seek-fresh-hearing-in-cec-law-challenge-noida-dm-case/article71509999.ece",
+    "time": "2026-09-25T17:39:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "S Mahadevan reveals scratch mix became 'Dil Chahta Hai' title song",
+    "desc": "Shankar Mahadevan recently opened up about the title track of 'Dil Chahta Hai', revealing that a whopping 21 mixes were experimented with before settling on the final take. Interestingly, the very first scratch recording turned out to be the team's favorite and made it into the film. He also highlighted the tendency of composers to overproduce their music due to insecurities.",
+    "img": "https://static.toiimg.com/photo/msid-134490307,imgsize-705273.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shankar-mahadevan-reveals-dil-chahta-hai-title-track-had-21-versions-before-the-scratch-mix-made-the-final-cut-people-get-scared-of-being-minimalistic/articleshow/134490244.cms",
+    "time": "2026-09-25T17:33:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India Hold Panama 1-1: Blue Tigers impress against world No.44; Brazil, Uruguay await",
+    "desc": "India held FIFA World Cup side Panama to a 1-1 draw in Bengaluru after Ryan Williams gave the Blue Tigers a first-half lead. Omar Valencia equalised after the break, but India created chances to win and withstood late pressure. The result offers Khalid Jamil’s side encouragement ahead of tougher friendlies against Brazil and Uruguay in October.",
+    "img": "https://static.toiimg.com/photo/msid-134490096,imgsize-108204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/india-impress-against-panama-in-1-1-draw-as-blue-tigers-stand-firm-against-world-cup-side/articleshow/134489862.cms",
+    "time": "2026-09-25T17:21:36.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Government yet to decide how open-column caste data will be sorted, tabulated",
     "desc": "Opposition parties and OBC groups are against the open-column option in the 2027 Census; they say the 2011 Socio-Economic Caste Census also had an open field to record caste, yielding over 46 lakh caste names; successive governments did not act on that report, says experts",
     "img": "https://th-i.thgim.com/public/incoming/max4po/article71509971.ece/alternates/LANDSCAPE_1200/05th-vijaita-CeGK2GGB6SP.3.jpg.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/government-yet-to-decide-how-open-column-caste-data-will-be-sorted-tabulated/article71509057.ece",
-    "time": "2026-09-25T16:17:12.000Z"
+    "time": "2026-09-25T17:17:54.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Railway Ministry approves tri-weekly Amrit Bharat Express between Bhuj in Gujarat, Barauni in Bihar",
-    "desc": "30 p.m. and reach Barauni at 04:05 a.m.. In the return direction, Train No. 19428 Barauni-Bhuj Amrit Bharat Express will depart Barauni at 11.55 pm and reach Bhuj at :15 pm,” says a press statement from the Railway Ministry",
-    "img": "https://th-i.thgim.com/public/incoming/wrkfes/article71509846.ece/alternates/LANDSCAPE_1200/90092_31_1_2026_17_49_45_2_RAILWAYS_08.JPG",
+    "title": "Vijay accuses DMK of covering up POCSO Act case against Veeramani, questions AIADMK’s silence",
+    "desc": "At a campaign meeting held in Madurantanakam for the Assembly byelection, the Chief Minister says the accused was ruining the lives of young girls for years. The case was registered during DMK rule, but it was covered up",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/ytuqnu/article71509814.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-25%20at%206.38.17%20PM.jpeg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/gujarat/railway-ministry-approves-tri-weekly-amrit-bharat-express-between-bhuj-in-gujarat-barauni-in-bihar/article71509231.ece",
-    "time": "2026-09-25T15:43:48.000Z"
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-accuses-dmk-of-covering-up-pocso-act-case-against-veeramani-questions-aiadmks-silence/article71508920.ece",
+    "time": "2026-09-25T17:16:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Declaration part of Form 6 changed since SIR in Bihar",
+    "desc": "ECI officials say a separate declaration form with Form 6 and Form 8 was approved by the three-member commission when the SIR process began in Bihar last year and was ratified again in phases two and three",
+    "img": "https://th-i.thgim.com/public/incoming/u6cngu/article71510154.ece/alternates/LANDSCAPE_1200/BIHAR%20ELECTION%20SPECIAL%20INVESTIGATION%20REVISIONSIR%20%20to%20electoral%20roll%20%205.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/declaration-part-of-form-6-changed-since-sir-in-bihar/article71509555.ece",
+    "time": "2026-09-25T17:07:45.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran suggests deal to reopen the Strait of Hormuz in seven days",
+    "desc": "Iran's Foreign Minister Abbas Araghchi, who detailed the proposal in a private gathering on September 24 on the sidelines of the UN General Assembly, suggested that a speedy agreement would help U.S. President Trump ahead of November’s midterm elections",
+    "img": "https://th-i.thgim.com/public/incoming/2ob9c0/article71510110.ece/alternates/LANDSCAPE_1200/PTI05_15_2026_000155B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-suggests-deal-to-reopen-the-strait-of-hormuz-in-seven-days/article71510004.ece",
+    "time": "2026-09-25T16:47:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre extends Afspa in Manipur, Nagaland, Arunachal Pradesh till March 2027",
+    "desc": "In response to ongoing unrest, the Indian home ministry has extended the Armed Forces (Special Powers) Act in select 'disturbed areas' of Manipur and Nagaland for another six months, until March 31, 2027. This decision, spurred by violent clashes between Kukis and Nagas, also sees similar mandates upheld in specific Arunachal Pradesh districts, as the government seeks to maintain order amidst rising tensions.",
+    "img": "https://static.toiimg.com/photo/msid-134489577,imgsize-168182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/centre-extends-afspa-in-manipur-nagaland-arunachal-pradesh-till-march-2027/articleshow/134489478.cms",
+    "time": "2026-09-25T16:40:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anjali Anand's mom's BRUTAL REVIEW of her daughter's film 'Dhamaal 4'",
+    "desc": "Anjali Anand revealed her mother's candid opinion of 'Dhamaal 4' being a one-time watch during a vlog. While reminiscing about her career, Anjali discussed her struggles before landing a role in 'Rocky Aur Rani Kii Prem Kahaani'. She highlighted that her mother had initial doubts due to lack of industry connections. Anjali's life took a turn after an audition opportunity arose during a friend's trip to Goa.",
+    "img": "https://static.toiimg.com/photo/msid-134489523,imgsize-731329.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/one-time-watch-anjali-anands-mother-gives-brutally-honest-verdict-of-her-daughters-film-dhamaal-4-leaves-farah-khan-in-splits/articleshow/134489335.cms",
+    "time": "2026-09-25T16:37:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gukesh channels his world champion self to keep India in gold hunt",
+    "desc": "D Gukesh produced a crucial comeback win over Germany’s Alexander Donchenko in Round 9, helping India stay in the Chess Olympiad gold medal race. India’s men beat Germany 2.5-1.5, while Vantika Agrawal and Divya Deshmukh powered the women’s team to victory. India’s men trail Uzbekistan, while the women remain second behind leaders China with two rounds left.",
+    "img": "https://static.toiimg.com/photo/msid-134489381,imgsize-73032.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-9-d-gukesh-channels-his-world-champion-self-overturns-almost-lost-game-to-keep-india-in-gold-hunt/articleshow/134489331.cms",
+    "time": "2026-09-25T16:32:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -25,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swifts-new-song-cleveland-hints-at-travis-kelce-wedding-as-she-sings-now-im-wearing-white/articleshow/134488550.cms",
     "time": "2026-09-25T15:35:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vijay accuses DMK of covering up POCSO Act case against Veeramani, questions AIADMK’s silence",
-    "desc": "At a campaign meeting held in Madurantanakam for the Assembly byelection, the Chief Minister says the accused was ruining the lives of young girls for years. The case was registered during DMK rule, but it was covered up",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/ytuqnu/article71509814.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-25%20at%206.38.17%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-accuses-dmk-of-covering-up-pocso-act-case-against-veeramani-questions-aiadmks-silence/article71508920.ece",
-    "time": "2026-09-25T15:34:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -61,24 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tillotama-shome-responds-sharply-after-troll-said-she-has-anxiety-issues-over-her-post-on-womens-safety-in-mumbai-how-sensitive-of-you/articleshow/134488526.cms",
     "time": "2026-09-25T15:24:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "18th IDSFFK begins under a cloud of censorship",
-    "desc": "Uncertainty remains over the 31 films for which the Union Ministry of Information and Broadcasting (I&B) has denied censor exemption even as Minister for Cultural Affairs said the Kerala State Chalachitra Academy is making all possible efforts, including legal measures, to secure permission for screening",
-    "img": "https://th-i.thgim.com/public/incoming/4hy7bv/article71509727.ece/alternates/LANDSCAPE_1200/6.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/18th-idsffk-begins-under-a-cloud-of-censorship/article71509212.ece",
-    "time": "2026-09-25T15:19:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Idukki to resume dismantling of illegal fences blocking elephant corridors",
-    "desc": "District Collector Dineshan Cheruvatt orders the dismantling of unauthorised structures that obstruct wildlife movement. Farmers’ groups and the church leaders demand withdrawal of order. Chief Minister says genuine farmers will face no trouble, and only encroached fences will be cleared.",
-    "img": "https://th-i.thgim.com/public/incoming/68wlmf/article71509319.ece/alternates/LANDSCAPE_1200/80759_25_9_2026_19_8_30_1_ILLEGALFENCE2.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/idukki-to-resume-dismantling-of-illegal-fences-blocking-elephant-corridors/article71509174.ece",
-    "time": "2026-09-25T15:13:34.000Z"
   },
   {
     "cat": "Sports",
@@ -216,15 +351,6 @@ const newsData_en = [
     "time": "2026-09-25T12:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bodies of 4 Tangkhul Naga men allegedly killed by militants found near Myanmar border in Manipur",
-    "desc": "Four Tangkhul Naga men were found dead near the Myanmar border in Kamjong district, raising alarms after locals reported a militant attack on residents Thursday night. Authorities confirmed that the victims exhibited numerous bullet wounds, adding urgency to the investigation. This disturbing event feeds into the escalating unrest between Kuki and Naga groups in Manipur, a conflict that has been ongoing since February, even under heavy security measures.",
-    "img": "https://static.toiimg.com/photo/msid-134484464,imgsize-229114.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bodies-of-4-tangkhul-naga-men-allegedly-killed-by-militants-found-near-myanmar-border-in-manipur/articleshow/134483725.cms",
-    "time": "2026-09-25T11:48:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Raghubir Yadav says playing godman 'Hunkkaar' felt like 'fighting death'",
     "desc": "The Roar'. He candidly described the filming process as a daily battle against despair, affecting his heart rate due to his intense performance style. To regain his emotional equilibrium post-shoot, Yadav intentionally distanced himself from his character. The film, boasting an impressive ensemble cast, is now streaming on JioHotstar.",
@@ -286,51 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sk27-officially-launched-as-sivakarthikeyan-joins-hands-with-national-award-winning-parking-director-ramkumar-balakrishnan-a-whole-lot-of-excitement-lets-do-this-together/articleshow/134483255.cms",
     "time": "2026-09-25T11:03:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "French star Marina Vlady passes away at 88; family hails ‘beautiful life’",
-    "desc": "Marina Vlady, the illustrious French actress, has passed away at 88, leaving behind a legacy of over 80 films. She was celebrated for her remarkable work, including winning the prestigious Best Actress award at the Cannes Film Festival back in 1963. Her collaborations with visionaries like Jean-Luc Godard and Orson Welles have etched her name in cinematic history.",
-    "img": "https://static.toiimg.com/photo/msid-134482842,imgsize-104464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/french-actress-marina-vlady-passes-away-at-88-cannes-winning-star-appeared-in-more-than-80-films/articleshow/134482746.cms",
-    "time": "2026-09-25T10:44:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Son Mohsin Khan recalls his final moments",
-    "desc": "Mushtaq Khan, known for his diverse roles in Hindi cinema, passed away on September 24 at age 75. His son, Mohsin Khan, shared that his father's final moments were peaceful and marked by a smile. Friends and colleagues, including Rajat Bedi and Ali Khan, attended his funeral in Mumbai. The film fraternity remembered him for his comic timing and impactful supporting roles in various films.",
-    "img": "https://static.toiimg.com/photo/msid-134482723,imgsize-607599.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mushtaq-khan-funeral-son-mohsin-khan-reveals-late-actors-cancer-had-turned-aggressive-recalls-his-final-moments-and-says-ant-unka-muskurate-hue-hua-hai-rajat-bedi-ali-khan-pay-respects/articleshow/134482685.cms",
-    "time": "2026-09-25T10:41:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "When 'Tau' Devi Lal won the PM race, and then gave it away with a twist",
-    "desc": "Emerging as a pivotal political leader during the 1989 governmental shift in India, Chaudhary Devi Lal first captured the deputy Prime Minister position via astute maneuvering within the Janata Dal party. His major influence was rooted in unwavering backing from Haryana's agricultural sector. Yet, infighting ultimately led to the VP Singh government's downfall.",
-    "img": "https://static.toiimg.com/photo/msid-134482408,imgsize-631949.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-backstory-when-tau-devi-lal-won-the-pm-race-and-then-gave-it-away-with-a-twist/articleshow/134482176.cms",
-    "time": "2026-09-25T10:40:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Paradise’ BO day 2 [Live]: Nani starrer crosses Rs 52 crore in India net",
-    "desc": "With an impressive Rs 6.18 crore collected on its second day, The Paradise is proving to be a box office hit. The Telugu version shines brightly, accounting for Rs 5.45 crore of the total revenue. Contributions from other language versions are also boosting its financial success. Final earnings will be revealed after today's showings conclude.",
-    "img": "https://static.toiimg.com/photo/msid-134481944,imgsize-328587.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/the-paradise-box-office-collection-day-2-live-nani-starrer-crosses-rs-52-crore-in-india-net-as-telugu-version-leads-friday/articleshow/134481938.cms",
-    "time": "2026-09-25T10:31:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 2015, David and Victoria Beckham's £31.5 million London mansion",
-    "desc": "In 2015, David and Victoria Beckham found themselves at odds with a neighbor concerning their renovation plans for their mansion. The neighbor raised concerns about the proposed air-conditioning units, citing potential damage to the area's historic charm. Despite opposition based on noise and environmental pollution, the Kensington and Chelsea Council greenlit the plans in April 2015.",
-    "img": "https://static.toiimg.com/photo/msid-134481121,imgsize-141281.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2015-david-and-victoria-beckhams-31-5-million-london-mansion-became-the-centre-of-a-neighbour-dispute-over-renovation-plans/articleshow/134478634.cms",
-    "time": "2026-09-25T10:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -441,31 +522,13 @@ const newsData_en = [
     "time": "2026-09-25T07:07:54.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Sachin one win away from boxing medal after scrappy last-16 victory",
-    "desc": "Sachin Siwach has successfully moved into the men’s 60kg quarterfinals after triumphing over Mohammad Adnan Abu Jajeh from Jordan. After receiving a bye in the first round, he exhibited adept boxing skills and strategic thinking, leading to a hard-fought split-decision victory. Up next, Sachin will face Japan’s Shunsuke Kitamoto in hopes of clinching a medal.",
-    "img": "https://static.toiimg.com/photo/msid-134478090,imgsize-87770.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-sachin-siwach-one-win-away-from-boxing-medal-after-scrappy-pre-quarterfinal-victory/articleshow/134477986.cms",
-    "time": "2026-09-25T07:00:39.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "'Hanuman Ansh' BO Day 50 [LIVE]: Neem Kaorli Baba biopic sets sight on Rs 290 crore India net mark",
+    "title": "'Hanuman Ansh' hits Day 50 milestone with Rs 381.35 crore worldwide gross",
     "desc": "'Hanuman Ansh' has reached the significant milestone of Day 50 in theatres, with its India net collection now standing at Rs. 288.55 crore. Vishal Chaturvedi's spiritual biopic on Neem Karoli Baba, led by Shobhinaw Satyaa, has completed a full 50 days on the big screen, a rare feat for a film that opened to a near-invisible start, with its worldwide gross now past Rs. 377 crore. Reaching a 50-day theatrical run is itself a notable achievement in today's fast-churning box office landscape, and 'Hanuman Ansh' has managed it while still adding fresh crores to its tally rather than running purely on nostalgia. Day 50 numbers are still coming in through the day, with the final figure to follow once all shows have concluded.",
     "img": "https://static.toiimg.com/photo/msid-134477848,imgsize-129914.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-50-live-vishal-chaturvedi-and-shobhinaw-satyaas-spiritual-biopic-on-neem-kaorli-baba-continues-its-extraordinary-theatrical-run-targets-rs-290-crore-domestic-net-and-rs-380-crore-worldwide-gross-milestones/articleshow/134477818.cms",
     "time": "2026-09-25T06:54:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India one step away from defending kabaddi golds as men and women storm into finals",
-    "desc": "In a thrilling display of skill and determination, India's kabaddi teams have booked their places in the gold medal matches at the Asian Games 2026. The women's team showcased their strength by overpowering Nepal with an impressive 48-24 victory in the semifinals, while the men's team dominated Thailand, winning 66-27. As they gear up for the final matches in Nagoya, both teams seek to add to India's rich kabaddi legacy.",
-    "img": "https://static.toiimg.com/photo/msid-134477329,imgsize-1252384.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-india-one-step-away-from-defending-kabaddi-gold-medals-as-men-and-women-storm-into-finals/articleshow/134477190.cms",
-    "time": "2026-09-25T06:32:54.000Z"
   },
   {
     "cat": "Sports",
@@ -502,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-bse-sensex-opens-over-100-points-up-nse-nifty50-trades-above-23000/articleshow/134474079.cms",
     "time": "2026-09-25T03:51:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Niraj, Rudrankksh, Aishwary Pratap win silver in 50m R3PS",
-    "desc": "India's Niraj Kumar, Rudrankksh Patil and Aishwary Pratap Singh Tomar won the silver medal in the men's 50m rifle 3 positions team event at the Asian Games 2026. The Indian trio finished with a total score of 1762-94x to finish second behind China.",
-    "img": "https://static.toiimg.com/photo/msid-134474457,imgsize-64453.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-niraj-kumar-rudrankksh-patil-aishwary-pratap-singh-win-silver-in-50m-rifle-3-positions-team-event/articleshow/134474393.cms",
-    "time": "2026-09-25T03:43:27.000Z"
   },
   {
     "cat": "Sports",

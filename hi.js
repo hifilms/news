@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Man City plan for lengthy legal battle after reports of being guilty of 114 financial charges",
+    "desc": "Manchester City are preparing for a potentially lengthy legal battle with the Premier League after being found guilty of 114 financial charges against the club. An independent panel investigated 115 cases for over three years...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/man-city-plan-for-lengthy-legal-battle-after-reports-of-being-guilty-of-114-financial-charges-2026-09-25-1055321",
+    "time": "2026-09-25T18:11:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill hit on elbow in nets; is Indian captain doubtful for first ODI vs West Indies?",
+    "desc": "India captain Shubman Gill was struck on his right elbow during a net session in Thiruvananthapuram on Friday. The opener was playing Mohammed Siraj in the nets when a rising delivery from the India pacer...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-hit-on-elbow-in-nets-is-indian-captain-doubtful-for-first-odi-vs-west-indies-2026-09-25-1055317",
+    "time": "2026-09-25T17:32:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "138th-ranked India defy 94-place gap to hold World Cup side Panama to 1-1 draw in Bengaluru",
     "desc": "A resolute Indian men’s football team produced a spirited performance to hold 44th-ranked Panama to a credible 1-1 draw in a high-intensity FIFA International Friendly at the Sree Kanteerava Stadium on Friday evening. Former Australian international...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-drop-stinker-defending-champions-suffer-first-round-exit-in-asian-games-2026-2026-09-25-1055274",
     "time": "2026-09-25T10:32:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Already building': Prasidh Krishna weighs in on India's preparation for BGT 2027, opens up on upcoming ODI WC",
-    "desc": "The year 2027 is completely stacked for the Indian cricket team. The side has several huge assignments right from the start of the year, and the preparations for the same are underway as well. With...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/already-building-prasidh-krishna-weighs-in-on-india-s-preparation-for-bgt-2027-opens-up-on-upcoming-odi-wc-2026-09-25-1055268",
-    "time": "2026-09-25T09:50:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Yashasvi Jaiswal get a chance in India's XI ahead of WI series? Former cricketer opines",
-    "desc": "The stage is set for the upcoming multi-format white ball series between India and the West Indies. The two sides are slated to take on each other for the first ODI on September 27, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-yashasvi-jaiswal-get-a-chance-in-india-s-xi-ahead-of-wi-series-former-cricketer-opines-2026-09-25-1055264",
-    "time": "2026-09-25T08:57:51.000Z"
   }
 ];
