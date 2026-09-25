@@ -135,15 +135,6 @@ const newsData_bn = [
     "time": "2026-09-23T14:28:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'২০৪৭-এর মধ্যে ভারতকে উন্নত দেশ করাই লক্ষ্য', WION Tourism Summit-এ বললেন গজেন্দ্র সিং শেখাওয়াত",
-    "desc": "WION-এর Iconic Tourism Summit-এ কেন্দ্রীয় সংস্কৃতি ও পর্যটনমন্ত্রী গজেন্দ্র সিং শেখাওয়াত ভারতের উন্নয়নযাত্রা নিয়ে বক্তব্য রাখেন। তিনি বৈদিক ‘চরৈবেতি, চরৈবেতি’ মন্ত্রের উল্লেখ করে এগিয়ে চলার কথা বলেন। তাঁর বক্তব্য অনুযায়ী, ভারতের অর্থনৈতিক অগ্রগতি ও পর্যটনের সম্ভাবনা দেশকে ২০৪৭ সালের মধ্যে উন্নত দেশে পরিণত করার লক্ষ্যের সঙ্গে যুক্ত।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/gajendra-shekhawat-charaiveti-charaiveti-wion-tourism-summit-developed-india-2047_671991.html ",
-    "time": "2026-09-23T09:32:18.000Z"
-  },
-  {
     "cat": "World",
     "title": "রহস্যময় মেসেজের পরই গাড়ির ভিতর প্রকাশের ৯ টুকরো দেহ! এদিকে ছেলে নিয়ে উধাও শিক্ষিকা স্ত্রী",
     "desc": "শারজায় কর্ণাটকের এক ব্যক্তিকে কুপিয়ে ৯ টুকরো করে খুন করা হয়েছে। ওমানগামী রাস্তার ধারে একটি গাড়ি থেকে তাঁর দেহাংশ উদ্ধার হয়। নিহত ব্যক্তির নাম অ্যালউইন প্রকাশ কুন্দের। ঘটনার পর থেকেই তাঁর স্ত্রী ও ছেলে নিখোঁজ রয়েছেন।",
@@ -277,24 +268,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/trump-russia-sanctions-law-100-percent-tariff-india-china-russian-oil_671479.html ",
     "time": "2026-09-19T12:05:46.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "রক্তাক্ত শুক্রবার: জুম্মার নামাজের সময় আত্মঘাতী বিস্ফোরণে ছিন্নভিন্ন দেহ, অন্ধকারের বুক চিরে ঝাঁকে ঝাঁকে গুলি-- মুহূর্তে নরককুণ্ড",
-    "desc": "পুলিস ও স্থানীয় সূত্রে জানা গিয়েছে, কোহাটের ‘ওল্ড পুলিস লাইনস’ চত্বরে একটি মসজিদের কাছে রক্তক্ষয়ী হামলা হয়। শুক্রবার দুপুরে যখন পুলিসকর্মী, তাঁদের পরিবারের সদস্য এবং স্থানীয় সাধারণ মানুষ মসজিদে জড়ো হয়ে জুম্মার নামাজ পরছিলেন, ঠিক তখনই বিস্ফোরক বোঝাই একটি গাড়ি নিয়ে পুলিশ চত্বরের সীমানা প্রাচীরে সজোরে ধাক্কা মারে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/deadly-suicide-car-bombing-at-kohat-police-lines-in-pakistan-khyber-pakhtunkhwa-leaves-at-least-16-dead-during-friday-prayers_671410.html ",
-    "time": "2026-09-18T13:50:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বিয়ের দিনক্ষণ কি ঠিক? বিগ বসের ঘরেই প্ল্যান ফাঁস সোনামণির, 'হবু বউ'কে নিয়ে প্রতীকের উত্তরেই গুঞ্জন",
-    "desc": "চলতি বছরেই বিয়ের পরিকল্পনা রয়েছে সোনামণির। পাত্রের নাম অবশ্য জানাননি। তবে দীর্ঘদিন ধরেই প্রতীক সেনের সঙ্গে তাঁর সম্পর্ক নিয়ে টলিপাড়ায় আলোচনা রয়েছে। ‘মোহর’-এর সময় থেকেই তাঁদের ঘনিষ্ঠতা ও প্রেমের গুঞ্জন। এবার সোনামণির এই মন্তব্যে ফের প্রশ্ন—তবে কি ২০২৬-এর শেষেই প্রতীক-সোনামণির বিয়ে?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/sonamoni-saha-marriage-when-wedding-pratik-sen-bigg-boss-bangla_671309.html ",
-    "time": "2026-09-17T12:03:26.000Z"
   },
   {
     "cat": "Business",

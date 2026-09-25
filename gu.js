@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "પહેલા દિવસે 100% સબસ્ક્રાઇબ થયો આ IPO, 105 પર પહોંચ્યો GMP, 29 તારીખ સુધી રહેશે ખુલ્લો, જાણો",
+    "desc": "IPOનો GMP પ્રતિ શેર 105 રૂપિયા પર પહોંચ્યો છે. પહેલા દિવસના થોડા કલાકોમાં જ IPO 100 ટકા સબસ્ક્રાઇબ થઈ ગયો હતો. રોકાણકારો માટે હજી પણ રોકાણ કરવાની તક બાકી છે, જે રોકાણકારને રોકાણ કરવું હોય તેના માટે IPO 29 સપ્ટેમ્બર સુધી ખુલ્લો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/this-ipo-was-100-percent-subscribed-on-the-first-day-gmp-reached-105-open-until-the-29th-here-are-the-details-492287 ",
+    "time": "2026-09-25T14:03:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ગુજરાતને નવી અમૃત ભારત એક્સપ્રેસની ભેટ, આ રૂટ પર દોડશે, જાણો રૂટ અને ટાઈમ",
+    "desc": "ભુજ અને બરૌની વચ્ચે નવી અમૃત ભારત એક્સપ્રેસ શરૂ થવાથી પશ્ચિમ અને પૂર્વ ભારત વચ્ચે રેલ કનેક્ટિવિટીમાં સુધારો થશે. ગુજરાત, રાજસ્થાન, ઉત્તર પ્રદેશ અને બિહારના મુસાફરોને નોંધપાત્ર ફાયદો થશે. આશરે 2,532 કિલોમીટરનું અંતર કાપતી આ ટ્રેન લાંબા અંતરના પ્રવાસીઓ માટે એક વધારાનો વિકલ્પ પૂરો પાડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/gujarat-receives-the-gift-of-a-new-amrit-bharat-express-it-will-run-on-this-route-check-the-route-and-timings-492283 ",
+    "time": "2026-09-25T11:54:19.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ક્યારે અને ક્યાં શરૂ થશે કોકરોચોનું હવે પછીનું આંદોલન? અભિજીત દીપકેએ જણાવ્યો પ્લાન",
     "desc": "કોકરોચ જનતા પાર્ટી વળી પાછી આંદોલન કરવાના મૂડમાં આવી ગઈ છે. આ વખતે તેણે હવે મુખ્ય ચૂંટણી કમિશનર જ્ઞાનેશ કુમારના રાજીનામાની માંગણી કરી નાખી છે. આ માટે 48 કલાકનું અલ્ટીમેટમ પણ આપેલું છે. જાણો આંદોલન ક્યારથી શરૂ થશે અને ક્યાં થશે?",
@@ -304,15 +322,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/national-film-awards-gujarat-ekta-nagar-kartik-aryan-viral-video-photos-chandu-champion-492017 ",
     "time": "2026-09-22T06:09:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દિલ્હી: પોલીસકર્મી તરીકે ઓળખ આપીને 3 નરાધમોએ મંદિર પાસે જ સગીરાને પીંખી નાખી, એન્કાઉન્ટર બાદ એકની ધરપકડ",
-    "desc": "જેના પર નાગરિકોના રક્ષણની જવાબદારી હોય છે તેવા પોલીસકર્મીઓની શાખ બગાડવાનું કામ કરનારા આવા અપરાધીઓને એવી સજા થવી જોઈએ કે બીજીવાર આવું જઘન્ય કૃત્ય કરવાની હિંમત કોઈ ન કરે. દેશની રાજધાની દિલ્હીથી એક હચમચાવી નાખતી ઘટના સામે આવી છે જેમાં પોલીસકર્મી તરીકે પોતાની ઓળખ આપીને 3 નરાધમોએ એક સગીરા પર ગેંગરેપ આચર્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/delhi-kalkaji-temple-minor-girl-gang-rape-case-one-accused-held-after-encounter-492015 ",
-    "time": "2026-09-22T05:24:13.000Z"
   },
   {
     "cat": "Business",
