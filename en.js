@@ -1,12 +1,147 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Trump rejects Iran proposal for deal to reopen Hormuz",
+    "desc": "\"They want to make a deal where they open the Strait immediately because they're losing so badly. They want to make a deal and I think that's fine. I like making a deal too,\" the U.S. President said.",
+    "img": "https://th-i.thgim.com/public/incoming/9a9js0/article71514093.ece/alternates/LANDSCAPE_1200/2026-09-26T154616Z_1311439009_RC23RNAITTIN_RTRMADP_3_USA-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-rejects-iran-proposal-for-deal-to-reopen-hormuz/article71514089.ece",
+    "time": "2026-09-26T19:57:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chadwick Boseman’s widow hits back at his brothers over $3.4M estate dispute",
+    "desc": "Chadwick Boseman’s widow Taylor Simone Ledward has pushed back against his brothers’ lawsuit over the late actor’s estate. Her legal response says she distributed the required assets and paid $150,000 to Derrick and Kevin from SAG-AFTRA residuals. Ledward’s attorney called the brothers’ case a “public-relations stunt” and denied claims of estate mismanagement.",
+    "img": "https://static.toiimg.com/photo/msid-134509854,imgsize-127196.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chadwick-bosemans-widow-taylor-simone-ledward-hits-back-at-his-brothers-over-3-4-million-estate-dispute-says-150000-was-already-paid-to-derrick-and-kevin-and-calls-lawsuit-a-public-relations-stunt/articleshow/134509847.cms",
+    "time": "2026-09-26T19:35:41.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "Minister",
-    "desc": "Inaugurating the 87th annual general body meeting of the Association of Planters of Kerala, Forest Minister Shibu Baby John says the government remains firm in its stand to exclude all inhabited areas from the final notification",
+    "title": "Ernakulam continues to report highest number of influenza cases in Keralam",
+    "desc": "A total of 969 cases reported in the district till September 26. The State recorded 2,205 confirmed influenza cases during the month. As many as 20 deaths were reported due to influenza in the State.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/do-not-spread-fears-over-esa-notification-minister/article71513458.ece",
-    "time": "2026-09-26T15:38:24.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/ernakulam-continues-to-report-highest-number-of-influenza-cases-in-keralam/article71513754.ece",
+    "time": "2026-09-26T19:04:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hugh Grant and Julia Roberts’ Notting Hill home listed for £7.95 million",
+    "desc": "The London home made famous by Hugh Grant, Julia Roberts and Rhys Ifans in ‘Notting Hill’ is on the market for £7.95 million. Once owned by screenwriter Richard Curtis, the property became a global tourist attraction after the 1999 film. The converted church spans 3,000 sq ft and includes three bedrooms and two bathrooms.",
+    "img": "https://static.toiimg.com/photo/msid-134509291,imgsize-109620.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hugh-grant-and-julia-roberts-notting-hill-home-with-famous-blue-door-listed-for-7-95-million-nearly-30-years-after-films-release/articleshow/134509255.cms",
+    "time": "2026-09-26T18:42:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Keralam to leverage AI, cutting-edge digital tools to reshape tourism, says Minister",
+    "desc": "Tourism Minister P.C. Vishnunadh says the govt.’s aim is to see that tourists coming to the State are treated with a wholesome Keralam experience, marking a shift from the approach of promoting a few places and products separately through destination-focused packages and products",
+    "img": "https://th-i.thgim.com/public/incoming/qth7e/article71514003.ece/alternates/LANDSCAPE_1200/Kerala%20Tourism%20Logo.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/keralam-to-leverage-ai-cutting-edge-digital-tools-to-reshape-tourism-says-minister/article71513346.ece",
+    "time": "2026-09-26T18:02:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Damage control’ after EC row: Congress demands SIR rollback, CEC’s resignation",
+    "desc": "Congress has called for the suspension of the ongoing Special Intensive Revision of electoral rolls and the resignation of Gyanesh Kumar. The Election Commission defended its decisions amidst concerns of disenfranchisement of voters and internal disagreements. Congress leaders accused the Commission of inadequately addressing issues with Form 6 changes related to voter registration. They raised questions about deletions of young and Gen Z voters and emphasized the need for transparency.",
+    "img": "https://static.toiimg.com/photo/msid-134508554,imgsize-326736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/damage-control-after-ec-row-congress-demands-sir-rollback-cecs-resignation/articleshow/134508521.cms",
+    "time": "2026-09-26T17:51:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Election Commission stops physical hearings for voters, to start enrolment drive",
+    "desc": "Days after reports of rift within EC, it announces several steps to address SIR concerns; new voters seeking inclusion in rolls after SIR need not submit declaration with Form 6; it extends deadline for filing claims and objections in Delhi and Maharashtra",
+    "img": "https://th-i.thgim.com/public/incoming/slrmb/article71512672.ece/alternates/LANDSCAPE_1200/IMG_INDEXELECTIONCOMMISS_2_1_B6EB6NQQ.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/election-commission-new-special-intensive-revision-rules/article71512646.ece",
+    "time": "2026-09-26T17:41:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Food Safety department shuts down 25 eateries for violations",
+    "desc": "Simultaneous inspections cover 70 hotels, restaurants and other eateries in all 28 districts; finds several serious violations, including unhygienic kitchens, improper storage of food, use of unauthorised artificial colours and flavour enhancers, and prolonged storage of cooked food in poorly maintained freezers",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/food-safety-department-shuts-down-25-eateries-for-violations/article71513897.ece",
+    "time": "2026-09-26T17:35:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Love quote of the day by Zendaya",
+    "desc": "Zendaya shared her thoughts on love and relationships, emphasizing the need for emotional safety and understanding. She believes that a strong relationship allows individuals to express themselves freely and fully. Her quote highlights the significance of feeling seen and safe with a partner. Zendaya's background includes her rise as a Disney star and recent acclaim in Hollywood films. Ultimately, she stresses that emotional openness is essential for healthy love.",
+    "img": "https://static.toiimg.com/photo/msid-134503594,imgsize-62392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/love-quote-of-the-day-by-zendaya-if-you-feel-safe-with-someone-seen-by-someone-then-you-feel-like-you-can-tell-them-everything-a-heart-warming-take-on-a-healthy-relationship-from-the-spider-man-star/articleshow/134503542.cms",
+    "time": "2026-09-26T17:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi High Court",
+    "desc": "The court holds ‘personal law may determine whether a marriage has been contracted’, but cannot create an exception to a criminal law where Parliament has provided none, dismissing a petition seeking the quashing of an FIR registered against a man for rape under the BNS and the POCSO Act",
+    "img": "https://th-i.thgim.com/public/incoming/v3plnc/article71513962.ece/alternates/LANDSCAPE_1200/INDEX%20DELHI%20HIGH%20COURT%20%20DELHI%202025_09_04_20%202.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/muslim-marriage-cannot-override-pocso-law-delhi-high-court/article71513415.ece",
+    "time": "2026-09-26T17:28:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jamaican contestant Gabrielle Henry speaks out after Miss Universe fall",
+    "desc": "Jamaican contestant Gabrielle Henry is speaking out nearly a year after she fell nearly five feet from the Miss Universe stage in Bangkok, suffering a traumatic brain injury and other injuries. Henry has filed a lawsuit against the Miss Universe Organization, alleging unsafe stage conditions contributed to the fall and seeking accountability over contestant safety.",
+    "img": "https://static.toiimg.com/photo/msid-134507821,imgsize-108749.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jamaican-contestant-gabrielle-henry-speaks-out-nearly-a-year-after-miss-universe-stage-fall-left-her-with-traumatic-brain-injury-files-lawsuit-alleging-unsafe-conditions-in-bangkok/articleshow/134507768.cms",
+    "time": "2026-09-26T16:52:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump says he does not want to 'integrate' with China on AI",
+    "desc": "“What they want to do is stop our progress because ‌we’re leading China by ​a lot, and we’re going to ⁠keep it that way. We didn’t spend that ‌much time talking about it,” says Trump",
+    "img": "https://th-i.thgim.com/public/incoming/896eae/article71513850.ece/alternates/LANDSCAPE_1200/2026-09-26T154616Z_1311439009_RC23RNAITTIN_RTRMADP_3_USA-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-says-he-does-not-want-to-integrate-with-china-on-ai/article71513808.ece",
+    "time": "2026-09-26T16:42:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Director drops serious films with Akshay",
+    "desc": "Following 'Haiwaan's box office failure, earning just Rs 9.92 crore net, director Priyadarshan has ruled out serious films with Akshay Kumar, stating audiences prefer them in comedy. He cited past underperformer Khatta Meetha too. Meanwhile, their comedy collaborations like Hera Pheri, Bhool Bhulaiyaa and this year's Bhooth Bangla remain major hits.",
+    "img": "https://static.toiimg.com/photo/msid-134507539,imgsize-210153.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-haiwaan-failure-priyadarshan-sticks-to-comedy-with-akshay-kumar-i-dont-think-the-audience-wants-to-see-us-in-the-non-comedic-space/articleshow/134507517.cms",
+    "time": "2026-09-26T16:21:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's full schedule on September 27; medal events, timings",
+    "desc": "India's campaign at the 2026 Asian Games in Aichi-Nagoya, Japan, continues on Sunday, September 27, with athletes competing across multiple sports and disciplines. There will be plenty of action for Indian athletes throughout the day, with Manju Rani and Priyanka Goswami competing in the women's marathon race walk, while Harjinder Kaur will be in the women's 69kg weightlifting medal event.",
+    "img": "https://static.toiimg.com/photo/msid-134507459,imgsize-49430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indias-full-schedule-on-september-27-medal-events-timings/articleshow/134507346.cms",
+    "time": "2026-09-26T16:11:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AI camera mistakes guitar for pillion rider in Bengaluru, issues fine for not wearing helmet",
+    "desc": "After getting a ₹500 challan, the rider complains to the Bengaluru Traffic Police and seeks rectification; the incident draws attention to the limitations of AI-dependent traffic systems; AI sharpens with more data, says a senior official",
+    "img": "https://th-i.thgim.com/public/incoming/rbvvs4/article71513772.ece/alternates/LANDSCAPE_1200/Wrong%20flagging%20by%20AI%20camera.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/ai-camera-mistakes-guitar-for-pillion-rider-in-bengaluru-issues-fine-for-not-wearing-helmet/article71512387.ece",
+    "time": "2026-09-26T16:11:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nivin Pauly and Mamitha Baiju’s ‘Bethlehem Kudumba Unit’ OTT release date",
+    "desc": "The film 'Bethlehem Kudumba Unit' has captured audiences since its release on August 21, raking in over Rs 323 crore worldwide. Starring Nivin Pauly and Mamitha Baiju, this romantic comedy-drama presents a unique love tale that resonates with many. For those eager to watch it, the film will be available on JioHotstar from October 2, further establishing its significance in Malayalam cinema.",
+    "img": "https://static.toiimg.com/photo/msid-134507271,imgsize-171059.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-ott-release-date-confirmed-when-and-where-to-stream-nivin-pauly-and-mamitha-baijus-romantic-comedy-drama-directed-by-girish-a-d-/articleshow/134507263.cms",
+    "time": "2026-09-26T15:55:42.000Z"
   },
   {
     "cat": "World",
@@ -16,15 +151,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-pushes-back-against-us-on-iran-and-cuba-in-un-speech/article71513507.ece",
     "time": "2026-09-26T15:10:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Swell waves reach west coast; red alert continues along Keralam coast",
-    "desc": "According to KSDMA, swell waves with a period of 20 to 24 seconds and a height of up to 1.5 metres reportedly hit parts of Kanyakumari on September 26, while precursor waves began reaching the Keralam coast",
-    "img": "https://th-i.thgim.com/public/incoming/br75r9/article71513490.ece/alternates/LANDSCAPE_1200/NH24Valiyathura01.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/swell-waves-reach-west-coast-red-alert-continues-along-keralam-coast/article71513280.ece",
-    "time": "2026-09-26T15:04:59.000Z"
   },
   {
     "cat": "Sports",
@@ -43,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nani-says-the-most-noise-a-film-has-made-in-2026-is-the-paradise-as-he-reacts-to-audience-response-to-his-latest-release-directed-by-srikanth-odela/articleshow/134506470.cms",
     "time": "2026-09-26T14:40:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A decade in the making, bridge linking Kottayam, Alappuzha set to open soon",
-    "desc": "The 800-metre-long Nerekadavu-Makkekadavu bridge across Vembanad Lake connects Udayanapuram grama panchayat in Kottayam with Thaikkattussery panchayat in Alappuzha. Construction of the bridge has been completed while work is under way on the approach roads on either side and the retaining walls",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/a-decade-in-the-making-bridge-linking-kottayam-alappuzha-set-to-open-soon/article71512583.ece",
-    "time": "2026-09-26T14:40:34.000Z"
   },
   {
     "cat": "Politics",
@@ -79,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-7-india-win-seven-medals-as-kabaddi-teams-deliver-gold-double-in-action-packed-saturday/articleshow/134506152.cms",
     "time": "2026-09-26T14:26:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chief Minister Chandrababu Naidu orders urgent relief measures in flood-hit areas",
-    "desc": "The Chief Minister directs officials to expedite the process of restoration of power supply, distribute 50 kg of rice to each fisherfolk family, and evolve plans to construct two barrages, one upstream and another downstream of Prakasam Barrage, to impound local floodwaters",
-    "img": "https://th-i.thgim.com/public/incoming/qt2xj9/article71512920.ece/alternates/LANDSCAPE_1200/DSC_7641.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-chandrababu-naidu-orders-urgent-relief-measures-in-flood-hit-areas/article71511827.ece",
-    "time": "2026-09-26T14:24:35.000Z"
   },
   {
     "cat": "Sports",
@@ -252,22 +360,13 @@ const newsData_en = [
     "time": "2026-09-26T12:00:52.000Z"
   },
   {
-    "cat": "World",
+    "cat": "Tech",
     "title": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit: Beijing",
     "desc": "The two countries established a “U.S.-China Super Intelligence (SI) Dialogue to exchange views on risks and benefits” of AI, the White House said in a fact sheet, noting that their leaders had agreed to use the term SI rather than AI.",
     "img": "https://th-i.thgim.com/public/incoming/rcniue/article71511781.ece/alternates/LANDSCAPE_1200/AP09_26_2026_000002B.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-china-to-set-up-communication-channel-for-ai-incidents/article71511753.ece",
     "time": "2026-09-26T11:53:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Stop acting as EC's spokespersons': Priyank Kharge slams BJP for defending poll panel amid SIR row",
-    "desc": "Priyank Kharge has voiced serious concerns about the BJP's support for the Election Commission's recent decisions. He insists that the Commission must clarify its electoral-roll processes to maintain credibility. This critique underscores significant implications for India's democratic framework. Former election commissioner Om Prakash Rawat has also weighed in on the Commission's decision-making.",
-    "img": "https://static.toiimg.com/photo/msid-134503457,imgsize-52656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/stop-acting-as-ecs-spokespersons-priyank-kharge-slams-bjp-for-defending-poll-panel-amid-sir-row/articleshow/134503371.cms",
-    "time": "2026-09-26T11:29:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -288,24 +387,6 @@ const newsData_en = [
     "time": "2026-09-26T11:24:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anubhav Sinha ventures into music with new label",
-    "desc": "Filmmaker Anubhav Sinha has launched his music label \"Benaras Beat,\" revealing the idea took nearly eight years to materialize. He shared his lifelong passion for music and how a dedicated team came together a year ago. New songs are in the pipeline, though composer details remain under wraps for now.",
-    "img": "https://static.toiimg.com/photo/msid-134503338,imgsize-293583.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anubhav-sinha-ventures-into-music-with-new-label-benaras-beat-it-was-formed-in-my-head-and-in-the-office-about-seven-eight-years-ago/articleshow/134503310.cms",
-    "time": "2026-09-26T11:18:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dhanush seeks blessings at Palani temple with sons and family",
-    "desc": "Actor Dhanush visited the Palani Murugan Temple early in the morning with his family and sons. He offered prayers following the pooja ceremony for his upcoming film ‘D56’ in Sivaganga. After completing the darshan, Dhanush and his family returned to the foothills by rope car. His temple visit attracted attention from numerous devotees who gathered to see him. Dhanush's upcoming projects include 'OM' and other films in various production stages.",
-    "img": "https://static.toiimg.com/photo/msid-134503308,imgsize-134281.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhanush-seeks-blessings-at-palani-temple-with-sons-and-family-after-d56-pooja-ceremony-in-sivaganga-actor-takes-steps-to-hill-shrine-at-6-am/articleshow/134503293.cms",
-    "time": "2026-09-26T11:16:41.000Z"
-  },
-  {
     "cat": "Business",
     "title": "turnover hits $23.67bn, open interest at $21.87bn; NSE IX hails “new era”",
     "desc": "On September 25, 2026, GIFT Nifty reported unprecedented turnover and open interest, showcasing impressive expansion. The platform achieved a total cumulative turnover of $3.52 trillion since its inception, alongside trading 76.19 million contracts. The NSE IX indicated a substantial uptick in trading volumes post the July 2023 full-scale operation launch, significantly fostering international participation, especially following the recent regulatory exemptions benefiting US customers.",
@@ -313,24 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gift-nifty-breaks-the-23-billion-mark-as-trading-activity-hits-a-fresh-high/articleshow/134502922.cms",
     "time": "2026-09-26T11:13:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Uttarakahand CM Pushkar Singh Dhami participates in BJP's 'drug free Punjab' campaign, takes on AAP government",
-    "desc": "Uttarakhand Chief Minister Pushkar Singh Dhami, during his visit to Dasuya in Punjab, said the BJP was committed to making the state drug-free and urged people to join the campaign against drug abuse. He also said Union Home Minister Amit Shah's upcoming visit would provide momentum to the campaign.",
-    "img": "https://static.toiimg.com/photo/msid-134502931,imgsize-59536.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/uttarakahand-cm-pushkar-singh-dhami-participates-in-bjps-drug-free-punjab-campaign-takes-on-aap-government/articleshow/134502933.cms",
-    "time": "2026-09-26T11:04:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Election Commission row explained in 7 key questions",
-    "desc": "Election Commissioners are voicing apprehensions about internal decision-making and communication challenges within the Election Commission. Tensions have emerged surrounding form modifications and voter database access. This situation fuels a critical debate on the authority of the Chief Election Commissioner in relation to other commissioners. Additionally, existing legislation regarding appointments and the independence of the Commission is under examination.",
-    "img": "https://static.toiimg.com/photo/msid-134502885,imgsize-111906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/when-the-referee-fumbles-election-commission-row-explained-in-7-key-questions/articleshow/134502722.cms",
-    "time": "2026-09-26T10:57:20.000Z"
   },
   {
     "cat": "Business",
@@ -349,51 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/big-dollar-inflows-little-boost-for-rupee-why-the-currency-may-stay-near-rs-96-in-near-term/articleshow/134502447.cms",
     "time": "2026-09-26T10:32:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Only those who elected us can dissolve us': J&amp;K dy CM on BJP's demand for Omar govt dismissal",
-    "desc": "Deputy chief minister Surinder Choudhary stands firm in defending the National Conference-led government from the BJP's push for dismissal. He underscores the importance of the elected government's legitimacy and condemns the BJP's anti-democratic maneuvers. Choudhary notes their persistent criticism of statehood restoration efforts while pointing out the lack of constructive solutions proposed by the BJP in assembly. He argues that rejuvenating statehood is crucial for resolving public grievances effectively.",
-    "img": "https://static.toiimg.com/photo/msid-134502537,imgsize-153738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/only-those-who-elected-us-can-dissolve-us-jk-dy-cm-on-bjps-demand-for-omar-govt-dismissal/articleshow/134502443.cms",
-    "time": "2026-09-26T10:30:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 2014, Akon launched a solar initiative to bring electricity to rural Africa",
-    "desc": "Akon Lighting Africa, established in February 2014, is dedicated to delivering solar power to communities across the African continent. Within its inaugural year, the initiative broadened its reach to 14 nations. Founded by Akon, Thione Niang, and Samba Bathily, the focus is on off-grid solar technologies. By leveraging public-private partnerships, the project seeks sustainable solutions for electricity access, with ambitions to expand even further throughout Africa.",
-    "img": "https://static.toiimg.com/photo/msid-134501412,imgsize-114828.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2014-akon-launched-a-solar-initiative-to-bring-electricity-to-rural-africa-within-a-year-it-reached-14-countries/articleshow/134501102.cms",
-    "time": "2026-09-26T10:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Motivational quote of the day by Harrison Ford",
-    "desc": "Harrison Ford emphasized the need for young individuals to prioritize utility over self-interest. By underlining the significance of teamwork in film production and various domains, he urged rising professionals to forge their own paths instead of replicating others' journeys. Recognizing the importance of their unique roles can foster substantial growth both in their careers and personal lives.",
-    "img": "https://static.toiimg.com/photo/msid-134500224,imgsize-58577.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/motivational-quote-of-the-day-by-harrison-ford-what-i-think-is-important-for-a-young-person-is-to-figure-out-how-to-be-useful-and-not-be-so-concentrated-on-themselves-a-powerful-life-lesson-on-teamwork-and-finding-your-own-path-from-the-indiana-jones-star/articleshow/134500190.cms",
-    "time": "2026-09-26T10:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mani Ratnam reviews Karthik Subbaraj’s ‘Dorothy’ with high praise",
-    "desc": "Renowned filmmaker Mani Ratnam has expressed his admiration for Karthik Subbaraj's film 'Dorothy,' celebrating its artistic prowess. He highlighted Subbaraj's innovative approach to filmmaking and how it captivates the audience's attention. Ratnam praised the film's technical brilliance and visual aesthetics, noting that Ilaiyaraaja's music played a crucial role in enhancing the narrative. 'Dorothy' also bravely addresses pressing gender issues somewhat neglected in mainstream Tamil cinema.",
-    "img": "https://static.toiimg.com/photo/msid-134502370,imgsize-160622.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mani-ratnam-reviews-karthik-subbarajs-dorothy-with-high-praise-calls-the-director-a-special-talent-and-says-i-am-genuinely-jealous-of-him/articleshow/134502348.cms",
-    "time": "2026-09-26T10:29:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay’s next gets Rs 60 crore all-India distribution deal",
-    "desc": "Akshay Kumar is set to star in the upcoming film 'Mauja Hi Mauja' alongside Vidya Balan and Raashi Khanna. The film's all-India distribution rights were acquired for Rs 60 crore, indicating strong box office potential. Shooting for the movie was completed in July, and the release is planned for 2027. The film's break-even point stands around Rs 130 crore, which appears achievable for a comedy.",
-    "img": "https://static.toiimg.com/photo/msid-134502410,imgsize-884078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumars-next-with-anees-bazmee-mauja-hi-mauja-gets-rs-60-crore-all-india-distribution-deal-ahead-of-2027-release-report/articleshow/134502329.cms",
-    "time": "2026-09-26T10:24:29.000Z"
   },
   {
     "cat": "Sports",
@@ -556,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/dhiraj-sets-asian-games-record-tops-recurve-qualification-india-finish-second-in-team-events/article71511779.ece",
     "time": "2026-09-26T05:35:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "U.S., China to set up ‘communication channel’ for AI incidents",
-    "desc": "The two countries established a “U.S.-China Super Intelligence (SI) Dialogue to exchange views on risks and benefits” of AI, the White House said in a fact sheet, noting that their leaders had agreed to use the term SI rather than AI.",
-    "img": "https://th-i.thgim.com/public/incoming/rcniue/article71511781.ece/alternates/LANDSCAPE_1200/AP09_26_2026_000002B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-china-to-set-up-communication-channel-for-ai-incidents/article71511753.ece",
-    "time": "2026-09-26T05:21:00.000Z"
   },
   {
     "cat": "World",
@@ -763,15 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-hosts-xi-for-state-dinner-as-pomp-masks-tensions/article71506872.ece",
     "time": "2026-09-25T04:40:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Why did a U.S. court stay Trump’s ban on media outlets?",
-    "desc": "When he first announced the ban on the three outlets through a social media post on September 18, Mr. Trump accused them of reporting “fake news”. The outlets “constantly write or report fiction or lies”, Mr. Trump said in his post without giving any examples.",
-    "img": "https://th-i.thgim.com/public/incoming/8t2v18/article71507109.ece/alternates/LANDSCAPE_1200/Trump_Xi_25233.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/why-did-a-us-court-stay-trumps-ban-on-media-outlets/article71507112.ece",
-    "time": "2026-09-25T04:29:21.000Z"
   },
   {
     "cat": "Sports",
