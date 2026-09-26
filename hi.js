@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Italy vs Ukraine in Billie Jean King Cup second semi-final, watch live action on VETO OTT",
+    "desc": "The second semi-final of the Billie Jean King Cup 2026 is set to bring Italy and Ukraine face to face on September 26, with a place in the final on the line. The winner will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/italy-vs-ukraine-in-billie-jean-king-cup-second-semi-final-watch-live-action-on-veto-ott-2026-09-26-1055330",
+    "time": "2026-09-26T03:06:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Man City plan for lengthy legal battle after reports of being guilty of 114 financial charges",
     "desc": "Manchester City are preparing for a potentially lengthy legal battle with the Premier League after being found guilty of 114 financial charges against the club. An independent panel investigated 115 cases for over three years...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/manush-shah-and-diya-chitale-settle-for-bronze-in-table-tennis-as-india-adds-another-medal-in-asian-games-2026-09-25-1055281",
     "time": "2026-09-25T11:21:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Satwik-Chirag drop stinker, defending champions suffer first-round exit in Asian Games 2026",
-    "desc": "Satwiksairaj Rankireddy and Chirag Shetty’s bid to defend their men’s doubles badminton crown at the Asian Games ended in the opening round itself. Thailand’s Pakkapon Teeraratsakul and Peeratchai Sukphun stunned the Indian pair, producing a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-drop-stinker-defending-champions-suffer-first-round-exit-in-asian-games-2026-2026-09-25-1055274",
-    "time": "2026-09-25T10:32:50.000Z"
   }
 ];
