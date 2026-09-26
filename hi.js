@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India grabs gold medal in men's Kabaddi after stellar victory over Iran at Asian Games 2026",
+    "desc": "Just like their female counterparts, the Indian men's Kabaddi team has won the final against Iran to clinch the gold medal in the summit clash at the Asian Games 2026. It is interesting to note...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-grabs-gold-medal-in-men-s-kabaddi-after-stellar-victory-over-iran-at-asian-games-2026-2026-09-26-1055357",
+    "time": "2026-09-26T10:08:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It's the last World Cup': Virat Kohli makes massive statement around his future ahead of ODI World Cup 2027",
+    "desc": "The stage is set for the upcoming ODI series between India and West Indies. The two sides are slated to take on each other across a multi-format white-ball series, as they will take on each...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/it-s-the-last-world-cup-virat-kohli-makes-massive-statement-around-his-future-ahead-of-odi-world-cup-2027-2026-09-26-1055353",
+    "time": "2026-09-26T09:12:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Afghanistan qualify for Asian Games cricket quarter-final, set up clash against team India",
+    "desc": "The stage is set for the quarter-final of the Asian Games 2026 cricket event. It is interesting to note that the Indian men’s cricket team will be taking on Afghanistan in the quarter-final on September...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-qualify-for-asian-games-cricket-quarter-final-set-up-clash-against-team-india-2026-09-26-1055348",
+    "time": "2026-09-26T07:42:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya's injury woes continue, shin injury rules him out of upcoming New Zealand series",
+    "desc": "In another major blow to the Indian team, star all-rounder Hardik Pandya has been ruled out of the upcoming multi-format series against New Zealand due to a shin injury. Pandya sustained the injury to his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-s-injury-woes-continue-shin-injury-rules-him-out-of-upcoming-new-zealand-series-2026-09-26-1055344",
+    "time": "2026-09-26T06:49:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India clinches third gold medal, registers dominant win over Iran in women's Kabaddi final at Asian Games",
+    "desc": "The Indian women's Kabaddi team put forth a brilliant showing in the Kabaddi final and defeated Iran to win India's third gold medal at the Asian Games 2026. Putting forth an exceptional performance, the Indian...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-clinches-third-gold-medal-registers-dominant-win-over-iran-in-women-s-kabaddi-final-at-asian-games-2026-09-26-1055338",
+    "time": "2026-09-26T05:06:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Asian Games 2026, Day 7 LIVE: Team India clinches gold medal in men's Kabaddi",
+    "desc": "The Asian Games 2026 sees the Indian contingent looking to put in their best performance in hopes of adding more medals to their tally. It is interesting to note that day 6 ended with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/asian-games-2026-day-7-live-india-look-to-secure-gold-in-women-s-kabaddi-1055337",
+    "time": "2026-09-26T04:53:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sawan Barwal scripts history with Asian Games silver, ends India's 44-year wait for a marathon medal",
+    "desc": "Sawan Barwal delivered a remarkable marathon run to win an unexpected silver for India at the Asian Games on Saturday, while also breaking his own national record. The 28-year-old Armyman from Himachal Pradesh completed the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/sawan-barwal-wins-silver-at-asian-games-ends-india-s-44-year-wait-for-a-marathon-medal-2026-09-26-1055333",
+    "time": "2026-09-26T03:42:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Italy vs Ukraine in Billie Jean King Cup second semi-final, watch live action on VETO OTT",
     "desc": "The second semi-final of the Billie Jean King Cup 2026 is set to bring Italy and Ukraine face to face on September 26, with a place in the final on the line. The winner will...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-hit-on-elbow-in-nets-is-indian-captain-doubtful-for-first-odi-vs-west-indies-2026-09-25-1055317",
     "time": "2026-09-25T17:32:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "138th-ranked India defy 94-place gap to hold World Cup side Panama to 1-1 draw in Bengaluru",
-    "desc": "A resolute Indian men’s football team produced a spirited performance to hold 44th-ranked Panama to a credible 1-1 draw in a high-intensity FIFA International Friendly at the Sree Kanteerava Stadium on Friday evening. Former Australian international...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/138th-ranked-india-defy-94-place-gap-to-hold-world-cup-side-panama-to-1-1-draw-in-bengaluru-2026-09-25-1055314",
-    "time": "2026-09-25T16:11:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ryan Williams scores vs Panama, how is former Australia footballer playing for India?",
-    "desc": "Former Australian international Ryan Williams proved to be India’s game-changer on Friday evening at the Sree Kanteerava Stadium in Bengaluru. The 32-year-old scored a clinical 41st-minute goal to hand the Blue Tigers a 1-0 lead...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/ryan-williams-scores-vs-panama-how-is-former-australia-footballer-playing-for-india-2026-09-25-1055312",
-    "time": "2026-09-25T15:31:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Baranica Elangovan creates new history, becomes India's first pole vault athlete to win medal in Asian Games",
-    "desc": "Baranica Elangovan made history for India in the ongoing Asian Games 2026. She became the country’s first medallist in pole vault after sharing bronze in the women’s event. The Indian athlete cleared 4.15 metres, matching...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/baranica-elangovan-creates-new-history-becomes-india-s-first-pole-vault-athlete-to-win-medal-in-asian-games-2026-09-25-1055310",
-    "time": "2026-09-25T15:09:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Czechia sweep Spain, qualify for Billy Jean King Cup final after Muchova, Noskova produce dominant show",
-    "desc": "Czechia booked their place in the Billie Jean King Cup 2026 final with a 2-0 victory over Spain in Shenzhen on Friday. With that, the country qualified for their 12th final of what is considered...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/czechia-sweep-spain-qualify-for-billy-jean-king-cup-final-after-muchova-noskova-produce-dominant-show-2026-09-25-1055300",
-    "time": "2026-09-25T13:28:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vinod Kambli shares video from Thane's Nidan Centre for Elderly Care, fans concerned about health",
-    "desc": "Former India batter Vinod Kambli has sparked concern among fans after sharing a video message expressing gratitude for his stay at the Nidan Centre for Elderly Care in Thane. The short video clip surfaced online,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vinod-kambli-shares-video-from-thane-s-nidan-centre-for-elderly-care-fans-concerned-about-health-2026-09-25-1055292",
-    "time": "2026-09-25T12:39:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch India vs Panama FIFA international friendly live on TV and stream online?",
-    "desc": "India will take on Panama at Bengaluru’s Sree Kanteerava Stadium on Friday, September 25. It’s the opening game for India in the three-match window, where the Khalid Jamil side will also face Brazil and Uruguay. For...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/when-and-where-to-watch-india-vs-panama-fifa-international-friendly-live-on-tv-and-stream-online-2026-09-25-1055285",
-    "time": "2026-09-25T11:51:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manush Shah and Diya Chitale settle for bronze in table tennis as India adds another medal in Asian Games",
-    "desc": "Manush Shah and Diya Chitale settled for bronze in mixed doubles table tennis as India added another medal to its Aichi-Nagoya Asian Games 2026 haul on Friday. The eighth-ranked Indian combination reached the podium after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/manush-shah-and-diya-chitale-settle-for-bronze-in-table-tennis-as-india-adds-another-medal-in-asian-games-2026-09-25-1055281",
-    "time": "2026-09-25T11:21:31.000Z"
   }
 ];
