@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'I can't continue forever': Rohit Rajpal hints at stepping down as India's Davis Cup captain",
+    "desc": "The Indian team had a subpar campaign at the recently concluded Davis Cup 2026 qualifiers. After winning the first round of the tournament, the nation’s campaign ended in the 2nd round after losing to South...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/rohit-rajpal-hints-at-stepping-down-as-india-s-davis-cup-captain-2026-09-26-1055373",
+    "time": "2026-09-26T13:45:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ukraine qualify for their first-ever Billie Jean King cup final, set up summit clash against Czechia",
+    "desc": "The finalists for the Billie Jean King Cup 2026 have been decided. Ukraine will be taking on Czechia in the summit clash of the tournament on September 27, and both sides will be raring to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/ukraine-qualify-for-their-first-ever-billie-jean-king-cup-final-set-up-summit-clash-against-czechia-2026-09-26-1055369",
+    "time": "2026-09-26T12:56:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Josh Inglis ruled out of remaining South Africa ODIs due to fractured finger",
+    "desc": "The stage is set for the second ODI of the ongoing series between Australia and South Africa. The second ODI of the series will see them take on each other in Johannesburg on September 27....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/josh-inglis-ruled-out-of-remaining-south-africa-odis-due-to-fractured-finger-2026-09-26-1055367",
+    "time": "2026-09-26T12:12:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India grabs gold medal in men's Kabaddi after stellar victory over Iran at Asian Games 2026",
     "desc": "Just like their female counterparts, the Indian men's Kabaddi team has won the final against Iran to clinch the gold medal in the summit clash at the Asian Games 2026. It is interesting to note...",
     "img": "",
@@ -46,8 +73,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Asian Games 2026, Day 7 LIVE: Team India clinches gold medal in men's Kabaddi",
-    "desc": "The Asian Games 2026 sees the Indian contingent looking to put in their best performance in hopes of adding more medals to their tally. It is interesting to note that day 6 ended with the...",
+    "title": "Asian Games 2026, Day 7 Highlights: India ends day 7 with 30 medals",
+    "desc": "The Asian Games 2026 sees the Indian contingent put in their best performance in hopes of adding more medals to their tally. It is interesting to note that day 6 ended with the Indian contingent...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/asian-games-2026-day-7-live-india-look-to-secure-gold-in-women-s-kabaddi-1055337",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/sawan-barwal-wins-silver-at-asian-games-ends-india-s-44-year-wait-for-a-marathon-medal-2026-09-26-1055333",
     "time": "2026-09-26T03:42:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Italy vs Ukraine in Billie Jean King Cup second semi-final, watch live action on VETO OTT",
-    "desc": "The second semi-final of the Billie Jean King Cup 2026 is set to bring Italy and Ukraine face to face on September 26, with a place in the final on the line. The winner will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/italy-vs-ukraine-in-billie-jean-king-cup-second-semi-final-watch-live-action-on-veto-ott-2026-09-26-1055330",
-    "time": "2026-09-26T03:06:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Man City plan for lengthy legal battle after reports of being guilty of 114 financial charges",
-    "desc": "Manchester City are preparing for a potentially lengthy legal battle with the Premier League after being found guilty of 114 financial charges against the club. An independent panel investigated 115 cases for over three years...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/man-city-plan-for-lengthy-legal-battle-after-reports-of-being-guilty-of-114-financial-charges-2026-09-25-1055321",
-    "time": "2026-09-25T18:11:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill hit on elbow in nets; is Indian captain doubtful for first ODI vs West Indies?",
-    "desc": "India captain Shubman Gill was struck on his right elbow during a net session in Thiruvananthapuram on Friday. The opener was playing Mohammed Siraj in the nets when a rising delivery from the India pacer...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-hit-on-elbow-in-nets-is-indian-captain-doubtful-for-first-odi-vs-west-indies-2026-09-25-1055317",
-    "time": "2026-09-25T17:32:19.000Z"
   }
 ];
