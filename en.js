@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "MNS and Shiv Sena (UBT) to hold join protest on October 4 against ECI",
+    "desc": "He called Election Commission of India (ECI) a wing of BJP and targeted ECI chief Gyanesh Kumar saying, “He was heading ECI as part of BJP and under the name of SIR has done fraud with citizens of India.”",
+    "img": "https://th-i.thgim.com/public/incoming/9zbfim/article71514205.ece/alternates/LANDSCAPE_1200/PTI05_13_2026_000391B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/mns-and-shiv-sena-ubt-to-hold-join-protest-on-october-4-against-eci/article71514206.ece",
+    "time": "2026-09-26T22:47:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ballot without the battle",
+    "desc": "Bypolls for two Assembly constituencies in West Bengal Nandigram and Rejinagar scheduled for October 6, are turning out to be an electoral exercise without much contest on the ground. Shrabana Chatterjee and Senjuti Sengupta report on the dropouts and intimidation that candidates from non-BJP parties are allegedly facing",
+    "img": "https://th-i.thgim.com/public/incoming/18zyeq/article71512637.ece/alternates/LANDSCAPE_1200/12015_24_9_2026_14_26_5_3_7CONGRESSCAMPAIGNSFORTHEIRARRESTEDCANDIDATEMILANPRADHAN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/nandigram-and-rejinagar-bypoll-ballot-without-the-battle/article71512622.ece",
+    "time": "2026-09-26T21:53:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Westlife star Mark Feehily sues surgeon over weight-loss surgery complications",
+    "desc": "Westlife star Mark Feehily is suing bariatric surgeon Nick Carter in a £200,000 claim over complications following weight-loss surgery. Feehily alleges the procedure led to recurring sepsis and eventually required his entire stomach to be removed. Carter denies negligence and argues that the leak was a recognised complication of the procedure.",
+    "img": "https://static.toiimg.com/photo/msid-134510145,imgsize-69351.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/westlife-star-mark-feehily-sues-bariatric-surgeon-nick-carter-in-200000-lawsuit-over-weight-loss-surgery-alleges-recurring-sepsis-led-to-stomach-removal-surgeon-denies-negligence/articleshow/134510141.cms",
+    "time": "2026-09-26T21:05:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Justice must find its way to the citizen’: CJI Surya Kant",
+    "desc": "Speaking at the launch of the first Victim Rights Centre (VRC) in Bihar, CJI Kant said that justice must not remain confined to the walls of a courtroom but must reach to those who are vulnerable, unheard or unable to navigate the legal system on their own",
+    "img": "https://th-i.thgim.com/public/incoming/kkp792/article71514054.ece/alternates/LANDSCAPE_1200/20260926308L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/justice-must-find-its-way-to-the-citizen-cji-surya-kant/article71513548.ece",
+    "time": "2026-09-26T20:43:47.000Z"
+  },
+  {
     "cat": "World",
     "title": "Trump rejects Iran proposal for deal to reopen Hormuz",
     "desc": "\"They want to make a deal where they open the Strait immediately because they're losing so badly. They want to make a deal and I think that's fine. I like making a deal too,\" the U.S. President said.",
@@ -19,12 +55,30 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "What is Karnataka’s objection to the ESA?",
+    "desc": "What did the Karnataka Legislature decide on September 22? Why has the State repeatedly rejected the ESA draft? What did the Kasturirangan Committee recommend? How much of the Western Ghats was proposed as ESA? What has Karnataka proposed as the way forward?",
+    "img": "https://th-i.thgim.com/public/incoming/tveey3/article71513867.ece/alternates/LANDSCAPE_1200/IMG_3291.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/what-is-karnatakas-objection-to-the-esa-explained/article71512650.ece",
+    "time": "2026-09-26T19:04:59.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Ernakulam continues to report highest number of influenza cases in Keralam",
     "desc": "A total of 969 cases reported in the district till September 26. The State recorded 2,205 confirmed influenza cases during the month. As many as 20 deaths were reported due to influenza in the State.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/ernakulam-continues-to-report-highest-number-of-influenza-cases-in-keralam/article71513754.ece",
     "time": "2026-09-26T19:04:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What does the law say about CEC’s removal?",
+    "desc": "How are the CEC and ECs appointed? Why did the Supreme Court intervene in appointments? What did the Anoop Baranwal judgment prescribe? Who was on the appointment panel prescribed by the Supreme Court? What protection does a CEC have against removal?",
+    "img": "https://th-i.thgim.com/public/incoming/wuyeae/article71513899.ece/alternates/LANDSCAPE_1200/YOUTH%20CONGRESS%20PROTEST%20AGAINST%20GYANESH%20CEC%2027.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/what-does-the-law-say-about-cecs-removal-explained/article71512663.ece",
+    "time": "2026-09-26T18:42:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -171,15 +225,6 @@ const newsData_en = [
     "time": "2026-09-26T14:40:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Avoids issue of Gen Z voters': Congress attacks EC's 'wishy-washy' press note, seeks pause in SIR",
-    "desc": "Congress has responded to the Election Commission regarding its recent press note and the Special Intensive Revision process. Jairam Ramesh raised several points questioning the credibility and intent of the Election Commission. Allegations of targeting Gen Z voters and the deletion of names from electoral rolls remain unaddressed. The party is calling for immediate suspension of the revision process and accountability for the Chief Election Commissioner.",
-    "img": "https://static.toiimg.com/photo/msid-134506352,imgsize-38882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/avoids-issue-of-gen-z-voters-congress-attacks-ecs-wishy-washy-press-note-seeks-pause-in-sir/articleshow/134506010.cms",
-    "time": "2026-09-26T14:30:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "In 2018, Blake Lively and Ryan Reynolds began building their 110-acre dream estate",
     "desc": "Blake Lively and Ryan Reynolds are facing over $2.1 million in contractor claims related to their New York estate. Construction on the property began in 2018 but has since halted due to financial disputes with contractors. Reports indicate that mechanics’ liens were filed against the estate, which resulted in substantial claims for incomplete work. The couple aimed to create an environmentally conscious family retreat on their 110-acre property.",
@@ -297,15 +342,6 @@ const newsData_en = [
     "time": "2026-09-26T12:41:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "EC-SIR row brings opposition on same page; INDIA bloc to hold meeting on September 30",
-    "desc": "In New Delhi on September 30, the INDIA bloc's opposition parties are set to meet, focusing on critical electoral matters. The discussions will center on how to collectively address changes to the electoral rolls mandated by the Election Commission. Prominent entities like the Congress and Trinamool Congress have raised alarms over Chief Election Commissioner Gyanesh Kumar's strategies.",
-    "img": "https://static.toiimg.com/photo/msid-134504635,imgsize-133782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ec-sir-row-brings-opposition-on-same-page-india-bloc-to-hold-meeting-on-september-30/articleshow/134504338.cms",
-    "time": "2026-09-26T12:34:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Tajinderpal Singh misses hat-trick of golds, wins silver in shot put",
     "desc": "Tajinderpal Singh Toor fell short in his quest for a third consecutive gold at the Asian Games, securing a silver medal instead. His top mark of 20.64 meters couldn't eclipse Iran's Mohammadreza Tayebise, who made history with a new Games record. Yet, India's medal count swells as sprinters Harita Bhadra and Unnathi Bolland both excel in reaching the women's 200m final alongside Nandhini Kongan in the 100m hurdles.",
@@ -367,15 +403,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-china-to-set-up-communication-channel-for-ai-incidents/article71511753.ece",
     "time": "2026-09-26T11:53:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunil Grover’s uncanny Ajay Devgn mimicry steals the show",
-    "desc": "The cast of 'Drishyam 3,' led by Ajay Devgn, is gracing 'The Great Indian Kapil Show' for its promotional tour. Sunil Grover steals the spotlight with his astonishing imitation of Ajay Devgn, garnering admiration from fans who note his uncanny similarity. Adding to the festivities, Jaideep Ahlawat surprises everyone by joining in a lively dance segment. Mark your calendars, as 'Drishyam 3' is hitting theaters on October 2, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-134503449,imgsize-465885.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunil-grovers-uncanny-ajay-devgn-mimicry-steals-the-show-ahead-of-drishyam-3-release-fans-say-mimicry-sounds-more-original-than-original-himself/articleshow/134503291.cms",
-    "time": "2026-09-26T11:27:53.000Z"
   },
   {
     "cat": "Sports",
@@ -765,15 +792,6 @@ const newsData_en = [
     "time": "2026-09-25T07:09:36.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump hosts Xi for state dinner as pomp masks tensions",
-    "desc": "U.S. tech titans attended the banquet, including Tesla's Elon Musk, Apple's Tim Cook, Nvidia's Jensen Huang and Sam Altman of OpenAI, underscoring that trade and AI were high on the agenda for Xi Jinping's visit",
-    "img": "https://th-i.thgim.com/public/incoming/fdsqer/article71506880.ece/alternates/LANDSCAPE_1200/APTOPIX_Trump_Xi_33_21.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-hosts-xi-for-state-dinner-as-pomp-masks-tensions/article71506872.ece",
-    "time": "2026-09-25T04:40:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Agarkar’s roller-coaster ride",
     "desc": "When the former pacer was named the chairman of selectors in July 2023, there was a sense of great optimism and feel-good; his tenure, however, was a chequered one with highs in the white-ball format and lows in the Tests",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
