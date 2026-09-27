@@ -1,5 +1,23 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Spider-Man: Brand New Day' OTT release set for October 6",
+    "desc": "Brand New Day is nearing the end of its theatrical release following strong box office performance. The film's worldwide earnings are approaching USD 2.5 billion, making it the highest-grossing film of 2026. Reports indicate that it will be available digitally to purchase or rent on October 6, 2026. Following its digital release, it is expected to be available on physical formats by November 17.",
+    "img": "https://static.toiimg.com/photo/msid-134528805,imgsize-215746.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-ott-release-set-for-october-6-after-blockbuster-theatrical-run-tom-holland-starred-set-to-hit-usd-2-5-billion-mark/articleshow/134526432.cms",
+    "time": "2026-09-27T22:31:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Endgame' nears 'Avatar' record with USD 2.88 billion haul",
+    "desc": "Endgame returned to theaters and grossed USD 26 million domestically, marking a successful rerelease. The film had new content and served as a precursor to Avengers: Doomsday. It outperformed competing new films, including Resident Evil and Heart of the Beast. Primetime, starring Robert Pattinson, opened successfully, appealing primarily to younger audiences. Overall, the domestic box office has seen a significant increase compared to last year.",
+    "img": "https://static.toiimg.com/photo/msid-134526424,imgsize-302689.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/avengers-endgame-encore-scores-usd-86-million-debut-weekend-marvel-film-usd-40-million-short-of-beating-avatar-to-become-highest-grossing-film-of-all-time/articleshow/134526210.cms",
+    "time": "2026-09-27T21:44:31.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Three-storey building under construction collapses near Ambala City; four dead, over 10 injured",
     "desc": "Ambala Civil Surgeon Renu Beri told reporters that 12 injured labourers were brought to the hospital, of whom five are still admitted, two were discharged on request, while the others were discharged after first aid was applied.",
@@ -450,15 +468,6 @@ const newsData_en = [
     "time": "2026-09-27T12:02:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Tamil Nadu govt rolls back law and order department’s RTI exemption amid backlash",
-    "desc": "The Tamil Nadu government faced backlash after it issued a notification that exempted the Public (Law and Order) Department from the Right to Information (RTI) Act. Critics, including numerous political leaders, argued that such an action would jeopardize transparency and obstruct public access to crucial law records. In response to widespread criticism, the government promptly withdrew the exemption, reaffirming its commitment to uphold the RTI Act.",
-    "img": "https://static.toiimg.com/photo/msid-134519837,imgsize-89254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-govt-rolls-back-law-and-order-departments-rti-exemption-amid-backlash/articleshow/134519738.cms",
-    "time": "2026-09-27T12:02:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ancy Sojan misses gold by 2cm, Shaili loses bronze on final jump",
     "desc": "In a nail-biting finish at the Asian Games 2026, Ancy Sojan just fell short of clinching the gold medal in the women's long jump, achieving a stellar jump of 6.53m, only to be bested by China's Yingying Huang at 6.55m. Shaili Singh, meanwhile, faced disappointment, slipping to fourth place with a last jump that pushed her down after Mengyi Tan's leap.",
@@ -522,15 +531,6 @@ const newsData_en = [
     "time": "2026-09-27T11:17:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Actor questions Komal Rani’s affair claims",
-    "desc": "Kashmera Shah defended Sunita Ahuja after Komal Rani's cryptic Instagram note, calling it the first time women in their family were labelled \"murderers\" for protecting loved ones. Komal Rani questioned Sunita's intentions without naming her. The controversy follows affair rumours between Govinda and Komal Rani, his 'Roopa' co-star, since earlier this year.",
-    "img": "https://static.toiimg.com/photo/msid-134519011,imgsize-236873.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kashmera-shah-stands-by-sunita-ahuja-questions-komal-ranis-allegations-amid-govinda-affair-rumours/articleshow/134518991.cms",
-    "time": "2026-09-27T11:12:40.000Z"
-  },
-  {
     "cat": "Business",
     "title": "When and where will banks stay shut from Sept 28 to Oct 4",
     "desc": "Prepare for some interruptions in banking services next week as banks will be closing for several days. A nationwide strike is set from September 28 to 30, followed by a holiday on October 2. While you can still access digital banking, in-person services will be limited. Make sure to visit your local branch after the closure, and remember to verify the holiday hours before going out.",
@@ -538,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/bank-closure-this-week-when-and-where-will-banks-stay-shut-from-september-28-to-october-4/articleshow/134518816.cms",
     "time": "2026-09-27T11:08:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'We trusted EC in 2017': Akhilesh alleges poll officials deleted SP votes in 2022",
-    "desc": "Akhilesh Yadav has accused the Election Commission of deliberately deleting votes belonging to the Samajwadi Party. He argues that this malpractice has been ongoing for years but is only now gaining attention. In his statement, he noted that voters from the 2019 elections were unjustly denied the opportunity to vote in 2022. This controversy follows recent revelations about objections within the Election Commission regarding the electoral rolls revision.",
-    "img": "https://static.toiimg.com/photo/msid-134518825,imgsize-84534.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-trusted-ec-in-2017-akhilesh-alleges-poll-officials-deleted-sp-votes-in-2022/articleshow/134518817.cms",
-    "time": "2026-09-27T11:02:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -565,33 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-harita-bhadra-bags-200m-bronze-as-indias-athletics-medal-tally-reaches-nine/articleshow/134518609.cms",
     "time": "2026-09-27T10:48:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Marriage does not advance a child’s age': Delhi HC rejects Muslim personal law defence in POCSO case",
-    "desc": "The Delhi High Court has taken a firm stance by ruling against a man who married a 16-year-old under Muslim personal law, emphasizing that this does not exempt him from POCSO charges concerning sexual activity. While the girl asserted her consent, the court reiterated the importance of legal safeguards for minors. Attempts to contest the FIR based on her claims were rejected, underscoring the inviolability of child protection laws.",
-    "img": "https://static.toiimg.com/photo/msid-134518606,imgsize-80516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/marriage-does-not-advance-a-childs-age-delhi-hc-rejects-muslim-personal-law-defence-in-pocso-case/articleshow/134518468.cms",
-    "time": "2026-09-27T10:45:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kapil Sibal alleges ‘unilateral’ EC decisions, seeks action against CEC Gyanesh Kumar",
-    "desc": "Kapil Sibal has raised concerns over the Election Commission's decision-making under Gyanesh Kumar during a ten-month period. His allegations include that decisions were made unilaterally, bypassing other commissioners and statutory protocols. Sibal has called for an investigation into the electoral rolls and recent elections conducted in Bihar and West Bengal. In response, the Election Commission acknowledged concerns and proposed several corrective measures to address them.",
-    "img": "https://static.toiimg.com/photo/msid-134518492,imgsize-1021592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kapil-sibal-alleges-unilateral-ec-decisions-seeks-action-against-cec-gyanesh-kumar/articleshow/134518325.cms",
-    "time": "2026-09-27T10:39:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ajay Devgn takes hilarious dig at his and Salman's dancing skills",
-    "desc": "Ajay Devgn and Jaideep Ahlawat are promoting their upcoming film ‘Drishyam 3’ on 'Bigg Boss 20'. They engaged in a humorous moment regarding their dancing skills during the show. A light-hearted exchange involves Ajay asking Jaideep to perform a popular dance move showcased by contestant Qazi Touqeer. The promo of this segment has received positive reactions from fans online.",
-    "img": "https://static.toiimg.com/photo/msid-134518211,imgsize-567826.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-and-i-do-very-difficult-steps-ajay-devgn-takes-hilarious-dig-at-his-and-bhaijaans-dancing-skills-as-drishyam-3-stars-join-bigg-boss-20-episode/articleshow/134518196.cms",
-    "time": "2026-09-27T10:06:19.000Z"
   },
   {
     "cat": "Sports",
@@ -774,33 +738,6 @@ const newsData_en = [
     "time": "2026-09-26T11:53:44.000Z"
   },
   {
-    "cat": "Business",
-    "title": "turnover hits $23.67bn, open interest at $21.87bn; NSE IX hails “new era”",
-    "desc": "On September 25, 2026, GIFT Nifty reported unprecedented turnover and open interest, showcasing impressive expansion. The platform achieved a total cumulative turnover of $3.52 trillion since its inception, alongside trading 76.19 million contracts. The NSE IX indicated a substantial uptick in trading volumes post the July 2023 full-scale operation launch, significantly fostering international participation, especially following the recent regulatory exemptions benefiting US customers.",
-    "img": "https://static.toiimg.com/photo/msid-134503225,imgsize-189182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gift-nifty-breaks-the-23-billion-mark-as-trading-activity-hits-a-fresh-high/articleshow/134502922.cms",
-    "time": "2026-09-26T11:13:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Bernstein sees flat to modest inflows; rupee and valuations weigh",
-    "desc": "Foreign institutional investor flows into Indian stocks are expected to remain stable over the next year. Analysts indicate that foreign investors have withdrawn significant funds from Indian equities recently. For a resurgence of foreign investment, India needs to develop globally competitive companies. The appreciation of the rupee and rising valuations have also impacted foreign investment dynamics.",
-    "img": "https://static.toiimg.com/photo/msid-134502618,imgsize-120668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/why-fiis-may-not-return-to-indian-stocks-even-after-ai-boom-fades/articleshow/134502445.cms",
-    "time": "2026-09-26T10:47:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Big dollar inflows, little boost for rupee: Why currency may stay near Rs 96 near term",
-    "desc": "The movements of the rupee are shaped by various elements, such as interventions from the RBI and prevailing market sentiment. Experts forecast that the currency will achieve stability soon, hovering between Rs 94.5 and Rs 96 per dollar. Despite recent inflows of dollars, the rupee's market value remains largely unaffected. A thorough analysis underscores the importance of sentiment in driving currency fluctuations, revealing a multifaceted landscape in the currency market.",
-    "img": "https://static.toiimg.com/photo/msid-134502530,imgsize-241074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/big-dollar-inflows-little-boost-for-rupee-why-the-currency-may-stay-near-rs-96-in-near-term/articleshow/134502447.cms",
-    "time": "2026-09-26T10:32:16.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "OpenAI works to understand full scope of agent activity as user data leak emerges",
     "desc": "OpenAI said that ‌its models accessed information from the websites of the U.S. Securities and Exchange Commission and the U.S. Census Bureau during research and training activity, but found no evidence of unauthorised access, compromised accounts or security breaches",
@@ -855,15 +792,6 @@ const newsData_en = [
     "time": "2026-09-26T05:00:17.000Z"
   },
   {
-    "cat": "World",
-    "title": "Watch",
-    "desc": "Leaders of countries do not meet to discuss such personal matters, says the PM; Trump had earlier paused the Foreign Practices Corruption Act for six months, which may lead to a reprieve for the Indian billionaire and his associates in the U.S.",
-    "img": "https://th-i.thgim.com/public/incoming/2koefr/article69218528.ece/alternates/LANDSCAPE_1200/new%20IT%20bill%202.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/watch-two-leaders-dont-discuss-such-individual-issues-pm-modi-dodges-question-on-adani-bribery-case/article69218537.ece",
-    "time": "2026-09-26T04:40:45.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘I Want to Talk’ interview",
     "desc": "With their relationship drama ‘I Want to Talk’ in theatres, Abhishek Bachchan and Shoojit Sircar discuss bringing to screen the story of cancer survivor Arjun Sen, the peculiarities of parenthood, and the role of family in an artistic life",
@@ -898,5 +826,77 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/after-op-bhatt-coforge-nrc-chair-dk-singh-resigns-amid-board-tensions/article71459199.ece",
     "time": "2026-09-26T03:34:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Director Vishnu Varadhan on ‘Nesippaya’, returning to Tamil cinema and writing a contemporary love story",
+    "desc": "Director Vishnu Varadhan talks about his upcoming Aditi Shankar and Akash Murali starrer, ‘Nesippaya’, working with his long-time collaborator Yuvan Shankar Raja, nailing the aesthetics of the film while not being boxed within a genre and more",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/ii1807/article69090229.ece/alternates/LANDSCAPE_1200/director%20Vishnuvaradhan%20interview.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/director-vishnu-varadhan-on-nesippaya-returning-to-tamil-cinema-and-writing-a-contemporary-love-story/article69090116.ece",
+    "time": "2026-09-26T03:31:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Operating in a silo or fitting into the whole – what’s in a Sprint?",
+    "desc": "Introduced in 2021 as a way to jazz up the days leading up to a Formula One Grand Prix, the Sprint race has had a chequered history. Yet, for the 2027 season, the big bosses of F1 have increased its number from six to 10. What’s behind the move and how to enhance the product’s value?",
+    "img": "https://th-i.thgim.com/public/incoming/lvdddd/article71510355.ece/alternates/LANDSCAPE_1200/GettyImages-2291520681.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/motorsport/f1-sprint-races-2027-format-future-verstappen-russell-antonelli-piastri-norris-leclerc-hamilton/article71510359.ece",
+    "time": "2026-09-25T19:49:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "AI-led phone price hikes persist, hitting Indian customers",
+    "desc": "Phone affordability has taken a hit as a series of price hikes has put budget phones out of reach for many buyers, who are choosing to wait for sales or settle for less powerful devices",
+    "img": "https://th-i.thgim.com/public/incoming/w2051s/article71510264.ece/alternates/LANDSCAPE_1200/2026-02-09T103924Z_565968379_RC2VPGAKTI7X_RTRMADP_3_EU-META-PLATFORMS-AI-ANTITRUST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/ai-led-phone-price-hikes-persist-hitting-indian-customers/article71508595.ece",
+    "time": "2026-09-25T17:54:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "18th IDSFFK begins under a cloud of censorship",
+    "desc": "Uncertainty remains over the 31 films for which the Union Ministry of Information and Broadcasting (I&B) has denied censor exemption even as Minister for Cultural Affairs said the Kerala State Chalachitra Academy is making all possible efforts, including legal measures, to secure permission for screening",
+    "img": "https://th-i.thgim.com/public/incoming/4hy7bv/article71509727.ece/alternates/LANDSCAPE_1200/6.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/18th-idsffk-begins-under-a-cloud-of-censorship/article71509212.ece",
+    "time": "2026-09-25T17:39:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dhoomakethu’ movie review: A humorous time loop film which works in parts",
+    "desc": "For a part of the film’s runtime, a blend of the now familiar time loop trope with humour seems to work, until some of the hard work unravels due to weak writing of the background story",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/ko3bwn/article71508459.ece/alternates/LANDSCAPE_1200/dhoomakethu.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/dhoomakethu-movie-review-a-humorous-time-loop-film-which-works-in-parts/article71508467.ece",
+    "time": "2026-09-25T13:28:28.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why is New York City pausing some AI tools in schools?",
+    "desc": "The Mayor of New York Zohran Mamdani and Schools Chancellor Kamar H. Samuels on September 2 imposed a one-year moratorium on student-facing generative AI for pupils up to eighth grade for the 2026–27 academic year",
+    "img": "https://th-i.thgim.com/public/incoming/cccz31/article71431324.ece/alternates/LANDSCAPE_1200/2026-09-01T002353Z_1057454928_RC2Z9NACQU2O_RTRMADP_3_USA-SHOOTING-NEW-YORK.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
+    "time": "2026-09-25T11:46:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government, banks to decide subsidy amount for UPI that will continue after MDR comes in",
+    "desc": "The MDR collections are not expected to cover the full cost of running UPI, officials said. They added that the Finance Ministry will be speaking to banks and merchants to ensure MDR is not passed on to customers",
+    "img": "https://th-i.thgim.com/public/incoming/u16kq/article71507543.ece/alternates/LANDSCAPE_1200/iStock-2201935167.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/government-and-banks-to-decide-subsidy-amount-for-upi-that-will-continue-after-mdr-comes-in/article71507443.ece",
+    "time": "2026-09-25T07:20:18.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "People's fear and mistrust in authority leads to cybercrime, say experts at report launch on policing",
+    "desc": "The report, building onto its earlier reports documenting public trust and experience with police, examines the modus operandi of cybercriminals, the lived experience of victims, the digital habits and vulnerabilities of ordinary citizens, and the preparedness of the police and banks to handle complaints.",
+    "img": "https://th-i.thgim.com/public/incoming/x0fpux/article71507632.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-25%20at%2012.32.10%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/peoples-fear-and-mistrust-in-authority-leads-to-cybercrime-say-experts-at-report-launch-on-policing/article71507054.ece",
+    "time": "2026-09-25T07:09:36.000Z"
   }
 ];
