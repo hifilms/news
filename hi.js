@@ -1,92 +1,92 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli, Shubman Gill score centuries each as India thrash West Indies to win first ODI",
+    "desc": "India picked up a comfortable eight-wicket win in the first ODI against West Indies at the Greenfield International Stadium in Thiruvananthapuram. Captain Shubman Gill and star batter Virat Kohli rose to the occasion, scoring a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-shubman-gill-score-centuries-each-as-india-thrash-west-indies-to-win-first-odi-2026-09-27-1055447",
+    "time": "2026-09-27T16:04:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli smacks 86th international century in first ODI vs West Indies, nears Tendulkar's historic feat",
+    "desc": "Virat Kohli is in phenomenal form in international cricket. He scored nine 50+ scores in his last 11 ODI matches and that proves his mettle in the 50-over format. After enduring a difficult spell towards...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-smacks-86th-international-century-in-first-odi-vs-west-indies-nears-tendulkar-s-historic-feat-2026-09-27-1055445",
+    "time": "2026-09-27T15:41:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill smashes 10th ODI century, leads India from the front in run chase against WI",
+    "desc": "Team India's star skipper, Shubman Gill, continues his red-hot run of form as India takes on the West Indies in the first ODI. The teams met at the Greenfield International Stadium for the clash, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-smashes-10th-odi-century-leads-india-from-the-front-in-run-chase-against-wi-2026-09-27-1055441",
+    "time": "2026-09-27T15:03:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli breaks Sachin Tendulkar's record with half-century vs West Indies, also completes 15,000 ODI runs",
+    "desc": "Playing his first ODI game since July, Virat Kohli once again rose to the occasion and played a scintillating knock against West Indies in the first ODI at Greenfield International Stadium, Thiruvananthapuram. The star India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-sachin-tendulkar-s-record-with-half-century-vs-west-indies-also-completes-15-000-odi-runs-2026-09-27-1055440",
+    "time": "2026-09-27T15:00:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer opens up as India prepare to kick off Asian Games' cricket campaign against Afghanistan",
+    "desc": "The Indian men’s cricket team is all set to kick off their Asian Games 2026 campaign. Having achieved direct qualification for the quarter-final as one of the top-ranked sides, the Men in Blue will be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-opens-up-as-india-prepare-to-kick-off-asian-games-cricket-campaign-against-afghanistan-2026-09-27-1055439",
+    "time": "2026-09-27T14:53:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sarvesh Kushare clinches silver in high jump, Tejaswin and Parul win bronze at Asian Games",
+    "desc": "India’s athletics team have put up a commanding show on day 8 of the ongoing Asian Games in Aichi-Nagoya. First, Harita Bhadra and Ancy Sojan added bronze and silver, respectively, before India added three more...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/sarvesh-kushare-clinches-silver-in-high-jump-tejaswin-and-parul-win-bronze-at-asian-games-2026-09-27-1055434",
+    "time": "2026-09-27T13:55:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Linda Noskova's Czechia slams Ukraine, registers dominant 2-0 win to clinch Billie Jean King Cup 2026",
+    "desc": "The Billie Jean King Cup 2026 final saw Ukraine take on Czechia. The two sides met at the Shenzhen Bay Sports Centre Arena, Shenzhen, China, on September 27th. Both sides had put in some brilliant...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/linda-noskova-s-czechia-slams-ukraine-registers-dominant-2-0-win-to-clinch-billie-jean-king-cup-2026-2026-09-27-1055432",
+    "time": "2026-09-27T13:35:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harita Bhadra secures bronze in Asian Games as India adds multiple medals in athletics",
+    "desc": "Harita Bhadra secured India’s first major highlight of the day in athletics at the Asian Games in Aichi-Nagoya, finishing third in the women’s 200m final. She stopped the clock at 23.20 seconds to claim the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/harita-bhadra-secures-bronze-in-asian-games-as-india-adds-multiple-medals-in-athletics-2026-09-27-1055427",
+    "time": "2026-09-27T12:24:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ancy Sojan grabs silver medal in women's long jump at Asian Games 2026, Shaili Singh misses out",
+    "desc": "The Indian athletics team continued to impress at the Asian Games 2026. Ancy Sojan became the latest addition to India’s medal tally at the games as he finished in second place and grabbed the silver...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/ancy-sojan-grabs-silver-medal-in-women-s-long-jump-at-asian-games-2026-shaili-singh-misses-out-2026-09-27-1055425",
+    "time": "2026-09-27T12:12:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli breaks Mohammad Azharuddin's feat in first ODI against West Indies in Trivandrum",
     "desc": "Star India batter Virat Kohli returned to action in the first ODI against West Indies at Greenfield International Stadium in Thiruvananthapuram. The 37-year-old made his last appearance in the third ODI against England in July....",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-mohammad-azharuddin-s-feat-in-first-odi-against-west-indies-in-trivandrum-2026-09-27-1055421",
     "time": "2026-09-27T11:11:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Campbell-Greaves join elite list with solid opening stand against India in first ODI",
-    "desc": "The West Indies kicked off their ODI series against the Indian team. The two sides met at the Greenfield International Stadium on September 27th, and the game began with the Windies coming in to bat...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/campbell-greaves-join-elite-list-with-solid-opening-stand-against-india-in-first-odi-2026-09-27-1055420",
-    "time": "2026-09-27T11:10:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anahat Singh scripts history, clinches silver medal in singles squash at Asian Games 2026",
-    "desc": "India’s medal tally at the Asian Games 2026 continues to rise. 18-year-old squash star Anahat Singh has won the silver medal for India in the squash final at the Asian Games 2026. Reaching the final...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/anahat-singh-scripts-history-clinches-silver-medal-in-singles-squash-at-asian-games-2026-2026-09-27-1055414",
-    "time": "2026-09-27T09:23:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kuldeep Yadav leaves West Indies rattled with back-to-back wickets",
-    "desc": "The stage is set for the 1st ODI of the series between India and the West Indies. The two sides meet at the Greenfield International Stadium, Thiruvananthapuram. With the ODI World Cup 2027 approaching, both...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-1st-odi-live-score-india-vs-west-indies-latest-match-updates-scorecards-playing-xis-reactions-1055408",
-    "time": "2026-09-27T07:38:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch India vs West Indies, 1st ODI live on TV and stream online?",
-    "desc": "The stage is set for the beginning of the multi-format series between India and the West Indies. The two sides are kicking off the series with three ODI matches and will follow it up with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-west-indies-1st-odi-live-on-tv-and-stream-online-2026-09-27-1055406",
-    "time": "2026-09-27T06:56:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ukraine, Czechia to clash in Billie Jean King Cup final; watch live on VETO OTT",
-    "desc": "The final of the Billie Jean King Cup, one of the biggest and most prestigious team competitions in women's tennis, will be played between Ukraine and Czechia today (September 27). Both teams will be aiming to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/ukraine-czechia-to-clash-in-billie-jean-king-cup-final-watch-live-on-veto-ott-2026-09-27-1055392",
-    "time": "2026-09-27T02:44:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I can't continue forever': Rohit Rajpal hints at stepping down as India's Davis Cup captain",
-    "desc": "The Indian team had a subpar campaign at the recently concluded Davis Cup 2026 qualifiers. After winning the first round of the tournament, the nation’s campaign ended in the 2nd round after losing to South...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/rohit-rajpal-hints-at-stepping-down-as-india-s-davis-cup-captain-2026-09-26-1055373",
-    "time": "2026-09-26T13:45:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ukraine qualify for their first-ever Billie Jean King cup final, set up summit clash against Czechia",
-    "desc": "The finalists for the Billie Jean King Cup 2026 have been decided. Ukraine will be taking on Czechia in the summit clash of the tournament on September 27, and both sides will be raring to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/ukraine-qualify-for-their-first-ever-billie-jean-king-cup-final-set-up-summit-clash-against-czechia-2026-09-26-1055369",
-    "time": "2026-09-26T12:56:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Josh Inglis ruled out of remaining South Africa ODIs due to fractured finger",
-    "desc": "The stage is set for the second ODI of the ongoing series between Australia and South Africa. The second ODI of the series will see them take on each other in Johannesburg on September 27....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/josh-inglis-ruled-out-of-remaining-south-africa-odis-due-to-fractured-finger-2026-09-26-1055367",
-    "time": "2026-09-26T12:12:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India grabs gold medal in men's Kabaddi after stellar victory over Iran at Asian Games 2026",
-    "desc": "Just like their female counterparts, the Indian men's Kabaddi team has won the final against Iran to clinch the gold medal in the summit clash at the Asian Games 2026. It is interesting to note...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-grabs-gold-medal-in-men-s-kabaddi-after-stellar-victory-over-iran-at-asian-games-2026-2026-09-26-1055357",
-    "time": "2026-09-26T10:08:25.000Z"
   }
 ];

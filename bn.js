@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "একে-৪৭ রাইফেল ও পিস্তল নিয়ে বন্দুকবাজদের নৃশংস হত্যালীলা! মৃত কমপক্ষে ২৭, আহত বহু",
+    "desc": "অপরাধপ্রবণতার জন্য দক্ষিণ আফ্রিকার দুর্নাম রয়েছে। তবে গত সাতদিনের মধ্যে বন্দুকবাজদের পর পর হামলার ঘটনা দেশ জুড়েই একটা আতঙ্কের আবহ তৈরি করেছে। পুলিসের তথ্য বলছে, ৩০ জুন পর্যন্ত গত ১ বছরে এখানে ২২৭০০ জন খুন হয়েছেন! ভয়ংকর!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/mass-shootings-south-africa-leave-at-least-27-dead_672318.html ",
+    "time": "2026-09-27T13:43:17.000Z"
+  },
+  {
+    "cat": "World",
     "title": "৪৮ ঘণ্টার টানা ভারী বৃষ্টিতে ডুবল শহর, বিপর্যস্ত জেলার পর জেলা, ভয়াবহ বন্যাপরিস্থিতিকে 'ডিজাস্টার' ঘোষণা",
     "desc": "১ থেকে ২৫ সেপ্টেম্বরের মধ্যে ৪৮৭ মিমি বৃষ্টি! মূলত সেপ্টেম্বরেই ভারী বৃষ্টি হয় ব্যাঙ্ককে। কিন্তু এ বছরের মতো এমন বর্ষা এখানে শেষ কবে হয়েছে, তা কেউ মনেই করতে পারছেন না! ৪৮ ঘণ্টা টানা ভারী বৃষ্টিপাতের জেরে বিস্তীর্ণ এলাকায় বন্যা, ব্যাপক যানজট, নাগরিকদের দৈনন্দিন কাজ ব্যাহত হওয়ায় ব্যাঙ্ককের ৫০টি জেলাকেই 'বিপর্যস্ত এলাকা' হিসেবে ঘোষণা করা হয়েছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -88,15 +97,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/powerful-el-nino-could-cause-more-than-450000-deaths-scientists-say_672084.html ",
     "time": "2026-09-24T08:33:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "প্রতীক মামলায় বড় আপডেট, খাম নিয়ে আদালতের প্রশ্নের মুখে কমিশন, সোমে আবার শুনানি",
-    "desc": "আগামী সোমবার কমিশনকে জানাতে হবে কতদিনের মধ‍্যে প্রতীক এবং দলের দাবি নিয়ে চূড়ান্ত সিদ্ধান্ত জানাতে পারবে কমিশন। আদালত জানতে চায়, \"চার মাসে একটা দল একটি সিম্বল নিয়ে লড়েছে আর উপনির্বাচনে ওই সিম্বল নিয়ে নিলেন? কেন ওটা রিজার্ভ করলেন না?\"",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-on-mamata-banerjee-tmc-symbol-row-questions-election-commission-on-kham-symbol_672083.html ",
-    "time": "2026-09-24T07:50:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -196,15 +196,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/veteran-actress-mithu-mukherjee-passes-away-cancer-mouchak-marjina-abdulla_671622.html ",
     "time": "2026-09-21T08:18:53.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "একসঙ্গে ১৬০০ ড্রোন! রাশিয়ায় ইউক্রেনের ভয়াবহ হামলা, তেলের কারখানায় বিধ্বংসী আগুন",
-    "desc": "রাশিয়ার সংসদীয় নির্বাচনের শেষ দিনে মস্কো ও আশপাশের এলাকায় বড় ড্রোন হামলা চালায় ইউক্রেন। রুশ কর্তৃপক্ষের দাবি, ১,১১০টি ইউক্রেনীয় ড্রোন ধ্বংস করা হয়েছে। মস্কোর মেয়র আবার ১,৬০০-র বেশি ড্রোন প্রতিহত করার কথা জানিয়েছেন। হামলায় মস্কোর তেল শোধনাগার ক্ষতিগ্রস্ত হয়, একটি আবাসিক ভবনেও আঘাত লাগে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/ukraine-russia-1600-drones-moscow-refinery-fire-duma-election_671599.html ",
-    "time": "2026-09-21T05:27:40.000Z"
   },
   {
     "cat": "Entertainment",
