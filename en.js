@@ -1,5 +1,149 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Three-storey building under construction collapses near Ambala City; four dead, over 10 injured",
+    "desc": "Ambala Civil Surgeon Renu Beri told reporters that 12 injured labourers were brought to the hospital, of whom five are still admitted, two were discharged on request, while the others were discharged after first aid was applied.",
+    "img": "https://th-i.thgim.com/public/incoming/kf4og/article71516670.ece/alternates/LANDSCAPE_1200/ambala%20city.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/under-construction-building-collapses-near-ambala-city/article71516646.ece",
+    "time": "2026-09-27T18:44:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A silver in Japan sparks wild celebrations in Keralam’s Nattika",
+    "desc": "Though Ancy Sojan had to settle for silver for the second straight Asian Games, pride was writ large on every face at her hometown. Behind the medal lies years of persistence by an athlete and a family that kept choosing sports despite financial constraints",
+    "img": "https://th-i.thgim.com/public/incoming/yx0j6n/article71517012.ece/alternates/LANDSCAPE_1200/80688_27_9_2026_20_55_58_3_ANCY_KKN3.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/a-silver-in-japan-sparks-wild-celebrations-in-keralams-nattika/article71516682.ece",
+    "time": "2026-09-27T17:48:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Convoy of former Tripura Chief Minister attacked, opposition blames BJP",
+    "desc": "Both CPI(M) and Congress described the incident as a “fallout of the BJP’s frustration” as the saffron party is fast losing its support base in the State, also linking the incident with recent controversies concerning the Election Commission of India",
+    "img": "https://th-i.thgim.com/public/incoming/cp7ewy/article71517194.ece/alternates/LANDSCAPE_1200/DSC_2496.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tripura/convoy-of-former-tripura-chief-minister-attacked-opposition-blames-bjp/article71516243.ece",
+    "time": "2026-09-27T17:41:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kohli, Gill ace the chase after Kuldeep’s heroics",
+    "desc": "Kohli completed his 15,000 ODI runs during his record-extending century and remained unbeaten on 139 off only 88 balls (10 fours, 9 sixes) as India scored 300/2 in 41.4 overs in reply to the West Indies’ 295/7",
+    "img": "https://th-i.thgim.com/public/incoming/7aj3vn/article71516973.ece/alternates/LANDSCAPE_1200/PTI09_27_2026_000702A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-versus-west-indies-first-odi-match-report-september-27-2026/article71515637.ece",
+    "time": "2026-09-27T17:34:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Gary Oldman",
+    "desc": "Gary Oldman emphasizes that aspiring to be a truly great actor is essential, rather than settling for mediocrity. He describes this ambition as a powerful internal force, much like a constant flame. Throughout his impressive career, he has embraced a variety of complex roles and endured a quest for ongoing improvement.",
+    "img": "https://static.toiimg.com/photo/msid-134517080,imgsize-87725.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-gary-oldman-wanting-to-be-a-good-actor-is-not-good-enough-a-powerful-life-lesson-on-ambition-and-finding-your-inner-fire/articleshow/134517046.cms",
+    "time": "2026-09-27T17:30:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran stands firm on Hormuz plan after U.S. rejection",
+    "desc": "Iran's plan called for a cessation of all hostilities in West Asia, including in Lebanon, according to Foreign Minister Abbas Araghchi, and a return to the conditions in the ceasefire deal that fell apart a few months ago",
+    "img": "https://th-i.thgim.com/public/incoming/b17c1a/article71517172.ece/alternates/LANDSCAPE_1200/UN_General_Assembly_Iran__269_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-stands-firm-on-hormuz-plan-after-us-rejection/article71517156.ece",
+    "time": "2026-09-27T17:28:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I promised myself': Virat Kohli after 15,000-run landmark",
+    "desc": "Virat Kohli became only the second batter after Sachin Tendulkar to complete 15,000 ODI runs. He also hit his record-extending 55th ODI century as India beat West Indies by eight wickets in the first ODI. Kohli said his priority has always been to understand the situation and do what the team needs.",
+    "img": "https://static.toiimg.com/photo/msid-134524058,imgsize-43849.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/i-promised-myself-im-going-to-play-positively-virat-kohli-after-15000-run-landmark/articleshow/134523992.cms",
+    "time": "2026-09-27T17:14:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Punjab’s LPU student protesters block NH-44, clash with police after alleged rape of female student",
+    "desc": "After students claim hostel resident was raped by a plumber, police register FIR, set up SIT to probe charges; LPU denies allegations as misleading rumours; protesters vandalise university property, disrupt traffic, demand personal assurance from LPU chancellor and Rajya Sabha MP Ashok Mittal",
+    "img": "https://th-i.thgim.com/public/incoming/99zokz/article71515745.ece/alternates/LANDSCAPE_1200/PTI09_27_2026_000147B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/punjab-varsity-students-protest-block-highway-over-rape-of-female-student/article71515254.ece",
+    "time": "2026-09-27T17:05:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "F-35 fighter jets, 200+ airmen arrive as US participates in India's Tarang Shakti air exercise",
+    "desc": "Six American F-35 fighter jets and over 200 US airmen arrived in Jodhpur to participate in Exercise Tarang Shakti. This exercise features the participation of more than 40 countries and strengthens international cooperation in military operations. US Ambassador Sergio Gor and Indian officials observed a joint demonstration by Indian and US Army personnel. The exercise emphasizes deepening bilateral training and trust among participating nations.",
+    "img": "https://static.toiimg.com/photo/msid-134523628,imgsize-39810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/f-35-fighter-jets-200-airmen-arrive-as-us-participates-in-indias-tarang-shakti-air-exercise/articleshow/134523566.cms",
+    "time": "2026-09-27T16:49:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat, Shubman centuries power India to 8-wicket win over West Indies",
+    "desc": "Virat Kohli scored his 55th ODI century while Shubman Gill contributed a solid hundred. India chased down the 295-run target with ease in Thiruvananthapuram. Kuldeep Yadav took four wickets to stifle the West Indies' batting effort. Justin Greaves made a maiden ODI century, but his efforts were insufficient. The match showcased India's dominance in One Day Internationals on home soil.",
+    "img": "https://static.toiimg.com/photo/msid-134523542,imgsize-44553.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/1st-odi-virat-kohli-shubman-gill-centuries-power-india-to-emphatic-8-wicket-win-over-west-indies/articleshow/134523513.cms",
+    "time": "2026-09-27T16:40:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Outsiders buying land in Srinagar, NC must be held accountable for demographic changes: Altaf Bukhari",
+    "desc": "J&K Apni Party president urges Prime Minister Narendra Modi to initiate a direct dialogue with the people of J&K ‘to address their issues and grievances’, and says, ‘The prevailing trust deficit will not end until direct talks are held between the Centre and the people, particularly the youth of J&K’",
+    "img": "https://th-i.thgim.com/public/incoming/u9aoi6/article71517024.ece/alternates/LANDSCAPE_1200/PTI08_22_2026_000459B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/outsiders-buying-land-in-srinagar-nc-must-be-held-accountable-for-demographic-changes-altaf-bukhari/article71516730.ece",
+    "time": "2026-09-27T16:35:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's full schedule on September 28, timings and events",
+    "desc": "India's campaign at the 2026 Asian Games in Aichi-Nagoya, Japan, enters another busy day on Monday, September 28, with athletes from several disciplines in action. The day features a mix of medal events, knockout contests, qualification rounds and team matches, giving the Indian contingent plenty to look forward to.",
+    "img": "https://static.toiimg.com/photo/msid-134523459,imgsize-33710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indias-full-schedule-on-september-28-timings-and-events/articleshow/134523294.cms",
+    "time": "2026-09-27T16:32:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jonathan Lipnicki returns to the spotlight after 30 years",
+    "desc": "Jonathan Lipnicki re-emerged into the public eye at the recent Los Angeles premiere of 'Primetime', his first such event in two years. After achieving fame as a child actor, he opted for a break to enjoy his teenage experiences. Despite the ebbs and flows in his acting career, Lipnicki actively auditions for new roles.",
+    "img": "https://static.toiimg.com/photo/msid-134516458,imgsize-1206630.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/remember-the-kid-from-jerry-maguire-jonathan-lipnicki-returns-to-the-red-carpet-30-years-later/articleshow/134516443.cms",
+    "time": "2026-09-27T16:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IndiGo A321 suffers tail strike during go around at Bangalore; plane lands safely in second attempt",
+    "desc": "On Sunday, an IndiGo Airbus A321 operating flight 6E 6542 experienced a tail strike during a go-around. The incident occurred while attempting to land in gusty weather at Bengaluru airport. All passengers and crew were safely disembarked, and the aircraft is undergoing maintenance checks. The Directorate General of Civil Aviation is investigating the incident and has engaged with IndiGo regarding pilot training enhancements.",
+    "img": "https://static.toiimg.com/photo/msid-134523340,imgsize-85822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indigo-a321-suffers-tail-strike-during-go-around-at-bangalore-plane-lands-safely-in-second-attempt/articleshow/134523319.cms",
+    "time": "2026-09-27T16:25:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir returns to Japanese theatres",
+    "desc": "Aamir Khan's 'Sitaare Zameen Par' will release in Japan as 'Sitaare! The Miracle Team of Stardust' in spring 2027, marking his first Japanese theatrical release since 'Dangal' in 2018. Geek Pictures announced this on September 25, 2026. The film, directed by R. S. Prasanna, follows a coach mentoring a basketball team of adults with disabilities.",
+    "img": "https://static.toiimg.com/photo/msid-134523264,imgsize-245043.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khans-sitaare-zameen-par-heads-to-japan-marks-actors-return-after-nearly-a-decade/articleshow/134523253.cms",
+    "time": "2026-09-27T16:15:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "40-year-old demand for road to Scheduled Caste village causes communal rift in Nilgiris",
+    "desc": "As many as 40 Sri Lankan-repatriate Scheduled Caste families in Ambal Colony, Kil Kotagiri, were set to benefit from a short road near their hamlet. However, the road laying project approved on September 3 has now sparked communal tensions.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/kr5rle/article71515919.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-27%20at%204.27.59%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/40-year-old-demand-for-road-to-scheduled-caste-village-causes-communal-rift-in-nilgiris/article71515572.ece",
+    "time": "2026-09-27T16:14:11.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Asian Games",
     "desc": "“I played my match yesterday, and there have not been many instances where I have come back from being down. It’s always the other way around. I am just learning how to handle the pressure of playing against more experienced players,”says Anahat",
@@ -18,22 +162,13 @@ const newsData_en = [
     "time": "2026-09-27T16:11:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "LPU students block NH-44 near Phagwara in protest after alleged rape of female student",
-    "desc": "After students claim a hostel resident was raped by a plumber, police register an FIR, set up an SIT to probe charges; LPU denies allegations as misleading rumours; protesters vandalise university property, disrupt traffic, demand personal assurance from LPU chancellor and Rajya Sabha MP Ashok Mittal",
-    "img": "https://th-i.thgim.com/public/incoming/99zokz/article71515745.ece/alternates/LANDSCAPE_1200/PTI09_27_2026_000147B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/punjab/punjab-varsity-students-protest-block-highway-over-rape-of-female-student/article71515254.ece",
-    "time": "2026-09-27T15:59:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Travel operators seek one-month tax waiver for out-of-State tourist vehicles during Mysuru Dasara",
-    "desc": "In a representation to Chief Minister D.K. Shivakumar, Transport Minister Byrathi Suresh and the Transport Commissioner, the association requested that tourist transport vehicles arriving from Kerala, Tamil Nadu, Puducherry, Andhra Pradesh, Telangana, Goa and Maharashtra be exempted from the applicable taxes and permit fees during the festival period.",
-    "img": "https://th-i.thgim.com/public/incoming/lwbi0d/article71516907.ece/alternates/LANDSCAPE_1200/2303_2_10_2025_18_26_28_3_DASARAPROCESSION2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/travel-operators-seek-one-month-tax-waiver-for-out-of-state-tourist-vehicles-during-mysuru-dasara/article71501112.ece",
-    "time": "2026-09-27T15:56:41.000Z"
+    "cat": "Sports",
+    "title": "Virat Kohli breaks Sachin Tendulkar's record for most ODI centuries against a team",
+    "desc": "The century was Virat Kohli's 55th in ODI cricket. It was also his 86th international hundred. His international centuries include 30 in Tests, 55 in ODIs and one in T20Is. Kohli has now scored 55 ODI hundreds, extending his lead among active players in the format.",
+    "img": "https://static.toiimg.com/photo/msid-134523100,imgsize-37365.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/virat-kohli-breaks-sachin-tendulkars-record-for-most-odi-centuries-against-a-team/articleshow/134523061.cms",
+    "time": "2026-09-27T16:04:43.000Z"
   },
   {
     "cat": "Business",
@@ -82,6 +217,15 @@ const newsData_en = [
   },
   {
     "cat": "Business",
+    "title": "India sees 30% increase in Michelin Key hotels in second year of rating here",
+    "desc": "India has seen an increase in luxury hotels evaluated by the Michelin Guide, with 47 hotels receiving Keys. These hotels were assessed based on five universal criteria to maintain high standards. Prominent establishments like Taj Falaknuma Palace and Taj Lake Palace received three Keys each. India's culinary scene is recognized internationally, but local restaurants have yet to receive Michelin stars.",
+    "img": "https://static.toiimg.com/photo/msid-134522537,imgsize-69610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-sees-30-increase-in-michelin-key-hotels-in-second-year-of-rating-here/articleshow/134522492.cms",
+    "time": "2026-09-27T15:23:55.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "Made-in-India electronics get PLI boost as firms draw Rs 20,580 crore investment",
     "desc": "India's ambitious push in electronics manufacturing has garnered remarkable incentives totaling Rs 19,090.98 crore, enabling the production of more mobile devices. The surge in smartphone exports is astounding, leaping from $5.5 billion to nearly $30 billion over the period from 2021-22 to 2025-26. Launched in 2020, the PLI scheme has embraced 32 companies, significantly bolstering manufacturing across 14 sectors, supported by a generous budget of Rs 1.91 lakh crore.",
     "img": "https://static.toiimg.com/photo/msid-134522450,imgsize-80852.cms",
@@ -100,7 +244,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "‘Threatened to kill me’: Man files complaint against Delhi PWD minister Parvesh Verma over slap during road inspection",
+    "title": "Man files complaint, police reveal prior FIR against him",
     "desc": "Delhi Police has received a complaint regarding an alleged incident involving Minister Parvesh Verma. The complaint states that Verma slapped a man during a road inspection in Tilak Nagar. AAP leader Jarnail Singh was present and questioned the quality of the road when the incident occurred. Verma disputes the allegations, claiming the video does not show the full context.",
     "img": "https://static.toiimg.com/photo/msid-134522277,imgsize-842361.cms",
     "src": "indiatimes.com",
@@ -126,15 +270,6 @@ const newsData_en = [
     "time": "2026-09-27T14:55:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Manipur peace requires community dialogue, not military force: Kiren Rijiju",
-    "desc": "Talking about the ongoing conflict in Manipur, Union Minister Kiren Rijiju said the Meitei and Kuki communities, as well as the Naga and Kuki communities, must talk to each other to find an amicable solution",
-    "img": "https://th-i.thgim.com/public/incoming/ayjc5u/article71516622.ece/alternates/LANDSCAPE_1200/PTI09_27_2026_000202B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/manipur/manipur-peace-requires-community-dialogue-not-military-force-kiren-rijiju/article71516615.ece",
-    "time": "2026-09-27T14:48:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Nani says ‘The Paradise’ reactions show the trust and expectations audiences had",
     "desc": "Nani and director Srikanth Odela delved into the mixed audience reactions following their film, The Paradise. Srikanth shared his astonishment at the polarized views and acknowledged the necessity of time to comprehend them. Anticipating varied responses, Nani highlighted the film's profound impact and distinctive storytelling. They agreed that the strong box office performance demonstrates audience confidence in their collaboration, intending to utilize viewer feedback for enhancing their future projects.",
@@ -151,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/gen-z-wants-answers-not-intimidation-cjp-slams-delhi-minister-after-viral-video-shows-him-slapping-man/articleshow/134521909.cms",
     "time": "2026-09-27T14:38:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Preparations begin for ‘Vijayawada Utsav’ and ‘Saras Mela’, says MP",
-    "desc": "Kesineni Sivanath announces ‘Vijayawada Utsav’ will be held from October 11 to 20 and the Saras Mela from October 8 to 23; events will be held mainly at the 18-acre Punnami Ghat, with several programmes also planned at the Makineni Basavapunnaiah Stadium",
-    "img": "https://th-i.thgim.com/public/incoming/bcb7vg/article71516580.ece/alternates/LANDSCAPE_1200/9604_27_9_2026_19_26_36_1_IMG_20260927_WA0012.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/preparations-begin-for-vijayawada-utsav-and-saras-mela-says-mp/article71516309.ece",
-    "time": "2026-09-27T14:38:24.000Z"
   },
   {
     "cat": "Sports",
@@ -259,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/after-50-the-warranties-start-running-out-billy-gardell-says-bariatric-surgery-probably-saved-his-life-after-diabetes-diagnosis/articleshow/134516575.cms",
     "time": "2026-09-27T13:00:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kuldeep’s four-for helps India tide over Greaves’ hundred to restrict WI to 295/7",
-    "desc": "Greaves (101, 108b) and his opening partner John Campbell (62, 60b) added 135 runs in 19.2 overs as the West Indies appeared to have primed for a far bigger total than the eventual one they managed after being asked to bat",
-    "img": "https://th-i.thgim.com/public/incoming/mmscft/article71516124.ece/alternates/LANDSCAPE_1200/20260927224L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-versus-west-indies-first-odi-match-report-september-27-2026/article71515637.ece",
-    "time": "2026-09-27T12:53:06.000Z"
   },
   {
     "cat": "Sports",
@@ -513,33 +630,6 @@ const newsData_en = [
     "time": "2026-09-27T08:56:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Johnny Walker had only 30-40% vision in one eye yet memorised eye chart",
-    "desc": "Born as Badruddin Jamaluddin Kazi, Johnny Walker faced a tough upbringing filled with financial struggles and family instability. From an early age, he contributed to his household after his father lost his job. Overcoming a significant eyesight problem, he cleverly managed to qualify as a bus conductor, which caught the eye of actor Balraj Sahni and paved his way into the film industry.",
-    "img": "https://static.toiimg.com/photo/msid-134517460,imgsize-301163.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/johnny-walker-had-only-30-40-vision-in-one-eye-yet-memorised-eye-chart-to-pass-best-test-son-nasirr-khan-reveals-his-struggles-from-age-12/articleshow/134517445.cms",
-    "time": "2026-09-27T08:53:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Joined Samajwadi Party?' Ravi Kishan bristles at BJP corporator over Gorakhpur flooding query",
-    "desc": "Heavy rains lashed several parts of Uttar Pradesh, triggering severe waterlogging, disrupting daily life and leaving at least four people dead in weather-related incidents. Gorakhpur was among the worst-affected areas, with continuous rainfall inundating several parts of the city. Ravi Kishan, however, inspected waterlogged areas and took stock of the situation.",
-    "img": "https://static.toiimg.com/photo/msid-134517297,imgsize-81636.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/joined-samajwadi-party-ravi-kishan-bristles-at-bjp-corporator-over-flood-query/articleshow/134517116.cms",
-    "time": "2026-09-27T08:40:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Bahut bol raha hai tu’",
-    "desc": "Mumbai buzzed with excitement as A-list stars Ranbir Kapoor, Alia Bhatt, Vicky Kaushal, and renowned director Sanjay Leela Bhansali convened for an evening of photographs post their busy schedules. A delightful exchange between Ranbir and a photographer soon went viral, highlighting their off-screen personalities.",
-    "img": "https://static.toiimg.com/photo/msid-134517208,imgsize-232074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-loses-his-cool-with-paparazzi-after-ramayana-event-as-he-steps-out-with-alia-bhatt-vicky-kaushal-and-sanjay-leela-bhansali-bahut-bol-raha-hai-tu/articleshow/134517169.cms",
-    "time": "2026-09-27T08:32:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Crude, US-Iran talks and economic data to drive Dalal Street this week",
     "desc": "This week on Dalal Street sees a shortened holiday schedule as geopolitical concerns and volatile oil prices loom large. Analysts believe negotiations between the US and Iran might sway both oil costs and the rupee's value. Investors are on high alert for shifts in global bond yields that impact emerging markets, while key domestic metrics like industrial production and auto sales are set to provide essential economic insights.",
@@ -547,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/mark-mood-check-crude-us-iran-talks-and-economic-data-to-drive-dalal-street-this-week/articleshow/134517140.cms",
     "time": "2026-09-27T08:28:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Naman Dhir makes India debut; Gill wins toss, opts to bowl",
-    "desc": "Naman Dhir made his ODI debut for India in the opening match against the West Indies held in Thiruvananthapuram. Under the captaincy of Shubman Gill, the team chose to bowl first on a pitch that is known for being batting-friendly. Both sides anticipated favorable conditions for chasing runs as the match proceeded into the night.",
-    "img": "https://static.toiimg.com/photo/msid-134517146,imgsize-1246265.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/india-vs-west-indies-1st-odi-naman-dhir-makes-india-debut-shubman-gill-wins-toss-opts-to-bowl-in-thiruvananthapuram/articleshow/134516848.cms",
-    "time": "2026-09-27T08:20:35.000Z"
   },
   {
     "cat": "Sports",
@@ -583,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-what-indian-medallists-can-earn-in-cash-rewards-government-jobs-and-state-incentives/articleshow/134516489.cms",
     "time": "2026-09-27T07:47:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actor says he’s a huge cricket buff",
-    "desc": "In a nostalgic television segment, Suniel Shetty shared his profound respect for cricketer Rohit Sharma, reminiscing about his youth when cricket consumed his thoughts. Rohit, too, looked back fondly on their initial meeting at 16, showcasing their common enthusiasm for cricket. Shetty drew parallels between Rohit and Sir Viv Richards, praising their playing techniques on the weekend show 'Family Full House with Rohit Sharma,' filled with lively cricket dialogues.",
-    "img": "https://static.toiimg.com/photo/msid-134515879,imgsize-267510.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-recalls-his-childhood-obsession-with-cricket-reveals-he-has-been-following-rohit-sharma-since-he-was-16/articleshow/134515880.cms",
-    "time": "2026-09-27T07:42:49.000Z"
   },
   {
     "cat": "Sports",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/after-op-bhatt-coforge-nrc-chair-dk-singh-resigns-amid-board-tensions/article71459199.ece",
     "time": "2026-09-26T03:34:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Director Vishnu Varadhan on ‘Nesippaya’, returning to Tamil cinema and writing a contemporary love story",
-    "desc": "Director Vishnu Varadhan talks about his upcoming Aditi Shankar and Akash Murali starrer, ‘Nesippaya’, working with his long-time collaborator Yuvan Shankar Raja, nailing the aesthetics of the film while not being boxed within a genre and more",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/ii1807/article69090229.ece/alternates/LANDSCAPE_1200/director%20Vishnuvaradhan%20interview.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/director-vishnu-varadhan-on-nesippaya-returning-to-tamil-cinema-and-writing-a-contemporary-love-story/article69090116.ece",
-    "time": "2026-09-26T03:31:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil prices slide 2% as US-Iran seek path out of war, Saudi supply fears persist",
-    "desc": "Oil prices dropped by more than 2% amid the initiation of US-Iran truce talks, alongside escalating worries about Saudi oil supply. Brent crude fell to $104.30 a barrel, while West Texas Intermediate decreased to $92.41. With negotiators examining the reopening of the Strait of Hormuz for sanction relief on Iran, the situation remains tense.",
-    "img": "https://static.toiimg.com/photo/msid-134495723,imgsize-46238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-slide-2-as-us-iran-seek-path-out-of-war-saudi-supply-fears-persist/articleshow/134495671.cms",
-    "time": "2026-09-26T02:15:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Operating in a silo or fitting into the whole – what’s in a Sprint?",
-    "desc": "Introduced in 2021 as a way to jazz up the days leading up to a Formula One Grand Prix, the Sprint race has had a chequered history. Yet, for the 2027 season, the big bosses of F1 have increased its number from six to 10. What’s behind the move and how to enhance the product’s value?",
-    "img": "https://th-i.thgim.com/public/incoming/lvdddd/article71510355.ece/alternates/LANDSCAPE_1200/GettyImages-2291520681.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/motorsport/f1-sprint-races-2027-format-future-verstappen-russell-antonelli-piastri-norris-leclerc-hamilton/article71510359.ece",
-    "time": "2026-09-25T19:49:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Couldn’t believe I had won a medal, says Baranica",
-    "desc": "Even when my coach Milber Bertrand Russell told me to look up at the big screen for the official confirmation, I was not sure, I wanted him to confirm from the officials, said Baranica Elangovan",
-    "img": "https://th-i.thgim.com/public/incoming/hpcyz6/article71510321.ece/alternates/LANDSCAPE_1200/55_RVM_0055.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/couldnt-believe-i-had-won-a-medal-says-baranica/article71509646.ece",
-    "time": "2026-09-25T18:58:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "AI-led phone price hikes persist, hitting Indian customers",
-    "desc": "Phone affordability has taken a hit as a series of price hikes has put budget phones out of reach for many buyers, who are choosing to wait for sales or settle for less powerful devices",
-    "img": "https://th-i.thgim.com/public/incoming/w2051s/article71510264.ece/alternates/LANDSCAPE_1200/2026-02-09T103924Z_565968379_RC2VPGAKTI7X_RTRMADP_3_EU-META-PLATFORMS-AI-ANTITRUST.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/ai-led-phone-price-hikes-persist-hitting-indian-customers/article71508595.ece",
-    "time": "2026-09-25T17:54:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "18th IDSFFK begins under a cloud of censorship",
-    "desc": "Uncertainty remains over the 31 films for which the Union Ministry of Information and Broadcasting (I&B) has denied censor exemption even as Minister for Cultural Affairs said the Kerala State Chalachitra Academy is making all possible efforts, including legal measures, to secure permission for screening",
-    "img": "https://th-i.thgim.com/public/incoming/4hy7bv/article71509727.ece/alternates/LANDSCAPE_1200/6.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/18th-idsffk-begins-under-a-cloud-of-censorship/article71509212.ece",
-    "time": "2026-09-25T17:39:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Dhoomakethu’ movie review: A humorous time loop film which works in parts",
-    "desc": "For a part of the film’s runtime, a blend of the now familiar time loop trope with humour seems to work, until some of the hard work unravels due to weak writing of the background story",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/ko3bwn/article71508459.ece/alternates/LANDSCAPE_1200/dhoomakethu.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/dhoomakethu-movie-review-a-humorous-time-loop-film-which-works-in-parts/article71508467.ece",
-    "time": "2026-09-25T13:28:28.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why is New York City pausing some AI tools in schools?",
-    "desc": "The Mayor of New York Zohran Mamdani and Schools Chancellor Kamar H. Samuels on September 2 imposed a one-year moratorium on student-facing generative AI for pupils up to eighth grade for the 2026–27 academic year",
-    "img": "https://th-i.thgim.com/public/incoming/cccz31/article71431324.ece/alternates/LANDSCAPE_1200/2026-09-01T002353Z_1057454928_RC2Z9NACQU2O_RTRMADP_3_USA-SHOOTING-NEW-YORK.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
-    "time": "2026-09-25T11:46:16.000Z"
   }
 ];

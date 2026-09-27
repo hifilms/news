@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch India vs Afghanistan, Asian Games cricket match live on TV and stream online?",
+    "desc": "India will meet Afghanistan in the Asian Games quarter-finals, with a vastly different experience level separating the two sides. The defending champions arrive with a full-strength squad, while Afghanistan have brought a largely inexperienced group...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-india-vs-afghanistan-asian-games-cricket-match-live-on-tv-and-stream-online-2026-09-27-1055457",
+    "time": "2026-09-27T17:59:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tom Banton hits maiden ODI century as England beat Sri Lanka by 223 runs to seal ODI series 2-1",
+    "desc": "England beat Sri Lanka by 223 runs to complete a 2-1 series victory in ODIs. The batters, particularly Tom Banton, set the tone before the bowlers produced a ruthless show to dismantle the visitors at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tom-banton-hits-maiden-odi-century-as-england-beat-sri-lanka-by-223-runs-to-seal-odi-series-2-1-2026-09-27-1055453",
+    "time": "2026-09-27T17:33:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Feels awkward to receive POTM'",
+    "desc": "Chasing 295 runs against West Indies, India captain Shubman Gill and Virat Kohli played some meticulous cricket, scoring a century each. Gill initially stitched a partnership of 74 runs with Rohit Sharma before Kohli joined...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/feels-awkward-to-receive-potm-kuldeep-yadav-reacts-to-virat-kohli-shubman-gill-s-century-2026-09-27-1055451",
+    "time": "2026-09-27T17:05:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli, Shubman Gill score centuries each as India thrash West Indies to win first ODI",
     "desc": "India picked up a comfortable eight-wicket win in the first ODI against West Indies at the Greenfield International Stadium in Thiruvananthapuram. Captain Shubman Gill and star batter Virat Kohli rose to the occasion, scoring a...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/linda-noskova-s-czechia-slams-ukraine-registers-dominant-2-0-win-to-clinch-billie-jean-king-cup-2026-2026-09-27-1055432",
     "time": "2026-09-27T13:35:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harita Bhadra secures bronze in Asian Games as India adds multiple medals in athletics",
-    "desc": "Harita Bhadra secured India’s first major highlight of the day in athletics at the Asian Games in Aichi-Nagoya, finishing third in the women’s 200m final. She stopped the clock at 23.20 seconds to claim the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/harita-bhadra-secures-bronze-in-asian-games-as-india-adds-multiple-medals-in-athletics-2026-09-27-1055427",
-    "time": "2026-09-27T12:24:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ancy Sojan grabs silver medal in women's long jump at Asian Games 2026, Shaili Singh misses out",
-    "desc": "The Indian athletics team continued to impress at the Asian Games 2026. Ancy Sojan became the latest addition to India’s medal tally at the games as he finished in second place and grabbed the silver...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/ancy-sojan-grabs-silver-medal-in-women-s-long-jump-at-asian-games-2026-shaili-singh-misses-out-2026-09-27-1055425",
-    "time": "2026-09-27T12:12:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli breaks Mohammad Azharuddin's feat in first ODI against West Indies in Trivandrum",
-    "desc": "Star India batter Virat Kohli returned to action in the first ODI against West Indies at Greenfield International Stadium in Thiruvananthapuram. The 37-year-old made his last appearance in the third ODI against England in July....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-mohammad-azharuddin-s-feat-in-first-odi-against-west-indies-in-trivandrum-2026-09-27-1055421",
-    "time": "2026-09-27T11:11:43.000Z"
   }
 ];
