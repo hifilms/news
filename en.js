@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Ranabaali' docu-series release: When and where to watch",
+    "desc": "The makers of 'Ranabaali' have announced a four-part documentary series to explore its historical background. This series is based on two years of extensive research about forgotten history. The first episode will be released online on September 28, 2026. Both Vijay Deverakonda and Rashmika Mandanna will feature in the documentary series. 'Ranabaali' is set for theatrical release on October 16, 2026, amidst anticipation.",
+    "img": "https://static.toiimg.com/photo/msid-134514239,imgsize-300967.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ranabaali-docu-series-when-and-where-to-watch-vijay-deverakonda-rashmika-mandannas-four-part-documentary/articleshow/134514230.cms",
+    "time": "2026-09-27T03:09:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rebecca Gayheart shares how their daughters are dealing with Eric Dane’s passing",
+    "desc": "Rebecca Gayheart recently shared insights into her daughters' emotional state following Eric Dane's death. She highlighted the challenges they face while navigating high school during this difficult time. Gayheart emphasizes the importance of her close relationships with friends and family to cope with grief. She recalls their decision to marry ten months after they started dating in 2003.",
+    "img": "https://static.toiimg.com/photo/msid-134514128,imgsize-464591.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eric-danes-wife-rebecca-gayheart-shares-how-their-daughters-are-dealing-with-his-passing-were-doing-our-best/articleshow/134514112.cms",
+    "time": "2026-09-27T02:54:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Treesa Jolly-Gayatri Gopichand bow out in Badminton quarters",
+    "desc": "India's badminton pairs Treesa Jolly-Gayatri Gopichand and Dhruv Kapila-Tanisha Crasto lost in the quarterfinals. Treesa and Gayatri were defeated by the Malaysian duo Pearly Tan and Thinaah Muralitharan, while Kapila and Crasto faced the world number one Chinese pair. Both Indian pairs fought hard but ultimately could not secure victory. India's hopes in singles remain alive with PV Sindhu and Unnati Hooda competing later.",
+    "img": "https://static.toiimg.com/photo/msid-134514084,imgsize-136580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-treesa-jolly-gayatri-gopichand-bow-out-in-quarters-dhruv-kapila-tanisha-crasto-also-suffer-heartbreak/articleshow/134514074.cms",
+    "time": "2026-09-27T02:44:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Celebrity Traitors Season 2' Cast: Meet all 21 players",
+    "desc": "Mark your calendars for October 1, 2026, as Season 2 of The Celebrity Traitors makes its debut. The show will enlist 21 diverse celebrities, including comedians, actors, and even a mathematician, each with their own game plans. Hosted by Claudia Winkleman, the backdrop of a castle boasts a thrilling ambiance. Following previous champion Alan Carr, this season is poised for enticing alliances and unexpected betrayals.",
+    "img": "https://static.toiimg.com/photo/msid-134514075,imgsize-153460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-celebrity-traitors-season-2-cast-meet-the-big-dogs-dark-horses-and-under-the-radar-stars/articleshow/134513821.cms",
+    "time": "2026-09-27T02:42:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ramayana' new posters: Ranbir, Sai and Ravie's vanvaas looks unveiled",
+    "desc": "Nitesh Tiwari's epic film Ramayana will unveil new character posters featuring prominent actors in key roles. Ranbir Kapoor portrays Lord Ram, Sai Pallavi plays Goddess Sita, and Yash takes on the role of Ravana. The film is set to release in two parts, with the first part scheduled for Diwali 2026. Other notable cast members include Sunny Deol as Hanuman and Kajal Aggarwal as Mandodari.",
+    "img": "https://static.toiimg.com/photo/msid-134513640,imgsize-345452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-new-posters-ranbir-kapoor-sai-pallavi-and-ravie-dubeys-vanvaas-looks-unveiled-yash-impresses-as-ravana-netizens-say-first-day-400-crore-confirm/articleshow/134513633.cms",
+    "time": "2026-09-27T02:29:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nagarjuna recalls Vijay's Telugu box office reach",
+    "desc": "Jason Sanjay, the son of Tamil Nadu CM Vijay, is preparing to direct his first film titled 'Sigma'. This action-adventure film features Sundeep Kishan in the lead role and is set for release on October 2, 2026. During a recent episode of 'Bigg Boss Telugu Season 10', Nagarjuna Akkineni praised Thalapathy Vijay's popularity in Telugu cinema.",
+    "img": "https://static.toiimg.com/photo/msid-134513545,imgsize-305344.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/telugu-audience-love-thalapathy-vijay-garu-hope-the-same-love-will-be-given-to-you-and-your-film-nagarjuna-akkineni-to-sigma-director-jason-sanjay/articleshow/134513540.cms",
+    "time": "2026-09-27T02:11:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Class topper, wooden gun, Nano rides: How Shapath found his way in Asian Games",
+    "desc": "Class topper Shapath Bharadwaj fell in love with shooting at nine after watching his elder brother train. His father, S Raju, supported the dream, even getting a carpenter to make a wooden dummy gun for dry training. Four times a week, Shapath travelled from Meerut to the Karni Shooting Range in a Nano, studying in the back seat. Years later, that passion has taken him to the Asian Games, where he will represent India in trap shooting.",
+    "img": "https://static.toiimg.com/photo/msid-134513454,imgsize-146320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/class-topper-wooden-gun-nano-rides-how-shapath-bharadwaj-found-his-way-to-the-asian-games/articleshow/134513445.cms",
+    "time": "2026-09-27T02:00:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mirzapur The Movie' bo Day 23: Pankaj Tripathi's film earns Rs 1.55 cr",
+    "desc": "'Mirzapur The Movie' recorded significant earnings on its fourth Saturday, with Rs 1.55 cr collected in India. This brought the overall India net total to Rs 225.35 cr after 23 days of release. The film also gained Rs 50 lakhs overseas, raising its total gross to Rs 328.22 cr worldwide. While the overall occupancy increased from 20.0% to 30.0%, the show count decreased on Saturday.",
+    "img": "https://static.toiimg.com/photo/msid-134513481,imgsize-321218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-23-pankaj-tripathis-film-earns-rs-1-55-cr-worldwide-gross-touches-rs-328-22-cr/articleshow/134513474.cms",
+    "time": "2026-09-27T01:54:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Singer Liu Huan passes away at the age of 63",
+    "desc": "Liu Huan, the iconic singer who passed away at 63 on September 25, 2023, in Shanghai, was a pivotal figure in the evolution of Chinese pop music. Known for his unforgettable performance with British soprano Sarah Brightman at the 2008 Beijing Olympics, Huan also made notable contributions to music education through his charitable organization. His death marks a profound loss for artists and fans alike in the music community.",
+    "img": "https://static.toiimg.com/photo/msid-134513471,imgsize-91340.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/chinese-singer-liu-huan-passes-away-at-63-best-known-for-his-performance-at-the-2008-beijing-olympics/articleshow/134513449.cms",
+    "time": "2026-09-27T01:48:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Election Commission stops physical hearings for voters, to start enrolment drive",
+    "desc": "Days after reports of rift within EC, it announces several steps to address SIR concerns; new voters seeking inclusion in rolls after SIR need not submit declaration with Form 6; it extends deadline for filing claims and objections in Delhi and Maharashtra",
+    "img": "https://th-i.thgim.com/public/incoming/slrmb/article71512672.ece/alternates/LANDSCAPE_1200/IMG_INDEXELECTIONCOMMISS_2_1_B6EB6NQQ.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/election-commission-new-special-intensive-revision-rules/article71512646.ece",
+    "time": "2026-09-27T01:43:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘No jealousy’: Jurel reveals what Sooryavanshi does others ‘can’t even dream of’",
+    "desc": "Vaibhav Sooryavanshi, at only 15, has quickly become a rising star in Indian cricket. With exceptional skills and standout performances, he has captured the interest of cricket enthusiasts on a global scale. Dhruv Jurel, who competes alongside him, acknowledges the singular nature of Sooryavanshi's abilities. Although Jurel has found success in recent games, he believes comparisons to Sooryavanshi are unwarranted, as the young talent's impact resonates profoundly in the sport.",
+    "img": "https://static.toiimg.com/photo/msid-134513371,imgsize-105002.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-jealousy-dhruv-jurel-reveals-what-vaibhav-sooryavanshi-does-that-others-cant-even-dream-of/articleshow/134513363.cms",
+    "time": "2026-09-27T01:25:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Scarlett Johansson and Colin Jost’s red carpet walk at the ‘Paper Tiger’ premiere",
+    "desc": "Scarlett Johansson and Colin Jost graced the premiere of 'Paper Tiger' with their presence, marking their first outing together in over a year. The couple turned heads in complementary shades of grey, highlighting their stylish bond after a long hiatus since the 2025 Emmys. Since starting their journey in 2017, the duo has welcomed a son, Cosmo, alongside Johansson's daughter, Rose, from her earlier marriage.",
+    "img": "https://static.toiimg.com/photo/msid-134513384,imgsize-94228.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/scarlett-johansson-and-colin-josts-first-red-carpet-walk-in-a-year-couple-stuns-in-grey-at-paper-tiger-premiere/articleshow/134513372.cms",
+    "time": "2026-09-27T01:24:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'BKU' BO day 37 vs 'Pradhama Drishtiya Kuttakkar'",
+    "desc": "In its 37th week, 'Bethlehem Kudumba Unit' starring Nivin Pauly and Mamitha Baiju has achieved remarkable success in theaters, bringing in Rs 68 lakhs net. This brings the film’s total net collection to an impressive Rs 162.10 crore. Additionally, 'Pradhama Drishtiya Kuttakkar' is also enjoying a solid run, with a net collection of Rs 87 lakhs on its 16th day, proving popular with audiences nationwide.",
+    "img": "https://static.toiimg.com/photo/msid-134513366,imgsize-336009.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-collection-day-37-vs-pradhama-drishtiya-kuttakkar-nivin-pauly-film-earns-rs-68-lakhs-parvathy-thiruvothu-film-at-rs-25-45-cr-india-gross/articleshow/134513352.cms",
+    "time": "2026-09-27T01:20:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mandaadi' BO day 17 vs 'Meesaya Murukku 2'",
+    "desc": "Soori's 'Mandaadi' has made a substantial leap in earnings, raking in Rs 2.30 crore net on its third Saturday. This brings its total net income in India to Rs 87.00 crore and gross collections to Rs 101.60 crore. Meanwhile, Hiphop Tamizha Adhi's 'Meesaya Murukku 2' saw a positive boost, earning Rs 4.60 crore on its second day, totaling Rs 7.90 crore.",
+    "img": "https://static.toiimg.com/photo/msid-134513283,imgsize-449047.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mandaadi-box-office-collection-day-17-vs-meesaya-murukku-2-soori-film-earns-rs-2-30-cr-hiphop-tamizha-adhi-movie-mints-rs-7-90-cr-in-two-days/articleshow/134513276.cms",
+    "time": "2026-09-27T00:52:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Liam Payne",
+    "desc": "In a heartfelt letter to his younger self, Liam Payne reflects on the ups and downs of his remarkable journey. He emphasizes the importance of recognizing the relentless effort required to fulfill one's dreams. Candidly, he recounts his time on The X Factor and forming One Direction, while also confronting personal challenges like self-doubt and insecurity. This letter serves as a powerful reminder to cherish past victories and practice gratitude.",
+    "img": "https://static.toiimg.com/photo/msid-134513267,imgsize-472594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/quote-of-the-day-by-liam-payne-be-grateful-and-try-to-remember-every-day-youre-doing-something-you-love-a-powerful-life-lesson-on-gratitude-by-the-late-one-direction-singer/articleshow/134513254.cms",
+    "time": "2026-09-27T00:50:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'VIBE' box office collection day 9: Kunal and Preity's film earns Rs 90 lakhs",
+    "desc": "VIBE experienced a significant rise in box office collections over its second weekend. The film achieved an 80% increase on Saturday, September 26. It collected Rs 90 lakhs on its ninth day and Rs 50 lakhs on the eighth. Directed by Kunal Kemmu, VIBE has a total India net collection of Rs 12.65 cr. The movie has performed well internationally, accumulating Rs 2.05 cr in overseas gross collections.",
+    "img": "https://static.toiimg.com/photo/msid-134513205,imgsize-453152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/vibe-box-office-collection-day-9-kunal-kemmu-and-preity-zintas-film-earns-rs-90-lakhs-records-80-growth/articleshow/134513202.cms",
+    "time": "2026-09-27T00:34:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Avengers Endgame: Encore’ BO day 2: MCU film sees major increase in earnings on second day",
+    "desc": "Encore has achieved a solid 5.5% rise in box office income, netting over Rs 7.65 crore on its second day alone across 3,700 theatres throughout India. Impressively, the English edition led the way in both attendance and profits over other language options. Other recent releases, such as Resident Evil, Primetime, and The Heart of the Beast, are contending for audience attention as well.",
+    "img": "https://static.toiimg.com/photo/msid-134513197,imgsize-216952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/avengers-endgame-encore-box-office-collection-day-2-marvel-re-release-crosses-rs-15-crore-mark-in-india-as-competition-increases/articleshow/134513190.cms",
+    "time": "2026-09-27T00:29:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dorothy' BO day 2",
+    "desc": "Karthik Subbaraj's Tamil film 'Dorothy' saw a notable increase in box office revenue on its second day. The film collected Rs 1.17 crore in India, marking a 30% rise from the previous day. Overall collections in India reached Rs 2.07 crore by the end of its second day. The film's occupancy rate was also higher, reflecting increased audience interest.",
+    "img": "https://static.toiimg.com/photo/msid-134513181,imgsize-311920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dorothy-box-office-collection-day-2-keerthy-suresh-and-karthik-subbaraj-film-earns-rs-1-17-cr-records-30-growth-india-net-reaches-rs-2-07-cr/articleshow/134513179.cms",
+    "time": "2026-09-27T00:20:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Vvan' Day 2: Sidharth Malhotra and Tamannaah Bhatia's film grows 37.5%",
+    "desc": "'The Vvan - Force of the Forrest' had an impressive performance on its second day at the box office. The film, featuring Sidharth Malhotra and Tamannaah Bhatia, earned Rs 11.00 cr nett on Saturday. This marks a 37.5% increase compared to its first day collection of Rs 8.00 cr. The overall occupancy on Day 2 reached 38.54%, with night shows attracting the highest attendance.",
+    "img": "https://static.toiimg.com/photo/msid-134513124,imgsize-374400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-vvan-force-of-the-forrest-box-office-collection-day-2-sidharth-malhotra-and-tamannaah-bhatias-film-grows-37-5-earns-rs-11-cr-on-saturday/articleshow/134513120.cms",
+    "time": "2026-09-27T00:16:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Paradise' BO day 3",
+    "desc": "On its third day, 'The Paradise' earned Rs 15.25 crore, reflecting a 2.3% increase compared to Day 2. The film's total net earnings across India have now reached Rs 76.40 crore. Telugu version continues to dominate earnings, generating Rs 13.35 crore while the Hindi and Tamil versions contributed lesser amounts. The film opened its run with Rs 11.60 crore on September 23, showing significant growth on its first official day.",
+    "img": "https://static.toiimg.com/photo/msid-134513087,imgsize-371285.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-box-office-collection-day-3-nani-and-kayadu-lohar-film-earns-rs-15-25-cr-records-2-3-growth-india-net-reaches-rs-76-40-cr/articleshow/134513081.cms",
+    "time": "2026-09-27T00:01:54.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "MNS and Shiv Sena (UBT) to hold join protest on October 4 against ECI",
     "desc": "He called Election Commission of India (ECI) a wing of BJP and targeted ECI chief Gyanesh Kumar saying, “He was heading ECI as part of BJP and under the name of SIR has done fraud with citizens of India.”",
@@ -91,6 +271,15 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "Six years on, ringed Eurasian whimbrel resighted on Keralam coast; marked Tibetan sand-plover also recorded",
+    "desc": "When a marked shorebird is sighted again, it provides a glimpse into the bird’s journey — where it travels, its stopover site, and how different parts of its migratory range are connected, says an expert",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/94v0ty/article71507727.ece/alternates/LANDSCAPE_1200/26tvkz1-%20Eurasian%20Whimbrel.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/six-years-on-ringed-eurasian-whimbrel-resighted-on-keralam-coast-marked-tibetan-sand-plover-also-recorded/article71507743.ece",
+    "time": "2026-09-26T18:33:36.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Keralam to leverage AI, cutting-edge digital tools to reshape tourism, says Minister",
     "desc": "Tourism Minister P.C. Vishnunadh says the govt.’s aim is to see that tourists coming to the State are treated with a wholesome Keralam experience, marking a shift from the approach of promoting a few places and products separately through destination-focused packages and products",
     "img": "https://th-i.thgim.com/public/incoming/qth7e/article71514003.ece/alternates/LANDSCAPE_1200/Kerala%20Tourism%20Logo.jpg",
@@ -109,30 +298,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Election Commission stops physical hearings for voters, to start enrolment drive",
-    "desc": "Days after reports of rift within EC, it announces several steps to address SIR concerns; new voters seeking inclusion in rolls after SIR need not submit declaration with Form 6; it extends deadline for filing claims and objections in Delhi and Maharashtra",
-    "img": "https://th-i.thgim.com/public/incoming/slrmb/article71512672.ece/alternates/LANDSCAPE_1200/IMG_INDEXELECTIONCOMMISS_2_1_B6EB6NQQ.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/election-commission-new-special-intensive-revision-rules/article71512646.ece",
-    "time": "2026-09-26T17:41:03.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Food Safety department shuts down 25 eateries for violations",
     "desc": "Simultaneous inspections cover 70 hotels, restaurants and other eateries in all 28 districts; finds several serious violations, including unhygienic kitchens, improper storage of food, use of unauthorised artificial colours and flavour enhancers, and prolonged storage of cooked food in poorly maintained freezers",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/food-safety-department-shuts-down-25-eateries-for-violations/article71513897.ece",
     "time": "2026-09-26T17:35:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Love quote of the day by Zendaya",
-    "desc": "Zendaya shared her thoughts on love and relationships, emphasizing the need for emotional safety and understanding. She believes that a strong relationship allows individuals to express themselves freely and fully. Her quote highlights the significance of feeling seen and safe with a partner. Zendaya's background includes her rise as a Disney star and recent acclaim in Hollywood films. Ultimately, she stresses that emotional openness is essential for healthy love.",
-    "img": "https://static.toiimg.com/photo/msid-134503594,imgsize-62392.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/love-quote-of-the-day-by-zendaya-if-you-feel-safe-with-someone-seen-by-someone-then-you-feel-like-you-can-tell-them-everything-a-heart-warming-take-on-a-healthy-relationship-from-the-spider-man-star/articleshow/134503542.cms",
-    "time": "2026-09-26T17:30:00.000Z"
   },
   {
     "cat": "Politics",
@@ -144,15 +315,6 @@ const newsData_en = [
     "time": "2026-09-26T17:28:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jamaican contestant Gabrielle Henry speaks out after Miss Universe fall",
-    "desc": "Jamaican contestant Gabrielle Henry is speaking out nearly a year after she fell nearly five feet from the Miss Universe stage in Bangkok, suffering a traumatic brain injury and other injuries. Henry has filed a lawsuit against the Miss Universe Organization, alleging unsafe stage conditions contributed to the fall and seeking accountability over contestant safety.",
-    "img": "https://static.toiimg.com/photo/msid-134507821,imgsize-108749.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jamaican-contestant-gabrielle-henry-speaks-out-nearly-a-year-after-miss-universe-stage-fall-left-her-with-traumatic-brain-injury-files-lawsuit-alleging-unsafe-conditions-in-bangkok/articleshow/134507768.cms",
-    "time": "2026-09-26T16:52:06.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump says he does not want to 'integrate' with China on AI",
     "desc": "“What they want to do is stop our progress because ‌we’re leading China by ​a lot, and we’re going to ⁠keep it that way. We didn’t spend that ‌much time talking about it,” says Trump",
@@ -162,15 +324,6 @@ const newsData_en = [
     "time": "2026-09-26T16:42:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Director drops serious films with Akshay",
-    "desc": "Following 'Haiwaan's box office failure, earning just Rs 9.92 crore net, director Priyadarshan has ruled out serious films with Akshay Kumar, stating audiences prefer them in comedy. He cited past underperformer Khatta Meetha too. Meanwhile, their comedy collaborations like Hera Pheri, Bhool Bhulaiyaa and this year's Bhooth Bangla remain major hits.",
-    "img": "https://static.toiimg.com/photo/msid-134507539,imgsize-210153.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-haiwaan-failure-priyadarshan-sticks-to-comedy-with-akshay-kumar-i-dont-think-the-audience-wants-to-see-us-in-the-non-comedic-space/articleshow/134507517.cms",
-    "time": "2026-09-26T16:21:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India's full schedule on September 27; medal events, timings",
     "desc": "India's campaign at the 2026 Asian Games in Aichi-Nagoya, Japan, continues on Sunday, September 27, with athletes competing across multiple sports and disciplines. There will be plenty of action for Indian athletes throughout the day, with Manju Rani and Priyanka Goswami competing in the women's marathon race walk, while Harjinder Kaur will be in the women's 69kg weightlifting medal event.",
@@ -178,24 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indias-full-schedule-on-september-27-medal-events-timings/articleshow/134507346.cms",
     "time": "2026-09-26T16:11:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AI camera mistakes guitar for pillion rider in Bengaluru, issues fine for not wearing helmet",
-    "desc": "After getting a ₹500 challan, the rider complains to the Bengaluru Traffic Police and seeks rectification; the incident draws attention to the limitations of AI-dependent traffic systems; AI sharpens with more data, says a senior official",
-    "img": "https://th-i.thgim.com/public/incoming/rbvvs4/article71513772.ece/alternates/LANDSCAPE_1200/Wrong%20flagging%20by%20AI%20camera.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/ai-camera-mistakes-guitar-for-pillion-rider-in-bengaluru-issues-fine-for-not-wearing-helmet/article71512387.ece",
-    "time": "2026-09-26T16:11:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nivin Pauly and Mamitha Baiju’s ‘Bethlehem Kudumba Unit’ OTT release date",
-    "desc": "The film 'Bethlehem Kudumba Unit' has captured audiences since its release on August 21, raking in over Rs 323 crore worldwide. Starring Nivin Pauly and Mamitha Baiju, this romantic comedy-drama presents a unique love tale that resonates with many. For those eager to watch it, the film will be available on JioHotstar from October 2, further establishing its significance in Malayalam cinema.",
-    "img": "https://static.toiimg.com/photo/msid-134507271,imgsize-171059.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-ott-release-date-confirmed-when-and-where-to-stream-nivin-pauly-and-mamitha-baijus-romantic-comedy-drama-directed-by-girish-a-d-/articleshow/134507263.cms",
-    "time": "2026-09-26T15:55:42.000Z"
   },
   {
     "cat": "World",
@@ -216,24 +351,6 @@ const newsData_en = [
     "time": "2026-09-26T14:49:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nani says ‘The most noise a film has made in 2026 is The Paradise’",
-    "desc": "Nani took a moment to celebrate the overwhelming positive feedback his latest film, 'The Paradise', has garnered from audiences. He praised the dedication of his team and shared insights into the numerous challenges they faced during production. Nani reaffirmed the critical role of Telugu audiences in shaping cinema and expressed that the excitement surrounding the film signifies a collective triumph for everyone involved.",
-    "img": "https://static.toiimg.com/photo/msid-134506491,imgsize-106822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nani-says-the-most-noise-a-film-has-made-in-2026-is-the-paradise-as-he-reacts-to-audience-response-to-his-latest-release-directed-by-srikanth-odela/articleshow/134506470.cms",
-    "time": "2026-09-26T14:40:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 2018, Blake Lively and Ryan Reynolds began building their 110-acre dream estate",
-    "desc": "Blake Lively and Ryan Reynolds are facing over $2.1 million in contractor claims related to their New York estate. Construction on the property began in 2018 but has since halted due to financial disputes with contractors. Reports indicate that mechanics’ liens were filed against the estate, which resulted in substantial claims for incomplete work. The couple aimed to create an environmentally conscious family retreat on their 110-acre property.",
-    "img": "https://static.toiimg.com/photo/msid-134499110,imgsize-71185.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2018-blake-lively-and-ryan-reynolds-began-building-their-110-acre-dream-estate-eight-years-later-the-unfinished-home-faced-2-1-million-in-contractor-claims/articleshow/134483203.cms",
-    "time": "2026-09-26T14:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India win seven medals as kabaddi teams deliver gold double in action-packed Saturday",
     "desc": "At the Asian Games 2026, India marked a notable achievement by gathering seven medals on Saturday. The kabaddi squads were outstanding, with men and women conquering Iran to uphold their golds. Sawan Barwal made headlines, winning silver in the men’s marathon, signaling an end to India’s medal dry spell. Silver medals in shooting and a bronze in athletics from Prachi Choudhary highlighted a promising day across various sports.",
@@ -252,15 +369,6 @@ const newsData_en = [
     "time": "2026-09-26T14:20:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anirudh surprises fans with unreleased song from Rajinikanth's ‘Jailer 2’",
-    "desc": "Anirudh amazed fans at his Singapore concert by performing a never-before-heard track from 'Jailer 2'. The excitement was palpable as attendees captured and shared clips of the vibrant song, fueling eagerness for the film's soundtrack. With Rajinikanth, Nelson, and Anirudh collaborating once again, the film is building momentum as more character reveals unfold. The much-anticipated 'Jailer 2' is set for theatrical release on October 15, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-134505516,imgsize-212335.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anirudh-ravichander-surprises-fans-with-unreleased-jailer-2-song-at-singapore-concert-ahead-of-rajinikanths-sequel-watch-video/articleshow/134505510.cms",
-    "time": "2026-09-26T14:13:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "The Rolling Stones of Indian cricket still have one more song",
     "desc": "With their Tests and T20I careers well behind them, what remains now is the 50-over format, and they plan to keep playing ODIs with the 2027 World Cup as the final destination. The journey to next year’s showpiece tournament, jointly hosted by South Africa, Zimbabwe and Namibia, passes through Thiruvananthapuram when India face the West Indies at the Greenfield International Stadium on Sunday.",
@@ -268,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/rohit-sharma-and-virat-kohli-the-rolling-stones-of-indian-cricket-still-have-one-more-song/articleshow/134506100.cms",
     "time": "2026-09-26T14:11:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Namit hails Yash as Ravana and co-producer",
-    "desc": "Producer Namit Malhotra explained why Yash was the ideal choice to play Ravana in 'Ramayana', calling him a \"pillar of support\" and praising his courage. He also revealed his collaboration with MrBeast on 'Angry Birds 3'. 'Ramayana Part 1', starring Ranbir Kapoor and Sai Pallavi, releases worldwide on November 6, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-134506137,imgsize-362106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-producer-namit-malhotra-reveals-why-yash-was-the-only-choice-to-play-ravana-this-journey-would-not-be-complete-without-him/articleshow/134506119.cms",
-    "time": "2026-09-26T14:10:43.000Z"
   },
   {
     "cat": "Sports",
@@ -288,24 +387,6 @@ const newsData_en = [
     "time": "2026-09-26T14:03:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "At 7, Elias Phoenix was a piano prodigy; at 20, he reveals abuse at home",
-    "desc": "At 7, Elias Phoenix charmed audiences as a piano prodigy on The Ellen DeGeneres Show. Now 20, he is speaking about his troubled childhood, alleging emotional and physical abuse by his mother and twin brother Zion. Phoenix also discusses suicidal thoughts, the lasting impact of his experiences and why he decided to speak publicly about them.",
-    "img": "https://static.toiimg.com/photo/msid-134505940,imgsize-131094.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/at-7-elias-phoenix-charmed-audiences-as-a-piano-prodigy-on-the-ellen-degeneres-show-at-20-he-opens-up-about-alleged-abuse-by-his-mother-and-twin-brother-suicidal-thoughts-and-his-troubled-childhood/articleshow/134505434.cms",
-    "time": "2026-09-26T14:00:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 2006, Matt Damon started a water nonprofit; years later, it reached over 92 million people",
-    "desc": "Matt Damon's path to becoming a global water advocate was sparked by a life-changing visit to a village in Zambia. This experience led him to establish the H2O Africa Foundation, focused on highlighting the urgent issues surrounding water scarcity. In partnership with Gary White, they founded Water.org, broadening their impact, which has since helped around 92 million individuals access safe water and sanitation.",
-    "img": "https://static.toiimg.com/photo/msid-134500192,imgsize-1216495.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2006-matt-damon-started-a-water-nonprofit-after-seeing-a-zambian-village-struggle-20-years-later-his-mission-has-reached-more-than-92-million-people/articleshow/134499663.cms",
-    "time": "2026-09-26T13:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Prachi Choudhary wins 400m bronze as India’s medal tally swells to 30",
     "desc": "India's performance at the Asian Games improved as Prachi Choudhary won a bronze medal in women’s 400m. This victory raised India's total medal count to 30, comprising four gold, 12 silver, and 14 bronze. Tajinderpal Singh Toor secured a silver in the men’s shot put after a strong competition. Meanwhile, two athletes advanced to the women’s 200m final, showing promise for further medal opportunities.",
@@ -315,33 +396,6 @@ const newsData_en = [
     "time": "2026-09-26T13:15:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Raghav hails Nani as mentor and emotional anchor",
-    "desc": "Raghav Juyal penned an emotional Instagram note for 'The Paradise' co-star Nani, calling him his mentor and \"safe place,\" thanking him for his honesty, kindness and support. He shared how Nani never made him feel small during confusing times. Meanwhile, Nani-starrer 'The Paradise' has earned Rs. 61.15 crore net in India so far.",
-    "img": "https://static.toiimg.com/photo/msid-134505030,imgsize-126151.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/you-have-never-made-me-feel-small-raghav-juyal-calls-nani-his-mentor-writes-emotional-note-after-the-paradise-release/articleshow/134505016.cms",
-    "time": "2026-09-26T13:00:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "MrBeast chants 'Jai Shree Ram' at 'Ramayana' event",
-    "desc": "As Nitesh Tiwari's film 'Ramayana' approaches its theatrical launch, it targets a vast international audience. The promotional event in Mumbai featured social media sensation MrBeast alongside the film's star cast, including Ranbir Kapoor and Sai Pallavi. Viewers can catch the first installment on November 6 globally, with a special Indian premiere on November 8. The sequel is projected to release during Diwali next year, building excitement among fans.",
-    "img": "https://static.toiimg.com/photo/msid-134504968,imgsize-575508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrbeast-joins-ranbir-kapoor-and-sai-pallavi-at-ramayana-event-in-mumbai-chants-jai-shree-ram-after-ranbirs-prompt-watch-video/articleshow/134504828.cms",
-    "time": "2026-09-26T12:55:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mammootty's 'Kaathal' resurfaces in discussion as 'Dorothy' faces trolls",
-    "desc": "Karthik Subbaraj's film 'Dorothy', which premiered on September 25, delves into the intricacies of friendship and love while simultaneously raising important conversations about LGBTQ representation within Indian cinema. The film has drawn comparisons to Mammootty's 'Kaathal – The Core', which also addresses similar themes. However, 'Dorothy' encountered obstacles in its release in Malaysia due to concerns over its content.",
-    "img": "https://static.toiimg.com/photo/msid-134504747,imgsize-143211.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mammoottys-kaathal-the-core-resurfaces-in-discussion-as-karthik-subbarajs-dorothy-faces-trolling-over-reported-lgbtq-themes-and-malaysia-release-setback/articleshow/134504745.cms",
-    "time": "2026-09-26T12:41:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Tajinderpal Singh misses hat-trick of golds, wins silver in shot put",
     "desc": "Tajinderpal Singh Toor fell short in his quest for a third consecutive gold at the Asian Games, securing a silver medal instead. His top mark of 20.64 meters couldn't eclipse Iran's Mohammadreza Tayebise, who made history with a new Games record. Yet, India's medal count swells as sprinters Harita Bhadra and Unnathi Bolland both excel in reaching the women's 200m final alongside Nandhini Kongan in the 100m hurdles.",
@@ -349,33 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-tajinderpal-singh-toor-misses-hat-trick-of-golds-settles-for-silver-in-shot-put/articleshow/134504580.cms",
     "time": "2026-09-26T12:33:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Motivational quote of the day by Morgan Freeman",
-    "desc": "Morgan Freeman's quote on stillness highlights the need for a pause in our fast-paced lives. Life today often pressures individuals to act swiftly and decisively, which may lead to hasty decisions. Freeman encourages thoughtful reflection instead of rushing to resolve issues, especially during challenging times. His career showcases a gradual rise to fame, beginning with his theatre work and progressing to renowned film roles.",
-    "img": "https://static.toiimg.com/photo/msid-134501383,imgsize-72146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/motivational-quote-of-the-day-by-morgan-freeman-learning-how-to-be-still-to-really-be-still-and-let-life-happen-that-stillness-becomes-a-radiance-a-powerful-life-lesson-on-finding-clarity-in-a-restless-world-from-the-beloved-american-star/articleshow/134501340.cms",
-    "time": "2026-09-26T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yami savours intimate family celebration; sister shares vlog",
-    "desc": "Yami Gautam won her first National Film Award for Best Actress for 'Article 370'. Her sister Surilie shared a YouTube vlog of the family's emotional celebration, complete with flowers, hugs and besan ka halwa. Yami also posted a heartfelt Instagram note expressing gratitude for the honour and her journey.",
-    "img": "https://static.toiimg.com/photo/msid-134504558,imgsize-221725.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yami-gautams-family-celebrates-her-first-national-award-for-article-370-with-hugs-flowers-and-besan-ka-halwa-sister-surilie-captures-the-emotional-moment/articleshow/134504536.cms",
-    "time": "2026-09-26T12:28:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shiva Rajkumar gets emotional after watching Suriya’s 'Vishwanath And Sons'",
-    "desc": "In 'Vishwanath And Sons,' starring Suriya and Mamitha Baiju, the narrative delves into the intricacies of family bonds and emotional experiences. Shiva Rajkumar notably shared how the story resonated with his personal life. Centering on Sanjay Vishwanath, a financially successful yet solitary man, everything changes when he meets Madhi. Critics commend the film for its emphasis on relationships over action, while Rajkumar's reflections deepen the conversation around its emotional resonance.",
-    "img": "https://static.toiimg.com/photo/msid-134503578,imgsize-173628.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/i-couldnt-sleep-for-an-hour-shiva-rajkumar-gets-emotional-after-watching-suriya-and-mamitha-baijus-vishwanath-and-sons-says-it-reminded-me-of-my-parents/articleshow/134503547.cms",
-    "time": "2026-09-26T12:25:27.000Z"
   },
   {
     "cat": "Sports",
@@ -451,15 +478,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'All golds will go to India': Soft Tennis makes bold claim in 2030 Commonwealth Games push",
-    "desc": "Jay Meena's historic bronze at the Asian Games highlights India's potential in soft tennis. The Amateur Soft Tennis Federation of India plans to push for inclusion in the 2030 Commonwealth Games. Officials emphasize that existing tennis courts can host soft tennis competitions without modifications.",
-    "img": "https://static.toiimg.com/photo/msid-134501976,imgsize-68042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/all-golds-will-go-to-india-soft-tennis-makes-bold-claim-in-2030-cwg-push/articleshow/134501839.cms",
-    "time": "2026-09-26T10:06:59.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Women cricket’s moment under the Indian political sun",
     "desc": "The lack of a cricketing history between Indian and Pakistani women is less a consequence of the political history, and more a feature of the patriarchal mindsets both these teams have had to wrestle against",
     "img": "https://th-i.thgim.com/public/incoming/jdchcz/article71512396.ece/alternates/LANDSCAPE_1200/PTI09_22_2026_000306B.jpg",
@@ -496,15 +514,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Can't let Olympic spot go by so quickly': Anahat's admission after 0-2 comeback",
-    "desc": "Anahat Singh staged a remarkable comeback against Satomi Watanabe to reach the Asian Games final. Abhay Singh also advanced to the final after defeating Muhammad Irfan convincingly in his semifinal match. Both players are now on the verge of Olympic qualification, with gold in the singles event offering direct entry into the 2028 Olympics. Anahat will face Sivasangari Subramaniam from Malaysia, while Abhay takes on NG Eain Yow.",
-    "img": "https://static.toiimg.com/photo/msid-134501034,imgsize-10983837.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/you-cant-let-the-olympic-spot-go-by-so-quickly-anahat-singhs-stunning-admission-after-0-2-comeback/articleshow/134500904.cms",
-    "time": "2026-09-26T09:00:22.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "2018 saw Virat Kohli’s 10K-run record; now he eyes another milestone vs West Indies",
     "desc": "Virat Kohli is set to return to ODI cricket against West Indies on September 27. He has a remarkable record against this opponent, having scored 2,261 runs in 43 matches. Kohli seeks to become the first player to score 10 ODI centuries against two different teams. Currently, he is only 59 runs away from reaching 15,000 ODI runs.",
     "img": "https://static.toiimg.com/photo/msid-134500868,imgsize-56738.cms",
@@ -520,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-anahat-singh-abhay-singh-lead-indias-squash-surge-two-finals-three-medals-and-olympic-spots-in-sight/articleshow/134500227.cms",
     "time": "2026-09-26T08:05:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I’m not going to worry about expectations’: Kohli reveals new batting plans",
-    "desc": "After taking a break, Virat Kohli is gearing up for his return to ODI cricket against the West Indies. With a focus on playing more freely, he aims to balance performance expectations while stabilizing innings before opting for a bolder batting style. Kohli has expressed confidence in Shubman Gill's leadership skills as India's ODI captain, emphasizing the importance of his long-term role.",
-    "img": "https://static.toiimg.com/photo/msid-134500217,imgsize-1492338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/im-not-going-to-worry-about-expectations-virat-kohli-reveals-how-he-plans-to-bat-in-new-odi-role/articleshow/134500037.cms",
-    "time": "2026-09-26T07:56:34.000Z"
   },
   {
     "cat": "World",
@@ -565,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-51-live-vishal-chaturvedi-and-shobhinaw-satyaas-spiritual-biopic-on-neem-kaorli-baba-continues-strong-run-with-rs-300-crore-india-net-milestone-now-within-reach/articleshow/134499288.cms",
     "time": "2026-09-26T06:56:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anahat stuns world No. 6, now one win away from gold and LA Olympics",
-    "desc": "Anahat Singh's stunning win against world No. 6 Satomi Watanabe paves her way to the finals, bringing her closer to a coveted gold medal at the Asian Games 2026. This tournament doubles as the Asian qualifying event for the 2028 Los Angeles Olympics. In previous matches, Joshna Chinappa and Velavan Senthilkumar clinched bronze in the mixed doubles, showcasing India's competitive spirit as Anahat aims for gold.",
-    "img": "https://static.toiimg.com/photo/msid-134499029,imgsize-107562.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-anahat-singh-saves-two-match-points-to-stun-world-no-6-moves-one-win-away-from-historic-gold-and-la-olympics/articleshow/134498997.cms",
-    "time": "2026-09-26T06:36:14.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
   }
 ];

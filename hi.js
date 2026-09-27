@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ukraine, Czechia to clash in Billie Jean King Cup final; watch live on VETO OTT",
+    "desc": "The final of the Billie Jean King Cup, one of the biggest and most prestigious team competitions in women's tennis, will be played between Ukraine and Czechia today (September 27). Both teams will be aiming to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/ukraine-czechia-to-clash-in-billie-jean-king-cup-final-watch-live-on-veto-ott-2026-09-27-1055392",
+    "time": "2026-09-27T02:44:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'I can't continue forever': Rohit Rajpal hints at stepping down as India's Davis Cup captain",
     "desc": "The Indian team had a subpar campaign at the recently concluded Davis Cup 2026 qualifiers. After winning the first round of the tournament, the nation’s campaign ended in the 2nd round after losing to South...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/asian-games-2026-day-7-live-india-look-to-secure-gold-in-women-s-kabaddi-1055337",
     "time": "2026-09-26T04:53:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sawan Barwal scripts history with Asian Games silver, ends India's 44-year wait for a marathon medal",
-    "desc": "Sawan Barwal delivered a remarkable marathon run to win an unexpected silver for India at the Asian Games on Saturday, while also breaking his own national record. The 28-year-old Armyman from Himachal Pradesh completed the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/sawan-barwal-wins-silver-at-asian-games-ends-india-s-44-year-wait-for-a-marathon-medal-2026-09-26-1055333",
-    "time": "2026-09-26T03:42:21.000Z"
   }
 ];
