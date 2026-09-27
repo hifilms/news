@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli breaks Mohammad Azharuddin's feat in first ODI against West Indies in Trivandrum",
+    "desc": "Star India batter Virat Kohli returned to action in the first ODI against West Indies at Greenfield International Stadium in Thiruvananthapuram. The 37-year-old made his last appearance in the third ODI against England in July....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-mohammad-azharuddin-s-feat-in-first-odi-against-west-indies-in-trivandrum-2026-09-27-1055421",
+    "time": "2026-09-27T11:11:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Campbell-Greaves join elite list with solid opening stand against India in first ODI",
+    "desc": "The West Indies kicked off their ODI series against the Indian team. The two sides met at the Greenfield International Stadium on September 27th, and the game began with the Windies coming in to bat...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/campbell-greaves-join-elite-list-with-solid-opening-stand-against-india-in-first-odi-2026-09-27-1055420",
+    "time": "2026-09-27T11:10:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Anahat Singh scripts history, clinches silver medal in singles squash at Asian Games 2026",
+    "desc": "India’s medal tally at the Asian Games 2026 continues to rise. 18-year-old squash star Anahat Singh has won the silver medal for India in the squash final at the Asian Games 2026. Reaching the final...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/anahat-singh-scripts-history-clinches-silver-medal-in-singles-squash-at-asian-games-2026-2026-09-27-1055414",
+    "time": "2026-09-27T09:23:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kuldeep Yadav leaves West Indies rattled with back-to-back wickets",
+    "desc": "The stage is set for the 1st ODI of the series between India and the West Indies. The two sides meet at the Greenfield International Stadium, Thiruvananthapuram. With the ODI World Cup 2027 approaching, both...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-1st-odi-live-score-india-vs-west-indies-latest-match-updates-scorecards-playing-xis-reactions-1055408",
+    "time": "2026-09-27T07:38:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch India vs West Indies, 1st ODI live on TV and stream online?",
+    "desc": "The stage is set for the beginning of the multi-format series between India and the West Indies. The two sides are kicking off the series with three ODI matches and will follow it up with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-west-indies-1st-odi-live-on-tv-and-stream-online-2026-09-27-1055406",
+    "time": "2026-09-27T06:56:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ukraine, Czechia to clash in Billie Jean King Cup final; watch live on VETO OTT",
     "desc": "The final of the Billie Jean King Cup, one of the biggest and most prestigious team competitions in women's tennis, will be played between Ukraine and Czechia today (September 27). Both teams will be aiming to...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/india-grabs-gold-medal-in-men-s-kabaddi-after-stellar-victory-over-iran-at-asian-games-2026-2026-09-26-1055357",
     "time": "2026-09-26T10:08:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It's the last World Cup': Virat Kohli makes massive statement around his future ahead of ODI World Cup 2027",
-    "desc": "The stage is set for the upcoming ODI series between India and West Indies. The two sides are slated to take on each other across a multi-format white-ball series, as they will take on each...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/it-s-the-last-world-cup-virat-kohli-makes-massive-statement-around-his-future-ahead-of-odi-world-cup-2027-2026-09-26-1055353",
-    "time": "2026-09-26T09:12:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Afghanistan qualify for Asian Games cricket quarter-final, set up clash against team India",
-    "desc": "The stage is set for the quarter-final of the Asian Games 2026 cricket event. It is interesting to note that the Indian men’s cricket team will be taking on Afghanistan in the quarter-final on September...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-qualify-for-asian-games-cricket-quarter-final-set-up-clash-against-team-india-2026-09-26-1055348",
-    "time": "2026-09-26T07:42:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya's injury woes continue, shin injury rules him out of upcoming New Zealand series",
-    "desc": "In another major blow to the Indian team, star all-rounder Hardik Pandya has been ruled out of the upcoming multi-format series against New Zealand due to a shin injury. Pandya sustained the injury to his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-s-injury-woes-continue-shin-injury-rules-him-out-of-upcoming-new-zealand-series-2026-09-26-1055344",
-    "time": "2026-09-26T06:49:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India clinches third gold medal, registers dominant win over Iran in women's Kabaddi final at Asian Games",
-    "desc": "The Indian women's Kabaddi team put forth a brilliant showing in the Kabaddi final and defeated Iran to win India's third gold medal at the Asian Games 2026. Putting forth an exceptional performance, the Indian...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-clinches-third-gold-medal-registers-dominant-win-over-iran-in-women-s-kabaddi-final-at-asian-games-2026-09-26-1055338",
-    "time": "2026-09-26T05:06:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Asian Games 2026, Day 7 Highlights: India ends day 7 with 30 medals",
-    "desc": "The Asian Games 2026 sees the Indian contingent put in their best performance in hopes of adding more medals to their tally. It is interesting to note that day 6 ended with the Indian contingent...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/asian-games-2026-day-7-live-india-look-to-secure-gold-in-women-s-kabaddi-1055337",
-    "time": "2026-09-26T04:53:17.000Z"
   }
 ];
