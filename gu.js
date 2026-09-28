@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "દંડ વસૂલવાનો નવો રસ્તો: ટ્રાફિક ચલણની રકમ હવે વીજળી બિલમાં જોડાઈને આવી શકે છે! સુપ્રીમ કોર્ટેનું સૂચન",
+    "desc": "સર્વોચ્ચ અદાલતે કહ્યું કે લોકો ટ્રાફિલ ચલણની ચુકવણી કરતાં નથી તો લાઇટ બિલમાં ચલણની રકમ જોડવા જેવા વિકલ્પ પર પણ કામ કરી શકાય છે. કોર્ટે કહ્યું કે વીજળી બિલ ન ભરવા પર કનેક્શન કાપવા જેવી કાર્યવાહી થાય છે, તેથી ચલણની વસૂલી માટે પ્રભાવી વ્યવસ્થા પર વિચાર કરવો પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/link-traffic-fines-to-electricity-bills-supreme-court-suggests-innovative-ways-to-recover-unpaid-challans-492394 ",
+    "time": "2026-09-28T10:39:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રોહિત શર્મા બસમાંથી નીચે પડ્યો, મોટી દુર્ઘટના ટળી... વિરાટ કોહલીનું રિએક્શન વાયરલ",
+    "desc": "વેસ્ટ ઈન્ડિઝ સામેની પ્રથમ વનડે મેચ બાદ હોટેલ પર પાછા ફરતી વખતે બસમાંથી નીચે ઉતરતી વખતે રોહિત શર્મા પડી ગયો હતો. આ ઘટનાનો એક વીડિયો વાયરલ થઈ રહ્યો છે. આ સમયે કોહલીનું રિએક્શન જોવા જેવું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rohit-sharma-slips-falls-team-bus-stairs-virat-kohli-reaction-viral-492389 ",
+    "time": "2026-09-28T09:05:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "રાતોરાત સોના-ચાંદીના ભાવમાં તોતિંગ ઘટાડો, એક ઝટકે ભાવ ઘટીને ક્યાં પહોંચી ગયા? ફટાફટ લેટેસ્ટ રેટ ચેક કરો",
+    "desc": "આજે કિંમતી ધાતુઓ સોના અને ચાંદીમાં જબરદસ્ત મોટો કડાકો જોવા મળ્યો છે. વૈશ્વિક બજારોથી માંડીને ઘરેલુ બજારોમાં સોનું ચાંદી કડડભૂસ થયા છે. બંને ધાતુઓ ભારે દબાણ હેઠળ જોવા મળી છે. ઘર આંગણે વાયદા બજાર અને રિટેલ બજાર બંનેમાં જોરદાર કડાકાનો માહોલ છે. જાણો લેટેસ્ટ રેટ અને આ કડાકા પાછળનું કારણ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/major-drop-in-gold-and-silver-prices-check-the-latest-rates-by-karat-sona-chandi-na-bhav-492384 ",
+    "time": "2026-09-28T07:11:10.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "3 દિવસની બેંક હડતાળ ટળી, રવિવારે મોડી રાત સુધી ચાલેલી બેઠકમાં શું થયું જાણો",
     "desc": "3 દિવસની બેંક હડતાળને લઈને ચિંતા કરતાં લોકો માટે રાહતના સમાચાર છે. કારણ કે દેશવ્યાપી બેંક હડતાળ હાલ ટળી ગઈ છે. એટલે કે આજથી બેંકો રાબેતા મુજબ જ ખુલશે અને કાર્યરત રહેશે. 3 દિવસની બેંક હડતાળ શા માટે ટળી છે ચાલો તમને જણાવીએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -324,15 +351,6 @@ const newsData_gu = [
     "time": "2026-09-22T13:25:23.000Z"
   },
   {
-    "cat": "Business",
-    "title": "શું OPS ફરી લાગુ થશે કે NPS ચાલુ રહેશે? શું છે કર્મચારીઓની માંગ?",
-    "desc": "કર્મચારી સંગઠનોએ કમિશન સમક્ષ અનેક માંગણીઓ મૂકી છે, જેમાં ફિટમેન્ટ ફેક્ટરમાં વધારો, પગાર સુધારણા, પેન્શન સુધારણા અને વિવિધ ભથ્થાઓમાં ફેરફારનો સમાવેશ થાય છે. સર્વે ઓફ ઇન્ડિયાના MSAએ OPSને ફરી લાગુ કરવાની માંગ કરી છે. સંગઠને છેલ્લા પગારના 50 ટકા જેટલા ગેરંટીકૃત પેન્શનની પણ માંગ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-will-the-ops-be-reinstated-or-will-the-nps-continue-what-are-the-employees-demands-492037 ",
-    "time": "2026-09-22T12:01:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "છેલ્લી ઓવરમાં એવું શું થયું કે અમ્પાયર પર ભડક્યો કેપ્ટન ઐયર! મેદાન પર હાઈ-વોલ્ટેજ ડ્રામા",
     "desc": "ભારતીય ટીમે જાપાન સામેની મેચ માત્ર બે રનથી જીતી હતી. બંને દેશો વચ્ચેની આ એક માત્ર મેચ રસાકસીભરી રહી હતી. મેચ દરમિયાન એક ઘટનાએ બધાનું ધ્યાન ખેંચ્યું હતું, જ્યારે કેપ્ટન શ્રેયસ ઐયર અમ્પાયર સાથે કોઈ બાબતે દલીલ કરી રહ્યો હતો.",
@@ -349,15 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/national-film-awards-gujarat-ekta-nagar-kartik-aryan-viral-video-photos-chandu-champion-492017 ",
     "time": "2026-09-22T06:09:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "RBIનો મોટો નિર્ણય! બેંકોની આ ટ્રિક્સ હવે નહીં કરે કામ, નિયમોમાં થશે ફેરફાર",
-    "desc": "RBIએ બેંકો માટે નવા બજાર જોખમ સંબંધિત મૂડી નિયમો જાહેર કર્યા છે, જે 1 એપ્રિલ, 2027થી અમલમાં આવશે. સુધારેલા બેસલ III માળખા હેઠળ, બેંકો હવે ઓછી મૂડી જરૂરિયાતોનો લાભ લેવા માટે ટ્રેડિંગ બુક અને બેંકિંગ બુક વચ્ચે મનસ્વી રીતે નાણાકીય સાધનોનું વર્ગીકરણ કરી શકશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/major-decision-by-rbi-these-banking-tricks-will-no-longer-work-rules-to-change-491978 ",
-    "time": "2026-09-21T16:24:09.000Z"
   },
   {
     "cat": "World",
@@ -549,15 +558,6 @@ const newsData_gu = [
     "time": "2026-09-19T11:58:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "મોહસીન નકવી વિવાદ: એશિયા કપની બંને ટ્રોફી ક્યારે આવશે ભારત ? BCCI સચિવ દેવજીત સૈકિયાએ આપી માહિતી",
-    "desc": "BCCIના સચિવ દેવજીત સૈકિયાએ એશિયા કપની ટ્રોફીઓ અંગે મહત્વની માહિતી આપી છે. તેમણે જણાવ્યું કે પુરુષ અને મહિલા બંને એશિયા કપ ટ્રોફી ચોક્કસપણે એક દિવસ ભારત આવશે, જોકે આ માટે કોઈ ચોક્કસ સમયમર્યાદા નક્કી કરવામાં આવી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/mohsin-naqvi-controversy-asia-cup-trophy-india-bcci-secretary-devajit-saikia-491752 ",
-    "time": "2026-09-19T09:27:56.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "iPhone 18 Pro ખરીદવાની ઘેલછા કે પત્ની માટે પ્રેમ ? પતિએ સોનું વેંચી નવો આઈફોન ખરીદ્યો",
     "desc": "ભારતમાં iPhone 18 નું વેચાણ શરુ થઈ ગયું છે અને પહેલા દિવસથી જ એપલ સ્ટોરની બહાર લાંબી લાઈનો જોવા મળી હતી. iPhone 18 ખરીદવાનો એક અનોખો મામલો સામે આવ્યો છે. જેમાં પત્નીની આઈફોનની જીદ પુરી કરવા એક વ્યક્તિ સોનું વેંચીને આઈફોન લેવા આવ્યો હતો.",
@@ -619,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/up-to-34-km-mileage-these-5-cng-cars-are-best-for-city-driving-prices-start-at-4-81-lakh-491260 ",
     "time": "2026-09-15T04:53:35.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "સેમસંગે ભારતમાં લોન્ચ કર્યું ગેલેક્સી S26નું સસ્તું વર્ઝન, આ છે કિંમત",
-    "desc": "સેમસંગે ભારતમાં તેનો નવો ગેલેક્સી S26 FE લોન્ચ કર્યો છે. FE (ફેન એડિશન) શ્રેણીના આ ફોનમાં, કંપનીએ ફ્લેગશિપ ફોનની ઘણી સુવિધાઓ પ્રદાન કરવાનો પ્રયાસ કર્યો છે. કેમેરા, AI અને પ્રદર્શન પર ધ્યાન કેન્દ્રિત કરવામાં આવ્યું છે. તેની કિંમત 79,999 રૂપિયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/samsung-has-launched-an-affordable-version-of-the-galaxy-s26-in-india-here-is-the-price-491224 ",
-    "time": "2026-09-14T16:33:33.000Z"
   },
   {
     "cat": "Tech",
