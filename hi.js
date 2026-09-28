@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Yashvir Singh settles for silver medal in men's javelin at Asian Games 2026, Rohit Yadav grabs bronze",
+    "desc": "The men's javelin event at the Asian Games 2026 came to an end, and the Indian contingent brought home two medals in the sport. Despite leading for most of the event, Yashvir Singh eventually slipped...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/yashvir-singh-settles-for-silver-medal-in-men-s-javelin-at-asian-games-2026-rohit-yadav-grabs-bronze-2026-09-28-1055536",
+    "time": "2026-09-28T12:52:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Complete list of players retained and released of all teams",
     "desc": "The WPL (Women’s Premier League) 2027 season is looming on the horizon; ahead of the new season of the marquee tournament, the WPL is all set to host the mini-auction. The event will be held...",
     "img": "",
@@ -46,8 +55,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Asian Games 2026, Day 9 LIVE: Rohit Yadav and Yash Vir Singh in action as Javelin takes centre stage",
-    "desc": "The 9th day of the Asian Games 2026 sees the Indian contingent take on a variety of sports, with the likes of Tejaswin Shankar, Parul Chaudhary, and many more bringing home medals on September 27th....",
+    "title": "Asian Games 2026, Day 9 Highlights: Yashvir Singh-Rohit Yadav grab silver and bronze medals in men's javelin",
+    "desc": "The 9th day of the Asian Games 2026 saw the Indian contingent excel in athletics. Still in 12th place in the standings, team India now has 45 medals to its name, as they put forth...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/asian-games-2026-day-9-live-esha-singh-hopes-for-a-medal-in-women-s-25m-pistol-final-1055483",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/tom-banton-hits-maiden-odi-century-as-england-beat-sri-lanka-by-223-runs-to-seal-odi-series-2-1-2026-09-27-1055453",
     "time": "2026-09-27T17:33:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Feels awkward to receive POTM'",
-    "desc": "Chasing 295 runs against West Indies, India captain Shubman Gill and Virat Kohli played some meticulous cricket, scoring a century each. Gill initially stitched a partnership of 74 runs with Rohit Sharma before Kohli joined...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/feels-awkward-to-receive-potm-kuldeep-yadav-reacts-to-virat-kohli-shubman-gill-s-century-2026-09-27-1055451",
-    "time": "2026-09-27T17:05:52.000Z"
   }
 ];
