@@ -1,12 +1,228 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Robert Pattinson on not wanting to join James Gunn for his DC work",
+    "desc": "Robert Pattinson has confirmed that he will not be joining James Gunn's DC Universe anytime soon. While promoting his recent film 'Primetime', he discussed his role as Batman and upcoming projects. Pattinson highlighted the specific tone and mood of his current interpretation of Bruce Wayne, which he feels is unique to Matt Reeves' vision. His latest film focuses on Chris Hansen's career and the creation of 'To Catch a Predator'.",
+    "img": "https://static.toiimg.com/photo/msid-134530148,imgsize-239060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-is-not-too-keen-on-joining-james-gunns-dcu-and-the-batman-it-would-be-kind-of-tough/articleshow/134530096.cms",
+    "time": "2026-09-28T02:35:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anirudh Ravichander on Mohanlal's 'Jailer' BGM",
+    "desc": "Anirudh Ravichander elaborated on the intricate crafting of the background score for Mohanlal’s character in 'Jailer'. He emphasized the importance of creating music reflective of the character’s essence and environment. Mohanlal’s portrayal as a suave don in gold dealings resonated deeply with viewers, generating significant buzz. Anticipation builds for 'Jailer 2', scheduled for an October 15 release, promising to bring back the beloved cast along with surprise cameos.",
+    "img": "https://static.toiimg.com/photo/msid-134530104,imgsize-295446.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-created-a-stylish-bgm-like-pablos-anirudh-ravichander-explains-why-mohanlals-jailer-character-needed-a-special-score/articleshow/134530080.cms",
+    "time": "2026-09-28T02:33:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Banks open today? Why 3-day bank strike has been deferred by unions; all you want to know",
+    "desc": "This means that all banks across the country will continue to function as usual for the strike period that had been announced September 28-30. This also assumes significance since it's the time for half yearly closing.",
+    "img": "https://static.toiimg.com/photo/msid-134529954,imgsize-394560.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/are-banks-open-or-closed-today-why-3-day-bank-strike-was-deferred-by-unions-september-28-30-what-customers-should-know/articleshow/134529903.cms",
+    "time": "2026-09-28T02:18:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India to join SCO national coordinators meeting in Islamabad",
+    "desc": "India is set to participate in the Shanghai Cooperation Organisation national coordinators' meeting in Pakistan from September 28-30. This gathering will endorse the event calendar for Pakistan's upcoming presidency leading up to the Council of Heads of State summit. Although there are ongoing bilateral tensions, India continues to engage with the SCO, particularly focusing on initiatives addressing terrorism.",
+    "img": "https://static.toiimg.com/photo/msid-134529912,imgsize-106450.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-to-join-sco-national-coordinators-meeting-in-islamabad/articleshow/134529901.cms",
+    "time": "2026-09-28T02:12:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump rejects Iran proposal; markets stay volatile",
+    "desc": "On Monday, oil prices surged, driven by escalating tensions in the Middle East following Iran's recent peace proposal. U.S. President Trump's dismissal of the proposal has contributed to market volatility. Both Brent crude and U.S. West Texas Intermediate saw price increases, although worries over diesel exports continue to shape market sentiment.",
+    "img": "https://static.toiimg.com/photo/msid-134529882,imgsize-39376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/seven-months-into-hormuz-shutdown-oil-remains-elevated-as-trump-rejects-iran-proposal/articleshow/134529530.cms",
+    "time": "2026-09-28T02:09:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift debuts 'Patient Zero' music video at VMAs",
+    "desc": "Taylor Swift premiered her new music video, 'Patient Zero', at the 2026 MTV Video Music Awards. She received the inaugural Artist Director Honors for her contributions to music video artistry. Dakota Johnson presented the award, acknowledging Swift's remarkable accomplishments in this field over two decades. Swift thanked her fans and collaborators during her acceptance speech for their support throughout her career.",
+    "img": "https://static.toiimg.com/photo/msid-134529794,imgsize-306727.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-debuts-patient-zero-music-video-at-vmas-thanks-swifties-as-she-receives-inaugural-artist-director-honors-from-dakota-johnson-watch/articleshow/134529590.cms",
+    "time": "2026-09-28T02:03:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mirzapur The Movie' box office collection day 24: Pankaj Tripathi's film grows 9.7%",
+    "desc": "With a robust net of Rs 1.70 crores collected on its 24th day, Mirzapur The Movie proves its box office prowess during the fourth weekend. Surpassing Rs 330.72 crores globally, the film benefits from high viewer turnout and critical acclaim for its cast and storytelling, demonstrating its impressive staying power in cinemas.",
+    "img": "https://static.toiimg.com/photo/msid-134529684,imgsize-321218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-24-pankaj-tripathis-film-grows-9-7-on-fourth-sunday-fourth-weekend-shows-steady-momentum-worldwide-gross-stands-at-rs-330-72-cr/articleshow/134529659.cms",
+    "time": "2026-09-28T01:53:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dulquer Salmaan warns fans about fake X account",
+    "desc": "In response to a misleading parody account on X, Dulquer Salmaan has reached out to his followers, urging them to disregard the impersonator. The actor emphasized the confusion and negativity it has generated. He has formally reported the account to X, leaving the ball in their court. Meanwhile, the parody account has apologized for any misunderstandings.",
+    "img": "https://static.toiimg.com/photo/msid-134529503,imgsize-208175.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/its-causing-unnecessary-confusion-and-negativity-dulquer-salmaan-warns-fans-about-fake-x-account-complaint-filed/articleshow/134529481.cms",
+    "time": "2026-09-28T01:30:33.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump asked China’s President if he wants to buy U.S. arms, Ambassador says",
+    "desc": "David Perdue said Mr. Trump raised the prospect of the arms sales from the U.S. to its ascendant geopolitical rival, an unlikely offer that, if consummated, would upend generations of U.S. policy toward China and Taiwan",
+    "img": "https://th-i.thgim.com/public/incoming/z9qjn0/article71518152.ece/alternates/LANDSCAPE_1200/AP09_26_2026_000001B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says/article71518145.ece",
+    "time": "2026-09-28T01:29:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "PC and Malti prove they are Nick's number one fans- WATCH",
+    "desc": "Priyanka Chopra and her daughter Malti were seen at a Jonas Brothers concert cheering for Nick Jonas. The duo enjoyed the performance while wearing custom merchandise, captivating fans present during the event. In a memorable moment, Nick sang directly to Malti, who excitedly raised her hands in response. Shortly after this concert, they celebrated Nick's birthday with family videos sharing personal moments.",
+    "img": "https://static.toiimg.com/photo/msid-134529394,imgsize-342741.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/priyanka-chopra-and-malti-prove-they-are-nick-jonas-number-one-fans-mother-daughter-duo-get-groovy-at-jonas-brothers-concert-watch/articleshow/134529154.cms",
+    "time": "2026-09-28T01:17:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Hanuman Ansh' BO day 52: Vishal's movie crosses Rs 400 cr worldwide",
+    "desc": "After 52 days in theaters, 'Hanuman Ansh' has grossed over Rs 400 crores worldwide. The film has achieved significant domestic success, with net collections exceeding Rs 300 crores in India. On its 52nd day, the movie earned Rs 9 crores from 4,387 shows, showing a notable increase from the previous day. The film's overall occupancy rates also improved across various showtimes during the weekend.",
+    "img": "https://static.toiimg.com/photo/msid-134529359,imgsize-260359.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-52-vishal-chaturvedis-movie-crosses-rs-400-cr-worldwide-india-net-collection-passes-rs-300-cr/articleshow/134529345.cms",
+    "time": "2026-09-28T01:11:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bethlehem Kudumba Unit' BO day 38",
+    "desc": "Nivin Pauly's 'Bethlehem Kudumba Unit' has garnered impressive net earnings of Rs 99 lakhs over its sixth weekend, bringing its total to an astounding Rs 163.15 crore in India and Rs 328.40 crore globally. The film's audience attendance surged significantly, especially during evening shows. Meanwhile, 'Pradhama Drishtiya Kuttakkar' also achieved noteworthy collections, earning Rs 99 lakhs on its 17th day.",
+    "img": "https://static.toiimg.com/photo/msid-134529268,imgsize-413159.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-collection-day-38-nivin-pauly-film-grows-28-6-on-sixth-sunday-sixth-weekend-shows-steady-hold/articleshow/134529266.cms",
+    "time": "2026-09-28T00:58:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift attends MTV VMAs in 2026 in a black and silver floor-length dress",
+    "desc": "Making history at the 2026 MTV VMAs, Taylor Swift dazzled in a stunning black and silver dress while receiving the first-ever Artist Director Honors. Garnering her 31st award across the night, this event solidified her remarkable career trajectory. Hosted by Snoop Dogg, the night buzzed with energy as Swift navigated her multiple nominations, all while being a supportive presence for her partner, Travis Kelce.",
+    "img": "https://static.toiimg.com/photo/msid-134529261,imgsize-170560.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/mtv-vmas-2026-taylor-swift-stuns-at-award-show-in-sleek-black-and-silver-dress-skips-husband-travis-kelces-chiefs-game/articleshow/134529228.cms",
+    "time": "2026-09-28T00:55:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'VIBE' BO Day 10: Kunal and Preity's film holds steady on Sunday",
+    "desc": "Kunal Kemmu, Sparsh Shrivastava, and Preity Zinta's film 'VIBE' has shown consistent box-office performance over its initial days. The Hindi movie has achieved a net collection of Rs 13.55 crore in India so far. It recorded Rs 90 lakhs net on the second Sunday and maintained similar earnings from the previous day. 'VIBE' received positive audience responses and has increased its showing across various theatres.",
+    "img": "https://static.toiimg.com/photo/msid-134529223,imgsize-453152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/vibe-box-office-collection-day-10-kunal-kemmu-and-preity-zintas-film-holds-steady-on-sunday-india-net-reaches-rs-13-55-cr-worldwide-gross-stands-at-rs-18-21-cr/articleshow/134529194.cms",
+    "time": "2026-09-28T00:46:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mandaadi' BO day 18: Soori film sees 29.6% growth",
+    "desc": "Soori's film 'Mandaadi' has shown strong box office performance on its third Sunday with increased collections. The film's overall India net collection has approached Rs 90 crore and gross earnings exceeded Rs 121 crore worldwide. It registered remarkable audience occupancy levels during its third weekend, reaching 50.1% overall. ETimes rated 'Mandaadi' three stars, praising its meaningful roles for female characters within the story.",
+    "img": "https://static.toiimg.com/photo/msid-134529169,imgsize-650332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mandaadi-box-office-collection-day-18-soori-film-sees-29-6-growth-on-third-sunday-india-net-collection-reaches-rs-89-98-cr/articleshow/134529167.cms",
+    "time": "2026-09-28T00:40:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Vvan",
+    "desc": "Sidharth Malhotra and Tamannaah Bhatia's film 'The Vvan - Force of the Forrest' performed well at the box office. The film collected Rs 33.25 crore net in India over its opening weekend. The weekend collections included Rs 14 crore on the third day, marking steady growth. Additionally, the movie grossed Rs 3.50 crore from overseas markets within the same period.",
+    "img": "https://static.toiimg.com/photo/msid-134529152,imgsize-374400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-vvan-force-of-the-forrest-box-office-collection-day-3-sidharth-malhotra-tamannaah-bhatias-movie-earns-rs-14-cr-on-sunday-india-net-reaches-rs-33-25-cr/articleshow/134529149.cms",
+    "time": "2026-09-28T00:31:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He is playing with freedom': Shubman Gill on Virat Kohli's new approach",
+    "desc": "India captain Shubman Gill believes the best way to get the most out of Virat Kohli is to simply let the star batter be himself. Kohli smashed an unbeaten 139 off 88 balls as India beat West Indies by eight wickets in the first ODI at the Greenfield International Stadium on Sunday. Gill also scored 110 as the two shared a 151-run partnership.",
+    "img": "https://static.toiimg.com/photo/msid-134524238,imgsize-52742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/he-is-playing-with-freedom-shubman-gill-on-virat-kohlis-new-approach/articleshow/134524191.cms",
+    "time": "2026-09-28T00:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kohli's record-breaking night: 15,000 ODI runs, 55th century and more",
+    "desc": "Virat Kohli's century against West Indies on Sunday was not just another hundred. It came with a string of milestones and records as the India star continued to show his ability to score quickly even at this stage of his career. Kohli hit 139 not out off 88 balls in India's eight-wicket win in Thiruvananthapuram. His century came off 74 balls, making it the third-fastest ODI hundred of his career.",
+    "img": "https://static.toiimg.com/photo/msid-134524602,imgsize-35224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/virat-kohlis-record-breaking-night-15000-odi-runs-55th-century-and-more-full-list/articleshow/134524556.cms",
+    "time": "2026-09-28T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dorothy' BO day 3 vs 'Meesaya Murukku 2'",
+    "desc": "The recent box office showdown saw Keerthy Suresh and Karthik Subbaraj's 'Dorothy' blossoming with Rs 1.51 crore on its third day, marking a substantial bounce from Saturday. Concurrently, Hiphop Tamizha Adhi's 'Meesaya Murukku 2' made waves with Rs 6.05 crore the same day. Both films enjoyed wide screenings and impressive attendance, suggesting a strong audience reception and building excitement as they concluded their opening weekend.",
+    "img": "https://static.toiimg.com/photo/msid-134529116,imgsize-451385.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/box-office/dorothy-box-office-collection-day-3-vs-meesaya-murukku-2-keerthy-suresh-movie-sees-20-8-growth-on-sunday-hiphop-tamizha-adhi-movie-reaches-rs-13-95-cr-net/articleshow/134529112.cms",
+    "time": "2026-09-28T00:22:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Florence Pugh and Josh Gad SLAM university sexual assault case",
+    "desc": "Florence Pugh and Josh Gad have expressed their outrage following the allegations of sexual assault at Cornell University. A former student, referred to as Jane Doe, has accused seven fraternity members of drugging and assaulting her in 2024. While the university suspended the fraternity, the disciplinary actions taken against the accused have sparked significant criticism.",
+    "img": "https://static.toiimg.com/photo/msid-134529066,imgsize-310289.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cornell-university-gang-rape-case-florence-pugh-josh-gadd-and-other-hollywood-stars-condemn-demand-justice-those-that-protect-and-lightly-sentence-men-that-rape-and-destroy-should-be-punished/articleshow/134528873.cms",
+    "time": "2026-09-28T00:08:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Paradise' BO day 4: Nani's movie reaches Rs 138.25 cr",
+    "desc": "Nani's latest venture, 'The Paradise,' enjoyed a solid box office run during its opening weekend, despite mixed reviews. The film saw a Day 4 collection of Rs 15.70 crores in India, indicating modest growth from yesterday. The Telugu version notably led earnings with Rs 13.60 crores from robust occupancy. In total, the film has brought in Rs 92.",
+    "img": "https://static.toiimg.com/photo/msid-134529038,imgsize-206451.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-box-office-collection-day-4-nanis-movie-reaches-rs-138-25-cr-worldwide-sunday-india-net-rises-to-rs-15-70-cr/articleshow/134529027.cms",
+    "time": "2026-09-28T00:03:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek's 30-ball ton hid the number that should really worry T20 bowlers",
+    "desc": "Abhishek Sharma's 30-ball T20I hundred against Afghanistan was spectacular, but the bigger story lies in the numbers around it. The India opener is striking at 194.55 while averaging 33.18, combining extraordinary aggression with consistency. His powerplay dominance, six-hitting, record-breaking numbers and the costly downside of his approach reveal how his game has evolved.",
+    "img": "https://static.toiimg.com/photo/msid-134516685,imgsize-716708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/abhishek-sharmas-30-ball-ton-hid-the-number-that-should-really-worry-t20-bowlers/articleshow/134516612.cms",
+    "time": "2026-09-27T23:30:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump expects new Iran talks despite rejecting deal offer",
+    "desc": "Iran's plan called for a cessation of all hostilities in West Asia, including in Lebanon, according to Foreign Minister Abbas Araghchi, and a return to the conditions in the ceasefire deal that fell apart a few months ago",
+    "img": "https://th-i.thgim.com/public/incoming/uu6w3e/article71517424.ece/alternates/LANDSCAPE_1200/2026-09-27T224026Z_1980373082_RC2XRNANGXA3_RTRMADP_3_USA-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-stands-firm-on-hormuz-plan-after-us-rejection/article71517156.ece",
+    "time": "2026-09-27T23:02:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'Spider-Man: Brand New Day' OTT release set for October 6",
     "desc": "Brand New Day is nearing the end of its theatrical release following strong box office performance. The film's worldwide earnings are approaching USD 2.5 billion, making it the highest-grossing film of 2026. Reports indicate that it will be available digitally to purchase or rent on October 6, 2026. Following its digital release, it is expected to be available on physical formats by November 17.",
     "img": "https://static.toiimg.com/photo/msid-134528805,imgsize-215746.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-ott-release-set-for-october-6-after-blockbuster-theatrical-run-tom-holland-starred-set-to-hit-usd-2-5-billion-mark/articleshow/134526432.cms",
     "time": "2026-09-27T22:31:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ballot without the battle",
+    "desc": "Bypolls for two Assembly constituencies in West Bengal Nandigram and Rejinagar scheduled for October 6, are turning out to be an electoral exercise without much contest on the ground. Shrabana Chatterjee and Senjuti Sengupta report on the dropouts and intimidation that candidates from non-BJP parties are allegedly facing",
+    "img": "https://th-i.thgim.com/public/incoming/18zyeq/article71512637.ece/alternates/LANDSCAPE_1200/12015_24_9_2026_14_26_5_3_7CONGRESSCAMPAIGNSFORTHEIRARRESTEDCANDIDATEMILANPRADHAN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/nandigram-and-rejinagar-bypoll-ballot-without-the-battle/article71512622.ece",
+    "time": "2026-09-27T21:54:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -63,13 +279,13 @@ const newsData_en = [
     "time": "2026-09-27T17:30:00.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran stands firm on Hormuz plan after U.S. rejection",
-    "desc": "Iran's plan called for a cessation of all hostilities in West Asia, including in Lebanon, according to Foreign Minister Abbas Araghchi, and a return to the conditions in the ceasefire deal that fell apart a few months ago",
-    "img": "https://th-i.thgim.com/public/incoming/b17c1a/article71517172.ece/alternates/LANDSCAPE_1200/UN_General_Assembly_Iran__269_.jpg",
+    "cat": "Politics",
+    "title": "Should voting be a fundamental right?",
+    "desc": "A recent Indian Express report revealed an unprecedented rift within the EC over alleged unilateral changes to rules, voter additions/deletions, and centralised data access, prompting a re-examination of the argument that the ‘right to vote’ ought to be elevated from a statutory guarantee to a fundamental one",
+    "img": "https://th-i.thgim.com/public/incoming/92mv9x/article71517158.ece/alternates/LANDSCAPE_1200/9871_23_4_2026_21_13_32_1_ELECTIONPOLLINGCROWD__03.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-stands-firm-on-hormuz-plan-after-us-rejection/article71517156.ece",
-    "time": "2026-09-27T17:28:06.000Z"
+    "url": "https://www.thehindu.com/news/national/should-voting-be-a-fundamental-right/article71517159.ece",
+    "time": "2026-09-27T17:24:22.000Z"
   },
   {
     "cat": "Sports",
@@ -153,15 +369,6 @@ const newsData_en = [
     "time": "2026-09-27T16:15:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "40-year-old demand for road to Scheduled Caste village causes communal rift in Nilgiris",
-    "desc": "As many as 40 Sri Lankan-repatriate Scheduled Caste families in Ambal Colony, Kil Kotagiri, were set to benefit from a short road near their hamlet. However, the road laying project approved on September 3 has now sparked communal tensions.",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/kr5rle/article71515919.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-27%20at%204.27.59%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/40-year-old-demand-for-road-to-scheduled-caste-village-causes-communal-rift-in-nilgiris/article71515572.ece",
-    "time": "2026-09-27T16:14:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Asian Games",
     "desc": "“I played my match yesterday, and there have not been many instances where I have come back from being down. It’s always the other way around. I am just learning how to handle the pressure of playing against more experienced players,”says Anahat",
@@ -216,24 +423,6 @@ const newsData_en = [
     "time": "2026-09-27T15:40:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CJP says Mumbai Police denied permission for Oct 2 protest, launches  ‘Jail Bharo Andolan’",
-    "desc": "The Cockroach Janta Party is gearing up for a protest in Mumbai after being denied police permission. Founder Abhijeet Dipke announced plans for a Jail Bharo Andolan on Gandhi Jayanti. This announcement follows reports of CJP co-convener Ashutosh Ranka and volunteers facing detention in Assam. NCP (SP) spokesperson Anish Gawande condemned the detentions, labeling them illegal and unconstitutional. The CJP remains dedicated to advocating for social issues despite these setbacks.",
-    "img": "https://static.toiimg.com/photo/msid-134522681,imgsize-95626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cjp-says-mumbai-police-denied-permission-for-oct-2-protest-launches-jail-bharo-andolan/articleshow/134522624.cms",
-    "time": "2026-09-27T15:33:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 2024, Robert Downey Jr. co-founded a coffee brand with a mental health mission",
-    "desc": "Robert Downey Jr. has partnered with Craig Dubitsky to launch Happy Products, a coffee brand supporting mental health. The brand collaborates with the National Alliance on Mental Illness to include mental health information on packaging. Each product features resources such as the NAMI helpline number and a QR code for support services. Happy Products aims to normalize discussions around mental health within everyday routines, particularly through coffee consumption.",
-    "img": "https://static.toiimg.com/photo/msid-134515976,imgsize-991501.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2024-robert-downey-jr-co-founded-a-coffee-brand-with-a-mental-health-mission-later-partnered-with-nami-to-put-support-resources-on-every-pack/articleshow/134515945.cms",
-    "time": "2026-09-27T15:30:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India sees 30% increase in Michelin Key hotels in second year of rating here",
     "desc": "India has seen an increase in luxury hotels evaluated by the Michelin Guide, with 47 hotels receiving Keys. These hotels were assessed based on five universal criteria to maintain high standards. Prominent establishments like Taj Falaknuma Palace and Taj Lake Palace received three Keys each. India's culinary scene is recognized internationally, but local restaurants have yet to receive Michelin stars.",
@@ -261,24 +450,6 @@ const newsData_en = [
     "time": "2026-09-27T15:14:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Man files complaint, police reveal prior FIR against him",
-    "desc": "Delhi Police has received a complaint regarding an alleged incident involving Minister Parvesh Verma. The complaint states that Verma slapped a man during a road inspection in Tilak Nagar. AAP leader Jarnail Singh was present and questioned the quality of the road when the incident occurred. Verma disputes the allegations, claiming the video does not show the full context.",
-    "img": "https://static.toiimg.com/photo/msid-134522277,imgsize-842361.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/threatened-to-kill-me-man-files-complaint-against-delhi-pwd-minister-parvesh-verma-over-slap-during-road-inspection/articleshow/134522216.cms",
-    "time": "2026-09-27T15:03:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sylvester Stallone reveals bulimia battle while building his ‘Rocky III’ physique",
-    "desc": "Sylvester Stallone opened up about his battle with bulimia and steroid abuse during the making of the 'Rocky' and 'Rambo' franchises. His relentless pursuit of a perfect physique took a heavy toll on his well-being. The constant demand of performing stunts and staying muscular became increasingly burdensome. A turning point came when he portrayed an overweight role in 'Cop Land', prompting a shift in mindset.",
-    "img": "https://static.toiimg.com/photo/msid-134516766,imgsize-68853.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/i-got-down-to-2-6-per-cent-body-fat-sylvester-stallone-reveals-he-battled-bulimia-while-building-his-rocky-iii-physique/articleshow/134516731.cms",
-    "time": "2026-09-27T15:00:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why cheaper diesel could come with a gasoline price shock",
     "desc": "A potential restriction on U.S. diesel exports could initially lower domestic diesel prices due to a spike in supply, but may ultimately cause gasoline prices to rise if refiners cut back on production. Goldman Sachs warns that sustained export limits could significantly elevate retail gasoline costs. Additionally, European diesel prices may increase as U.S. exports dwindle, leading to long-term market effects even after export restrictions are lifted.",
@@ -288,24 +459,6 @@ const newsData_en = [
     "time": "2026-09-27T14:55:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nani says ‘The Paradise’ reactions show the trust and expectations audiences had",
-    "desc": "Nani and director Srikanth Odela delved into the mixed audience reactions following their film, The Paradise. Srikanth shared his astonishment at the polarized views and acknowledged the necessity of time to comprehend them. Anticipating varied responses, Nani highlighted the film's profound impact and distinctive storytelling. They agreed that the strong box office performance demonstrates audience confidence in their collaboration, intending to utilize viewer feedback for enhancing their future projects.",
-    "img": "https://static.toiimg.com/photo/msid-134522080,imgsize-961664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nani-and-srikanth-odela-discuss-the-paradise-response-i-dont-understand-what-it-is-says-director-actor-says-it-shows-the-trust-and-expectations-audiences-had-from-them/articleshow/134521910.cms",
-    "time": "2026-09-27T14:43:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Gen Z wants answers, not intimidation': CJP slams Delhi minister after viral video shows him slapping man",
-    "desc": "Delhi minister Parvesh Verma faced backlash after a video showed him slapping a man during a road inspection. As the incident gained attention, the cockroach Janata Party condemned Verma's actions, stating that Gen Z seeks answers. Verma claimed he reacted to an insult directed at his family from an associate of local MLA Jarnail Singh. He alleged that Singh pressured PWD engineers for commissions related to road construction.",
-    "img": "https://static.toiimg.com/photo/msid-134521997,imgsize-6613149.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gen-z-wants-answers-not-intimidation-cjp-slams-delhi-minister-after-viral-video-shows-him-slapping-man/articleshow/134521909.cms",
-    "time": "2026-09-27T14:38:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Athletics leads India’s seven-medal haul, three boxers assure medals",
     "desc": "India showcased a stellar performance at the Asian Games 2026, clinching a total of seven medals, predominantly in athletics and squash. Parul Chaudhary shone brightly, securing a bronze in the women’s 3000m steeplechase. Silver medals were added by Ancy Sojan and Sarvesh Kushare in their respective disciplines. The boxing team also excelled, confirming three medals through successful semifinal performances.",
@@ -313,24 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-8-athletics-leads-indias-seven-medal-haul-three-boxers-assure-medals/articleshow/134521777.cms",
     "time": "2026-09-27T14:30:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "From 39th to 10th, India breaks into WorldSkills top league",
-    "desc": "At WorldSkills Shanghai 2026, India proudly secured the 10th position, reflecting remarkable strides in the global skills competition landscape. The nation earned six silver medals, demonstrating growth in a variety of fields. Significant first-time achievements in Dental Prosthetics and Digital Interactive Media Design were particularly noteworthy. With 70 competitors involved, India's investment in skill development is evident, promoting an enriched skilling ecosystem through global participation.",
-    "img": "https://static.toiimg.com/photo/msid-134521851,imgsize-130362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-39th-to-10th-india-breaks-into-worldskills-top-league/articleshow/134521518.cms",
-    "time": "2026-09-27T14:23:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Choreographer says he once felt slighted",
-    "desc": "Choreographer Bosco Martis recalled feeling hurt when Vivek Oberoi asked for a creative breakdown before agreeing to a song, post his 'Company' and 'Saathiya' success. Bosco later realised Vivek's approach was justified. Vivek emphasised keeping work separate from friendship. He's known for films like Masti, Omkara, Krrish 3, and recently, Mastiii 4 (2025).",
-    "img": "https://static.toiimg.com/photo/msid-134521571,imgsize-217434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bosco-martis-recalls-feeling-hurt-by-vivek-oberois-behaviour-post-company-success-i-dont-want-anyone-to-take-this-the-wrong-way-/articleshow/134521526.cms",
-    "time": "2026-09-27T14:05:49.000Z"
   },
   {
     "cat": "Business",
@@ -351,15 +486,6 @@ const newsData_en = [
     "time": "2026-09-27T14:00:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rob Lowe was ‘the only person happy’ after Will slapped Chris at Oscars",
-    "desc": "Rob Lowe has revealed he was “the only person happy” when Will Smith slapped Chris Rock at the 2022 Oscars, hoping the shocking incident would overshadow his infamous 1989 Academy Awards performance. Lowe joked that his decades-old Oscars blunder continues to haunt him, despite Smith’s slap becoming one of Hollywood’s biggest controversies.",
-    "img": "https://static.toiimg.com/photo/msid-134521319,imgsize-75278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rob-lowe-says-he-was-the-only-person-happy-after-will-smith-slapped-chris-rock-at-oscars-hoped-incident-would-overshadow-his-own-infamous-1989-academy-awards-performance/articleshow/134521319.cms",
-    "time": "2026-09-27T13:46:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "EAM Jaishankar, Canada FM Anand discuss taking bilateral ties ‘to a higher level’",
     "desc": "India and Canada are actively enhancing their bilateral ties as External Affairs Minister S Jaishankar engages with Anita Anand. This meeting is a part of trade negotiations aiming for a significant increase in trade by 2030. Canadian Prime Minister Mark Carney hinted at a potential visit from Prime Minister Narendra Modi in December. Despite earlier tensions surrounding security concerns, relations are on a path to normalization.",
@@ -367,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/eam-jaishankar-canada-fm-anand-discuss-taking-bilateral-ties-to-a-higher-level/articleshow/134520874.cms",
     "time": "2026-09-27T13:38:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Filmmaker questions macho ‘smoker’ heroes",
-    "desc": "Filmmaker Sanjay Gupta questioned Bollywood's smoking imagery on posters of 'Animal', 'Dhurandhar' and 'Love & War', sparking online debate. This comes as CBFC introduced stricter rules mandating anti-drug warnings in films depicting narcotics, notified on September 16. The Centre also reconstituted CBFC with an 18-member board, including Preity Zinta and Pankaj Tripathi.",
-    "img": "https://static.toiimg.com/photo/msid-134520969,imgsize-213978.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/what-is-the-point-of-unpleasant-anti-smoking-reels-sanjay-gupta-slams-smoking-posters-of-animal-dhurandhar-love-war/articleshow/134520964.cms",
-    "time": "2026-09-27T13:19:16.000Z"
   },
   {
     "cat": "Sports",
@@ -396,15 +513,6 @@ const newsData_en = [
     "time": "2026-09-27T13:17:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Billy Gardell opens up about the health crisis that changed his life",
-    "desc": "Billy Gardell's remarkable health transformation has been shaped by a diabetes diagnosis and the necessity for surgery. After struggling with weight management for years, he discovered that traditional exercise alone wasn’t enough. Following bariatric surgery, he no longer needs diabetes medication and enjoys everyday activities. His family's support proved vital in motivating him towards a healthier lifestyle, highlighting the many steps he took to regain his freedom.",
-    "img": "https://static.toiimg.com/photo/msid-134516586,imgsize-1163110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/after-50-the-warranties-start-running-out-billy-gardell-says-bariatric-surgery-probably-saved-his-life-after-diabetes-diagnosis/articleshow/134516575.cms",
-    "time": "2026-09-27T13:00:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Savitha heroics bring medal; Arjun helps India bag Open silver",
     "desc": "India secured a memorable double podium at the Chess Olympiad in Samarkand. Savitha Shri’s resilient 83-move draw sealed bronze for the women, while Arjun Erigaisi’s dramatic late victory helped the open team win silver on tiebreak. Uzbekistan took open gold and China won women’s gold. India also claimed the Gaprindashvili Cup for the best combined performance.",
@@ -414,15 +522,6 @@ const newsData_en = [
     "time": "2026-09-27T12:49:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay Deverakonda’s ‘Ranabaali’ gets four-part documentary series ahead of release",
-    "desc": "Vijay Deverakonda and Rashmika Mandanna will star in the film 'Ranabaali', set for release on October 16, 2026. The film, directed by Rahul Sankrityan, will explore the Madras Famine of 1876-78. A four-part documentary series titled 'Never Forget - The Truth Series' will precede the film's release. Each episode will cover different chapters linked to the film's historical context.",
-    "img": "https://static.toiimg.com/photo/msid-134520378,imgsize-1184278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ranabaali-vijay-deverakonda-and-rashmika-mandanna-starrer-period-action-drama-gets-four-part-never-forget-documentary-series-ahead-of-release/articleshow/134520322.cms",
-    "time": "2026-09-27T12:37:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Tejaswin Shankar wins decathlon bronze after 1500m triumph",
     "desc": "In an impressive display of athleticism, Tejaswin Shankar clinched the decathlon bronze medal at the Asian Games by triumphing in the 1500m race. With a remarkable total of 7,934 points, he secured a podium position, while Japan's Yuma Maruyama took the gold. Meanwhile, Ancy Sojan finished just shy of gold in the women's long jump, placing second behind China's Yingying Huang.",
@@ -430,42 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-tejaswin-shankar-wins-decathlon-bronze-after-1500m-triumph/articleshow/134520253.cms",
     "time": "2026-09-27T12:35:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by MrBeast",
-    "desc": "MrBeast, the internet sensation known as Jimmy Donaldson, carved his path to YouTube stardom through years of unwavering commitment. His numerous setbacks were not failures but learning opportunities that paved the way for remarkable achievements. His experience serves as a testament to the importance of perseverance and self-reflection in the creative process. By applying his insights to new ventures, he built a powerful brand that transcends YouTube.",
-    "img": "https://static.toiimg.com/photo/msid-134515789,imgsize-155549.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/motivational-quote-of-the-day-by-mrbeast-you-just-keep-doing-something-youll-get-better-at-it-a-powerful-life-lesson-on-hard-work-and-consistency-from-the-beloved-youtuber/articleshow/134515764.cms",
-    "time": "2026-09-27T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jason Sanjay reveals Dulquer Salmaan’s feedback on ‘Sigma’",
-    "desc": "Jason Sanjay is excited about his upcoming directorial debut, ‘Sigma,’ which is on the verge of release. He recalled fond memories of watching his father's films like Pokkiri as a child. Looking ahead, Sanjay showed interest in future acting roles while stressing the significance of character in his first appearance.",
-    "img": "https://static.toiimg.com/photo/msid-134517502,imgsize-159144.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jason-sanjay-reveals-dulquer-salmaans-feedback-on-sigma-recalls-vijays-pokkiri-and-talks-about-ajith/articleshow/134517491.cms",
-    "time": "2026-09-27T12:24:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CISF to guard NTA’s confidential exam areas",
-    "desc": "Responding to the alarming issue of exam paper leaks, the National Testing Agency has fortified its security protocols. A dedicated team of 29 CISF personnel is now assigned to the agency's new office for rigorous oversight. In addition to advancing cybersecurity measures, the NTA is revisiting its entire examination-cycle systems to thwart unauthorized access. Independent audits will also be conducted, aiming for a significant improvement in examination integrity moving forward.",
-    "img": "https://static.toiimg.com/photo/msid-134520077,imgsize-1117456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/neet-leak-fallout-cisf-to-guard-ntas-confidential-exam-areas/articleshow/134519895.cms",
-    "time": "2026-09-27T12:14:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bollywood figures mourn playback singer",
-    "desc": "Rani Mukerji's mother, Krishna Mukerji, passed away on September 22 at 75 after a brief illness. Bollywood stars including Shah Rukh Khan, Aamir Khan, Tusshar Kapoor, Jaya and Shweta Bachchan attended her prayer meet. Aditya Chopra's production house confirmed the news, requesting privacy. Krishna was married to filmmaker Ram Mukherjee, who died in 2017.",
-    "img": "https://static.toiimg.com/photo/msid-134519847,imgsize-349464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-mukerjis-mother-krishna-mukerjis-chautha-ceremony-shah-rukh-khan-aamir-khan-jaya-shweta-bachchan-and-other-celebs-attend-the-prayer-meet/articleshow/134519822.cms",
-    "time": "2026-09-27T12:02:53.000Z"
   },
   {
     "cat": "Sports",
@@ -486,42 +549,6 @@ const newsData_en = [
     "time": "2026-09-27T11:48:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nayanthara and Vignesh Shivan’s love story: From ‘Naanum Rowdy Dhaan’ to marriage",
-    "desc": "Nayanthara and Vignesh Shivan's love story began on the set of 'Naanum Rowdy Dhaan' in 2015. After maintaining a private relationship, they joyfully revealed their engagement to loved ones in March 2021. On June 9, 2022, they exchanged vows at a star-studded ceremony. Later that year, they welcomed twin boys, Uyir and Ulagam. The family recently celebrated the boys' fourth birthday, a moment of happiness and togetherness.",
-    "img": "https://static.toiimg.com/photo/msid-134519499,imgsize-298424.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nayanthara-vignesh-shivan-love-story-in-details-from-secret-romance-on-naanum-rowdy-dhaan-sets-to-grand-wedding-and-twin-sons/articleshow/134519482.cms",
-    "time": "2026-09-27T11:43:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Nivin Pauly plays an immortal character who has lived for 8000 years'",
-    "desc": "Director Ram has unveiled details about his much-anticipated film 'Yezhu Kadal Yezhu Malai', starring Nivin Pauly and Soori. The story centers around Nivin's character, an immortal soul who has experienced millennia yet remains captivated by love. Soori's role contrasts sharply as a self-serving family man who returns home after enduring years of struggle. Their paths converge on a pivotal Diwali night, enriching the storyline.",
-    "img": "https://static.toiimg.com/photo/msid-134517485,imgsize-190277.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nivin-pauly-plays-an-immortal-character-who-has-lived-for-8000-years-ram-reveals-the-intriguing-story-of-yezhu-kadal-yezhu-malai-ahead-of-october-release/articleshow/134517453.cms",
-    "time": "2026-09-27T11:39:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 1999, Steven Spielberg bought this 2.8-acre LA equestrian estate for $5.75 million",
-    "desc": "Renowned filmmaker Steven Spielberg and his wife Kate Capshaw are offering their stunning equestrian estate, Dogwood, for sale at a price of $29.9 million. The property boasts a spacious seven-bedroom home and remarkable equestrian amenities designed for horse enthusiasts. Acquired by Spielberg in 1999 for just $5.75 million, this estate has undergone significant improvements, with the current price reflecting its enhanced value over the years.",
-    "img": "https://static.toiimg.com/photo/msid-134516516,imgsize-101088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1999-steven-spielberg-bought-this-2-8-acre-la-equestrian-estate-for-5-75-million-27-years-later-its-listed-for-29-9-million/articleshow/134516504.cms",
-    "time": "2026-09-27T11:30:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "30-day plans, call-only options and more",
-    "desc": "The Telecom Regulatory Authority of India has unveiled enhancements to prepaid mobile recharge options, featuring more voice-and-SMS-only Special Tariff Vouchers. Users can now access plans with a validity of 30 days or less. This initiative is especially beneficial for senior citizens and budget-conscious individuals who prefer voice-only prepaid plans without data, addressing concerns raised by Rajya Sabha MP Raghav Chadha.",
-    "img": "https://static.toiimg.com/photo/msid-134519143,imgsize-123854.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/new-mobile-recharge-rules-30-day-plans-call-only-options-and-more-trai-rules-explained/articleshow/134519014.cms",
-    "time": "2026-09-27T11:21:26.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Indian non-profits lag on digital maturity, AI adoption: report",
     "desc": "The Digital for Nonprofits (D4NP) report, released in New Delhi, finds non-profits scoring below 50% on digital maturity and largely failing to tap free online advertising grants—despite growing interest in large language models to aid reports and marketing",
@@ -529,24 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/indian-non-profits-lag-on-digital-maturity-ai-adoption-report/article71512189.ece",
     "time": "2026-09-27T11:17:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "When and where will banks stay shut from Sept 28 to Oct 4",
-    "desc": "Prepare for some interruptions in banking services next week as banks will be closing for several days. A nationwide strike is set from September 28 to 30, followed by a holiday on October 2. While you can still access digital banking, in-person services will be limited. Make sure to visit your local branch after the closure, and remember to verify the holiday hours before going out.",
-    "img": "https://static.toiimg.com/photo/msid-134518874,imgsize-86340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bank-closure-this-week-when-and-where-will-banks-stay-shut-from-september-28-to-october-4/articleshow/134518816.cms",
-    "time": "2026-09-27T11:08:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Meg Ryan sells her Bridgehampton home for $15.25 million after 2 years",
-    "desc": "Meg Ryan has successfully sold her stunning Hamptons home for the impressive asking price of $15.25 million, demonstrating her savvy in real estate. Initially acquired in 2024 for $13.49 million, the property was listed in May 2026. The new owner, Henry Tisch, a prominent Broadway producer, will enjoy luxurious features such as a heated pool and expansive living spaces, reflecting Ryan's passion for upscale properties and renovations.",
-    "img": "https://static.toiimg.com/photo/msid-134516274,imgsize-81110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meg-ryan-sells-her-bridgehampton-home-for-15-25-million-inside-the-american-actress-former-estate-which-she-bought-for-13-49-million-in-2024/articleshow/134516194.cms",
-    "time": "2026-09-27T11:00:00.000Z"
   },
   {
     "cat": "Sports",
@@ -567,24 +576,6 @@ const newsData_en = [
     "time": "2026-09-27T09:55:11.000Z"
   },
   {
-    "cat": "Business",
-    "title": "‘UPI must remain zero MDR’: Mobile retailers announce October 2 protest",
-    "desc": "Mobile phone retailers across India are set to observe a 'No UPI Day' on October 2. This protest arises against the proposed 0.4% Merchant Discount Rate (MDR) on UPI transactions over Rs 2,000. The All India Mobile Retailers Association highlights additional costs that may impact small retailers significantly. The government insists consumers will not bear the MDR, which will apply starting October 15.",
-    "img": "https://static.toiimg.com/photo/msid-134517992,imgsize-52374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/upi-must-remain-zero-mdr-mobile-retailers-announce-october-2-protest/articleshow/134517944.cms",
-    "time": "2026-09-27T09:44:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "France’s baguette gets a fuel shock: How the crunchy staple is draining bakers’ pockets",
-    "desc": "Bakers in France are grappling with daunting challenges brought on by surging fuel prices that have a direct impact on their operations and financial stability. This spike in costs is especially hard for rural businesses, forcing tough choices. Owners like Kevin and Sandrine Luce are now faced with the dilemma of sustaining salaries and further investments.",
-    "img": "https://static.toiimg.com/photo/msid-134517929,imgsize-317626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/why-french-bakers-are-finding-making-crusty-baguette-gets-a-fuel-shock-how-the-crunchy-staple-is-draining-bakers-pockets/articleshow/134517811.cms",
-    "time": "2026-09-27T09:38:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No squash gold for India as Anahat Singh, Abhay Singh win silver",
     "desc": "Anahat Singh and Abhay Singh showcased their skills at the Asian Games, clinching silver medals for India. Anahat faced a tough match against Malaysia's Sivasangari Subramaniam, while Abhay was outplayed by Ng Eain Yow. This was a significant achievement for Anahat, marking her as a finalist in women's singles. Additionally, the country bagged a bronze in mixed doubles, enhancing the overall medal count.",
@@ -592,51 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-no-squash-gold-for-india-as-anahat-singh-abhay-singh-win-silver/articleshow/134517368.cms",
     "time": "2026-09-27T08:56:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude, US-Iran talks and economic data to drive Dalal Street this week",
-    "desc": "This week on Dalal Street sees a shortened holiday schedule as geopolitical concerns and volatile oil prices loom large. Analysts believe negotiations between the US and Iran might sway both oil costs and the rupee's value. Investors are on high alert for shifts in global bond yields that impact emerging markets, while key domestic metrics like industrial production and auto sales are set to provide essential economic insights.",
-    "img": "https://static.toiimg.com/photo/msid-134517151,imgsize-147004.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/mark-mood-check-crude-us-iran-talks-and-economic-data-to-drive-dalal-street-this-week/articleshow/134517140.cms",
-    "time": "2026-09-27T08:28:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhay Singh wins silver after spirited fight in men's squash final",
-    "desc": "At the Asian Games 2026, Abhay Singh proudly claimed the silver medal in men’s singles squash, although he fell short against Malaysia’s Ng Eain Yow in the finals. The match showcased Abhay's skill initially, but Ng’s superior performance and control resulted in a straight-set victory of 11–9, 11–5, 11–5. All eyes are now eagerly awaiting the thrilling women's singles final featuring Anahat Singh versus Sivasangari Subramaniam.",
-    "img": "https://static.toiimg.com/photo/msid-134517021,imgsize-184427.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-abhay-singh-wins-silver-after-spirited-fight-in-mens-squash-final/articleshow/134516833.cms",
-    "time": "2026-09-27T08:09:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Blue Star, Haier and more firms to hike appliance prices from October 1: What gets costlier?",
-    "desc": "Manufacturers across the consumer appliance sector are gearing up for price hikes, anticipating increases of 5% to 10% from October due to surging material and freight costs. Brands like Blue Star and Haier are adjusting their pricing strategies, especially with rising copper costs affecting multiple categories. Although existing stock may cushion the blow momentarily, new prices will kick in after Diwali, potentially impacting festive consumer sentiment.",
-    "img": "https://static.toiimg.com/photo/msid-134516580,imgsize-222032.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/festive-shopping-to-get-costlier-acs-tvs-and-other-electrical-appliances-set-for-8-price-hike/articleshow/134516522.cms",
-    "time": "2026-09-27T07:50:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What Indian medallists can earn in cash rewards, jobs &amp; other incentives",
-    "desc": "Indian athletes competing at the 2026 Asian Games are poised to gain financial rewards for their medal achievements. Gold, silver, and bronze medal winners might receive cash awards of up to Rs 30 lakh. Awards for team events will be distributed based on team size, while individual athletes winning multiple medals could also earn higher amounts.",
-    "img": "https://static.toiimg.com/photo/msid-134516638,imgsize-216896.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-what-indian-medallists-can-earn-in-cash-rewards-government-jobs-and-state-incentives/articleshow/134516489.cms",
-    "time": "2026-09-27T07:47:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sindhu, Hooda exits cap India's disappointing badminton campaign",
-    "desc": "At the Asian Games 2026, India's badminton team concluded with just one medal. Both PV Sindhu and Unnati Hooda exited in the women's singles quarterfinals after fierce competition. The women’s doubles team fell to a strong Malaysian pair, and mixed doubles suffered a narrow defeat. A demanding tournament schedule took its toll on performance, highlighting a stark decline from their previous edition's achievements.",
-    "img": "https://static.toiimg.com/photo/msid-134515981,imgsize-107333.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-pv-sindhu-unnati-hooda-exits-cap-disappointing-badminton-campaign-as-india-return-with-just-one-medal/articleshow/134515912.cms",
-    "time": "2026-09-27T06:39:28.000Z"
   },
   {
     "cat": "World",
@@ -837,15 +783,6 @@ const newsData_en = [
     "time": "2026-09-26T03:31:07.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Operating in a silo or fitting into the whole – what’s in a Sprint?",
-    "desc": "Introduced in 2021 as a way to jazz up the days leading up to a Formula One Grand Prix, the Sprint race has had a chequered history. Yet, for the 2027 season, the big bosses of F1 have increased its number from six to 10. What’s behind the move and how to enhance the product’s value?",
-    "img": "https://th-i.thgim.com/public/incoming/lvdddd/article71510355.ece/alternates/LANDSCAPE_1200/GettyImages-2291520681.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/motorsport/f1-sprint-races-2027-format-future-verstappen-russell-antonelli-piastri-norris-leclerc-hamilton/article71510359.ece",
-    "time": "2026-09-25T19:49:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "AI-led phone price hikes persist, hitting Indian customers",
     "desc": "Phone affordability has taken a hit as a series of price hikes has put budget phones out of reach for many buyers, who are choosing to wait for sales or settle for less powerful devices",
@@ -898,5 +835,68 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/peoples-fear-and-mistrust-in-authority-leads-to-cybercrime-say-experts-at-report-launch-on-policing/article71507054.ece",
     "time": "2026-09-25T07:09:36.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why Meta’s Zuckerberg rebuffed Dario Amodei’s AI slowdown calls",
+    "desc": "Mr. Amodei has warned that the AI development is beginning to outstrip the labs’ ability to understand and control the systems it is creating. But Mr. Zuckerberg is taking a different route, stating that AI companies have a powerful incentive to build systems that are trustworthy",
+    "img": "https://th-i.thgim.com/public/incoming/vrr5fp/article71339606.ece/alternates/LANDSCAPE_1200/Meta-AI-Zuckerberg_36318.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/why-metas-zuckerberg-rebuffed-dario-amodeis-ai-slowdown-calls/article71471837.ece",
+    "time": "2026-09-24T14:02:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Why ‘How to Live on Earth’ left him ‘turbocharged’",
+    "desc": "‘The Earth is a spaceship and our bodies are spacesuits,’ says Benedict Cumberbatch. The actor discusses presenting ‘How to Live on Earth’, finding hope in environmental storytelling, and why humanity must remember that it is a part of Nature, not apart from it",
+    "img": "https://th-i.thgim.com/public/incoming/qshp0t/article71495338.ece/alternates/LANDSCAPE_1200/HowToLiveOnEarth_001_Benedict%20Cumberbatch%20filming%20in%20the%20Natural%20History%20Museum%20-%20London%20-%20for%20How%20to%20Live%20on%20Earth_Credit%20Conor%20McDonnell.png.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/benedict-cumberbatch-interview-how-to-live-on-earth/article71495138.ece",
+    "time": "2026-09-24T10:46:15.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ShinyHunters hackers say they breached FBI",
+    "desc": "ShinyHunters said ‌in a statement posted to ‌its dark-web site and during an online chat ⁠with Reuters that it targeted the FBI in response to a May 2026 agency announcement that ​detailed ShinyHunters’ methods and ‌advised targets not to pay",
+    "img": "https://th-i.thgim.com/public/incoming/6gtswn/article71498648.ece/alternates/LANDSCAPE_1200/South_Africa_US_Extradition_8447_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/shinyhunters-hackers-say-they-breached-fbi/article71498623.ece",
+    "time": "2026-09-23T07:09:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Trump says U.S. will henceforth call AI ‘super intelligence’",
+    "desc": "“From this point forward, all ​of United ‌States documents, and hopefully the world’s will be changed ‌to use ​the much more accurate term ‘super’ as ⁠opposed to artificial. So it’s ‌super intelligence,” Mr. Trump said in a UN General Assembly speech",
+    "img": "https://th-i.thgim.com/public/incoming/366ntf/article71496601.ece/alternates/LANDSCAPE_1200/UN_General_Assembly_Trump_51_43.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/super-intelligence-trump-unga-speech-ai/article71496593.ece",
+    "time": "2026-09-22T15:31:10.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Irish privacy regulator fines Google €403 million over location data processing",
+    "desc": "“As ​a result ‌of Google’s failures, individuals could have been unaware that their location was being used to, for ‌example, influence them with ads ​or to infer their interests, and could lose control ⁠over their personal data,” DPC Deputy Commissioner Graham Doyle said",
+    "img": "https://th-i.thgim.com/public/incoming/xkra79/article71491307.ece/alternates/LANDSCAPE_1200/2026-09-16T120005Z_294817933_RC2FUHALL57L_RTRMADP_3_BRAZIL-GOOGLE-CARBON.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/irish-privacy-regulator-fines-google-403-million-over-location-data-processing/article71491276.ece",
+    "time": "2026-09-21T11:45:36.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
   }
 ];

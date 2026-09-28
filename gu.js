@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "3 દિવસની બેંક હડતાળ ટળી, રવિવારે મોડી રાત સુધી ચાલેલી બેઠકમાં શું થયું જાણો",
+    "desc": "3 દિવસની બેંક હડતાળને લઈને ચિંતા કરતાં લોકો માટે રાહતના સમાચાર છે. કારણ કે દેશવ્યાપી બેંક હડતાળ હાલ ટળી ગઈ છે. એટલે કે આજથી બેંકો રાબેતા મુજબ જ ખુલશે અને કાર્યરત રહેશે. 3 દિવસની બેંક હડતાળ શા માટે ટળી છે ચાલો તમને જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/after-iba-and-ufbu-meeting-3-days-bank-strike-postponed-for-now-here-are-bank-strike-updates-492375 ",
+    "time": "2026-09-28T02:15:49.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "પાલતૂ પ્રાણીને રસ્તા પર છોડી દેશો તો થશે 25,000 નો દંડ, માઈક્રોચિપથી માલિકની થશે ઓળખ",
     "desc": "કુતરા, બિલાડી જેવા પ્રાણીઓને થોડા સમય માટે સાથે રાખી પછી રસ્તા પર છોડીને જતા પહેલા લોકો માટે આ રાજ્યમાં નિયમ કડક કરવામાં આવ્યા છે. નવા નિયમ અનુસાર અહીં કોઈપણ માલિક પોતાના પાલતૂ પ્રાણીને રસ્તા પર મુકી દેશે તો તેને 25,000 નો દંડ ફટકારવામાં આવશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -268,15 +277,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/investors-hit-the-jackpot-this-ipo-listed-with-a-profit-of-over-50-percent-it-was-subscribed-more-than-107-times-492113 ",
     "time": "2026-09-23T05:59:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "યુપીમાં પત્ની-પુત્ર અને બે પૂજારીઓની હત્યા કરનારો આરોપી એન્કાઉન્ટરમાં માર્યો ગયો, 8 કલાક ચાલ્યું બંધક સંકટ",
-    "desc": "ઉત્તર પ્રદેશથી એક હચમચાવી નાખતી ઘટના સામે આવી છે. એક યુવકે તેની પત્ની, બે પુજારીઓ અને પુત્રની ગોળી મારીને હત્યા કરી અને ત્યારબાદ પોતાના જ બાળકોને ઘરમાં બંધક બનાવી રાખ્યા. 8 કલાકની ભારે જદ્દોજહેમત બાદ પોલીસે આ બંધક સંકટ ખતમ કરવામાં સફળતા મેળવી અને આરોપી અરવિંદ સિંહ એન્કાઉન્ટરમાં ઠાર મરાયો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/accused-who-killed-wife-son-and-two-priests-in-up-killed-in-encounter-hostage-crisis-lasted-8-hours-492094 ",
-    "time": "2026-09-23T03:34:16.000Z"
   },
   {
     "cat": "Tech",
