@@ -61,14 +61,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/india-bags-silver-in-women-s-trap-event-at-asian-games-archery-duo-qualifies-for-quarters-2026-09-29-1055574",
     "time": "2026-09-29T04:10:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yashvir Singh settles for silver medal in men's javelin at Asian Games 2026, Rohit Yadav grabs bronze",
-    "desc": "The men's javelin event at the Asian Games 2026 came to an end, and the Indian contingent brought home two medals in the sport. Despite leading for most of the event, Yashvir Singh eventually slipped...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/yashvir-singh-settles-for-silver-medal-in-men-s-javelin-at-asian-games-2026-rohit-yadav-grabs-bronze-2026-09-28-1055536",
-    "time": "2026-09-28T12:52:41.000Z"
   }
 ];

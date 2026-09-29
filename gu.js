@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "એથ્લેટિક્સમાં ભારતનો પહેલો ગોલ્ડ, 4x400 મીટર રિલેમાં ભારતની દીકરીઓનો કમાલ",
+    "desc": "ભારતે એશિયન ગેમ્સ 2026માં એથ્લેટિક્સમાં પહેલો ગોલ્ડ મેડલ જીત્યો છે. કિરણ પહાલ, પૂવમ્મા મચેત્તિરા, પ્રાચી અને વિથ્યા રામરાજની ચોકડીએ મહિલાઓની 4x400 મીટર રિલે સ્પર્ધામાં 3:29.69 મિનિટના ટાઈમ સાથે ગોલ્ડ મેડલ જીત્યો છે. અગાઉ, ભારતે 4x100 મીટર મિક્સ્ડ રિલેમાં પણ બ્રોન્ઝ મેડલ જીત્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/asian-games-2026-india-won-gold-medal-in-womens-4x400m-relay-492443 ",
+    "time": "2026-09-29T13:25:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આધાર કાર્ડમાં નામ બદલવું હવે નહીં રહે સરળ! UIDAIએ કર્યા મોટા ફેરફાર, જાણી લો નવા નિયમો",
+    "desc": "નવા નિયમ પ્રમાણે જો આધાર કાર્ડમાં નામ સંપૂર્ણ રીતે કે મોટા સ્તર પર બદલવાનું છે તો માત્ર સામાન્ય દસ્તાવેજના આધાર પર આ ફેરફાર થશે નહીં. આવા મામલામાં સરકારી ગેઝેટમાં નામ પરિવર્તનનું પ્રકાશન કરાવવું ફરજીયાત રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/aadhaar-name-change-rules-updated-uidai-makes-government-gazette-publication-mandatory-for-major-name-updates-492442 ",
+    "time": "2026-09-29T13:14:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ભારત vs શ્રીલંકા સેમિફાઇનલ વરસાદના કારણે રદ થાય તો કોને મળશે ફાઈનલની ટિકિટ? જાણો",
     "desc": "અત્યારે ચાહકોના મનમાં એક મોટો સવાલ એ છે કે જો ભારત અને શ્રીલંકા વચ્ચેની સેમિફાઈનલ પણ વરસાદને કારણે ધોવાઈ જાય, તો ફાઈનલમાં કઈ ટીમ પહોંચશે ? જો તમારા મનમાં પણ આ સવાલ છે, તો આ લેખમાં અમે તમને આના વિશે જણાવીશું.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -306,15 +324,6 @@ const newsData_gu = [
     "time": "2026-09-23T10:25:26.000Z"
   },
   {
-    "cat": "Business",
-    "title": "અમેરિકા-ઈરાન તણાવ વચ્ચે, સોનું ખરીદવું કે ચાંદી? શેમાં વધારે થશે ફાયદો? જાણો એક્સપર્ટે શું કહ્યું",
-    "desc": "US ઈરાન યુદ્ધ વચ્ચે કાચા તેલના ભાવમાં ઉતાર ચઢાવ વચ્ચે ગોલ્ડ અને સિલ્વરમાં કરેક્શન જોવા મળ્યું છે, એક્સપર્ટના જણાવ્યા મુજબ, સોનાને જિયોપોલિટિકલ ટેન્શન વચ્ચે સેફ હૈવનનો ફાયદો મળી શકે છે. જ્યારે સિલ્વર પર ઈંડસ્ટ્રિયલ ડિમાંડ અને વ્યાજદરો પર પણ અસર કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/amidst-us-iran-tensions-gold-or-silver-which-offers-better-returns-find-out-what-the-experts-say-492126 ",
-    "time": "2026-09-23T07:51:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "કર્ણાટકના યુવકની UAEમાં ઘાતકી હત્યા, 9 ટુકડાંમાં મળ્યો મૃતદેહ, પત્ની અને પુત્રનો કોઈ અતોપત્તો નથી!",
     "desc": "UAEથી એક ચોંકાવનારા સમાચાર આવ્યા છે જ્યાં ભારતના કર્ણાટકમા ઉડુપીના એલ્વિશ પ્રકાશ કુંદરનો મૃતદેહ 2 મહિના બાદ એક કારમાંથી 9 ટુકડાંમાં મળી આવ્યો છે. પત્ની અને પુત્ર પણ ગૂમ છે જેમના વિશે કોઈ માહિતી નથી.",
@@ -511,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/babita-ji-aka-munmun-dutta-said-taarak-mehta-show-set-look-haunted-if-no-body-shooting-on-it-491834 ",
     "time": "2026-09-20T06:35:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ભારતની ઐતિહાસિક જીત, હોકીમાં ઉઝબેકિસ્તાનને 19-0થી કચડી નાખ્યું, દીપિકાએ ધડાધડ 8 ગોલ ફટકાર્યા",
-    "desc": "એશિયન ગેમ્સ 2026માં ભારતે શાનદાર શરૂઆત કરી છે. ભારતીય મહિલા હોકી ટીમે ઉઝબેકિસ્તાનને 19-0થી હરાવ્યું છે, જેમાં દીપિકાએ એકલા 8 ગોલ કર્યા હતા. બીજી તરફ, શૂટિંગમાં ભારતે 10 મીટર એર રાઇફલ ટીમ ઇવેન્ટમાં સિલ્વર મેડલ જીતીને પોતાનું ખાતું ખોલ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/asian-games-2026-historic-win-for-india-uzbekistan-crushed-19-0-in-hockey-with-deepika-scoring-a-barrage-of-8-goals-491833 ",
-    "time": "2026-09-20T06:32:19.000Z"
   },
   {
     "cat": "World",
