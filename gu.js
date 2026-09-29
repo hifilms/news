@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ભારત vs શ્રીલંકા સેમિફાઇનલ વરસાદના કારણે રદ થાય તો કોને મળશે ફાઈનલની ટિકિટ? જાણો",
+    "desc": "અત્યારે ચાહકોના મનમાં એક મોટો સવાલ એ છે કે જો ભારત અને શ્રીલંકા વચ્ચેની સેમિફાઈનલ પણ વરસાદને કારણે ધોવાઈ જાય, તો ફાઈનલમાં કઈ ટીમ પહોંચશે ? જો તમારા મનમાં પણ આ સવાલ છે, તો આ લેખમાં અમે તમને આના વિશે જણાવીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/asian-games-2026-ind-vs-sl-semifinal-is-washed-out-who-will-get-final-ticket-492432 ",
+    "time": "2026-09-29T11:27:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આજે પણ સોનું-ચાંદી ધડામ, ભાવ ઘટીને ક્યાં પહોંચ્યા? કેરેટ પ્રમાણે સોનાનો પ્રતિ ગ્રામ ભાવ જાણો",
+    "desc": "કિંમતી ધાતુઓ સોના અને ચાંદીના ભાવમાં આજે ફરી એકવાર કડાકો જોવા મળ્યો છે. સપ્ટેમ્બર મહિનો સોના અને ચાંદી માટે ઘટાડાનો માહોલ લાવ્યો હોય તેવું લાગે છે. અત્યાર સુધીમાં સપ્ટેમ્બર મહિનામાં સોનું 9 હજાર અને ચાંદી 15 હજાર સુધી સસ્તા થઈ ચૂક્યા છે. જાણો આજનો લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-rate-today-latest-rate-gold-silver-prices-down-aaj-no-sona-chandi-no-bhav-492426 ",
+    "time": "2026-09-29T07:37:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શેરબજારમાં હાહાકાર! 4 દિવસમાં ₹14 લાખ કરોડ ડૂબ્યા, જાણો ઘટાડા પાછળના 3 મોટા કારણો",
+    "desc": "ચાર દિવસથી ઓછા સમયમાં સેન્સેક્સ 2,700 પોઈન્ટથી વધુ ઘટ્યો છે. તેવી જ રીતે, છેલ્લા ચાર સત્રમાં નિફ્ટી 23,446થી ઘટીને 22,569 પર આવી ગયો છે. આ બજાર દબાણ મુખ્યત્વે ક્રૂડ ઓઇલના ભાવમાં વધારો, યુએસ બોન્ડ યીલ્ડમાં વધારો અને વિદેશી રોકાણકારો દ્વારા વેચાણને કારણે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/stock-market-14-lakh-crore-wiped-out-in-4-days-know-the-3-major-reasons-behind-the-decline-492424 ",
+    "time": "2026-09-29T06:48:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શિવ ગરીબોના ભગવાન, રામ અમીરોના છે, કોંગ્રેસના મુખ્યમંત્રીએ જણાવ્યું ભાજપ કેમ છે લોકપ્રિય, જાણો",
+    "desc": "જ્યારે તેલંગાણાના મુખ્યમંત્રી એ. રેવંત રેડ્ડીને પૂછવામાં આવ્યું કે કોંગ્રેસ પાર્ટી દક્ષિણ ભારતીય રાજ્યોમાં લોકપ્રિય છે પણ ઉત્તર ભારતમાં કેમ લોકપ્રિય નથી, ત્યારે તેમણે ભગવાન રામ અને ભગવાન શિવના ઉદાહરણો આપ્યા. તેમણે સાહેબ વિશે પણ વાત કરી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/shiva-is-the-god-of-the-poor-while-rama-belongs-to-the-rich-congress-chief-minister-explains-why-the-bjp-is-popular-find-out-more-492420 ",
+    "time": "2026-09-29T05:10:53.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "AAPને ડોનેશન આપનારાઓના નામ આવ્યા સામે, CJPના આશુતોષ રાંકાએ પણ આપ્યો છે ફાળો",
     "desc": "આમ આદમી પાર્ટીને ડોનેશન આપનારાઓની એક યાદી સામે આવી છે જેમાં અનેક ચોંકાવનારા ખુલાસા પણ થયા છે. ચૂંટણી પંચમાં જમા કરાયેલા પાર્ટીના ડોનેશન રિપોર્ટમાં એવા એવા નામ સામેલ છે જેને જાણીને તમને પણ નવાઈ લાગશે. કોકરોચ જનતા પાર્ટીના આગેવાનનું પણ નામ સામેલ છે.",
@@ -270,15 +306,6 @@ const newsData_gu = [
     "time": "2026-09-23T10:25:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "3 દિવસની હડતાળને પગલે મોટો નિર્ણય, 27 સપ્ટેમ્બર રવિવારે તમામ સરકારી બેંકો ખુલ્લી રહેશે",
-    "desc": "જો તમારે આગામી કેટલાક દિવસોમાં બેંક સંબંધિત કામકાજ હોય તો આ સમાચાર ખાસ જાણો. કારણ કે બેંકોમાં 3 દિવસની દેશવ્યાપી હડતાળ થવા જઈ રહી છે. સતત અનેક દિવસો સુધી બેંકિંગ સેવાઓ ઠપ ન રહે અને લોકોને હેરાનગતિ ન થાય તેના માટે થઈને સરકારે હવે મોટો નિર્ણય લીધો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bank-strikes-latest-update-banks-will-remain-open-on-sunday-september-27-check-details-492133 ",
-    "time": "2026-09-23T09:45:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "અમેરિકા-ઈરાન તણાવ વચ્ચે, સોનું ખરીદવું કે ચાંદી? શેમાં વધારે થશે ફાયદો? જાણો એક્સપર્ટે શું કહ્યું",
     "desc": "US ઈરાન યુદ્ધ વચ્ચે કાચા તેલના ભાવમાં ઉતાર ચઢાવ વચ્ચે ગોલ્ડ અને સિલ્વરમાં કરેક્શન જોવા મળ્યું છે, એક્સપર્ટના જણાવ્યા મુજબ, સોનાને જિયોપોલિટિકલ ટેન્શન વચ્ચે સેફ હૈવનનો ફાયદો મળી શકે છે. જ્યારે સિલ્વર પર ઈંડસ્ટ્રિયલ ડિમાંડ અને વ્યાજદરો પર પણ અસર કરે છે.",
@@ -304,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/govinda-visited-lalbaugcha-raja-with-komal-rani-and-sunita-ahuja-was-seen-alone-at-pandal-492115 ",
     "time": "2026-09-23T06:37:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "રોકાણકારો માલામાલ ! 50 ટકાથી વધારેના પ્રોફિટ સાથે લિસ્ટ થયો આ IPO, 107 ગણાથી વધારે થયો હતો સબસ્ક્રાઈબ",
-    "desc": "આ કંપનીના શેર BSE પર 639.10 પર લિસ્ટ થયા છે, જે 50.73 ટકાનો વધારો દર્શાવે છે. NSE પર કંપનીના શેર 624 પર લિસ્ટ થયા, જે પ્રીમિયમ 47.17% છે. IPOમાં કંપનીના શેરનો ભાવ 424 હતો. આ કંપનીનું નામ SS રિટેલ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/investors-hit-the-jackpot-this-ipo-listed-with-a-profit-of-over-50-percent-it-was-subscribed-more-than-107-times-492113 ",
-    "time": "2026-09-23T05:59:17.000Z"
   },
   {
     "cat": "Tech",
@@ -547,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/a-big-surprise-from-mahindra-new-suv-launched-for-under-rs-10-lakh-find-out-more-491806 ",
     "time": "2026-09-19T14:04:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "એશિયન ગેમ્સની ધમાકેદાર શરૂઆત, મનુ ભાકર અને પવન સેહરાવતે લહેરાવ્યો ત્રિરંગો",
-    "desc": "જાપાનના નાગોયામાં રંગારંગ ઉદ્ઘાટન સમારોહ સાથે 20મી એશિયન ગેમ્સનો પ્રારંભ થયો. જાપાનના સમ્રાટ નારુહિતોએ એશિયન ગેમ્સના શુભારંભની જાહેરાત કરી. ભારત વતી મનુ ભાકર અને પવન સેહરાવત ધ્વજવાહક હતા. આ પ્રસંગે 46 પ્રતિનિધિ મંડળોની પરેડ યોજાઈ હતી. ભારત આ વખતે 2023માં મેળવેલા 106 મેડલના પ્રદર્શનમાં સુધારો કરવાનું ટાર્ગેટ રાખશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/asian-games-opening-ceremony-manu-bhaker-pawan-sehrawat-lead-indian-contingent-491796 ",
-    "time": "2026-09-19T12:22:37.000Z"
   },
   {
     "cat": "World",
