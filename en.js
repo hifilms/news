@@ -1,12 +1,120 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "‘Only 747 enrolment applications received from homeless voters’: NGO writes to Delhi CEO, flags ‘lapses’",
+    "desc": "As per a non-profit’s estimate, Delhi had more than 10,000 homeless voters before the start of the special intensive revision (SIR) drive. There are no data on how many homeless voters’ names were excluded from the draft roll.",
+    "img": "https://th-i.thgim.com/public/incoming/7v26j6/article71530223.ece/alternates/LANDSCAPE_1200/de01%20Camp.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/only-747-enrolment-applications-received-from-homeless-voters-ngo-writes-to-delhi-ceo-flags-lapses/article71529638.ece",
+    "time": "2026-09-30T20:07:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Pilot stabbed colleague in bid to crash Israel-bound flydubai plane: Netanyahu",
+    "desc": "‘The naive notion that our enemies cherish life and that we should pity them received another reminder this morning in the form of a terrorist who planned to crash a plane and murder the 180 Israelis on board,’ Itamar Ben Gvir said",
+    "img": "https://th-i.thgim.com/public/incoming/lyx750/article71528788.ece/alternates/LANDSCAPE_1200/Mideast_Emergency_Landing_38992.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israel-bound-commercial-plane-from-dubai-diverted-to-saudi-arabia-after-distress-call/article71527429.ece",
+    "time": "2026-09-30T20:02:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Too shy for stardom, too good to ignore: Meet Chikitha Taniparthi, Indian archery’s latest golden girl",
+    "desc": "Every archer knows the wait between release and arrival, that held breath when nothing can be changed and everything is decided. For Chikitha Taniparthi, that wait lasted years. It began in a backyard, ran through lockdowns and a snapped bowstring, and ended in Japan with a double gold.",
+    "img": "https://th-i.thgim.com/public/incoming/y1mkfs/article71530245.ece/alternates/LANDSCAPE_1200/image.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/chikitha-taniparthi-2026-asian-games-gold-compound-archery-la-2028-olympics-profile-bio/article71530197.ece",
+    "time": "2026-09-30T19:39:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Japan forms first national intelligence agency, eyes its own CIA",
+    "desc": "The demand for the overhaul of intelligence gathering network of Japan has gained strength in recent months amidst allegations that foreign powers like the U.S., Russia and China have been using Japan for their intelligence operations and that Japan is uncomfortable about such foreign operations on its soil.",
+    "img": "https://th-i.thgim.com/public/incoming/ntiui3/article71530199.ece/alternates/LANDSCAPE_1200/2026-09-23T053706Z_1958701863_RC2SONANRT3V_RTRMADP_3_UN-ASSEMBLY-JAPAN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/japan-forms-first-national-intelligence-agency-eyes-its-own-cia/article71529027.ece",
+    "time": "2026-09-30T18:44:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Stree 3' release date confirmed: Rajkummar Rao's film will arrive as 'complete revelation'",
+    "desc": "The 'Stree' film franchise continues to thrive as producer Dinesh Vijan announces the release of 'Stree 3' slated for 2028. With the script finalized by Amar Kaushik, Rajkummar Rao shared reflections on their initial journey and unwavering belief in the narrative. Originating in 2018, the franchise kicked off with the first film featuring Rao and Shraddha Kapoor, followed by the successful release of 'Stree 2' in 2024.",
+    "img": "https://static.toiimg.com/photo/msid-134600527,imgsize-528887.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/stree-3-release-date-confirmed-makers-reveal-rajkummar-raos-horror-comedy-will-arrive-as-a-complete-revelation/articleshow/134600411.cms",
+    "time": "2026-09-30T18:03:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gadkari announces Rs 1,176 cr 6-lane bridge over Teesta",
+    "desc": "In a major development, the Indian government has greenlit funding for the construction of a bridge over the Teesta river in Darjeeling, set to strengthen connections between Sikkim and North-Eastern states as well as the vital Siliguri Corridor. Alongside this is an expressway from Gorakhpur to Siliguri, promising to enhance regional collaboration and economic progress.",
+    "img": "https://static.toiimg.com/photo/msid-134600137,imgsize-79870.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/gadkari-announces-rs-1176-cr-6-lane-bridge-over-teesta/articleshow/134600035.cms",
+    "time": "2026-09-30T17:44:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift's song 'Cleveland' gets BIG thumbs up from Travis",
+    "desc": "Travis Kelce expressed gratitude to Taylor Swift for her new song 'Cleveland!', which references his childhood home. Jason Kelce praised the track as incredible and mentioned that he and his wife enjoy listening to it frequently. The song highlights details from Travis's early life, including his hometown of Cleveland Heights. Travis has been a long-time fan of Swift, particularly appreciating her album '1989'.",
+    "img": "https://static.toiimg.com/photo/msid-134600125,imgsize-906582.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swifts-cleveland-from-the-life-of-a-showgirl-the-encore-gets-a-big-thumbs-up-from-travis-kelce-and-jason-kelce-i-love-it-man/articleshow/134599939.cms",
+    "time": "2026-09-30T17:38:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gill on the double as India hunts down 406 in style",
+    "desc": "In reply to West Indies’ highest-ever ODI score of 405/7, India rode on Gill’s 233 not out off 133 balls (26 fours, 8 sixes) and Rohit’s 35th century (101 off 75 balls; 10 fours, 6 sixes) to a famous win, with the openers putting on 255 runs for the first wicket.",
+    "img": "https://th-i.thgim.com/public/incoming/rvtuqf/article71530035.ece/alternates/LANDSCAPE_1200/2150_30_9_2026_22_1_34_1_INDIAODI_30092026_45.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-versus-west-indies-second-odi-match-at-guwahati-september-30-2026/article71527798.ece",
+    "time": "2026-09-30T17:35:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gill's 223, Rohit's 101 power India to record 406-run chase against West Indies",
+    "desc": "India became only the second team to chase a target of 400 or more in men's ODIs, after South Africa chased 438 against Australia in Johannesburg in 2006. India finished on 406 for two in 43.3 overs after West Indies had posted their highest ODI total of 405 for seven.",
+    "img": "https://static.toiimg.com/photo/msid-134600019,imgsize-107012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/shubman-gills-223-rohit-sharmas-101-power-india-to-record-406-run-chase-against-west-indies/articleshow/134599751.cms",
+    "time": "2026-09-30T17:31:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amitabh Bachchan slips, suffers knee injury during shoot",
+    "desc": "Amitabh Bachchan revealed during 'Kaun Banega Crorepati 18' that he suffered a knee injury while shooting. He explained that he slipped and fell, resulting in some difficulty standing. Despite the injury, he reassured the studio audience that it was not serious and he would still stand to host. In a recent blog post, he also reflected on his relationship with his son Abhishek Bachchan.",
+    "img": "https://static.toiimg.com/photo/msid-134600007,imgsize-494733.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-slips-suffers-knee-injury-during-shoot-the-actor-shares-i-do-my-monologue-standing-at-the-center/articleshow/134599926.cms",
+    "time": "2026-09-30T17:29:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Bulk FD rates, UPI MDR, SBI ATM limit cut, LPG KYC &amp; more",
+    "desc": "The money changes include a reduction in the number of free ATM transactions for certain State Bank of India (SBI) salary account customers, new disclosure norms for interest rates on bulk fixed deposits (FDs), revised charges under the National Pension System (NPS) and mandatory Aadhaar authentication for receiving LPG subsidies.",
+    "img": "https://static.toiimg.com/photo/msid-134588961,imgsize-385174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/5-money-rule-changes-from-october-2026-bulk-fd-rates-upi-mdr-starts-above-rs-2000-sbi-atm-free-limit-falls-to-5-lpg-aadhaar-kyc-new-nps-charges/articleshow/134587809.cms",
+    "time": "2026-09-30T17:25:00.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Mamata backs Rahul as PM, Kharge seeks Opposition unity",
     "desc": "Mamata says she has “no problem” with Rahul Gandhi as a Prime Ministerial candidate, but Kharge cautions that the INDIA bloc should first fight against threats to democracy; Rahul calls the alliance “defenders of the Indian Constitution”",
     "img": "https://th-i.thgim.com/public/incoming/py1w5x/article71530058.ece/alternates/LANDSCAPE_1200/PTI09_30_2026_000476B.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/mamata-backs-rahul-as-pm-kharge-seeks-opposition-unity/article71529842.ece",
     "time": "2026-09-30T17:24:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cabinet clears Rs 1,789cr intelligent traffic system for Delhi, first planned before 2010 CWG",
+    "desc": "The Union Cabinet has approved a Rs 1,789 crore Intelligent Traffic Management System project for Delhi. This project will feature AI-enabled traffic signals and real-time congestion detection across key corridors. The system aims to enhance traffic management by integrating existing signals, CCTVs, and AI technology. It will improve the movement of emergency vehicles and assist in identifying traffic violations.",
+    "img": "https://static.toiimg.com/photo/msid-134599851,imgsize-285378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cabinet-clears-rs-1789cr-intelligent-traffic-system-for-delhi-first-planned-before-2010-cwg/articleshow/134599851.cms",
+    "time": "2026-09-30T17:24:06.000Z"
   },
   {
     "cat": "Politics",
@@ -34,15 +142,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/nhai-to-inspect-17-highways-awarded-at-15-below-estimates/articleshow/134599299.cms",
     "time": "2026-09-30T16:57:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gill’s record double ton, Rohit’s century power India’s 8-wicket win over WI, seal series 2-0",
-    "desc": "In reply to West Indies’ highest-ever ODI score of 405/7, India rode on Gill’s 233 not out off 133 balls (26 fours, 8 sixes) and Rohit’s 35th century (101 off 75 balls; 10 fours, 6 sixes) to a famous win, with the openers putting on 255 runs for the first wicket.",
-    "img": "https://th-i.thgim.com/public/incoming/rvtuqf/article71530035.ece/alternates/LANDSCAPE_1200/2150_30_9_2026_22_1_34_1_INDIAODI_30092026_45.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-versus-west-indies-second-odi-match-at-guwahati-september-30-2026/article71527798.ece",
-    "time": "2026-09-30T16:56:26.000Z"
   },
   {
     "cat": "Politics",
@@ -115,24 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranvir-shorey-reacts-to-rahul-bhatts-admission-of-hitting-him-says-propaganda-and-slander-of-over-20-years-has-finally-given-way-to-truth/articleshow/134598187.cms",
     "time": "2026-09-30T15:56:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "former CEC O.P. Rawat",
-    "desc": "The former CEC says the two dissenting ECs should have forced a vote to annul any decisions they disagreed with during Commission meetings, given that they held the majority, and the CEC has no veto",
-    "img": "https://th-i.thgim.com/public/incoming/9f5cd9/article71529694.ece/alternates/LANDSCAPE_1200/PTI8_29_2018_000220A.JPEG-0c5a5.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/first-time-that-so-many-eligible-electors-have-lost-their-vote-due-to-sir-former-cec-op-rawat/article71528742.ece",
-    "time": "2026-09-30T15:43:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "YSRCP leaders allege irregularities in functioning of Nellore Municipal Corporation",
-    "desc": "Leaders allege that budget estimates and tax collections had been substantially increased under the present administration and claim that several civic works were being divided into packages of ₹4.90 lakh to avoid the tendering process and subsequently awarded to associates",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leaders-allege-irregularities-in-functioning-of-nellore-municipal-corporation/article71528819.ece",
-    "time": "2026-09-30T15:39:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -261,15 +342,6 @@ const newsData_en = [
     "time": "2026-09-30T13:58:20.000Z"
   },
   {
-    "cat": "World",
-    "title": "Israel-bound flydubai plane rerouted, pilots wounded in reported fight",
-    "desc": "‘The naive notion that our enemies cherish life and that we should pity them received another reminder this morning in the form of a terrorist who planned to crash a plane and murder the 180 Israelis on board,’ Itamar Ben Gvir said",
-    "img": "https://th-i.thgim.com/public/incoming/lyx750/article71528788.ece/alternates/LANDSCAPE_1200/Mideast_Emergency_Landing_38992.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/israel-bound-commercial-plane-from-dubai-diverted-to-saudi-arabia-after-distress-call/article71527429.ece",
-    "time": "2026-09-30T13:53:13.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Shri Ram ko Dhurandhar banaa diya,' Mukesh Khanna slams Ranbir Kapoor's 'Ramayana'",
     "desc": "In a bold statement, Mukesh Khanna has criticized the upcoming film 'Ramayana' for its portrayal of Lord Rama. He asserts that the revered figure is depicted more like a modern action hero, which, in his view, dilutes the cultural significance of Lord Rama. Khanna's concerns extend to the film's international reception, particularly as it strives for a global audience with a substantial budget of approximately $500 million.",
@@ -324,15 +396,6 @@ const newsData_en = [
     "time": "2026-09-30T13:12:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Flydubai pilot stabbed mid-air, man behind Pahalgam attack killed &amp; more",
-    "desc": "Flydubai flight FDB1073 from Dubai to Tel Aviv made an emergency landing in Saudi Arabia after a stabbing incident. Passengers reported a pilot being attacked, leading to a sudden mid-air descent of the Boeing 737 MAX. Meanwhile, the BJP accused the INDIA bloc of protesting against the Election Commission to preempt election losses. Additionally, Hashim Moosa, a terrorist wanted for a prior attack, was killed in a J&K encounter.",
-    "img": "https://static.toiimg.com/photo/msid-134595191,imgsize-1157387.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-flydubai-pilot-stabbed-mid-air-man-behind-pahalgam-attack-killed-more/articleshow/134594929.cms",
-    "time": "2026-09-30T13:07:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Archers, shooters fire India’s medal rush on a golden day at Asian Games",
     "desc": "India had its best day of the Asian Games so far as compound archers won all three team gold medals, while shooters Neeru Dhanda and Kynan Chenai also finished on top in the mixed trap event. Three bronze medals in boxing and wrestling took India’s overall tally to 60 medals - 10 gold, 21 silver and 29 bronze. India also moved up to eighth place from 10th on Tuesday.",
@@ -340,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-golden-day-for-india-archers-sweep-3-titles-neeru-dhanda-kynan-chenai-clinch-trap-gold/articleshow/134594764.cms",
     "time": "2026-09-30T13:02:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NCERT explains roots of national, SC mottos",
-    "desc": "The NCERT has introduced a groundbreaking Class IX social science textbook that bridges modern principles of governance with ancient Indian wisdom. By drawing connections between India's national motto, values upheld by the Supreme Court, and revered texts like the Mahabharata, this textbook advocates for key governance themes such as accountability, inclusiveness, and transparency. These concepts underline the need for various societal roles in fostering public welfare and ensuring democracy thrives.",
-    "img": "https://static.toiimg.com/photo/msid-134594947,imgsize-119220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/upanishads-to-mahabharata-ncert-explains-roots-of-national-sc-mottos/articleshow/134594774.cms",
-    "time": "2026-09-30T12:53:39.000Z"
   },
   {
     "cat": "Business",
@@ -388,48 +442,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Who is Lalit Prabhakar? All about actor playing Ajmal Kasab in 'Prahaar'",
-    "desc": "The Untold Story of Ujjwal Nikam'. Directed by Avinash Arun, the film depicts Kasab's courtroom trial alongside Special Public Prosecutor Ujjwal Nikam, played by Rajkummar Rao. The film explores the intense legal battle following the 2008 Mumbai attacks and will be released on October 16.",
-    "img": "https://static.toiimg.com/photo/msid-134594138,imgsize-447457.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-is-lalit-prabhakar-all-about-the-marathi-actor-playing-ajmal-kasab-in-rajkummar-rao-starrer-prahaar-the-ujjwal-nikam-story/articleshow/134594068.cms",
-    "time": "2026-09-30T12:21:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Many are in contact’: Akhilesh claims BJP alliance MLAs in touch with SP ahead of Rajya Sabha polls",
-    "desc": "Akhilesh Yadav announced that several BJP MLAs are in contact with the Samajwadi Party for Rajya Sabha elections. He emphasized that the SP would maintain an alliance based on winnability for upcoming assembly polls. Yadav defended the nomination of industrialist Dhanraj Parimal Nathwani, stating the SP seeks to connect with the industrial sector. He assured pending payments for sugarcane growers would be made quickly if the SP forms the government.",
-    "img": "https://static.toiimg.com/photo/msid-134593915,imgsize-64806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/many-are-in-contact-akhilesh-claims-bjp-alliance-mlas-in-touch-with-sp-ahead-of-rajya-sabha-polls/articleshow/134593117.cms",
-    "time": "2026-09-30T12:09:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Unni Mukundan to replace Mohanlal in Ajith Kumar’s 'Dare Devil'",
-    "desc": "Unni Mukundan has been announced as the new addition to Ajith Kumar's upcoming film 'Dare Devil', stepping in for Mohanlal in a pivotal role. Directed by Adhik Ravichandran, shooting is set to commence in November 2026, with a theatrical release slated for 2027. Notably, Shalini Ajithkumar will be producing the film.",
-    "img": "https://static.toiimg.com/photo/msid-134593440,imgsize-178824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/unni-mukundan-to-replace-mohanlal-in-ajith-kumars-dare-devil-heres-what-we-know/articleshow/134593424.cms",
-    "time": "2026-09-30T11:55:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Rajpal Yadav, Poonam Dhillon, Rahul Roy, industry colleagues pay tribute",
     "desc": "Mumbai gathered to honor the late Mushtaq Khan during a moving prayer meet after his passing on September 24. Colleagues from the film industry, including Mukesh Rishi, Rahul Roy, and Poonam Dhillon, attended to pay their respects. Despite their presence, Raza Murad raised concerns about notable stars not attending, further highlighting Khan's enduring impact on Hindi cinema through his memorable performances across film and television.",
     "img": "https://static.toiimg.com/photo/msid-134593277,imgsize-673960.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mushtaq-khan-prayer-meet-in-mumbai-rajpal-yadav-poonam-dhillon-rahul-roy-and-industry-colleagues-gather-to-remember-the-late-welcome-actor/articleshow/134593040.cms",
     "time": "2026-09-30T11:51:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ujjwal Nikam says 'Prahaar' doesn't 'sensationalise' 26/11 attacks",
-    "desc": "Ujjwal Nikam discussed the film 'Prahaar,' which centers on the trial of the 26/11 Mumbai attacks. Featuring Rajkummar Rao, the movie delves into the courtroom dynamics, aiming for a realistic portrayal rather than dramatization. Through thorough research, it presents an authentic experience and sheds light on the broader conspiracy beyond Ajmal Kasab. The narrative seeks to honor the victims and illustrate the persistent fight against terrorism.",
-    "img": "https://static.toiimg.com/photo/msid-134592841,imgsize-872102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/focus-should-be-on-terrorism-evidence-and-victims-ujjwal-nikam-explains-the-ajmal-kasab-biryani-remark-and-how-the-rajkummar-rao-starrer-prahaar-sticks-to-court-records-after-26/11-without-sensationalisation/articleshow/134591256.cms",
-    "time": "2026-09-30T11:34:03.000Z"
   },
   {
     "cat": "World",
@@ -549,6 +567,15 @@ const newsData_en = [
     "time": "2026-09-30T08:43:48.000Z"
   },
   {
+    "cat": "Tech",
+    "title": "Surveillance is not the only privacy issue",
+    "desc": "Who is responsible, when a protester is identified by a camera, doxxed by anonymous accounts, and then threatened at home? What happens to privacy when an electoral-roll decision determines whether someone can vote? Which safeguard applies when data gathered by the police is held by a private company?",
+    "img": "https://th-i.thgim.com/public/incoming/il2om6/article71525599.ece/alternates/LANDSCAPE_1200/2026-07-27T133546Z_919646877_RC2SKMAJ2XPG_RTRMADP_3_INDIA-POLITICS-SURVEILLANCE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/opinion/op-ed/surveillance-is-not-the-only-privacy-issue/article71525462.ece",
+    "time": "2026-09-30T08:38:01.000Z"
+  },
+  {
     "cat": "Business",
     "title": "RBI rate hikes ahead? BofA sees 100 bps repo rate increase through H1 2027",
     "desc": "Bank of America Securities anticipates that the Reserve Bank of India will implement significant interest rate hikes by mid-2027. They have adjusted their forecast for the initial hike to October instead of December, predicting a cumulative increase of 100 basis points, resulting in a terminal rate of 6.25 percent. This expectation is bolstered by economic growth and inflation concerns, but any slowdown in the economy could impact the RBI's strategy.",
@@ -576,6 +603,15 @@ const newsData_en = [
     "time": "2026-09-30T08:01:02.000Z"
   },
   {
+    "cat": "Tech",
+    "title": "Why has OpenAI cancelled the release of its latest model?",
+    "desc": "What safety concerns emerged during internal testing? What did the U.K.’s AI Security Institute find when it evaluated GPT-6 Astra’s behaviour in simulated cyber environments? Could these concerns force OpenAI and other AI companies to rethink the pace of development?",
+    "img": "https://th-i.thgim.com/public/incoming/awl899/article71526764.ece/alternates/LANDSCAPE_1200/OpenAI-unveils-GDNGJMVE0.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/why-has-openai-cancelled-the-release-of-its-latest-model-explained/article71526762.ece",
+    "time": "2026-09-30T07:49:28.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Rs 1.54 lakh crore and counting: Why Indians still choose PPF, SSY, SCSS",
     "desc": "The net collections under small savings schemes are expected to surpass the budgeted Rs 3.59 lakh crore target for financial year 2026-27 by a comfortable margin, with inflows during the first four months of the fiscal already 56% higher than in the corresponding period last year. Officials expect FY27 collections to come in significantly above the original target, particularly because a substantial share of small savings typically comes in during the March quarter.",
@@ -601,6 +637,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/india-win-mens-compound-team-gold-archery-haul-grows-to-three-golds-at-asian-games/articleshow/134585045.cms",
     "time": "2026-09-30T07:24:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "When Fortran ran for the first time",
+    "desc": "On September 20, 1954, the first successful test compilation and execution of a computer program using Fortran took place. Built by a team of pioneers in computer programming and led by John Backus, it wasn’t until 1957 that Fortran was finally ready. A.S.Ganesh pulls out his punch cards to hand you the story of Backus and what he built…",
+    "img": "https://th-i.thgim.com/public/incoming/yct4s6/article71450871.ece/alternates/LANDSCAPE_1200/20istb%20IBM%20704%20Fortran.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/when-fortran-ran-for-the-first-time/article71450877.ece",
+    "time": "2026-09-30T07:23:58.000Z"
   },
   {
     "cat": "Sports",
@@ -646,15 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/look-into-her-eyes-neeru-dhandas-hospital-scare-2-asian-games-golds-and-the-fire-mansher-singh-saw/articleshow/134583863.cms",
     "time": "2026-09-30T06:27:49.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why has OpenAI cancelled the release of its latest model?",
-    "desc": "What safety concerns emerged during internal testing? What did the U.K.’s AI Security Institute find when it evaluated GPT-6 Astra’s behaviour in simulated cyber environments? Could these concerns force OpenAI and other AI companies to rethink the pace of development?",
-    "img": "https://th-i.thgim.com/public/incoming/awl899/article71526764.ece/alternates/LANDSCAPE_1200/OpenAI-unveils-GDNGJMVE0.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/why-has-openai-cancelled-the-release-of-its-latest-model-explained/article71526762.ece",
-    "time": "2026-09-30T06:20:01.000Z"
   },
   {
     "cat": "Business",
@@ -736,15 +772,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/5-hurdles-facing-noel-tata-and-an-unlisted-tata-sons/articleshow/134577100.cms",
     "time": "2026-09-30T01:34:47.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Surveillance is not the only privacy issue",
-    "desc": "Who is responsible, when a protester is identified by a camera, doxxed by anonymous accounts, and then threatened at home? What happens to privacy when an electoral-roll decision determines whether someone can vote? Which safeguard applies when data gathered by the police is held by a private company?",
-    "img": "https://th-i.thgim.com/public/incoming/yn1gm/article71525599.ece/alternates/LANDSCAPE_1200/2026-07-27T133546Z_919646877_RC2SKMAJ2XPG_RTRMADP_3_INDIA-POLITICS-SURVEILLANCE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/opinion/op-ed/surveillance-is-not-the-only-privacy-issue/article71525462.ece",
-    "time": "2026-09-29T18:46:03.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/amazon-v-perplexity-whos-in-control-when-an-ai-agent-acts-for-you/article71523202.ece",
     "time": "2026-09-29T09:20:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "U.S. waives tariffs on certain speciality drugs from 20 countries, including India",
-    "desc": "Eligible products for the zero per cent tariff rate include all drugs designated for rare diseases, infertility treatments, cell therapies, gene therapies, antibody-drug conjugates (ADCs), and animal pharmaceuticals. Components of these drugs are also subject to a zero per cent tariff rate",
-    "img": "https://th-i.thgim.com/public/incoming/awv9ni/article71522929.ece/alternates/LANDSCAPE_1200/Fake-drug-netwoGVAGHB550.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-waives-tariffs-on-certain-speciality-drugs-from-20-countries-including-india/article71522910.ece",
-    "time": "2026-09-29T07:59:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee falls 16 paise to 96.13 against U.S. dollar in early trade",
-    "desc": "Forex traders said the rupee is under pressure largely due to the combination of firm oil and rising U.S. nominal and real yields, which together are drawing portfolio flows out of emerging markets, including India",
-    "img": "https://th-i.thgim.com/public/news/national/1zxrjm/article71522704.ece/alternates/LANDSCAPE_1200/iStock-1358183711%2011.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/rupee-falls-16-paise-to-9613-against-us-dollar-in-early-trade/article71522669.ece",
-    "time": "2026-09-29T05:53:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rima Das on ‘Village Rockstars 2’ and the state of independent cinema",
-    "desc": "The acclaimed Assamese filmmaker opens up about the delayed theatrical release of ‘Village Rockstars 2’, making films featuring children and nature, the need to build a better system to support cinema from the Northeast and more.",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/l2cvt3/article71519458.ece/alternates/LANDSCAPE_1200/Rima%20Das%20and%20a%20still%20from%20%E2%80%98Village%20Rockstars%202%E2%80%99",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/rima-das-on-village-rockstars-2-and-the-state-of-independent-cinema/article71519326.ece",
-    "time": "2026-09-29T05:49:18.000Z"
   }
 ];

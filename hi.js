@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rohit Sharma reveals Ravindra Jadeja's hilarious celebration advice for century against West Indies",
+    "desc": "Senior India cricketer Rohit Sharma smacked his 35th ODI century in the second ODI against West Indies at the Barsapara Cricket Stadium in Guwahati. He arrived to the series under tremendous pressure regarding his future...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-reveals-ravindra-jadeja-s-hilarious-celebration-advice-for-century-against-west-indies-2026-09-30-1055775",
+    "time": "2026-09-30T17:58:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Raphinha ruled out of India vs Brazil clash in Kolkata, returns to Barcelona after Australia leg",
+    "desc": "Brazil forward Raphinha has been ruled out of the blockbuster FIFA friendly against India, which will be played on October 3 at the Salt Lake Stadium in Kolkata. He has suffered a minor thigh injury...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/raphinha-ruled-out-of-india-vs-brazil-clash-in-kolkata-returns-to-barcelona-after-australia-leg-2026-09-30-1055772",
+    "time": "2026-09-30T17:37:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India register second-highest chase in ODI history as Shubman Gill hits 224* and Rohit smacks century",
     "desc": "India have defeated West Indies by eight wickets in the second ODI at the Barsapara Cricket Stadium in Guwahati. Captain Shubman Gill won the toss and elected to field first and what followed was pure...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-sets-unwanted-record-on-odi-debut-against-west-indies-in-guwahati-2026-09-30-1055748",
     "time": "2026-09-30T13:33:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Team India moves one step closer to Asian Games gold, defeats South Korea 2-0 to reach women's hockey final",
-    "desc": "The Indian team performed brilliantly in the women’s hockey semi-final against South Korea at the Asian Games 2026. The two sides met on September 30th, and after a hard-fought clash between the two sides, it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/team-india-moves-one-step-closer-to-asian-games-gold-defeats-south-korea-2-0-to-reach-women-s-hockey-final-2026-09-30-1055743",
-    "time": "2026-09-30T12:27:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shai Hope breaks Brian Lara's record with century vs India in second ODI in Guwahati",
-    "desc": "West Indies captain Shai Hope played a phenomenal knock in the second ODI against India at the Barsapara Cricket Stadium in Guwahati. Opener John Campbell set the tone for the day with a century of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shai-hope-breaks-brian-lara-s-record-with-century-vs-india-in-second-odi-in-guwahati-2026-09-30-1055739",
-    "time": "2026-09-30T12:09:42.000Z"
   }
 ];
