@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "1 ઓક્ટોબરથી આ વસ્તુ વિના ટ્રેનમાં મુસાફરી ભારે પડી જશે, ધ્યાનથી વાંચી લો આ જાણકારી",
+    "desc": "1 ઓક્ટોબરથી ટ્રેનમાં મુસાફરી કરો ત્યારે સાથે ઓરિજિનલ આઈડી પ્રુફ પણ રાખજો. ટ્રેનમાં ટિકિટની સાથે આઈડી કાર્ડ પણ ચેક થશે. ભારતીય રેલ્વેની ખાસ ડ્રાઈવ શરુ થવાની છે જેમાં 4 કેટેગરીમાં મુસાફરી કરતાં યાત્રીઓ પર ખાસ નજર રાખવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/indian-railway-new-rule-1-october-2026-keep-original-id-proof-with-ticket-special-ticket-checking-drive-in-train-492451 ",
+    "time": "2026-09-30T02:23:08.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "એથ્લેટિક્સમાં ભારતનો પહેલો ગોલ્ડ, 4x400 મીટર રિલેમાં ભારતની દીકરીઓનો કમાલ",
     "desc": "ભારતે એશિયન ગેમ્સ 2026માં એથ્લેટિક્સમાં પહેલો ગોલ્ડ મેડલ જીત્યો છે. કિરણ પહાલ, પૂવમ્મા મચેત્તિરા, પ્રાચી અને વિથ્યા રામરાજની ચોકડીએ મહિલાઓની 4x400 મીટર રિલે સ્પર્ધામાં 3:29.69 મિનિટના ટાઈમ સાથે ગોલ્ડ મેડલ જીત્યો છે. અગાઉ, ભારતે 4x100 મીટર મિક્સ્ડ રિલેમાં પણ બ્રોન્ઝ મેડલ જીત્યો હતો.",
@@ -268,24 +277,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/jharkhand-jamshedpur-news-minister-deepika-pandey-singh-daughter-died-in-road-accident-492212 ",
     "time": "2026-09-24T06:20:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "યમુના એક્સપ્રેસ વે પર સ્લિપર બસ આગની જ્વાળામાં લપેટાઈ, 9 મુસાફરો જીવતા ભૂંજાઈ ગયા, અનેક ઘાયલ",
-    "desc": "ઉત્તર પ્રદેશમાં એક ગમખ્વાર અકસ્માત સર્જાયો છે જેમાં 9 લોકો જીવતા ભૂંજાઈ ગયા. યમુના એક્સપ્રેસ વે પર એક દર્દનાક અકસ્માત થયો જેમાં એક સ્લિપર બસ આગની જ્વાળાઓમાં લપેટાઈ ગઈ. અનેક મુસાફરોએ બારીઓમાંથી કૂદીને પોતાના જીવ બચાવ્યા. બસ મુસાફરોને લઈને નોઈડાથી મહોબા જઈ રહી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/several-people-died-after-a-sleeper-bus-caught-fire-on-the-yamuna-expressway-492198 ",
-    "time": "2026-09-24T03:19:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારત તરફ આવતા જહાજ પર ઓમાન નજીક હુમલો, 1 ભારતીયનું મોત, 19 લોકોને રેસ્ક્યૂ કરાયા",
-    "desc": "ભારત માટે એક ખરાબ સમાચાર સામે આવ્યા છે. ભારત તરફ આવતા કોમર્શિયલ જહાજ પર હુમલો કરવામાં આવ્યો જેમાં 1 ભારતીયનું મોત થયું છે જ્યારે 19 લોકોનું રેસ્ક્યૂ કરવામાં આવ્યું. શું છે આ મામલો ચાલો જાણીએ વિસ્તારપૂર્વક.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/attack-on-indian-commercial-ship-near-oman-1-indian-killed-19-rescued-here-is-detail-news-492190 ",
-    "time": "2026-09-24T03:03:57.000Z"
   },
   {
     "cat": "Entertainment",
