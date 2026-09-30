@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Vashu Bhagnani hospitalised in London amid IT raids",
+    "desc": "Vashu Bhagnani, a notable film producer in the Hindi film industry, has been hospitalized in London. His reason for hospitalization has not been disclosed to the public as of now. When contacted for comments, Bhagnani requested to be left alone during this time. Bhagnani made his debut as a producer with 'Coolie No. 1' in 1995. Further updates regarding his health condition are anticipated in the coming days.",
+    "img": "https://static.toiimg.com/photo/msid-134576438,imgsize-56716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/producer-vashu-bhagnani-hospitalised-in-london-amid-income-tax-raids-over-suspected-fund-irregularities/articleshow/134576439.cms",
+    "time": "2026-09-29T23:19:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aishwarya returns home after stealing the spotlight in Paris",
+    "desc": "Aishwarya Rai Bachchan arrived back home from Paris where she attended Fashion Week earlier this week. While at the event, she showcased a stunning black velvet gown paired with a statement cape. A video captured her interacting with other stars like Simone Ashley and Celine Dion, highlighting her friendly demeanor. Aishwarya reunited with her long-time friend Eva Longoria during the diverse celebrity line-up at the fashion show.",
+    "img": "https://static.toiimg.com/photo/msid-134576409,imgsize-296661.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-bachchan-returns-home-after-stealing-the-spotlight-at-paris-fashion-week-pics/articleshow/134574068.cms",
+    "time": "2026-09-29T22:17:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rihanna's home shooting trial: Judge rules accused competent",
+    "desc": "Ivanna Lisette Ortiz, 36, has been found mentally competent to stand trial for the shooting incident. She pleaded not guilty to multiple felony charges, including attempted murder of Rihanna and A$AP Rocky. The shooting occurred on March 8, when Ortiz allegedly fired at least 20 rounds towards the celebrity couple's home, hitting their trailer. Fortunately, no injuries were reported to anyone present at the scene, including their children.",
+    "img": "https://static.toiimg.com/photo/msid-134573832,imgsize-4302446.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rihannas-home-shooter-found-mentally-fit-for-trial-judge-says-criminal-proceedings-are-reinstated/articleshow/134573834.cms",
+    "time": "2026-09-29T21:32:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hundreds of fishermen protest against Secretariat proposal at Foreshore Estate",
+    "desc": "Community leader K. Bharathi, who has been spearheading the movement, pointed out that Minister Aadhav Arjuna had said that if asked to choose between fishermen and the secretariat, the Chief Minister would choose the welfare of the fishermen",
+    "img": "https://th-i.thgim.com/public/incoming/mjkdnr/article71525431.ece/alternates/LANDSCAPE_1200/FISHDEMOA8.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/hundreds-of-fishermen-protest-against-secretariat-proposal-at-foreshore-estate/article71525230.ece",
+    "time": "2026-09-29T19:51:42.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Mammoth protest at Kittur Chennamma Circle by Sugarcane farmers; Farmers agree for talk at Delhi with Joshi after intervention by MLAs Tenginakai, Patil",
     "desc": "Thousands of sugarcane growers from across Karnataka and neighbouring Maharashtra and Telangana staged a massive protest at Kittur Chennamma Circle in Hubballi on Tuesday, demanding remunerative prices for sugarcane and a revision of the minimum selling price (MSP) of sugar. After appeal by union minister Pralhad Joshi, intervention by local legislators they agree for talks at Delhi, withdraw protest",
@@ -270,15 +306,6 @@ const newsData_en = [
     "time": "2026-09-29T14:16:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'No locus standi': India rejects Turkey President Erdogan's remarks on Kashmir at UNGA",
-    "desc": "Ministry of External Affairs criticised Turkish President Tayyip Erdogan for raising the Kashmir issue at the UN. The MEA emphasized that no external party has a right to comment on India's territorial integrity. Erdogan suggested dialogue to resolve disputes, including the Kashmir issue, within the United Nations framework. India has consistently maintained that Jammu and Kashmir is an integral part of the nation.",
-    "img": "https://static.toiimg.com/photo/msid-134568815,imgsize-971991.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-locus-standi-india-rejects-turkey-president-erdogans-remarks-on-kashmir-at-unga/articleshow/134568765.cms",
-    "time": "2026-09-29T13:59:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Neeru Dhanda, women’s 4x400m relay shine as 8-medal haul takes India past 50",
     "desc": "Neeru Dhanda made history by clinching a gold medal in the women's trap event at the Asian Games, marking a significant achievement in Indian sports. The women's 4x400m relay team also triumphed, boosting India's medal tally to 53 and placing the nation 10th in the overall standings. Other athletes performed admirably across various competitions, while the boxing and volleyball teams made impressive strides, enhancing India's accomplishments.",
@@ -304,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-third-single-one-name-is-out-anirudh-ravichander-unleashes-a-pulsating-mass-anthem-for-rajinikanths-tiger-muthuvel-pandian/articleshow/134568552.cms",
     "time": "2026-09-29T13:39:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "New NCERT book says Indian kings received swords from goddesses to resist religion-driven invasions",
-    "desc": "India and Beyond-Part 2' delves into India's historical experience with warfare. It emphasizes the cultural worship of deities like Kali and Durga for protection during conflicts, documents invasions from the seventh century, and highlights the valor of Indian rulers against foreign aggressors. This resource aims to enhance analytical thinking and foster intercultural dialogue among secondary students.",
-    "img": "https://static.toiimg.com/photo/msid-134568519,imgsize-92312.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/new-ncert-textbook-says-indian-kings-invoked-religious-goddesses-resisted-religion-driven-invasions/articleshow/134568413.cms",
-    "time": "2026-09-29T13:36:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -396,24 +414,6 @@ const newsData_en = [
     "time": "2026-09-29T12:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Thalapathy Vijay’s throwback statement for wife Sangeetha resurfaces",
-    "desc": "Vijay's heartfelt reflections on his enduring love for wife Sangeetha have resurfaced online, captivating fans. In a past interview, he expressed that his feelings have remained steadfast since their marriage in 1999. They share two children, Jason Sanjay and Divya Saasha. As Jason gears up for his film directorial debut 'Sigma', fans are reminiscing about Vijay's views on family and devotion.",
-    "img": "https://static.toiimg.com/photo/msid-134565518,imgsize-166313.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/no-matter-what-changes-come-my-love-will-not-change-thalapathy-vijays-throwback-statement-for-estranged-wife-sangeetha-resurfaces-amid-son-jason-sanjays-directorial-debut-sigmas-release/articleshow/134565508.cms",
-    "time": "2026-09-29T12:29:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Kon dekhega filmein’: Fatima slams BMC’s proposed 570% entertainment tax hike",
-    "desc": "Fatima Sana Shaikh has passionately opposed the BMC's plan to raise entertainment taxes, fearing it will make cinema outings unaffordable for many. She criticized the hike as classist, potentially pushing certain groups away from multiplexes. Her views resonated on social media, where numerous users voiced their support. Meanwhile, Shaikh remains committed to engaging her audience through her upcoming film projects.",
-    "img": "https://static.toiimg.com/photo/msid-134566094,imgsize-627769.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kon-dekhega-fir-filmein-fatima-sana-shaikh-calls-bmcs-proposed-570-entertainment-tax-hike-very-classist-says-theatre-outings-already-cost-rs-2000-3000/articleshow/134565973.cms",
-    "time": "2026-09-29T12:27:33.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Son died, LIC denied father Rs 5 lakh over heart condition; Commission orders payout with interest",
     "desc": "The Commission referred to a National Consumer Disputes Redressal Commission decision concerning \"silent diseases\", observing that a person may not necessarily be aware of a condition until it aggravates and symptoms become apparent. It also referred to a Punjab and Haryana High Court judgment concerning repudiation of insurance claims.",
@@ -430,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/trade-irony-amid-trump-threat-why-russia-is-buying-its-own-oil-as-fuel-from-india/articleshow/134563758.cms",
     "time": "2026-09-29T12:12:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Attakathi Dinesh’s relationship with TV host Ezhilarasi revealed",
-    "desc": "Following Ezhilarasi's heartfelt birthday tribute to Attakathi Dinesh on social media, an increased interest in their private lives has emerged. The post featured warm messages and endearing photos, hinting at a close bond. Fans are now buzzing with curiosity about their relationship status and any potential future commitments. Ezhilarasi, renowned for her television interviews with notable personalities, has not confirmed any engagement or wedding plans, leaving many intrigued.",
-    "img": "https://static.toiimg.com/photo/msid-134565447,imgsize-182165.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/attakathi-dineshs-relationship-rumours-gain-fresh-attention-after-tv-host-ezhilarasi-shares-heartfelt-birthday-post-i-will-choose-you-every-time/articleshow/134565431.cms",
-    "time": "2026-09-29T12:02:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -702,24 +693,6 @@ const newsData_en = [
     "time": "2026-09-27T17:34:20.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Asian Games",
-    "desc": "“I played my match yesterday, and there have not been many instances where I have come back from being down. It’s always the other way around. I am just learning how to handle the pressure of playing against more experienced players,”says Anahat",
-    "img": "https://th-i.thgim.com/public/incoming/tpru96/article71516953.ece/alternates/LANDSCAPE_1200/PTI09_27_2026_000231B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/asian-games-learnt-a-lot-from-my-individual-campaign-anahat/article71516892.ece",
-    "time": "2026-09-27T16:13:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ancy misses gold by a whisker; Sarvesh wins silver",
-    "desc": "The former is pipped by China’s Huang in women’s long jump; the latter continues his consistent run of late in high jump; decathlete Tejaswin, steeplechaser Parul and sprinter Harita, too, make it to the podium",
-    "img": "https://th-i.thgim.com/public/incoming/dartbd/article71516695.ece/alternates/LANDSCAPE_1200/15_RVM_1026.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/asian-games-2026-ancy-misses-gold-by-a-whisker-sarvesh-wins-silver/article71516711.ece",
-    "time": "2026-09-27T15:44:54.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Indian non-profits lag on digital maturity, AI adoption: report",
     "desc": "The Digital for Nonprofits (D4NP) report, released in New Delhi, finds non-profits scoring below 50% on digital maturity and largely failing to tap free online advertising grants—despite growing interest in large language models to aid reports and marketing",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
   }
 ];
