@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "হাড়হিম ব্লু ড্রাম মার্ডার কেস: 'স্ত্রী মুসকান ও প্রেমিক সাহিল দুজনকেই...' , সৌরভ খুনে রায় দিল আদালত",
+    "desc": "২০২৫-এর ৩ মার্চ মুসকান তার প্রেমিক সাহিলের সঙ্গে মিলে স্বামী সৌরভ রাজপুতকে নির্মমভাবে খুন করে। ১৯ মার্চ পুলিস মুসকান ও সাহিলকে গ্রেফতার করে। প্রায় ১৩ মাস ধরে চলা এই বিচারাধীন মামলায় মোট ১২৬ বার শুনানি হয়েছে। ২২ জনেরও বেশি সাক্ষীর জবানবন্দি রেকর্ড করা হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/meerut-blue-drum-murder-case-verdict-court-finds-wife-muskan-and-lover-sahil-guilty-of-murdering-saurabh-rajput_672539.html ",
+    "time": "2026-09-30T13:58:42.000Z"
+  },
+  {
     "cat": "World",
     "title": "আরব সাগরে ইরানি নৌকায় ৩ হাজার কোটি টাকার মাদক! ৫ পাকিস্তানি নাগরিক আটক",
     "desc": "আরব সাগরে বড়সড় মাদকবিরোধী অভিযান চালিয়ে প্রায় ৫২৬ কেজি মাদক উদ্ধার করেছে ভারতীয় কোস্ট গার্ড ও গুজরাত ATS। আন্তর্জাতিক বাজারে ওই মাদকের আনুমানিক মূল্য ৩ হাজার কোটি টাকারও বেশি বলে জানানো হয়েছে। একটি ইরানি ধাও থেকে হেরোইন ও মেথামফেটামিন উদ্ধার করা হয়েছে। নৌকায় থাকা ৫ পাকিস্তানি নাগরিককে আটক করা হয়েছে।",
@@ -88,15 +97,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/us-storm-powerful-storm-brings-flooding-flights-canceled-power-cuts-one-dead-northeastern-us_672302.html ",
     "time": "2026-09-27T08:35:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "গণধর্ষণের পর আত্মঘাতী ছাত্রী! মধ্যরাতে রণক্ষেত্র পঞ্জাবের LPU, ক্যাম্পাসে ২ হাজার পড়ুয়ার তাণ্ডব-ভাঙচুর",
-    "desc": "পুলিস জানিয়েছে, ধর্ষণের কোনও অভিযোগ বা প্রমাণ মেলেনি এবং চার-পাঁচ দিন আগের এক আত্মহত্যার ঘটনা ঘিরে ভুল বোঝাবুঝি তৈরি হয়েছে। বিশ্ববিদ্যালয় কর্তৃপক্ষও এই দাবিকে সম্পূর্ণ ভিত্তিহীন বলে উড়িয়ে দিয়েছে। এবং পড়ুয়াদের গুজবে কান না দেওয়ার আবেদন জানিয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/lpu-punjab-protest-rumours-vandalism-highway-block-police-statement_672296.html ",
-    "time": "2026-09-27T06:15:25.000Z"
   },
   {
     "cat": "World",
@@ -232,15 +232,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/bigg-boss-bangla-sourav-das-wild-card-double-elimination_671483.html ",
     "time": "2026-09-19T12:38:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "একসঙ্গে দু’জনের বিদায়! বিগ বস বাংলায় শনিবার ‘ডবল এলিমিনেশন’, কারা বিপদে?",
-    "desc": "বিগ বস বাংলার দুর্গে শনিবার হতে চলেছে জোড়া এলিমিনেশন। অর্থাৎ একসঙ্গে দু’জন প্রতিযোগীকে শো থেকে বিদায় নিতে হবে। তবে ঠিক কারা বাদ পড়বেন, তা এখনও নিশ্চিত নয়। এর পাশাপাশি তৃতীয় ওয়াইল্ড কার্ড হিসেবে অভিনেতা সৌরভ দাস ওরফে ‘মন্টু পাইলট’-এর প্রবেশের জল্পনাও তৈরি হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/bigg-boss-bangla-double-elimination-two-contestants-wild-card-entry_671480.html ",
-    "time": "2026-09-19T12:23:08.000Z"
   },
   {
     "cat": "Business",
