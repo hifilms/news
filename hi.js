@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Scheduled announced, India to face Pakistan on Oct 10",
+    "desc": "The International Cricket Council (ICC) has unveiled the schedule for the 2027 ODI World Cup on Thursday, which marks the one-year countdown to the tournament. The 2027 ODI World Cup, which will see a participation...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-odi-world-cup-2027-schedule-live-updates-india-vs-pakistan-south-africa-zimbabwe-namibia-australia-live-blog-1055853",
+    "time": "2026-10-01T14:36:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India make changes to ODI, T20I squad for ongoing series vs West Indies",
     "desc": "India pacer Prasidh Krishna has been ruled out of the third and final ODI against West Indies, slated to be played on October 3 in Mullanpur. BCCI has confirmed that the Karnataka pacer sustained a...",
     "img": "",
@@ -70,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/asian-games-2026-day-12-live-india-vs-sri-lanka-cricket-india-vs-pakistan-hockey-asian-games-update-manu-francis-prince-kurisinkal-squash-1055788",
     "time": "2026-10-01T04:21:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma reveals Ravindra Jadeja's hilarious celebration advice for century against West Indies",
-    "desc": "Senior India cricketer Rohit Sharma smacked his 35th ODI century in the second ODI against West Indies at the Barsapara Cricket Stadium in Guwahati. He arrived to the series under tremendous pressure regarding his future...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-reveals-ravindra-jadeja-s-hilarious-celebration-advice-for-century-against-west-indies-2026-09-30-1055775",
-    "time": "2026-09-30T17:58:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Raphinha ruled out of India vs Brazil clash in Kolkata, returns to Barcelona after Australia leg",
-    "desc": "Brazil forward Raphinha has been ruled out of the blockbuster FIFA friendly against India, which will be played on October 3 at the Salt Lake Stadium in Kolkata. He has suffered a minor thigh injury...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/raphinha-ruled-out-of-india-vs-brazil-clash-in-kolkata-returns-to-barcelona-after-australia-leg-2026-09-30-1055772",
-    "time": "2026-09-30T17:37:30.000Z"
   }
 ];
