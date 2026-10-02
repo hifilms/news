@@ -1,6 +1,114 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Deleted, and left in limbo",
+    "desc": "Across Bihar and West Bengal, lakhs of voters were deleted from the electoral rolls during the Special Intensive Revision (SIR) exercise, leaving them unable to vote in the 2025 and 2026 Assembly elections. Over 47 lakh names were deleted in Bihar and nearly 91 lakh in West Bengal. Shrabana Chatterjee and Senjuti Sengupta met some of those affected, documenting the uncertainty, paperwork, and repeated attempts to prove their citizenship and eligibility that followed the deletions",
+    "img": "https://th-i.thgim.com/public/news/national/nmwold/article71538326.ece/alternates/LANDSCAPE_1200/BIHAR%20ELECTION%20SPECIAL%20INVESTIGATION%20REVISIONSIR%20%20to%20electoral%20roll%20%203.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/deleted-and-left-in-limbo/article71538194.ece",
+    "time": "2026-10-02T20:07:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress targets PM Modi over ‘insensitivity’ with regard rising prices and its squeeze on household budgets",
+    "desc": "Describing him as the pravachan mantri, Jairam Ramesh shared a media report on X which said household kitchen budgets had increased by 20% to 25% over the past three months and asked when people would get relief from “back-breaking inflation”",
+    "img": "https://th-i.thgim.com/public/incoming/uq5vqx/article71537489.ece/alternates/LANDSCAPE_1200/20th-JIGEESH-SIG3AGIA9L6.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-targets-pm-modi-over-insensitivity-with-regard-rising-prices-and-its-squeeze-on-household-budgets/article71537250.ece",
+    "time": "2026-10-02T19:13:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Favourite India will be wary of a resilient Malaysia in gold-medal match",
+    "desc": "India got a wake-up call against a fighting Pakistan, losing its shape, tempo and control in the final 20 minutes after leading 3-0. It was a lesson in what can happen when teams start celebrating too early or assume a result before the final whistle.",
+    "img": "https://th-i.thgim.com/public/incoming/q2mht1/article71538468.ece/alternates/LANDSCAPE_1200/04_RVM_1650.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/favourite-india-will-be-wary-of-a-resilient-malaysia-in-gold-medal-match/article71538046.ece",
+    "time": "2026-10-02T19:00:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mukesh Khanna on his role in film 'Vishwaguru': 'I told them that I don’t...'",
+    "desc": "Mukesh Khanna is gearing up for an exciting role in the anticipated film 'Vishwaguru', which has captured his attention for its compelling narrative and significant social themes. He acknowledged his initial concerns about delivering his lines in Gujarati, ultimately deciding to perform in Hindi. Khanna noted that the film holds valuable insights for both young audiences and educational authorities. Release details are still pending.",
+    "img": "https://static.toiimg.com/photo/msid-134645793,imgsize-426526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mukesh-khanna-on-his-role-in-the-film-vishwaguru-after-hearing-the-story-i-told-them-that-i-dont-/articleshow/134645685.cms",
+    "time": "2026-10-02T18:56:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mukesh Khanna CRITICISES Ranbir's portrayal of Lord Ram: 'Against our faith'",
+    "desc": "Mukesh Khanna has raised his voice against the representation of Lord Ram in the upcoming film 'Ramayana'. He argues that the film's aggressive portrayal contradicts Lord Ram's revered image as Maryada Purushottam. Drawing on a specific episode from the epic, Khanna highlighted Lord Ram's humility. Moreover, he commented on how Hindu figures are often unfairly depicted in films crafted by their own community, labeling them as a soft target.",
+    "img": "https://static.toiimg.com/photo/msid-134645466,imgsize-924127.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mukesh-khanna-criticises-ranbir-kapoors-portrayal-of-lord-ram-in-ramayana-teaser-i-said-schwarzenegger-salman-khan-akshay-kumar-and-rajinikanth-can-do-this-but-purushottam-would-never/articleshow/134645391.cms",
+    "time": "2026-10-02T18:42:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bollywood celebs join protest at Mumbai's Shivaji Park",
+    "desc": "In a vigorous display of civic engagement, celebrities Shabana Azmi and Naseeruddin Shah joined hands at Mumbai's Shivaji Park for the CJP protest. They rallied for the resignation of CEC Gyanesh Kumar and challenged the Special Intensive Revision process of voter rolls. Azmi highlighted the significance of voting and citizens' rights, while Javed Akhtar provoked thought on the local community's mixed reactions to political demonstrations.",
+    "img": "https://static.toiimg.com/photo/msid-134645205,imgsize-671108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shabana-azmi-naseeruddin-shah-and-vishal-dadlani-join-protest-at-mumbais-shivaji-park-report/articleshow/134645167.cms",
+    "time": "2026-10-02T18:24:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs WI 3rd ODI",
+    "desc": "Though the Punjab all-rounder hasn’t had a chance to bat in the first two matches, he gave a decent account himself in the previous game in Guwahati with the ball, returning figures of none for 38 in 6.1 overs, even as the Windies racked up 405 for seven.",
+    "img": "https://th-i.thgim.com/public/incoming/xvs0qn/article71537070.ece/alternates/LANDSCAPE_1200/INDIA%20WI%20PC%203.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ind-vs-wi-3rd-odi-bowled-with-a-simple-plan-saysnaman-dhir/article71537072.ece",
+    "time": "2026-10-02T18:18:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Protests held across country demanding CEC Gyanesh Kumar’s ouster, hundreds detained",
+    "desc": "Congress leader Rahul Gandhi slams police action on protesters, says ‘lathi can stop a crowd, but not a question’; political parties, activists and students take out rallies across States seeking electoral reforms and rollback of SIR",
+    "img": "https://th-i.thgim.com/public/incoming/n5la7l/article71538377.ece/alternates/LANDSCAPE_1200/PROTEST%20AGAINST%20GYANESH%20KUMAR%2010.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/protests-held-across-country-demanding-cec-gyanesh-kumars-ouster-hundreds-detained/article71537923.ece",
+    "time": "2026-10-02T18:13:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Over 700 detained in Delhi, thousands attend CJP stir in Mumbai",
+    "desc": "Demonstrations are intensifying in Delhi and Mumbai, with protesters calling for Chief Election Commissioner Gyanesh Kumar's resignation over perceived electoral roll issues. Approximately 700 individuals were detained in Delhi at Jantar Mantar. Meanwhile, thousands defied police orders to gather at Shivaji Park in Mumbai. Protests also spread to other cities, including Ahmedabad, Lucknow, and Patna, highlighting a growing movement.",
+    "img": "https://static.toiimg.com/photo/msid-134644747,imgsize-437800.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/protests-against-cec-gyanesh-kumar-over-700-detained-in-delhi-thousands-attend-cjp-stir-in-mumbai-top-developments/articleshow/134644594.cms",
+    "time": "2026-10-02T17:46:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lawyers’ body forms panel to review SIR: Ex-SC, HC judges to examine ‘constitutional &amp; statutory validity’",
+    "desc": "A panel of five former judges is being formed to review the Election Commission's Special Intensive Revision. The Lawyers Association for Constitution emphasizes the panel's independence in assessing the review's validity and impact. Senior lawyers are expected to provide strategic legal advice to the panel throughout the process. The Election Commission has also initiated a drive to identify and re-enrol excluded eligible voters.",
+    "img": "https://static.toiimg.com/photo/msid-134644587,imgsize-77530.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sir-under-review-former-sc-hc-judges-to-examine-constitutional-statutory-validity-of-voter-roll-revision/articleshow/134644487.cms",
+    "time": "2026-10-02T17:40:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Zac Efron",
+    "desc": "In a candid discussion, Zac Efron reflected on the hurdles he faced as a star, stressing the importance of lightheartedness during difficult moments. He shared that feeling insecure or making errors doesn’t amount to failure. Efron's journey highlights the intense scrutiny of fame and the essential need for self-acceptance, a message that resonates strongly amid our current social media culture.",
+    "img": "https://static.toiimg.com/photo/msid-134635000,imgsize-128296.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/motivational-quote-of-the-day-by-zac-efron-i-learned-to-take-myself-a-lot-less-seriously-a-powerful-life-lesson-on-self-acceptance-perspective-and-personal-growth/articleshow/134634923.cms",
+    "time": "2026-10-02T17:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP government made Haryana number one in drugs, corruption, crime: Hooda",
+    "desc": "In a passionate speech at the Congress Block Workers' Conference in Tauru, Bhupinder Singh Hooda slammed the BJP government, claiming that under its leadership, Haryana has seen a grave decline in both development and safety. He highlighted the state's dismal performance in crime rates and economic growth, attributing this downturn to the BJP's neglect over the past 12 years.",
+    "img": "https://static.toiimg.com/photo/msid-134642753,imgsize-39616.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-government-made-haryana-number-one-in-drugs-corruption-crime-hooda/articleshow/134642744.cms",
+    "time": "2026-10-02T17:28:25.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "India’s diversity, traditional knowledge can help build better world: RSS chief Mohan Bhagwat",
     "desc": "RSS chief Mohan Bhagwat highlighted Bharat's identity rooted in its languages, faiths, and cultures during a recent address. He emphasized the need for youth to be educated about Indian traditions while integrating global knowledge. Bhagwat referred to responses from an interfaith meeting, emphasizing universal truths shared by various philosophies. He encouraged passing on Bharat's identity and values to future generations.",
     "img": "https://static.toiimg.com/photo/msid-134644107,imgsize-108580.cms",
@@ -36,6 +144,15 @@ const newsData_en = [
     "time": "2026-10-02T16:30:06.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "In 1972, Elton John bought his first home and named it Hercules",
+    "desc": "Elton John has curated a stunning array of residences throughout his life, each reflecting his artistic sensibility and personal touch. From his inaugural home, Hercules, to Woodside, which mirrored his evolving design ethos, every space tells a story. His Atlanta home was a showcase for his photography collection. After his retirement, an auction of over 900 items from this sanctuary unveiled the fascinating lifestyle of this iconic artist.",
+    "img": "https://static.toiimg.com/photo/msid-134643927,imgsize-152455.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1972-elton-john-bought-his-first-home-and-named-it-hercules-inside-the-rocket-mans-extraordinary-world-of-art-cars-and-maximalist-interiors/articleshow/134634686.cms",
+    "time": "2026-10-02T16:30:00.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Rahul Gandhi demands CEC Gyanesh Kumar’s resignation as protests erupt in Delhi, Mumbai",
     "desc": "Rahul Gandhi has called for Chief Election Commissioner Gyanesh Kumar's resignation during ongoing protests. These protests arose over allegations of irregularities in the electoral-roll revision exercise. Approximately 700 protesters were detained in Delhi while trying to gather near Jantar Mantar for the demonstrations. Additional protests took place in Mumbai, where various groups demanded Kumar's resignation and accountability.",
@@ -63,13 +180,13 @@ const newsData_en = [
     "time": "2026-10-02T16:15:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "RJD, Congress at odds over upcoming Bihar legislative council elections",
-    "desc": "The RJD had earlier announced candidates for six seats while the Congress is set to contest in four seats; the Congress questioned its Mahagathbandhan ally for ignoring alliance coordination and asserted that its candidates are in the fray to win the polls",
-    "img": "https://th-i.thgim.com/public/incoming/rho1ak/article71535778.ece/alternates/LANDSCAPE_1200/20260929118L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/rjd-congress-at-odds-over-upcoming-bihar-legislative-council-elections/article71535768.ece",
-    "time": "2026-10-02T15:48:43.000Z"
+    "cat": "Entertainment",
+    "title": "Quote of the day by Tom Selleck",
+    "desc": "Tom Selleck emphasizes that embracing failure is crucial for success in any creative endeavor. He encourages emerging actors to take bold risks rather than shying away from potential setbacks. According to him, failures often impart lessons that triumphs cannot. His own journey was filled with challenges prior to his iconic role in Magnum, P.I., and his insights resonate well beyond the acting realm.",
+    "img": "https://static.toiimg.com/photo/msid-134634898,imgsize-964015.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-tom-selleck-you-must-develop-an-appetite-for-failure-because-the-only-way-you-can-risk-being-good-in-the-acting-business-is-to-stick-your-neck-out-to-risk-failing-a-powerful-life-lesson-highlighting-the-importance-of-challenges-and-setbacks/articleshow/134634860.cms",
+    "time": "2026-10-02T15:30:00.000Z"
   },
   {
     "cat": "Politics",
@@ -79,33 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/akhilesh-yadavs-rajya-sabha-picks-samajwadi-partys-master-strategy-or-pda-contradiction/articleshow/134642605.cms",
     "time": "2026-10-02T15:27:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Let Rayalaseema be known for development, not drought, says Pawan Kalyan",
-    "desc": "Three-phase Horticulture Hub plan will benefit around 9.6 lakh farmers, and create 9 lakh acres of new ayacut besides stabilising another 4.3 lakh acres, says Deputy CM; the idea emerged during his Yuva Galam Padayatra and interactions with farmers in Rayalaseema, says Lokesh",
-    "img": "https://th-i.thgim.com/public/incoming/flciz1/article71537945.ece/alternates/LANDSCAPE_1200/PTI10_02_2026_000348B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/let-rayalaseema-be-known-for-development-not-drought-says-pawan-kalyan/article71536869.ece",
-    "time": "2026-10-02T15:20:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indian School of Agriculture should help farmers become CEOs of their own farmlands, says Anant Ambani",
-    "desc": "Highlighting the importance of tech-driven farming, the Executive Director of Reliance Industries says AI can alert farmers to pest attacks and help Madanapalle tomato growers decide when and where to sell the produce, while greenhouse technology can enable year-round cultivations",
-    "img": "https://th-i.thgim.com/public/incoming/hqryxx/article71537140.ece/alternates/LANDSCAPE_1200/10745_2_10_2026_17_27_58_1_IMG_20261002_WA0085.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/indian-school-of-agriculture-should-help-farmers-become-ceos-of-their-own-farmlands-says-anant-ambani/article71536992.ece",
-    "time": "2026-10-02T15:15:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Organisational matters, differences of opinion between leaders should be resolved within Congress: K.C. Venugopal",
-    "desc": "AICC general secretary’s remarks comes amid intense media speculation about the internal crisis brewing within the ruling UDF; he also takes exception to the manner in which ‘some quarters’ eagerly chose to link him personally with every political controversy and personal views expressed by Congress leaders",
-    "img": "https://th-i.thgim.com/public/incoming/kpbfic/article71537929.ece/alternates/LANDSCAPE_1200/80686_2_10_2026_18_38_23_1_03TVKO_PADAYATRA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/organisational-matters-differences-of-opinion-between-leaders-should-be-resolved-within-congress-kc-venugopal/article71537826.ece",
-    "time": "2026-10-02T15:13:52.000Z"
   },
   {
     "cat": "Entertainment",
@@ -120,7 +210,7 @@ const newsData_en = [
     "cat": "Politics",
     "title": "Warring out, Pargat Singh in: Has Congress solved Punjab crisis or created more confusion?",
     "desc": "Amarinder Singh Raja Warring has resigned as the president of the Punjab Congress after more than four years. His resignation follows a prolonged period of infighting over leadership roles within the party. Both Charanjit Singh Channi and Warring have seen shifts in their status amid ongoing power struggles. But has Congress really solved the Punjab crisis?",
-    "img": "https://static.toiimg.com/photo/msid-134643816,imgsize-92765.cms",
+    "img": "https://static.toiimg.com/photo/msid-134644632,imgsize-93149.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/warring-out-channi-not-in-yet-has-congress-solved-punjab-crisis-or-created-more-confusion/articleshow/134640757.cms",
     "time": "2026-10-02T14:37:33.000Z"
@@ -217,6 +307,15 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
+    "title": "KSCA seeks 50 acres of land in Mangaluru to develop cricket infrastructure, writes to MUDA",
+    "desc": "In a letter to MUDA chairperson, B. K. Venkatesh Prasad, Honorary President of KSCA, stated that the cricket body is committed to ensure that the proposed facility becomes a Centre of Excellence for development of the game",
+    "img": "https://th-i.thgim.com/public/incoming/uzg5an/article71536235.ece/alternates/LANDSCAPE_1200/PTI09_18_2026_000156A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Mangalore/ksca-seeks-50-acres-of-land-in-mangaluru-to-develop-cricket-infrastructure-writes-to-muda/article71536159.ece",
+    "time": "2026-10-02T13:35:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "‘Sometimes there are blind spots’: Nihal Sarin looks back at Chess Olympiad loss",
     "desc": "Welcome to the third instalment of TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. After speaking to the two captains of the open and women's teams, we turn to Nihal Sarin, who clinched a silver medal with the open team. In an exclusive interaction, the 22-year-old looks back on the painful loss to eventual champions Uzbekistan, his miss, the memories he takes away from this Olympiad, and much more.",
     "img": "https://static.toiimg.com/photo/msid-134641004,imgsize-148320.cms",
@@ -234,15 +333,6 @@ const newsData_en = [
     "time": "2026-10-02T13:30:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "In 2011 Robert De Niro and Donald Trump started their long-running feud, which is still going",
-    "desc": "Robert De Niro's feud with Donald Trump began in 2011, stemming from Trump's controversial comments on the 'birther' conspiracy. As the years progressed, De Niro made numerous disparaging remarks about Trump during various events and speeches. Their exchanges intensified during the 2016 elections, reflecting De Niro's strong opposition to Trump's views and policies.",
-    "img": "https://static.toiimg.com/photo/msid-134637438,imgsize-250691.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2011-robert-de-niro-and-donald-trump-began-their-long-running-public-feud-how-the-goodfellas-star-became-one-of-trumps-fiercest-hollywood-critics/articleshow/134637046.cms",
-    "time": "2026-10-02T13:30:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Gold's Rs 1.5 lakh price drives buyers to silver who get 650g silver at same price",
     "desc": "At current prices, 10 grams of 24-karat gold costs around Rs 1.5 lakh, an amount that would buy approximately 650 grams of silver. With gold prices remaining prohibitively high for a large section of middle-class buyers, the white metal is steadily attracting attention. High gold prices have made the precious metal out of reach for several people.",
@@ -253,48 +343,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "IND vs WI 3rd ODI",
-    "desc": "Though the Punjab all-rounder hasn’t had a chance to bat in the first two matches, he gave a decent account himself in the previous game in Guwahati with the ball, returning figures of none for 38 in 6.1 overs, even as the Windies racked up 405 for seven.",
-    "img": "https://th-i.thgim.com/public/incoming/xvs0qn/article71537070.ece/alternates/LANDSCAPE_1200/INDIA%20WI%20PC%203.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ind-vs-wi-3rd-odi-bowled-with-a-simple-plan-saysnaman-dhir/article71537072.ece",
-    "time": "2026-10-02T13:26:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India women’s hockey team wins Asian Games gold; CJP's Abhijeet Dipke launches ‘Jail Bharo Andolan’ &amp; more",
-    "desc": "India’s women’s hockey team secured the Asian Games gold medal by defeating China 1-0 in the final. Abhijeet Dipke initiated a \"Jail Bharo Andolan\" in Mumbai over alleged electoral issues, calling for the election chief's resignation. A Flydubai mid-air incident was termed a 'terrorist act,' with praise for the Indian pilot's actions. Amarinder Singh Raja Warring resigned as Punjab Congress chief after years of leadership amid factional dissent.",
-    "img": "https://static.toiimg.com/photo/msid-134640901,imgsize-1665817.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-india-womens-hockey-team-wins-asian-games-gold-cjps-abhijeet-dipke-launches-jail-bharo-andolan-more/articleshow/134640611.cms",
-    "time": "2026-10-02T13:22:54.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "CRICKET",
     "desc": "“I feel that hunger is very important for a player. Normally, after getting to 100, you see batters get out. But when Gill was around 110-115, I felt he could probably get to 200,” says India’s batting coach",
     "img": "https://th-i.thgim.com/public/incoming/c9udw/article71532865.ece/alternates/LANDSCAPE_1200/2150_30_9_2026_21_3_44_1_INDIAODI_30092026_34.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/cricket-kotak-raves-about-gills-hunger-for-big-scores/article71532864.ece",
     "time": "2026-10-02T13:22:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'May Bapu’s timeless message keep guiding us': PM Modi pays tribute to Mahatma Gandhi, attends prayer meet",
-    "desc": "Prime Minister Narendra Modi participated in a special interfaith prayer meeting to honor Mahatma Gandhi's birth anniversary. He paid floral tributes at Gandhi Smriti and Rajghat earlier in the day. PM Modi emphasized Gandhi's ideals of truth, peace, and non-violence while urging people to adopt Swadeshi. Vice President CP Radhakrishnan also attended and remembered Gandhi's contributions to India's freedom movement.",
-    "img": "https://static.toiimg.com/photo/msid-134640194,imgsize-83744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/may-bapus-timeless-message-keep-guiding-us-pm-modi-pays-tribute-to-mahatma-gandhi-attends-prayer-meet/articleshow/134639962.cms",
-    "time": "2026-10-02T12:53:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "2 Jharkhand yoga instructors killed in Vietnam road accident; bodies to be brought back on Oct 3",
-    "desc": "Tragedy struck as two beloved yoga instructors, Raja Kumar and Vinay Kumar Rai, lost their lives in a tragic road accident in Vietnam. The financial burden of repatriating their remains prompted an outpouring of support from the local community. In a gesture of assistance, the Jharkhand government pledged Rs 5 lakh for each family.",
-    "img": "https://static.toiimg.com/photo/msid-134640120,imgsize-94251.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/2-jharkhand-yoga-instructors-killed-in-vietnam-road-accident-bodies-to-be-brought-back-on-oct-3/articleshow/134640059.cms",
-    "time": "2026-10-02T12:47:51.000Z"
   },
   {
     "cat": "Sports",
@@ -333,15 +387,6 @@ const newsData_en = [
     "time": "2026-10-02T12:13:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Mamata says stronger India must be guided by Bapu’s ideals",
-    "desc": "On Gandhi Jayanti, Mamata Banerjee paid tribute to Mahatma Gandhi, underscoring his timeless principles for strengthening India. She emphasized that his messages of truth, simplicity, and service are essential for national advancement. Additionally, Abhishek Banerjee honored Gandhi’s unwavering dedication to truth, justice, and equality. Together, they urged for an inclusive nation where respect for citizens' rights and dignity is upheld, underpinned by the guiding principles of the Constitution.",
-    "img": "https://static.toiimg.com/photo/msid-134638806,imgsize-150425.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gandhi-jayanti-mamata-says-stronger-india-must-be-guided-by-bapus-ideals/articleshow/134638680.cms",
-    "time": "2026-10-02T12:12:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Unhappy' Abhishek Sharma wants to leave SRH",
     "desc": "Abhishek Sharma's future at Sunrisers Hyderabad is in focus ahead of the IPL retention deadline, with the opener \"unhappy\" after Ishan Kishan was handed the captaincy last year and is set to continue in IPL 2027 as well because of Pat Cummins, who is likely to cut down on his franchise commitments. Mumbai Indians, Gujarat Titans and Punjab Kings are among potential destinations, while Delhi Capitals could also emerge as an option for the star batter.",
@@ -361,48 +406,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Anne Hathaway’s most romantic movies",
-    "desc": "Anne Hathaway graces the screen in a variety of romantic films that explore diverse themes of love. Her remarkable ability to embody different characters shines through, showcasing the multifaceted nature of romance. From whimsical fairy tales to intricate relationships, each movie—like Nicholas Nickleby, Ella Enchanted, and One Day—offers fresh perspectives on love's many forms. These enchanting stories invite audiences to experience the intricacies of human connection.",
-    "img": "https://static.toiimg.com/photo/msid-134635114,imgsize-1023216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/anne-hathaways-most-romantic-movies-6-on-screen-love-stories-starring-the-verity-actress-that-are-worth-rewatching/articleshow/134634466.cms",
-    "time": "2026-10-02T11:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dayanand Shetty's BLUNT remark on stars' pets reignites debate over rising entourage costs",
-    "desc": "In a recent chat with Siddharth Kannan, Dayanand Shetty voiced his thoughts on the growing trend of entourage culture in Bollywood. He observed that many stars now arrive at film shoots with their pets, accompanied by nannies and makeup teams, illustrating an extravagant lifestyle. Filmmaker Priyadarshan criticized this behavior, contrasting it with the more modest practices found in South Indian cinema.",
-    "img": "https://static.toiimg.com/photo/msid-134638189,imgsize-513329.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dayanand-shettys-blunt-remark-on-bollywood-stars-pets-reignites-the-debate-over-rising-entourage-costs-they-put-makeup-on-dogs-and-bring-nannies-to-set/articleshow/134638066.cms",
-    "time": "2026-10-02T11:26:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Dino arrested by EOW in Mithi River desilting case over loss of Rs 65.54 crore",
     "desc": "Dino Morea was arrested by Mumbai Police's Economic Offences Wing after a lengthy questioning session. His arrest is linked to the alleged Mithi River desilting scam involving financial irregularities. The BMC reportedly suffered a loss of Rs 65.54 crore from contracts awarded for the river's rejuvenation. Morea had previously been questioned in May 2025 regarding phone records connecting him to the investigation.",
     "img": "https://static.toiimg.com/photo/msid-134638140,imgsize-210074.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dino-morea-arrested-by-mumbai-polices-eow-in-mithi-river-desilting-case-over-loss-of-rs-65-54-crore-suffered-by-bmc-after-8-hours-of-questioning/articleshow/134638063.cms",
     "time": "2026-10-02T11:22:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Hanuman Ansh’ worldwide Telugu release date is HERE",
-    "desc": "The small-budget film 'Hanuman Ansh' has surpassed expectations, grossing over Rs 400 crore globally. Following its success with Hindi audiences, it is now ready for a Telugu release on October 9, 2026. Produced by the creators of 'Kantara' and 'KGF,' its narrative, expertly crafted by Vishal Chaturvedi, delves into the life of Neem Karoli Baba.",
-    "img": "https://static.toiimg.com/photo/msid-134638134,imgsize-215512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/makers-of-kantara-kgf-salaar-to-bring-telugu-release-of-hanuman-ansh-worldwide-release-on-october-9/articleshow/134638084.cms",
-    "time": "2026-10-02T11:21:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rishab Shetty marks ‘Kantara Chapter 1’ anniversary, recalls ‘unforgettable journey’",
-    "desc": "Rishab Shetty marked the one-year anniversary of 'Kantara Chapter 1' with heartfelt reflections on its significant influence. He conveyed deep appreciation for his team's unwavering support throughout the film's journey. The audience's enthusiastic reception upon its release remains a treasured moment for him. Looking ahead, Shetty aspires for ongoing backing from viewers for his upcoming endeavors. 'Kantara Chapter 1' achieved remarkable financial success, earning over Rs 622.48 crore in India.",
-    "img": "https://static.toiimg.com/photo/msid-134637486,imgsize-1414856.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/kantara-chapter-1-rishab-shetty-thanks-team-as-film-completes-one-year-recalls-films-journey-saying-that-silence-that-applause-will-always-remain-special/articleshow/134637422.cms",
-    "time": "2026-10-02T10:49:00.000Z"
   },
   {
     "cat": "Business",
@@ -423,15 +432,6 @@ const newsData_en = [
     "time": "2026-10-02T10:30:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "In 1992, Donald Trump appeared in ‘Home Alone 2’",
-    "desc": "Lost in New York', filmed at the Plaza Hotel, which he owned. Director Chris Columbus shared that Trump’s appearance was a stipulation for using the hotel. Despite its brevity, the cameo has sparked ongoing discussions and curiosity over the years, showcasing its unexpected cultural significance.",
-    "img": "https://static.toiimg.com/photo/msid-134634644,imgsize-136114.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1992-donald-trump-appeared-in-home-alone-2-how-his-brief-plaza-hotel-cameo-became-one-of-the-films-most-remembered-moments/articleshow/134634621.cms",
-    "time": "2026-10-02T10:30:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "If Trump imposes tariffs, will buying crude from Russia make economic sense for India?",
     "desc": "Russia became an unusually attractive supplier when Western buyers retreated after the war with Ukraine. Its share of Indian crude imports, below 2% before the war, expanded rapidly as discounts compensated refiners for longer supply chains. In the present day, the situation has become more complex, the new US law potentially changes the economics of India’s Russian oil purchases.",
@@ -448,24 +448,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/how-accurate-is-bengalurus-ai-traffic-enforcement-explained/article71532005.ece",
     "time": "2026-10-02T10:22:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India’s great hunt for oil: Inside the ₹84,000-crore Samudra Manthan mission",
-    "desc": "India is pushing for increased exploration of offshore oil and gas resources in various basins. The government has initiated the Samudra Manthan scheme to support these exploration efforts financially and structurally. Key basins include Mahanadi, Andaman-Nicobar, Krishna-Godavari, and Cauvery, each with significant potential. Officials emphasize the importance of infrastructure to develop discoveries efficiently and cost-effectively.",
-    "img": "https://static.toiimg.com/photo/msid-134636603,imgsize-120867.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indias-great-hunt-for-oil-inside-the-84000-crore-samudra-manthan-mission/articleshow/134636556.cms",
-    "time": "2026-10-02T10:04:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "RSS leader Ramlal",
-    "desc": "At a recent conference, RSS leader Ramlal highlighted the growing importance of women farmers in Indian agriculture. With around 5,000 participants in Delhi advocating for reforms, topics like organic farming and fair pricing took center stage. Ramlal called for policy adjustments that prioritize women farmers’ contributions, emphasizing their role in shaping the future of agriculture and traditional farming methods.",
-    "img": "https://static.toiimg.com/photo/msid-134636416,imgsize-49852.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/women-farmers-need-greater-role-in-agricultural-policymaking-rss-leader-ramlal/articleshow/134636372.cms",
-    "time": "2026-10-02T10:00:22.000Z"
   },
   {
     "cat": "Sports",
@@ -522,17 +504,8 @@ const newsData_en = [
     "time": "2026-10-02T09:05:31.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Full respect' for India: Carlo Ancelotti's big message before Brazil clash",
-    "desc": "Brazil's head coach Carlo Ancelotti looks forward to an entertaining match against India on Saturday. He emphasizes full respect for the Indian team, which recently drew against Panama. Ancelotti views the game as an opportunity to assess Brazil's squad, focusing on players' quality and commitment. New team members are integrating well as the squad prepares for upcoming challenges.",
-    "img": "https://static.toiimg.com/photo/msid-134635422,imgsize-123360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/full-respect-for-india-carlo-ancelottis-big-message-before-brazil-clash/articleshow/134635366.cms",
-    "time": "2026-10-02T08:40:43.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "'Drishyam 3' box office collection day 1 (LIVE)",
+    "title": "'Drishyam 3' box office collection day 1 (LIVE): Biggest opener of Ajay's career",
     "desc": "The Conclusion', which premiered in cinemas on October 2. On opening day, the film achieved a net collection of Rs 2.85 crore across 1,210 screens in India. With advance sales generating considerable excitement, the film has amassed a gross of Rs 60.17 crore so far. Early audience feedback praises the gripping performances and suspense, which are key to its favorable reviews.",
     "img": "https://static.toiimg.com/photo/msid-134635486,imgsize-284207.cms",
     "src": "indiatimes.com",
@@ -774,15 +747,6 @@ const newsData_en = [
     "time": "2026-10-01T12:32:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "India’s Manu Francis and Prince Kurisinkal Noble clinch men’s skiff silver in Asiad Sailing",
-    "desc": "The Indians managed to win race 3 and finish second in races 1, 5 and 9 during the competition. China, on the other hand, emerged on top in four races to end up as the best-placed side",
-    "img": "https://th-i.thgim.com/public/incoming/rnitfo/article71532602.ece/alternates/LANDSCAPE_1200/2026-09-30T045631Z_191827385_UP1EM9U0DQ5MY_RTRMADP_3_GAMES-ASIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/indias-manu-francis-and-prince-kurisinkal-noble-clinch-mens-skiff-silver-in-asiad-sailing/article71532571.ece",
-    "time": "2026-10-01T11:31:17.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.K. PM says 'strong indications' Iran involved in airbase incident",
     "desc": "Mr. Burnham's comments are the first official confirmation from U.K. authorities that Iran may have had a hand in the incident, which saw three white vans appearing to head towards RAF Fairford in the early hours of Sunday.",
@@ -826,15 +790,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/japan-forms-first-national-intelligence-agency-eyes-its-own-cia/article71529027.ece",
     "time": "2026-09-30T18:44:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "The significance of the Cardiff MoU",
-    "desc": "The Memorandum of Understanding signals growing demands for autonomy in Scotland, Wales and Northern Ireland, though their constitutional goals differ; it also calls for closer ties with the EU, putting pressure on Westminster to address their aspirations",
-    "img": "https://th-i.thgim.com/public/incoming/ymrzhg/article71530043.ece/alternates/LANDSCAPE_1200/Britain_Devolved_Government_516_7.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/the-significance-of-the-cardiff-mou/article71528469.ece",
-    "time": "2026-09-30T17:18:40.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/when-fortran-ran-for-the-first-time/article71450877.ece",
     "time": "2026-09-30T07:23:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "This new photo book delves into the film culture of a working-class neighbourhood in Bengaluru",
+    "desc": "Cinema, Memory, and Leisure in Laggere, a photo-illustrated essay book by Eshwari and Mahima explores ing how cinema is experienced in Laggere, is the outcome of the India Foundation for the Arts’ Project 560 programme",
+    "img": "https://th-i.thgim.com/public/life-and-style/gdfexi/article71522492.ece/alternates/LANDSCAPE_1200/Film%20culture%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/real-or-reel-this-new-photo-book-delves-into-the-film-culture-of-a-working-class-neighbourhood-in-bengaluru/article71522486.ece",
+    "time": "2026-09-30T05:13:18.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "What does it take to obtain justice for cybercrime?",
+    "desc": "The Status of Policing in India Report (SPIR) 2026, based on a survey by Lokniti-CSDS and Common Cause across 16 States, examines two factors that enable the progress of redressal in cybercrime complaints – bribery and using the influence of personal network; both channels are used more often, and appear to work more for the victims from marginalised groups",
+    "img": "https://th-i.thgim.com/public/incoming/hnqw6l/article71525557.ece/alternates/LANDSCAPE_1200/PF_Alerts_pictuG31G21OL5.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/what-does-it-take-to-obtain-justice-for-cybercrime/article71525555.ece",
+    "time": "2026-09-29T18:03:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Who is the most vulnerable to cyber frauds?",
+    "desc": "Amid deeper integration into the digital ecosystem, cybercrime cases rose 17.9% nationally, to 1,01,928 in 2024; respondents who spent more time online were more likely to be targeted by fraudsters, while financial fraud was more closely linked to social and economic status, with wealthier and more educated respondents more likely to report being victims",
+    "img": "https://th-i.thgim.com/public/incoming/7c0h01/article71525546.ece/alternates/LANDSCAPE_1200/iStock-157619625%202.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/who-is-the-most-vulnerable-to-cyber-frauds/article71525547.ece",
+    "time": "2026-09-29T17:58:18.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Amazon v. Perplexity: who’s in control when an AI agent acts for you?",
+    "desc": "In India, where e-commerce, automated consumer services, and AI adoption are all expanding rapidly, the legal dispute between Amazon.com and Perplexity AI offers a useful, if also imperfect, template to think about platform governance and intermediary liability",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/be9gar/article70061449.ece/alternates/LANDSCAPE_1200/igor-omilaev-FHgWFzDDAOs-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/amazon-v-perplexity-whos-in-control-when-an-ai-agent-acts-for-you/article71523202.ece",
+    "time": "2026-09-29T09:20:21.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Indian non-profits lag on digital maturity, AI adoption: report",
+    "desc": "The Digital for Nonprofits (D4NP) report, released in New Delhi, finds non-profits scoring below 50% on digital maturity and largely failing to tap free online advertising grants—despite growing interest in large language models to aid reports and marketing",
+    "img": "https://th-i.thgim.com/public/news/national/ak8493/article71512309.ece/alternates/LANDSCAPE_1200/iStock-2206209980.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/indian-non-profits-lag-on-digital-maturity-ai-adoption-report/article71512189.ece",
+    "time": "2026-09-27T11:17:41.000Z"
   }
 ];
