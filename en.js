@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Baththa' BO day 1: Vijay Sethupathi film earns Rs 1.50cr",
+    "desc": "Vijay Sethupathi's film 'Baththa' made a grand debut in theaters on October 1, where it amassed Rs 1.50 crore on its opening day. By the end of the first day, its total gross in India reached Rs 1.73 crore, generating 129,524 attendees. The film primarily thrived in Tamil Nadu, contributing Rs 1.50 crore to its earnings.",
+    "img": "https://static.toiimg.com/photo/msid-134629774,imgsize-373841.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/baththa-box-office-collection-day-1-vijay-sethupathi-film-earns-rs-1-50cr-opens-at-24-occupancy/articleshow/134629770.cms",
+    "time": "2026-10-02T00:20:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Vvan",
+    "desc": "The Vvan - Force of the Forrest has collected Rs 53.50cr net in India during its first week. It recorded a slight increase in collections on Day 7 with Rs 4.40cr. The movie opened strongly with Rs 8.00cr on its first day and reached a weekend total of Rs 33.60cr. Its performances have been buoyed by a significant number of showings across India.",
+    "img": "https://static.toiimg.com/photo/msid-134629756,imgsize-374400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-vvan-force-of-the-forrest-day-7-box-office-collection-sidharth-malhotra-tamannaah-bhatias-film-earns-rs-4-40cr-india-net-reaches-rs-53-50cr-worldwide-gross-stands-at-rs-69-07cr/articleshow/134629697.cms",
+    "time": "2026-10-02T00:15:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Paradise' BO day 8: Nani film earns Rs 3.30cr",
+    "desc": "Nani's film 'The Paradise' collected Rs 3.30 crore on its eighth day, elevating its total to Rs 108.20 crore in India. After eight days, the movie's worldwide gross has reached Rs 158.60 crore, including Rs 30.85 crore from overseas markets. The film received mixed reviews, yet it crossed the Rs 100 crore mark within its first week. Audience reactions have varied significantly, with some expressing strong emotions regarding their opinions.",
+    "img": "https://static.toiimg.com/photo/msid-134629730,imgsize-416470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-box-office-collection-day-8-nani-film-earns-rs-3-30cr-india-net-reaches-rs-108-20cr-worldwide-gross-hits-rs-158-60cr/articleshow/134629726.cms",
+    "time": "2026-10-02T00:02:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jim Carrey lists $35 million Maui mansion after secretly marrying Min Ah",
+    "desc": "Jim Carrey has listed his 4,000-square-foot Maui mansion for $35 million shortly after People confirmed his private marriage to longtime girlfriend Min Ah. The oceanfront estate sits on nearly an acre along Keawakapu Beach, with around 170 feet of beach frontage, a guest house, freeform pool, spa and luxury interiors designed by Ike Kligerman Barkley.",
+    "img": "https://static.toiimg.com/photo/msid-134629433,imgsize-142432.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jim-carrey-lists-35-million-maui-mansion-after-secretly-marrying-longtime-girlfriend-min-ah-4000-sq-ft-oceanfront-estate-features-private-beach-frontage-pool-and-guest-house/articleshow/134629422.cms",
+    "time": "2026-10-01T22:34:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Tax raid finds Rs 4.34 lakh forex; man wins ITAT case with sister-in-law’s help",
+    "desc": "During the operation, officials discovered Rs 1.12 crore in Indian currency and foreign currency worth Rs 4.34 lakh. The man was subsequently taken in for questioning by the tax authorities. Despite the investigation team's acceptance of the explanation, the AO treated both the Indian cash and foreign currency recovered during the search as unexplained money under Section 69A.",
+    "img": "https://static.toiimg.com/photo/msid-134622280,imgsize-332548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/tax-raid-finds-rs-1-12-crore-cash-and-rs-4-34-lakh-foreign-currency-at-delhi-mans-home-he-fights-case-twice-sister-in-laws-explanation-helps-brother-in-law-win-itat-battle/articleshow/134622084.cms",
+    "time": "2026-10-01T21:20:00.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Govt. caps sugar stock limit for dealers to 1,000 quintals ahead of festive season",
     "desc": "The Food Ministry said the objective of the amended rules was to “ensure that there is no unnecessary accumulation of sugar in the distribution chain” and that the supply of sugar from mills through dealers to the consumer remained “smooth”",
@@ -171,15 +216,6 @@ const newsData_en = [
     "time": "2026-10-01T15:53:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "YSRCP, Left parties flay govt.’s ‘flawed approach’ to BC reservation issue",
-    "desc": "Following High Court striking down 34% BC quota, leaders of the opposition parties accuse State govt. of not trying for a Constitutional amendment in spite of being aware of legal hurdles in crossing 50% overall ceiling",
-    "img": "https://th-i.thgim.com/public/incoming/n7wm67/article71534049.ece/alternates/LANDSCAPE_1200/VSP30_DHARMANA%2022.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-left-parties-flay-govts-flawed-approach-to-bc-reservation-issue/article71533275.ece",
-    "time": "2026-10-01T15:46:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "BMW left overnight after puncture, found burnt; insurer rejects claim, commission orders Rs 70L",
     "desc": "According to the complaint filed by the man, he left the BMW on the highway overnight after it suffered a puncture. However, the next morning the vehicle was found to be completely burnt. The incident was subsequently recorded by the local police and fire department. The BMW carried an Insured Declared Value (IDV) of Rs 70,00,000, while the had paid an insurance premium of Rs 1,65,996 for the policy.",
@@ -196,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-recreates-iconic-underwear-dance-from-risky-business-dance-on-the-jennifer-hudson-show-while-promoting-digger-i-remember-every-frame-of-shooting-this/articleshow/134622371.cms",
     "time": "2026-10-01T15:09:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Don't want BJP to come': AIMIM's Owaisi leaves door open for alliance ahead of 2027 UP elections",
-    "desc": "AIMIM chief Asaduddin Owaisi stated his party is willing to form alliances in Uttar Pradesh. This decision comes ahead of the upcoming Assembly elections scheduled for early next year. Owaisi emphasized the importance of preventing the BJP from securing a third consecutive term. He also criticized the implementation of the Uniform Civil Code in various states as discriminatory.",
-    "img": "https://static.toiimg.com/photo/msid-134622216,imgsize-862349.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dont-want-bjp-to-come-aimims-owaisi-leaves-door-open-for-alliance-ahead-of-2027-up-elections/articleshow/134622055.cms",
-    "time": "2026-10-01T14:44:40.000Z"
   },
   {
     "cat": "Sports",
@@ -234,15 +261,6 @@ const newsData_en = [
     "time": "2026-10-01T14:31:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Speaking, smiling &amp; laughing': Indian envoy gives update on injured flydubai pilot Smit Machchhar's health",
-    "desc": "Indian ambassador Deepak Mittal visited Captain Smit Machchhar at the hospital following the stabbing incident. Captain Machchhar was attacked by his co-pilot while flying from Dubai to Tel Aviv. After the initial treatment in Saudi Arabia, he was airlifted to Abu Dhabi for further medical care. Passengers and two other pilots helped to restrain the attacker and safely landed the flight.",
-    "img": "https://static.toiimg.com/photo/msid-134621858,imgsize-42086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/in-good-health-recovering-well-indian-ambassador-meets-injured-flydubai-pilot-smit-machchhar/articleshow/134621513.cms",
-    "time": "2026-10-01T14:23:51.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Divya slams Govinda's rumoured girlfriend Komal's sindoor during Lalbaughcha Raja visit",
     "desc": "Divya Khossla has raised questions regarding Govinda and Komal Rani's recent visit to Lalbaugcha Raja, particularly questioning the religious implications of Komal's use of sindoor. The duo's appearance sparked rumors of a secret wedding, igniting discussions on social media. Divya underscored the need for sensitivity toward religious symbols, emphasizing the balance between personal expressions and cultural values after a video statement from Sunita Ahuja about the incident.",
@@ -259,24 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nicolas-cage-says-mcu-has-lost-its-sheen-its-becoming-a-well-funded-and-glorified-wwe/articleshow/134621406.cms",
     "time": "2026-10-01T14:05:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Full-body scanners at airports: Govt tests tech &amp; algorithms to address privacy concerns before wider rollout",
-    "desc": "India's aviation security authority is currently conducting trials of full-body scanners at Bengaluru and Cochin airports to collect critical data. These scanners are being adapted to reflect common Indian customs regarding jewelry and attire. Results from these trials will inform whether they are implemented across eight specified airports. Furthermore, Indian officials are assessing a recent incident involving a Flydubai pilot injury, with potential security advisories to follow internal consultations.",
-    "img": "https://static.toiimg.com/photo/msid-134621447,imgsize-70484.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/full-body-scanners-at-airports-govt-tests-tech-algorithms-to-address-privacy-concerns-before-wider-rollout/articleshow/134620943.cms",
-    "time": "2026-10-01T14:04:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "MCD",
-    "desc": "The Municipal Corporation of Delhi plans to deploy 70 new road-sweeping machines by mid-November. This fleet will include 15 CNG-powered and 55 electric vehicles for better efficiency. MCD Commissioner Sanjeev Khirwar is overseeing the field trials of these machines in the city. These self-propelled machines are imported from Europe and aimed at reducing dust pollution. The initiative is supported by the Delhi government's environment department to improve road cleanliness.",
-    "img": "https://static.toiimg.com/photo/msid-134621398,imgsize-124899.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-roads-to-get-70-new-mechanised-sweepers-from-november-mcd/articleshow/134621083.cms",
-    "time": "2026-10-01T14:03:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,15 +342,6 @@ const newsData_en = [
     "time": "2026-10-01T13:09:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "New liquor shops in Bengal must maintain 500-metre gap from schools, religious places",
-    "desc": "In a bid to regulate the liquor trade, the West Bengal government has raised the distance criteria for new liquor outlets from educational institutions and places of worship. Urban areas will now need to maintain a 500-meter distance, while rural areas must ensure a full kilometer. Existing outlets remain unaffected by these changes, which also grant provisions for relocating under specific circumstances.",
-    "img": "https://static.toiimg.com/photo/msid-134619055,imgsize-75462.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/new-liquor-shops-in-bengal-must-maintain-500-metre-gap-from-schools-religious-places/articleshow/134618267.cms",
-    "time": "2026-10-01T12:58:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gill combines beauty with responsibility in pursuit of greatness",
     "desc": "The Indian captain appears to relish the challenge of being the set batter who carries the innings through; he seems to have discovered that the shortest distance between himself and greatness is simply to keep batting",
@@ -414,15 +405,6 @@ const newsData_en = [
     "time": "2026-10-01T11:58:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Show me one damaged vehicle': Nitin Gadkari's dare on ethanol blending, targets vested interests",
-    "desc": "Union minister Nitin Gadkari highlighted the advantages of the ethanol-blending program during the Bihar Investor Summit 2026. He stated that millions of vehicles have been operating on ethanol-blended petrol since 2022 without significant complaints. Gadkari emphasized that farmers can benefit financially from diversifying into ethanol production from agricultural products. He urged investors to consider Bihar's potential in various sectors, including tourism and agriculture.",
-    "img": "https://static.toiimg.com/photo/msid-134617819,imgsize-492217.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/show-me-one-damaged-vehicle-nitin-gadkaris-dare-on-ethanol-blending-targets-vested-interests/articleshow/134617029.cms",
-    "time": "2026-10-01T11:43:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India’s Manu Francis and Prince Kurisinkal Noble clinch men’s skiff silver in Asiad Sailing",
     "desc": "The Indians managed to win race 3 and finish second in races 1, 5 and 9 during the competition. China, on the other hand, emerged on top in four races to end up as the best-placed side",
@@ -448,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nithilan-saminathan-calls-vijay-sethupathi-starrer-baththa-a-beautiful-film-puri-jagannadh-praises-his-choices-actor-who-chooses-stories-that-bring-out-something-new/articleshow/134617172.cms",
     "time": "2026-10-01T11:21:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Himachal implements mandatory dress code for teachers in government CBSE schools",
-    "desc": "Himachal Pradesh has introduced a mandatory dress code for teachers in 148 government CBSE schools. The dress code aims to enhance professionalism and uniformity among educators while catering to local climatic conditions. Female teachers have multiple attire options, while male teachers have a single formal requirement. The state also plans to establish 100 new CBSE schools and has filled around 2,000 teaching posts.",
-    "img": "https://static.toiimg.com/photo/msid-134617253,imgsize-95174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/himachal-implements-mandatory-dress-code-for-teachers-in-government-cbse-schools/articleshow/134617151.cms",
-    "time": "2026-10-01T11:20:47.000Z"
   },
   {
     "cat": "Sports",
@@ -486,15 +459,6 @@ const newsData_en = [
     "time": "2026-10-01T11:03:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Few responsibilities in a civilised society are as profound as that entrusted to a doctor, says SC, while cancelling Ramesh Mhatre’s bail",
-    "desc": "In a significant move, the Supreme Court of India has revoked the bail of Ramesh Mhatre, a 73-year-old municipal corporator, following his arrest for allegedly attacking medical professionals. Initially granted bail in July, Mhatre's case was revisited owing to reservations expressed by the High Court regarding the broader implications for democracy.",
-    "img": "https://static.toiimg.com/photo/msid-134616642,imgsize-68174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/few-responsibilities-in-a-civilised-society-are-as-profound-as-that-entrusted-to-a-doctor-says-sc-while-cancelling-ramesh-mhatres-bail/articleshow/134616432.cms",
-    "time": "2026-10-01T11:00:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Channel unveils first mytho-fiction promo",
     "desc": "The channels have announced a mytho-fiction series inspired by Neem Karoli Baba, releasing a first promo. The premiere date and cast remain undisclosed. The announcement follows \"Hanuman Ansh,\" a biographical drama that released August 7 and has crossed Rs 400 crore worldwide despite a tiny budget.",
@@ -514,21 +478,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Jim Carrey gets married for the third time, secretly ties the knot with longtime girlfriend",
-    "desc": "Jim Carrey has taken a significant step by marrying Min Ah, his girlfriend of several years, in a discreet ceremony shrouded in privacy. The couple's relationship initially escaped public attention, but Carrey acknowledged her as his inspiring partner during an award speech in France. Having been married twice previously, he now aims for a calmer life focused on creativity, contemplating a possible break from acting.",
-    "img": "https://static.toiimg.com/photo/msid-134615945,imgsize-163815.cms",
+    "title": "Motivational quote of the day by Charlie Chaplin",
+    "desc": "Charlie Chaplin's quote encourages individuals to focus on hope and possibilities rather than difficulties. He highlights the importance of changing perspective to see potential opportunities. Chaplin's life experiences, marked by early poverty, influenced his artistic expressions and legacy. He is known for creating the iconic character, the Little Tramp, during the silent-film era. His contributions to cinema include acting, directing, and scoring music for various films.",
+    "img": "https://static.toiimg.com/photo/msid-134613025,imgsize-38997.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jim-carrey-secretly-gets-married-for-the-third-time-the-64-year-old-actor-ties-the-knot-with-his-longtime-girlfriend-min-ah-in-a-private-ceremony-in-la/articleshow/134615750.cms",
-    "time": "2026-10-01T10:36:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Naga Vamsi confirms Venkatesh’s ‘Aadarsha Kutumbam’ trailer release on Oct 6",
-    "desc": "47' is set to hit theaters on October 9. Naga Vamsi has confirmed the trailer release on October 6 and advance bookings starting on October 7. The film will combine family comedy with elements of drama, action, and suspense. Venkatesh plays the lead role, supported by an ensemble cast including Srinidhi Shetty and Nara Rohith.",
-    "img": "https://static.toiimg.com/photo/msid-134616023,imgsize-1054781.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/venkateshs-aadarsha-kutumbam-house-no-47-release-date-confirmed-for-october-9-as-naga-vamsi-announces-october-6-trailer-launch/articleshow/134615480.cms",
-    "time": "2026-10-01T10:34:49.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/motivational-quote-of-the-day-by-charlie-chaplin-youll-never-find-a-rainbow-if-youre-looking-down-a-powerful-reminder-to-keep-looking-up-and-stay-hopeful/articleshow/134612976.cms",
+    "time": "2026-10-01T10:30:00.000Z"
   },
   {
     "cat": "Business",
@@ -538,24 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/anthropics-ai-paradox-more-powerful-systems-could-mean-bigger-risks-to-humanity/articleshow/134615641.cms",
     "time": "2026-10-01T10:27:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Drishyam 3' advance box office collection",
-    "desc": "The Conclusion is releasing on October 2 and has already shown impressive numbers in advance bookings. It is expected to earn between Rs 45 crore to Rs 55 crore on the first day. The film will potentially compete with Ajay Devgn's existing record for the highest opener. Additionally, it is one of the widest overseas releases for Ajay Devgn, reaching 1,300 screens across 60 countries.",
-    "img": "https://static.toiimg.com/photo/msid-134614789,imgsize-150958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/drishyam-3-advance-box-office-collection-the-ajay-devgn-tabu-film-collects-rs-38-crore-for-the-extended-opening-weekend-through-advance-ticket-sales/articleshow/134614646.cms",
-    "time": "2026-10-01T09:49:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nushrratt hospitalised after work trip accident",
-    "desc": "Nushrratt Bharuccha is reportedly hospitalised in Bali after an accident during a work trip, with details of her injury undisclosed. She has extended her stay. Meanwhile, she has joined Tiger Shroff's Remo D'Souza-directed action film, her first collaboration with him, and was last seen in \"Ufff Yeh Siyapaa.\"",
-    "img": "https://static.toiimg.com/photo/msid-134614688,imgsize-324922.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nushrratt-bharuccha-suffers-injury-in-bali-and-currently-recovering-in-hospital-after-accident-while-shooting-for-work-commitment-nature-of-injury-remains-unknown-report/articleshow/134614541.cms",
-    "time": "2026-10-01T09:46:08.000Z"
   },
   {
     "cat": "Sports",
@@ -583,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/why-is-sensex-crashing-rs-9-lakh-crore-wiped-out-as-dalal-street-heads-for-worst-week-in-25-years/articleshow/134613883.cms",
     "time": "2026-10-01T09:20:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actor shares romantic post for Saba",
-    "desc": "Hrithik Roshan and Saba Azad are celebrating five years together. On October 1, Hrithik shared romantic vacation photos on Instagram with the note \"HAPPY 5th my love.\" The couple went public in 2022. Hrithik, formerly married to Sussanne Khan, was last seen in \"War 2\"; Saba in \"Bandar.\"",
-    "img": "https://static.toiimg.com/photo/msid-134614150,imgsize-418606.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/its-our-birthday-hrithik-roshan-celebrates-5-years-with-partner-saba-azad-shares-loved-up-vacation-photos-and-heartfelt-anniversary-note/articleshow/134614150.cms",
-    "time": "2026-10-01T09:19:15.000Z"
   },
   {
     "cat": "Sports",
@@ -783,15 +711,6 @@ const newsData_en = [
     "time": "2026-09-30T14:38:58.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Mother and nominee son died; bank delayed funds to father, ordered to pay Rs 15,000",
-    "desc": "A woman had Rs 62,541 in her savings account. Her son was registered as the nominee. Both the mother and son passed away, leaving her 83-year-old husband as the only surviving member of the family. The man was a farmer and was not very familiar with English.",
-    "img": "https://static.toiimg.com/photo/msid-134591628,imgsize-341184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/mother-nominated-son-for-savings-account-but-both-died-farmer-father-faced-long-delays-got-money-but-lodged-a-compliant-consumer-commission-orders-bank-to-pay-rs-15000-relief/articleshow/134590731.cms",
-    "time": "2026-09-30T14:37:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "a creative mind that enriched Tamil cinema with philosophical songs",
     "desc": "Kannadasan, whose birth centenary is being celebrated, was born as Muthaiah at Sirukoodalpatti in present day Sivaganga district. An atheist in his early years while active in the Dravidian movement, the Tamil poet later turned spiritual.",
@@ -898,5 +817,86 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/who-is-the-most-vulnerable-to-cyber-frauds/article71525547.ece",
     "time": "2026-09-29T17:58:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Tata Trusts within right to seek merger, but Tata Sons can challenge: Lawyer",
+    "desc": "The proposed restructuring aims to take Tata Sons out from NBFC/CIC framework. Whether that objective could be achieved depend on final structure and RBI’s assessment, not on unilateral decision by Tata Trusts or Tata Sons",
+    "img": "https://th-i.thgim.com/public/incoming/sfo7l6/article71524654.ece/alternates/LANDSCAPE_1200/Tata-Trusts-proGJQGJFT9Q.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/tata-trusts-within-right-to-seek-merger-but-tata-sons-can-challenge-lawyer/article71524163.ece",
+    "time": "2026-09-29T14:17:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ZEISS Group sees India’s tough operating terrain as global test lab",
+    "desc": "For ZEISS, India’s toughest conditions may become the proving ground for some of the world’s most resilient precision technologies; Chennai facility would go beyond being an R&D centre to become part of its global innovation network",
+    "img": "https://th-i.thgim.com/public/business/g5yx2x/article71523825.ece/alternates/LANDSCAPE_1200/Andreas%20Pecher%20President%20%20CEO%20ZEISS%20Group.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/zeiss-group-sees-indias-tough-operating-terrain-as-global-test-lab/article71520655.ece",
+    "time": "2026-09-29T13:09:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Transpersons speak out against online backlash over Tamil movie ‘Dorothy’",
+    "desc": "They say the film showcases the lived experiences of members of the community and request the public to see the good intentions of the film. The movie, which was released on September 25, faced homophobic and transphobic backlash online",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/37lna9/article71521121.ece/alternates/LANDSCAPE_1200/Transpersons.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/transpersons-speak-out-against-online-backlash-overdorothy/article71520992.ece",
+    "time": "2026-09-29T10:26:25.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Amazon v. Perplexity: who’s in control when an AI agent acts for you?",
+    "desc": "In India, where e-commerce, automated consumer services, and AI adoption are all expanding rapidly, the legal dispute between Amazon.com and Perplexity AI offers a useful, if also imperfect, template to think about platform governance and intermediary liability",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/be9gar/article70061449.ece/alternates/LANDSCAPE_1200/igor-omilaev-FHgWFzDDAOs-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/amazon-v-perplexity-whos-in-control-when-an-ai-agent-acts-for-you/article71523202.ece",
+    "time": "2026-09-29T09:20:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rima Das on ‘Village Rockstars 2’ and the state of independent cinema",
+    "desc": "The acclaimed Assamese filmmaker opens up about the delayed theatrical release of ‘Village Rockstars 2’, making films featuring children and nature, the need to build a better system to support cinema from the Northeast and more.",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/l2cvt3/article71519458.ece/alternates/LANDSCAPE_1200/Rima%20Das%20and%20a%20still%20from%20%E2%80%98Village%20Rockstars%202%E2%80%99",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/rima-das-on-village-rockstars-2-and-the-state-of-independent-cinema/article71519326.ece",
+    "time": "2026-09-29T05:49:18.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Indian non-profits lag on digital maturity, AI adoption: report",
+    "desc": "The Digital for Nonprofits (D4NP) report, released in New Delhi, finds non-profits scoring below 50% on digital maturity and largely failing to tap free online advertising grants—despite growing interest in large language models to aid reports and marketing",
+    "img": "https://th-i.thgim.com/public/news/national/ak8493/article71512309.ece/alternates/LANDSCAPE_1200/iStock-2206209980.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/indian-non-profits-lag-on-digital-maturity-ai-adoption-report/article71512189.ece",
+    "time": "2026-09-27T11:17:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit: Beijing",
+    "desc": "The two countries established a “U.S.-China Super Intelligence (SI) Dialogue to exchange views on risks and benefits” of AI, the White House said in a fact sheet, noting that their leaders had agreed to use the term SI rather than AI.",
+    "img": "https://th-i.thgim.com/public/incoming/rcniue/article71511781.ece/alternates/LANDSCAPE_1200/AP09_26_2026_000002B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-china-to-set-up-communication-channel-for-ai-incidents/article71511753.ece",
+    "time": "2026-09-26T11:53:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "OpenAI works to understand full scope of agent activity as user data leak emerges",
+    "desc": "OpenAI said that ‌its models accessed information from the websites of the U.S. Securities and Exchange Commission and the U.S. Census Bureau during research and training activity, but found no evidence of unauthorised access, compromised accounts or security breaches",
+    "img": "https://th-i.thgim.com/public/incoming/egcz7s/article71511523.ece/alternates/LANDSCAPE_1200/Open_AI_Safety__4766.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/openai-works-to-understand-full-scope-of-agent-activity-as-user-data-leak-emerges/article71511499.ece",
+    "time": "2026-09-26T07:53:21.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why is New York City pausing some AI tools in schools?",
+    "desc": "The Mayor of New York Zohran Mamdani and Schools Chancellor Kamar H. Samuels on September 2 imposed a one-year moratorium on student-facing generative AI for pupils up to eighth grade for the 2026–27 academic year",
+    "img": "https://th-i.thgim.com/public/incoming/cccz31/article71431324.ece/alternates/LANDSCAPE_1200/2026-09-01T002353Z_1057454928_RC2Z9NACQU2O_RTRMADP_3_USA-SHOOTING-NEW-YORK.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
+    "time": "2026-09-25T11:46:16.000Z"
   }
 ];
