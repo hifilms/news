@@ -1,6 +1,159 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Madurantakam by-election: Will the AIADMK ‘bastion’ fall to TVK’s growing popularity?",
+    "desc": "Maragatham Kumaravel, a former AIADMK leader, now seeks re-election as the TVK’s candidate after resigning as AIADMK MLA barely three weeks after the 2026 result; while some voters are undecided, some say they may not vote for the TVK despite the CM’s popularity",
+    "img": "https://th-i.thgim.com/public/incoming/qhqfml/article71541193.ece/alternates/LANDSCAPE_1200/BVR_4523.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/madurantakam-by-election-will-the-aiadmk-bastion-fall-to-tvks-growing-popularity/article71540871.ece",
+    "time": "2026-10-03T19:20:54.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Women declare #IamJaneDoe in solidarity with Cornell University rape victim",
+    "desc": "And although ‌New York law allows “Jane Doe” anonymity for sexual assault lawsuits, the Cornell student has become distressed at attempts by some ​online skeptics of her account to discover her name and publish it",
+    "img": "https://th-i.thgim.com/public/incoming/fzjyt0/article71541835.ece/alternates/LANDSCAPE_1200/2026-10-02T000819Z_748056789_RC2KUNA4BXUC_RTRMADP_3_USA-CRIME-CORNELL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/women-declare-iamjanedoe-in-solidarity-with-cornell-university-rape-victim/article71541829.ece",
+    "time": "2026-10-03T19:16:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rakhi Sawant slams Govinda's rumoured girlfriend Komal, calls her 'pati chor'",
+    "desc": "In a recent outburst, Rakhi Sawant has openly chastised Govinda for his supposed link to actress Komal Rani Swarnkar, expressing her frustration over his actions and claiming that the public feels similarly let down. Rakhi also targeted Komal, questioning her familiarity with various celebrities and previous statements about them. While emphasizing her long-time respect for Govinda, she made light of her past financial investments in his movies.",
+    "img": "https://static.toiimg.com/photo/msid-134664966,imgsize-299848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakhi-sawant-slams-govindas-rumoured-girlfriend-komal-rani-swarnkar-calls-her-pati-chor-main-sunita-nai-hu-teri-dhajjiyan-udaa-degi/articleshow/134664878.cms",
+    "time": "2026-10-03T18:53:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kozhikode under active consideration, says Satheesan",
+    "desc": "M.K. Raghavan, MP, and three MLAs urge the Chief Minister to establish the institute at Kinalur, citing the shortage of tertiary healthcare facilities in Malabar. They have expressed concern over reports that other locations are being considered for the project.",
+    "img": "https://th-i.thgim.com/public/incoming/ha5w3r/article71541807.ece/alternates/LANDSCAPE_1200/Reimagining-KerGPCGK2O85.5.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/aiims-for-keralam-kozhikode-under-active-consideration-says-satheesan/article71540835.ece",
+    "time": "2026-10-03T18:36:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Work on organ transplant institute in Kozhikode to be completed in 30 months, says Satheesan",
+    "desc": "Chief Minister V.D. Satheesan says that ₹271 crore is being set aside for the institute coming up on a 20-acre plot in Chevayur. All services related to organ transplantation will be brought under one roof to reduce the cost of surgery to one-third.",
+    "img": "https://th-i.thgim.com/public/incoming/g1yq97/article71541290.ece/alternates/LANDSCAPE_1200/80692_3_10_2026_18_41_15_1_04TVKZVDSATHEESAN1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/work-on-organ-transplant-institute-in-kozhikode-to-be-completed-in-30-months-says-satheesan/article71540750.ece",
+    "time": "2026-10-03T17:39:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ajay Devgn calls Captain Smit Machchhar a hero in every sense of the word",
+    "desc": "Bollywood icons such as Ajay Devgn and Shah Rukh Khan have lauded Captain Smit Machchhar for his incredible bravery following a harrowing incident on a Boeing 737 MAX 8. Despite being assaulted by his co-pilot with 174 souls on board, Captain Machchhar heroically opened the cockpit door, enabling passengers to assist.",
+    "img": "https://static.toiimg.com/photo/msid-134664041,imgsize-381638.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgn-calls-captain-smit-machchhar-a-hero-in-every-sense-of-the-word-wishes-him-a-speedy-recovery-a-true-display-of-courage-and-duty/articleshow/134663929.cms",
+    "time": "2026-10-03T17:38:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India 0-4 Brazil: Brazil’s class overwhelms Blue Tigers in historic Kolkata clash",
+    "desc": "India held Brazil to a competitive opening 27 minutes at Salt Lake Stadium before Brazil’s quality took over. Estevao opened the scoring, Pedro doubled the lead before half-time, and Samuel Lino added two second-half goals. Despite creating chances, India ultimately lost 4-0. The match offered valuable experience ahead of their October 6 clash with Uruguay.",
+    "img": "https://static.toiimg.com/photo/msid-134663158,imgsize-4536262.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/india-0-4-brazil-five-time-champions-prove-too-much-for-blue-tigers-in-historic-kolkata-friendly/articleshow/134662961.cms",
+    "time": "2026-10-03T17:34:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Russia to take 70,000 Indian skilled workers this year, Jaishankar tells panel",
+    "desc": "External Affairs Minister S Jaishankar briefed a parliamentary committee on India's engagement with Russia and Ukraine. He highlighted bilateral trade expansion and India's aim to send skilled workers. The minister discussed India's diplomatic efforts to facilitate dialogue for ending the Ukraine conflict. Additionally, he noted the government's initiatives to release Indian nationals in the Russian military. Jaishankar emphasized India's commitment to secure economic interests and safeguard Indian citizens abroad.",
+    "img": "https://static.toiimg.com/photo/msid-134663805,imgsize-161682.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/russia-to-take-70000-indian-skilled-workers-this-year-jaishankar-tells-panel/articleshow/134663757.cms",
+    "time": "2026-10-03T17:20:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman was removed from school for not paying fees, earned Rs 75 as a background dancer",
+    "desc": "Salman Khan, now one of India’s wealthiest actors, faced financial challenges during his childhood years. His father, Salim Khan, struggled as a newcomer in the film industry and often faced payment issues. Salman recalled punishments at school due to delayed fee payments, later reflecting on a lack of opportunities post his breakout film. His early experiences include working as an assistant director and earning meager amounts as a background dancer.",
+    "img": "https://static.toiimg.com/photo/msid-134663487,imgsize-403786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-was-thrown-out-of-school-for-not-paying-fees-earned-rs-75-as-a-background-dancer-at-the-age-of-14-now-has-a-net-worth-of-rs-3000-crore/articleshow/134663439.cms",
+    "time": "2026-10-03T17:02:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Third edition of Green Energy Corridor to add 51,126 ckm transmission lines, 50 GWh BESS",
+    "desc": "The Indian government has approved the third phase of the Green Energy Corridor to enhance renewable energy transmission. This phase will create over 51,000 circuit kilometres of transmission lines and significant transformation capacity. It also includes the installation of Battery Energy Storage Systems to store excess renewable energy. The implementation involves a mix of new projects and network upgrades managed by state transmission utilities.",
+    "img": "https://static.toiimg.com/photo/msid-134663212,imgsize-87496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/third-edition-of-green-energy-corridor-to-add-51126-ckm-transmission-lines-50-gwh-bess/articleshow/134663120.cms",
+    "time": "2026-10-03T16:48:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Helicopters, influencers and nail art: The money trail of 2026 assembly elections",
+    "desc": "The BJP and Congress have filed their election expenditure reports following several assembly elections this year. The BJP recorded a hefty expenditure of Rs 529.39 crore across five states, whereas Congress spent Rs 248.55 crore. These contrasting figures unveil the distinct priorities of the political parties, particularly in West Bengal and Keralam.",
+    "img": "https://static.toiimg.com/photo/msid-134663102,imgsize-135646.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/helicopters-influencers-and-nail-art-the-money-trail-of-2026-assembly-elections/articleshow/134662872.cms",
+    "time": "2026-10-03T16:39:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Akhilesh Yadav asks SP leaders to keep seat-sharing concerns internal amid friction with Congress",
+    "desc": "Akhilesh Yadav, president of the Samajwadi Party, encouraged leaders to express seat-sharing concerns privately. Tensions arose after Shiv Pal Singh Patel criticized Congress' demand for 150 seats in upcoming elections. Patel emphasized that Congress should receive a more realistic allocation based on their previous performance. Uttar Pradesh Congress president Aradhana Mishra stated that top leadership will decide the seat allocation.",
+    "img": "https://static.toiimg.com/photo/msid-134663004,imgsize-46646.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/akhilesh-yadav-asks-sp-leaders-to-keep-seat-sharing-concerns-internal-amid-friction-with-congress/articleshow/134662978.cms",
+    "time": "2026-10-03T16:37:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How landlord won tax relief on Rs 14.96 lakh demonetisation cash deposit",
+    "desc": "The Bangalore bench of the Income Tax Appellate Tribunal (ITAT) recently held that rental income already disclosed to the income tax authorities can be considered as an identifiable source of cash deposited into a bank account at a later date. Even where a landlord claims to have collected rent in cash, the subsequent deposit of that money cannot be disregarded merely because the rental earnings have already been taxed.",
+    "img": "https://static.toiimg.com/photo/msid-134662106,imgsize-275259.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/he-deposited-rs-14-96-lakh-cash-during-demonetisation-landlord-faced-unexplained-money-tax-notice-under-section-69a-but-itat-bangalore-deletes-addition-on-account-of-rental-income/articleshow/134661840.cms",
+    "time": "2026-10-03T16:31:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 1977, Peter Straus bought a 64-acre ranch; 10 years later it transformed into National Park site",
+    "desc": "Peter Strauss purchased a 64-acre ranch in California in 1977, which had previously fallen into disrepair. He invested significantly in restoring the land and lived there until 1983, working to return it to its natural state. The site eventually became known as Peter Strauss Ranch Park, part of the Santa Monica Mountains National Recreation Area.",
+    "img": "https://static.toiimg.com/photo/msid-134657375,imgsize-171424.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1977-peter-strauss-invested-225000-in-64-acre-barren-ranch-in-california-10-years-later-it-became-national-park-service-site-but-now-only-a-stone-amphitheater-remains/articleshow/134657312.cms",
+    "time": "2026-10-03T16:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kolkata, AIFF pull out all stops for India vs Brazil but crowd stays away",
+    "desc": "In many ways, it was a historic occasion. Brazil hadn't faced a team as lower ranked than India in 28 years. India hadn't gone up against a team as higher ranked as Brazil since rankings were introduced in August 1993. It helps significantly that Kolkata raves over Brazil (and Argentina).",
+    "img": "https://static.toiimg.com/photo/msid-134662841,imgsize-173408.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/kolkata-aiff-pull-out-all-stops-for-india-vs-brazil-but-crowd-stays-away/articleshow/134662702.cms",
+    "time": "2026-10-03T16:18:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&K man, held in interstate narcotics network, claims to be part of LG’s anti-drug campaign",
+    "desc": "The J&K Police on October 1 busted a major racket and arrested eight locals from Srinagar, in an interstate narcotics case, including Haris Hameed Malla; social media account shows him flaunting his influence by posing with politicians and officials",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-man-held-in-interstate-narcotics-network-claims-to-be-part-of-lgs-anti-drug-campaign/article71541331.ece",
+    "time": "2026-10-03T16:04:11.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S.-Russia talks on Ukraine involve multi-billion dollar oil deal: report",
+    "desc": "The deal, ‌which ⁠is contingent on approval from ⁠the U.S. government and the Kremlin, involves a sprawling set of oil fields, refineries and ​gas stations around ‌the world owned by Russian energy group Lukoil, according to the report.",
+    "img": "https://th-i.thgim.com/public/incoming/a0blxh/article71541509.ece/alternates/LANDSCAPE_1200/2026-09-23T215100Z_460740872_RC2Z7GA62BPA_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-G20.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-russia-talks-on-ukraine-involve-multi-billion-dollar-oil-deal-report/article71541486.ece",
+    "time": "2026-10-03T15:50:01.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Nine lakh names dropped from Uttarakhand’s poll roll; State now has 71.59 lakh voters",
     "desc": "The State will now begin a special drive to enrol missing and eligible voters, following the nearly 10% decline in the electoral roll, with a large number of voters placed in the ‘uncollectable (ASDD)’ category",
     "img": "https://th-i.thgim.com/public/incoming/lneva7/article71541111.ece/alternates/LANDSCAPE_1200/Booth%20Level%20Officer%20BLO%20tags%20draft%20electoral%20rolls%2003.jpg",
@@ -9,13 +162,13 @@ const newsData_en = [
     "time": "2026-10-03T15:34:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP faces crisis in Thiruvananthapuram Corporation as councillor R. Sreelekha mulls resignation",
-    "desc": "The former DGP mentions in her ward’s WhatsApp group that she had informed the Mayor through a letter on September 30 about resigning as a councillor for personal reasons. Mayor says the letter only contained her inconveniences and that a councillor has to submit resignation letter to Corporation Secretary. The latter denies receiving any such communication",
-    "img": "https://th-i.thgim.com/public/incoming/2r0qco/article71541338.ece/alternates/LANDSCAPE_1200/BJP-councillor-GOTFDAFGR.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/bjp-faces-crisis-in-thiruvananthapuram-corporation-as-councillor-r-sreelekha-mulls-resignation/article71540190.ece",
-    "time": "2026-10-03T15:06:14.000Z"
+    "cat": "Entertainment",
+    "title": "'Anupam Kher's first marriage to actress Madhumalti ended in one day,' recalls Raju Kher",
+    "desc": "Just days after their ceremonial tying of the knot, Anupam Kher’s first marriage to Madhumalti Kapoor ended abruptly. His brother, Raju Kher, recounted how Anupam left shortly after the temple rites, despite their engagement lasting two to three years. Madhumalti would go on to marry writer-director Ranjit Kapoor. In 1985, Anupam forged a lasting bond with actress Kirron Kher from their theater days, creating a new chapter in his life.",
+    "img": "https://static.toiimg.com/photo/msid-134662289,imgsize-246518.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-khers-first-marriage-to-actress-madhumalti-kapoor-ended-in-a-day-recalls-his-brother-raju-kher-he-was-quite-seedha-for-that-time/articleshow/134662237.cms",
+    "time": "2026-10-03T15:30:41.000Z"
   },
   {
     "cat": "Politics",
@@ -27,24 +180,6 @@ const newsData_en = [
     "time": "2026-10-03T15:06:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Work on organ transplant institute in Kozhikode to be completed in 30 months, says Satheesan",
-    "desc": "Chief Minister V.D. Satheesan says that ₹271 crore is being set aside for the institute coming up on a 20-acre plot in Chevayur. All services related to organ transplantation will be brought under one roof to reduce the cost of surgery to one-third.",
-    "img": "https://th-i.thgim.com/public/incoming/g1yq97/article71541290.ece/alternates/LANDSCAPE_1200/80692_3_10_2026_18_41_15_1_04TVKZVDSATHEESAN1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/work-on-organ-transplant-institute-in-kozhikode-to-be-completed-in-30-months-says-satheesan/article71540750.ece",
-    "time": "2026-10-03T14:54:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Man dies after relief packet dropped from helicopter falls on his head in Bihar’s Saran",
-    "desc": "Police identified the man as Anil Kumar Singh. His son Avinash Pratap Singh says the helicopter was dropping relief materials in bulk, and one of the packets hit his father’s head and another his chest. Saran is one of the six Bihar districts affected by the flooding of the Gandak River",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/man-dies-after-relief-packet-dropped-from-helicopter-falls-on-his-head-in-bihars-saran/article71540772.ece",
-    "time": "2026-10-03T14:47:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Asian Games 2026 medal tally today, October 3: India rank and full medals table",
     "desc": "India could not match the 106 medals they won at the previous edition, but finished with 85 medals, including 21 gold, 27 silver and 37 bronze. A better performance was expected particularly from the shooting and badminton teams.",
@@ -52,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-medal-tally-today-october-3-india-rank-and-full-medals-table/articleshow/134661546.cms",
     "time": "2026-10-03T14:41:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kozhikode under active consideration, says Satheesan",
-    "desc": "M.K. Raghavan, MP, and three MLAs urge the Chief Minister to establish the institute at Kinalur, citing the shortage of tertiary healthcare facilities in Malabar. They have expressed concern over reports that other locations are being considered for the project.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/aiims-for-keralam-kozhikode-under-active-consideration-says-satheesan/article71540835.ece",
-    "time": "2026-10-03T14:22:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -198,15 +324,6 @@ const newsData_en = [
     "time": "2026-10-03T11:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Delhi landfill garbage mountains shrinking, 100 acres reclaimed in 18 months: CM Rekha Gupta",
-    "desc": "Delhi chief minister Rekha Gupta has reported significant progress in waste management at landfill sites throughout the city. The government has successfully reclaimed land and aims to eliminate existing garbage mountains while managing fresh waste effectively. New waste processing facilities have been inaugurated at Okhla, Ghazipur, and Singhola, each designed to process thousands of metric tonnes daily.",
-    "img": "https://static.toiimg.com/photo/msid-134657970,imgsize-256826.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-landfill-garbage-mountains-shrinking-100-acres-reclaimed-in-18-months-cm-rekha-gupta/articleshow/134657674.cms",
-    "time": "2026-10-03T11:22:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Rashmika says Vijay Deverakonda ‘doesn’t celebrate anything’: ‘She brought some celebration’",
     "desc": "Rashmika Mandanna and Vijay Deverakonda discuss their upcoming film 'Ranabaali' during promotional interviews. They reflect on their marriage and the significance of celebrating life's moments. Rashmika emphasizes that making memories is crucial as time is limited and life is ever-changing. Vijay shares his evolving perspective, prioritizing enjoyment and holidays over constant work and struggles. Their collaboration marks a significant milestone as it is their first project since their wedding.",
@@ -268,15 +385,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/india-versus-west-indies-second-odi-match-at-guwahati-september-30-2026/article71527798.ece",
     "time": "2026-10-03T10:08:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "5 clear messages for BJP and Akhilesh Yadav",
-    "desc": "Congress has overhauled its Uttar Pradesh unit ahead of the 2027 UP assembly election, appointing three-time MLA Aradhana Misra Mona as state president and Imran Masood as working president. The Congress reshuffle brings Brahmin, Muslim, OBC, Dalit and women representation into its leadership team, signalling a push to rebuild its organisation, expand its social base and strengthen its position in talks with Samajwadi Party.",
-    "img": "https://static.toiimg.com/photo/msid-134656452,imgsize-101422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-resets-team-uttar-pradesh-5-clear-messages-for-bjp-and-akhilesh-yadav/articleshow/134656164.cms",
-    "time": "2026-10-03T10:07:25.000Z"
   },
   {
     "cat": "Business",
@@ -342,24 +450,6 @@ const newsData_en = [
     "time": "2026-10-03T09:11:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jr NTR condemns AI-morphed ‘Chuttamalle’ video, vows legal action against creators",
-    "desc": "Jr NTR criticized the creation and distribution of a morphed version of his song 'Chuttamalle'. He labeled the video as disgusting and vowed to take legal action. The actor urged the public not to engage with such content to prevent further disrespect. He emphasized the cultural significance of treating women with respect and dignity. Jr NTR called on authorities to implement strict regulations against the misuse of AI technology.",
-    "img": "https://static.toiimg.com/photo/msid-134655640,imgsize-130087.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/disgusting-sick-and-shameless-jr-ntr-reacts-to-ai-morphed-video-of-devera-song-chuttamalle-scs-i-will-not-spare-any-of-you/articleshow/134655585.cms",
-    "time": "2026-10-03T08:52:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Drishyam 3' cast fees revealed: Here's how much actors charged",
-    "desc": "Ajay Devgn's anticipated fee for his upcoming film ranges from Rs 18 crore to Rs 22 crore. Co-star Tabu is expected to be paid between Rs 2.5 crore and Rs 3.5 crore. Shriya Saran's earnings are projected at around Rs 1 crore, while Ishita Dutta stands to earn approximately Rs 50 lakh. Rajat Kapoor's remuneration is estimated between Rs 40 lakh and Rs 70 lakh.",
-    "img": "https://static.toiimg.com/photo/msid-134655621,imgsize-374027.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/drishyam-3-the-conclusion-cast-fees-revealed-ajay-devgn-reportedly-takes-rs-18-crore-to-rs-22-crore-heres-how-much-tabu-shriya-saran-and-others-have-charged/articleshow/134655569.cms",
-    "time": "2026-10-03T08:50:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Today’s resilience no guarantee for tomorrow: RBI Guv flags emerging financial risks",
     "desc": "During the Kautilya Economic Conclave, Reserve Bank governor Sanjay Malhotra emphasized the critical need for a resilient financial infrastructure. He pointed out the significance of monitoring new vulnerabilities to ensure the system can withstand diverse shocks. Malhotra acknowledged that systemic risks are now more global and interconnected, leading to unique challenges.",
@@ -367,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/todays-resilience-no-guarantee-for-tomorrow-rbi-guv-flags-emerging-financial-risks/articleshow/134655454.cms",
     "time": "2026-10-03T08:50:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Paradise’ BO day 10 LIVE: Nani starrer crosses Rs 110 crore in India",
-    "desc": "Nani and director Srikanth Odela's 'The Paradise' has made a remarkable impact at the box office, amassing Rs 110 crore in India so far. Although the film has drawn its share of criticism and mixed reviews from audiences, it has still managed to gross around Rs 162 crore globally, aided by robust international earnings. With a current occupancy rate of 18.",
-    "img": "https://static.toiimg.com/photo/msid-134655544,imgsize-135849.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/the-paradise-box-office-collection-day-10-live-nani-starrer-crosses-rs-110-crore-in-india-reaches-rs-162-crore-worldwide/articleshow/134655527.cms",
-    "time": "2026-10-03T08:43:31.000Z"
   },
   {
     "cat": "World",
@@ -394,24 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/gold-medal-india-beat-pakistan-by-19-runs-defends-asian-games-crown-in-mens-cricket/articleshow/134654850.cms",
     "time": "2026-10-03T08:06:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actress Bhagyashri Borse calls Captain Smit Machchhar a ‘Real Life Hero’",
-    "desc": "Actress Bhagyashri Borse recently voiced her admiration for Captain Smit Machchhar following his heroic actions on a FlyDubai flight, where he sustained serious injuries while preventing an incident initiated by his co-pilot. His bravery has caught the attention of many, including fellow stars Salman Khan and Anil Kapoor. As Bhagyashri continues her film journey in Georgia, her significant contributions across various Indian film industries remain highly celebrated.",
-    "img": "https://static.toiimg.com/photo/msid-134654977,imgsize-83256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mr-bachchan-actress-bhagyashri-borse-lauds-captain-smit-machchhars-courage-writes-india-is-proud-of-you-sir/articleshow/134654891.cms",
-    "time": "2026-10-03T08:04:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Could no longer defend the indefensible': Former AAP spokesperson Priyanka Kakkar joins Congress",
-    "desc": "Priyanka Kakkar, a former Aam Aadmi Party spokesperson, joined the Congress party after leaving AAP. She criticized AAP's leadership saying that she could no longer defend the \"indefensible\". Kakkar also expressed admiration for Congress leader Rahul Gandhi's resilience in facing political challenges and supported his criticisms of the Chief Election Commissioner.",
-    "img": "https://static.toiimg.com/photo/msid-134654908,imgsize-184037.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/former-aap-spokesperson-priyanka-kakkar-joins-congress/articleshow/134654809.cms",
-    "time": "2026-10-03T07:59:51.000Z"
   },
   {
     "cat": "Business",
@@ -486,24 +549,6 @@ const newsData_en = [
     "time": "2026-10-03T04:34:01.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "No-handshake policy continues as Iyer, Farhan skip handshake at Asian Games final",
-    "desc": "Shreyas Iyer and Sahibzada Farhan maintained their no-handshake practice at the toss for the final match. This tradition has been ongoing since the 2025 Asia Cup, reflecting the tensions between India and Pakistan. India won the toss and decided to bat first in this crucial gold-medal game. India's lineup remained unchanged, featuring young Vaibhav Sooryavanshi at the top alongside Abhishek Sharma.",
-    "img": "https://static.toiimg.com/photo/msid-134651819,imgsize-121500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/no-handshake-policy-continues-as-shreyas-iyer-sahibzada-farhan-skip-customary-greeting-at-asian-games-final/articleshow/134651657.cms",
-    "time": "2026-10-03T04:18:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pranavi Urs scripts history, becomes first Indian woman golfer to win gold",
-    "desc": "Pranavi Urs achieved a historic milestone by winning an individual gold medal at the Asian Games. She became the first Indian woman to achieve this feat in golf. After a challenging start, Pranavi secured her victory with a total of 15-under 265. This win also contributed to India's silver medal in the team event alongside Aditi Ashok and Diksha Dagar.",
-    "img": "https://static.toiimg.com/photo/msid-134651526,imgsize-24823.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/pranavi-urs-scripts-history-becomes-first-indian-woman-golfer-to-win-asian-games-gold/articleshow/134651504.cms",
-    "time": "2026-10-03T03:59:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "G7’s 100-million-barrel diesel fix: What happens after the emergency release",
     "desc": "The G7 announced an urgent release of 100 million barrels of oil and fuel products to counteract the ongoing diesel shortages, starting now and extending over the upcoming four months. Yet, experts warn that this withdrawal from emergency reserves could jeopardize future preparedness. Additionally, with supply routes still facing disruptions from geopolitical issues, the overall impact on fuel pricing and market dynamics remains ambiguous.",
@@ -511,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/g7s-100-million-barrel-diesel-fix-what-happens-after-the-emergency-release/articleshow/134651312.cms",
     "time": "2026-10-03T03:41:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ratnayake’s 65 helps Sri Lanka beat Bangladesh to win Asian Games cricket bronze",
-    "desc": "Sri Lanka faced a difficult start with four early wickets but staged a recovery through Tharindu Ratnayake and Sahan Arachchige. Ratnayake's aggressive scoring propelled the team to a total of 165 runs in 20 overs. Bangladesh struggled to respond and lost their top order quickly, unable to recover from early setbacks. Ratnayake's all-round performance was crucial in ensuring a comprehensive victory for Sri Lanka.",
-    "img": "https://static.toiimg.com/photo/msid-134651320,imgsize-771748.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/tharindu-ratnayakes-blazing-65-helps-sri-lanka-beat-bangladesh-to-win-asian-games-cricket-bronze/articleshow/134651257.cms",
-    "time": "2026-10-03T03:30:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -538,24 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/irdai-plan-to-help-check-mis-selling-raise-returns/articleshow/134650814.cms",
     "time": "2026-10-03T02:30:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kumkum Mohod wins Asian Games gold, secures India’s 2028 Olympic quota",
-    "desc": "Kumkum Mohod carved her name in history by clinching the gold medal in the women’s individual recurve event at the Asian Games. Triumphing in a nail-biting shoot-out against South Korea’s Oh Yejin after a tied score, she also ensured India's presence at the 2028 Los Angeles Olympics by securing a semifinal spot.",
-    "img": "https://static.toiimg.com/photo/msid-134650627,imgsize-101970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/kumkum-mohod-wins-asian-games-gold-secures-indias-2028-olympic-quota/articleshow/134650618.cms",
-    "time": "2026-10-03T02:07:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals star creates history, surpasses Gayle for highest T20 score",
-    "desc": "Lhuan-dre Pretorius has made T20 cricket history with his phenomenal score of 188 runs off 79 balls while playing for the Titans against the Knights. This feat breaks Chris Gayle's former record of 175 runs, showcasing Pretorius's exceptional talent as he maintained a striking rate of 237.97. His recent century for South Africa further underscores his remarkable consistency and prowess on the field.",
-    "img": "https://static.toiimg.com/photo/msid-134650365,imgsize-95574.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rajasthan-royals-star-creates-history-surpasses-chris-gayle-for-highest-t20-score/articleshow/134650352.cms",
-    "time": "2026-10-03T01:13:09.000Z"
   },
   {
     "cat": "World",
@@ -657,24 +675,6 @@ const newsData_en = [
     "time": "2026-10-02T10:33:35.000Z"
   },
   {
-    "cat": "Business",
-    "title": "September shipments through Hormuz hit post-war high as LNG cargoes pick up",
-    "desc": "The month of September marked a significant spike in LNG traffic through the Strait of Hormuz, with 19 to 21 cargoes navigating the waters, the highest since war broke out. The cargoes predominantly hailed from Qatar and the United Arab Emirates. Interestingly, vessels adopted unusual routes, resorting to dark transits to go unnoticed.",
-    "img": "https://static.toiimg.com/photo/msid-134637160,imgsize-50120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/september-shipments-through-hormuz-hit-post-war-high-as-lng-cargoes-pick-up/articleshow/134636877.cms",
-    "time": "2026-10-02T10:30:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "If Trump imposes tariffs, will buying crude from Russia make economic sense for India?",
-    "desc": "Russia became an unusually attractive supplier when Western buyers retreated after the war with Ukraine. Its share of Indian crude imports, below 2% before the war, expanded rapidly as discounts compensated refiners for longer supply chains. In the present day, the situation has become more complex, the new US law potentially changes the economics of India’s Russian oil purchases.",
-    "img": "https://static.toiimg.com/photo/msid-134636455,imgsize-398668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/will-russian-oil-be-economically-viable-for-india-if-trump-tariffs-return/articleshow/134636107.cms",
-    "time": "2026-10-02T10:25:46.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "How accurate is Bengaluru’s AI traffic enforcement?",
     "desc": "Amid debates around the shortcomings of using AI in smart policing and rule enforcement, The Hindu looks at how the Bengaluru Traffic Police’s Intelligent Traffic Management System works, how accurate are the violations flagged, how are the challans generated and the means through which erroneous cases can be challenged.",
@@ -682,24 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/how-accurate-is-bengalurus-ai-traffic-enforcement-explained/article71532005.ece",
     "time": "2026-10-02T10:22:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Global food prices rise to their highest level in nearly four years",
-    "desc": "In a concerning trend, global food prices have surged to their highest point in nearly four years, driven by disruptions in trade and adverse weather conditions. According to the United Nations' Food and Agriculture Organization, there are marked increases in the costs of cereals, sugar, and vegetable oils. Interestingly, the prices for meat and dairy products have dipped during this period.",
-    "img": "https://static.toiimg.com/photo/msid-134636290,imgsize-199388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/a-costly-bite-global-food-prices-rise-to-their-highest-level-in-nearly-four-years/articleshow/134636246.cms",
-    "time": "2026-10-02T09:37:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Watch Vande Bharat cross Chenab bridge, Anji bridges at 100 kmph",
-    "desc": "The higher speed of 100 kmph was successfully put to the test today, according to Railway minister Ashwini Vaishnaw. Vande Bharat Express (Train No. 26401/26404) set a new record by traversing the world's highest railway bridge, Chenab Bridge, and India's first cable-stayed railway bridge, the Anji Khad Bridge at 100 kmph.",
-    "img": "https://static.toiimg.com/photo/msid-134635636,imgsize-559639.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/vande-bharat-crosses-worlds-highest-chenab-and-first-cable-stayed-anji-bridges-at-100-kmph-in-historic-milestone-as-katra-banihal-speed-limit-rises-over-a-year-after-inauguration/articleshow/134635017.cms",
-    "time": "2026-10-02T09:25:09.000Z"
   },
   {
     "cat": "Business",
@@ -774,24 +756,6 @@ const newsData_en = [
     "time": "2026-10-01T19:28:22.000Z"
   },
   {
-    "cat": "World",
-    "title": "South Korea's Lee urges North Korea to restore dialogue, pledges military buildup",
-    "desc": "The comments came after Seoul’s ​military and the ‌UN Command said North Korea violated the Korean War armistice following a landmine blast last week that wounded three South Korean soldiers in the Demilitarized ‌Zone (DMZ).",
-    "img": "https://th-i.thgim.com/public/incoming/wlfokk/article71534249.ece/alternates/LANDSCAPE_1200/South_Korea_Armed_Forces_Day_5_852.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/south-koreas-lee-urges-north-korea-to-restore-dialogue-pledges-military-buildup/article71534238.ece",
-    "time": "2026-10-01T16:10:57.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "report",
-    "desc": "Omar al-Khatib, a Syrian who was the subject of an Interpol red notice, is believed to have coordinated between the attackers and intelligence officials loyal to Syria's then president Bashar al-Assad, Anadolu news agency reported.",
-    "img": "https://th-i.thgim.com/public/incoming/w5b9ao/article71534227.ece/alternates/LANDSCAPE_1200/Turkey_Explosion.JPEG-0f220.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/turkiye-detains-suspect-in-2013-attack-by-syria-border-report/article71534206.ece",
-    "time": "2026-10-01T16:04:46.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Baththa’ movie review: Balaji Tharaneetharan returns with a delightfully funny, moving comedy-drama",
     "desc": "Through the story of a dreaded don and a schoolboy who inadvertently crosses his path, Balaji Tharaneetharan takes a warm, nostalgic look at childhood, the selves we lose while playing the roles society forces upon us, and the goodness that survives beneath",
@@ -799,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/baththa-baththa-review-vijay-sethupathi-balaji-tharaneetharan-delightful-comedy-drama-baththa-tamil-movie/article71532194.ece",
     "time": "2026-10-01T16:04:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Blasts in Ethiopian capital after government banned drone flights",
-    "desc": "Prime Minister Abiy Ahmed is due to be sworn in for a new term on Monday after winning elections in June, but faces conflict on multiple fronts as several armed groups have formed an alliance against him.",
-    "img": "https://th-i.thgim.com/public/incoming/h6qf73/article71534169.ece/alternates/LANDSCAPE_1200/Ethiopia_Blasts_43379.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/blasts-in-ethiopian-capital-after-government-banned-drone-flights/article71534160.ece",
-    "time": "2026-10-01T15:59:40.000Z"
   },
   {
     "cat": "Business",
@@ -844,15 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/gpt-61-astra-why-openai-halted-its-release/article71529980.ece",
     "time": "2026-09-30T16:40:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Feud escalates at Tatas as Srinivasan moves Charity Commissioner against SDTT",
-    "desc": "“SDTT is a public charitable trust and its substantial shareholding in Tata Sons cannot result in the Trust itself assuming the functions of a commercial enterprise or participating directly in the conduct of Tata Sons’ business affairs”",
-    "img": "https://th-i.thgim.com/public/incoming/i7uypc/article71529395.ece/alternates/LANDSCAPE_1200/Tata-Trusts-BoaGBNFUV3V4.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/feud-escalates-at-tatas-as-srinivasan-moves-charity-commissioner-against-sdtt/article71529016.ece",
-    "time": "2026-09-30T14:38:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +844,59 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/when-fortran-ran-for-the-first-time/article71450877.ece",
     "time": "2026-09-30T07:23:58.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "What does it take to obtain justice for cybercrime?",
+    "desc": "The Status of Policing in India Report (SPIR) 2026, based on a survey by Lokniti-CSDS and Common Cause across 16 States, examines two factors that enable the progress of redressal in cybercrime complaints – bribery and using the influence of personal network; both channels are used more often, and appear to work more for the victims from marginalised groups",
+    "img": "https://th-i.thgim.com/public/incoming/hnqw6l/article71525557.ece/alternates/LANDSCAPE_1200/PF_Alerts_pictuG31G21OL5.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/what-does-it-take-to-obtain-justice-for-cybercrime/article71525555.ece",
+    "time": "2026-09-29T18:03:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Who is the most vulnerable to cyber frauds?",
+    "desc": "Amid deeper integration into the digital ecosystem, cybercrime cases rose 17.9% nationally, to 1,01,928 in 2024; respondents who spent more time online were more likely to be targeted by fraudsters, while financial fraud was more closely linked to social and economic status, with wealthier and more educated respondents more likely to report being victims",
+    "img": "https://th-i.thgim.com/public/incoming/7c0h01/article71525546.ece/alternates/LANDSCAPE_1200/iStock-157619625%202.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/who-is-the-most-vulnerable-to-cyber-frauds/article71525547.ece",
+    "time": "2026-09-29T17:58:18.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Amazon v. Perplexity: who’s in control when an AI agent acts for you?",
+    "desc": "In India, where e-commerce, automated consumer services, and AI adoption are all expanding rapidly, the legal dispute between Amazon.com and Perplexity AI offers a useful, if also imperfect, template to think about platform governance and intermediary liability",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/be9gar/article70061449.ece/alternates/LANDSCAPE_1200/igor-omilaev-FHgWFzDDAOs-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/amazon-v-perplexity-whos-in-control-when-an-ai-agent-acts-for-you/article71523202.ece",
+    "time": "2026-09-29T09:20:21.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Indian non-profits lag on digital maturity, AI adoption: report",
+    "desc": "The Digital for Nonprofits (D4NP) report, released in New Delhi, finds non-profits scoring below 50% on digital maturity and largely failing to tap free online advertising grants—despite growing interest in large language models to aid reports and marketing",
+    "img": "https://th-i.thgim.com/public/news/national/ak8493/article71512309.ece/alternates/LANDSCAPE_1200/iStock-2206209980.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/indian-non-profits-lag-on-digital-maturity-ai-adoption-report/article71512189.ece",
+    "time": "2026-09-27T11:17:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit: Beijing",
+    "desc": "The two countries established a “U.S.-China Super Intelligence (SI) Dialogue to exchange views on risks and benefits” of AI, the White House said in a fact sheet, noting that their leaders had agreed to use the term SI rather than AI.",
+    "img": "https://th-i.thgim.com/public/incoming/rcniue/article71511781.ece/alternates/LANDSCAPE_1200/AP09_26_2026_000002B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-china-to-set-up-communication-channel-for-ai-incidents/article71511753.ece",
+    "time": "2026-09-26T11:53:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "OpenAI works to understand full scope of agent activity as user data leak emerges",
+    "desc": "OpenAI said that ‌its models accessed information from the websites of the U.S. Securities and Exchange Commission and the U.S. Census Bureau during research and training activity, but found no evidence of unauthorised access, compromised accounts or security breaches",
+    "img": "https://th-i.thgim.com/public/incoming/egcz7s/article71511523.ece/alternates/LANDSCAPE_1200/Open_AI_Safety__4766.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/openai-works-to-understand-full-scope-of-agent-activity-as-user-data-leak-emerges/article71511499.ece",
+    "time": "2026-09-26T07:53:21.000Z"
   }
 ];

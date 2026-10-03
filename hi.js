@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ravindra Jadeja wasn't dropped, we will have meeting with selectors keeping World Cup in mind: Shubman Gill",
+    "desc": "Senior all-rounder Ravindra Jadeja was benched in India’s third ODI against West Indies in Mullanpur. His declining ODI numbers were certainly a concern, but the veteran claimed two wickets in the second game in Guwahati....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadeja-wasn-t-dropped-we-will-have-meeting-with-selectors-keeping-world-cup-in-mind-shubman-gill-2026-10-04-1056016",
+    "time": "2026-10-03T19:14:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "West Indies record highest successful chase, beat India by five wickets following Shai Hope's 162*",
+    "desc": "West Indies have defeated India by five wickets in the third ODI at the new PCA stadium in Mullanpur. Even though they lost the series 2-1, the visitors showed plenty of positives, including an impressive...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/west-indies-record-highest-successful-chase-beat-india-by-five-wickets-following-shai-hope-s-162-2026-10-03-1056012",
+    "time": "2026-10-03T17:39:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India impress on counters, but even lacklustre Brazil too hot to handle; beat hosts 4-0 in Kolkata",
+    "desc": "Heading to the match, the general expectations was Brazil to create a flurry of chances and test India’s defence. Multiple goals were expected and even though that assumption turned true, but Brazil were far from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/india-impress-on-counters-but-even-lacklustre-brazil-too-hot-to-handle-beat-hosts-4-0-in-kolkata-2026-10-03-1056006",
+    "time": "2026-10-03T16:16:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Amir Jangoo propels West Indies to brilliant start against India, joins elite list after 67-run knock",
+    "desc": "India and the West Indies took on each other in the third and final ODI of the ongoing series. The two sides met in Mullanpur for the clash, and the game saw India come in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/amir-jangoo-propels-west-indies-to-brilliant-start-against-india-joins-elite-list-after-67-run-knock-2026-10-03-1056003",
+    "time": "2026-10-03T15:40:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "KL Rahul joins MS Dhoni, Yuvraj Singh in elite list with exceptional ton against West Indies in third ODI",
     "desc": "India and the West Indies took on each other in the third and final ODI of the ongoing series between the two sides. The teams met at the Maharaja Yadavindra Singh International Cricket Stadium, New...",
     "img": "",
@@ -10,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Lino makes 3-0 for Brazil, India struggling to make a mark",
+    "title": "Samba magic in Kolkata as Brazil beat India 4-0 in Kolkata",
     "desc": "Indian football team faces their ultimate litmus test tonight as Khalid Jamil’s national side welcomes five-time World Cup champions Brazil to the iconic Salt Lake Stadium for a historic international friendly. It marks the first-ever...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/aman-sehrawat-clinches-gold-medal-defeats-north-korea-s-han-in-57kg-freestyle-wrestling-2026-10-03-1055978",
     "time": "2026-10-03T09:43:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India beat Malaysia 5-1 to clinch historic gold",
-    "desc": "India and Malaysia square off in Japan with far more than just Asian Games gold on the line. The winner walks off the turf at the Gifu Prefectural Green Stadium with an automatic ticket booked...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/ind-vs-mas-asian-games-final-live-score-india-vs-malaysia-latest-match-updates-goal-scorers-reactions-highlights-1055976",
-    "time": "2026-10-03T09:28:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who are T.T.V. Namboori, S.Viswanadh? Why do some of India players have unfamiliar names at Asian Games?",
-    "desc": "India defeated Pakistan at the Asian Games 2026 to clinch the gold medal. They produced a dominant show with the bat, followed by some nervous time in the field, but the bowling unit did enough...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-are-t-t-v-namboori-s-viswanadh-why-do-some-of-india-players-have-unfamiliar-names-at-asian-games-2026-10-03-1055972",
-    "time": "2026-10-03T08:31:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Team India brings home Asian Games gold, registers dominant 19-run win over Pakistan in men's cricket final",
-    "desc": "India’s gold medal tally at the Asian Games 2026 rose once more as the men’s cricket team registered a brilliant victory against arch-rivals Pakistan in the summit clash of the event. The two sides met...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/team-india-brings-home-asian-games-gold-registers-dominant-win-over-pakistan-in-men-s-cricket-final-2026-10-03-1055970",
-    "time": "2026-10-03T08:02:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shai Hope leads the charge for WI, India looking for wickets",
-    "desc": "The third ODI of the ongoing series between India and the West Indies sees the two sides take on each other at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh. It is worth noting that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-3rd-odi-live-score-india-look-to-clean-sweep-west-indies-in-new-chandigarh-1055967",
-    "time": "2026-10-03T07:41:26.000Z"
   }
 ];
