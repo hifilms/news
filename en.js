@@ -1,5 +1,14 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Ireland press conference ahead of Israel game in Nations League cut short",
+    "desc": "Ireland defeated Israel 3-0 last Sunday (September 27, 2026) but only after Irish players took a vote on whether or not to go ahead with the game, due to bitter opposition in Ireland over Israel's actions in Gaza",
+    "img": "https://th-i.thgim.com/public/incoming/qowhe8/article71541957.ece/alternates/LANDSCAPE_1200/Ireland_Israel_Nations_League_Soccer__978_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/ireland-press-conference-ahead-of-israel-game-in-nations-league-cut-short/article71541955.ece",
+    "time": "2026-10-03T22:56:26.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Madurantakam by-election: Will the AIADMK ‘bastion’ fall to TVK’s growing popularity?",
     "desc": "Maragatham Kumaravel, a former AIADMK leader, now seeks re-election as the TVK’s candidate after resigning as AIADMK MLA barely three weeks after the 2026 result; while some voters are undecided, some say they may not vote for the TVK despite the CM’s popularity",
@@ -90,6 +99,15 @@ const newsData_en = [
     "time": "2026-10-03T16:48:18.000Z"
   },
   {
+    "cat": "World",
+    "title": "Popular Mobilisation Forces",
+    "desc": "For the Iran-backed Shia armed organisations, which opposed the U.S. occupation of Iraq and frequently clashed with U.S. forces, the September 30 withdrawal of American troops, at a time when Washington wages war on Iran, is a ‘historic victory’",
+    "img": "https://th-i.thgim.com/public/incoming/k0jsas/article71541606.ece/alternates/LANDSCAPE_1200/AFP_34NP8WZ.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/popular-mobilisation-forces-iraqs-militias-within-the-military/article71541613.ece",
+    "time": "2026-10-03T16:47:36.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Helicopters, influencers and nail art: The money trail of 2026 assembly elections",
     "desc": "The BJP and Congress have filed their election expenditure reports following several assembly elections this year. The BJP recorded a hefty expenditure of Rs 529.39 crore across five states, whereas Congress spent Rs 248.55 crore. These contrasting figures unveil the distinct priorities of the political parties, particularly in West Bengal and Keralam.",
@@ -135,15 +153,6 @@ const newsData_en = [
     "time": "2026-10-03T16:18:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "J&K man, held in interstate narcotics network, claims to be part of LG’s anti-drug campaign",
-    "desc": "The J&K Police on October 1 busted a major racket and arrested eight locals from Srinagar, in an interstate narcotics case, including Haris Hameed Malla; social media account shows him flaunting his influence by posing with politicians and officials",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-man-held-in-interstate-narcotics-network-claims-to-be-part-of-lgs-anti-drug-campaign/article71541331.ece",
-    "time": "2026-10-03T16:04:11.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S.-Russia talks on Ukraine involve multi-billion dollar oil deal: report",
     "desc": "The deal, ‌which ⁠is contingent on approval from ⁠the U.S. government and the Kremlin, involves a sprawling set of oil fields, refineries and ​gas stations around ‌the world owned by Russian energy group Lukoil, according to the report.",
@@ -153,15 +162,6 @@ const newsData_en = [
     "time": "2026-10-03T15:50:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Nine lakh names dropped from Uttarakhand’s poll roll; State now has 71.59 lakh voters",
-    "desc": "The State will now begin a special drive to enrol missing and eligible voters, following the nearly 10% decline in the electoral roll, with a large number of voters placed in the ‘uncollectable (ASDD)’ category",
-    "img": "https://th-i.thgim.com/public/incoming/lneva7/article71541111.ece/alternates/LANDSCAPE_1200/Booth%20Level%20Officer%20BLO%20tags%20draft%20electoral%20rolls%2003.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sir-exercise-nine-lakh-names-dropped-from-uttarakhands-poll-roll-state-now-has-7159-lakh-voters/article71540837.ece",
-    "time": "2026-10-03T15:34:03.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Anupam Kher's first marriage to actress Madhumalti ended in one day,' recalls Raju Kher",
     "desc": "Just days after their ceremonial tying of the knot, Anupam Kher’s first marriage to Madhumalti Kapoor ended abruptly. His brother, Raju Kher, recounted how Anupam left shortly after the temple rites, despite their engagement lasting two to three years. Madhumalti would go on to marry writer-director Ranjit Kapoor. In 1985, Anupam forged a lasting bond with actress Kirron Kher from their theater days, creating a new chapter in his life.",
@@ -169,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-khers-first-marriage-to-actress-madhumalti-kapoor-ended-in-a-day-recalls-his-brother-raju-kher-he-was-quite-seedha-for-that-time/articleshow/134662237.cms",
     "time": "2026-10-03T15:30:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'No deadline for Sheikh Hasina's return', says Indian high commissioner in Bangladesh",
-    "desc": "High Commissioner Dinesh Trivedi addressed the extradition request for Sheikh Hasina from Bangladesh, stating that the matter is under legal review, preventing a set timeline for her repatriation. He clarified that India had no involvement in her arrival, citing the dire circumstances in Bangladesh. As relations between India and Bangladesh grow increasingly strained, the new Bangladeshi government remains resolute in pursuing Hasina's extradition.",
-    "img": "https://static.toiimg.com/photo/msid-134662005,imgsize-135808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-deadline-for-sheikh-hasinas-return-says-indian-high-commissioner-in-bangladesh/articleshow/134661882.cms",
-    "time": "2026-10-03T15:06:13.000Z"
   },
   {
     "cat": "Sports",
@@ -252,15 +243,6 @@ const newsData_en = [
     "time": "2026-10-03T13:22:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Vijay's TVK joins INDIA bloc meet in Tamil Nadu, Congress calls it 'historic day'",
-    "desc": "Manickam Tagore, the president of the Tamil Nadu Congress Committee, celebrated the significant inclusion of Tamilaga Vettri Kazhagam in the INDIA alliance. The assembly was pivotal in calling for the resignation of Chief Election Commissioner Gyanesh Kumar due to discrepancies in electoral rolls. Notable participants, Aadhav Arjuna and Maria Wilson, emphasized the urgency of the issue, with protests planned across Tamil Nadu to amplify their demand for accountability.",
-    "img": "https://static.toiimg.com/photo/msid-134659839,imgsize-74548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/vijays-tvk-joins-india-bloc-meet-in-tamil-nadu-congress-calls-it-historic-day/articleshow/134659818.cms",
-    "time": "2026-10-03T12:36:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Quote of the day by Eddie Murphy",
     "desc": "Eddie Murphy reflects on his rich journey in entertainment, offering wisdom on the importance of overcoming failures without lingering in the past. He captures this idea with a poignant metaphor of a crashed plane, signifying the necessity of learning from setbacks. For Murphy, the key to a successful career lies in recognizing missteps while relentlessly forging ahead, showcasing true resilience.",
@@ -277,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-mimics-vijay-deverakondas-ranabaali-dialogue-liger-actor-calls-wife-his-cute-savage/articleshow/134659642.cms",
     "time": "2026-10-03T12:28:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Most comprehensive plan': Ukraine confirms India playing role in mediating energy truce in Black Sea",
-    "desc": "Ukraine has expressed readiness to explore India's comprehensive proposal for ending the ongoing Russia-Ukraine conflict. During recent communications, Ukrainian Foreign Minister Andrii Sybiha emphasized the importance of India's mediation role. India's external affairs minister S Jaishankar affirmed continuous engagement with both Kyiv and Moscow regarding potential solutions. Ukraine is open to discussing limited ceasefire arrangements around energy infrastructure and safe Black Sea shipping.",
-    "img": "https://static.toiimg.com/photo/msid-134659668,imgsize-75480.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/most-comprehensive-plan-ukraine-confirms-india-playing-role-in-mediating-energy-truce-in-black-sea/articleshow/134659507.cms",
-    "time": "2026-10-03T12:28:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/openai-works-to-understand-full-scope-of-agent-activity-as-user-data-leak-emerges/article71511499.ece",
     "time": "2026-09-26T07:53:21.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why is New York City pausing some AI tools in schools?",
+    "desc": "The Mayor of New York Zohran Mamdani and Schools Chancellor Kamar H. Samuels on September 2 imposed a one-year moratorium on student-facing generative AI for pupils up to eighth grade for the 2026–27 academic year",
+    "img": "https://th-i.thgim.com/public/incoming/cccz31/article71431324.ece/alternates/LANDSCAPE_1200/2026-09-01T002353Z_1057454928_RC2Z9NACQU2O_RTRMADP_3_USA-SHOOTING-NEW-YORK.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
+    "time": "2026-09-25T11:46:16.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "People's fear and mistrust in authority leads to cybercrime, say experts at report launch on policing",
+    "desc": "The report, building onto its earlier reports documenting public trust and experience with police, examines the modus operandi of cybercriminals, the lived experience of victims, the digital habits and vulnerabilities of ordinary citizens, and the preparedness of the police and banks to handle complaints.",
+    "img": "https://th-i.thgim.com/public/incoming/x0fpux/article71507632.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-25%20at%2012.32.10%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/peoples-fear-and-mistrust-in-authority-leads-to-cybercrime-say-experts-at-report-launch-on-policing/article71507054.ece",
+    "time": "2026-09-25T07:09:36.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why Meta’s Zuckerberg rebuffed Dario Amodei’s AI slowdown calls",
+    "desc": "Mr. Amodei has warned that the AI development is beginning to outstrip the labs’ ability to understand and control the systems it is creating. But Mr. Zuckerberg is taking a different route, stating that AI companies have a powerful incentive to build systems that are trustworthy",
+    "img": "https://th-i.thgim.com/public/incoming/vrr5fp/article71339606.ece/alternates/LANDSCAPE_1200/Meta-AI-Zuckerberg_36318.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/why-metas-zuckerberg-rebuffed-dario-amodeis-ai-slowdown-calls/article71471837.ece",
+    "time": "2026-09-24T14:02:44.000Z"
   }
 ];
