@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "17-year-old Kumkum Mohod wins historic gold in women's individual recurve archery",
+    "desc": "Indian recurve archer Kumkum Mohod on Saturday won a gold medal in the women's individual recurve archery event at the Asian Games by defeating South Korea's Oh Yejin at the 2026 Asian Games. Teenager Kumkum Mohod...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/asian-games-2026-indian-archer-kumkum-mohod-wins-gold-in-womens-individual-recurve-archery-2026-10-03-1055952",
+    "time": "2026-10-03T02:25:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Where does India stand after winning historic gold in women's hockey?",
     "desc": "The Indian contingent put forth some incredible performances on the 13th day of the ongoing Asian Games 2026. Winning as many as 6 gold medals in a single day, the nation jumped up to fifth...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-names-squads-for-upcoming-clashes-against-ban-and-zim-mohammad-nabi-faces-t20i-exclusion-2026-10-02-1055902",
     "time": "2026-10-02T08:45:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian men's recurve archery team settles for silver after defeat against South Korea at Asian Games 2026",
-    "desc": "The medals continue to pile up for India at the Asian Games 2026. After Lovlina Borgohain’s historic boxing gold, the Indian men’s recurve archery team put forth a good showing and brought home the silver...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/indian-men-s-recurve-archery-team-settles-for-silver-after-defeat-against-south-korea-at-asian-games-2026-2026-10-02-1055894",
-    "time": "2026-10-02T07:40:04.000Z"
   }
 ];

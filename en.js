@@ -1,5 +1,248 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Hanuman Ansh nets Rs 2.35cr on day 57",
+    "desc": "Hanuman Ansh began quietly but grew steadily through word of mouth, peaking at Rs 90.25 crore in Week 5. On Day 57, it earned Rs 2.35 crore net in India, taking its total to Rs 319.73 crore net and Rs 377.66 crore gross. The Neem Karoli Baba-inspired drama, released August 7, 2026, also has a Telugu version.",
+    "img": "https://static.toiimg.com/photo/msid-134651119,imgsize-324017.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-57-neem-karoli-babas-film-earns-rs-2-35-crore-net-in-india/articleshow/134651104.cms",
+    "time": "2026-10-03T02:56:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian kurash player Yash Kumar Chauhan provisionally suspended after failed dope test",
+    "desc": "Yash Kumar Chauhan, an Indian kurash athlete, faces provisional suspension after testing positive for several banned substances during the Asian Games on September 27. His samples revealed prohibited drug metabolites, confirmed by the International Testing Agency, which has begun proceedings against him under anti-doping regulations. Chauhan retains the option to contest this suspension and request testing of his B-sample for further scrutiny.",
+    "img": "https://static.toiimg.com/photo/msid-134651095,imgsize-36286.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/indian-kurash-player-yash-kumar-chauhan-provisionally-suspended-after-failed-dope-test/articleshow/134651030.cms",
+    "time": "2026-10-03T02:54:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Reports",
+    "desc": "Guy Kapulnik, a 46-year-old actor and pilot, tragically passed away in a plane crash on September 24. The crash occurred in Hesperia, California, claiming the lives of Kapulnik and his passenger, Taylor Laska. Both individuals were pronounced dead at the scene shortly after the incident was reported. Kapulnik was known for his roles in film and as a certified flight instructor.",
+    "img": "https://static.toiimg.com/photo/msid-134650784,imgsize-261309.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/actor-guy-kapulnik-passes-away-with-one-passenger-in-plane-crash-both-pronounced-dead-on-scene-reports/articleshow/134650709.cms",
+    "time": "2026-10-03T02:51:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jason Sanjay reacts to Thalapathy Vijay resemblance edits",
+    "desc": "Jason Sanjay, the son of Tamil Nadu's Chief Minister Vijay, has stepped into the limelight directing his latest film 'Sigma', which has earned him accolades. In recent promotional events, he humorously reacted to the buzz surrounding his resemblance to his father. Sanjay envisions directing Vijay in a light-hearted romantic comedy that would showcase a different, playful aspect of his father's personality.",
+    "img": "https://static.toiimg.com/photo/msid-134651038,imgsize-346722.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/its-not-under-my-control-sigma-director-jason-sanjay-reacts-to-thalapathy-vijay-resemblance-edits/articleshow/134650977.cms",
+    "time": "2026-10-03T02:48:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Anbil Avan’ movie review: We appreciate that you tried",
+    "desc": "Honestly, the audience seems to want Preity Mukhundhan and Ashok Selvan, a beautiful-looking couple, to succeed in ‘Anbil Avan.’ Yet this romance-thriller set in the hills is bogged down by trope-ridden, unidimensional characters and an endless action sequence",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/yo22c9/article71536744.ece/alternates/LANDSCAPE_1200/Anbil%20Avan%20review.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/anbil-avan-movie-review-ashok-selvan-preity-mukhundhan-r-kaarthikeyan/article71536710.ece",
+    "time": "2026-10-03T02:45:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cindy Crawford and Rande Gerber may pursue legal action for Presley Gerber’s passing",
+    "desc": "In a devastating turn of events, Cindy Crawford and Rande Gerber are exploring legal options after the untimely death of their son, Presley Gerber, who died at a sober house from a suspected drug overdose and cardiac arrest. Reports suggest that both his sober coach and the facility's staff were aware of his substance struggles.",
+    "img": "https://static.toiimg.com/photo/msid-134651026,imgsize-174191.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cindy-crawford-and-rande-gerber-want-to-take-legal-action-following-presley-gerbers-passing-want-accountability/articleshow/134651004.cms",
+    "time": "2026-10-03T02:44:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sanjay Dutt recalls staying sane through jail",
+    "desc": "Sanjay Dutt, who was acquitted of terror charges but convicted under the Arms Act, recalled his jail days on Shekhar Tonite. He said he never lost his sanity or felt weak, stayed grounded despite stardom, and quipped \"Sir, yahan bidi toh milegi\" to a cop. He was last seen in Welcome To The Jungle and Aakhri Sawal.",
+    "img": "https://static.toiimg.com/photo/msid-134650948,imgsize-257119.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/they-went-in-shock-sanjay-dutt-reveals-how-he-stayed-unfazed-during-his-time-behind-bars/articleshow/134650924.cms",
+    "time": "2026-10-03T02:36:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Irdai plan to help check mis-selling, raise returns",
+    "desc": "Irdai has introduced proposed guidelines aimed at reshaping the commission and expense structures for insurance distribution. This shift focuses on reducing reliance on high commission models, favoring a more customer-oriented strategy. Key proposals include imposing limits on commissions for products and introducing remuneration based on distributors' efforts. This pivotal change could greatly affect brokers and online platforms, with shares already experiencing a decline.",
+    "img": "https://static.toiimg.com/photo/msid-134650837,imgsize-23016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/irdai-plan-to-help-check-mis-selling-raise-returns/articleshow/134650814.cms",
+    "time": "2026-10-03T02:30:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Netizens pray for Nushrratt Bharuccha after Bali accident",
+    "desc": "Nushrratt Bharuccha, the rising star of Bollywood, recently faced a tragic accident in Bali, resulting in a severe spinal injury that necessitates surgery. After the accident, she was promptly airlifted back to Mumbai for further medical care. As she embarks on her healing journey, fans have flooded social media with messages of support.",
+    "img": "https://static.toiimg.com/photo/msid-134650679,imgsize-25948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nushrratt-bharuccha-airlifted-to-mumbai-after-bali-accident-netizens-pray-for-speedy-recovery-please-get-well-soon-this-looks-heartbreaking/articleshow/134650629.cms",
+    "time": "2026-10-03T02:13:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kumkum Mohod wins Asian Games gold, secures India’s 2028 Olympic quota",
+    "desc": "Kumkum Mohod carved her name in history by clinching the gold medal in the women’s individual recurve event at the Asian Games. Triumphing in a nail-biting shoot-out against South Korea’s Oh Yejin after a tied score, she also ensured India's presence at the 2028 Los Angeles Olympics by securing a semifinal spot.",
+    "img": "https://static.toiimg.com/photo/msid-134650627,imgsize-101970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/kumkum-mohod-wins-asian-games-gold-secures-indias-2028-olympic-quota/articleshow/134650618.cms",
+    "time": "2026-10-03T02:07:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'OM ' release: Mammootty-Dhanush film set for Nov 20",
+    "desc": "Udhiram - The Blood Wood' has a new release date. The movie will now premiere in theaters on November 20, 2026, instead of October 16, 2026. The updated release date was announced through social media by the film's team. The movie includes a cast featuring Sai Pallavi, Sreeleela, and Naseeruddin Shah in significant roles.",
+    "img": "https://static.toiimg.com/photo/msid-134650637,imgsize-522552.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/om-chapter-1-udhiram-the-blood-wood-release-date-changed-mammootty-dhanush-film-now-arriving-on-nov-20/articleshow/134650630.cms",
+    "time": "2026-10-03T02:07:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Well done bro'",
+    "desc": "Salman Khan shared his appreciation for Captain Smit Machchhar's efforts in saving lives during a flight incident. The pilot was attacked by his co-pilot while flying from Dubai to Tel Aviv and sustained serious injuries. Despite this, he managed to successfully land the aircraft safely in Saudi Arabia with over 170 people on board. Other Indian celebrities, including Shilpa Shetty and Jackie Shroff, also recognized Machchhar's bravery and heroism.",
+    "img": "https://static.toiimg.com/photo/msid-134650470,imgsize-251140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-salutes-hero-pilot-smit-machchhar-after-averting-flydubai-crisis-says-well-done-bro/articleshow/134650399.cms",
+    "time": "2026-10-03T01:58:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘A third peak’: De Villiers on Kohli’s aggressive ODI approach ahead of 2027 WC",
+    "desc": "AB de Villiers shared his excitement over Virat Kohli's stellar performance in the ODIs against the West Indies, where Kohli's unbeaten 139 runs were pivotal for India's triumph. De Villiers highlighted the shift in Kohli's mindset, noting his newfound aggressiveness and positive outlook. He views this stage of Kohli's career as a remarkable resurgence, appreciating the strategic evolution he has undergone over the years.",
+    "img": "https://static.toiimg.com/photo/msid-134650521,imgsize-136850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/a-third-peak-ab-de-villiers-on-virat-kohlis-aggressive-odi-approach-ahead-of-2027-world-cup/articleshow/134650484.cms",
+    "time": "2026-10-03T01:45:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mandaadi' box office collections day 23 vs 'Dorothy'",
+    "desc": "Soori's 'Mandaadi' has maintained its box office performance into its fourth week, showcasing consistent earnings over time. On its 23rd day, the film collected Rs 1.38 cr in India, indicating an increase from the previous day. The total net collection in India has reached Rs 96.95 cr after this latest performance. Additionally, the film's cumulative worldwide gross has risen to Rs 130.74 cr, including overseas collections.",
+    "img": "https://static.toiimg.com/photo/msid-134650469,imgsize-287037.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mandaadi-box-office-collections-day-23-vs-dorothy-sooris-action-film-earns-rs-1-38-cr-karthik-subbaraj-film-at-rs-9-30-cr-worldwide-in-8-days/articleshow/134650457.cms",
+    "time": "2026-10-03T01:32:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Sean Connery",
+    "desc": "Romantic gestures often shine brightest in their simplicity, with smaller, meaningful acts proving to be more impactful. Sean Connery's insight reflects this beautifully—underscoring how an unsuspected gift can convey profound feelings. This idea resonates in today's dating landscape, where digital interactions dominate. Connery's journey from modest origins to Hollywood icon, particularly as James Bond, showcases his lasting influence on cinema, remembered fondly after his death in 2020.",
+    "img": "https://static.toiimg.com/photo/msid-134650432,imgsize-938403.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-sean-connery-the-key-to-a-womans-heart-is-an-unexpected-gift-at-an-unexpected-time-a-lesson-in-romance-and-thoughtfulness-from-the-first-james-bond-actor/articleshow/134650422.cms",
+    "time": "2026-10-03T01:25:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kate Hudson’s daughter Rani turns 8: Inside her sweet birthday post",
+    "desc": "Kate Hudson took to Instagram to post a delightful video collage celebrating her daughter Rani Rose's 8th birthday. The heartfelt montage captures cherished family moments filled with joy, from baking together to fun dance sessions. Kate lovingly described Rani as a vibrant firecracker and an empath, emphasizing their close-knit family bond. This special occasion not only commemorates Rani's birthday but also her unique personality and growing passions.",
+    "img": "https://static.toiimg.com/photo/msid-134650428,imgsize-93888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kate-hudson-celebrates-daughter-rani-roses-8th-birthday-with-rare-family-photos-and-videos/articleshow/134650417.cms",
+    "time": "2026-10-03T01:23:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals star creates history, surpasses Gayle for highest T20 score",
+    "desc": "Lhuan-dre Pretorius has made T20 cricket history with his phenomenal score of 188 runs off 79 balls while playing for the Titans against the Knights. This feat breaks Chris Gayle's former record of 175 runs, showcasing Pretorius's exceptional talent as he maintained a striking rate of 237.97. His recent century for South Africa further underscores his remarkable consistency and prowess on the field.",
+    "img": "https://static.toiimg.com/photo/msid-134650365,imgsize-95574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rajasthan-royals-star-creates-history-surpasses-chris-gayle-for-highest-t20-score/articleshow/134650352.cms",
+    "time": "2026-10-03T01:13:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Drishyam 3: The Conclusion' scores Rs 95 crore global debut",
+    "desc": "The Conclusion' has achieved a significant opening at the box office. The film earned an estimated Rs 95.10 crore worldwide on its first day of release. It surpassed the opening day figures of its predecessors, 'Drishyam 2' and 'Drishyam'. Strong advance bookings contributed to the successful debut with Rs 79.71 crore in ticket sales.",
+    "img": "https://static.toiimg.com/photo/msid-134650258,imgsize-513042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/drishyam-3-the-conclusion-box-office-collection-day-1-ajay-devgn-starrer-misses-rs-100-crore-opening-score-rs-95-crore-global-debut/articleshow/134650223.cms",
+    "time": "2026-10-03T01:01:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meghan Markle and Prince Harry’s first UK outing since the big move",
+    "desc": "After a long absence, Meghan Markle and Prince Harry made their first public appearance in the UK following their move from California. The couple was spotted enjoying a relaxed lunch at The Falkland Arms pub, hand in hand and savoring their meals. Markle indulged in gluten-free beer-battered haddock, while Prince Harry opted for a hearty chicken, ham, and leek pie.",
+    "img": "https://static.toiimg.com/photo/msid-134650295,imgsize-166994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markle-and-prince-harrys-first-public-outing-at-a-uk-pub-the-couple-hold-hands-in-public-heading-to-lunch/articleshow/134650288.cms",
+    "time": "2026-10-03T00:53:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Don't Trouble The Trouble' BO day 1",
+    "desc": "Fahadh Faasil's latest film 'Don't Trouble The Trouble' began its theatrical run on October 2, 2026. The movie recorded a net collection of Rs 1.65 crore on its opening day across various languages. The Telugu version contributed significantly to the earnings with Rs 1.44 crore collected. ETimes rated the film 3 stars, noting issues in the second half's pacing and editing.",
+    "img": "https://static.toiimg.com/photo/msid-134650290,imgsize-263221.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/dont-trouble-the-trouble-box-office-collections-day-1-fahadh-faasils-movie-opens-at-rs-1-65-cr-telugu-version-leads-with-rs-1-44-cr/articleshow/134650282.cms",
+    "time": "2026-10-03T00:52:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2006, Rudolph Valentino’s historic Falcon Lair Mansion was demolished",
+    "desc": "Falcon Lair was initially owned by silent-film star Rudolph Valentino and later became a retreat for Doris Duke. Valentino transformed the estate into a symbol of Hollywood glamour with a persona of a romantic leading man. After Valentino's death in 1926, the estate changed ownership several times and Duke acquired it for around 40 years. The original mansion was demolished in 2006, but the property's historical significance remains intact.",
+    "img": "https://static.toiimg.com/photo/msid-134650272,imgsize-617334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2006-rudolph-valentinos-historic-falcon-lair-mansion-was-demolished-the-4-acre-hollywood-property-later-received-plans-for-a-30000-square-foot-home/articleshow/134650265.cms",
+    "time": "2026-10-03T00:47:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sigma' BO day 1 vs 'Baththa' BO",
+    "desc": "Jason Sanjay's directorial debut 'Sigma' released in theatres on October 2, 2026 and has received a U/A certification. The film stars Sundeep Kishan and Faria Abdullah, with music by Thaman and cinematography by Krishnan Vasant. 'Sigma' earned Rs 2.35 cr net in India on its first day from 1,813 shows. The Tamil version contributed significantly to the earnings, while the Telugu version had lower occupancy rates.",
+    "img": "https://static.toiimg.com/photo/msid-134650238,imgsize-258404.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sigma-box-office-collections-day-1-vs-baththa-jason-sanjays-debut-earns-rs-2-35-cr-vijay-sethupathis-movie-jumps-to-rs-2-70-cr-on-day-2/articleshow/134650236.cms",
+    "time": "2026-10-03T00:27:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Avengers Endgame: Encore' hits USD 2.9 billion mark; to overtake 'Avatar'",
+    "desc": "Encore has garnered approximately USD 2.9 billion globally after a successful re-release. The film achieved an impressive opening weekend total of USD 86 million across international markets. Notably, this re-release is helping to build anticipation for the upcoming film Avengers: Doomsday, which premieres on December 18, 2026. Meanwhile, Avatar continues to hold the all-time box office record, currently totaling around USD 2.92 billion.",
+    "img": "https://static.toiimg.com/photo/msid-134650215,imgsize-216952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/avengers-endgame-encore-hits-usd-2-9-billion-mart-at-global-box-office-to-overtake-avatar-as-all-time-highest-grossing-film/articleshow/134650167.cms",
+    "time": "2026-10-03T00:16:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Paradise' BO day 9 : Nani film earns Rs 2.80 cr",
+    "desc": "Nani's latest film, 'The Paradise,' has achieved a remarkable India net collection of Rs 111 crore after just nine days at the box office. On its ninth day, the film generated Rs 2.80 crore, showing a slight dip from the previous day. The Telugu version has outperformed the Hindi release considerably, while the worldwide gross, including international earnings, stands at Rs 162 crore.",
+    "img": "https://static.toiimg.com/photo/msid-134650207,imgsize-329738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-box-office-collections-day-9-nani-film-earns-rs-2-80-cr-india-net-reaches-rs-111-cr-worldwide-gross-crosses-rs-162-cr/articleshow/134650205.cms",
+    "time": "2026-10-03T00:11:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "FBI arrests Energy Department employee on charge of trying to support Iran-backed Houthis in Yemen",
+    "desc": "Ashton Hamed Ellaboudy, 51, of Richland, Washington, was arrested on Thursday (October 1, 2026) and is due to make his first court appearance Friday. Court records do not list an attorney available to speak on his behalf.",
+    "img": "https://th-i.thgim.com/public/incoming/qoa03k/article71538630.ece/alternates/LANDSCAPE_1200/2026-09-29T152009Z_1007900502_RC26JEA5NSGS_RTRMADP_3_USA-CYBER-SHINYHUNTERS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/fbi-arrests-energy-department-employee-on-charge-of-trying-to-support-iran-backed-houthis-in-yemen/article71538629.ece",
+    "time": "2026-10-02T23:23:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Michael Douglas ADMITS to secret affair with Kathleen Turner",
+    "desc": "Michael Douglas has revealed details about his secret romantic relationship with Kathleen Turner from four decades ago. He admitted that they developed feelings for each other while filming 'Romancing the Stone'. Their relationship ended when Douglas' wife visited the set with their young son, prompting him to prioritize family. Despite the past romance, they continued to collaborate professionally on subsequent projects.",
+    "img": "https://static.toiimg.com/photo/msid-134650112,imgsize-268576.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-douglas-admits-to-secret-affair-with-kathleen-turner-during-romancing-the-stone-says-he-lied-about-romance-to-protect-my-wife-and-son/articleshow/134650055.cms",
+    "time": "2026-10-02T23:20:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tobey Maguire officially DIVORCED, 10 years after separation",
+    "desc": "Tobey Maguire and Jennifer Meyer finalized their divorce, restoring their statuses as single persons after years of separation. They married in 2007 but announced their separation in 2016, stating they prioritized co-parenting their two children. Jennifer Meyer has since begun a new relationship and is now engaged, having welcomed a daughter in June 2026.",
+    "img": "https://static.toiimg.com/photo/msid-134650015,imgsize-282983.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-star-tobey-maguire-officially-divorced-from-jennifer-meyer-10-years-after-separation/articleshow/134646837.cms",
+    "time": "2026-10-02T22:27:50.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Deleted, and left in limbo",
     "desc": "Across Bihar and West Bengal, lakhs of voters were deleted from the electoral rolls during the Special Intensive Revision (SIR) exercise, leaving them unable to vote in the 2025 and 2026 Assembly elections. Over 47 lakh names were deleted in Bihar and nearly 91 lakh in West Bengal. Shrabana Chatterjee and Senjuti Sengupta met some of those affected, documenting the uncertainty, paperwork, and repeated attempts to prove their citizenship and eligibility that followed the deletions",
@@ -27,31 +270,13 @@ const newsData_en = [
     "time": "2026-10-02T19:00:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mukesh Khanna on his role in film 'Vishwaguru': 'I told them that I don’t...'",
-    "desc": "Mukesh Khanna is gearing up for an exciting role in the anticipated film 'Vishwaguru', which has captured his attention for its compelling narrative and significant social themes. He acknowledged his initial concerns about delivering his lines in Gujarati, ultimately deciding to perform in Hindi. Khanna noted that the film holds valuable insights for both young audiences and educational authorities. Release details are still pending.",
-    "img": "https://static.toiimg.com/photo/msid-134645793,imgsize-426526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mukesh-khanna-on-his-role-in-the-film-vishwaguru-after-hearing-the-story-i-told-them-that-i-dont-/articleshow/134645685.cms",
-    "time": "2026-10-02T18:56:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mukesh Khanna CRITICISES Ranbir's portrayal of Lord Ram: 'Against our faith'",
-    "desc": "Mukesh Khanna has raised his voice against the representation of Lord Ram in the upcoming film 'Ramayana'. He argues that the film's aggressive portrayal contradicts Lord Ram's revered image as Maryada Purushottam. Drawing on a specific episode from the epic, Khanna highlighted Lord Ram's humility. Moreover, he commented on how Hindu figures are often unfairly depicted in films crafted by their own community, labeling them as a soft target.",
-    "img": "https://static.toiimg.com/photo/msid-134645466,imgsize-924127.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mukesh-khanna-criticises-ranbir-kapoors-portrayal-of-lord-ram-in-ramayana-teaser-i-said-schwarzenegger-salman-khan-akshay-kumar-and-rajinikanth-can-do-this-but-purushottam-would-never/articleshow/134645391.cms",
-    "time": "2026-10-02T18:42:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bollywood celebs join protest at Mumbai's Shivaji Park",
-    "desc": "In a vigorous display of civic engagement, celebrities Shabana Azmi and Naseeruddin Shah joined hands at Mumbai's Shivaji Park for the CJP protest. They rallied for the resignation of CEC Gyanesh Kumar and challenged the Special Intensive Revision process of voter rolls. Azmi highlighted the significance of voting and citizens' rights, while Javed Akhtar provoked thought on the local community's mixed reactions to political demonstrations.",
-    "img": "https://static.toiimg.com/photo/msid-134645205,imgsize-671108.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shabana-azmi-naseeruddin-shah-and-vishal-dadlani-join-protest-at-mumbais-shivaji-park-report/articleshow/134645167.cms",
-    "time": "2026-10-02T18:24:38.000Z"
+    "cat": "Politics",
+    "title": "Antique collectors raise alarm over online fraud",
+    "desc": "Complaints have surfaced about fraudulent online sales of items that have undergone extensive repairs or had their original components replaced. Though restoration itself is a legitimate practice in the conservation of antiques, the concern is whether the extent of restoration, provenance and previous ownership are accurately disclosed to buyers",
+    "img": "https://th-i.thgim.com/public/incoming/j7z27b/article71538013.ece/alternates/LANDSCAPE_1200/80692_2_10_2026_18_30_34_1_03TVKZANTIQUE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/antiques-or-artifice-collectors-sound-alarm-over-online-antique-fraud/article71536687.ece",
+    "time": "2026-10-02T18:43:09.000Z"
   },
   {
     "cat": "Sports",
@@ -90,13 +315,13 @@ const newsData_en = [
     "time": "2026-10-02T17:40:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Zac Efron",
-    "desc": "In a candid discussion, Zac Efron reflected on the hurdles he faced as a star, stressing the importance of lightheartedness during difficult moments. He shared that feeling insecure or making errors doesn’t amount to failure. Efron's journey highlights the intense scrutiny of fame and the essential need for self-acceptance, a message that resonates strongly amid our current social media culture.",
-    "img": "https://static.toiimg.com/photo/msid-134635000,imgsize-128296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/motivational-quote-of-the-day-by-zac-efron-i-learned-to-take-myself-a-lot-less-seriously-a-powerful-life-lesson-on-self-acceptance-perspective-and-personal-growth/articleshow/134634923.cms",
-    "time": "2026-10-02T17:30:00.000Z"
+    "cat": "Sports",
+    "title": "How Hansi flicked the Raphinha switch",
+    "desc": "The Barcelona coach has unlocked a turbocharged version of the Brazilian attacker by shifting him from the wing to the centre-forward’s position. Raphinha has exploded in his new role, rising to the top of the LaLiga scoring charts ahead of Lamine Yamal and Kylian Mbappe",
+    "img": "https://th-i.thgim.com/public/incoming/pwtcfi/article71538367.ece/alternates/LANDSCAPE_1200/GettyImages-2294428281.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/raphinha-no-9-barcelona-new-role-goals-analysis/article71538366.ece",
+    "time": "2026-10-02T17:30:51.000Z"
   },
   {
     "cat": "Politics",
@@ -144,15 +369,6 @@ const newsData_en = [
     "time": "2026-10-02T16:30:06.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "In 1972, Elton John bought his first home and named it Hercules",
-    "desc": "Elton John has curated a stunning array of residences throughout his life, each reflecting his artistic sensibility and personal touch. From his inaugural home, Hercules, to Woodside, which mirrored his evolving design ethos, every space tells a story. His Atlanta home was a showcase for his photography collection. After his retirement, an auction of over 900 items from this sanctuary unveiled the fascinating lifestyle of this iconic artist.",
-    "img": "https://static.toiimg.com/photo/msid-134643927,imgsize-152455.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1972-elton-john-bought-his-first-home-and-named-it-hercules-inside-the-rocket-mans-extraordinary-world-of-art-cars-and-maximalist-interiors/articleshow/134634686.cms",
-    "time": "2026-10-02T16:30:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Rahul Gandhi demands CEC Gyanesh Kumar’s resignation as protests erupt in Delhi, Mumbai",
     "desc": "Rahul Gandhi has called for Chief Election Commissioner Gyanesh Kumar's resignation during ongoing protests. These protests arose over allegations of irregularities in the electoral-roll revision exercise. Approximately 700 protesters were detained in Delhi while trying to gather near Jantar Mantar for the demonstrations. Additional protests took place in Mumbai, where various groups demanded Kumar's resignation and accountability.",
@@ -171,60 +387,6 @@ const newsData_en = [
     "time": "2026-10-02T16:18:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'We will continue to be seen together'",
-    "desc": "Responding to mounting speculation about her relationship with actor Govinda, Komal Rani Swarnkar has defended her connections. She clarified that their appearances are in promotion of their film 'Roopa', set to hit theaters in early 2027. Furthermore, she called out other actresses who have weighed in on her situation, implying they are merely chasing relevance through controversy, and emphasized the importance of separating genuine connections from media spectacles.",
-    "img": "https://static.toiimg.com/photo/msid-134643332,imgsize-559614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/komal-rani-swarnkar-hits-back-at-divya-khossla-and-kashmera-shah-amid-affair-rumours-with-govinda-says-we-will-continue-to-be-seen-together-if-that-bothers-anyone-let-them-burn/articleshow/134643153.cms",
-    "time": "2026-10-02T16:15:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Tom Selleck",
-    "desc": "Tom Selleck emphasizes that embracing failure is crucial for success in any creative endeavor. He encourages emerging actors to take bold risks rather than shying away from potential setbacks. According to him, failures often impart lessons that triumphs cannot. His own journey was filled with challenges prior to his iconic role in Magnum, P.I., and his insights resonate well beyond the acting realm.",
-    "img": "https://static.toiimg.com/photo/msid-134634898,imgsize-964015.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-tom-selleck-you-must-develop-an-appetite-for-failure-because-the-only-way-you-can-risk-being-good-in-the-acting-business-is-to-stick-your-neck-out-to-risk-failing-a-powerful-life-lesson-highlighting-the-importance-of-challenges-and-setbacks/articleshow/134634860.cms",
-    "time": "2026-10-02T15:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Akhilesh Yadav's Rajya Sabha picks: Samajwadi Party's master strategy or 'PDA' contradiction?",
-    "desc": "Samajwadi Party chief Akhilesh Yadav's Rajya Sabha picks, including uncle Ram Gopal Yadav and Reliance executive Dhanraj Parimal Nathwani, are being seen as an early test for the 2027 Uttar Pradesh assembly polls. The nominations raise questions over the SP's PDA strategy, its broader political outreach and a possible third Rajya Sabha candidate, despite the party's numbers falling short of the winning quota.",
-    "img": "https://static.toiimg.com/photo/msid-134642772,imgsize-1412273.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/akhilesh-yadavs-rajya-sabha-picks-samajwadi-partys-master-strategy-or-pda-contradiction/articleshow/134642605.cms",
-    "time": "2026-10-02T15:27:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nushrratt flown back to Mumbai in air ambulance; videos show actress on stretcher",
-    "desc": "Actress Nushrratt Bharuccha recently underwent spine surgery in Mumbai after suffering a spinal fracture from a work-related incident in Bali. Her team has urged the public to respect her and her family’s privacy as they navigate this difficult period. Excitingly, Nushrratt is set to star alongside Tiger Shroff in an upcoming film, following her recent appearance in the comedy thriller 'Ufff Yeh Siyapaa'.",
-    "img": "https://static.toiimg.com/photo/msid-134642321,imgsize-510303.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nushrratt-bharuccha-flown-back-to-mumbai-in-air-ambulance-after-spinal-fracture-in-bali-accident-videos-show-actress-on-stretcher/articleshow/134642090.cms",
-    "time": "2026-10-02T14:58:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Warring out, Pargat Singh in: Has Congress solved Punjab crisis or created more confusion?",
-    "desc": "Amarinder Singh Raja Warring has resigned as the president of the Punjab Congress after more than four years. His resignation follows a prolonged period of infighting over leadership roles within the party. Both Charanjit Singh Channi and Warring have seen shifts in their status amid ongoing power struggles. But has Congress really solved the Punjab crisis?",
-    "img": "https://static.toiimg.com/photo/msid-134644632,imgsize-93149.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/warring-out-channi-not-in-yet-has-congress-solved-punjab-crisis-or-created-more-confusion/articleshow/134640757.cms",
-    "time": "2026-10-02T14:37:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sanjeev Kumar did C-grade films as he was broke, lent Rs 96 lakhs to his friends",
-    "desc": "During the early days of his acting career, Sanjeev Kumar endured notable financial difficulties. Despite these struggles, his generosity shone through as he frequently lent money to friends, often without repayment. He took pride in supporting colleagues such as Shatrughan Sinha and Boney Kapoor without any strings attached. Sanjeev didn't marry, believing his life would be brief.",
-    "img": "https://static.toiimg.com/photo/msid-134641980,imgsize-133947.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjeev-kumar-did-c-grade-films-as-he-was-broke-lent-rs-96-lakhs-to-his-friends-5-6-lakhs-to-shatrughan-sinha-he-suffered-two-heart-attacks-when-he-met-sulakshana-pandit/articleshow/134641878.cms",
-    "time": "2026-10-02T14:33:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Six gold medals across boxing, wrestling, hockey highlight Asian Games Day 13",
     "desc": "India produced a stunning six-gold haul on the penultimate day of the Asian Games on Friday, with the women's hockey team, three boxers, archers and wrestler Sujeet Kalkal leading a late surge that took the country into the top five of the medal table. India moved to fifth place with 76 medals - 16 gold, 25 silver and 35 bronze. India have more medals than fourth-placed Uzbekistan, who have 65, but trail them by four gold medals.",
@@ -234,15 +396,6 @@ const newsData_en = [
     "time": "2026-10-02T14:30:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "In 2019, Michael B. Jordan bought this $5.8 million LA home with a pool and private outdoor spaces",
-    "desc": "The luxurious Hollywood Hills home of Michael B. Jordan is back on the market, listed for $14 million. Designed in 1997 by architect Jeffrey Mills, the residence was transformed during Jordan's ownership. With four bedrooms, a modernized kitchen, and expanded outdoor spaces featuring a sauna pavilion, the property showcases impressive renovations by design studio Ome Dezin. The ACME Team at SERHANT is currently responsible for this exquisite listing.",
-    "img": "https://static.toiimg.com/photo/msid-134637225,imgsize-88189.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2019-michael-b-jordan-bought-this-5-8-million-la-home-with-a-pool-and-private-outdoor-spaces-inside-his-former-hollywood-hills-residence/articleshow/134637189.cms",
-    "time": "2026-10-02T14:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Asian Games 2026",
     "desc": "The players end a 44-year wait for gold even as they punch their tickets to the 2028 LA Olympics, following a defending masterclass led by Savita under the post to protect Lalremsiami’s rasping reverse shot that gave them the lead against the title holder",
@@ -250,15 +403,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/india-womens-hockey-team-wins-asian-games-gold-after-44-years-qualifies-for-2028-olympics/article71537065.ece",
     "time": "2026-10-02T14:25:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ayushmann's 'Udta Teer' POSTPONED from Oct 9 to October 23",
-    "desc": "The release of 'Udta Teer' has been rescheduled to October 23, moving from its original date of October 9. The film's team believes this change allows for a better theatrical opportunity in a crowded marketplace. Ayushmann Khurrana plays a Pakistani spy who forgets his identity and supports India, creating a unique storyline. The film marks the directorial debut of Akash A Kaushik and features a strong supporting cast.",
-    "img": "https://static.toiimg.com/photo/msid-134641780,imgsize-778700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayushmann-khurrana-and-sara-ali-khans-udta-teer-postponed-amid-gondhal-previews-giving-it-a-cleaner-release-window/articleshow/134641701.cms",
-    "time": "2026-10-02T14:17:13.000Z"
   },
   {
     "cat": "Business",
@@ -288,24 +432,6 @@ const newsData_en = [
     "time": "2026-10-02T13:48:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay Varma's cut-out outfit grabs attention; netizens say 'Male Uorfi'",
-    "desc": "At a Mumbai gathering, Vijay Varma made waves with his avant-garde all-black ensemble, sparking a flurry of discussions across social media. The fitted top showcased a criss-cross lattice pattern, complemented by edgy high-waisted leather trousers. This bold fashion choice drew playful comparisons to Uorfi Javed's distinctive style, making his look the center of attention and delighting netizens who couldn't resist sharing their witty takes.",
-    "img": "https://static.toiimg.com/photo/msid-134641114,imgsize-714665.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vijay-varmas-all-black-cut-out-outfit-grabs-attention-netizens-call-him-male-uorfi-javed-cartoon/articleshow/134639674.cms",
-    "time": "2026-10-02T13:40:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Archana's family buys another bungalow in Mumbai, Madh Island",
-    "desc": "Archana Puran Singh and her family unveil their charming new bungalow nestled in Madh Island through a recent vlog. Retaining the aesthetic of their existing home, this new space is perfect for work and relaxation alike. With well-lit bedrooms featuring en-suite bathrooms, the family showcases their projects while documenting their journey on YouTube, inviting fans into their expanding lifestyle and property investments.",
-    "img": "https://static.toiimg.com/photo/msid-134641133,imgsize-296668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/archana-puran-singhs-family-buys-another-bungalow-in-mumbai-madh-island-after-parmeet-sethi-said-youtube-pays-them-three-times-more-than-films-and-tv/articleshow/134641052.cms",
-    "time": "2026-10-02T13:38:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "KSCA seeks 50 acres of land in Mangaluru to develop cricket infrastructure, writes to MUDA",
     "desc": "In a letter to MUDA chairperson, B. K. Venkatesh Prasad, Honorary President of KSCA, stated that the cricket body is committed to ensure that the proposed facility becomes a Centre of Excellence for development of the game",
@@ -322,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/sometimes-in-chess-there-are-just-these-blind-spots-nihal-sarin-looks-back-at-his-chess-olympiad-loss-to-uzbekistan-exclusive/articleshow/134640893.cms",
     "time": "2026-10-02T13:35:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NCERT brings startup lessons to Class IX",
-    "desc": "A new chapter on startups and entrepreneurship has been introduced for Class IX students in NCERT textbooks. The chapter emphasizes the growth of India's startup ecosystem over the past decade. It includes important lessons on identifying business opportunities and creating effective business plans. Entrepreneurial stories, including those of Lijjat Papad and Mohan Singh Oberoi, illustrate key concepts.",
-    "img": "https://static.toiimg.com/photo/msid-134641010,imgsize-56806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-papads-to-pitches-ncert-brings-startup-lessons-to-class-ix/articleshow/134640986.cms",
-    "time": "2026-10-02T13:30:22.000Z"
   },
   {
     "cat": "Business",
@@ -360,33 +477,6 @@ const newsData_en = [
     "time": "2026-10-02T12:30:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Motivational quote of the Day by Michael B. Jordan",
-    "desc": "Michael B. Jordan is optimistic about 2026 and aims for personal development by surpassing his past self. He emphasizes the importance of making small yet impactful changes to foster self-growth. Jordan's encouragement inspires people to relish their unique journeys instead of measuring their success against others on social media, advocating that gradual efforts lead to significant transformations.",
-    "img": "https://static.toiimg.com/photo/msid-134637147,imgsize-49994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/motivational-quote-of-the-day-by-michael-b-jordan-continue-to-try-to-be-the-best-version-of-yourself-a-powerful-life-lesson-highlighting-a-basic-requirement-for-self-growth/articleshow/134637101.cms",
-    "time": "2026-10-02T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka Chopra Jonas cheers for Fahadh Faasil’s ‘Don’t Trouble The Trouble’",
-    "desc": "Priyanka Chopra Jonas expressed her support for the new film ‘Don’t Trouble The Trouble’ on social media. The film features Fahadh Faasil as a magician and includes elements of fantasy and adventure. Chopra will also star in the upcoming project ‘Varanasi’ directed by SS Rajamouli alongside Mahesh Babu and Prithviraj Sukumaran. ‘Varanasi’ is scheduled for release on April 7, 2027, in multiple languages worldwide.",
-    "img": "https://static.toiimg.com/photo/msid-134639472,imgsize-133008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/priyanka-chopra-jonas-lauds-fahadh-faasils-dont-trouble-the-trouble-says-go-watch-it-in-cinemas-today/articleshow/134639374.cms",
-    "time": "2026-10-02T12:15:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Celebs hail pilot Captain Smit Machchhar for saving 174 people",
-    "desc": "Film stars across the industry have lauded Captain Smit Machchhar for his remarkable courage in averting a potential mid-air crisis. While en route from Dubai to Tel Aviv, he was violently attacked by his co-pilot, sustaining multiple stab wounds. Nevertheless, Captain Machchhar heroically opened the cockpit door, enabling crew members and passengers to respond effectively. Bollywood celebrities have taken to social media to honor his bravery.",
-    "img": "https://static.toiimg.com/photo/msid-134639436,imgsize-720272.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-vijay-deverakonda-ravi-kishan-and-paresh-rawal-hail-pilot-captain-smit-machchhar-for-saving-174-people-on-a-flydubai-flight/articleshow/134638508.cms",
-    "time": "2026-10-02T12:13:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Unhappy' Abhishek Sharma wants to leave SRH",
     "desc": "Abhishek Sharma's future at Sunrisers Hyderabad is in focus ahead of the IPL retention deadline, with the opener \"unhappy\" after Ishan Kishan was handed the captaincy last year and is set to continue in IPL 2027 as well because of Pat Cummins, who is likely to cut down on his franchise commitments. Mumbai Indians, Gujarat Titans and Punjab Kings are among potential destinations, while Delhi Capitals could also emerge as an option for the star batter.",
@@ -394,24 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-retentions-unhappy-abhishek-sharma-wants-to-leave-srh-but-where-will-he-go/articleshow/134638490.cms",
     "time": "2026-10-02T11:42:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Anbil Avan’ movie review: We appreciate that you tried",
-    "desc": "Honestly, the audience seems to want Preity Mukhundhan and Ashok Selvan, a beautiful-looking couple, to succeed in ‘Anbil Avan.’ Yet this romance-thriller set in the hills is bogged down by trope-ridden, unidimensional characters and an endless action sequence",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/yo22c9/article71536744.ece/alternates/LANDSCAPE_1200/Anbil%20Avan%20review.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/anbil-avan-movie-review-ashok-selvan-preity-mukhundhan-r-kaarthikeyan/article71536710.ece",
-    "time": "2026-10-02T11:31:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dino arrested by EOW in Mithi River desilting case over loss of Rs 65.54 crore",
-    "desc": "Dino Morea was arrested by Mumbai Police's Economic Offences Wing after a lengthy questioning session. His arrest is linked to the alleged Mithi River desilting scam involving financial irregularities. The BMC reportedly suffered a loss of Rs 65.54 crore from contracts awarded for the river's rejuvenation. Morea had previously been questioned in May 2025 regarding phone records connecting him to the investigation.",
-    "img": "https://static.toiimg.com/photo/msid-134638140,imgsize-210074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dino-morea-arrested-by-mumbai-polices-eow-in-mithi-river-desilting-case-over-loss-of-rs-65-54-crore-suffered-by-bmc-after-8-hours-of-questioning/articleshow/134638063.cms",
-    "time": "2026-10-02T11:22:06.000Z"
   },
   {
     "cat": "Business",
@@ -450,24 +522,6 @@ const newsData_en = [
     "time": "2026-10-02T10:22:35.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Three golds in a day! Ankush completes Indian boxing hat-trick at Asian Games",
-    "desc": "Ankush Panghal secured the gold medal in the men's 80kg final against South Korea's Minseong Kim. This victory came after Lovlina Borgohain and Parveen Hooda won their respective finals in women's categories. Lovlina celebrated her birthday with a significant win against China's Ziyi Bao, becoming a two-time Asian Games champion. Parveen earned her first Asian Games gold in a tightly contested match against Chen Nien-chin of Chinese Taipei.",
-    "img": "https://static.toiimg.com/photo/msid-134636462,imgsize-149199.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/three-golds-in-a-day-ankush-panghal-completes-indian-boxing-hat-trick-at-asian-games/articleshow/134636426.cms",
-    "time": "2026-10-02T09:46:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sujeet Kalkal wins India's first wrestling gold at Asian Games 2026",
-    "desc": "Sujeet Kalkal gave India its first gold medal in wrestling at the Asian Games 2026, winning the men's freestyle 65kg title in Aichi-Nagoya, Japan. Kalkal defeated Tajikistan's Abdulmazhid Kudiev in the final at the Nagoya City Inae Sports Center.",
-    "img": "https://static.toiimg.com/photo/msid-134636459,imgsize-33766.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/sujeet-kalkal-wins-indias-first-wrestling-gold-at-asian-games-2026/articleshow/134636418.cms",
-    "time": "2026-10-02T09:46:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Global food prices rise to their highest level in nearly four years",
     "desc": "In a concerning trend, global food prices have surged to their highest point in nearly four years, driven by disruptions in trade and adverse weather conditions. According to the United Nations' Food and Agriculture Organization, there are marked increases in the costs of cereals, sugar, and vegetable oils. Interestingly, the prices for meat and dairy products have dipped during this period.",
@@ -495,24 +549,6 @@ const newsData_en = [
     "time": "2026-10-02T09:21:14.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Parveen Hooda holds her nerve to clinch Asian Games boxing gold in 3-2 thriller",
-    "desc": "Parveen Hooda's extraordinary comeback culminated in winning the women's 65kg boxing gold at the Asian Games, triumphing over Chen Nien-Chen of Chinese Taipei with a nail-biting 3-2 split decision. Earlier, Lovlina Borgohain triumphantly broke India's 12-year drought for women's boxing golds at the Asian Games by besting Ziyi Bao and securing a unanimous decision, elevating her from silver to gold.",
-    "img": "https://static.toiimg.com/photo/msid-134635655,imgsize-52378.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/parveen-hooda-holds-her-nerve-to-clinch-asian-games-boxing-gold-in-3-2-thriller/articleshow/134635629.cms",
-    "time": "2026-10-02T09:05:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Drishyam 3' box office collection day 1 (LIVE): Biggest opener of Ajay's career",
-    "desc": "The Conclusion', which premiered in cinemas on October 2. On opening day, the film achieved a net collection of Rs 2.85 crore across 1,210 screens in India. With advance sales generating considerable excitement, the film has amassed a gross of Rs 60.17 crore so far. Early audience feedback praises the gripping performances and suspense, which are key to its favorable reviews.",
-    "img": "https://static.toiimg.com/photo/msid-134635486,imgsize-284207.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/drishyam-3-box-office-collection-day-1-live-ajay-devgn-tabus-film-takes-a-solid-start-expected-to-cross-rs-50-crore-on-gandhi-jayanti/articleshow/134634803.cms",
-    "time": "2026-10-02T08:39:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Gold gets its festive shine back as lower prices lure Asian buyers",
     "desc": "Recent declines in gold prices in India have sparked greater interest among physical buyers, leading to reduced discounts from sellers. With the festival season on the horizon, demand is likely to surge, particularly for jewelry. Similarly, Singapore reports increased buying activity, as evidenced by dealer inventories. Meanwhile, China is keeping a close eye on price fluctuations, experiencing high premiums for gold.",
@@ -520,24 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/gold-gets-its-festive-shine-back-as-lower-prices-lure-asian-buyers/articleshow/134634015.cms",
     "time": "2026-10-02T08:10:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I wanted to quit boxing’: Lovlina fights through tough year to script historic gold",
-    "desc": "Lovlina Borgohain celebrated her 29th birthday by winning gold at the Asian Games in Japan. She had previously considered quitting boxing after a disappointing performance at the Paris Olympics. Overcoming self-doubt and a year of challenges, Lovlina triumphed in the women's 75kg final against China's Ziyi Bao. This victory also marked the end of a 12-year wait for a female boxing champion from India.",
-    "img": "https://static.toiimg.com/photo/msid-134634976,imgsize-187735.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/i-wanted-to-quit-boxing-lovlina-borgohain-fights-through-tough-year-to-script-historic-asian-games-gold/articleshow/134634903.cms",
-    "time": "2026-10-02T08:08:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India add sepaktakraw bronze as medal tally swells to 72",
-    "desc": "India's men's sepaktakraw team clinched a bronze medal after a tough semifinal defeat against Japan, showcasing tenacity despite critical point challenges. The team's performance was just one highlight of a successful day, with several other medals won in boxing and archery, raising India’s overall medal count at the Asian Games to 72. Upcoming events promise even more chances for Indian athletes to shine and elevate the medal tally.",
-    "img": "https://static.toiimg.com/photo/msid-134634754,imgsize-176924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-india-add-sepaktakraw-bronze-as-medal-tally-swells-to-72/articleshow/134634617.cms",
-    "time": "2026-10-02T07:49:40.000Z"
   },
   {
     "cat": "Business",
@@ -556,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/yezhu-kadal-yezhu-malai-review-nivin-pauly-soori-director-ram-bethlehem-kudumba-unit-mandaadi/article71534076.ece",
     "time": "2026-10-02T06:57:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India add another archery silver as men’s recurve team loses to Korea",
-    "desc": "India's men's recurve team secured a silver medal at the Asian Games after losing to South Korea. The team comprised Dhiraj Bommadevara, Yashdeep Bhoge, and Neeraj Chauhan, who performed strongly in the finals. They started well but struggled against South Korea's impressive performance throughout the match. Earlier, India achieved a commanding semifinal victory over Iran, showcasing their archery skills.",
-    "img": "https://static.toiimg.com/photo/msid-134633714,imgsize-162481.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-india-add-another-archery-silver-as-mens-recurve-team-loses-to-south-korea/articleshow/134633655.cms",
-    "time": "2026-10-02T06:47:42.000Z"
   },
   {
     "cat": "World",
@@ -720,15 +729,6 @@ const newsData_en = [
     "time": "2026-10-01T13:24:45.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Gill combines beauty with responsibility in pursuit of greatness",
-    "desc": "The Indian captain appears to relish the challenge of being the set batter who carries the innings through; he seems to have discovered that the shortest distance between himself and greatness is simply to keep batting",
-    "img": "https://th-i.thgim.com/public/incoming/zi5naq/article71532966.ece/alternates/LANDSCAPE_1200/2150_30_9_2026_21_6_50_1_INDIAODI_30092026_33.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/gill-combines-beauty-with-responsibility-in-pursuit-of-greatness/article71532970.ece",
-    "time": "2026-10-01T12:48:05.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Trade deals that undermine multilateralism may hit growth and exports, govt economists warn",
     "desc": "However, the report by the Department of Economic Affairs noted that while India was pursuing a diversified trade strategy, it was doing so within the multilateral trading system and still sought to have the WTO at the core",
@@ -765,31 +765,13 @@ const newsData_en = [
     "time": "2026-10-01T01:56:46.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.S. Supreme Court clears way for Tennessee woman's imminent execution",
-    "desc": "A decision by the U.S. Supreme Court late on September 30 cleared the way for Christa Pike to be given a lethal injection after hours of dramatic legal wrangling up and down the judicial system",
-    "img": "https://th-i.thgim.com/public/incoming/hu6fgi/article71531204.ece/alternates/LANDSCAPE_1200/2026-09-30T135639Z_1416470123_RC2PTNAYXSRM_RTRMADP_3_TENNESSEE-EXECUTION.JPG",
+    "cat": "Tech",
+    "title": "GPT-6.1 Astra: Why OpenAI halted its release",
+    "desc": "OpenAI has chosen to hold back GPT-6.1 Astra after internal tests showed that the model fell short of the company’s safety and alignment requirements. The model reportedly had difficulty staying within its authorised scope and accurately explaining the tasks it had performed.",
+    "img": "https://th-i.thgim.com/public/videos/shorts/uxqp5m/article71529974.ece/alternates/LANDSCAPE_1200/OPEN%20AI%20thumb.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-supreme-court-clears-way-for-tennessee-womans-imminent-execution/article71531199.ece",
-    "time": "2026-10-01T01:53:55.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Pilot stabbed colleague in bid to crash Israel-bound flydubai plane: Netanyahu",
-    "desc": "‘The naive notion that our enemies cherish life and that we should pity them received another reminder this morning in the form of a terrorist who planned to crash a plane and murder the 180 Israelis on board,’ Itamar Ben Gvir said",
-    "img": "https://th-i.thgim.com/public/incoming/lyx750/article71528788.ece/alternates/LANDSCAPE_1200/Mideast_Emergency_Landing_38992.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/israel-bound-commercial-plane-from-dubai-diverted-to-saudi-arabia-after-distress-call/article71527429.ece",
-    "time": "2026-09-30T21:41:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Japan forms first national intelligence agency, eyes its own CIA",
-    "desc": "The demand for the overhaul of intelligence gathering network of Japan has gained strength in recent months amidst allegations that foreign powers like the U.S., Russia and China have been using Japan for their intelligence operations and that Japan is uncomfortable about such foreign operations on its soil.",
-    "img": "https://th-i.thgim.com/public/incoming/ntiui3/article71530199.ece/alternates/LANDSCAPE_1200/2026-09-23T053706Z_1958701863_RC2SONANRT3V_RTRMADP_3_UN-ASSEMBLY-JAPAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/japan-forms-first-national-intelligence-agency-eyes-its-own-cia/article71529027.ece",
-    "time": "2026-09-30T18:44:39.000Z"
+    "url": "https://www.thehindu.com/videos/gpt-61-astra-why-openai-halted-its-release/article71529980.ece",
+    "time": "2026-09-30T16:40:47.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/indian-non-profits-lag-on-digital-maturity-ai-adoption-report/article71512189.ece",
     "time": "2026-09-27T11:17:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit: Beijing",
+    "desc": "The two countries established a “U.S.-China Super Intelligence (SI) Dialogue to exchange views on risks and benefits” of AI, the White House said in a fact sheet, noting that their leaders had agreed to use the term SI rather than AI.",
+    "img": "https://th-i.thgim.com/public/incoming/rcniue/article71511781.ece/alternates/LANDSCAPE_1200/AP09_26_2026_000002B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-china-to-set-up-communication-channel-for-ai-incidents/article71511753.ece",
+    "time": "2026-09-26T11:53:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "OpenAI works to understand full scope of agent activity as user data leak emerges",
+    "desc": "OpenAI said that ‌its models accessed information from the websites of the U.S. Securities and Exchange Commission and the U.S. Census Bureau during research and training activity, but found no evidence of unauthorised access, compromised accounts or security breaches",
+    "img": "https://th-i.thgim.com/public/incoming/egcz7s/article71511523.ece/alternates/LANDSCAPE_1200/Open_AI_Safety__4766.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/openai-works-to-understand-full-scope-of-agent-activity-as-user-data-leak-emerges/article71511499.ece",
+    "time": "2026-09-26T07:53:21.000Z"
   }
 ];
