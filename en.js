@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Faster registration, easier refunds: Reform rollout with GST 2.0",
+    "desc": "GST Council plans to unveil substantial reforms aimed at improving business processes and facilitating growth. The proposed changes involve streamlined registration, easier refunds, and a more efficient input tax credit system. Decriminalisation measures are also proposed to alleviate issues for businesses with minor offenses. A focus is on reducing discretionary practices and using technology to minimize litigation. These reforms seek to enhance operational efficiency for both small and large enterprises.",
+    "img": "https://static.toiimg.com/photo/msid-134680261,imgsize-888824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/faster-registration-easier-refunds-reform-rollout-with-gst-2-0/articleshow/134680227.cms",
+    "time": "2026-10-04T20:25:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court judge Justice Ujjal Bhuyan",
+    "desc": "Justice Ujjal Bhuyan condemned the extensive deletion of voter names from electoral rolls due to the special intensive revision process. He emphasized that such actions undermine the core principles of the Indian Constitution and disenfranchise millions of citizens. Bhuyan highlighted that the right to vote is essential for free and fair elections in India. He urged that no citizen should be denied the right to vote without due process.",
+    "img": "https://static.toiimg.com/photo/msid-134680197,imgsize-85376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sir-strikes-at-heart-of-constitution-supreme-court-judge-justice-ujjal-bhuyan/articleshow/134680179.cms",
+    "time": "2026-10-04T20:04:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Koder House fire may have originated in adjacent building, says Electrical Inspectorate",
+    "desc": "CCTV footage and mobile phone videos show flames spreading from the terrace of the adjacent building to Koder House. Officials suspect a short circuit in an AC unit may have sparked the blaze, but a detailed scientific examination is needed to establish the exact cause.",
+    "img": "https://th-i.thgim.com/public/incoming/5mmg9b/article71544060.ece/alternates/LANDSCAPE_1200/Kodder_house_02.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/koder-house-fire-may-have-originated-in-adjacent-building-finds-electrical-inspectorate/article71543124.ece",
+    "time": "2026-10-04T19:47:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pakistani prisoner dies by suicide in  jail",
+    "desc": "Shahid Imran, a 36-year-old Pakistani undertrial prisoner, was found unconscious in his jail cell early Sunday. He was a resident of Sargooda district in Punjab, Pakistan. Authorities rushed him to GMCH where doctors declared him brought dead. The incident occurred at the high-security central jail in Jammu. An investigation into the circumstances surrounding his death is likely to follow.",
+    "img": "https://static.toiimg.com/photo/msid-134679933,imgsize-900842.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-pakistani-prisoner-dies-by-suicide-in-jail/articleshow/134679864.cms",
+    "time": "2026-10-04T19:07:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kashmiri teacher fights period stigma, one village at a time",
+    "desc": "Aasima Jan works diligently in north Kashmir, focusing on menstrual health awareness to help girls stay in school. She began her efforts after witnessing the stigma around menstruation affecting attendance rates among female students. Monthly sessions in villages educate families about menstrual hygiene and encourage open discussion about the topic. Aasima also distributes sanitary pads, highlighting their importance for health and hygiene.",
+    "img": "https://static.toiimg.com/photo/msid-134679857,imgsize-89105.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kashmiri-teacher-fights-period-stigma-one-village-at-a-time/articleshow/134679820.cms",
+    "time": "2026-10-04T19:03:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Campaigning for byelection ends in Madurantakam and Dharapuram",
+    "desc": "Polling will take place on October 6. The byelection will be a five-cornered contest, with the TVK-led Secular Social Justice Victory Alliance, the DMK-led Secular Progressive Alliance, the AIADMK-led NDA, the Left parties, and the NTK in the fray",
+    "img": "https://th-i.thgim.com/public/incoming/bz5c3t/article71544823.ece/alternates/LANDSCAPE_1200/9869_4_10_2026_17_12_16_2__DSC8677.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/campaigning-for-byelection-ends-in-madurantakam-and-dharapuram/article71543705.ece",
+    "time": "2026-10-04T18:41:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fisherfolk oppose plan to build Secretariat at Foreshore Estate",
+    "desc": "They hoist black flags to mark their opposition to the proposal. They demand that the govt. return the lands belonging to Srinivasapuram, build new houses for 15,000 fishermen along the Marina Loop Road, and discuss the matter with them",
+    "img": "https://th-i.thgim.com/public/incoming/2nlhro/article71544803.ece/alternates/LANDSCAPE_1200/PTI10_04_2026_000098B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/fisherfolk-oppose-plan-to-build-secretariat-at-foreshore-estate/article71544359.ece",
+    "time": "2026-10-04T18:21:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Arrest powers, ITC, prosecution threshold proposals on agenda",
+    "desc": "The GST Council will meet on October 7 to discuss major reforms in GST processes and enforcement. Proposed changes include removing tax officers' arrest powers and requiring judicial consent for any arrests. Additionally, the prosecution threshold may be raised from Rs 1 crore to Rs 5 crore, with some offences being decriminalized. Changes are also aimed at simplifying compliance for small e-commerce sellers and protecting genuine buyers' input tax credits.",
+    "img": "https://static.toiimg.com/photo/msid-134678979,imgsize-32008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gst-council-meeting-on-october-7-arrest-powers-itc-prosecution-threshold-proposals-on-agenda-report/articleshow/134678667.cms",
+    "time": "2026-10-04T17:54:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Keralam government gets legal opinion to proceed against Chief Election Commissioner Gyanesh Kumar in abetment to suicide case",
+    "desc": "T. Asaf Ali, Director General of Prosecution, gives legal advice that there is no legal bar in proceeding against Gyanesh Kumar. The case pertains to the reported suicide of Malaysian Lee See Been, a former chief project officer of Kerala State Transport Project for reconstruction of M.C. Road",
+    "img": "https://th-i.thgim.com/public/incoming/1vvqnb/article71544547.ece/alternates/LANDSCAPE_1200/SIR%20ELECTION%20COMMISSION%20PC%20%20DELHI%202025_27_10_25.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/keralam-government-gets-legal-opinion-to-proceed-against-chief-election-commissioner-gyanesh-kumar-in-abetment-to-suicide-case/article71544342.ece",
+    "time": "2026-10-04T17:40:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Motivational quote of the day by Jack Black",
+    "desc": "Jack Black passionately champions the idea that failure is a vital stepping stone toward growth in both personal and professional realms. He emphasizes that the anxiety surrounding failure often stops individuals from pursuing new opportunities. Sharing his own adventures filled with setbacks, Black inspires others to embrace learning and adaptability. His message ultimately celebrates resilience as a transformative force amidst life's challenges.",
+    "img": "https://static.toiimg.com/photo/msid-134672321,imgsize-237752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/motivational-quote-of-the-day-by-jack-black-dont-be-afraid-of-failure-because-thats-the-demon-that-will-get-in-the-way-failure-is-your-friend-a-powerful-life-lesson-on-learning-from-setbacks/articleshow/134671377.cms",
+    "time": "2026-10-04T17:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Thanks for the gift’: Pant’s 29th birthday made special as RoI reclaim Irani Cup",
+    "desc": "Rishabh Pant's birthday happened to coincide with a remarkable comeback as the Rest of India triumphed over Jammu and Kashmir in the Irani Cup. Despite falling behind initially, the team rallied to secure a 167-run victory. Although Pant missed the action due to illness, he joined in the post-match festivities. Mukesh Kumar's exceptional bowling and young talent Ravichandran Smaran's innings were pivotal.",
+    "img": "https://static.toiimg.com/photo/msid-134678506,imgsize-223763.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/thanks-for-the-gift-rishabh-pants-29th-birthday-made-special-as-rest-of-india-reclaim-irani-cup/articleshow/134678453.cms",
+    "time": "2026-10-04T17:14:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Samyukt Kisan Morcha rejects rabi MSP, demands revision",
+    "desc": "‘The government has raised the MSP of wheat by ₹25 a quintal. That is 25 paise a kilo. It will not buy even a third of a litre of diesel. Yet the government calls it a ‘106% profit’,’ the SKM says in a statement",
+    "img": "https://th-i.thgim.com/public/incoming/pztkwp/article71544708.ece/alternates/LANDSCAPE_1200/ng_Farmers_spread_harvested_paddy_for_sun_drying_01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/samyukt-kisan-morcha-rejects-rabi-msp-demands-revision/article71544580.ece",
+    "time": "2026-10-04T17:02:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Campaign ends for high-stakes bypolls in three States, one U.T.",
+    "desc": "The bypolls set to take place on Tuesday (October 6, 2026) will be held in five Assembly constituencies in West Bengal, Tamil Nadu, and Puducherry, as well as in one Lok Sabha seat in Assam; the votes will be counted on Friday",
+    "img": "https://th-i.thgim.com/public/incoming/a8jzmx/article71544625.ece/alternates/LANDSCAPE_1200/PTI10_04_2026_000284B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/campaign-ends-for-high-stakes-bypolls-in-three-states-one-ut/article71544467.ece",
+    "time": "2026-10-04T16:25:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PM Modi congratulates Team India, hails ‘passion and sporting spirit’",
+    "desc": "Prime Minister Narendra Modi praised the inspiring performances of Indian athletes at the Aichi-Nagoya Asian Games, where India clinched a remarkable total of 85 medals, including 21 golds, finishing fourth overall. The Games were highlighted by record-breaking efforts, particularly in athletics, showcasing the talent of emerging athletes. Modi called for enhanced focus on grassroots sports development to empower future generations.",
+    "img": "https://static.toiimg.com/photo/msid-134677939,imgsize-144535.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-pm-modi-congratulates-team-india-hails-determination-passion-and-remarkable-sporting-spirit/articleshow/134677719.cms",
+    "time": "2026-10-04T16:23:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indian School of Agriculture should help farmers become CEOs of their own farmlands, says Anant Ambani",
+    "desc": "Highlighting the importance of tech-driven farming, the Executive Director of Reliance Industries says AI can alert farmers to pest attacks and help Madanapalle tomato growers decide when and where to sell the produce, while greenhouse technology can enable year-round cultivations",
+    "img": "https://th-i.thgim.com/public/incoming/hqryxx/article71537140.ece/alternates/LANDSCAPE_1200/10745_2_10_2026_17_27_58_1_IMG_20261002_WA0085.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/indian-school-of-agriculture-should-help-farmers-become-ceos-of-their-own-farmlands-says-anant-ambani/article71536992.ece",
+    "time": "2026-10-04T16:23:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Naidu, Sitharaman launch Rayalaseema horticulture hub; Anant Ambani pledges ₹1 lakh crore for biogas in Andhra",
+    "desc": "The Chief Minister promises irrigation, processing and export support to make the drought-prone region a ‘global fruit bowl’; Reliance, which will run the new Indian School of Agriculture, announces ₹1 lakh crore for biogas plants",
+    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/axjzi6/article71536647.ece/alternates/LANDSCAPE_1200/Naidu%20with%20anant.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-sitharaman-launch-rayalaseema-horticulture-hub-anant-ambani-pledges-1-lakh-crore-for-biogas-in-andhra/article71536514.ece",
+    "time": "2026-10-04T16:21:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India successfully demonstrates its first free-space quantum-secure communication link for over 5.5 km",
+    "desc": "In a groundbreaking trial, Indian startup QNu Labs, in collaboration with BISAG-N and IIT Gandhinagar, successfully tested free-space quantum key distribution. This trial established a secure quantum communication channel over a considerable distance, boasting a quantum bit error rate of under 5%. With the integration into BISAG-N’s Vedic Kavach platform, secure key sharing and end-to-end message encryption are now possible, paving the way for advancements in India’s secure communication framework.",
+    "img": "https://static.toiimg.com/photo/msid-134677883,imgsize-205412.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-successfully-demonstrates-its-first-free-space-quantum-secure-communication-link-for-over-5-5-km/articleshow/134677875.cms",
+    "time": "2026-10-04T16:17:21.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Janhvi CONDEMNS AI-altered 'Chuttamalle' clip as 'deeply violating, bordering on sexual assault'",
     "desc": "Janhvi Kapoor has strongly criticized a viral AI-manipulated video of her from the track 'Chuttamalle,' deeming it a serious infringement. She raised concerns about the exploitation of technology to objectify women, stressing the importance of consent. Supporting her, Jr NTR, her co-star from 'Devara,' condemned the video as well and indicated potential legal action. Read on to know more in detail.",
@@ -27,15 +180,6 @@ const newsData_en = [
     "time": "2026-10-04T15:50:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Keralam government gets legal opinion to proceed against Chief Election Commissioner Gyanesh Kumar in abetment to suicide case",
-    "desc": "T. Asaf Ali, Director General of Prosecution, gives legal advice that there is no legal bar in proceeding against Gyanesh Kumar. The case pertains to the reported suicide of Malaysian Lee See Been, a former chief project officer of Kerala State Transport Project for reconstruction of M.C. Road",
-    "img": "https://th-i.thgim.com/public/incoming/1vvqnb/article71544547.ece/alternates/LANDSCAPE_1200/SIR%20ELECTION%20COMMISSION%20PC%20%20DELHI%202025_27_10_25.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/keralam-government-gets-legal-opinion-to-proceed-against-chief-election-commissioner-gyanesh-kumar-in-abetment-to-suicide-case/article71544342.ece",
-    "time": "2026-10-04T15:48:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "PT Usha names Kumkum Mohod, Sujeet Kalkal as Team India’s MVPs",
     "desc": "At the Aichi-Nagoya Asian Games, Kumkum Mohod and Sujeet Kalkal shone brightly, capturing the spotlight with their remarkable achievements. Mohod clinched three medals, including two golds, breaking South Korea's stronghold in archery. Meanwhile, Kalkal staged an impressive comeback to win gold in men's 65kg freestyle wrestling. Indian Olympic Association president PT Usha lauded their tenacity, announcing plans to celebrate their triumphs in an upcoming ceremony.",
@@ -43,6 +187,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-pt-usha-names-kumkum-mohod-sujeet-kalkal-as-team-indias-mvps-after-historic-golds/articleshow/134677288.cms",
     "time": "2026-10-04T15:42:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Drishyam 3' director's wife's note for him: 'I teared up'",
+    "desc": "The Conclusion'. Her pride was evident as she highlighted his relentless efforts and the film's warm reception. The crime thriller, focusing on the Salgaonkar family's new dilemmas, earned over Rs 168 crore in its opening weekend. Oberoi expressed her eagerness for their daughter Aarika to witness her father's remarkable journey.",
+    "img": "https://static.toiimg.com/photo/msid-134677362,imgsize-563454.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shivaleeka-oberoi-gets-emotional-watching-husband-abhishek-pathaks-drishyam-3-in-theatre-i-teared-up-when-i-saw-this-on-the-big-screen/articleshow/134677291.cms",
+    "time": "2026-10-04T15:36:43.000Z"
   },
   {
     "cat": "Politics",
@@ -54,6 +207,15 @@ const newsData_en = [
     "time": "2026-10-04T15:34:16.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "'One day you're loved'",
+    "desc": "In a candid chat with Karan Johar, Zeenat Aman reflected on her journey through fame, emphasizing that it is both volatile and not indicative of personal value. She pointed out how public opinion can swing dramatically over time. Having enjoyed stardom since the early 1970s, she also touched upon the complexities of her two marriages and the lessons learned through them.",
+    "img": "https://static.toiimg.com/photo/msid-134677154,imgsize-455262.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-zeenat-aman-shared-a-brutally-honest-take-on-fame-one-day-youre-loved-the-next-day-youre-hated/articleshow/134677068.cms",
+    "time": "2026-10-04T15:15:24.000Z"
+  },
+  {
     "cat": "World",
     "title": "Yemen presidency announces military drive to retake all Houthi territory",
     "desc": "I announce today the start of military operations to retake the remaining territories of the republic and extend the authority of the state and its institutions across the entire national territory, says Rashad al-Alimi, the head of Yemen's presidential council",
@@ -63,15 +225,6 @@ const newsData_en = [
     "time": "2026-10-04T15:15:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Dentist dismissed after joining black flag protest against Minister in Keralam",
-    "desc": "Sidharth Ravindran was working temporarily at the Kanhangad District Hospital under the National Health Mission. He was dismissed after authorities concluded that his participation in the protest violated the terms of the agreement he had signed while joining the service",
-    "img": "https://th-i.thgim.com/public/incoming/c3r2vm/article71544397.ece/alternates/LANDSCAPE_1200/11435_1_10_2026_21_38_19_1_SCREENSHOT_20261001_213750.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/dentist-dismissed-after-joining-black-flag-protest-against-minister-in-keralam/article71544274.ece",
-    "time": "2026-10-04T15:04:45.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "MS Dhoni meets Nitin Mukesh and his family; veteran singer says he is 'Thala' for a reason",
     "desc": "MS Dhoni recently met veteran singer Nitin Mukesh and expressed his admiration for Mukesh's father's song. Nitin Mukesh shared details of their meeting on Instagram, highlighting Dhoni's passion for the track. He referred to Dhoni as a national treasure, reflecting on the significance of their encounter. Both personalities were dressed in blue, adding a light-hearted element to the meeting.",
@@ -79,24 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ms-dhoni-meets-nitin-mukesh-and-his-family-veteran-singer-says-he-is-thala-for-a-reason-as-cricketer-sings-main-pal-do-pal-ka-shayar-hoon/articleshow/134676963.cms",
     "time": "2026-10-04T15:04:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pinarayi Vijayan seeks strigent action against YC workers, police over University Hostel violence",
-    "desc": "In a letter to the Home Minister, the CPI(M) veteran alleged that the decision by the Youth Congress to commence its march from the hostel premises instead of its usual protest venues was a deliberate attempt to provoke violence",
-    "img": "https://th-i.thgim.com/public/incoming/3kv5gn/article71544365.ece/alternates/LANDSCAPE_1200/Power-crisis-paG7JGJKOQR.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-seeks-strigent-action-against-yc-workers-police-over-university-hostel-violence/article71544049.ece",
-    "time": "2026-10-04T14:57:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Victory, not number of seats, is the key: Akhilesh amid SP-Congress seat-sharing spat",
-    "desc": "‘Both the parties will win and form the government in an alliance. When have we talked about defeat? We too are talking about victory...Elections are fought on the basis of ideology. In terms of ideology, the Congress party is number one in the entire country,’ U.P. Congress in-charge Rajendra Pal Gautam says",
-    "img": "https://th-i.thgim.com/public/incoming/ttylwb/article71544319.ece/alternates/LANDSCAPE_1200/PTI10_03_2026_000283B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/victory-not-number-of-seats-is-the-key-akhilesh-amid-sp-congress-seat-sharing-spat/article71544073.ece",
-    "time": "2026-10-04T14:45:19.000Z"
   },
   {
     "cat": "Sports",
@@ -279,15 +414,6 @@ const newsData_en = [
     "time": "2026-10-04T11:19:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Same cheap rhetoric': CM Vijay slams Stalin, DMK over 'vile' remarks against women",
-    "desc": "Tamil Nadu Chief Minister C Joseph Vijay condemned M K Stalin and the DMK for derogatory attacks on women. He spoke during a campaign rally in Dharapuram, highlighting the need for respectful discourse. Vijay asserted that his remarks were made as a son and brother of Tamil Nadu women. He warned of legal consequences for continued derogatory comments from DMK leaders.",
-    "img": "https://static.toiimg.com/photo/msid-134673866,imgsize-94414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/same-cheap-rhetoric-cm-vijay-slams-stalin-dmk-over-vile-remarks-against-women/articleshow/134673695.cms",
-    "time": "2026-10-04T11:13:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Singeetham Srinivasa Rao had planned ‘A fruit cuts the knife’ as his next film, reveals Nag Ashwin",
     "desc": "Singeetham Srinivasa Rao, a celebrated filmmaker, died at the age of 94 in Chennai. His final project was a film titled Sing Geetham, which combined fantasy and music elements. Singeetham was working on new ideas, including a project titled A fruit cuts the knife. Prominent filmmakers like Nag Ashwin have honored his inventive storytelling approaches and contributions to Indian cinema.",
@@ -304,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-curtain-comes-down-in-aichi-nagoya-as-doha-receives-flag-for-2030-edition/articleshow/134673196.cms",
     "time": "2026-10-04T10:38:07.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "India is going ‘beyond advocacy’ on the Russia-Ukraine conflict: Jaishankar",
-    "desc": "Commenting on India-Russia ties, Mr. Jaishankar said, “For us, Russia and Soviet Union before that, was a country that stood by us in many ways when our security, when our territorial integrity was under threat, and at a time when you know much of the world preferred backing a military regime next to us”",
-    "img": "https://th-i.thgim.com/public/incoming/t9m48i/article71543403.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-04%20at%202.13.05%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-is-going-beyond-advocacy-on-the-russia-ukraine-conflict-jaishankar/article71543379.ece",
-    "time": "2026-10-04T10:35:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -351,24 +468,6 @@ const newsData_en = [
     "time": "2026-10-04T10:15:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rakhi backs Sunita, calls Komal 'pati chor'; netizens react",
-    "desc": "Amid the drama surrounding Govinda and Komal Rani Swarnkar, Rakhi Sawant is stepping up for Sunita Ahuja, voicing her disappointment over Govinda's alleged neglect of his longtime partner. In response, Komal Rani has critiqued actresses who she believes exploit situations for fame. The spotlight intensifies with speculation following Govinda and Komal's recent joint appearances, although Govinda insists they are simply working together professionally and denies any rumors of an affair.",
-    "img": "https://static.toiimg.com/photo/msid-134673100,imgsize-709583.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakhi-sawant-backs-sunita-ahuja-again-lashes-out-at-govinda-over-rumoured-relationship-with-komal-rani-swarnkar-calls-the-roopa-actress-pati-chor-pura-desh-naaraz-hai-aapse/articleshow/134673010.cms",
-    "time": "2026-10-04T10:15:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nani, Venkatesh Daggubati, Ravi Teja and Rishab Shetty pay tribute",
-    "desc": "Singeetham Srinivasa Rao, renowned for his innovative filmmaking, passed away at the age of 94 due to health issues. Several prominent actors including Venkatesh Daggubati and Nani paid tribute to his contributions. His impactful career spanned decades across multiple Indian languages, including Telugu and Tamil. He is remembered for films like 'Pushpaka Vimanam' and 'Aditya 369', showcasing experimental storytelling. His legacy continues to inspire filmmakers within the industry.",
-    "img": "https://static.toiimg.com/photo/msid-134673088,imgsize-127074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/singeetham-srinivasa-rao-passes-away-at-94-nani-calls-him-greatest-of-greatest-venkatesh-daggubati-mourns-the-end-of-an-extraordinary-chapter-rishab-shetty-and-ravi-teja-pay-tribute/articleshow/134672994.cms",
-    "time": "2026-10-04T10:13:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "From 89/3 to 111 all out: Mukesh, Akash trigger J&amp;K collapse as RoI win Irani Cup",
     "desc": "Mukesh returned figures of 6/33 to claim his 11th five-wicket haul in first-class cricket and dismantle the Jammu and Kashmir batting line-up. Akash, playing his comeback game, supported his Bengal teammate with 3/25 as J&K, chasing 279, were bowled out for 111.",
@@ -376,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-89/3-to-111-all-out-mukesh-kumar-akash-deep-trigger-jk-collapse-as-rest-of-india-win-irani-cup/articleshow/134672585.cms",
     "time": "2026-10-04T09:43:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shabana reveals how Javed arrived in Bombay with '27 naye paise'",
-    "desc": "Shabana Azmi took to social media to share a heartfelt tribute for Javed Akhtar’s 81st birthday. She reflected on his inspiring journey, arriving in Bombay with little more than dreams, enduring hardships like skipping meals and homelessness. Despite starting their relationship while he was still married, they have fostered a loving partnership for over 40 years, blending their lives and families, including his two children from his first marriage.",
-    "img": "https://static.toiimg.com/photo/msid-134672575,imgsize-618974.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shabana-azmi-reveals-how-javed-akhar-arrived-in-bombay-with-27-naye-paise-slept-on-footpaths-and-survived-for-3-days-without-food-as-the-veteran-scriptwriter-and-lyricist-turns-81-yeh-din-badlenge/articleshow/134672225.cms",
-    "time": "2026-10-04T09:18:50.000Z"
   },
   {
     "cat": "Tech",
@@ -415,7 +505,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Hanuman Ansh' BO Day 59 [LIVE]: Crosses Rs 324 crore India net milestone",
+    "title": "'Hanuman Ansh' BO Day 59: Worldwide gross soars Rs 423 crore",
     "desc": "‘Hanuman Ansh’ continues its remarkable theatrical run even as it enters Day 59. The Vishal Chaturvedi directorial has maintained its momentum well beyond the usual lifespan of a theatrical release, with the Neem Karoli Baba biopic now firmly into its ninth week. According to Sacnilk, the film's India net total stood at Rs. 321.73 crore and gross collection to Rs. 379.96 crore by the end of Day 58.The Day 59 figure is still live and the final tally is expected to change once all shows are accounted for.",
     "img": "https://static.toiimg.com/photo/msid-134671358,imgsize-93332.cms",
     "src": "indiatimes.com",
@@ -432,15 +522,6 @@ const newsData_en = [
     "time": "2026-10-04T07:20:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'No time to experiment': Gill wants all resources available for India's ODI WC prep",
-    "desc": "Gill’s first year as ODI captain has exposed India’s lack of settled resources ahead of next year’s World Cup. With injuries and form issues affecting the pace attack, he wants his strongest combination finalised soon, despite a disrupted New Zealand series. Gill is also assessing No. 8 options while demanding improvement in India’s fielding and bowling discipline.",
-    "img": "https://static.toiimg.com/photo/msid-134671065,imgsize-165174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-time-to-experiment-captain-shubman-gill-wants-all-resources-available-for-indias-odi-world-cup-prep/articleshow/134671065.cms",
-    "time": "2026-10-04T07:04:39.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Government raises deepwater gas price ceiling to $9.89/MMBtu; APM gas cap at $7",
     "desc": "The new ceiling for difficult-field gas, including from the KG-D6 block, is applicable for October 2026 to March 2027, while the APM gas cap for ONGC and OIL’s legacy fields stays at $7 per MMBtu",
@@ -451,7 +532,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Drishyam 3' BO Day 3 [LIVE]: Ajay Devgn film crosses Rs 168 crore India net",
+    "title": "Drishyam 3 The Conclusion's worldwide tally crosses Rs 272 crore in 3 days",
     "desc": "Ajay Devgn-led ‘Drishyam 3 The Conclusion’ has maintained strong momentum at the box office as it enters its third day in theatres. The crime thriller opened with Rs 62 crore net in India on Day 1 and followed it with another Rs 53.50 crore on Day 2. The film has already crossed Rs 125 crore in India net and is now approaching another major domestic milestone. The immediate target is the Rs 150 crore India net mark. The franchise's established audience base, holiday release window and strong advance momentum give the film a solid foundation, but its long-term performance will ultimately depend on audience response and weekday stability.",
     "img": "https://static.toiimg.com/photo/msid-134670968,imgsize-145721.cms",
     "src": "indiatimes.com",
@@ -466,15 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/where-are-kannada-cinemas-next-stars/article71141447.ece",
     "time": "2026-10-04T06:29:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sabalenka suffers shock China Open exit, falls to Bartunkova in straight sets",
-    "desc": "In an unexpected twist at the China Open, World No. 2 Aryna Sabalenka suffered a straight-set defeat to Nikola Bartunkova, who is ranked 34th. Bartunkova seized the match with scores of 6-4 and 6-3, exploiting Sabalenka's inability to convert break-point chances. The early exits of both Sabalenka and Elena Rybakina indicate a major shift in the tournament landscape. Bartunkova is set to take on Sinja Kraus in her next match.",
-    "img": "https://static.toiimg.com/photo/msid-134670767,imgsize-53000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/aryna-sabalenka-suffers-shock-china-open-exit-falls-to-nikola-bartunkova-in-straight-sets/articleshow/134670734.cms",
-    "time": "2026-10-04T06:29:05.000Z"
   },
   {
     "cat": "Business",
@@ -702,15 +774,6 @@ const newsData_en = [
     "time": "2026-10-03T08:38:05.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Goyal pitches India as global trade hub, eyes 75-80% of world economy",
-    "desc": "India is actively pursuing free trade agreements with 31 nations to boost its global trade ties. Commerce Minister Piyush Goyal underscored the possibility of achieving a $30 trillion economy by 2047. He pointed out significant opportunities for both American and Indian-American entrepreneurs to engage in this economic growth. In Chicago, Goyal held talks with U.S.",
-    "img": "https://static.toiimg.com/photo/msid-134653742,imgsize-106062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/goyal-pitches-india-as-global-trade-hub-eyes-75-80-of-world-economy/articleshow/134653607.cms",
-    "time": "2026-10-03T06:41:45.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Anbil Avan’ movie review: We appreciate that you tried",
     "desc": "Honestly, the audience seems to want Preity Mukhundhan and Ashok Selvan, a beautiful-looking couple, to succeed in ‘Anbil Avan.’ Yet this romance-thriller set in the hills is bogged down by trope-ridden, unidimensional characters and an endless action sequence",
@@ -727,24 +790,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/fbi-arrests-energy-department-employee-on-charge-of-trying-to-support-iran-backed-houthis-in-yemen/article71538629.ece",
     "time": "2026-10-02T23:23:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Favourite India will be wary of a resilient Malaysia in gold-medal match",
-    "desc": "India got a wake-up call against a fighting Pakistan, losing its shape, tempo and control in the final 20 minutes after leading 3-0. It was a lesson in what can happen when teams start celebrating too early or assume a result before the final whistle.",
-    "img": "https://th-i.thgim.com/public/incoming/q2mht1/article71538468.ece/alternates/LANDSCAPE_1200/04_RVM_1650.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/favourite-india-will-be-wary-of-a-resilient-malaysia-in-gold-medal-match/article71538046.ece",
-    "time": "2026-10-02T19:00:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs WI 3rd ODI",
-    "desc": "Though the Punjab all-rounder hasn’t had a chance to bat in the first two matches, he gave a decent account himself in the previous game in Guwahati with the ball, returning figures of none for 38 in 6.1 overs, even as the Windies racked up 405 for seven.",
-    "img": "https://th-i.thgim.com/public/incoming/xvs0qn/article71537070.ece/alternates/LANDSCAPE_1200/INDIA%20WI%20PC%203.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ind-vs-wi-3rd-odi-bowled-with-a-simple-plan-saysnaman-dhir/article71537072.ece",
-    "time": "2026-10-02T18:18:36.000Z"
   },
   {
     "cat": "Business",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/gpt-61-astra-why-openai-halted-its-release/article71529980.ece",
     "time": "2026-09-30T16:40:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "a creative mind that enriched Tamil cinema with philosophical songs",
-    "desc": "Kannadasan, whose birth centenary is being celebrated, was born as Muthaiah at Sirukoodalpatti in present day Sivaganga district. An atheist in his early years while active in the Dravidian movement, the Tamil poet later turned spiritual.",
-    "img": "https://th-i.thgim.com/public/incoming/l7jfwc/article71524342.ece/alternates/LANDSCAPE_1200/kannadasan-picture.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/birth-centenary-of-poet-kannadasan-a-creative-mind-that-enriched-tamil-cinema-with-exquisite-philosophical-songs/article71524092.ece",
-    "time": "2026-09-30T14:06:26.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Surveillance is not the only privacy issue",
-    "desc": "Who is responsible, when a protester is identified by a camera, doxxed by anonymous accounts, and then threatened at home? What happens to privacy when an electoral-roll decision determines whether someone can vote? Which safeguard applies when data gathered by the police is held by a private company?",
-    "img": "https://th-i.thgim.com/public/incoming/il2om6/article71525599.ece/alternates/LANDSCAPE_1200/2026-07-27T133546Z_919646877_RC2SKMAJ2XPG_RTRMADP_3_INDIA-POLITICS-SURVEILLANCE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/opinion/op-ed/surveillance-is-not-the-only-privacy-issue/article71525462.ece",
-    "time": "2026-09-30T08:38:01.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "When Fortran ran for the first time",
-    "desc": "On September 20, 1954, the first successful test compilation and execution of a computer program using Fortran took place. Built by a team of pioneers in computer programming and led by John Backus, it wasn’t until 1957 that Fortran was finally ready. A.S.Ganesh pulls out his punch cards to hand you the story of Backus and what he built…",
-    "img": "https://th-i.thgim.com/public/incoming/yct4s6/article71450871.ece/alternates/LANDSCAPE_1200/20istb%20IBM%20704%20Fortran.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/when-fortran-ran-for-the-first-time/article71450877.ece",
-    "time": "2026-09-30T07:23:58.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "What does it take to obtain justice for cybercrime?",
-    "desc": "The Status of Policing in India Report (SPIR) 2026, based on a survey by Lokniti-CSDS and Common Cause across 16 States, examines two factors that enable the progress of redressal in cybercrime complaints – bribery and using the influence of personal network; both channels are used more often, and appear to work more for the victims from marginalised groups",
-    "img": "https://th-i.thgim.com/public/incoming/hnqw6l/article71525557.ece/alternates/LANDSCAPE_1200/PF_Alerts_pictuG31G21OL5.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/what-does-it-take-to-obtain-justice-for-cybercrime/article71525555.ece",
-    "time": "2026-09-29T18:03:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Who is the most vulnerable to cyber frauds?",
-    "desc": "Amid deeper integration into the digital ecosystem, cybercrime cases rose 17.9% nationally, to 1,01,928 in 2024; respondents who spent more time online were more likely to be targeted by fraudsters, while financial fraud was more closely linked to social and economic status, with wealthier and more educated respondents more likely to report being victims",
-    "img": "https://th-i.thgim.com/public/incoming/7c0h01/article71525546.ece/alternates/LANDSCAPE_1200/iStock-157619625%202.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/who-is-the-most-vulnerable-to-cyber-frauds/article71525547.ece",
-    "time": "2026-09-29T17:58:18.000Z"
   }
 ];
