@@ -1,6 +1,87 @@
 const newsData_en = [
   {
     "cat": "Business",
+    "title": "India in striking distance of 8% growth, says Shaktikanta Das",
+    "desc": "India is expected to achieve close to 8% economic growth, aided by recent reforms and increased investment. The resilience of the economy is attributed to strategies implemented over the past decade and strong domestic demand. Former RBI governor Shaktikanta Das emphasized the significance of the financial sector and external management in supporting growth. Further opportunities are anticipated in the coming years, particularly in AI and infrastructure financing.",
+    "img": "https://static.toiimg.com/photo/msid-134683089,imgsize-71360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-in-striking-distance-of-8-growth-says-shaktikanta-das/articleshow/134683083.cms",
+    "time": "2026-10-04T23:24:32.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. Air Force removes all bombers from British air base targeted by a suspected terror attack",
+    "desc": "The U.S. Air Force has brought home its bombers stationed at a U.S.-run military air base in England used to strike Iran following an investigation into a planned terror attack at the RAF Fairford base",
+    "img": "https://th-i.thgim.com/public/incoming/kfm4e8/article71545019.ece/alternates/LANDSCAPE_1200/2026-09-29T121509Z_481150564_RC2ZSNAGWLWC_RTRMADP_3_BRITAIN-USA-FAIRFORD.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack/article71544899.ece",
+    "time": "2026-10-04T22:30:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Endgame' dethrones 'Avatar' as highest-grossing film of all time",
+    "desc": "Endgame has reclaimed its position as the highest-grossing film following a re-release. The film surpassed Avatar's total box office earnings by a narrow margin after its Encore re-release. Despite a drop to seventh place domestically, additional earnings helped Endgame regain the crown. Marvel Studios expressed gratitude to fans for their support through social media messages. The success of Endgame coincides with anticipation for the upcoming film Avengers: Doomsday.",
+    "img": "https://static.toiimg.com/photo/msid-134680613,imgsize-620136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/avengers-endgame-dethrones-avatar-officially-reclaims-title-of-highest-grossing-film-of-all-time-with-usd-2-925-billion-haul/articleshow/134680612.cms",
+    "time": "2026-10-04T22:25:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Former SC judge Justice Rohinton Fali Nariman",
+    "desc": "Justice Rohinton Fali Nariman expressed concerns regarding the functioning of the Election Commission in India. He highlighted the issue of illegal removal of voters from electoral lists, especially in West Bengal. Nariman noted that 90 lakh voters were disenfranchised, with many not having access to justice. He emphasized the need for reform in the appointment process of election commissioners to ensure fairness.",
+    "img": "https://static.toiimg.com/photo/msid-134680631,imgsize-52346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/democracy-in-peril-as-voters-illegally-ousted-former-sc-judge-justice-rohinton-fali-nariman/articleshow/134680618.cms",
+    "time": "2026-10-04T22:04:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Cruise's 'Digger' FLOPS; 'Verity' tops box office",
+    "desc": "Warner Bros.' film 'Digger' failed to perform at the box office during its opening weekend. The film grossed only $8 million domestically against a production budget of $125 to $150 million. Meanwhile, Amazon MGM's 'Verity' topped the charts, earning $32.6 million in its debut weekend. This disappointing performance occurs as Warner Bros. faces a merger with Paramount Skydance.",
+    "img": "https://static.toiimg.com/photo/msid-134680596,imgsize-255003.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/tom-cruise-starrer-digger-flops-at-box-office-anne-hathaway-dakota-johnson-starrer-verity-takes-no-1-spot/articleshow/134680389.cms",
+    "time": "2026-10-04T21:45:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "1 dead as Russian drones hit desi pharma plant in Ukraine",
+    "desc": "In Ukraine's Sumy region, six Russian drones attacked the Kusum Group's pharmaceutical plant, killing one engineer and injuring others. The main structure of the facility was largely destroyed during the targeted strike, which occurs amid a pattern of similar attacks. The company estimates damage from this incident could exceed $50 million, impacting operations significantly.",
+    "img": "https://static.toiimg.com/photo/msid-134680382,imgsize-108296.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/1-dead-as-russian-drones-hit-desi-pharma-plant-in-ukraine/articleshow/134680367.cms",
+    "time": "2026-10-04T21:10:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "External affairs minister S Jaishankar says US has chosen to become 'lonelier power'",
+    "desc": "S Jaishankar stated that India aims to mediate in the Russia-Ukraine conflict through dialogue and diplomacy. India has recently proposed ideas addressing issues like grain and energy exports to both nations. Jaishankar emphasized America's changing global position and the implications of China's rise on international relations. India is also facing domestic repercussions due to the ongoing conflict, including commercial shipping disruptions.",
+    "img": "https://static.toiimg.com/photo/msid-134680356,imgsize-50000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/external-affairs-minister-s-jaishankar-says-us-has-chosen-to-become-lonelier-power/articleshow/134680336.cms",
+    "time": "2026-10-04T20:59:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "25 paisa/kg wheat MSP hike an 'insult': Samyukta Kisan Morcha",
+    "desc": "Farmer organisations represented by Samyukta Kisan Morcha rejected the government's announced minimum support prices for Rabi crops. They described the small increase for wheat as an insult rather than acceptable compensation. SKM called for a revision of MSPs and urged states to offer bonuses to farmers. Additionally, they highlighted the impact of rising diesel and input costs on farming.",
+    "img": "https://static.toiimg.com/photo/msid-134680326,imgsize-360958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/25p/kg-wheat-msp-hike-an-insult-samyukta-kisan-morcha/articleshow/134680324.cms",
+    "time": "2026-10-04T20:52:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Look Out Circular' against parents of man who secretly took away child to US",
+    "desc": "The Supreme Court has indicated consequences for parents of a man who abducted his daughter to the US. This decision came during a case regarding child custody between NRI couples. The father has been ordered to return to India with the child within four weeks. If he fails to comply, his parents will face legal consequences. The court emphasizes the importance of the child's connection with her mother.",
+    "img": "https://static.toiimg.com/photo/msid-134680312,imgsize-153452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/look-out-circular-against-parents-of-man-who-secretly-took-away-child-to-us/articleshow/134680302.cms",
+    "time": "2026-10-04T20:43:34.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "Faster registration, easier refunds: Reform rollout with GST 2.0",
     "desc": "GST Council plans to unveil substantial reforms aimed at improving business processes and facilitating growth. The proposed changes involve streamlined registration, easier refunds, and a more efficient input tax credit system. Decriminalisation measures are also proposed to alleviate issues for businesses with minor offenses. A focus is on reducing discretionary practices and using technology to minimize litigation. These reforms seek to enhance operational efficiency for both small and large enterprises.",
     "img": "https://static.toiimg.com/photo/msid-134680261,imgsize-888824.cms",
@@ -396,15 +477,6 @@ const newsData_en = [
     "time": "2026-10-04T11:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mukesh Khanna on comeback with 'Vishwaguru': 'People are waiting for me'",
-    "desc": "Mukesh Khanna is set to make his cinematic return in the film Vishwaguru, which addresses a profoundly relevant theme. After engaging discussions with the filmmakers, he was drawn to the project due to its impactful message. The film's dialogues will be presented in Hindi, a factor that resonated with Khanna. Vishwaguru delves into India's role as a global educator amid widespread deception.",
-    "img": "https://static.toiimg.com/photo/msid-134674064,imgsize-749546.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mukesh-khanna-opens-up-on-making-a-comeback-with-vishwaguru-after-censor-says-people-are-waiting-for-me-i-make-very-few-films/articleshow/134673909.cms",
-    "time": "2026-10-04T11:27:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Meet teenage sensation Yu Zidi &amp; sprint king Puripol Boonson",
     "desc": "Yu Zidi, a 13-year-old swimmer from China, set multiple records and won three gold medals at the Asian Games. Puripol Boonson, a 20-year-old sprinter from Thailand, achieved a 100m-200m double with four record-breaking performances. Both athletes earned the titles of Female and Male Most Valuable Players for their remarkable achievements. Their performances established them as promising stars in Asian sports moving forward.",
@@ -414,15 +486,6 @@ const newsData_en = [
     "time": "2026-10-04T11:19:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Singeetham Srinivasa Rao had planned ‘A fruit cuts the knife’ as his next film, reveals Nag Ashwin",
-    "desc": "Singeetham Srinivasa Rao, a celebrated filmmaker, died at the age of 94 in Chennai. His final project was a film titled Sing Geetham, which combined fantasy and music elements. Singeetham was working on new ideas, including a project titled A fruit cuts the knife. Prominent filmmakers like Nag Ashwin have honored his inventive storytelling approaches and contributions to Indian cinema.",
-    "img": "https://static.toiimg.com/photo/msid-134673612,imgsize-97072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nag-ashwin-remembers-singeetham-srinivasa-raos-creative-spirit-after-his-passing-reveals-how-the-late-veteran-filmmaker-had-planned-a-film-titled-a-fruit-cuts-the-knife/articleshow/134673570.cms",
-    "time": "2026-10-04T10:59:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Curtain comes down in Aichi-Nagoya as Doha receives flag for Asian Games 2030",
     "desc": "The 20th Asian Games in Aichi-Nagoya successfully ended with Qatar receiving the flag for the next event in 2030. India concluded the Games with 85 medals, including 21 gold, and finished fourth overall. China led the medal tally, securing its best performance outside its home territory. Despite organisational challenges, individual athletic performances celebrated the spirit of competition. As the Games transitioned to Doha, the focus shifted towards preparations for 2030.",
@@ -430,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-curtain-comes-down-in-aichi-nagoya-as-doha-receives-flag-for-2030-edition/articleshow/134673196.cms",
     "time": "2026-10-04T10:38:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Yeh pasand hai na?'",
-    "desc": "Neetu Kapoor recently expressed her discontent with photographers asking her to pose with her back to the camera. She sarcastically questioned their preference for such shots before getting into her car. This incident is part of a broader conversation about the intrusive nature of paparazzi photography. Neha Dhupia had previously challenged this practice at an awards event, demanding respect for women's comfort.",
-    "img": "https://static.toiimg.com/photo/msid-134673335,imgsize-539097.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/apko-yeh-bada-accha-lagta-hai-na-back-after-salman-khan-neha-dhupia-neetu-kapoor-takes-a-sarcastic-dig-at-paparazzi-over-back-shots-after-they-ask-her-to-pose/articleshow/134673260.cms",
-    "time": "2026-10-04T10:34:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -747,24 +801,6 @@ const newsData_en = [
     "time": "2026-10-03T09:11:45.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Nayara hikes petrol by Rs 5, diesel by Rs 3 amid pressure from rising oil prices",
-    "desc": "Nayara Energy has announced an increase in fuel prices, raising petrol rates by Rs 5 and diesel by Rs 3 per litre. This decision comes in response to climbing international crude oil costs. Notably, Nayara had previously reduced prices for the first time in two years as global tensions subsided.",
-    "img": "https://static.toiimg.com/photo/msid-134655771,imgsize-33552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/nayara-hikes-petrol-by-rs-5-diesel-by-rs-3-amid-pressure-from-rising-oil-prices/articleshow/134655720.cms",
-    "time": "2026-10-03T09:11:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Today’s resilience no guarantee for tomorrow: RBI Guv flags emerging financial risks",
-    "desc": "During the Kautilya Economic Conclave, Reserve Bank governor Sanjay Malhotra emphasized the critical need for a resilient financial infrastructure. He pointed out the significance of monitoring new vulnerabilities to ensure the system can withstand diverse shocks. Malhotra acknowledged that systemic risks are now more global and interconnected, leading to unique challenges.",
-    "img": "https://static.toiimg.com/photo/msid-134655498,imgsize-81240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/todays-resilience-no-guarantee-for-tomorrow-rbi-guv-flags-emerging-financial-risks/articleshow/134655454.cms",
-    "time": "2026-10-03T08:50:28.000Z"
-  },
-  {
     "cat": "World",
     "title": "altercation, emergency landing and investigation",
     "desc": "Pictures showed that the aircraft had substantial damage. An emergency descent can be controlled, but in this instance, where descent could have been initiated erratically, there can be severe damage and stress to the crucial flight control surfaces and even the aircraft's tail",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/baththa-baththa-review-vijay-sethupathi-balaji-tharaneetharan-delightful-comedy-drama-baththa-tamil-movie/article71532194.ece",
     "time": "2026-10-01T16:04:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Trade deals that undermine multilateralism may hit growth and exports, govt economists warn",
-    "desc": "However, the report by the Department of Economic Affairs noted that while India was pursuing a diversified trade strategy, it was doing so within the multilateral trading system and still sought to have the WTO at the core",
-    "img": "https://th-i.thgim.com/public/incoming/tujtac/article71532551.ece/alternates/LANDSCAPE_1200/iStock-2224215664.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/trade-deals-that-undermine-multilateralism-may-hit-growth-and-exports-govt-economists-warn/article71532511.ece",
-    "time": "2026-10-01T12:37:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Commerce Minister Piyush Goyal meets U.S. Trade Representative Greer, discusses trade deal",
-    "desc": "While Mr. Goyal did not mention discussing the proposed 100% tariffs the U.S. is looking to levy on India, Commerce Secretary Rajesh Agrawal had earlier said “all trade issues” would be discussed during the Minister’s visit to the U.S.",
-    "img": "https://th-i.thgim.com/public/incoming/65wg6d/article71531424.ece/alternates/LANDSCAPE_1200/PTI10_01_2026_000019B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/productive-discussion-with-ustr-greer-on-early-conclusion-of-trade-deal-goyal/article71531414.ece",
-    "time": "2026-10-01T12:32:27.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why has OpenAI cancelled the release of its latest model?",
-    "desc": "What safety concerns emerged during internal testing? What did the U.K.’s AI Security Institute find when it evaluated GPT-6 Astra’s behaviour in simulated cyber environments? Could these concerns force OpenAI and other AI companies to rethink the pace of development?",
-    "img": "https://th-i.thgim.com/public/incoming/awl899/article71526764.ece/alternates/LANDSCAPE_1200/OpenAI-unveils-GDNGJMVE0.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/why-has-openai-cancelled-the-release-of-its-latest-model-explained/article71526762.ece",
-    "time": "2026-10-01T01:56:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "GPT-6.1 Astra: Why OpenAI halted its release",
-    "desc": "OpenAI has chosen to hold back GPT-6.1 Astra after internal tests showed that the model fell short of the company’s safety and alignment requirements. The model reportedly had difficulty staying within its authorised scope and accurately explaining the tasks it had performed.",
-    "img": "https://th-i.thgim.com/public/videos/shorts/uxqp5m/article71529974.ece/alternates/LANDSCAPE_1200/OPEN%20AI%20thumb.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/gpt-61-astra-why-openai-halted-its-release/article71529980.ece",
-    "time": "2026-09-30T16:40:47.000Z"
   }
 ];
