@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'I won't even get half of this Rs 300 crore': Fahadh on 'BKU'",
+    "desc": "Fahadh Faasil shared his happiness about the gross collection of 'Bethlehem Kudumba Unit', which surpassed Rs 300 crore. He clarified that these figures are not reflective of individual earnings, emphasizing collective success. The film features a memorable re-creation scene involving Mamitha Baiju that stood out for him. 'Bethlehem Kudumba Unit' released during Onam and received positive audience reactions. The film has since started streaming after a successful theatrical run.",
+    "img": "https://static.toiimg.com/photo/msid-134669283,imgsize-421813.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-wont-even-get-half-of-this-rs-300-crore-fahadh-faasil-on-bethlehem-kudumba-unit-success-calls-mamitha-baijus-ashley-photo-re-creation-scene-his-favorite/articleshow/134669275.cms",
+    "time": "2026-10-04T03:42:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs West Indies ODI series rewrites record books with highest scoring rate ever",
+    "desc": "The thrilling ODI series between India and the West Indies set a dazzling scoring rate record of 7.43 runs per over, captivating cricket fans worldwide. Each match overflowed with excitement as teams surpassed the 300-run mark. India clinched the series 2-1, despite West Indies snatching a spectacular consolation win in the finale, where both teams also reached the 400-run milestone, highlighting extraordinary batting prowess.",
+    "img": "https://static.toiimg.com/photo/msid-134669081,imgsize-175016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/india-vs-west-indies-odi-series-rewrites-record-books-with-highest-scoring-rate-ever/articleshow/134669066.cms",
+    "time": "2026-10-04T03:03:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vithya Ramraj’s record run: How far has India come in the 400m hurdles?",
+    "desc": "She broke P.T. Usha’s 42-year-old record to win bronze, while also anchoring India to gold in the women’s 4×400m relay and silver in the mixed 4×400m relay. Vithya’s coach, Nehpal Singh Rathore, explains why she needed to train for both the 400m hurdles and the flat.",
+    "img": "https://th-i.thgim.com/public/incoming/446tof/article71541839.ece/alternates/LANDSCAPE_1200/A20_RVM_0526.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/data/vithya-ramrajs-record-run-how-far-has-india-come-in-the-400m-hurdles/article71541845.ece",
+    "time": "2026-10-04T03:00:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's Asiad Medal Tally: Sport-wise breakdown; Archery leads gold charge",
+    "desc": "India finished fourth at the 2026 Asian Games in Aichi-Nagoya with 85 medals, 21 gold, 27 silver and 37 bronze, its second-highest tally ever. Athletics led with 24 medals, followed by shooting with 15 and archery with nine. India recorded several historic firsts, defended cricket and hockey titles, and mounted a strong late surge to secure another top-five finish.",
+    "img": "https://static.toiimg.com/photo/msid-134669056,imgsize-153610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/india-asian-games-2026-medal-tally-sport-wise-breakdown-archery-leads-gold-charge-athletics-tops-overall-haul/articleshow/134668878.cms",
+    "time": "2026-10-04T02:54:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'My goal is to have 3': Alex Albon wants Thailand to join his list of F1 home races",
+    "desc": "Alex Albon considers Singapore and Malaysia his two Formula 1 home races, but the Williams driver wants Thailand to join that list. With Thailand targeting a potential F1 race in Bangkok from 2028, Albon’s Thai heritage could give him a third home event. Speaking to the Times of India ahead of the Bahrain Grand Prix at Sepang, Albon also discussed his growing role in developing Williams’ future cars and the value of driver experience.",
+    "img": "https://static.toiimg.com/photo/msid-134652062,imgsize-58656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/racing/top-stories/my-goal-would-be-to-have-three-alex-albon-embraces-thai-roots-wants-thailand-to-join-his-list-of-f1-home-races/articleshow/134651583.cms",
+    "time": "2026-10-04T02:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mammootty praises Karthik Subbaraj's 'Dorothy'",
+    "desc": "Karthik Subbaraj's 'Dorothy' has garnered favorable reviews and decent box office earnings since its release. The film features Keerthy Suresh, Sananth, and Rishikanth and premiered at the Toronto International Film Festival. Mammootty has appreciated the film and the efforts of its cast and crew. As of now, 'Dorothy' has grossed Rs 10.61 crore worldwide and Rs 9.15 crore net in India.",
+    "img": "https://static.toiimg.com/photo/msid-134668925,imgsize-253927.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mammootty-praises-karthik-subbaraj-and-keerthy-sureshs-dorothy-director-says-you-always-inspire/articleshow/134668920.cms",
+    "time": "2026-10-04T02:22:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ajay thriller races past Rs 100cr",
+    "desc": "Ajay Devgn's Drishyam 3 – The Conclusion earned Rs 53.50 crore on Saturday, down 13.7% from Friday, per Sacnilk. The Abhishek Pathak thriller crossed Rs 100 crore in two days, with Rs 115.50 crore in India and Rs 177.10 crore worldwide. It is expected to pass Rs 150 crore by Sunday.",
+    "img": "https://static.toiimg.com/photo/msid-134668919,imgsize-342133.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/drishyam-3-box-office-collection-day-2-ajay-devgns-film-earns-rs-53-50-crore-on-saturday-in-india-eyes-rs-200-crore-mark-globally-during-opening-weekend/articleshow/134668916.cms",
+    "time": "2026-10-04T02:20:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neeru Dhanda eyes Olympic medal to end wait since Rajyavardhan’s 2004 silver",
+    "desc": "After battling viral fever and a rushed recovery, Neeru Dhanda arrived at the Asian Games 2026 with a dream of winning a medal. She left Aichi-Nagoya with three medals - two golds and a silver - and her sights now firmly set on the Los Angeles Olympics. With the World Championship in Doha her immediate target, Neeru wants to win an Olympic medal and end India’s long wait for a shotgun medal.",
+    "img": "https://static.toiimg.com/photo/msid-134668863,imgsize-97422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/exclusive-asian-games-gold-done-neeru-dhanda-eyes-olympic-shotgun-medal-to-end-wait-since-rajyavardhan-rathores-2004-silver/articleshow/134668825.cms",
+    "time": "2026-10-04T02:06:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The enduring impact of Singeetham Srinivasa Rao’s films on contemporary filmmakers",
+    "desc": "As Singeetham Srinivasa Rao, 94 years young, gears up for the release of his new Telugu film ‘Sing Geetham’, directors Vivek Athreya, Mohana Krishna Indraganti and Venkatesh Maha travel down memory lane to recall his iconic films",
+    "img": "https://th-i.thgim.com/public/incoming/rznssg/article71079414.ece/alternates/LANDSCAPE_1200/DSC_2306.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/the-enduring-impact-of-singeetham-srinivasa-raos-films-on-contemporary-filmmakers/article71075609.ece",
+    "time": "2026-10-04T01:55:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill equals MS Dhoni, Yuvraj Singh to enter elite India club",
+    "desc": "Shubman Gill has successfully equaled the impressive record of MS Dhoni, achieving seven Player of the Series awards in ODIs. This remarkable feat was accomplished following India's recent series victory against the West Indies, where Gill scored 110 runs and an incredible unbeaten 233 in the first two matches. Despite a loss in the third match, his consistent performance places him among legends like Yuvraj Singh and Sourav Ganguly.",
+    "img": "https://static.toiimg.com/photo/msid-134668794,imgsize-88302.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-equals-ms-dhoni-yuvraj-singh-to-enter-elite-india-club/articleshow/134668757.cms",
+    "time": "2026-10-04T01:52:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Witty Alien? The 'shirtless guy' who shocked world No. 1 Carlsen",
+    "desc": "Bulgarian chess creator Volen Dyulgerov, known as Witty Alien, stunned world No. 1 Magnus Carlsen in a blitz game during Chess.com’s Chess Club Showdown. The 27-year-old Candidate Master, known for his energetic content and Alien Gambit, has a 2181 FIDE rating. Despite Carlsen’s much higher online rating, Dyulgerov secured a memorable upset victory in the event.",
+    "img": "https://static.toiimg.com/photo/msid-134668803,imgsize-45006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/who-is-witty-alien-the-shirtless-guy-who-shocked-world-no-1-magnus-carlsen/articleshow/134668742.cms",
+    "time": "2026-10-04T01:51:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "KATSEYE's Lara Raj breaks silence on her viral kumkum look",
+    "desc": "At Paris Fashion Week, Lara Raj turned heads by blending Indian cultural motifs with her Loewe dress. Adorning herself with traditional jewellery and kumkum, she paid homage to her Bollywood idol Rekha and honored her mother. This fusion not only highlighted her Indian heritage but also reflected her deep pride in showcasing the beauty of her culture on such a prestigious global platform.",
+    "img": "https://static.toiimg.com/photo/msid-134668747,imgsize-135497.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/katseyes-lara-raj-calls-her-kumkum-look-a-tribute-to-the-forever-style-icon-the-legendary-rekha-and-her-mother-calls-it-a-sacred-blessing-amid-online-debate/articleshow/134668721.cms",
+    "time": "2026-10-04T01:35:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mandaadi' BO day 24 vs 'Baththa'",
+    "desc": "Soori's film 'Mandaadi' experienced an increase in box office collections, reaching Rs 99.92 cr in India net. This growth comes after the film earned Rs 2.97 cr on its 24th day. The movie's India gross collection has climbed to Rs 116.48 cr while its worldwide gross stands at Rs 134.18 cr. Additionally, Vijay Sethupathi's 'Baththa' debuted and has collected Rs 6.95 cr in India net.",
+    "img": "https://static.toiimg.com/photo/msid-134668694,imgsize-371459.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mandaadi-box-office-collections-day-24-vs-baththa-sooris-film-earns-rs-2-97-cr-india-net-reaches-rs-99-92-cr-vijay-sethupathis-film-earns-rs-6-95-cr-in-3-days/articleshow/134668687.cms",
+    "time": "2026-10-04T01:21:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Great man MS Dhoni’: Hope reveals advice that helped him script record chase",
+    "desc": "Shai Hope played a pivotal role in West Indies' remarkable success against India by scoring an unbeaten 162. His innings helped the team chase down a daunting target of 352 runs with ten balls to spare. After India's innings, bolstered by KL Rahul’s 129, Hope drew inspiration from MS Dhoni to pace his batting.",
+    "img": "https://static.toiimg.com/photo/msid-134668681,imgsize-130708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/great-man-ms-dhoni-shai-hope-reveals-advice-from-ex-india-captain-that-helped-him-script-record-chase/articleshow/134668671.cms",
+    "time": "2026-10-04T01:13:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Doing things for social media': Ex-Pak player slams Ayub for Sooryavanshi send-off",
+    "desc": "India beat Pakistan by 19 runs in the Asian Games final, but controversy followed Saim Ayub’s ‘baby cradle’ send-off to 15-year-old Vaibhav Sooryavanshi. Former Pakistan player Kamran Akmal criticised the gesture, saying players should focus on performances rather than social media attention. India posted 211/6, while Hasan Nawaz’s 96 couldn’t prevent Pakistan’s defeat.",
+    "img": "https://static.toiimg.com/photo/msid-134668673,imgsize-382184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/doing-things-for-social-media-former-pakistan-player-slams-saim-ayub-for-vaibhav-sooryavanshi-send-off/articleshow/134668647.cms",
+    "time": "2026-10-04T01:09:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Protests held across country demanding CEC Gyanesh Kumar’s ouster, hundreds detained",
+    "desc": "Congress leader Rahul Gandhi slams police action on protesters, says ‘lathi can stop a crowd, but not a question’; political parties, activists and students take out rallies across States seeking electoral reforms and rollback of SIR",
+    "img": "https://th-i.thgim.com/public/incoming/n5la7l/article71538377.ece/alternates/LANDSCAPE_1200/PROTEST%20AGAINST%20GYANESH%20KUMAR%2010.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/protests-held-across-country-demanding-cec-gyanesh-kumars-ouster-hundreds-detained/article71537923.ece",
+    "time": "2026-10-04T01:07:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Avengers: Endgame Encore' BO day 9",
+    "desc": "Endgame has raked in a notable Rs 34.41 crore net in India. Notably, the English version played a substantial role, contributing more than Rs 24 crore. The addition of Hindi, Telugu, and Tamil versions has further boosted the total earnings, generating excitement among fans for the upcoming Avengers: Doomsday film and offering a perfect opportunity to relive the Infinity Saga on the big screen.",
+    "img": "https://static.toiimg.com/photo/msid-134668628,imgsize-290880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-endgame-encore-box-office-collection-day-9-marvel-re-release-earns-rs-34-41-cr-india-net-india-gross-at-rs-40-88-cr/articleshow/134668625.cms",
+    "time": "2026-10-04T01:02:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sequels confirmed For Ikka, Shaque: Siddharth says new seasons in works",
+    "desc": "Siddharth P Malhotra has confirmed sequels to his hit OTT projects, 'Ikka' and 'Shaque'. Both have performed strongly, and 'Shaque' will return with a fresh story in Season 2. 'Ikka', starring Sunny Deol, is a courtroom drama, while 'Shaque' follows Parineeti Chopra's search for her missing daughter.",
+    "img": "https://static.toiimg.com/photo/msid-134668584,imgsize-202503.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/siddharth-p-malhotra-confirms-ikka-2-and-shaque-season-2-says-havent-got-so-many-calls-for-a-series-before/articleshow/134668578.cms",
+    "time": "2026-10-04T00:47:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chennai’s monsoon test",
+    "desc": "This year, the IMD has predicted normal Northeast monsoon rainfall, with a strong El Niño likely to strengthen it further towards the end of the year. Is the new TVK government prepared to face the monsoon, or will Chennai have to brace for another deluge?",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/k4ojny/article71540372.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-03%20at%2016.07.34.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/chennais-northeast-monsoon-test-how-ready-is-the-city-to-tackle-flooding/article71539817.ece",
+    "time": "2026-10-04T00:47:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sigma' BO day 2: Film earns Rs 1.50 cr",
+    "desc": "On October 3, Jason Sanjay's directorial debut 'Sigma' saw a reduction in box office figures, earning Rs 1.50 crore net on its second day. After two days, the cumulative earnings reached Rs 3.85 crore in India, with the Tamil version showing a greater impact than its Telugu counterpart. 'Sigma' narrates the story of a librarian faced with financial dilemmas and the complexities of criminal connections.",
+    "img": "https://static.toiimg.com/photo/msid-134668577,imgsize-209565.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sigma-box-office-collection-day-2-jason-sanjays-directorial-debut-earns-rs-1-50-cr-sundeep-kishan-movie-drops-36-2/articleshow/134668568.cms",
+    "time": "2026-10-04T00:44:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Emma Roberts shares romantic wedding moments with Cody John",
+    "desc": "Emma Roberts recently revealed beautiful photos from her wedding with Cody John held in July 2026. The couple exchanged vows at John's family estate in Sun Valley, Idaho, with Roberts' son playing a special role. Roberts wore a vintage-inspired Monique Lhuillier gown, while John opted for a classic black tuxedo. Their relationship began in May 2022, leading to an engagement announcement in July 2024.",
+    "img": "https://static.toiimg.com/photo/msid-134668547,imgsize-854141.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/emma-roberts-celebrates-married-life-with-cody-john-shares-romantic-moments-from-their-wedding-day/articleshow/134668542.cms",
+    "time": "2026-10-04T00:32:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Singeetham Srinivasa Rao passes away at 94",
+    "desc": "Singeetham Srinivasa Rao passed away at a private hospital in Chennai at the age of 94. He underwent treatment for age-related ailments prior to his death, as reported by Telangana Today. His works have greatly influenced many in the film industry, including actor Vishnu Manchu. The filmmaker's best-known works include ‘Aditya 369’ and ‘Pushpaka Vimana’, which showcased his innovative storytelling.",
+    "img": "https://static.toiimg.com/photo/msid-134668456,imgsize-302647.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/legendary-filmmaker-singeetham-srinivasa-rao-passes-away-at-94-aditya-369-director-mourned-by-celebrities-fans/articleshow/134668455.cms",
+    "time": "2026-10-03T23:55:41.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Ireland press conference ahead of Israel game in Nations League cut short",
     "desc": "Ireland defeated Israel 3-0 last Sunday (September 27, 2026) but only after Irish players took a vote on whether or not to go ahead with the game, due to bitter opposition in Ireland over Israel's actions in Gaza",
@@ -72,6 +270,15 @@ const newsData_en = [
     "time": "2026-10-03T17:34:26.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Motivational quote of the day by Chris Hemsworth",
+    "desc": "Chris Hemsworth champions the idea of self-motivation over seeking external praise. He illustrates how taking proactive steps fosters momentum towards achieving aspirations. His own experiences reveal that unwavering dedication and consistent effort are vital for success across various domains. Additionally, Hemsworth points out the importance of diverse training methods to keep motivation high and to cultivate discipline, underscoring that personal responsibility is essential for sustainable growth, independent of external validation.",
+    "img": "https://static.toiimg.com/photo/msid-134654500,imgsize-951196.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/motivational-quote-of-the-day-by-chris-hemsworth-dont-wait-around-for-someone-else-to-come-push-you-push-yourself-a-powerful-life-lesson-reminding-us-to-take-charge-from-the-thor-actor/articleshow/134654379.cms",
+    "time": "2026-10-03T17:30:00.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Russia to take 70,000 Indian skilled workers this year, Jaishankar tells panel",
     "desc": "External Affairs Minister S Jaishankar briefed a parliamentary committee on India's engagement with Russia and Ukraine. He highlighted bilateral trade expansion and India's aim to send skilled workers. The minister discussed India's diplomatic efforts to facilitate dialogue for ending the Ukraine conflict. Additionally, he noted the government's initiatives to release Indian nationals in the Russian military. Jaishankar emphasized India's commitment to secure economic interests and safeguard Indian citizens abroad.",
@@ -108,24 +315,6 @@ const newsData_en = [
     "time": "2026-10-03T16:47:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Helicopters, influencers and nail art: The money trail of 2026 assembly elections",
-    "desc": "The BJP and Congress have filed their election expenditure reports following several assembly elections this year. The BJP recorded a hefty expenditure of Rs 529.39 crore across five states, whereas Congress spent Rs 248.55 crore. These contrasting figures unveil the distinct priorities of the political parties, particularly in West Bengal and Keralam.",
-    "img": "https://static.toiimg.com/photo/msid-134663102,imgsize-135646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/helicopters-influencers-and-nail-art-the-money-trail-of-2026-assembly-elections/articleshow/134662872.cms",
-    "time": "2026-10-03T16:39:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Akhilesh Yadav asks SP leaders to keep seat-sharing concerns internal amid friction with Congress",
-    "desc": "Akhilesh Yadav, president of the Samajwadi Party, encouraged leaders to express seat-sharing concerns privately. Tensions arose after Shiv Pal Singh Patel criticized Congress' demand for 150 seats in upcoming elections. Patel emphasized that Congress should receive a more realistic allocation based on their previous performance. Uttar Pradesh Congress president Aradhana Mishra stated that top leadership will decide the seat allocation.",
-    "img": "https://static.toiimg.com/photo/msid-134663004,imgsize-46646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/akhilesh-yadav-asks-sp-leaders-to-keep-seat-sharing-concerns-internal-amid-friction-with-congress/articleshow/134662978.cms",
-    "time": "2026-10-03T16:37:31.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How landlord won tax relief on Rs 14.96 lakh demonetisation cash deposit",
     "desc": "The Bangalore bench of the Income Tax Appellate Tribunal (ITAT) recently held that rental income already disclosed to the income tax authorities can be considered as an identifiable source of cash deposited into a bank account at a later date. Even where a landlord claims to have collected rent in cash, the subsequent deposit of that money cannot be disregarded merely because the rental earnings have already been taxed.",
@@ -133,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/he-deposited-rs-14-96-lakh-cash-during-demonetisation-landlord-faced-unexplained-money-tax-notice-under-section-69a-but-itat-bangalore-deletes-addition-on-account-of-rental-income/articleshow/134661840.cms",
     "time": "2026-10-03T16:31:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 1977, Peter Straus bought a 64-acre ranch; 10 years later it transformed into National Park site",
-    "desc": "Peter Strauss purchased a 64-acre ranch in California in 1977, which had previously fallen into disrepair. He invested significantly in restoring the land and lived there until 1983, working to return it to its natural state. The site eventually became known as Peter Strauss Ranch Park, part of the Santa Monica Mountains National Recreation Area.",
-    "img": "https://static.toiimg.com/photo/msid-134657375,imgsize-171424.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1977-peter-strauss-invested-225000-in-64-acre-barren-ranch-in-california-10-years-later-it-became-national-park-service-site-but-now-only-a-stone-amphitheater-remains/articleshow/134657312.cms",
-    "time": "2026-10-03T16:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -171,6 +351,15 @@ const newsData_en = [
     "time": "2026-10-03T15:30:41.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Meghan Markle",
+    "desc": "Meghan Markle pointed out the necessity for thoughtful online participation. She inspired others to bypass negativity and to prioritize meaningful actions that align with their personal beliefs. In a digital landscape saturated with distractions, she advocates for intentional focus, suggesting that this leads to richer and more fulfilling online engagements for everyone.",
+    "img": "https://static.toiimg.com/photo/msid-134654452,imgsize-1023755.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-meghan-markle-its-our-responsibility-to-make-a-choice-on-what-we-click-on-we-make-a-choice-on-what-we-read-we-make-a-choice-of-what-we-engage-in-when-the-duchess-shares-a-message-about-positivity-and-personal-choices/articleshow/134654378.cms",
+    "time": "2026-10-03T15:30:00.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Asian Games 2026 medal tally today, October 3: India rank and full medals table",
     "desc": "India could not match the 106 medals they won at the previous edition, but finished with 85 medals, including 21 gold, 27 silver and 37 bronze. A better performance was expected particularly from the shooting and badminton teams.",
@@ -178,6 +367,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-medal-tally-today-october-3-india-rank-and-full-medals-table/articleshow/134661546.cms",
     "time": "2026-10-03T14:41:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2006, Cher bought this LA high-rise for $3M; later sold it for $5.25M",
+    "desc": "Cher’s Los Angeles duplex is a true reflection of her eclectic style, masterfully brought to life with the help of interior designer Martyn Lawrence-Bullard. This inviting retreat is adorned with art and antiques, and features a soothing color palette that perfectly encapsulates Cher's essence. A haven from the spotlight, the home is a testament to her love for design, blending luxury with a warm, comforting atmosphere.",
+    "img": "https://static.toiimg.com/photo/msid-134654306,imgsize-1307045.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2006-cher-bought-this-glamorous-la-high-rise-for-3-million-years-later-she-sold-it-for-5-25-million/articleshow/134654250.cms",
+    "time": "2026-10-03T14:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -216,15 +414,6 @@ const newsData_en = [
     "time": "2026-10-03T13:32:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "In 2013, Bob Hope’s ‘UFO House’ listed for $50M; later sold for $13M",
-    "desc": "Bob Hope's iconic Palm Springs residence, designed by renowned architect John Lautner in the 1970s, showcased a one-of-a-kind architectural style. Initially priced at $50 million, the estate struggled to find a buyer, leading to a price drop to $24.999 million. Ultimately, in 2016, billionaire Ronald Burkle acquired it for $13 million. Today, the property remains a standout gem in the Palm Springs area.",
-    "img": "https://static.toiimg.com/photo/msid-134654051,imgsize-849003.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2013-bob-hopes-ufo-house-hit-the-market-for-50-million-years-later-it-was-eventually-sold-for-13-million/articleshow/134654016.cms",
-    "time": "2026-10-03T13:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India's golden Saturday: Hockey, cricket, wrestling, golf and archery deliver golds",
     "desc": "India produced one of their biggest medal hauls of the Asian Games on Saturday, with gold medals coming in men's hockey, T20 cricket, wrestling, golf and archery. The men's hockey team capped the day by beating Malaysia 5-1 in the final to retain their Asian Games title and book a place at the 2028 Olympics. India's medal tally now stands at 85 medals - 21 gold, 27 silver and 37 bronze.",
@@ -243,78 +432,6 @@ const newsData_en = [
     "time": "2026-10-03T13:22:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Eddie Murphy",
-    "desc": "Eddie Murphy reflects on his rich journey in entertainment, offering wisdom on the importance of overcoming failures without lingering in the past. He captures this idea with a poignant metaphor of a crashed plane, signifying the necessity of learning from setbacks. For Murphy, the key to a successful career lies in recognizing missteps while relentlessly forging ahead, showcasing true resilience.",
-    "img": "https://static.toiimg.com/photo/msid-134654052,imgsize-67519.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/motivational-quote-of-the-day-by-eddie-murphy-ive-mastered-the-art-of-walking-away-from-the-crashed-plane-a-powerful-life-lesson-on-failure-resilience-and-moving-on/articleshow/134653978.cms",
-    "time": "2026-10-03T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika Mandanna mimics Vijay’s ‘Ranabaali’ dialogue",
-    "desc": "Rashmika Mandanna and Vijay Deverakonda will soon star in their upcoming film titled 'Ranabaali'. The film is set to be a period drama focusing on their characters' struggles against British rule. Recently, Vijay shared a behind-the-scenes video of Rashmika mimicking one of his dialogues, showcasing their playful chemistry. 'Ranabaali' is directed by Rahul Sankrityan and will be released on October 16, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-134659650,imgsize-101634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-mimics-vijay-deverakondas-ranabaali-dialogue-liger-actor-calls-wife-his-cute-savage/articleshow/134659642.cms",
-    "time": "2026-10-03T12:28:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay recalls 'licking' an ice cube during 'Liger' shoots",
-    "desc": "Vijay Deverakonda opened up about the grueling effects of filming 'Liger' on his body, detailing his severe water restriction regimen. Initially consuming four to six liters a day, he drastically cut it down to just 200 ml. This drastic change took a toll on his mental and physical performance during shoots. Post-filming, he found himself longing for coconut water to hydrate.",
-    "img": "https://static.toiimg.com/photo/msid-134659566,imgsize-577758.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-recalls-licking-an-ice-cube-during-liger-shoots-says-was-drinking-only-200-ml-a-day/articleshow/134658573.cms",
-    "time": "2026-10-03T12:22:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Deverakonda says he ‘loved’ every script, explains why some films don’t work",
-    "desc": "Vijay Deverakonda recently opened up about his method for choosing scripts, highlighting the intricate nature of the filmmaking process. He shared that multiple elements influence the final result and its reception. His enthusiasm for his projects was evident as he discussed his film Liger and its personal resonance. Following Raanabali, he has an exciting lineup, including Rowdy Janardhana and another intriguing collaboration with director Shouryuv.",
-    "img": "https://static.toiimg.com/photo/msid-134659498,imgsize-71804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ranabaali-actor-vijay-deverakonda-reveals-how-he-picks-scripts-talks-about-his-2022-liger-backlash-says-maybe-how-we-executed-it-didnt-land/articleshow/134659397.cms",
-    "time": "2026-10-03T12:15:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Drishyam 3' box office Day 2 [LIVE]: Ajay Devgn starrer set to enter Rs 100 cr club today",
-    "desc": "The Conclusion', starring Ajay Devgn, has made waves at the box office, garnering an impressive Rs 62 crore on debut and an additional Rs 25.50 crore the following day. With total earnings in India surpassing Rs 104.49 crore, projections suggest continued success. Directed by Abhishek Pathak, this film successfully navigates cast changes while captivating audiences since its premiere on October 2, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-134659394,imgsize-615684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/drishyam-3-the-conclusion-box-office-collection-day-2-live-ajay-devgn-and-jaideep-ahlawat-starrer-set-to-enter-rs-100-crore-club-on-its-second-day/articleshow/134659350.cms",
-    "time": "2026-10-03T12:12:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Swift’s $47 million Beverly Hills mansion used in ‘Patient Zero’ music video",
-    "desc": "In her music video 'Patient Zero,' Taylor Swift unravels a poignant tale of a troubled romance set against the backdrop of a stunning $47 million mansion. Featuring luminaries Dakota Johnson and Colin Farrell, the video delves into a haunting narrative of love and despair, with the lavish property—once owned by James Jannard—intensifying its eerie ambiance.",
-    "img": "https://static.toiimg.com/photo/msid-134653903,imgsize-489227.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swifts-patient-zero-mansion-inside-the-47-million-beverly-hills-home-where-her-music-video-was-filmed/articleshow/134653866.cms",
-    "time": "2026-10-03T11:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika says Vijay Deverakonda ‘doesn’t celebrate anything’: ‘She brought some celebration’",
-    "desc": "Rashmika Mandanna and Vijay Deverakonda discuss their upcoming film 'Ranabaali' during promotional interviews. They reflect on their marriage and the significance of celebrating life's moments. Rashmika emphasizes that making memories is crucial as time is limited and life is ever-changing. Vijay shares his evolving perspective, prioritizing enjoyment and holidays over constant work and struggles. Their collaboration marks a significant milestone as it is their first project since their wedding.",
-    "img": "https://static.toiimg.com/photo/msid-134657925,imgsize-157394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-feels-rashmika-mandanna-has-brought-celebration-into-his-life-shares-ive-decided-to-take-more-holidays/articleshow/134657907.cms",
-    "time": "2026-10-03T11:20:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tara in talks to play female lead",
-    "desc": "Tara Sutaria is currently in talks to star in 'Mahavatar', featuring Vicky Kaushal. This film, directed by Amar Kaushik, delves into the life of the iconic figure Parashurama. Notably, the casting has undergone multiple revisions, reflecting ongoing negotiations. Although Tara's involvement is being considered, no conclusive decisions have been reached yet. Filming for 'Mahavatar' is scheduled to commence in January 2027, following Vicky's release of 'Love & War'.",
-    "img": "https://static.toiimg.com/photo/msid-134657629,imgsize-540212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushals-mahavatar-casting-update-tara-sutaria-is-in-the-running-for-the-female-lead-film-to-go-on-floors-in-january-2027/articleshow/134657470.cms",
-    "time": "2026-10-03T11:03:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Stellar Abhishek, Super Tilak power India to gold despite Nawaz heroics for Pakistan",
     "desc": "The pitch was a tricky one but eased out later as world’s No. 1 T20I batter Abhishek smashed 61 off 28 balls, with seven sixes, and vice-captain Tilak silenced his critics with a top-notch unbeaten 51 off 22 balls",
@@ -324,15 +441,6 @@ const newsData_en = [
     "time": "2026-10-03T10:40:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "In 2017, Angelina Jolie purchased the $24.5 million LA estate; Madonna then bought the space for $24.75 million",
-    "desc": "Angelina Jolie has parted ways with her famed Los Feliz estate, which she acquired for USD 24.5 million back in 2017. This storied property boasts a lineage that includes legendary names like Cecil B. DeMille. Now in the hands of Madonna, it offers a wealth of luxurious facilities. To pique Madonna's interest, Jolie even organized a private tour. Despite being listed at USD 29.",
-    "img": "https://static.toiimg.com/photo/msid-134655679,imgsize-251506.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2017-angelina-jolie-bought-her-los-feliz-estate-for-24-5-million-with-a-promise-to-leave-la-once-her-children-are-18-years-later-madonna-has-purchased-the-space-for-24-75-million/articleshow/134655496.cms",
-    "time": "2026-10-03T10:30:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rate hike may hurt select NBFC segments, but broad asset stress unlikely: Report",
     "desc": "Nuvama Institutional Equities suggests that an RBI rate hike may not broadly impact NBFC asset quality. The report indicates that past rate increases did not lead to widespread deterioration. Current risks, including the West Asia conflict, appear limited to specific NBFC segments. Healthy capital buffers and liquidity may support overall asset quality for most NBFCs. Any future deterioration is expected to be specific, contingent on external shocks.",
@@ -340,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rate-hike-may-hurt-select-nbfc-segments-but-broad-asset-stress-unlikely-report/articleshow/134656727.cms",
     "time": "2026-10-03T10:23:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "16 years of 'Endhiran': Rathnavelu shares nostalgic BTS photos; thanks Shankar and team",
-    "desc": "To celebrate 16 years since the release of 'Endhiran,' Rathnavelu shared memorable behind-the-scenes photographs and extended his gratitude to director Shankar, the talented cast, and crew who made it all possible. A landmark in Indian cinema, 'Endhiran' is renowned for its pioneering visuals. Rathnavelu also commended his dedicated young camera team whose hard work contributed to the film's continuing legacy in the industry.",
-    "img": "https://static.toiimg.com/photo/msid-134656720,imgsize-211807.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/endhiran-completes-16-years-cinematographer-rathnavelu-shares-bts-pictures-thanks-shankar-and-rajinikanth-these-frames-still-carry-the-same-magic/articleshow/134656686.cms",
-    "time": "2026-10-03T10:14:10.000Z"
   },
   {
     "cat": "Sports",
@@ -367,33 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/over-3500-responses-on-cas-sebi-to-quickly-move-ahead-with-proposals/articleshow/134656121.cms",
     "time": "2026-10-03T09:46:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SRK SALUTES pilot Captain Smit for saving 174 lives on flight",
-    "desc": "In a remarkable display of courage, Captain Smit Machchhar has gained admiration from Bollywood stars after surviving a brutal in-flight attack on a Flydubai flight. Stabbed by his co-pilot, he showcased extraordinary bravery by safeguarding the lives of his passengers. Celebrities, including Shah Rukh Khan and Salman Khan, commended his quick thinking that allowed him to safely divert the aircraft.",
-    "img": "https://static.toiimg.com/photo/msid-134656162,imgsize-516197.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-salutes-pilot-captain-smit-machchhar-for-saving-174-lives-on-flight-you-stood-strong-when-it-mattered-the-most-a-true-display-of-courage-and-duty/articleshow/134656115.cms",
-    "time": "2026-10-03T09:39:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit scripts history in 3rd ODI, becomes fastest batter to reach 10000 runs as opener",
-    "desc": "In a historic moment for Indian cricket, Rohit Sharma has become the fourth batter in ODI history to surpass 10,000 runs as an opener. Achieving this feat in just 202 innings highlights his exceptional talent and consistency. During the final ODI against West Indies, India chose to bat first but faced early challenges with two quick wickets. However, Rohit, alongside Ruturaj Gaikwad, managed to restore stability to the innings.",
-    "img": "https://static.toiimg.com/photo/msid-134656046,imgsize-98630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/rohit-sharma-scripts-history-in-3rd-odi-becomes-fastest-batter-to-reach-10000-runs-as-opener/articleshow/134655984.cms",
-    "time": "2026-10-03T09:30:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "KJo reviews 'Drishyam 3', calls it 'Mazedaar'; praises Ajay's performance",
-    "desc": "Filmmaker Karan Johar applauds 'Drishyam 3' on social media, recognizing its impressive performances and direction. The film has achieved remarkable success at the box office, recording the highest opening of Ajay Devgn's career. 'Drishyam 3' earned Rs 66.7 crore on its first day, surpassing previous records set by other films. Ajay Devgn consulted Mohanlal before proceeding with the third installment, seeking his approval for the film.",
-    "img": "https://static.toiimg.com/photo/msid-134655976,imgsize-468129.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-reviews-drishyam-3-calls-it-mazedaar-lajawab-praises-ajay-devgn-and-jaideep-ahlawats-performances/articleshow/134655941.cms",
-    "time": "2026-10-03T09:20:16.000Z"
   },
   {
     "cat": "Business",
@@ -441,15 +513,6 @@ const newsData_en = [
     "time": "2026-10-03T08:38:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Gold medal! India beat Pakistan by 19 runs, defend Asiad crown in men's cricket",
-    "desc": "India defeated Pakistan by 19 runs in the Asian Games men’s cricket final to win gold. Batting first, India posted 211/6, led by Abhishek Sharma’s explosive 61 off 28 balls and late contributions from Tilak Varma and Shivam Dube. Pakistan fought back through Hasan Nawaz’s 96, but India’s disciplined bowling secured a thrilling victory and completed a memorable all-round performance.",
-    "img": "https://static.toiimg.com/photo/msid-134654896,imgsize-143510.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/gold-medal-india-beat-pakistan-by-19-runs-defends-asian-games-crown-in-mens-cricket/articleshow/134654850.cms",
-    "time": "2026-10-03T08:06:58.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Goyal pitches India as global trade hub, eyes 75-80% of world economy",
     "desc": "India is actively pursuing free trade agreements with 31 nations to boost its global trade ties. Commerce Minister Piyush Goyal underscored the possibility of achieving a $30 trillion economy by 2047. He pointed out significant opportunities for both American and Indian-American entrepreneurs to engage in this economic growth. In Chicago, Goyal held talks with U.S.",
@@ -468,33 +531,6 @@ const newsData_en = [
     "time": "2026-10-03T06:22:04.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Neeraj Chauhan clinches recurve bronze in all-India clash at Asian Games",
-    "desc": "Indian archer Neeraj Chauhan won the bronze medal in the men's recurve individual event at the Asian Games 2026 after defeating compatriot Dhiraj Bommadevara 6-4 at the Okazaki Chuo Sogo Park Multipurpose Square on Saturday. In an all-Indian medal contest, Chauhan held his nerve to finish ahead of Bommadevara and claim the bronze medal.",
-    "img": "https://static.toiimg.com/photo/msid-134653055,imgsize-30929.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/neeraj-chauhan-clinches-recurve-bronze-defeats-dhiraj-bommadevara-in-all-india-clash-at-asian-games/articleshow/134653024.cms",
-    "time": "2026-10-03T05:55:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma equals Yuvraj Singh's big record against Pakistan",
-    "desc": "Abhishek Sharma produced another attacking innings as India made a strong start against Pakistan in the gold medal match of the Asian Games 2026 at the Korogi Athletic Park in Aichi-Nagoya, Japan, on Saturday. India opted to bat first after winning the toss, and Abhishek gave the team the perfect start. The left-hander smashed a quick 61 off 28 balls, hitting seven sixes and giving India early momentum in the high-profile final.",
-    "img": "https://static.toiimg.com/photo/msid-134652956,imgsize-43671.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/abhishek-sharma-equals-yuvraj-singhs-big-record-against-pakistan-breaks-chris-gayles-six-hitting-mark/articleshow/134652908.cms",
-    "time": "2026-10-03T05:48:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Grandmother’s gift, second-hand bow and 3 medals: How Kumkum Mohod made history",
-    "desc": "Kumkum Mohod from Amravati captured the spotlight at the 2026 Asian Games by clinching two gold medals and a silver in archery, a groundbreaking feat for Indian sports. Starting her journey with a simple Rs 3,000 wooden bow, her talent and commitment shone through. Coach Prafull Dange praised her unwavering discipline, and these victories secured India a coveted Olympic quota for the 2028 Los Angeles Games.",
-    "img": "https://static.toiimg.com/photo/msid-134652660,imgsize-83928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/grandmothers-gift-a-second-hand-bow-and-three-asian-games-medals-how-17-year-old-kumkum-mohod-made-history/articleshow/134652647.cms",
-    "time": "2026-10-03T05:46:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Oil's' well in September: How India kept crude flowing amid the energy crisis",
     "desc": "September marked a significant high in India's crude oil imports, mainly spurred by boosted supplies from Gulf nations. The reintroduction of Iraqi and Kuwaiti crude has notably changed the dynamics of India's import sources, ensuring better supply availability. This surge assists Indian refiners in reducing their dependency on Russian oil amidst global pressure.",
@@ -502,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/oils-well-in-september-how-india-kept-crude-flowing-amid-the-energy-crisis/articleshow/134652181.cms",
     "time": "2026-10-03T05:29:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Saim’s cheeky send-off to 15-year-old Sooryavanshi grabs attention in final",
-    "desc": "Vaibhav Sooryavanshi had a promising start in the Asian Games 2026 final, scoring 15 off nine balls with two stunning sixes. However, his momentum came to an abrupt halt when he was caught by the wicketkeeper while attempting a reverse sweep. This dismissal, coupled with Saim Ayub's dramatic response, escalated the tension during the intense India-Pakistan match, following Shreyas Iyer’s decision to bat first after winning the toss.",
-    "img": "https://static.toiimg.com/photo/msid-134652242,imgsize-85688.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/ind-vs-pak-saim-ayubs-cheeky-send-off-to-15-year-old-vaibhav-sooryavanshi-grabs-attention-in-asian-games-final-watch/articleshow/134652078.cms",
-    "time": "2026-10-03T04:59:05.000Z"
   },
   {
     "cat": "Business",
@@ -711,15 +738,6 @@ const newsData_en = [
     "time": "2026-10-02T05:22:02.000Z"
   },
   {
-    "cat": "World",
-    "title": "chasing system change",
-    "desc": "The National People’s Power govt. restored macroeconomic stability and introduced a different political culture, but key promises of structural reform remain unfulfilled; two years after Dissanayake’s election, the govt. faces the challenge of turning the Aragalaya’s demand for ‘system change’ into lasting political transformation",
-    "img": "https://th-i.thgim.com/public/news/national/u401g6/article71534497.ece/alternates/LANDSCAPE_1200/iStock-1452850470.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/sri-lanka-chasing-system-change/article71532808.ece",
-    "time": "2026-10-02T03:28:01.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Govt. caps sugar stock limit for dealers to 1,000 quintals ahead of festive season",
     "desc": "The Food Ministry said the objective of the amended rules was to “ensure that there is no unnecessary accumulation of sugar in the distribution chain” and that the supply of sugar from mills through dealers to the consumer remained “smooth”",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
     "time": "2026-09-25T11:46:16.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "People's fear and mistrust in authority leads to cybercrime, say experts at report launch on policing",
-    "desc": "The report, building onto its earlier reports documenting public trust and experience with police, examines the modus operandi of cybercriminals, the lived experience of victims, the digital habits and vulnerabilities of ordinary citizens, and the preparedness of the police and banks to handle complaints.",
-    "img": "https://th-i.thgim.com/public/incoming/x0fpux/article71507632.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-25%20at%2012.32.10%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/peoples-fear-and-mistrust-in-authority-leads-to-cybercrime-say-experts-at-report-launch-on-policing/article71507054.ece",
-    "time": "2026-09-25T07:09:36.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why Meta’s Zuckerberg rebuffed Dario Amodei’s AI slowdown calls",
-    "desc": "Mr. Amodei has warned that the AI development is beginning to outstrip the labs’ ability to understand and control the systems it is creating. But Mr. Zuckerberg is taking a different route, stating that AI companies have a powerful incentive to build systems that are trustworthy",
-    "img": "https://th-i.thgim.com/public/incoming/vrr5fp/article71339606.ece/alternates/LANDSCAPE_1200/Meta-AI-Zuckerberg_36318.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/why-metas-zuckerberg-rebuffed-dario-amodeis-ai-slowdown-calls/article71471837.ece",
-    "time": "2026-09-24T14:02:44.000Z"
   }
 ];
