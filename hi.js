@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer backs Tilak Varma to become Virat Kohli's successor in ODIs after Asian Games gold",
+    "desc": "The Indian team put forth an exceptional performance as the gold medal in the men’s cricket final at the Asian Games 2026. The Men in Blue, led by Shreyas Iyer, defeated arch-rivals Pakistan in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-backs-tilak-varma-to-become-virat-kohli-s-successor-in-odis-after-asian-games-gold-2026-10-04-1056052",
+    "time": "2026-10-04T10:55:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I was disappointed': Sunil Gavaskar weighs in on Rohit Sharma missing out on 36th ODI century",
+    "desc": "The Indian team took on the West Indies in the third and final ODI of the ongoing series. The two sides met in New Chandigarh for the clash on October 3rd, and the Windies managed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-was-disappointed-sunil-gavaskar-weighs-in-on-rohit-sharma-missing-out-on-36th-odi-century-2026-10-04-1056046",
+    "time": "2026-10-04T08:57:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Charith Asalanka faces the axe, misses out on Sri Lanka's ODI squad ahead of tri-series",
+    "desc": "SLC (Sri Lanka Cricket) recently came forward and announced its squad for the upcoming ODI tri-series between Sri Lanka, Pakistan, and England. With the squad announcement, many fans were shocked after former skipper Charith Asalanka...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/charith-asalanka-faces-the-axe-misses-out-on-sri-lanka-s-odi-squad-ahead-of-tri-series-2026-10-04-1056043",
+    "time": "2026-10-04T07:52:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Had a chat with MS Dhoni': Shai Hope reveals his chat with former India skipper after third ODI win",
+    "desc": "The West Indies registered a brilliant victory in the third ODI of the ongoing series against the Indian team. The two sides met in New Chandigarh for the clash on October 3rd, and the Windies...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/had-a-chat-with-ms-dhoni-shai-hope-reveals-his-chat-with-former-india-skipper-after-third-odi-win-2026-10-04-1056039",
+    "time": "2026-10-04T06:53:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill joins equals MS Dhoni, Sourav Ganguly in elite list with Player of the Series award against WI",
+    "desc": "The ODI series between India and the West Indies came to a conclusion with the Indian team winning the series. It is worth noting that the Men in Blue won the first two ODIs of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-joins-equals-ms-dhoni-sourav-ganguly-in-elite-list-with-player-of-the-series-award-against-wi-2026-10-04-1056034",
+    "time": "2026-10-04T05:35:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ravindra Jadeja wasn't dropped, we will have meeting with selectors keeping World Cup in mind: Shubman Gill",
     "desc": "Senior all-rounder Ravindra Jadeja was benched in India’s third ODI against West Indies in Mullanpur. His declining ODI numbers were certainly a concern, but the veteran claimed two wickets in the second game in Guwahati....",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-joins-ms-dhoni-yuvraj-singh-in-elite-list-with-exceptional-ton-against-west-indies-in-third-odi-2026-10-03-1056001",
     "time": "2026-10-03T14:54:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Samba magic in Kolkata as Brazil beat India 4-0 in Kolkata",
-    "desc": "Indian football team faces their ultimate litmus test tonight as Khalid Jamil’s national side welcomes five-time World Cup champions Brazil to the iconic Salt Lake Stadium for a historic international friendly. It marks the first-ever...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/ind-vs-mas-asian-games-final-live-score-india-vs-malaysia-latest-match-updates-goal-scorers-reactions-highlights-vinicius-pedro-1055994",
-    "time": "2026-10-03T13:21:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Antim Panghal settles for silver, loses women's 53 kg wrestling final against Moe Kiyooka at Asian Games 2026",
-    "desc": "Star India wrestler Antim Panghal took on Japan’s Moe Kiyooka in the women’s 53 kg wrestling final at the Asian Games 2026, and continued India's medal-winning streak. Taking on each other in the gold medal clash,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/antim-panghal-settles-for-silver-loses-women-s-53-kg-wrestling-final-against-moe-kiyooka-at-asian-games-2026-2026-10-03-1055993",
-    "time": "2026-10-03T12:51:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India men's hockey team secures historic back-to-back gold medals in Asian Games, beats Malaysia 5-1 in final",
-    "desc": "India defended their Asian Games men’s hockey title and booked a direct ticket to the 2028 Los Angeles Olympics with a dominant 5-1 victory over Malaysia in the gold medal match at the Gifu Prefectural...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/india-men-s-hockey-team-secures-historic-back-to-back-gold-medals-in-asian-games-beats-malaysia-5-1-in-final-2026-10-03-1055988",
-    "time": "2026-10-03T11:54:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma misses out on 36th ODI century, helps India stabilise innings after shaky start to third WI ODI",
-    "desc": "Team India took on the West Indies in the third ODI of the ongoing series. The two sides met at the Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh, on October 3rd. The game began...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-misses-out-on-36th-odi-century-helps-india-stabilise-innings-after-shaky-start-to-third-wi-odi-2026-10-03-1055986",
-    "time": "2026-10-03T11:16:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aman Sehrawat clinches gold medal, defeats North Korea's Han in 57kg freestyle wrestling",
-    "desc": "The gold medal train for the Indian contingent continues at the Asian Games 2026. Star wrestler Aman Sehrawat brought home the gold medal as he won the men’s 57 kg freestyle wrestling final, defeating North...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/aman-sehrawat-clinches-gold-medal-defeats-north-korea-s-han-in-57kg-freestyle-wrestling-2026-10-03-1055978",
-    "time": "2026-10-03T09:43:54.000Z"
   }
 ];
