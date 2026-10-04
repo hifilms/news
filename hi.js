@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Where did India finish in the standings after the marquee event's conclusion?",
+    "desc": "The Asian Games 2026 came to an end, and every participating nation gave its best effort in a variety of games. It is interesting to note that the Indian contingent finished with a total of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/asian-games-2026-medal-tally-where-did-india-finish-in-the-standings-after-the-marquee-event-s-conclusion-2026-10-04-1056066",
+    "time": "2026-10-04T13:56:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill reflects on areas that India could look to improve in ahead of ODI World Cup 2027",
+    "desc": "The Indian team put forth a good showing in their recently concluded ODI series against the West Indies. The Men in Blue defeated the West Indies across the first two ODIs of the series and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-reflects-on-areas-that-india-could-look-to-improve-in-ahead-of-odi-world-cup-2027-2026-10-04-1056062",
+    "time": "2026-10-04T13:17:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zinedine Zidane comes to Cristiano Ronaldo's defence after controversial national squad exit",
+    "desc": "Veteran Portuguese forward Cristiano Ronaldo has been in the spotlight of late. On the back of a subpar campaign at the FIFA World Cup 2026, many thought that Ronaldo would announce his retirement from international...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/zinedine-zidane-comes-to-cristiano-ronaldo-s-defence-after-controversial-national-squad-exit-2026-10-04-1056057",
+    "time": "2026-10-04T11:59:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer backs Tilak Varma to become Virat Kohli's successor in ODIs after Asian Games gold",
     "desc": "The Indian team put forth an exceptional performance as the gold medal in the men’s cricket final at the Asian Games 2026. The Men in Blue, led by Shreyas Iyer, defeated arch-rivals Pakistan in the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/west-indies-record-highest-successful-chase-beat-india-by-five-wickets-following-shai-hope-s-162-2026-10-03-1056012",
     "time": "2026-10-03T17:39:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India impress on counters, but even lacklustre Brazil too hot to handle; beat hosts 4-0 in Kolkata",
-    "desc": "Heading to the match, the general expectations was Brazil to create a flurry of chances and test India’s defence. Multiple goals were expected and even though that assumption turned true, but Brazil were far from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/india-impress-on-counters-but-even-lacklustre-brazil-too-hot-to-handle-beat-hosts-4-0-in-kolkata-2026-10-03-1056006",
-    "time": "2026-10-03T16:16:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Amir Jangoo propels West Indies to brilliant start against India, joins elite list after 67-run knock",
-    "desc": "India and the West Indies took on each other in the third and final ODI of the ongoing series. The two sides met in Mullanpur for the clash, and the game saw India come in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/amir-jangoo-propels-west-indies-to-brilliant-start-against-india-joins-elite-list-after-67-run-knock-2026-10-03-1056003",
-    "time": "2026-10-03T15:40:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul joins MS Dhoni, Yuvraj Singh in elite list with exceptional ton against West Indies in third ODI",
-    "desc": "India and the West Indies took on each other in the third and final ODI of the ongoing series between the two sides. The teams met at the Maharaja Yadavindra Singh International Cricket Stadium, New...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-joins-ms-dhoni-yuvraj-singh-in-elite-list-with-exceptional-ton-against-west-indies-in-third-odi-2026-10-03-1056001",
-    "time": "2026-10-03T14:54:14.000Z"
   }
 ];
