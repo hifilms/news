@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "'প্রেমানন্দ মহারাজ ভণ্ড, ৫ কোটি টাকায় বিরাট-অনুষ্কাকে ভক্ত সাজিয়ে নিজেকে প্রোমোট করেছেন': ভয়ঙ্কর অভিযোগে তোলপাড় বৃন্দাবন",
+    "desc": "ফলাহারী মহারাজ একটি চিঠি লিখে অভিযোগ করেছেন যে, প্রেমানন্দ মহারাজের আশ্রমকে ব্যাপকভাবে জনপ্রিয় ও আলোচিত করে তোলার উদ্দেশ্যে তারকা ক্রিকেটার বিরাট কোহলিকে সেখানে আনা হয়েছিল। তাঁর দাবি অনুযায়ী, এর জন্য প্রায় ৫ কোটি টাকা খরচ করা হয়েছিল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/allegations-rock-premanand-maharaj-vrindavan-ashram-land-deals-5-cr-kohli-claim-and-calls-for-cbi-probe_672871.html ",
+    "time": "2026-10-05T15:54:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "ট্রেন্ডিং ১-এ এবার বাংলা ছবি! দেশজুড়ে রেকর্ড গড়ে শীর্ষে 'বহুরূপী: দ্য গোল্ডেন ডাকু'-র ট্রেলার",
     "desc": "'বহুরূপী: দ্য গোল্ডেন ডাকু'-র ট্রেলার এখন ভারতে ১ নম্বরে ট্রেন্ডিং। জেল থেকে ছাড়া পেয়ে বিক্রম প্রামাণিক আবার ব্যাঙ্ক ডাকাতি শুরু করে। শিবপ্রসাদ মুখোপাধ্যায়ের বিপরীতে পুলিস অফিসারের চরিত্রে আছেন যিশু সেনগুপ্ত। ছবিতে গুরুত্বপূর্ণ ভূমিকায় কৌশানী মুখোপাধ্যায় ও সোহিনী সরকার।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -250,15 +259,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/mahesh-bhatt-rahul-bhatt-strained-relationship-family-abandoned_671670.html ",
     "time": "2026-09-21T11:17:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "সৃজিতের ‘এম্পেরর ভার্সেস শরৎচন্দ্র’-এ চন্দ্রমুখী কৌশানী! বিশেষ চরিত্রে নতুন চমক",
-    "desc": "সৃজিত মুখোপাধ্যায়ের বহু প্রতীক্ষিত ছবি ‘এম্পেরর ভার্সেস শরৎচন্দ্র’-এ নতুন চমক। শরৎচন্দ্র চট্টোপাধ্যায়ের ‘চন্দ্রমুখী’ চরিত্রে দেখা যাবে কৌশানী মুখোপাধ্যায়কে। ছবিতে বিশেষ অতিথি শিল্পী হিসেবে থাকছেন তিনি। ‘পথের দাবী’ ও শরৎচন্দ্রের জীবন-সময়কে ঘিরে তৈরি এই ছবিতে আবির চট্টোপাধ্যায়, টোটা রায়চৌধুরী ও মিমি চক্রবর্তীর মতো শিল্পীরাও রয়েছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/koushani-mukherjee-chandramukhi-emperor-vs-sarat-chandra-srijit-mukherji_671655.html ",
-    "time": "2026-09-21T10:22:14.000Z"
   },
   {
     "cat": "Business",

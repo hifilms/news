@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Daniil Medvedev hits fan with ball in China Open semi-final, gets disqualified; Novak Djokovic progresses",
+    "desc": "Daniil Medvedev was disqualified from his China Open semi-final against Novak Djokovic on Monday after a ball he struck in frustration hit a spectator in the eye. Medvedev was behind 7-5, 5-3 when the incident...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/daniil-medvedev-hits-fan-with-ball-in-china-open-semi-final-gets-disqualified-novak-djokovic-progresses-2026-10-05-1056166",
+    "time": "2026-10-05T18:08:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan pulls out of WCL 2026 as PCB refuses to cooperate after 2025 fiasco",
     "desc": "In a major development, Pakistan’s team at the WCL (World Championship of Legends) has pulled out of the ongoing edition of the tournament. It is worth noting that the PCB (Pakistan Cricket Board) upheld its...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/asian-games-2026-medal-tally-where-did-india-finish-in-the-standings-after-the-marquee-event-s-conclusion-2026-10-04-1056066",
     "time": "2026-10-04T13:56:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill reflects on areas that India could look to improve in ahead of ODI World Cup 2027",
-    "desc": "The Indian team put forth a good showing in their recently concluded ODI series against the West Indies. The Men in Blue defeated the West Indies across the first two ODIs of the series and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-reflects-on-areas-that-india-could-look-to-improve-in-ahead-of-odi-world-cup-2027-2026-10-04-1056062",
-    "time": "2026-10-04T13:17:58.000Z"
   }
 ];
