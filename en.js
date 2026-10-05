@@ -1,5 +1,329 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Uruguay footballers play cricket at Eden Gardens ahead of Kolkata friendly",
+    "desc": "Uruguay’s football team explored Kolkata ahead of its October 6 friendly against India. The two-time World Cup champions visited Victoria Memorial and St Paul’s Cathedral and also tried cricket at Eden Gardens. The venue holds historical significance, as Uruguay won the 1982 Nehru Cup there. The squad, coached by Diego Forlán, will now prepare for the India clash.",
+    "img": "https://static.toiimg.com/photo/msid-134685121,imgsize-55528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/watch-two-time-fifa-world-cup-champion-uruguay-play-cricket-at-eden-gardens-ahead-of-kolkata-friendly/articleshow/134684820.cms",
+    "time": "2026-10-05T03:37:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rachita looks stunned as fan pulls her cheek",
+    "desc": "On October 3, Rachita Ram marked her birthday by engaging with fans at her residence in Bengaluru. However, the celebration took a surprising turn when a male fan pinched her cheek after a selfie, catching her off guard. This incident prompted discussions regarding fan etiquette and security protocols, with many online users expressing concerns about the effectiveness of the security measures in place.",
+    "img": "https://static.toiimg.com/photo/msid-134685065,imgsize-247697.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rachita-ram-looks-stunned-as-fan-pulls-her-cheek-after-selfie-birthday-interaction-outside-bengaluru-home-sparks-debate-netizens-react/articleshow/134684958.cms",
+    "time": "2026-10-05T03:32:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Sjoerd Marijne and his team rebuilt India's women's hockey side",
+    "desc": "Enter Sjoerd Marijne and his support staff. They did not have a magic wand to make the demons disappear. What they brought was a systematic approach to rebuilding the physical and psychological framework of the team.",
+    "img": "https://static.toiimg.com/photo/msid-134684745,imgsize-72449.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/the-road-to-la-2028-how-sjoerd-marijne-and-his-team-rebuilt-indias-womens-hockey-side/articleshow/134684651.cms",
+    "time": "2026-10-05T03:09:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Drishyam 3: The Conclusion' screenwriter Aamil Keeyan Khan reveals writing over 100 drafts",
+    "desc": "Aamil Keeyan Khan discussed the pressures of crafting the final chapter in the beloved 'Drishyam' franchise. He noted the extensive rewriting process involved over a hundred drafts, showcasing the complexity of the screenplay. Khan explained that the climax details were closely guarded to maintain secrecy and surprise for the audience. The film quickly achieved financial success by crossing Rs 150 crore in India within three days of its release.",
+    "img": "https://static.toiimg.com/photo/msid-134684673,imgsize-193952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-have-genuinely-lost-count-drishyam-3-the-conclusion-screenwriter-aamil-keeyan-khan-reveals-writing-over-100-drafts/articleshow/134684642.cms",
+    "time": "2026-10-05T03:06:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Elle King and tattoo artist Dan Tooker tie the knot",
+    "desc": "Elle King recently celebrated her marriage to Dan Tooker, sharing insights from their wedding on social media. They exchanged vows in a serene forest setting, with King wearing an elegant gown and Tooker in a classic suit. Tooker also showcased their unique wedding cake inspired by both of them on his account. The couple initially faced challenges but reconciled and welcomed their second child in February 2025.",
+    "img": "https://static.toiimg.com/photo/msid-134684645,imgsize-114574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/exs-ohs-singer-elle-king-and-tattoo-artist-dan-tooker-tie-the-knot-best-day-of-my-life/articleshow/134684601.cms",
+    "time": "2026-10-05T03:03:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'That's an irony when you look at him': Iyer makes honest Sooryavanshi admission",
+    "desc": "India T20I captain Shreyas Iyer praised teenage star Vaibhav Sooryavanshi ahead of the West Indies series, highlighting his quiet personality off the field and aggressive batting style. Iyer said Sooryavanshi’s opportunity will come despite established openers currently occupying the spots. The youngster, an Asian Games gold medallist, has already impressed in the IPL and international cricket.",
+    "img": "https://static.toiimg.com/photo/msid-134684511,imgsize-186963.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/thats-an-irony-when-you-look-at-him-shreyas-iyer-makes-honest-vaibhav-sooryavanshi-admission/articleshow/134684429.cms",
+    "time": "2026-10-05T02:55:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Keralam government gets legal opinion to proceed against Chief Election Commissioner Gyanesh Kumar in abetment to suicide case",
+    "desc": "T. Asaf Ali, Director General of Prosecution, gives legal advice that there is no legal bar in proceeding against Gyanesh Kumar. The case pertains to the reported suicide of Malaysian Lee See Been, a former chief project officer of Kerala State Transport Project for reconstruction of M.C. Road",
+    "img": "https://th-i.thgim.com/public/incoming/1vvqnb/article71544547.ece/alternates/LANDSCAPE_1200/SIR%20ELECTION%20COMMISSION%20PC%20%20DELHI%202025_27_10_25.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/keralam-government-gets-legal-opinion-to-proceed-against-chief-election-commissioner-gyanesh-kumar-in-abetment-to-suicide-case/article71544342.ece",
+    "time": "2026-10-05T02:42:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Women lead India's charge as a new generation shines in Nagoya",
+    "desc": "The Asian Games in India wrapped up with a remarkable haul of 85 medals, which included 21 gold medals, illustrating the nation's sporting prowess. Women athletes were particularly impressive, smashing barriers and earning numerous accolades. Among them was the young Kumkum Mohod, age 17, who clinched gold in archery, ushering in a new era against South Korea's previous reign.",
+    "img": "https://static.toiimg.com/photo/msid-134684343,imgsize-57728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/new-beginnings-new-heroes-women-lead-indias-charge-as-a-new-generation-shines-in-nagoya/articleshow/134684257.cms",
+    "time": "2026-10-05T02:41:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Off Campus' stars Mika-Josh go public with romance",
+    "desc": "Mika Abdalla and Josh Heuston made their relationship public while attending a fashion show in Paris. They appeared together amid ongoing romance rumors that began in June 2026. Abdalla recently ended her engagement with Jake Short, having dated since 2021. The couple looked happy as they were seen holding hands and enjoying each other's company. Heuston is not expected to return for the second season of their series, 'Off Campus.'",
+    "img": "https://static.toiimg.com/photo/msid-134684225,imgsize-262550.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/off-campus-co-stars-mika-abdalla-and-josh-heuston-go-public-with-romance-at-valentinos-paris-fashion-week-show-fans-call-them-it-couple-of-the-year-watch/articleshow/134683784.cms",
+    "time": "2026-10-05T02:34:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mirzapur The Movie' day 31: Pankaj's film reaches Rs 334.62 cr worldwide",
+    "desc": "'Mirzapur The Movie' has completed a month in cinemas, achieving notable box office success with worldwide gross earnings. The film has grossed Rs 334.62 crore, with Indian collections reaching Rs 273.62 crore. It has registered an impressive net collection of Rs 229.95 crore after 31 days in theaters. Key cast members include Pankaj Tripathi, Divyenndu, and Ali Fazal, who reprise their roles from the franchise.",
+    "img": "https://static.toiimg.com/photo/msid-134684104,imgsize-321218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-31-pankaj-tripathis-film-reaches-rs-334-62-cr-worldwide-india-net-at-rs-229-95-cr-fifth-sunday-shows-steady-run/articleshow/134684102.cms",
+    "time": "2026-10-05T02:23:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'You can't just depend on Bumrah, Hardik': Ex-India cricketer urges veterans' return",
+    "desc": "Former India batter Hanuma Vihari urged India to recall Bhuvneshwar Kumar and Mohammed Shami after the team failed to defend 351 against West Indies. He warned against relying too heavily on Jasprit Bumrah and Hardik Pandya, calling the bowling performance a wake-up call. Vihari believes experience and stronger backup options are crucial with the 2027 World Cup approaching.",
+    "img": "https://static.toiimg.com/photo/msid-134684093,imgsize-374450.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-cant-just-depend-on-japrit-bumrah-and-hardik-pandya-ex-india-cricketer-urges-veteran-pacers-return-ahead-of-2027-world-cup/articleshow/134683764.cms",
+    "time": "2026-10-05T02:22:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sylvester Stallone opens up about his past fight with Richard Gere",
+    "desc": "In his memoir, 'The Steps', Sylvester Stallone opens up about his life journey, including a memorable clash with Richard Gere during the filming of 'The Lords of Flatbush'. He recounts how an intense moment unfolded when Gere pulled at his shirt, showering him with chicken grease. This altercation escalated, resulting in Gere's dismissal from the project. Interestingly, their rivalry reemerged years later at a gathering where Princess Diana was present.",
+    "img": "https://static.toiimg.com/photo/msid-134684100,imgsize-277455.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sylvester-stallone-looks-back-on-a-fight-with-richard-gere-during-the-lords-of-flatbush-one-of-us-had-to-go/articleshow/134684045.cms",
+    "time": "2026-10-05T02:21:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Eternally grateful': Rashmika on playing M.S. Subbulakshmi",
+    "desc": "In a significant casting decision, Rashmika Mandanna is set to take on the role of the iconic vocalist M.S. Subbulakshmi in the biopic 'MS - A Legacy On Screen', directed by Gowtam Tinnanuri. To perfectly capture the essence of her character, Rashmika is immersing herself in intensive Carnatic music training.",
+    "img": "https://static.toiimg.com/photo/msid-134683866,imgsize-348170.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/eternally-grateful-for-this-blessing-of-an-opportunity-rashmika-mandanna-on-playing-m-s-subbulakshmi-in-gowtam-tinnanuris-ms-a-legacy-on-screen/articleshow/134683851.cms",
+    "time": "2026-10-05T02:02:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil prices ease slightly as G7 and Middle East crude supplies set to hit market",
+    "desc": "Oil prices saw a modest decline as fresh shipments from the Middle East hit the market. The G7's move to tap into emergency reserves reflects growing energy apprehensions. Nevertheless, the crude oil market stays turbulent, as conflicts in the Gulf region persist. Notably, Yemen's Saudi-backed government has initiated a military operation against the Houthis, further complicating the situation. This evolving landscape continues to impact global energy supplies and market pricing.",
+    "img": "https://static.toiimg.com/photo/msid-134683838,imgsize-97216.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-ease-slightly-as-g7-and-middle-east-crude-supplies-set-to-hit-market/articleshow/134683679.cms",
+    "time": "2026-10-05T02:00:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The right to more than a room and roof",
+    "desc": "The Odisha government has formulated guidelines to safeguard the property rights of persons with disabilities. Satyasundar Barik spoke to those impacted and to activists, who say that these guidelines were needed for both inherited and self-acquired property, and how mandates help improve lives",
+    "img": "https://th-i.thgim.com/public/incoming/a3u9tz/article71541789.ece/alternates/LANDSCAPE_1200/barik_rout_IMG_20260814_101900.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/the-right-to-more-than-a-room-and-roof/article71541782.ece",
+    "time": "2026-10-05T01:50:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Once thought extinct, a plant becomes star of Wildlife Week at Keralam’s Parambikulam",
+    "desc": "The exhibition as part of Wildlife Week at Parambikulam has been named after Haplothismia exannulata, a tiny plant that was found again in the forest 26 years ago after more than a century without a trace",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/20rh4c/article71544401.ece/alternates/LANDSCAPE_1200/Parambi.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/once-thought-extinct-a-plant-becomes-star-of-wildlife-week-at-keralams-parambikulam/article71544389.ece",
+    "time": "2026-10-05T01:41:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Justice Bhuyan's remarks prove CEC violated Constitution: Congress",
+    "desc": "Congress General Secretary Jairam Ramesh stated that Justice Ujjal Bhuyan affirmed the right to vote's significance in the Constitution. He emphasized that this opinion indicates a violation by Chief Election Commissioner Gyanesh Kumar. Ramesh argued that Bhuyan's remarks undermine Kumar's position as a constitutional authority. Additionally, he suggested that Kumar should resign due to losing his moral authority.",
+    "img": "https://static.toiimg.com/photo/msid-134683638,imgsize-52636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/justice-bhuyans-remarks-prove-cec-violated-constitution-congress/articleshow/134683628.cms",
+    "time": "2026-10-05T01:39:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I had fever': R Praggnanandhaa after double medals at Chess Olympiad",
+    "desc": "In the fifth instalment of TimesofIndia.com's series on India's medal-winning Chess Olympiad campaigns in Samarkand, R Praggnanandhaa reflects on India's silver-medal finish and his individual bronze. The 21-year-old discusses battling illness, missed winning chances, the decisive defeat to Uzbekistan, the team's resilience, his recovery from the Candidates disappointment, and much more.",
+    "img": "https://static.toiimg.com/photo/msid-134683562,imgsize-183736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/i-had-fever-was-not-high-on-energy-r-praggnanandhaa-after-double-medals-at-chess-olympiad-exclusive/articleshow/134683498.cms",
+    "time": "2026-10-05T01:35:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dorothy' BO day 10",
+    "desc": "Karthik Subbaraj's film 'Dorothy' has completed ten days in theatres with a worldwide gross collection of Rs 12.01 crore. The Tamil version has contributed the most, earning Rs 9.99 crore, while the Telugu version added Rs 41 lakhs. The film has faced criticism regarding its queer themes, leading to discussions on social media. Karthik Subbaraj aims to encourage viewers to treat transgender people with greater dignity and respect.",
+    "img": "https://static.toiimg.com/photo/msid-134683539,imgsize-421220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dorothy-box-office-collection-day-10-karthik-subbaraj-and-keerthy-suresh-film-reaches-rs-12-01-cr-worldwide-india-net-crosses-rs-10-cr-tamil-version-dominates/articleshow/134683534.cms",
+    "time": "2026-10-05T01:25:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' crosses USD 2.5 billion mark ahead of OTT debut",
+    "desc": "Brand New Day’ has officially crossed the USD 2.5 billion mark at the global box office. This makes it the third film in history to achieve this milestone. It has surpassed ‘Star Wars: The Force Awakens’ on the all-time North American box office chart. Additionally, the film is Sony Pictures’ highest-grossing release based on its total earnings.",
+    "img": "https://static.toiimg.com/photo/msid-134683401,imgsize-313919.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-crosses-usd-2-5-billion-worldwide-becomes-third-film-after-avengers-endgame-and-avatar-to-reach-milestone/articleshow/134683308.cms",
+    "time": "2026-10-05T01:25:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "HMSI flags pressure from rising costs",
+    "desc": "Honda Motorcycle and Scooter India anticipates a booming festive season compared to last year. Dealers are optimistic about the demand during the festivities, and dispatches are proceeding well. Despite better business conditions, rising material costs are creating profitability challenges for the company. The situation in West Asia is a significant factor contributing to increased costs. Overall, while demand is improving, profitability remains a complex issue for Honda.",
+    "img": "https://static.toiimg.com/photo/msid-134683511,imgsize-27218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/hmsi-flags-pressure-from-rising-costs/articleshow/134683491.cms",
+    "time": "2026-10-05T01:21:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All you need to know about the cast changes for ‘Bridgerton’ season 5",
+    "desc": "In its much-anticipated fifth season, Bridgerton will explore evolving relationships against the backdrop of a pivotal event from two years prior. Lead characters Francesca and Michaela take center stage alongside a host of new cast members. Familiar figures such as Lady Violet Bridgerton and Queen Charlotte will also return, with Nicola Coughlan making a special cameo appearance as Penelope Bridgerton, adding depth to the story.",
+    "img": "https://static.toiimg.com/photo/msid-134683510,imgsize-29050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-5-cast-changes-know-all-about-who-is-staying-leaving-and-joining-the-ton/articleshow/134683495.cms",
+    "time": "2026-10-05T01:21:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ronaldo's Portugal return possible? Coach Jesus clears the air",
+    "desc": "Portugal coach Jorge Jesus has left the door open for Cristiano Ronaldo to return after the 41-year-old left the squad last week. Jesus said the decision is Ronaldo’s, while federation president Pedro Proenca backed the captain and called the episode a misunderstanding. Ronaldo remains Portugal’s record scorer and most-capped player, with 146 goals in 234 appearances.",
+    "img": "https://static.toiimg.com/photo/msid-134683470,imgsize-120824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-ronaldos-portugal-return-possible-head-coach-jorge-jesus-clears-the-air-on-41-year-olds-future/articleshow/134683422.cms",
+    "time": "2026-10-05T01:13:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Drishyam 3: The Conclusion' day 3: Ajay Devgn's film inches closer to Rs 275 cr worldwide",
+    "desc": "The Conclusion' has had a successful theatrical opening, earning over Rs 150 cr in its first three days. The movie showed a 14% increase in earnings on its third day and reached Rs 272.80 cr worldwide. While the film's original storyline has garnered positive feedback in Kerala, there are notable differences from its Malayalam counterpart.",
+    "img": "https://static.toiimg.com/photo/msid-134683471,imgsize-271726.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/drishyam-3-the-conclusion-box-office-collection-day-3-ajay-devgn-prakash-raj-tabus-film-inches-close-to-rs-275-cr-worldwide-india-gross-earnings-cross-rs-200-cr/articleshow/134683463.cms",
+    "time": "2026-10-05T01:12:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mandaadi' BO day 25 vs 'Baththa'",
+    "desc": "After 25 days in theaters, Soori's 'Mandaadi' continues to perform steadily, securing Rs 1.23 crore net over the weekend and amassing a total of Rs 99.40 crore. On the other hand, Vijay Sethupathi's 'Baththa' kicked off its opening weekend with impressive earnings of Rs 3.10 crore net, bringing its four-day total to Rs 10.05 crore, showcasing strong viewer turnout and engagement.",
+    "img": "https://static.toiimg.com/photo/msid-134683460,imgsize-282824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mandaadi-box-office-collection-day-25-vs-baththa-sooris-film-reaches-rs-133-82-cr-worldwide-india-net-nears-rs-100-cr-vijay-sethupathis-film-crosses-rs-10-cr/articleshow/134683450.cms",
+    "time": "2026-10-05T01:09:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England pacer with 500-plus wickets ends career, citing mental health",
+    "desc": "English fast bowler Craig Miles has retired from professional cricket at 32 to prioritise his mental health. The Gloucestershire pacer, who last played in June, ends a 15-year career with more than 500 wickets. Miles said mounting pressure, self-doubt and high expectations made continuing difficult. He reflected proudly on his career, while Gloucestershire praised his courage and backed his decision.",
+    "img": "https://static.toiimg.com/photo/msid-134683407,imgsize-47272.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-no-longer-have-the-capacity-england-pacer-retires-after-500-plus-wickets-citing-mental-health/articleshow/134683377.cms",
+    "time": "2026-10-05T01:01:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Hanuman Ansh' day 59: Vishal Chaturvedi's movie earns Rs 3 cr on Sunday",
+    "desc": "Hanuman Ansh showcases impressive box office performance with Rs 3.00 crore collected on its 59th day, bringing its total net earnings to approximately Rs 324.73 crore in India and Rs 423.26 crore globally. The film, directed by Vishal Chaturvedi, experienced a substantial 42.9% uptick in earnings on Day 59 compared to the previous day, demonstrating its sustained popularity and strong audience engagement over the weeks.",
+    "img": "https://static.toiimg.com/photo/msid-134683360,imgsize-260359.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collections-day-59-vishal-chaturvedis-movie-earns-rs-3-cr-on-sunday-worldwide-gross-reaches-rs-423-26-cr/articleshow/134683359.cms",
+    "time": "2026-10-05T00:52:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sanjay Dutt issues statement on his India peace remark after online backlash",
+    "desc": "Sanjay Dutt faced backlash for his comments about the lack of peace in India during a talk show. He clarified that his remarks were intended to be humorous and not offensive. Dutt expressed concern for the country's current state while praising the generosity of Indians. During the show, he humorously addressed the relationship between leadership and citizens.",
+    "img": "https://static.toiimg.com/photo/msid-134683327,imgsize-202256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/never-my-intention-to-hurt-sanjay-dutt-issues-statement-on-his-india-peace-remark-after-online-backlash-explains-gandhigiri-reference/articleshow/134683316.cms",
+    "time": "2026-10-05T00:41:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rihanna indirectly calls out EJ Johnson after their Paris Fashion Week comments",
+    "desc": "Rihanna has addressed EJ Johnson's statements about her tardiness at the postponed Paris Fashion Week showcase. The discussion erupted after Johnson shared a video capturing their time outside a Paris hotel. Rihanna opted for a succinct comment on a viral social media post. Johnson remarked that the Dior show was delayed for an hour due to her presence, highlighting the ongoing celebrity tensions tied to event delays.",
+    "img": "https://static.toiimg.com/photo/msid-134683325,imgsize-265828.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/did-rihanna-indirectly-clap-back-at-ej-johnson-after-paris-fashion-week-allegations-heres-what-we-know/articleshow/134683294.cms",
+    "time": "2026-10-05T00:39:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bradley Cooper and Gigi Hadid fuel marriage rumours AGAIN",
+    "desc": "Bradley Cooper and Gigi Hadid have been spotted wearing matching wedding rings, which fuels marriage speculation. The couple was photographed in Paris after attending a private dinner last weekend. They were previously seen wearing gold bands shortly after Taylor Swift's wedding to Travis Kelce. Neither Cooper nor Hadid has publicly confirmed rumors about their marital status. Cooper is also working on multiple film projects, including an upcoming 'G.I. Joe' reboot.",
+    "img": "https://static.toiimg.com/photo/msid-134683292,imgsize-211517.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bradley-cooper-and-gigi-hadid-fuel-marriage-rumours-again-couple-spotted-wearing-matching-wedding-rings-in-paris/articleshow/134683201.cms",
+    "time": "2026-10-05T00:33:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sigma' BO day 3: Jason Sanjay's movie remains flat",
+    "desc": "Sigma, directed by Jason Sanjay, experienced stagnant box office collections during its initial weekend. The film earned Rs 1.50 crore on both Saturday and Sunday, maintaining the same net collection. After three days, total earnings reached Rs 5.35 crore in India, with Tamil version performing better than Telugu. The film recorded notable occupancy rates, particularly during afternoon screenings for its Tamil release.",
+    "img": "https://static.toiimg.com/photo/msid-134683276,imgsize-338477.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sigma-box-office-collection-day-3-jason-sanjays-movie-remains-flat-at-rs-1-50-cr-india-net-reaches-rs-5-35-cr/articleshow/134683275.cms",
+    "time": "2026-10-05T00:19:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "EY India chief seeks easier GST refunds, tax credits",
+    "desc": "EY India chairman Rajiv Memani emphasized the importance of expediting GST refunds and addressing input tax credit issues. He suggested allowing companies to claim expenses related to travel and insurance as eligible credits. Memani highlighted the successful impact of recent GST reforms on India's economic growth. He projected FDI flows could exceed $100 billion this year, which may double in three years.",
+    "img": "https://static.toiimg.com/photo/msid-134683265,imgsize-32008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ey-india-chief-seeks-easier-gst-refunds-tax-credits/articleshow/134683260.cms",
+    "time": "2026-10-05T00:14:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Paradise' BO day 11 vs 'Don't Trouble The Trouble'",
+    "desc": "Nani's film 'The Paradise' saw a slight uptick in box office earnings on its second Sunday, reaching a net of Rs 115.10 crore in India. The film garnered Rs 2.10 crore net on October 4, despite varying occupancy levels throughout the week. Meanwhile, Fahadh Faasil's 'Don't Trouble The Trouble' faced a downturn with earnings of Rs 3.04 crore net in its first three days.",
+    "img": "https://static.toiimg.com/photo/msid-134683233,imgsize-387251.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-box-office-collections-day-11-vs-dont-trouble-the-trouble-nanis-film-earns-rs-2-10-cr-fahadh-faasils-movie-collects-rs-3-04-cr/articleshow/134683230.cms",
+    "time": "2026-10-05T00:03:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Credit offtake stays ahead of banks' deposit growth",
+    "desc": "In the second quarter of FY27, advances at several banks grew significantly faster than deposit growth. Smaller banks, such as Tamilnad Mercantile Bank and Karnataka Bank, recorded impressive credit expansions. Larger public sector banks like Bank of India and Canara Bank also saw substantial growth in advances. However, deposit growth varied, with some banks struggling to keep pace with advances.",
+    "img": "https://static.toiimg.com/photo/msid-134683232,imgsize-44332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/credit-offtake-stays-ahead-of-banks-deposit-growth/articleshow/134683228.cms",
+    "time": "2026-10-05T00:01:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Anup Bagchi's Act 1: Set HDFC house in order",
+    "desc": "Anup Bagchi has been chosen as the new CEO of HDFC Bank after Sashidhar Jagdishan's decision not to continue. Bagchi's leadership will address critical issues within the bank, including leadership succession and regulatory concerns. He aims to recapitalize the brand while focusing on technology and customer service improvements. Additionally, he encounters challenges with insurance sales amid evolving distribution rules.",
+    "img": "https://static.toiimg.com/photo/msid-134683224,imgsize-22056.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/anup-bagchis-act-1-set-hdfc-house-in-order/articleshow/134683221.cms",
+    "time": "2026-10-05T00:00:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI may end rate-cut cycle with first hike since February 2023",
+    "desc": "Bankers expect the Reserve Bank of India to raise the repo rate by 25 basis points soon. This marks the end of the rate-cutting phase that began in February 2025. Economists predict inflation will exceed the RBI’s forecasts, necessitating tightening. Experts anticipate resilient growth will provide the RBI room to act despite external pressures. The focus will remain on managing liquidity and aligning rates with policy measures.",
+    "img": "https://static.toiimg.com/photo/msid-134683155,imgsize-62600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-may-end-rate-cut-cycle-with-first-hike-since-february-2023/articleshow/134683147.cms",
+    "time": "2026-10-04T23:49:18.000Z"
+  },
+  {
     "cat": "Business",
     "title": "India in striking distance of 8% growth, says Shaktikanta Das",
     "desc": "India is expected to achieve close to 8% economic growth, aided by recent reforms and increased investment. The resilience of the economy is attributed to strategies implemented over the past decade and strong domestic demand. Former RBI governor Shaktikanta Das emphasized the significance of the financial sector and external management in supporting growth. Further opportunities are anticipated in the coming years, particularly in AI and infrastructure financing.",
@@ -34,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/democracy-in-peril-as-voters-illegally-ousted-former-sc-judge-justice-rohinton-fali-nariman/articleshow/134680618.cms",
     "time": "2026-10-04T22:04:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tom Cruise's 'Digger' FLOPS; 'Verity' tops box office",
-    "desc": "Warner Bros.' film 'Digger' failed to perform at the box office during its opening weekend. The film grossed only $8 million domestically against a production budget of $125 to $150 million. Meanwhile, Amazon MGM's 'Verity' topped the charts, earning $32.6 million in its debut weekend. This disappointing performance occurs as Warner Bros. faces a merger with Paramount Skydance.",
-    "img": "https://static.toiimg.com/photo/msid-134680596,imgsize-255003.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/tom-cruise-starrer-digger-flops-at-box-office-anne-hathaway-dakota-johnson-starrer-verity-takes-no-1-spot/articleshow/134680389.cms",
-    "time": "2026-10-04T21:45:42.000Z"
   },
   {
     "cat": "Politics",
@@ -91,7 +406,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Supreme Court judge Justice Ujjal Bhuyan",
+    "title": "Supreme Court judge Ujjal Bhuyan",
     "desc": "Justice Ujjal Bhuyan condemned the extensive deletion of voter names from electoral rolls due to the special intensive revision process. He emphasized that such actions undermine the core principles of the Indian Constitution and disenfranchise millions of citizens. Bhuyan highlighted that the right to vote is essential for free and fair elections in India. He urged that no citizen should be denied the right to vote without due process.",
     "img": "https://static.toiimg.com/photo/msid-134680197,imgsize-85376.cms",
     "src": "indiatimes.com",
@@ -106,6 +421,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/koder-house-fire-may-have-originated-in-adjacent-building-finds-electrical-inspectorate/article71543124.ece",
     "time": "2026-10-04T19:47:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Three dogs per household? Ernakulam District panchayat weighs new pet rules",
+    "desc": "Plans include stronger licensing of pet owners and breeders, along with microchipping and other measures to track dogs and curb pet abandonment; proposed stray dog management programme to cover sterilisation, vaccination, designated feeding centres and shelters as authorities seek a comprehensive solution",
+    "img": "https://th-i.thgim.com/public/incoming/vfipb5/article71544696.ece/alternates/LANDSCAPE_1200/pet%20dog.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/ernakulam-weighs-new-pet-rules-amid-stray-dog-concerns/article71524988.ece",
+    "time": "2026-10-04T19:41:28.000Z"
   },
   {
     "cat": "Politics",
@@ -144,6 +468,15 @@ const newsData_en = [
     "time": "2026-10-04T18:21:41.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "The afterglow of the Asiad gold",
+    "desc": "For Shreyas, this was a much-needed victory. This campaign, away from probing eyes, would have facilitated his reintegration to progress further. The fact that he had most of his first-choice personnel around would have aided the process of refamiliarisation and put him in a good head-space",
+    "img": "https://th-i.thgim.com/public/sport/haog3o/article71544746.ece/alternates/LANDSCAPE_1200/TILAK.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/the-afterglow-of-the-asiad-gold/article71544742.ece",
+    "time": "2026-10-04T18:05:04.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Arrest powers, ITC, prosecution threshold proposals on agenda",
     "desc": "The GST Council will meet on October 7 to discuss major reforms in GST processes and enforcement. Proposed changes include removing tax officers' arrest powers and requiring judicial consent for any arrests. Additionally, the prosecution threshold may be raised from Rs 1 crore to Rs 5 crore, with some offences being decriminalized. Changes are also aimed at simplifying compliance for small e-commerce sellers and protecting genuine buyers' input tax credits.",
@@ -151,24 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gst-council-meeting-on-october-7-arrest-powers-itc-prosecution-threshold-proposals-on-agenda-report/articleshow/134678667.cms",
     "time": "2026-10-04T17:54:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Keralam government gets legal opinion to proceed against Chief Election Commissioner Gyanesh Kumar in abetment to suicide case",
-    "desc": "T. Asaf Ali, Director General of Prosecution, gives legal advice that there is no legal bar in proceeding against Gyanesh Kumar. The case pertains to the reported suicide of Malaysian Lee See Been, a former chief project officer of Kerala State Transport Project for reconstruction of M.C. Road",
-    "img": "https://th-i.thgim.com/public/incoming/1vvqnb/article71544547.ece/alternates/LANDSCAPE_1200/SIR%20ELECTION%20COMMISSION%20PC%20%20DELHI%202025_27_10_25.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/keralam-government-gets-legal-opinion-to-proceed-against-chief-election-commissioner-gyanesh-kumar-in-abetment-to-suicide-case/article71544342.ece",
-    "time": "2026-10-04T17:40:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Motivational quote of the day by Jack Black",
-    "desc": "Jack Black passionately champions the idea that failure is a vital stepping stone toward growth in both personal and professional realms. He emphasizes that the anxiety surrounding failure often stops individuals from pursuing new opportunities. Sharing his own adventures filled with setbacks, Black inspires others to embrace learning and adaptability. His message ultimately celebrates resilience as a transformative force amidst life's challenges.",
-    "img": "https://static.toiimg.com/photo/msid-134672321,imgsize-237752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/motivational-quote-of-the-day-by-jack-black-dont-be-afraid-of-failure-because-thats-the-demon-that-will-get-in-the-way-failure-is-your-friend-a-powerful-life-lesson-on-learning-from-setbacks/articleshow/134671377.cms",
-    "time": "2026-10-04T17:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -234,15 +549,6 @@ const newsData_en = [
     "time": "2026-10-04T16:17:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Janhvi CONDEMNS AI-altered 'Chuttamalle' clip as 'deeply violating, bordering on sexual assault'",
-    "desc": "Janhvi Kapoor has strongly criticized a viral AI-manipulated video of her from the track 'Chuttamalle,' deeming it a serious infringement. She raised concerns about the exploitation of technology to objectify women, stressing the importance of consent. Supporting her, Jr NTR, her co-star from 'Devara,' condemned the video as well and indicated potential legal action. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-134677634,imgsize-618421.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoor-strongly-condemns-ai-altered-chuttamalle-video-as-deeply-violating-bordering-on-sexual-assault-thanks-devara-co-star-jr-ntr-for-taking-a-stand/articleshow/134677526.cms",
-    "time": "2026-10-04T15:55:49.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Gold, silver outlook: Dollar, US-Iran tensions, RBI policy among key factors to drive prices this week",
     "desc": "This week, prices for gold and silver are likely to experience fluctuations driven by various factors including the strength of the US dollar, rising bond yields, and continuing tensions between the US and Iran. Market participants are closely monitoring the Reserve Bank of India's impending interest rate decision, as well as key economic data that could shape market predictions.",
@@ -270,33 +576,6 @@ const newsData_en = [
     "time": "2026-10-04T15:42:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Drishyam 3' director's wife's note for him: 'I teared up'",
-    "desc": "The Conclusion'. Her pride was evident as she highlighted his relentless efforts and the film's warm reception. The crime thriller, focusing on the Salgaonkar family's new dilemmas, earned over Rs 168 crore in its opening weekend. Oberoi expressed her eagerness for their daughter Aarika to witness her father's remarkable journey.",
-    "img": "https://static.toiimg.com/photo/msid-134677362,imgsize-563454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shivaleeka-oberoi-gets-emotional-watching-husband-abhishek-pathaks-drishyam-3-in-theatre-i-teared-up-when-i-saw-this-on-the-big-screen/articleshow/134677291.cms",
-    "time": "2026-10-04T15:36:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Thiruvananthapuram Corporation’s BJP councillor R. Sreelekha does a U-turn after resignation bid",
-    "desc": "Ms. Sreelekha reportedly mentioned in her ward’s WhatsApp group that she had informed the Mayor through a letter about resigning as a councillor for personal reasons. On Sunday, BJP leaders say she will continue in her position and that she is in hospital",
-    "img": "https://th-i.thgim.com/public/todays-paper/dd2zm0/article71542459.ece/alternates/LANDSCAPE_1200/BJP-faces-crisiGD9GK6I2S.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/thiruvananthapuram-corporations-bjp-councillor-r-sreelekha-does-a-u-turn-after-resignation-bid/article71544298.ece",
-    "time": "2026-10-04T15:34:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'One day you're loved'",
-    "desc": "In a candid chat with Karan Johar, Zeenat Aman reflected on her journey through fame, emphasizing that it is both volatile and not indicative of personal value. She pointed out how public opinion can swing dramatically over time. Having enjoyed stardom since the early 1970s, she also touched upon the complexities of her two marriages and the lessons learned through them.",
-    "img": "https://static.toiimg.com/photo/msid-134677154,imgsize-455262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-zeenat-aman-shared-a-brutally-honest-take-on-fame-one-day-youre-loved-the-next-day-youre-hated/articleshow/134677068.cms",
-    "time": "2026-10-04T15:15:24.000Z"
-  },
-  {
     "cat": "World",
     "title": "Yemen presidency announces military drive to retake all Houthi territory",
     "desc": "I announce today the start of military operations to retake the remaining territories of the republic and extend the authority of the state and its institutions across the entire national territory, says Rashad al-Alimi, the head of Yemen's presidential council",
@@ -304,15 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/yemen-presidency-announces-military-drive-to-retake-all-houthi-territory/article71544431.ece",
     "time": "2026-10-04T15:15:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "MS Dhoni meets Nitin Mukesh and his family; veteran singer says he is 'Thala' for a reason",
-    "desc": "MS Dhoni recently met veteran singer Nitin Mukesh and expressed his admiration for Mukesh's father's song. Nitin Mukesh shared details of their meeting on Instagram, highlighting Dhoni's passion for the track. He referred to Dhoni as a national treasure, reflecting on the significance of their encounter. Both personalities were dressed in blue, adding a light-hearted element to the meeting.",
-    "img": "https://static.toiimg.com/photo/msid-134677027,imgsize-565805.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ms-dhoni-meets-nitin-mukesh-and-his-family-veteran-singer-says-he-is-thala-for-a-reason-as-cricketer-sings-main-pal-do-pal-ka-shayar-hoon/articleshow/134676963.cms",
-    "time": "2026-10-04T15:04:24.000Z"
   },
   {
     "cat": "Sports",
@@ -324,15 +594,6 @@ const newsData_en = [
     "time": "2026-10-04T14:35:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shraddha's saree look from 'Eetha' sets goes viral, fans REACT",
-    "desc": "Fans are buzzing with excitement over a new behind-the-scenes video from the filming of 'Eetha,' featuring Shraddha Kapoor elegantly dancing in a dazzling red saree during a musical number. The captivating snippet has only heightened anticipation for the song's release. Additionally, the film has shifted its premiere to December 4, avoiding clashes with other titles.",
-    "img": "https://static.toiimg.com/photo/msid-134676709,imgsize-574783.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shraddha-kapoors-red-saree-look-from-the-eetha-sets-goes-viral-fans-ask-makers-to-release-the-song-transformation-is-visible/articleshow/134676615.cms",
-    "time": "2026-10-04T14:30:45.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Learn and keep moving forward’: Bindra’s message to Team India as LA 2028 beckons",
     "desc": "After the Asian Games, Abhinav Bindra called for a revolution in high-performance systems for Indian athletes. While acknowledging India’s notable successes, he insisted on a careful assessment of both triumphs and failures. With the Los Angeles Olympics approaching, Bindra pointed out the necessity of stable athlete growth and targeted training.",
@@ -340,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/learn-from-these-games-and-keep-moving-forward-abhinav-bindras-message-to-team-india-as-la-olympics-beckon/articleshow/134676337.cms",
     "time": "2026-10-04T14:10:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman Khan's 'Maatrubhumi' to be screened by CBFC this week",
-    "desc": "Set to release during the festive seasons of Diwali or Christmas, Salman Khan's 'Maatrubhumi' is creating buzz among fans. Directed by Apoorva Lakhia and featuring Chitrangda Singh, the film previously known as 'Battle of Galwan' reflects key historical events from 2020. Currently under review by the Central Board of Film Certification, fans can expect an official release date announcement upon clearance of the film.",
-    "img": "https://static.toiimg.com/photo/msid-134676115,imgsize-727010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-maatrubhumi-to-be-screened-by-cbfc-this-week-war-drama-likely-to-arrive-on-diwali-or-christmas-this-year-report/articleshow/134676097.cms",
-    "time": "2026-10-04T13:44:52.000Z"
   },
   {
     "cat": "Business",
@@ -396,42 +648,6 @@ const newsData_en = [
     "time": "2026-10-04T12:44:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Govinda's daughter talks about his colourful 90s style: 'It worked for him'",
-    "desc": "Tina Ahuja expressed her admiration for her father's fashion choices during the 90s, noting their uniqueness. She emphasized that Govinda's bright clothing suited him and that she enjoyed his movies. The couple, Govinda and Sunita Ahuja, married in 1987 and kept it a secret until their daughter’s birth. Recently, Tina avoided questions about ongoing controversies involving Komal Rani, Govinda's rumored girlfriend.",
-    "img": "https://static.toiimg.com/photo/msid-134675169,imgsize-625520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tina-ahuja-recalls-herself-a-govinda-fan-recalling-his-iconic-90s-fashion-and-why-she-loved-his-colourful-style-as-far-as-he-was-enjoying-it-i-was-enjoying-looking-at-him/articleshow/134675080.cms",
-    "time": "2026-10-04T12:32:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jackie Shroff says NOBODY wanted Chunnilal role in 'Devdas'",
-    "desc": "Jackie Shroff opened up about landing the role of Chunnilal in the cinematic masterpiece 'Devdas.' He explained how reluctance from other actors, who feared overshadowing Shah Rukh Khan's Devdas, cleared the way for him. Shroff appreciated the chance to connect with Madhuri Dixit's Chandramukhi character, demonstrating his readiness to embrace diverse roles, even with limited dialogue.",
-    "img": "https://static.toiimg.com/photo/msid-134675043,imgsize-908973.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jackie-shroff-reveals-other-actors-refused-to-play-chunnilal-in-aishwarya-rai-starrer-devdas-because-shah-rukh-khan-was-the-lead-madhuri-dixit-ji-is-there-and-i-am-the-king-of-her-characters-brothel-why-shouldnt-i-sit-there/articleshow/134674716.cms",
-    "time": "2026-10-04T12:31:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Cher",
-    "desc": "Cher faced numerous challenges in her early life, including a troubled childhood and career setbacks. After dropping out of school, she moved to Los Angeles to pursue her dreams. Despite being written off multiple times, she reinvented herself and achieved remarkable success as an actress and musician. Her iconic quote encourages others to never give up on their dreams, regardless of time constraints.",
-    "img": "https://static.toiimg.com/photo/msid-134670139,imgsize-70510.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-cher-never-give-up-on-your-dream-no-matter-what-happens-live-it-a-powerful-life-lesson-on-perseverance-patience-and-never-giving-up/articleshow/134670131.cms",
-    "time": "2026-10-04T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tamannaah reveals taking deep-sea diving lessons for terrifying underwater The Vvaan scene",
-    "desc": "Tamannaah Bhatia has opened up about filming a challenging underwater sequence in 'The Vvaan', revealing she was terrified because she cannot swim. The actor underwent swimming and deep-sea diving classes before shooting the near-drowning scene and credited co-star Sidharth Malhotra, a deep-sea diver, for supporting her. Tamannaah also dismissed rumours of a rift around the film and said its success has given her “more than my due” as an actor.",
-    "img": "https://static.toiimg.com/photo/msid-134674979,imgsize-87634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tamannaah-bhatia-reveals-she-was-terrified-filming-the-vvaan-underwater-scene-as-a-non-swimmer-and-took-swimming-and-deep-sea-diving-classes-i-have-to-give-credit-to-sidharth-malhotra-he-supported-me-a-lot/articleshow/134674883.cms",
-    "time": "2026-10-04T12:15:54.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran's Foreign Minister tells U.S. there is no military solution to their conflict",
     "desc": "\"If our enemies again choose the path of military confrontation, our response will be stronger than before, and we will defend ourselves with even more force,\" Mr. Araghchi said at a gathering of foreign ambassadors",
@@ -439,24 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/irans-foreign-minister-tells-us-there-is-no-military-solution-to-their-conflict/article71543286.ece",
     "time": "2026-10-04T11:52:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Drishyam 3 OTT platform revealed amid massive Rs 150 cr box office run",
-    "desc": "The Conclusion' has arrived in theatres as the final chapter of the popular crime-thriller franchise, and attention has already turned to its digital premiere. While the makers have not announced an official OTT release date, a report by Filmibeat claims that the film’s streaming rights have been picked up by Netflix. Meanwhile, director Abhishek Pathak has opened up about the creative responsibility of bringing Vijay Salgaonkar’s story to a definitive close.",
-    "img": "https://static.toiimg.com/photo/msid-134673860,imgsize-113160.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/drishyam-3-the-conclusion-ott-release-ajay-devgn-tabu-and-jaideep-ahlawat-starrers-streaming-platform-revealed-amid-its-rs-150-crore-domestic-net-milestone-theatrical-run-in-just-three-days/articleshow/134673567.cms",
-    "time": "2026-10-04T11:46:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Deverakonda, Rashmika Mandanna explain why they kept their relationship private",
-    "desc": "Rashmika Mandanna and Vijay Deverakonda shared insights into their relationship's privacy during a podcast. They emphasized that their romance was not meant for public consumption but was personal. Vijay mentioned feeling a dependency on Rashmika that made him realize he wanted to marry her. They tied the knot in an intimate ceremony on February 26, 2026, surrounded by family.",
-    "img": "https://static.toiimg.com/photo/msid-134674321,imgsize-130594.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-and-vijay-deverakonda-open-up-on-keeping-their-romance-private-for-8-years-before-marriage-humara-relationship-entertainment-ke-liye-nahi-hai/articleshow/134674254.cms",
-    "time": "2026-10-04T11:43:33.000Z"
   },
   {
     "cat": "Business",
@@ -468,24 +666,6 @@ const newsData_en = [
     "time": "2026-10-04T11:37:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "In 2026, Verity’s real-life home is a striking 1960s New York residence",
-    "desc": "Located in Armonk, New York, Beckoning Path stands as the striking filming location for Verity. This midcentury-modern masterpiece, designed by Jens Quistgaard, boasts unique elements that deepen the film's haunting tone. Although key scenes were filmed at the actual home, many were recreated on soundstages. The interior underwent a transformative redesign to underscore the unsettling themes of familial discord portrayed in the film.",
-    "img": "https://static.toiimg.com/photo/msid-134673234,imgsize-189138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2026-veritys-real-life-home-is-a-striking-1960s-new-york-residence-with-dramatic-architecture-and-unsettling-interiors/articleshow/134673194.cms",
-    "time": "2026-10-04T11:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Meet teenage sensation Yu Zidi &amp; sprint king Puripol Boonson",
-    "desc": "Yu Zidi, a 13-year-old swimmer from China, set multiple records and won three gold medals at the Asian Games. Puripol Boonson, a 20-year-old sprinter from Thailand, achieved a 100m-200m double with four record-breaking performances. Both athletes earned the titles of Female and Male Most Valuable Players for their remarkable achievements. Their performances established them as promising stars in Asian sports moving forward.",
-    "img": "https://static.toiimg.com/photo/msid-134673861,imgsize-177680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-mvps-meet-teenage-sensation-yu-zidi-and-sprint-king-puripol-boonson/articleshow/134673707.cms",
-    "time": "2026-10-04T11:19:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Curtain comes down in Aichi-Nagoya as Doha receives flag for Asian Games 2030",
     "desc": "The 20th Asian Games in Aichi-Nagoya successfully ended with Qatar receiving the flag for the next event in 2030. India concluded the Games with 85 medals, including 21 gold, and finished fourth overall. China led the medal tally, securing its best performance outside its home territory. Despite organisational challenges, individual athletic performances celebrated the spirit of competition. As the Games transitioned to Doha, the focus shifted towards preparations for 2030.",
@@ -495,13 +675,13 @@ const newsData_en = [
     "time": "2026-10-04T10:38:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "In 2021, Diane Keaton bought a Laguna Beach home for $6.6 million",
-    "desc": "Diane Keaton's stunning beach house in Laguna Beach, acquired in 2021, changed hands just a year later for $7.9 million. The renovated property showcases her characteristic black-and-white aesthetics, filled with unique touches. Now back on the market for $10.3 million, the new owners have preserved her design choices, embodying Keaton's celebrated love for architecture and home renovations.",
-    "img": "https://static.toiimg.com/photo/msid-134671305,imgsize-111635.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2021-diane-keaton-bought-a-laguna-beach-home-for-6-6-million-a-year-later-she-sold-the-renovated-beach-house-for-7-9-million-now-it-is-back-on-the-market-for-10-3-million/articleshow/134671296.cms",
-    "time": "2026-10-04T10:30:00.000Z"
+    "cat": "Tech",
+    "title": "Amazon v. Perplexity: who’s in control when an AI agent acts for you?",
+    "desc": "In India, where e-commerce, automated consumer services, and AI adoption are all expanding rapidly, the legal dispute between Amazon.com and Perplexity AI offers a useful, if also imperfect, template to think about platform governance and intermediary liability",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/be9gar/article70061449.ece/alternates/LANDSCAPE_1200/igor-omilaev-FHgWFzDDAOs-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/amazon-v-perplexity-whos-in-control-when-an-ai-agent-acts-for-you/article71523202.ece",
+    "time": "2026-10-04T10:31:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -522,15 +702,6 @@ const newsData_en = [
     "time": "2026-10-04T10:15:15.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "From 89/3 to 111 all out: Mukesh, Akash trigger J&amp;K collapse as RoI win Irani Cup",
-    "desc": "Mukesh returned figures of 6/33 to claim his 11th five-wicket haul in first-class cricket and dismantle the Jammu and Kashmir batting line-up. Akash, playing his comeback game, supported his Bengal teammate with 3/25 as J&K, chasing 279, were bowled out for 111.",
-    "img": "https://static.toiimg.com/photo/msid-134672792,imgsize-198706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-89/3-to-111-all-out-mukesh-kumar-akash-deep-trigger-jk-collapse-as-rest-of-india-win-irani-cup/articleshow/134672585.cms",
-    "time": "2026-10-04T09:43:04.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Why translating AI advances to the real world is a major challenge",
     "desc": "AI systems more reliable in everyday settings is a challenge worth solving, not just to improve gadgets and apps, but because AI has the potential to support human well-being, whether that means safer streets, smarter healthcare or more secure homes",
@@ -538,33 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/health/from-lab-to-life-why-translating-ai-advances-to-the-real-world-is-a-major-challenge/article71543262.ece",
     "time": "2026-10-04T08:54:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We had difficulty opening the score': Ancelotti praises India after Brazil's 4-0 win",
-    "desc": "Brazil coach Carlo Ancelotti praised India’s defensive organisation and counter-attacking approach despite Brazil’s 4-0 win in Kolkata. India stayed competitive for 25 minutes before Brazil took control after Estevao’s opener. Brazil dominated possession, shots and attacking play, while India worked hard defensively. Ancelotti called the match a good experience and an entertaining, intense test for both teams.",
-    "img": "https://static.toiimg.com/photo/msid-134672005,imgsize-124438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/we-had-difficulty-opening-the-score-brazil-head-coach-carlo-ancelotti-praises-india-after-4-0-win-in-kolkata-friendly/articleshow/134671978.cms",
-    "time": "2026-10-04T08:26:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘We didn't get gold on a platter’: Samson on India’s hard-fought win over Pakistan",
-    "desc": "Sanju Samson praised the seasoned players for their vital contributions in overcoming the challenges faced during the Asian Games final against Pakistan. India clinched victory by 19 runs, scoring 211 while Pakistan ended with 192. Samson highlighted the importance of experience in navigating weather interruptions, turning the India-Pakistan showdown into a crucial platform for their skills.",
-    "img": "https://static.toiimg.com/photo/msid-134671995,imgsize-218480.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-did-not-get-the-gold-on-a-platter-sanju-samson-on-indias-hard-fought-win-over-pakistan/articleshow/134671971.cms",
-    "time": "2026-10-04T08:25:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Hanuman Ansh' BO Day 59: Worldwide gross soars Rs 423 crore",
-    "desc": "‘Hanuman Ansh’ continues its remarkable theatrical run even as it enters Day 59. The Vishal Chaturvedi directorial has maintained its momentum well beyond the usual lifespan of a theatrical release, with the Neem Karoli Baba biopic now firmly into its ninth week. According to Sacnilk, the film's India net total stood at Rs. 321.73 crore and gross collection to Rs. 379.96 crore by the end of Day 58.The Day 59 figure is still live and the final tally is expected to change once all shows are accounted for.",
-    "img": "https://static.toiimg.com/photo/msid-134671358,imgsize-93332.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-59-live-vishal-chaturvedi-and-shobhinaw-satyaas-biopic-on-neem-kaorli-baba-holds-strong-in-ninth-week-amid-ajay-devgns-drishyam-3-the-conclusion-eyes-rs-325-crore-india-net-milestone-as-worldwide-total-climbs-towards-rs-420-crore/articleshow/134671271.cms",
-    "time": "2026-10-04T07:30:31.000Z"
   },
   {
     "cat": "Tech",
@@ -586,15 +730,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Drishyam 3 The Conclusion's worldwide tally crosses Rs 272 crore in 3 days",
-    "desc": "Ajay Devgn-led ‘Drishyam 3 The Conclusion’ has maintained strong momentum at the box office as it enters its third day in theatres. The crime thriller opened with Rs 62 crore net in India on Day 1 and followed it with another Rs 53.50 crore on Day 2. The film has already crossed Rs 125 crore in India net and is now approaching another major domestic milestone. The immediate target is the Rs 150 crore India net mark. The franchise's established audience base, holiday release window and strong advance momentum give the film a solid foundation, but its long-term performance will ultimately depend on audience response and weekday stability.",
-    "img": "https://static.toiimg.com/photo/msid-134670968,imgsize-145721.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/drishyam-3-the-conclusion-box-office-collection-day-3-live-ajay-devgn-tabu-jaideep-ahlawat-prakash-raj-starrer-holds-strong-closes-in-on-rs-150-crore-india-net-and-rs-200-crore-worldwide-gross-milestones/articleshow/134670893.cms",
-    "time": "2026-10-04T06:47:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Where are Kannada cinema’s next stars?",
     "desc": "Kannada cinema still leans heavily on its tried-and-true male heroes and familiar storylines. It’s time for the industry to evolve and embrace a new generation of talent that reflects the vibrant, diverse audience it serves, writes Vivek M.V.",
     "img": "https://th-i.thgim.com/public/incoming/rlahyb/article71146808.ece/alternates/LANDSCAPE_1200/_DSC7966.jpg",
@@ -613,30 +748,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'India's Got Latent' Gambit? Behind Vantika's double bronze at Chess Olympiad",
-    "desc": "In the fourth instalment of TimesofIndia.com's series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand, Vantika Agrawal reflects on her women's team's bronze-medal journey. The 24-year-old discusses the setbacks against Poland and China, her individual bronze, the team's resilience, her limited exposure to elite tournaments, and her ambitions to break into the top circuit.",
-    "img": "https://static.toiimg.com/photo/msid-134670539,imgsize-181450.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/indias-got-latent-gambit-behind-vantika-agrawals-double-bronze-at-chess-olympiad-exclusive/articleshow/134670348.cms",
-    "time": "2026-10-04T06:16:36.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Aged 71, a Chennai resident travels to top-tier international sports events, freezing iconic sporting moments",
     "desc": "Chennai resident Seshadri Sukumar kickstarted a career in sports photography, mid-life, turning his back on the familiar and the comfortable, including a long career in the banking sector, and that has made all the difference. He is right now covering the 20th Asian Games in Japan",
     "img": "https://th-i.thgim.com/public/incoming/a3kk0b/article71542929.ece/alternates/LANDSCAPE_1200/Sukumar%203%20.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/chennai/aged-71-a-chennai-resident-travels-to-top-tier-international-sports-events-freezing-iconic-sporting-moments/article71542936.ece",
     "time": "2026-10-04T05:56:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Pakistan don’t offer much competition’: BCCI takes swipe after Asian Games final",
-    "desc": "India's men's cricket team triumphed at the Asian Games 2026, capturing the gold medal with a decisive 19-run win over arch-rivals Pakistan at Korakuen Stadium. With a formidable score of 211 runs, powered by standout performances from Abhishek Sharma and Tilak Varma, India showcased dominance. Although Pakistan's Hasan Nawaz fought valiantly with 96 runs, India's bowlers sealed the deal, underlining their title-winning prowess.",
-    "img": "https://static.toiimg.com/photo/msid-134670256,imgsize-228816.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/pakistan-dont-offer-much-competition-bcci-takes-swipe-after-asian-games-final/articleshow/134670245.cms",
-    "time": "2026-10-04T05:47:35.000Z"
   },
   {
     "cat": "Tech",
@@ -649,30 +766,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "India’s Asian Games medal map changed: 20 Hangzhou golds gone, 13 new routes to gold",
-    "desc": "India defended only eight of its 28 Hangzhou golds at Aichi-Nagoya, with 20 titles changing hands. All seven shooting golds and all six athletics titles were lost, but the gold medals were replaced from a wider pool. Thirteen came from events where India had won silver or bronze, or had not reached the podium. From Pranavi Urs to Lovlina Borgohain, the medal map changed even as traditional strengths remained again.",
-    "img": "https://static.toiimg.com/photo/msid-134669564,imgsize-166464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/20-hangzhou-golds-gone-13-new-routes-to-gold-how-indias-asian-games-medal-map-changed/articleshow/134669543.cms",
-    "time": "2026-10-04T04:50:41.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Vithya Ramraj’s record run: How far has India come in the 400m hurdles?",
     "desc": "She broke P.T. Usha’s 42-year-old record to win bronze, while also anchoring India to gold in the women’s 4×400m relay and silver in the mixed 4×400m relay. Vithya’s coach, Nehpal Singh Rathore, explains why she needed to train for both the 400m hurdles and the flat.",
     "img": "https://th-i.thgim.com/public/incoming/446tof/article71541839.ece/alternates/LANDSCAPE_1200/A20_RVM_0526.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/data/vithya-ramrajs-record-run-how-far-has-india-come-in-the-400m-hurdles/article71541845.ece",
     "time": "2026-10-04T04:39:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeru Dhanda eyes Olympic medal to end wait since Rajyavardhan’s 2004 silver",
-    "desc": "After battling viral fever and a rushed recovery, Neeru Dhanda arrived at the Asian Games 2026 with a dream of winning a medal. She left Aichi-Nagoya with three medals - two golds and a silver - and her sights now firmly set on the Los Angeles Olympics. With the World Championship in Doha her immediate target, Neeru wants to win an Olympic medal and end India’s long wait for a shotgun medal.",
-    "img": "https://static.toiimg.com/photo/msid-134668863,imgsize-97422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/exclusive-asian-games-gold-done-neeru-dhanda-eyes-olympic-shotgun-medal-to-end-wait-since-rajyavardhan-rathores-2004-silver/articleshow/134668825.cms",
-    "time": "2026-10-04T02:06:52.000Z"
   },
   {
     "cat": "Entertainment",
@@ -702,15 +801,6 @@ const newsData_en = [
     "time": "2026-10-03T19:16:30.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Third edition of Green Energy Corridor to add 51,126 ckm transmission lines, 50 GWh BESS",
-    "desc": "The Indian government has approved the third phase of the Green Energy Corridor to enhance renewable energy transmission. This phase will create over 51,000 circuit kilometres of transmission lines and significant transformation capacity. It also includes the installation of Battery Energy Storage Systems to store excess renewable energy. The implementation involves a mix of new projects and network upgrades managed by state transmission utilities.",
-    "img": "https://static.toiimg.com/photo/msid-134663212,imgsize-87496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/third-edition-of-green-energy-corridor-to-add-51126-ckm-transmission-lines-50-gwh-bess/articleshow/134663120.cms",
-    "time": "2026-10-03T16:48:18.000Z"
-  },
-  {
     "cat": "World",
     "title": "Popular Mobilisation Forces",
     "desc": "For the Iran-backed Shia armed organisations, which opposed the U.S. occupation of Iraq and frequently clashed with U.S. forces, the September 30 withdrawal of American troops, at a time when Washington wages war on Iran, is a ‘historic victory’",
@@ -718,15 +808,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/popular-mobilisation-forces-iraqs-militias-within-the-military/article71541613.ece",
     "time": "2026-10-03T16:47:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How landlord won tax relief on Rs 14.96 lakh demonetisation cash deposit",
-    "desc": "The Bangalore bench of the Income Tax Appellate Tribunal (ITAT) recently held that rental income already disclosed to the income tax authorities can be considered as an identifiable source of cash deposited into a bank account at a later date. Even where a landlord claims to have collected rent in cash, the subsequent deposit of that money cannot be disregarded merely because the rental earnings have already been taxed.",
-    "img": "https://static.toiimg.com/photo/msid-134662106,imgsize-275259.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/he-deposited-rs-14-96-lakh-cash-during-demonetisation-landlord-faced-unexplained-money-tax-notice-under-section-69a-but-itat-bangalore-deletes-addition-on-account-of-rental-income/articleshow/134661840.cms",
-    "time": "2026-10-03T16:31:22.000Z"
   },
   {
     "cat": "World",
@@ -756,15 +837,6 @@ const newsData_en = [
     "time": "2026-10-03T10:40:45.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Rate hike may hurt select NBFC segments, but broad asset stress unlikely: Report",
-    "desc": "Nuvama Institutional Equities suggests that an RBI rate hike may not broadly impact NBFC asset quality. The report indicates that past rate increases did not lead to widespread deterioration. Current risks, including the West Asia conflict, appear limited to specific NBFC segments. Healthy capital buffers and liquidity may support overall asset quality for most NBFCs. Any future deterioration is expected to be specific, contingent on external shocks.",
-    "img": "https://static.toiimg.com/photo/msid-134656875,imgsize-87774.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rate-hike-may-hurt-select-nbfc-segments-but-broad-asset-stress-unlikely-report/articleshow/134656727.cms",
-    "time": "2026-10-03T10:23:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gill on the double as India hunts down 406 in style",
     "desc": "In reply to West Indies’ highest-ever ODI score of 405/7, India rode on Gill’s 223 not out off 133 balls (26 fours, 8 sixes) and Rohit’s 35th century (101 off 75 balls; 10 fours, 6 sixes) to a famous win, with the openers putting on 255 runs for the first wicket.",
@@ -772,33 +844,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/india-versus-west-indies-second-odi-match-at-guwahati-september-30-2026/article71527798.ece",
     "time": "2026-10-03T10:08:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Over 3,500 responses on CAS: Sebi to quickly move ahead with proposals",
-    "desc": "In a significant announcement, Sebi chairman Tuhin Kanta Pandey revealed transformative changes to the Closing Auction Session mechanism. This initiative is driven by the feedback of over 3,500 participants who responded to the consultation paper. Apart from updating settlement prices for index and stock derivatives, Sebi aims to invigorate the corporate bond derivatives market, fostering both participation and support for regulatory practices.",
-    "img": "https://static.toiimg.com/photo/msid-134656248,imgsize-71896.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/over-3500-responses-on-cas-sebi-to-quickly-move-ahead-with-proposals/articleshow/134656121.cms",
-    "time": "2026-10-03T09:46:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Tenant claims eviction protection with unregistered rent agreement; HC denies relief",
-    "desc": "In this case of tenancy, the property owner’s counsel argued that the alleged unregistered rental agreement could not be admitted as evidence to establish the tenant's claim. The argument was that the owner’s brother himself occupied the premises only through 'permissive possession'. Therefore, he had no authority to let it out to another person.",
-    "img": "https://static.toiimg.com/photo/msid-134655980,imgsize-375888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/tenant-claims-protection-from-eviction-under-unregistered-rent-agreement-signed-by-owners-brother-madras-high-court-denies-saying-he-failed-to-prove-tenancy-and-was-an-unlawful-occupant/articleshow/134655686.cms",
-    "time": "2026-10-03T09:19:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Need cash but don’t want to sell stocks? Here’s a way, explained in 10 points",
-    "desc": "Investors have the option to leverage their shares in a demat account for borrowing, providing them access to immediate cash flow. The borrowing capacity hinges on the type of securities held and the lender's guidelines. It's vital for borrowers to grasp the risks associated with fluctuating share prices and the consequences of defaults. Additionally, understanding tax implications and benefits remains crucial, alongside meticulously reviewing the loan's terms before commitment.",
-    "img": "https://static.toiimg.com/photo/msid-134655920,imgsize-158288.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/need-cash-but-dont-want-to-sell-stocks-heres-another-way-to-borrow-explained-in-10-points/articleshow/134654534.cms",
-    "time": "2026-10-03T09:11:45.000Z"
   },
   {
     "cat": "World",
@@ -817,15 +862,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/anbil-avan-movie-review-ashok-selvan-preity-mukhundhan-r-kaarthikeyan/article71536710.ece",
     "time": "2026-10-03T02:45:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "FBI arrests Energy Department employee on charge of trying to support Iran-backed Houthis in Yemen",
-    "desc": "Ashton Hamed Ellaboudy, 51, of Richland, Washington, was arrested on Thursday (October 1, 2026) and is due to make his first court appearance Friday. Court records do not list an attorney available to speak on his behalf.",
-    "img": "https://th-i.thgim.com/public/incoming/qoa03k/article71538630.ece/alternates/LANDSCAPE_1200/2026-09-29T152009Z_1007900502_RC26JEA5NSGS_RTRMADP_3_USA-CYBER-SHINYHUNTERS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/fbi-arrests-energy-department-employee-on-charge-of-trying-to-support-iran-backed-houthis-in-yemen/article71538629.ece",
-    "time": "2026-10-02T23:23:56.000Z"
   },
   {
     "cat": "Business",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/inox-group-scions-file-for-10000-crore-ipos-each/article71533866.ece",
     "time": "2026-10-02T06:16:31.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "USTR Greer says he does not think “something is imminent” on trade deal with India",
-    "desc": "Speaking to the media following G20 trade deliberations in the U.S. and also after a meeting with Commerce Minister Piyush Goyal, Mr. Greer said the two sides had identified the sticking points of the deal and were working to address them",
-    "img": "https://th-i.thgim.com/public/incoming/ol85rz/article71536005.ece/alternates/LANDSCAPE_1200/G2__Trade_Ministerial_962_6.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/ustr-greer-says-he-does-not-think-something-is-imminent-on-trade-deal-with-india/article71535944.ece",
-    "time": "2026-10-02T06:10:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Nitin Gadkari calls Ethanol blending a step towards diversification of agricultural sector",
-    "desc": "He also said that, driven by this strong determination, Bihar is poised to become prosperous and developed state in the future, and assured that the central government would extend its full support to the state’s development.",
-    "img": "https://th-i.thgim.com/public/incoming/v5chad/article71535873.ece/alternates/LANDSCAPE_1200/PTI09_28_2026_000289A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/nitin-gadkari-calls-ethanol-blending-a-step-towards-diversification-of-agricultural-sector/article71533432.ece",
-    "time": "2026-10-02T05:22:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Govt. caps sugar stock limit for dealers to 1,000 quintals ahead of festive season",
-    "desc": "The Food Ministry said the objective of the amended rules was to “ensure that there is no unnecessary accumulation of sugar in the distribution chain” and that the supply of sugar from mills through dealers to the consumer remained “smooth”",
-    "img": "https://th-i.thgim.com/public/incoming/8nubhb/article71534674.ece/alternates/LANDSCAPE_1200/Low-ending-stocGPKGAPVVT.5.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/govt-caps-sugar-stock-limit-for-dealers-to-1000-quintals-ahead-of-festive-season/article71534608.ece",
-    "time": "2026-10-01T19:28:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Baththa’ movie review: Balaji Tharaneetharan returns with a delightfully funny, moving comedy-drama",
-    "desc": "Through the story of a dreaded don and a schoolboy who inadvertently crosses his path, Balaji Tharaneetharan takes a warm, nostalgic look at childhood, the selves we lose while playing the roles society forces upon us, and the goodness that survives beneath",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/cr1jot/article71532440.ece/alternates/LANDSCAPE_1200/Baththa.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/baththa-baththa-review-vijay-sethupathi-balaji-tharaneetharan-delightful-comedy-drama-baththa-tamil-movie/article71532194.ece",
-    "time": "2026-10-01T16:04:30.000Z"
   }
 ];
