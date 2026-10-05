@@ -1,6 +1,78 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan pulls out of WCL 2026 as PCB refuses to cooperate after 2025 fiasco",
+    "desc": "In a major development, Pakistan’s team at the WCL (World Championship of Legends) has pulled out of the ongoing edition of the tournament. It is worth noting that the PCB (Pakistan Cricket Board) upheld its...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-pulls-out-of-wcl-2026-as-pcb-refuses-to-cooperate-after-2025-fiasco-2026-10-05-1056152",
+    "time": "2026-10-05T13:21:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammad Kaif cites Virat-Rohit's example, hails their performance after WI ODIs",
+    "desc": "The Indian team defeated the West Indies in the recently concluded three-game ODI series. Winning the first two games of the series, India clinched the three-game series but succumbed to a loss in the third...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-kaif-cites-virat-rohit-s-example-hails-their-performance-after-wi-odis-2026-10-05-1056148",
+    "time": "2026-10-05T12:49:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma opens up on Vaibhav Sooryavanshi's talent, reflects on brotherly bond with the young prodigy",
+    "desc": "The Indian team is all set to take on the West Indies across five T20Is as part of their ongoing multi-format white-ball series. The two sides will take on each other in the first ODI...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-opens-up-on-vaibhav-sooryavanshi-s-talent-reflects-on-brotherly-bond-with-the-young-prodigy-2026-10-05-1056145",
+    "time": "2026-10-05T12:16:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "21 golds, second-best ever: 10 things that went right for India at the Asian Games 2026",
+    "desc": "The Indian contingent performed brilliantly at the recently concluded Asian Games 2026. Despite a subpar start to the event, the nation pulled off some exceptional performances in the latter stages of the Asian Games. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/21-golds-second-best-ever-10-things-that-went-right-for-india-at-the-asian-games-2026-2026-10-05-1056143",
+    "time": "2026-10-05T11:51:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India, West Indies fined by the ICC after third ODI due to slow over-rate; Check details",
+    "desc": "The ODI series between India and the West Indies ended with the Men in Blue clinching the three-game affair. Winning the first and second ODI of the series, India won the series but ended up...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-west-indies-fined-by-the-icc-after-third-odi-due-to-slow-over-rate-check-details-2026-10-05-1056122",
+    "time": "2026-10-05T09:45:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "China's golden fortress cracking? Why its gold tally dropped by 32 and overall haul by 42 at Asian Games 2026",
+    "desc": "The Asian Games 2026 came to an end, and several nations put forth some brilliant performances as they got their hands on many gold, silver, and bronze medals at the event. As always, many eyes...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/china-s-golden-fortress-cracking-why-its-gold-tally-dropped-by-32-and-overall-haul-by-42-at-asian-games-2026-2026-10-05-1056114",
+    "time": "2026-10-05T08:14:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "West Indies add Amir Jangoo to T20I squad as cover for Jewel Andrew",
+    "desc": "The West Indies are all set to take on India across five T20I matches. It is worth noting that the two sides are in the midst of a multi-format white-ball series that kicked off with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-add-amir-jangoo-to-t20i-squad-as-cover-for-jewel-andrew-2026-10-05-1056103",
+    "time": "2026-10-05T06:41:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Michael Bracewell makes the shift to NZC's casual contract for the 2026-27 season",
+    "desc": "In a major development, star New Zealand all-rounder Michael Bracewell has made the decision to shift to NZC’s (New Zealand Cricket) casual contract for the 2026-27 season. It is interesting to note that Bracewell’s shift...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/michael-bracewell-makes-the-shift-to-nzc-s-casual-contract-for-the-2026-27-season-2026-10-05-1056094",
+    "time": "2026-10-05T05:26:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Where did India finish in the standings after the marquee event's conclusion?",
     "desc": "The Asian Games 2026 came to an end, and every participating nation gave its best effort in a variety of games. It is interesting to note that the Indian contingent finished with a total of...",
     "img": "",
@@ -16,77 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-reflects-on-areas-that-india-could-look-to-improve-in-ahead-of-odi-world-cup-2027-2026-10-04-1056062",
     "time": "2026-10-04T13:17:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zinedine Zidane comes to Cristiano Ronaldo's defence after controversial national squad exit",
-    "desc": "Veteran Portuguese forward Cristiano Ronaldo has been in the spotlight of late. On the back of a subpar campaign at the FIFA World Cup 2026, many thought that Ronaldo would announce his retirement from international...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/zinedine-zidane-comes-to-cristiano-ronaldo-s-defence-after-controversial-national-squad-exit-2026-10-04-1056057",
-    "time": "2026-10-04T11:59:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer backs Tilak Varma to become Virat Kohli's successor in ODIs after Asian Games gold",
-    "desc": "The Indian team put forth an exceptional performance as the gold medal in the men’s cricket final at the Asian Games 2026. The Men in Blue, led by Shreyas Iyer, defeated arch-rivals Pakistan in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-backs-tilak-varma-to-become-virat-kohli-s-successor-in-odis-after-asian-games-gold-2026-10-04-1056052",
-    "time": "2026-10-04T10:55:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I was disappointed': Sunil Gavaskar weighs in on Rohit Sharma missing out on 36th ODI century",
-    "desc": "The Indian team took on the West Indies in the third and final ODI of the ongoing series. The two sides met in New Chandigarh for the clash on October 3rd, and the Windies managed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-was-disappointed-sunil-gavaskar-weighs-in-on-rohit-sharma-missing-out-on-36th-odi-century-2026-10-04-1056046",
-    "time": "2026-10-04T08:57:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Charith Asalanka faces the axe, misses out on Sri Lanka's ODI squad ahead of tri-series",
-    "desc": "SLC (Sri Lanka Cricket) recently came forward and announced its squad for the upcoming ODI tri-series between Sri Lanka, Pakistan, and England. With the squad announcement, many fans were shocked after former skipper Charith Asalanka...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/charith-asalanka-faces-the-axe-misses-out-on-sri-lanka-s-odi-squad-ahead-of-tri-series-2026-10-04-1056043",
-    "time": "2026-10-04T07:52:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Had a chat with MS Dhoni': Shai Hope reveals his chat with former India skipper after third ODI win",
-    "desc": "The West Indies registered a brilliant victory in the third ODI of the ongoing series against the Indian team. The two sides met in New Chandigarh for the clash on October 3rd, and the Windies...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/had-a-chat-with-ms-dhoni-shai-hope-reveals-his-chat-with-former-india-skipper-after-third-odi-win-2026-10-04-1056039",
-    "time": "2026-10-04T06:53:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill joins equals MS Dhoni, Sourav Ganguly in elite list with Player of the Series award against WI",
-    "desc": "The ODI series between India and the West Indies came to a conclusion with the Indian team winning the series. It is worth noting that the Men in Blue won the first two ODIs of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-joins-equals-ms-dhoni-sourav-ganguly-in-elite-list-with-player-of-the-series-award-against-wi-2026-10-04-1056034",
-    "time": "2026-10-04T05:35:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravindra Jadeja wasn't dropped, we will have meeting with selectors keeping World Cup in mind: Shubman Gill",
-    "desc": "Senior all-rounder Ravindra Jadeja was benched in India’s third ODI against West Indies in Mullanpur. His declining ODI numbers were certainly a concern, but the veteran claimed two wickets in the second game in Guwahati....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadeja-wasn-t-dropped-we-will-have-meeting-with-selectors-keeping-world-cup-in-mind-shubman-gill-2026-10-04-1056016",
-    "time": "2026-10-03T19:14:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "West Indies record highest successful chase, beat India by five wickets following Shai Hope's 162*",
-    "desc": "West Indies have defeated India by five wickets in the third ODI at the new PCA stadium in Mullanpur. Even though they lost the series 2-1, the visitors showed plenty of positives, including an impressive...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/west-indies-record-highest-successful-chase-beat-india-by-five-wickets-following-shai-hope-s-162-2026-10-03-1056012",
-    "time": "2026-10-03T17:39:53.000Z"
   }
 ];
