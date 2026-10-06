@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India show potential with Anirudh Thapa's goal, crumble in second half as Uruguay win 6-1 in Kolkata",
+    "desc": "India’s international break ended on a disappointing note as they were beaten 6-1 by Uruguay at the Salt Lake Stadium in Kolkata on Tuesday. Anirudh Thapa scored India’s only goal in the first half, but...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/india-show-potential-with-anirudh-thapa-s-goal-crumble-in-second-half-as-uruguay-win-6-1-in-kolkata-2026-10-06-1056264",
+    "time": "2026-10-06T18:07:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer smacks 42-ball century, India thrash West Indies by eight wickets to win first T20I",
+    "desc": "India defeated West Indies by eight wickets in the first T20I at the Ekana Cricket Stadium in Lucknow. Captain Shreyas Iyer played a phenomenal knock, smacking his maiden T20I century as India dominated the proceedings...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-smacks-42-ball-century-india-thrash-west-indies-by-eight-wickets-to-win-first-t20i-2026-10-06-1056257",
+    "time": "2026-10-06T16:40:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smriti Mandhana announced as India’s new three-format captain, new vice-captains revealed too",
+    "desc": "The Board of Control for Cricket in India (BCCI) has announced Smriti Mandhana as the new captain of the women’s team. After the announcement, she thanked the BCCI officials, selectors, teammates and also her former...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-smriti-mandhana-as-india-s-new-all-format-captain-after-harmanpreet-kaur-steps-down-2026-10-06-1056252",
+    "time": "2026-10-06T15:44:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bhuvneshwar Kumar returns, India announce 16-member squad for five-match T20I series against New Zealand",
+    "desc": "Bhuvneshwar Kumar is back in India’s T20I setup after almost four years. The experienced seamer is included in the squad for the five-match series against New Zealand, slated to begin on October 22. The 36-year-old...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bhuvneshwar-kumar-returns-india-announce-16-member-squad-for-five-match-t20i-series-against-new-zealand-2026-10-06-1056250",
+    "time": "2026-10-06T15:30:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is match between India and Uruguay paused before half-time? Players walk back to dressing room at 1-1",
+    "desc": "The high-voltage FIFA friendly between India and Uruguay has been paused after the hydration break at the Salt Lake Stadium in Kolkata. There was some confusion between the fans when the players didn’t return to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-is-match-between-india-and-uruguay-paused-before-half-time-players-walk-back-to-dressing-room-at-1-1-2026-10-06-1056249",
+    "time": "2026-10-06T14:42:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Vaibhav Sooryavanshi not playing India vs West Indies 1st T20I in Lucknow?",
+    "desc": "India have once again dropped Vaibhav Sooryavanshi from the playing XI in the first T20I against West Indies at the Ekana Cricket Stadium in Lucknow. The 15-year-old was adjudged the Player of the Series against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-vaibhav-sooryavanshi-not-playing-india-vs-west-indies-1st-t20i-in-lucknow-2026-10-06-1056238",
+    "time": "2026-10-06T13:13:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer hits maiden T20I century as India beat West Indies by 8 wickets",
+    "desc": "After winning the gold medal in the Asian Games 2026, the Indian team is now set to take on West Indies in a five-match T20I series, starting today. Notably, the gold-medal triumph came only three...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-1st-t20i-final-live-score-india-vs-west-indies-latest-match-updates-scorecards-playing-xis-reactions-1056233",
+    "time": "2026-10-06T12:52:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch India vs West Indies 1st T20I live on TV and stream online?",
     "desc": "India return to T20I action against West Indies, starting October 6 in Lucknow. They had little time to recover from a demanding international schedule as the series begins only three days after securing Asian Games...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-s-merry-go-round-with-captaincy-continue-appoint-eighth-t20i-captain-in-three-years-2026-10-06-1056215",
     "time": "2026-10-06T10:46:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Kagiso Rabada fit to play first Test vs Australia in Durban? Batting coach Ashwell Prince answers",
-    "desc": "South Africa management has kept the door open for Kagiso Rabada to gain full fitness and feature in the opening Test against South Africa, slated to begin on Friday in Durban. Batting coach Ashwell Prince...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-kagiso-rabada-fit-to-play-first-test-vs-australia-in-durban-batting-coach-ashwell-prince-answers-2026-10-06-1056209",
-    "time": "2026-10-06T10:10:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sourav Ganguly returns to Delhi Capitals as head coach for IPL 2027 season",
-    "desc": "Former India captain Sourav Ganguly was on Tuesday announced as the head coach of the Delhi Capitals team ahead of the 2027 Indian Premier League (IPL) season. Ganguly has been associated with the franchise since 2019,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sourav-ganguly-returns-to-delhi-capitals-as-head-coach-for-ipl-2027-season-2026-10-06-1056198",
-    "time": "2026-10-06T08:25:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur steps down as India women's cricket team captain from all formats",
-    "desc": "Harmanpreet Kaur, India's World Cup-winning cricket captain and ace batter, on Tuesday announced her decision to step down from the role across all formats, bringing an end to her long stint as the team's leader. Announcing her...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-steps-down-as-captain-of-india-women-s-cricket-team-captain-from-all-formats-2026-10-06-1056185",
-    "time": "2026-10-06T05:33:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Daniil Medvedev hits fan with ball in China Open semi-final, gets disqualified; Novak Djokovic progresses",
-    "desc": "Daniil Medvedev was disqualified from his China Open semi-final against Novak Djokovic on Monday after a ball he struck in frustration hit a spectator in the eye. Medvedev was behind 7-5, 5-3 when the incident...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/daniil-medvedev-hits-fan-with-ball-in-china-open-semi-final-gets-disqualified-novak-djokovic-progresses-2026-10-05-1056166",
-    "time": "2026-10-05T18:08:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan pulls out of WCL 2026 as PCB refuses to cooperate after 2025 fiasco",
-    "desc": "In a major development, Pakistan’s team at the WCL (World Championship of Legends) has pulled out of the ongoing edition of the tournament. It is worth noting that the PCB (Pakistan Cricket Board) upheld its...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-pulls-out-of-wcl-2026-as-pcb-refuses-to-cooperate-after-2025-fiasco-2026-10-05-1056152",
-    "time": "2026-10-05T13:21:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammad Kaif cites Virat-Rohit's example, hails their performance after WI ODIs",
-    "desc": "The Indian team defeated the West Indies in the recently concluded three-game ODI series. Winning the first two games of the series, India clinched the three-game series but succumbed to a loss in the third...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-kaif-cites-virat-rohit-s-example-hails-their-performance-after-wi-odis-2026-10-05-1056148",
-    "time": "2026-10-05T12:49:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma opens up on Vaibhav Sooryavanshi's talent, reflects on brotherly bond with the young prodigy",
-    "desc": "The Indian team is all set to take on the West Indies across five T20Is as part of their ongoing multi-format white-ball series. The two sides will take on each other in the first ODI...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-opens-up-on-vaibhav-sooryavanshi-s-talent-reflects-on-brotherly-bond-with-the-young-prodigy-2026-10-05-1056145",
-    "time": "2026-10-05T12:16:42.000Z"
   }
 ];
