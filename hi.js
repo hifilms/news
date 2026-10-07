@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Harmanpreet Kaur, Smriti Mandhana 'weren't seeing eye to eye' over captaincy: Report",
+    "desc": "Smriti Mandhana's elevation as captain of the Indian women's cricket team was the expected next step after Harmanpreet Kaur stepped down from the role. But according to a PTI report, the change also comes against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-smriti-mandhana-werent-seeing-eye-to-eye-over-captaincy-reports-pti-2026-10-07-1056294",
+    "time": "2026-10-07T06:31:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Baseless claim': Virat Kohli's team denies he took Rs 5 crore to visit Premanand Maharaj's ashram",
+    "desc": "Virat Kohli did not receive Rs 5 crore for his visit to Premanand Maharaj's ashram, with his official spokesperson dismissing the claim as \"completely false, baseless and factually incorrect.\" \"Virat Kohli visits Premanand Maharaj purely...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/baseless-claim-virat-kohli-s-team-denies-he-took-rs-5-crore-to-visit-premanand-maharaj-s-ashram-2026-10-07-1056292",
+    "time": "2026-10-07T06:27:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "A night of tears, emotions as Lionel Messi signs off with one last goal for Argentina in farewell match",
+    "desc": "Emotions ran high, with teary eyes at the Buenos Aires stadium as Lionel Messi concluded his 21-year stellar international football career on Tuesday, bidding farewell to adoring Argentina fans during his final appearance for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/a-night-of-tears-emotions-as-lionel-messi-signs-off-with-one-last-goal-for-argentina-in-farewell-match-2026-10-07-1056272",
+    "time": "2026-10-07T02:28:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India show potential with Anirudh Thapa's goal, crumble in second half as Uruguay win 6-1 in Kolkata",
     "desc": "India’s international break ended on a disappointing note as they were beaten 6-1 by Uruguay at the Salt Lake Stadium in Kolkata on Tuesday. Anirudh Thapa scored India’s only goal in the first half, but...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-1st-t20i-final-live-score-india-vs-west-indies-latest-match-updates-scorecards-playing-xis-reactions-1056233",
     "time": "2026-10-06T12:52:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch India vs West Indies 1st T20I live on TV and stream online?",
-    "desc": "India return to T20I action against West Indies, starting October 6 in Lucknow. They had little time to recover from a demanding international schedule as the series begins only three days after securing Asian Games...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-india-vs-west-indies-1st-t20i-live-on-tv-and-stream-online-2026-10-06-1056226",
-    "time": "2026-10-06T11:52:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India among seven countries in race to host 2036 Olympics, confirms IOC",
-    "desc": "The International Olympic Committee (IOC) has confirmed that seven countries have submitted bids to host the 2036 Summer Olympics. India and Qatar were the latest countries to formally submit their interest. As things stand, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-among-seven-countries-in-race-to-host-2036-olympics-confirms-ioc-2026-10-06-1056219",
-    "time": "2026-10-06T11:09:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan's merry-go-round with captaincy continue, appoint eighth T20I captain in three years",
-    "desc": "Pakistan have brought their established white-ball core back into the national setup for the upcoming home assignments against Sri Lanka and the ODI tri-series featuring England. Head coach Mike Hesson believes that an experienced group...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-s-merry-go-round-with-captaincy-continue-appoint-eighth-t20i-captain-in-three-years-2026-10-06-1056215",
-    "time": "2026-10-06T10:46:56.000Z"
   }
 ];
