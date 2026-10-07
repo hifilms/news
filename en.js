@@ -1,12 +1,183 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "80% vote in West Bengal bypolls amid rigging, intimidation charges",
+    "desc": "Bypolls across Nandigram and Rejinagar saw an 80% turnout despite allegations of rigging and voter intimidation. In Tamil Nadu, turnout dipped compared to previous elections, with results showing 86% and 80% participation. Assam's Nagaon Lok Sabha constituency recorded 76% turnout during the bypolls, while Puducherry's Thattanchavady seat had a turnout of 78% by 5pm. Various candidates and parties reported incidents of interference and blocked agents during the polling process.",
+    "img": "https://static.toiimg.com/photo/msid-134752550,imgsize-90662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/80-vote-in-west-bengal-bypolls-amid-rigging-intimidation-charges/articleshow/134752541.cms",
+    "time": "2026-10-06T23:27:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Modi's 25 years in office: A study in seva and action",
+    "desc": "Narendra Modi has completed 25 years of service as the head of government in various capacities. His commitment to service is evident from his early experiences in disasters and personal encounters. Modi's journey reflects the importance of courage and conviction in the face of uncertainty as he navigated numerous challenges. Spiritual principles have shaped his leadership style and influenced his decision-making processes.",
+    "img": "https://static.toiimg.com/photo/msid-134752486,imgsize-131750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/modis-25-years-in-office-a-study-in-seva-and-action/articleshow/134752478.cms",
+    "time": "2026-10-06T22:57:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Michael Douglas recalls AFFAIRS with co-stars; being 'caught in bed'",
+    "desc": "Michael Douglas has recently published a memoir that shares intriguing details about his past relationships. He recounts an affair with Jeanne Tripplehorn during the filming of 'Basic Instinct'. The actor also reflects on being caught by his wife in a compromising situation, which led to an ultimatum. Douglas chose rehabilitation over divorce after the incident with his wife, Diandra Luker.",
+    "img": "https://static.toiimg.com/photo/msid-134752481,imgsize-38938.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-douglas-reveals-details-of-past-affairs-opens-up-about-romance-with-basic-instinct-co-star-being-caught-in-bed-with-another-woman/articleshow/134752471.cms",
+    "time": "2026-10-06T22:55:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "From Gujarat CM to India's PM: Modi's 25 years in office",
+    "desc": "Narendra Modi's journey began with his role as Gujarat Chief Minister, addressing state issues and implementing reforms. His tenure included launching significant initiatives like the Jan Dhan Yojana and Swachh Bharat Mission, aimed at improving welfare. The BJP's political maneuvers led to Modi becoming Prime Minister in 2014, marking a significant shift in governance.",
+    "img": "https://static.toiimg.com/photo/msid-134752462,imgsize-134876.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-gujarat-cm-to-indias-pm-modis-25-years-in-office/articleshow/134752463.cms",
+    "time": "2026-10-06T22:51:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED summons Punjab CM Bhagwant Mann kin in 5 crore graft case",
+    "desc": "Bhagwant Mann's wife Gurpreet Kaur faces a bribery allegation of Rs 5 crore related to a rape case. The Enforcement Directorate has summoned Amardeep Singh Grewal, Kaur's brother-in-law, for questioning. Grewal had requested an adjournment but is now expected to appear for statements. A high court has ordered a CBI investigation concerning allegations against Mann’s Officer on Special Duty.",
+    "img": "https://static.toiimg.com/photo/msid-134752422,imgsize-989836.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ed-summons-punjab-cm-bhagwant-mann-kin-in-5-crore-graft-case/articleshow/134752418.cms",
+    "time": "2026-10-06T22:29:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress itself, not EC, responsible for its losses: BJP",
+    "desc": "BJP has dismissed the march demanding the removal of CEC Gyanesh Kumar as a sign of opposition frustration. During the protests, BJP representatives criticized Rahul Gandhi and questioned the credibility of his claims about member attendance. Union ministers expressed that the Election Commission is not responsible for Congress's electoral failures. BJP spokespersons emphasized the party's continued success and the opposition’s inability to connect with voters.",
+    "img": "https://static.toiimg.com/photo/msid-134752413,imgsize-54236.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/congress-itself-not-ec-responsible-for-its-losses-bjp/articleshow/134752409.cms",
+    "time": "2026-10-06T22:24:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amid Canada trade talks, NSAs discuss security coop",
+    "desc": "India and Canada are engaged in a security dialogue to strengthen their bilateral relations. NSA Ajit Doval hosted his Canadian counterpart David Morrison for discussions on security issues. Both nations reviewed their progress in law enforcement cooperation and identified areas for further collaboration. Canadian Foreign Minister Anita Anand is also scheduled to visit India later this month.",
+    "img": "https://static.toiimg.com/photo/msid-134750016,imgsize-83648.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amid-canada-trade-talks-nsas-discuss-security-coop/articleshow/134750010.cms",
+    "time": "2026-10-06T21:28:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Man deposits Rs 85.3 lakh given to him as cash gifts, gets notice; ITAT gives relief",
+    "desc": "In one such case in Chennai, a man received cash gifts of Rs 85.03 lakh from his relatives. The Income Tax Department began making enquiries into the source of the Rs 85.03 lakh deposited by the man. The department also sent tax notices to the relatives who had given him the cash. The man eventually won relief in ITAT Chennai.",
+    "img": "https://static.toiimg.com/photo/msid-134744335,imgsize-327768.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/man-deposits-rs-85-3-lakh-received-as-cash-gifts-from-wife-relatives-income-tax-calls-it-unexplained-and-sends-notice-but-itat-chennai-accepts-gift-deeds-and-gives-relief/articleshow/134743903.cms",
+    "time": "2026-10-06T21:25:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cockpit attack left Captain Smit Machchhar with 'depressed skull fracture'",
+    "desc": "Captain Smit Machchhar faced serious injuries from his co-pilot during the flight's crisis situation. The co-pilot attacked him with an axe, resulting in a skull fracture that required emergency surgery. Doctors monitored his recovery closely and assisted him for further treatment in the UAE. The Indian embassy is providing support to Captain Machchhar and his family during this challenging time.",
+    "img": "https://static.toiimg.com/photo/msid-134749999,imgsize-126318.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/flydubai-flight-incident-cockpit-attack-left-captain-smit-machchhar-with-depressed-skull-fracture/articleshow/134750000.cms",
+    "time": "2026-10-06T21:23:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Paramount-Warner Bros complete takeover; to be called Skydance",
+    "desc": "Skydance-owned Paramount finalized its acquisition of Warner Bros. Discovery for $81 billion after a lengthy bidding process. The merger consolidates powerful studios, including HBO Max and CNN, under its umbrella. This acquisition faced significant opposition from Hollywood figures who expressed concerns about job losses and reduced audience choices. Legal challenges from multiple states were eventually settled to facilitate the merger's completion.",
+    "img": "https://static.toiimg.com/photo/msid-134750002,imgsize-49450.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/paramount-completes-takeover-of-warner-bros-to-become-one-hollywood-giant-known-as-skydance/articleshow/134749992.cms",
+    "time": "2026-10-06T21:19:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Punjab government moves Supreme Court against CBI probe into 'bribe syndicate' linked to CM Bhagwant Mann's OSD",
+    "desc": "Punjab Chief Minister Bhagwant Mann's government has approached the Supreme Court for an urgent hearing. They aim to challenge a High Court order that mandated a CBI investigation into corruption allegations. The High Court's concerns include alleged coercive actions by the Central Bureau of Investigation in the state. The Punjab government argues that the orders violate governance principles outlined in the Constitution.",
+    "img": "https://static.toiimg.com/photo/msid-134749993,imgsize-148124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/punjab-government-moves-supreme-court-against-cbi-probe-into-bribe-syndicate-linked-to-cm-bhagwant-manns-osd/articleshow/134749970.cms",
+    "time": "2026-10-06T21:14:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "star details broken promises; vows return",
+    "desc": "Cristiano Ronaldo has revealed why he left Portugal’s camp, claiming Jorge Jesus broke promises over his playing time and then contradicted their private agreement publicly. Ronaldo said the situation left him feeling unwanted and that continuing would harm the team. He apologised for leaving, accepted responsibility for his actions and insisted he remains available to compete for Portugal after his suspension.",
+    "img": "https://static.toiimg.com/photo/msid-134749924,imgsize-1534512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ronaldo-finally-reveals-the-truth-he-promised-details-jorge-jesus-betrayal-in-damning-statement-and-vows-to-return/articleshow/134749919.cms",
+    "time": "2026-10-06T21:07:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED unearths bribe racket involving top executives of 40 PSUs, banks &amp; companies",
+    "desc": "Enforcement Directorate has uncovered a bribery racket involving executives from at least 40 public sector undertakings and banks. This scheme involved laundering corporate social responsibility funds through multiple trusts operated by a fake doctor. The fake doctor has been impersonating a medical professional for nearly three decades while receiving substantial donations. Investigations revealed kickbacks were paid, with funds returned to donors after deducting commissions.",
+    "img": "https://static.toiimg.com/photo/msid-134749953,imgsize-1282302.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ed-unearths-bribe-racket-involving-top-executives-of-40-psus-banks-companies/articleshow/134749954.cms",
+    "time": "2026-10-06T21:03:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Was ready to meet 240 opposition MPs but not at their chosen venue",
+    "desc": "Election Commission declined a meeting with opposition MPs led by Rahul Gandhi at Parliament House annexe. The commission emphasized meetings should occur on its premises and through authorized representatives. Despite being offered a chance to submit a memorandum, the MPs rejected this proposal. The Commission stated it had not received prior appointment requests from the parties until late in the day.",
+    "img": "https://static.toiimg.com/photo/msid-134749928,imgsize-142358.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/election-commission-was-ready-to-meet-240-opposition-mps-but-not-at-their-chosen-venue/articleshow/134749929.cms",
+    "time": "2026-10-06T20:48:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor-Travis’ Ohio mansion privacy fence approved despite neighbors’ concerns",
+    "desc": "Taylor Swift and Travis Kelce’s privacy fence for their $5.35 million Ohio mansion has been approved despite neighbors’ concerns about Lake Erie views, landscaping and a shared sewer line. The approximately 1,190-foot fence will sit two feet inside the boundary of the couple’s 3.5-acre lakefront property and feature two gates providing access to sewer manholes.",
+    "img": "https://static.toiimg.com/photo/msid-134749897,imgsize-129973.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-and-travis-kelces-5-35-million-ohio-mansion-privacy-fence-approved-despite-neighbors-concerns-over-lake-erie-views-landscaping-and-shared-sewer-line-1190-ft-fence-planned-around-3-5-acre-property/articleshow/134749895.cms",
+    "time": "2026-10-06T20:34:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cabinet adopts resolution hailing achievements of PM Modi",
+    "desc": "Cabinet has adopted a resolution recognizing Narendra Modi's 25 years of public service as Chief Minister and Prime Minister. This resolution highlights various policies that benefited the common man, showcasing Modi's governance style. It mentions key initiatives like SWAGAT and PRAGATI that improved governance and service delivery. Additionally, it discusses welfare schemes that helped millions escape poverty and empowered women in society.",
+    "img": "https://static.toiimg.com/photo/msid-134749893,imgsize-88006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cabinet-adopts-resolution-hailing-achievements-of-pm-modi/articleshow/134749886.cms",
+    "time": "2026-10-06T20:26:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition's anti-SIR-CEC march turns into INDIA bloc-government face-off",
+    "desc": "Opposition members from the INDIA bloc, led by Rahul Gandhi, organized a protest march to the Election Commission. The police stopped their march just before reaching Akashvani Bhavan, leading to a lengthy dharna by the MPs. Despite police attempts to remove the protesters, several MPs entered the Akashvani premises and continued their demonstration. Rahul Gandhi criticized Prime Minister Modi and accused his government of treasonous actions against the country.",
+    "img": "https://static.toiimg.com/photo/msid-134749874,imgsize-157220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/oppositions-anti-sir-cec-march-turns-into-india-bloc-government-face-off/articleshow/134749875.cms",
+    "time": "2026-10-06T20:17:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBI raids CM Bhagwant Mann’s camp office, his OSD’s home in graft probe",
+    "desc": "CBI conducted raids on multiple locations including the camp office of Punjab CM Bhagwant Mann. The investigation stems from a High Court order based on allegations from the Enforcement Directorate. Various individuals are named in the FIR for their alleged involvement in corruption and manipulation of government processes. Mann criticized the timing of the raids as politically motivated amid upcoming elections.",
+    "img": "https://static.toiimg.com/photo/msid-134749837,imgsize-1233512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cbi-raids-cm-bhagwant-manns-camp-office-his-osds-home-in-graft-probe/articleshow/134749798.cms",
+    "time": "2026-10-06T20:08:30.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Arms &amp; drugs seized in cross-border smuggling case; 4 held",
     "desc": "J&K Police arrested four suspects linked to cross-border drug and arms smuggling. The police seized a Beretta pistol, magazines, live rounds, and narcotics during this operation. Initial arrests occurred when two men were stopped at a checkpoint and found with heroin and a firearm. This investigation revealed connections with handlers based in Pakistan and previous air-dropped consignments. The case has been registered under relevant laws with further investigation ongoing.",
     "img": "https://static.toiimg.com/photo/msid-134749560,imgsize-266612.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-arms-drugs-seized-in-cross-border-smuggling-case-4-held/articleshow/134749535.cms",
     "time": "2026-10-06T19:18:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ladli Behna scheme has turned out to be ‘very expensive’, says Madhya Pradesh CM",
+    "desc": "Last month, a petition was also filed before the Gwalior Bench of Madhya Pradesh High Court, seeking closure of the scheme while questioning its financial liability on the exchequer and accusing it to be an election-related freebie",
+    "img": "https://th-i.thgim.com/public/incoming/5uiifm/article71553113.ece/alternates/LANDSCAPE_1200/20261004156L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/ladli-behna-scheme-has-turned-out-to-be-very-expensive-says-madhya-pradesh-cm/article71552264.ece",
+    "time": "2026-10-06T19:06:12.000Z"
   },
   {
     "cat": "Politics",
@@ -171,24 +342,6 @@ const newsData_en = [
     "time": "2026-10-06T16:18:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Unusual request': EC explains why it could not meet Rahul Gandhi-led opposition MPs",
-    "desc": "The Election Commission of India stated that no political party formally requested a meeting as protests occurred. Opposition leaders, including Rahul Gandhi, attempted to march towards the Election Commission to submit a memorandum. The Commission emphasized the need for parties to follow prescribed procedures when seeking meetings. After an unusual request from 240 MPs to meet at Parliament House Annexe, the Commission offered an alternative.",
-    "img": "https://static.toiimg.com/photo/msid-134745259,imgsize-68848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/unusual-request-ec-explains-why-it-could-not-meet-rahul-gandhi-led-opposition-mps/articleshow/134744625.cms",
-    "time": "2026-10-06T16:11:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "FIR against BJP BLA over 'false' Form-7 applications, first such case in Telangana",
-    "desc": "An FIR has been lodged against BJP Booth Level Agent S Balachander for allegedly filing false voter deletion requests. The complaint, initiated by an election official, triggered a police inquiry. Congress leaders claim these submissions aim to unjustly disenfranchise valid voters from the electoral list. In response, Telangana’s Chief Electoral Officer has ordered District Election Officers to take action against these fraudulent applications.",
-    "img": "https://static.toiimg.com/photo/msid-134745011,imgsize-254326.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fir-against-bjp-bla-over-false-form-7-applications-first-such-case-in-telangana/articleshow/134744956.cms",
-    "time": "2026-10-06T16:01:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "BCCI secretary Saikia explains why VVS Laxman attended selection meeting",
     "desc": "VVS Laxman, the head of the BCCI Centre of Excellence, took part in an important senior selection meeting intended to enhance the dialogue between national selectors and the Centre. BCCI secretary Devajit Saikia specified that Laxman's aim was to ensure better communication about player fitness and availability, a crucial step as the team prepares for their imminent tour of New Zealand.",
@@ -241,24 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2009-gary-sinise-met-a-war-veteran-who-lost-his-limbs-after-a-roadside-bomb-in-iraq-that-meeting-launched-a-multi-million-dollar-project-to-build-smart-homes-for-wounded-soldiers/articleshow/134734117.cms",
     "time": "2026-10-06T15:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jack Dorsey’s Bitchat taken off Indian app stores over law-and-order concerns: Report",
-    "desc": "Bitchat, a decentralized messaging app by Jack Dorsey, has been removed from Indian app stores. The government cited concerns over potential law and order issues associated with the app’s functionality. Both Apple and Google complied with the Ministry of Electronics and Information Technology's request for the app's removal.",
-    "img": "https://static.toiimg.com/photo/msid-134744379,imgsize-66666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jack-dorseys-bitchat-taken-off-indian-app-stores-over-law-and-order-concerns-report/articleshow/134744238.cms",
-    "time": "2026-10-06T15:18:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "US House passes resolution honouring Indian flydubai pilot Smit Machchhar, condemns 'act of terrorism'",
-    "desc": "The US House of Representatives has honored Captain Smit Machchhar through a formal resolution, celebrating his courageous defense of the aircraft against a treacherous act by his co-pilot that placed all lives at risk. The flight safely reached Tabuk, Saudi Arabia, ensuring the passengers' safety. This resolution also acknowledged the vital contributions of off-duty pilots and crew members during the incident.",
-    "img": "https://static.toiimg.com/photo/msid-134744073,imgsize-47172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/us-house-passes-resolution-honouring-indian-flydubai-pilot-smit-machchhar-condemns-act-of-terrorism/articleshow/134744190.cms",
-    "time": "2026-10-06T15:09:39.000Z"
   },
   {
     "cat": "Business",
@@ -360,15 +495,6 @@ const newsData_en = [
     "time": "2026-10-06T13:20:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'No meeting request received from any party': EC officials as Rahul, Priyanka refuse to leave 'protest site'",
-    "desc": "Congress leaders Rahul Gandhi and Priyanka Gandhi Vadra staged a protest near the Election Commission's office, even as the EC said it had received no request from any political party seeking a meeting. Cong said they demanded a meeting to discuss alleged electoral irregularities and questioned Chief Election Commissioner Gyanesh Kumar. The police intervened and detained several opposition leaders as the protest escalated.",
-    "img": "https://static.toiimg.com/photo/msid-134741646,imgsize-130152.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-meeting-request-received-from-any-party-ec-officials-as-rahul-priyanka-refuse-to-leave-protest-site/articleshow/134741393.cms",
-    "time": "2026-10-06T13:09:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Motivational quote of the day by Brad Pitt",
     "desc": "Brad Pitt highlights the importance of embracing mistakes as stepping stones to success. He notes that everyone encounters difficulties, emphasizing the need to learn and advance. In an era characterized by stress and rapid changes, his insights drawn from personal trials remind us to see failures not as endpoints, but as vital lessons for growth.",
@@ -387,15 +513,6 @@ const newsData_en = [
     "time": "2026-10-06T13:00:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Confidence in the country, anxiety about careers",
-    "desc": "India leads in consumer confidence, yet respondents express significant worries about unemployment and education quality. Many Indians believe the country is on the right track, despite job market uncertainties. The disconnect between economic optimism and job security highlights ongoing issues affecting connected consumers.",
-    "img": "https://static.toiimg.com/photo/msid-134741001,imgsize-2089738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-india-mood-confidence-in-the-country-anxiety-about-careers/articleshow/134740782.cms",
-    "time": "2026-10-06T12:54:46.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How next-gen GST can power India’s journey to Viksit Bharat",
     "desc": "In this column, Finance Minister Nirmala Sitharaman outlines the vision behind Next-Gen GST and explains how recent reforms are aimed at reducing tax burdens, simplifying compliance and supporting economic growth. She highlights rising GST collections, stronger business participation, growing consumer demand and the role of states in shaping the reform process.",
@@ -403,15 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/how-next-gen-gst-can-power-indias-journey-to-viksit-bharat-fm-nirmala-sitharaman-writes/article71551543.ece",
     "time": "2026-10-06T12:40:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress workers scuffle with police outside CEO office",
-    "desc": "In Ranchi, Congress workers in Jharkhand rallied outside the Chief Electoral Officer's office to protest against Gyanesh Kumar. The demonstration escalated as protestors clashed with police while attempting to breach barriers and defaced the commission's nameplate. Their aim was to draw attention to the challenges citizens face with the electoral roll.",
-    "img": "https://static.toiimg.com/photo/msid-134740897,imgsize-156344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jharkhand-protest-congress-workers-scuffle-with-police-outside-ceo-office/articleshow/134740655.cms",
-    "time": "2026-10-06T12:39:52.000Z"
   },
   {
     "cat": "Sports",
@@ -448,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/peaky-blinders-star-joe-cole-admits-driving-4mph-over-the-speed-limit-in-london/articleshow/134740011.cms",
     "time": "2026-10-06T12:12:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ravi Teja’s next with Vivek Athreya reportedly titled ‘Tulaabhara’",
-    "desc": "After the success of 'Irumudi', Ravi Teja is gearing up for an exciting new project with director Vivek Athreya, famed for 'Saripodhaa Sanivaaram'. Tentatively titled 'Tulaabhara', this upcoming film is set against a horror backdrop. While Anaswara Rajan and Priyanka Mohan are rumored to be part of the cast, that remains unverified. Filming will kick off soon after the film's official launch, as production preparations get underway.",
-    "img": "https://static.toiimg.com/photo/msid-134740286,imgsize-91426.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/irumudi-star-ravi-tejas-next-film-with-director-vivek-athreya-reportedly-titled-tulaabhara/articleshow/134740071.cms",
-    "time": "2026-10-06T12:11:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -504,15 +603,6 @@ const newsData_en = [
     "time": "2026-10-06T11:30:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "India, Qatar among seven bidders as race to host 2036 Olympics takes shape",
-    "desc": "India has been confirmed as a bidder for the 2036 Olympics along with six other nations. The International Olympic Committee is set to select the host in a vote scheduled for 2029. India's proposal centers around Ahmedabad, which aims to leverage its experience hosting events like the Commonwealth Games. Other bidders include Qatar, South Korea, and Germany among others striving for the prestigious event.",
-    "img": "https://static.toiimg.com/photo/msid-134738990,imgsize-158089.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/india-qatar-among-seven-bidders-as-race-to-host-2036-olympics-takes-shape/articleshow/134738663.cms",
-    "time": "2026-10-06T11:27:44.000Z"
-  },
-  {
     "cat": "World",
     "title": "Bulgarian Prime Minister says two commercial vessels hit by drones in economic zone",
     "desc": "One of the ships, the Alfa Watan, which flew the flag of Togo, suffered critical structural damage and sank on the spot. There was no immediate information about the fate of the crew, says Prime Minister",
@@ -523,39 +613,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "In 2015, Sharon Osbourne and late husband Ozzy bought this $11.85 million L.A. mansion",
-    "desc": "Sharon Osbourne has slashed the asking price of her Los Angeles property to $16 million as she strives to sell. Acquired in 2015 for $11.85 million, the mansion was transformed through numerous renovations. Now, following Ozzy Osbourne's death, the estate serves as a poignant reminder of their life in California, boasting luxurious features like a spacious swimming pool and a state-of-the-art screening room.",
-    "img": "https://static.toiimg.com/photo/msid-134735026,imgsize-138050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2015-sharon-osbourne-and-late-husband-ozzy-bought-this-11-85-million-l-a-mansion-now-listed-for-16-million-after-a-1-million-price-cut/articleshow/134734877.cms",
-    "time": "2026-10-06T10:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Aaradhya took Abhishek, Aishwarya to Ariana Grande’s concert: 'I didn’t even know one song but'",
     "desc": "Abhishek Bachchan enjoyed a summer outing with his daughter, Aaradhya, attending an Ariana Grande concert. Despite being less familiar with Grande's discography, he admired her impressive vocal skills. He appreciates how Aaradhya introduces him to modern pop talents like Taylor Swift and Olivia Rodrigo, even as he continues to revel in the melodies of classic Hindi film composers. Upcoming, he will star alongside Shah Rukh Khan in 'King.'",
     "img": "https://static.toiimg.com/photo/msid-134732052,imgsize-345680.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aaradhya-bachchan-took-abhishek-aishwarya-to-ariana-grandes-concert-says-guru-actor-i-didnt-even-know-one-song-but-that-woman-could-sing-unbelievable/articleshow/134731234.cms",
     "time": "2026-10-06T09:16:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lovlina’s long road to the top of the podium",
-    "desc": "Lovlina Borgohain clinched the 2026 Asian Games gold in boxing, upgrading her 2022 silver and becoming only the second Indian woman to win the title. Her journey, marked by Olympic success, setbacks, and resilience, culminated in an emotional win in Nagoya. The achievement also secured her a spot at the World Championships, underscoring her enduring significance in Indian boxing.",
-    "img": "https://static.toiimg.com/photo/msid-134729892,imgsize-118525.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/from-tokyo-to-nagoya-lovlina-borgohains-long-road-to-the-top-of-the-podium-exclusive-interview/articleshow/134729692.cms",
-    "time": "2026-10-06T08:44:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Virat mimics people really well, maybe Anushka Sharma can give him some acting tips'",
-    "desc": "Rahul Dravid discussed Virat Kohli's potential acting skills and mimicking ability during a recent conversation. He noted Kohli's experience in advertising would serve him well if he pursued acting. Dravid humorously referenced unsuccessful attempts of other cricketers in films, emphasizing his reluctance to act himself. Casting director Mukesh Chhabra echoed Dravid's sentiments regarding Kohli's talent but advised him to stay in cricket.",
-    "img": "https://static.toiimg.com/photo/msid-134730115,imgsize-258988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-mimics-people-really-well-maybe-anushka-sharma-can-give-him-some-acting-tips-says-rahul-dravid-he-is-pretty-much-a-pro-at-it/articleshow/134729744.cms",
-    "time": "2026-10-06T08:42:10.000Z"
   },
   {
     "cat": "World",
@@ -720,15 +783,6 @@ const newsData_en = [
     "time": "2026-10-06T01:10:32.000Z"
   },
   {
-    "cat": "Business",
-    "title": "RBI swap scheme boosts private banks' Q2 business numbers",
-    "desc": "Private banks witnessed considerable credit and deposit growth in the second quarter of FY27. This growth was driven by the RBI's concessional dollar-rupee swap facility for FCNR(B) deposits. Major banks like Axis Bank, Kotak, and HDFC Bank reported varying growth figures, showing the impact of international branches. Although headline numbers appeared strong, underlying growth was more moderate after adjustments.",
-    "img": "https://static.toiimg.com/photo/msid-134720422,imgsize-61694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-swap-scheme-boosts-private-banks-q2-business-numbers/articleshow/134720409.cms",
-    "time": "2026-10-06T01:03:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Messi set for emotional Argentina farewell in Buenos Aires friendly vs Benin",
     "desc": "The 39-year-old superstar will play his final match for Argentina on Tuesday (October 6, 2026) — a friendly against Benin at Estadio Monumental in Buenos Aires — marking a pivotal moment in the country's football",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/the-afterglow-of-the-asiad-gold/article71544742.ece",
     "time": "2026-10-05T08:09:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How Tagore’s songs were ahead of their time in form and feeling",
-    "desc": "The Nobel-laureate’s songs, popularly referred to as Rabindra Sangeet, are dynamic texts open to reinterpretation, allowing each generation to find new meaning in themes of freedom, love, and humanity — revisiting the Tagore’s musical oeuvre on his 165th birth anniversary",
-    "img": "https://th-i.thgim.com/public/news/national/pwmc9a/article70981575.ece/alternates/LANDSCAPE_1200/tagore%20FR.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/celebrating-tagore-165th-rabindrasangeet-and-his-legacy/article70969213.ece",
-    "time": "2026-10-05T08:06:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's medal tally",
-    "desc": "India’s athletes made their mark at the 2026 Asian Games in Aichi-Nagoya, Japan, winning 85 medals across a range of disciplines, with standout performances in athletics, shooting and the newly introduced mixed martial arts events. While India fell short of its record-breaking 106-medal tally at the 2023 Asian Games, its contingent of 503 athletes, including 269 men and 234 women, put up a strong show across 36 sporting disciplines during the September 19–October 4 Games.",
-    "img": "https://th-i.thgim.com/public/incoming/1p69ep/article71543700.ece/alternates/LANDSCAPE_1200/A11_RVM_1928.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/infographics/2026-10-05/asian-games-2026-india-medal-winners-full-list/index.html",
-    "time": "2026-10-05T06:09:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. Air Force removes all bombers from British air base targeted by a suspected terror attack",
-    "desc": "The U.S. Air Force has brought home its bombers stationed at a U.S.-run military air base in England used to strike Iran following an investigation into a planned terror attack at the RAF Fairford base",
-    "img": "https://th-i.thgim.com/public/incoming/kfm4e8/article71545019.ece/alternates/LANDSCAPE_1200/2026-09-29T121509Z_481150564_RC2ZSNAGWLWC_RTRMADP_3_BRITAIN-USA-FAIRFORD.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack/article71544899.ece",
-    "time": "2026-10-04T22:30:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "A look back at one of Indian cinema’s iconic duos",
-    "desc": "From a film without dialogue to a dwarf protagonist and four characters played by a single actor — with an appetite for the unconventional and an instinct for experimentation, Singeetham Srinivasa Rao and Kamal Haasan formed a rare creative partnership that repeatedly turned the impossible into enduring cinema",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/98wd3x/article71543641.ece/alternates/LANDSCAPE_1200/Singeetham%20Kamal.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/singeetham-srinivasa-rao-kamal-haasan-raaja-paarvai-apoorva-sagodharargal-pushpak-michael-madana-kama-rajan/article71543551.ece",
-    "time": "2026-10-04T12:47:34.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Amazon v. Perplexity: who’s in control when an AI agent acts for you?",
-    "desc": "In India, where e-commerce, automated consumer services, and AI adoption are all expanding rapidly, the legal dispute between Amazon.com and Perplexity AI offers a useful, if also imperfect, template to think about platform governance and intermediary liability",
-    "img": "https://th-i.thgim.com/public/sci-tech/science/be9gar/article70061449.ece/alternates/LANDSCAPE_1200/igor-omilaev-FHgWFzDDAOs-unsplash.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/amazon-v-perplexity-whos-in-control-when-an-ai-agent-acts-for-you/article71523202.ece",
-    "time": "2026-10-04T10:31:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kamal Haasan, S.S. Rajamouli, Jr NTR and more mourn legendary filmmaker",
-    "desc": "Tributes have poured in from across Indian cinema following the death of Singeetham Srinivasa Rao, with Kamal Haasan, S.S. Rajamouli, Jr NTR, Mahesh Babu and several other major names remembering his extraordinary contribution to filmmaking",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/ucwxoq/article71543160.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/singeetham-srinivasa-rao-death-kamal-haasan-ss-rajamouli-jr-ntr-and-more-mourn-legendary-filmmaker/article71543106.ece",
-    "time": "2026-10-04T10:23:42.000Z"
   }
 ];
