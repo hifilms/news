@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kieron Pollard has joined Joburg Super Kings in SA20 auction; MI Cape Town sign Trent Boult, Shimron Hetmyer",
+    "desc": "Kieron Pollard’s association with the MI family began in 2010. He has served the franchise for over a decade and is currently the batting coach of Mumbai Indians in the Indian Premier League. However, he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kieron-pollard-has-joined-joburg-super-kings-in-sa20-auction-mi-cape-town-sign-trent-boult-shimron-hetmyer-2026-10-07-1056359",
+    "time": "2026-10-07T16:13:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "9 Indian wrestlers denied US visas for World Wrestling Championship in Las Vegas, here's why",
+    "desc": "India’s participation at the U23 World Wrestling Championships in Las Vegas has been thrown into uncertainty after nine wrestlers were refused US visas during appointments at the American Embassy in New Delhi on Wednesday. The affected...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/9-indian-wrestlers-denied-us-visas-for-world-wrestling-championship-in-las-vegas-here-s-why-2026-10-07-1056355",
+    "time": "2026-10-07T15:17:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kieron Pollard leaves MI for Joburg, Trent Boult, Hetmyer joins Cape Town",
+    "desc": "The SA20 Season 5 auction is set to begin with four franchises still to fill 19 squad positions after the salary cap was raised to USD 2.54 million. Joburg Super Kings enter the auction with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sa20-auction-live-updates-list-of-players-sold-unsold-purse-remaining-updated-squads-kieron-pollard-faf-du-plessis-trent-boult-sunrisers-mi-1056349",
+    "time": "2026-10-07T13:57:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi says goodbye to Argentina in tears, while Cristiano Ronaldo stages bizzare meltdown at 41",
+    "desc": "There is a fine line between relentless competitive fire and absurd self-parody, and Cristiano Ronaldo is walking on it precariously. At 41 years old, when sporting legends usually cultivate grace, reflection, or at least a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-says-goodbye-to-argentina-in-tears-while-cristiano-ronaldo-stages-absurd-meltdown-at-41-2026-10-07-1056331",
+    "time": "2026-10-07T11:53:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer climbs to seven in men's T20I ranking, KL Rahul enters top 10 in ODIs",
+    "desc": "Shreyas Iyer made a major jump in the latest ICC men's T20I batting rankings after his unbeaten century against West Indies in Lucknow. He jumped 18 places to a career-high seventh position. His 43-ball 102...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-climbs-to-seven-in-men-s-t20i-ranking-kl-rahul-enters-top-10-in-odis-2026-10-07-1056325",
+    "time": "2026-10-07T11:26:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sourav Ganguly denies conflict of interest after named Delhi Capitals coach amid serving as CAB president",
+    "desc": "Sourav Ganguly has rejected questions over a potential conflict of interest linked to his appointment as Delhi Capitals head coach. He said that an order issued by the BCCI ombudsman addresses his position while he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sourav-ganguly-denies-conflict-of-interest-after-being-named-delhi-capitals-coach-amid-serving-as-cab-president-2026-10-07-1056316",
+    "time": "2026-10-07T10:30:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Harmanpreet Kaur, Smriti Mandhana 'weren't seeing eye to eye' over captaincy: Report",
     "desc": "Smriti Mandhana's elevation as captain of the Indian women's cricket team was the expected next step after Harmanpreet Kaur stepped down from the role. But according to a PTI report, the change also comes against...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/india-show-potential-with-anirudh-thapa-s-goal-crumble-in-second-half-as-uruguay-win-6-1-in-kolkata-2026-10-06-1056264",
     "time": "2026-10-06T18:07:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer smacks 42-ball century, India thrash West Indies by eight wickets to win first T20I",
-    "desc": "India defeated West Indies by eight wickets in the first T20I at the Ekana Cricket Stadium in Lucknow. Captain Shreyas Iyer played a phenomenal knock, smacking his maiden T20I century as India dominated the proceedings...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-smacks-42-ball-century-india-thrash-west-indies-by-eight-wickets-to-win-first-t20i-2026-10-06-1056257",
-    "time": "2026-10-06T16:40:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana announced as India’s new three-format captain, new vice-captains revealed too",
-    "desc": "The Board of Control for Cricket in India (BCCI) has announced Smriti Mandhana as the new captain of the women’s team. After the announcement, she thanked the BCCI officials, selectors, teammates and also her former...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-smriti-mandhana-as-india-s-new-all-format-captain-after-harmanpreet-kaur-steps-down-2026-10-06-1056252",
-    "time": "2026-10-06T15:44:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bhuvneshwar Kumar returns, India announce 16-member squad for five-match T20I series against New Zealand",
-    "desc": "Bhuvneshwar Kumar is back in India’s T20I setup after almost four years. The experienced seamer is included in the squad for the five-match series against New Zealand, slated to begin on October 22. The 36-year-old...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bhuvneshwar-kumar-returns-india-announce-16-member-squad-for-five-match-t20i-series-against-new-zealand-2026-10-06-1056250",
-    "time": "2026-10-06T15:30:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is match between India and Uruguay paused before half-time? Players walk back to dressing room at 1-1",
-    "desc": "The high-voltage FIFA friendly between India and Uruguay has been paused after the hydration break at the Salt Lake Stadium in Kolkata. There was some confusion between the fans when the players didn’t return to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-is-match-between-india-and-uruguay-paused-before-half-time-players-walk-back-to-dressing-room-at-1-1-2026-10-06-1056249",
-    "time": "2026-10-06T14:42:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Vaibhav Sooryavanshi not playing India vs West Indies 1st T20I in Lucknow?",
-    "desc": "India have once again dropped Vaibhav Sooryavanshi from the playing XI in the first T20I against West Indies at the Ekana Cricket Stadium in Lucknow. The 15-year-old was adjudged the Player of the Series against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-vaibhav-sooryavanshi-not-playing-india-vs-west-indies-1st-t20i-in-lucknow-2026-10-06-1056238",
-    "time": "2026-10-06T13:13:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer hits maiden T20I century as India beat West Indies by 8 wickets",
-    "desc": "After winning the gold medal in the Asian Games 2026, the Indian team is now set to take on West Indies in a five-match T20I series, starting today. Notably, the gold-medal triumph came only three...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-1st-t20i-final-live-score-india-vs-west-indies-latest-match-updates-scorecards-playing-xis-reactions-1056233",
-    "time": "2026-10-06T12:52:41.000Z"
   }
 ];
