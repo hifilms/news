@@ -1,92 +1,92 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India vs Pakistan U19 Asia Cup clash set on Diwali day; check full schedule",
+    "desc": "India and Pakistan will meet again in the U19 Asia Cup on November 8 after the Asian Cricket Council confirmed the schedule for the 2026 edition of the continental tournament. The competition will be staged...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-pakistan-u19-asia-cup-clash-set-on-diwali-day-check-full-schedule-2026-10-08-1056484",
+    "time": "2026-10-08T18:14:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arunachal Pradesh's Ranji opener in jeopardy over internal dispute in state association",
+    "desc": "Arunachal Pradesh’s participation in the Ranji Trophy opener against Ahmedabad is under a cloud of uncertainty. The match is scheduled to begin on October 11 and ahead of that, there are several problems that have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/arunachal-pradesh-s-ranji-opener-in-jeopardy-over-internal-dispute-in-state-association-2026-10-08-1056482",
+    "time": "2026-10-08T17:55:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Talent is talent': Graeme Smith backs SA20's youth-first approach after Jason Rowles' record bid",
+    "desc": "SA20 commissioner Graeme Smith has underlined the league’s commitment to backing young talent while insisting that age will not determine which players deserve opportunities. His observation comes following the SA20 season 5 auction, where 18-year-old...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/talent-is-talent-graeme-smith-backs-sa20-s-youth-first-approach-after-jason-rowles-record-bid-2026-10-08-1056477",
+    "time": "2026-10-08T16:37:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohun Bagan lift IFA Shield again, beating East Bengal 1-0 in cagey final at Salt Lake Stadium",
+    "desc": "Samir Zeljkovic’s only goal in the first half helped Mohun Bagan beat arch-rivals East Bengal 1-0 in the IFA Shield final at Salt Lake Stadium. It was a cagey affair throughout 90 minutes, but Bagan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/mohun-bagan-lift-ifa-shield-again-beating-east-bengal-1-0-in-cagey-final-at-salt-lake-stadium-2026-10-08-1056472",
+    "time": "2026-10-08T15:37:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India coach reflects on Bhuvneshwar Kumar's return to T20I squad, says 'we need that experience'",
+    "desc": "After back-to-back stellar seasons with Royal Challengers Bengaluru in the Indian Premier League, Bhuvneshwar Kumar managed to find a spot in India’s T20I squad for the upcoming away series against New Zealand. His experience and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-coach-reflects-on-bhuvneshwar-kumar-s-return-to-t20i-squad-says-we-need-that-experience-2026-10-08-1056464",
+    "time": "2026-10-08T13:52:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yashasvi Jaiswal practices wicketkeeping before Mumbai's Ranji Trophy opener vs Chandigarh",
+    "desc": "India opener Yashasvi Jaiswal is set to feature in Mumbai’s Ranji Trophy opener against Chandigarh, set to begin on Sunday, October 11 and will be played at the Wankhede Stadium. It will be a perfect...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-practices-wicketkeeping-before-mumbai-s-ranji-trophy-opener-vs-chandigarh-2026-10-08-1056455",
+    "time": "2026-10-08T12:34:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka announce new Test captain after Dhananjaya de Silva steps down",
+    "desc": "Sri Lanka Cricket Board has appointed Kusal Mendis as the new Test captain after Dhananjaya de Silva offered his resignation. The selection committee held a meeting at SLC headquarters and following which Kusal’s appointment was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-announce-new-test-captain-after-dhananjaya-de-silva-steps-down-2026-10-08-1056443",
+    "time": "2026-10-08T11:05:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa announce playing XI for 1st Test vs Australia; Nortje returns but Kagiso Rabada misses out",
+    "desc": "South Africa have announced their playing XI for the blockbuster first Test against Australia, starting October 9 at Kingsmead in Durban. Ace pacer Anrich Nortje will be making his long-awaited return in the match, having...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-announce-playing-xi-for-1st-test-vs-australia-nortje-returns-but-kagiso-rabada-misses-out-2026-10-08-1056441",
+    "time": "2026-10-08T10:52:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MI reacts to losing Kieron Pollard to Joburg Super Kings; Albie Morkel welcomes him, says 'no-brainer' deal",
+    "desc": "In a blockbuster move, Joburg Super Kings signed legendary cricketer Kieron Pollard for R1.5 million in the SA20 2027 auction. Joburg were quick to bid for him and the solitary bid was enough for them...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-reacts-to-losing-kieron-pollard-to-joburg-super-kings-albie-morkel-welcomes-him-says-no-brainer-deal-2026-10-08-1056431",
+    "time": "2026-10-08T10:02:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Dhananjaya de Silva steps down as Sri Lanka's Test captain ahead of Pakistan series",
     "desc": "In a major development, Sri Lanka’s Test captain, Dhananjaya de Silva, has officially stepped down as captain of the side. It is interesting to note that De Silva made the decision of his own accord,...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dhananjaya-de-silva-steps-down-as-sri-lanka-s-test-captain-ahead-of-pakistan-series-2026-10-08-1056428",
     "time": "2026-10-08T09:31:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli, Sachin Tendulkar mourn Nana Patekar, post emotional note over his sudden passing",
-    "desc": "The world has been hit with a shockwave after the news of veteran actor Nana Patekar’s passing came out. It is worth noting that at the age of 75, Nana Patekar was found unconscious at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-sachin-tendulkar-mourn-nana-patekar-post-emotional-note-over-his-sudden-passing-2026-10-08-1056419",
-    "time": "2026-10-08T08:19:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Kagiso Rabada play for South Africa against Australia in Durban? Simon Harmer provides update",
-    "desc": "The stage is set for the upcoming three-game Test series between South Africa and Australia. The two sides will meet in the first test of the series at Kingsmead in Durban from October 9th. Being...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-kagiso-rabada-play-for-south-africa-against-australia-in-durban-simon-harmer-provides-update-2026-10-08-1056411",
-    "time": "2026-10-08T07:32:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo posts heartfelt farewell message for Lionel Messi after latter's international retirement",
-    "desc": "Legendary Argentine footballer Lionel Messi has retired from international football. One of the greatest players to grace the pitch, Messi recently played his farewell game for Argentina as the side took on Benin. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-posts-heartfelt-farewell-message-for-lionel-messi-after-latter-s-international-retiremen-2026-10-08-1056403",
-    "time": "2026-10-08T06:19:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings' coaching staff to undergo major changes? Haddin-Hopes resign ahead of IPL 2027",
-    "desc": "The IPL (Indian Premier League) 2027 season is on the horizon, and the various franchises are hard at work as they begin the process of finalising their squads ahead of the new season of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-coaching-staff-to-undergo-major-changes-haddin-hopes-resign-ahead-of-ipl-2027-report-2026-10-08-1056397",
-    "time": "2026-10-08T05:26:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Afghanistan head coach hails Mohammad Nabi, reflects on his importance in the squad",
-    "desc": "Afghanistan is gearing up for a stacked schedule ahead of their upcoming clashes. After a one-off Test match against Bangladesh on October 9th, Afghanistan will also be participating in a tri-series against Zimbabwe and Bangladesh...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-head-coach-hails-mohammad-nabi-reflects-on-his-importance-in-the-squad-2026-10-08-1056388",
-    "time": "2026-10-08T04:09:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'This is an advantage': Former India cricketer weighs in on Naman Dhir ahead of India's second T20I against WI",
-    "desc": "The stage is set for the Indian team to continue their ongoing T20I series against the West Indies. The two sides are slated to take on each other in the second T20I of the series...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/this-is-an-advantage-former-india-cricketer-weighs-in-on-naman-dhir-ahead-of-india-s-second-t20i-against-wi-2026-10-08-1056375",
-    "time": "2026-10-08T02:26:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand announce BJ Watling as new Test team batting coach",
-    "desc": "NZC (New Zealand Cricket) recently came forward and announced the appointment of former cricketer BJ Watling as the Test side’s new batting coach. The former wicketkeeper-batter will be replacing Luke Ronchi in the role. His...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-announce-bj-watling-as-new-test-team-batting-coach-2026-10-08-1056371",
-    "time": "2026-10-08T01:36:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kieron Pollard has joined Joburg Super Kings in SA20 auction; MI Cape Town sign Trent Boult, Shimron Hetmyer",
-    "desc": "Kieron Pollard’s association with the MI family began in 2010. He has served the franchise for over a decade and is currently the batting coach of Mumbai Indians in the Indian Premier League. However, he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kieron-pollard-has-joined-joburg-super-kings-in-sa20-auction-mi-cape-town-sign-trent-boult-shimron-hetmyer-2026-10-07-1056359",
-    "time": "2026-10-07T16:13:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "9 Indian wrestlers denied US visas for World Wrestling Championship in Las Vegas, here's why",
-    "desc": "India’s participation at the U23 World Wrestling Championships in Las Vegas has been thrown into uncertainty after nine wrestlers were refused US visas during appointments at the American Embassy in New Delhi on Wednesday. The affected...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/9-indian-wrestlers-denied-us-visas-for-world-wrestling-championship-in-las-vegas-here-s-why-2026-10-07-1056355",
-    "time": "2026-10-07T15:17:27.000Z"
   }
 ];

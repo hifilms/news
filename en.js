@@ -1,12 +1,453 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "Dipke, Dhruv Rathee join Bengaluru's ‘People’s Tribunal’ against SIR; Fresh FIRs against Rahul Gandhi, Priyanka Gandhi as protests intensify",
-    "desc": "CJP, AISA and other student organisations called for a united mobilisation against Chief Election Commissioner Gyanesh Kumar ahead of their October 10 protest, saying that the agitation will continue until the electoral system is overhauled",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "cat": "Entertainment",
+    "title": "Nana Patekar cremated with state honours in Pune, thousands of fans gather to bid farewell",
+    "desc": "The Indian film industry mourns the loss of Nana Patekar, who succumbed to cardiac arrest as confirmed by his son. The actor's passing, attributed to natural causes, prompted the Maharashtra government to orchestrate a state funeral fitting his legacy in cinema. Tributes poured in from fans and fellow actors in Pune, with many sharing their fond memories of the beloved artist on social media.",
+    "img": "https://static.toiimg.com/photo/msid-134797328,imgsize-202170.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-laid-to-rest-with-full-state-honours-in-pune-eknath-shinde-offers-floral-tribute-jackie-shroff-and-thousands-of-fans-gather-to-bid-farewell-to-the-legendary-actor/articleshow/134795074.cms",
+    "time": "2026-10-08T18:02:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Kurdish PKK group says Turkish state not doing enough to pursue peace process",
+    "desc": "“We have withdrawn all our armed forces, both within and outside of Turkiye, that could be considered near the border,” the PKK said, adding that the move was taken to prevent the government “making any excuses or justifying its inadequate approach to the process”",
+    "img": "https://th-i.thgim.com/public/incoming/mmub97/article71561321.ece/alternates/LANDSCAPE_1200/Turkey_Kurds_92939.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-india-bloc-congress-jantar-mantar-rahul-priyanka-gandhi-detention-cjp-protest-live-updates/article71558244.ece",
-    "time": "2026-10-08T09:50:19.000Z"
+    "url": "https://www.thehindu.com/news/international/kurdish-pkk-group-says-turkish-state-not-doing-enough-to-pursue-peace-process/article71561271.ece",
+    "time": "2026-10-08T17:38:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata Banerjee likely to join CJP protests on October 10",
+    "desc": "Former West Bengal Chief Minister says she intends to approach the President on the issue of vote theft and Special Intensive Revision; she is also likely to join the march of India bloc MPs to the Rashtrapati Bhawan on Friday",
+    "img": "https://th-i.thgim.com/public/incoming/qagufr/article71561315.ece/alternates/LANDSCAPE_1200/MAMATA%20BANERJEE%20PC%202.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/kolkata/mamata-banerjee-likely-to-join-cjp-protests-on-october-10/article71560762.ece",
+    "time": "2026-10-08T17:36:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sindhu marches on, Srikanth, Prannoy fall as Arctic Open delivers contrasting fortunes",
+    "desc": "PV Sindhu impressively advanced to the quarter-finals of the Arctic Open 2026, overcoming Riko Gunji with dominant straight-game victories of 21-15, 21-15. Next, she will take on the top-seeded Ratchanok Intanon in what promises to be a thrilling match. In contrasting news, both Kidambi Srikanth and HS Prannoy were eliminated in the first round, with Srikanth unable to maintain his lead and Prannoy facing a tough challenge from Anders Antonsen.",
+    "img": "https://static.toiimg.com/photo/msid-134796367,imgsize-123970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/pv-sindhu-marches-on-srikanth-and-prannoy-fall-as-arctic-open-delivers-contrasting-fortunes-for-india/articleshow/134796295.cms",
+    "time": "2026-10-08T17:10:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu may encounter El Niño differently from rest of India",
+    "desc": "In strong El Niño years, pressure differences between the Bay of Bengal and the Arabian Sea can drive moist air into coastal Tamil Nadu; when an El Niño coincides with warmer waters in the Bay, evaporation increases, and cyclonic circulations in November-December release this stored heat as intense, localised rainfall",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-miscellaneous/tp-others/17ms0r/article68900676.ece/alternates/LANDSCAPE_1200/InFocus_-INCOISG6PDKC998.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/tamil-nadu-may-encounter-el-nino-differently-from-rest-of-india/article71537825.ece",
+    "time": "2026-10-08T17:09:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "GST Council unveils reforms to ease refund, registration and reduce litigation",
+    "desc": "Finance Minister Nirmala Sitharaman says 99% of GST rate and process issues had been addressed but the “door is not closed to further reforms”; all the changes are expected to come into effect from April 1, 2027",
+    "img": "https://th-i.thgim.com/public/incoming/jer212/article71559908.ece/alternates/LANDSCAPE_1200/20261008351L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/gst-council-scraps-arrest-powers-of-gst-officers-ups-prosecution-threshold-to-5-crore/article71559868.ece",
+    "time": "2026-10-08T17:01:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Contest UP polls from Ayodhya': Akhilesh Yadav dares CM Yogi Adityanath",
+    "desc": "Akhilesh Yadav has urged Chief Minister Yogi Adityanath to contest the upcoming assembly elections from Ayodhya. He indicated plans to visit the Ram temple alongside SP leaders after visiting Kedareshwar Dham in Etawah. Yadav also noted that the BJP has been conducting surveys for the Ayodhya seat, claiming they are struggling to find a candidate to challenge him. This statement responds to BJP allegations about his temple visitations.",
+    "img": "https://static.toiimg.com/photo/msid-134796144,imgsize-1455160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/contest-up-polls-from-ayodhya-akhilesh-yadav-dares-cm-yogi-adityanath/articleshow/134796086.cms",
+    "time": "2026-10-08T16:54:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "a sacrifice that defied the British Raj",
+    "desc": "A young man, who fell victim to the police brutality on January 10, 1932, went on to become a symbol of those who laid down their lives for the sake of political freedom of their fellow countrymen.",
+    "img": "https://th-i.thgim.com/public/incoming/66tw4q/article71554237.ece/alternates/LANDSCAPE_1200/9869_7_10_2026_9_7_23_2__DSC7765.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tiruppur-kumaran-a-sacrifice-that-defied-the-british-raj/article71550738.ece",
+    "time": "2026-10-08T16:47:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Woman claims 2.5 acres was ancestral after stepmother sold it; why HC rejected plea",
+    "desc": "The Madras High Court held that the property was not ancestral but self-acquired. As a result, under Hindu law, the man and his mother were legally entitled to execute the gift settlement deed in favour of the man’s second wife, who could subsequently sell the property.",
+    "img": "https://static.toiimg.com/photo/msid-134794711,imgsize-401095.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/grandmother-and-her-son-gifted-2-5-acre-land-to-his-second-wife-who-sold-it-his-daughter-from-first-marriage-claimed-it-was-ancestral-but-madras-hc-rejects-her-plea/articleshow/134794319.cms",
+    "time": "2026-10-08T16:41:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Statewide special enrolment drive  for electoral roll revision in Keralam from October 15",
+    "desc": "From October 15 to October 31, form distribution will be arranged and digital help desks set up at village offices. Applicants only need to submit Form 6 to add their names to the voters’ list",
+    "img": "https://th-i.thgim.com/public/incoming/fh93at/article71561044.ece/alternates/LANDSCAPE_1200/26_BM_Voter-mapGK6FP503Q.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/state-wide-special-enrolment-drive-for-electoral-roll-revision-in-keralam-from-october-15/article71560646.ece",
+    "time": "2026-10-08T16:12:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Maharashtra CM Dev Fadnavis, Eknath Shinde, Anees Bazmee pay last respects",
+    "desc": "Nana Patekar, the iconic 75-year-old actor, has sadly died from a cardiac arrest at his residence in Goa. His remains were transported to Donje in Pune, where a state funeral has been arranged to honor his lasting legacy, as announced by Maharashtra’s Cultural Affairs Minister. The scene is expected to attract an influx of filmmakers and politicians who wish to pay their final tributes to the esteemed actor.",
+    "img": "https://static.toiimg.com/photo/msid-134794849,imgsize-265775.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekars-mortal-remains-brought-to-pune-for-state-funeral-maharashtra-cm-devendra-fadnavis-pays-last-respects-eknath-shinde-and-others-arrive/articleshow/134794613.cms",
+    "time": "2026-10-08T15:57:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zeljkovic goal seals 1-0 win for Mohun Bagan over East Bengal",
+    "desc": "The victory gave Mohun Bagan their 22nd IFA Shield title and also completed a rare double, with the club winning both the Calcutta Football League (CFL) and IFA Shield in the same season for the first time in nearly three decades.",
+    "img": "https://static.toiimg.com/photo/msid-134794829,imgsize-141049.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ifa-shield-final-2026-zeljkovic-goal-seals-1-0-win-for-mohun-bagan-over-east-bengal/articleshow/134794738.cms",
+    "time": "2026-10-08T15:55:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PSL to clash with IPL again as PCB locks dates; BCCI also eyes early-March start",
+    "desc": "The Pakistan Super League (PSL) 12 is scheduled from March 18 to May 2, 2027, aligning with IPL 2027. The Pakistan Cricket Board has confirmed this timeline while maintaining the eight-team format. Notably, last season saw overseas players opted out in favor of IPL contracts, impacting the league's dynamics. In a fresh approach, this season will implement a player auction, enhancing fan engagement and building on last year’s success.",
+    "img": "https://static.toiimg.com/photo/msid-134794371,imgsize-180990.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-2027-to-clash-with-ipl-again-as-pcb-locks-dates-bcci-also-eyes-early-march-start/articleshow/134794371.cms",
+    "time": "2026-10-08T15:55:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengal, Tamil Nadu, Assam and Puducherry brace for closely watched verdicts",
+    "desc": "The bypolls were held on Tuesday, October 6, in Nandigram and Rejinagar in West Bengal, Madurantakam and Dharapuram in Tamil Nadu, Nagaon in Assam and Thattanchavady in Puducherry. Counting of votes in all six constituencies is scheduled for Friday, with the process beginning at 8 am. The results across these six contests, by the end of the day, would provide more than individual winners and losers.",
+    "img": "https://static.toiimg.com/photo/msid-134794790,imgsize-231846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bengal-tamil-nadu-assam-and-puducherry-brace-for-closely-watched-bypoll-verdicts/articleshow/134793524.cms",
+    "time": "2026-10-08T15:51:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Welcome to India': Rahul Gandhi reacts to Musk's remarks; Starlink boss says 'thank you'",
+    "desc": "Rahul Gandhi has weighed in on Elon Musk's comments about the hold-up of Starlink's commercial operations in India. Musk voiced his exasperation over regulatory obstacles, suggesting that oligarchs sway the industry. The government swiftly countered, emphasising the fairness of its regulations among satellite operators and underlining the importance of security compliance for safeguarding users and data alike.",
+    "img": "https://static.toiimg.com/photo/msid-134794511,imgsize-31048.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/welcome-to-india-elon-rahul-gandhi-responds-to-musks-starlink-remarks/articleshow/134794474.cms",
+    "time": "2026-10-08T15:31:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ranabaali' trailer out: Vijay and Rashmika's period drama tells story of British-made famine",
+    "desc": "The highly anticipated trailer for 'Ranabaali', starring Vijay Deverakonda and Rashmika Mandanna, made its debut on Thursday evening. Under the direction of Rahul Sankrityan, the film portrays a village grappling with famine during the British colonial era. The protagonist, Ranabaali, embarks on a journey to safeguard his community. Set to premiere on October 16 in various languages, it will go head-to-head with 'Jailer 2'. Music is crafted by Ajay-Atul.",
+    "img": "https://static.toiimg.com/photo/msid-134794497,imgsize-512907.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ranabaali-trailer-out-vijay-deverakonda-and-rashmika-mandannas-period-drama-tells-the-story-of-a-british-made-famine-makers-say-a-story-that-deserves-to-be-told-right/articleshow/134794347.cms",
+    "time": "2026-10-08T15:31:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Unite to fight' proposes Uddhav's Sena; will AAP, DMK relent?",
+    "desc": "Uddhav Thackeray's Shiv Sena has called on AAP and DMK to join opposition forces against CEC Gyanesh Kumar over irregularities in SIR. Despite AAP's separation from the INDIA bloc and DMK's mixed reactions, the lack of participation from both factions underscores existing rifts in the opposition landscape. Analysts argue that these parties might still rally together to uphold democratic principles, though future collaboration remains clouded by their historical rivalries.",
+    "img": "https://static.toiimg.com/photo/msid-134795119,imgsize-1326886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-block-protests-against-cec-unite-to-fight-proposes-uddhavs-sena-will-aap-dmk-relent/articleshow/134793601.cms",
+    "time": "2026-10-08T15:25:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'BJP's poll campaign has begun': Mann on CBI raids on OSD, 5 others",
+    "desc": "Punjab's Chief Minister Bhagwant Mann has leveled allegations against the BJP, claiming the use of Central investigative agencies for political leverage. He interpreted the recent CBI raids on his office as a signal of an impending election campaign. Mann reiterated his dedication to the interests of Punjab's citizens, dismissing corruption claims and drawing parallels with similar tactics in other states with non-BJP leadership.",
+    "img": "https://static.toiimg.com/photo/msid-134794012,imgsize-81823.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjps-poll-campaign-has-begun-mann-on-cbi-raids-on-osd-5-others/articleshow/134793940.cms",
+    "time": "2026-10-08T15:00:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nana Patekar prepared a stack of firewood for his own funeral, reveals Atul Kasbekar",
+    "desc": "Nana Patekar, the celebrated actor, died from a cardiac arrest at the age of 75. Photographer Atul Kasbekar shared fond memories of his interactions with Nana on social media. Kasbekar recounted Nana's warm hospitality during a visit to his farmhouse in Pune. The actor had humorously prepared firewood for his funeral, showcasing his unique personality. His last rites will be conducted at his farmhouse in Pune with state honours.",
+    "img": "https://static.toiimg.com/photo/msid-134793906,imgsize-190599.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-prepared-a-stack-of-firewood-for-his-own-funeral-reveals-atul-kasbekar-in-a-moment-of-morbid-humour-showed-me/articleshow/134793791.cms",
+    "time": "2026-10-08T14:55:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman Khan flies to Pune following Nana Patekar's demise",
+    "desc": "In a heartfelt gesture, Salman Khan has decided to cancel his planned event in Mumbai following the passing of esteemed actor Nana Patekar. This decision reflects Khan's respect for Patekar's family during such a painful moment. Patekar, who tragically succumbed to cardiac arrest at the age of 75, will have his funeral held on the evening of October 8, 2026, with the Maharashtra government honoring him posthumously.",
+    "img": "https://static.toiimg.com/photo/msid-134793889,imgsize-820593.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-cancels-his-mumbai-event-and-flies-to-pune-following-nana-patekars-death-rest-in-peace-bhau/articleshow/134793771.cms",
+    "time": "2026-10-08T14:53:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Top things announced by FM Sitharaman-led GST Council &amp; what they mean for businesses",
+    "desc": "The GST Council approved a series of changes aimed at easing compliance, including removing the power of tax officials to make arrests and raising the prosecution threshold fivefold to Rs 5 crore. FM Nirmala Sitharaman said the GST Council had largely dealt with anomalies arising from input tax credit (ITC) and addressed the issue of duty inversion.",
+    "img": "https://static.toiimg.com/photo/msid-134793644,imgsize-388553.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gst-reforms-top-things-announced-by-fm-sitharaman-led-gst-council-what-they-mean-for-businesses/articleshow/134793591.cms",
+    "time": "2026-10-08T14:38:11.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Delhi Police ramp up ‘perception’ campaign, identifies 500 people, 200 social media channels ahead of October 10 protest",
+    "desc": "After the July protest, police step up a ‘cyber warfare’ strategy to counter online narratives and circulate videos of injured personnel and alleged clashes; officials examine why their social media content failed to gain traction",
+    "img": "https://th-i.thgim.com/public/incoming/gaek9f/article71560345.ece/alternates/LANDSCAPE_1200/2026-10-07T142626Z_858694076_RC2BYNA1EVK0_RTRMADP_3_INDIA-POLITICS-PROTEST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-ramp-up-perception-campaign-identifies-500-people-social-media-channels-ahead-of-october-10-protest/article71560264.ece",
+    "time": "2026-10-08T14:15:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bajrang Dal says no volunteers to be mobilised at Jantar Mantar on October 10",
+    "desc": "Bajrang Dal firmly refuted claims of organizing a gathering at Jantar Mantar on October 10 for their demonstration. The group expressed discontent over being linked to potential violence against protesters. CJP co-convener Ashutosh Ranka voiced concerns over right-wing groups being mobilized for violent purposes. Bajrang Dal confidently stated that the protest would not succeed due to insufficient public backing, reinforcing their long-standing disapproval of disruptive protests across the nation.",
+    "img": "https://static.toiimg.com/photo/msid-134792465,imgsize-144204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bajrang-dal-says-no-volunteers-to-be-mobilised-at-jantar-mantar-on-october-10/articleshow/134792218.cms",
+    "time": "2026-10-08T13:45:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "As Trump sours H-1B visa dream, which Indian IT professionals face biggest hit?",
+    "desc": "the multiple $100,000 fee proposals, the wage-weighted lottery favoring more senior workers, new layoff and compliance scrutiny, and now the OPT/STEM-OPT $70,000 fee proposal for students looking to work in the US. The pathway is set to become much narrower or worse may even disappear!",
+    "img": "https://static.toiimg.com/photo/msid-134792104,imgsize-626397.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/death-by-restriction-as-trump-sours-h-1b-visa-dream-which-indian-it-professionals-face-the-biggest-hit/articleshow/134788265.cms",
+    "time": "2026-10-08T13:41:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Shakti Shalini' director recalls Nana Patekar cooking mutton for crew",
+    "desc": "Nana Patekar, renowned for his captivating performances, wrapped up his role in 'Shakti Shalini' shortly prior to his passing at the age of 75. Director Aditya Sarpotdar shares heartfelt memories of Nana’s kindness and commitment, revealing how he often prepared food for the team amid Rajasthan’s sweltering heat. Tragically, Nana passed away without seeing the film's final product, leaving a powerful legacy that enhances its emotional depth.",
+    "img": "https://static.toiimg.com/photo/msid-134792148,imgsize-518014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shakti-shalini-director-aditya-sarpotdar-recalls-nana-patekar-cooking-mutton-for-the-crew-he-used-to-say-that-im-a-better-cook-than-an-actor/articleshow/134792078.cms",
+    "time": "2026-10-08T13:30:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Primetime’ writer Ajon Singh on the Chris Hansen meme machine and that Phoebe Bridgers NIN shirt",
+    "desc": "The Indian American writer takes us through the conception of ‘Primetime’, from Robert Pattinson’s hands-on transformation of Hansen to the ‘Network’ blueprint, the story behind the Kerala mythology and the internet folklore that followed in the film’s wake",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/lond3p/article71559715.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/primetime-writer-ajon-singh-on-the-chris-hansen-meme-machine-the-true-story-behind-the-kerala-monster-and-that-phoebe-bridgers-nin-shirt/article71559730.ece",
+    "time": "2026-10-08T13:22:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India’s data silos cost up to 7% of welfare spending, threaten AI push: Report",
+    "desc": "India processes over 20 billion UPI transactions monthly and has enrolled more than 1.4 billion Aadhaar users. However, fragmented government databases are causing financial losses and excluding eligible beneficiaries from welfare schemes. Past data-cleaning efforts have shown significant savings, but data systems largely operate independently, limiting their effectiveness. The report emphasizes the importance of accurate and accessible data for improving governance and deploying AI.",
+    "img": "https://static.toiimg.com/photo/msid-134791945,imgsize-131054.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indias-data-silos-cost-up-to-7-of-welfare-spending-threaten-ai-push-report/articleshow/134791638.cms",
+    "time": "2026-10-08T13:17:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Dhappa' gets a Day 3 twist as police allow Rahul, INDIA bloc MPs to protest at Raj Ghat",
+    "desc": "Opposition leaders, after previously being stopped by police, successfully reached Raj Ghat for their protest. They staged a brief sit-in to honor Mahatma Gandhi while voicing their concerns about electoral integrity. Congress leaders accused the government and Election Commission of undermining democratic rights and engaging in a conspiracy. Rahul Gandhi emphasized the need for justice regarding these electoral issues.",
+    "img": "https://static.toiimg.com/photo/msid-134791905,imgsize-194934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dhappa-gets-a-day-3-twist-as-police-allow-rahul-india-bloc-mps-to-protest-at-raj-ghat/articleshow/134791827.cms",
+    "time": "2026-10-08T13:17:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Everybody standing was scared of him', Sutapa Sikdar remembers Nana Patekar",
+    "desc": "The Musical,' fondly recalled his kindness in an industry often perceived as harsh. Sikdar lamented the lack of support for emerging talent, contrasting it with Hollywood's nurturing environment. To honor his contributions, a state funeral will be held for the esteemed actor.",
+    "img": "https://static.toiimg.com/photo/msid-134791195,imgsize-1064516.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/my-first-memory-of-him-is-everybody-standing-scared-and-so-terrified-of-him-sutapa-sikdar-remembers-nana-patekar-on-the-khamoshi-the-musical-set/articleshow/134791075.cms",
+    "time": "2026-10-08T12:53:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nana Patekar was to reach Mumbai tomorrow, reveals 'The Confession' co-producer",
+    "desc": "Nana Patekar's sudden passing on October 8 has sent shockwaves through the film industry. His co-producer on 'The Confession,' Subhash Kale, expressed profound disbelief after their last conversation just two days earlier. Patekar was on the verge of returning to Mumbai for dubbing and filming. Medical staff confirmed he was already deceased upon reaching the hospital, leaving his final works, 'The Confessions' and 'Shakti Shalini,' awaiting release.",
+    "img": "https://static.toiimg.com/photo/msid-134790465,imgsize-462857.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-was-to-reach-mumbai-tomorrow-to-dub-one-line-for-the-confession-reveals-co-producer-subhash-kale-it-is-a-huge-grief-a-very-big-loss-for-the-industry/articleshow/134790363.cms",
+    "time": "2026-10-08T12:22:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajpal Yadav’s heartfelt tribute: actor recalls Nana's warmth",
+    "desc": "Actor Rajpal Yadav paid a heartfelt tribute to Nana Patekar, sharing a throwback video of the veteran affectionately serving him food. Calling him a \"beautiful human being,\" Rajpal recalled working with him in Vanvaas. Patekar died on October 8 at 75 after a cardiac arrest.",
+    "img": "https://static.toiimg.com/photo/msid-134790040,imgsize-156555.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-remembers-beautiful-human-being-nana-patekar-with-throwback-video-bhau-your-work-and-memories-will-always-remain/articleshow/134789985.cms",
+    "time": "2026-10-08T12:09:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "GST Council scraps tax officers' arrest powers; prosecution threshold raised to Rs 5 cr",
+    "desc": "The GST Council made a landmark decision by abolishing the arrest powers of tax officers. They've raised the prosecution threshold from Rs 1 crore to Rs 5 crore, easing the pressure on small sellers using e-commerce platforms. Union Finance Minister Nirmala Sitharaman announced that notices under Rs 10,000 will no longer be issued, aimed at promoting better GST compliance and alleviating burdens on small businesses.",
+    "img": "https://static.toiimg.com/photo/msid-134789874,imgsize-110984.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gst-council-meeting-arresting-powers-of-tax-officers-scrapped-prosecution-threshold-raised-to-rs-5-crore/articleshow/134789551.cms",
+    "time": "2026-10-08T12:01:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Paramount and Warner Bros merge to become one Hollywood giant, Skydance",
+    "desc": "The merger brings two of America's oldest moviemaking studios together under the helm of billionaire David Ellison and Ynon Kreiz, in a move that is projected to concentrate power in an industry already run by just a handful of major players",
+    "img": "https://th-i.thgim.com/public/incoming/ffoftu/article71552659.ece/alternates/LANDSCAPE_1200/2298278510.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/paramount-and-warner-bros-merge-to-become-one-hollywood-giant-skydance/article71552210.ece",
+    "time": "2026-10-08T11:57:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Too soon my Hero Actor, RIP'",
+    "desc": "In a poignant homage, Shah Rukh Khan paid tribute to the late Nana Patekar, who passed away at 75. Reflecting on their initial meeting, SRK highlighted the invaluable wisdom he received from Nana, whom he regarded as a mentor offering both warmth and unfiltered truth. Nana Patekar's illustrious contributions to Hindi and Marathi films have left an indelible mark, and his cherished persona will be greatly missed by countless admirers.",
+    "img": "https://static.toiimg.com/photo/msid-134789523,imgsize-88922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-mourns-nana-patekar-in-a-long-emotional-note-says-he-would-shout-at-you-first-and-then-somewhere-between-the-third-or-fourth-insult-you-realised-you-were-being-hugged/articleshow/134789324.cms",
+    "time": "2026-10-08T11:49:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajinikanth meets Asian Games medalist Vithya Ramaraj, congratulates her",
+    "desc": "Rajinikanth recently met with Tamil Nadu athlete Vithya Ramaraj to celebrate her remarkable achievement of winning three medals at the Asian Games. She not only triumphed but also shattered a long-held national record in the women’s 400m hurdles. Vithya was accompanied by her trainer and the president of the Chennai District Masters Athletic Association. Earlier, actor Dhanush had also recognized her accomplishments.",
+    "img": "https://static.toiimg.com/photo/msid-134789458,imgsize-115926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/superstar-rajinikanth-meets-asian-games-medallist-vithya-ramaraj-congratulates-her-on-winning-three-medals/articleshow/134789372.cms",
+    "time": "2026-10-08T11:47:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sports Ministry, Federations to review Asian Games performance on October 13: Sources",
+    "desc": "On October 13, officials from the Ministry of Youth Affairs and Sports will evaluate India's performance at the Asian Games. The nation secured far fewer medals than in previous tournaments, prompting a detailed review of financial allocations and the performance of seasoned athletes who fell short of expectations. Additionally, the existence of injuries before the Games has raised questions about the overall fairness of the competing teams.",
+    "img": "https://static.toiimg.com/photo/msid-134789361,imgsize-70998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/sports-ministry-federations-to-review-asian-games-performance-on-october-13-sources/articleshow/134789297.cms",
+    "time": "2026-10-08T11:45:10.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Consultation paper in a month; safety, deepfakes among key focus areas, says Vaishnaw",
+    "desc": "Mr. Vaishnaw said the government has always maintained that AI and other technologies cannot be regulated by law alone. \"We have to bring a techno-legal solution,\" the Minister said, adding that stakeholders must be brought on board.",
+    "img": "https://th-i.thgim.com/public/incoming/jnvu0i/article71559548.ece/alternates/LANDSCAPE_1200/CANINET%20PC%20%209.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/ai-regulations-consultation-paper-in-a-month-safety-deepfakes-among-key-focus-areas-says-vaishnaw/article71559481.ece",
+    "time": "2026-10-08T11:40:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIA reveals cause of Bahrain GP software chaos; Sepang fix to remain for Singapore GP",
+    "desc": "Max Verstappen triumphed at the Bahrain Grand Prix amidst a tumultuous downpour that affected several vehicles. An unforeseen software malfunction led to power losses during the formation laps, causing a delay in the race's commencement. Following a thorough investigation by the FIA, revised software solutions will be reinstated at the Singapore Grand Prix should conditions be similar.",
+    "img": "https://static.toiimg.com/photo/msid-134789151,imgsize-94594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/racing/top-stories/fia-reveals-cause-of-bahrain-gp-software-chaos-during-formation-lap-sepang-fix-to-remain-for-singapore-gp/articleshow/134789091.cms",
+    "time": "2026-10-08T11:39:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "TCS profit jumps 15% to ₹13,884cr, AI revenue tops $3.1bn; board announces ₹12 dividend",
+    "desc": "Tata Consultancy Services has reported a notable 15% surge in net profit for the September quarter, achieving Rs 13,884 crore. The operations revenue grew by 11.22% year-on-year, hitting Rs 73,188 crore. AI revenue also surpassed $3 billion, contributing over 10% to the total income. With 4,258 new hires, TCS's workforce now stands at 5,98,056 and an attrition rate of 13.3%.",
+    "img": "https://static.toiimg.com/photo/msid-134789029,imgsize-176934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/tcs-q2-results-net-profit-rises-15-to-rs-13884-crore-revenue-up-11/articleshow/134788770.cms",
+    "time": "2026-10-08T11:35:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mortal remains to reach Pune, security tightened ahead of state funeral",
+    "desc": "Nana Patekar passed away on October 8 in Goa and his final rites will take place in Pune. His mortal remains are expected to arrive at Pune airport later in the evening. Authorities are preparing for increased traffic congestion due to VIP movement and mourners gathering at the farmhouse in Donaje. The traffic plan aims to ensure smooth movement for both the funeral procession and regular commuters.",
+    "img": "https://static.toiimg.com/photo/msid-134788837,imgsize-174544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-last-rites-mortal-remains-to-reach-pune-at-6pm-security-and-traffic-tightened-ahead-of-state-funeral-expected-between-9-10pm/articleshow/134788712.cms",
+    "time": "2026-10-08T11:24:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rakhi gets emotional over Nana Patekar's death: 'Kaise chalegi film industry?'",
+    "desc": "Nana Patekar, the celebrated figure of Hindi and Marathi film industries, sadly passed away at the age of 75 on October 8. Rakhi Sawant shared her sorrow in a viral video, mourning the loss of this iconic actor. He was pronounced dead upon arrival at the hospital after unsuccessful resuscitation efforts. Renowned for his unique portrayals, his influence on cinema will be remembered fondly by fans and peers alike.",
+    "img": "https://static.toiimg.com/photo/msid-134788725,imgsize-669226.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakhi-sawant-gets-emotional-over-nana-patekars-death-kaise-chalegi-film-industry-aapke-bagair/articleshow/134788577.cms",
+    "time": "2026-10-08T11:19:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rishab Shetty mourns Nana Patekar’s death",
+    "desc": "Rishab Shetty mourned the loss of Nana Patekar, lauding his impactful performances and commitment to social causes. He emphasized Nana's pivotal role through the Naam Foundation, which supported farmers and local communities. Namrata Shirodkar honored him as a veritable legend of Indian cinema, while Telugu actor Nithiin celebrated him as a remarkable artist whose legacy will guide aspiring actors.",
+    "img": "https://static.toiimg.com/photo/msid-134788357,imgsize-107565.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/kantara-fame-rishab-shetty-remembers-nana-patekars-powerful-performances-and-work-for-farmers-namrata-shirodkar-calls-nana-true-icon/articleshow/134788291.cms",
+    "time": "2026-10-08T11:07:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'There shouldn’t be any questions': Pujara comes out in support of Samson ahead of 2nd T20I",
+    "desc": "Cheteshwar Pujara has come forward to back Sanju Samson during a rough patch in his performances. He advocates for the team management to provide stability and morale-boosting support to Samson as he navigates this challenging phase. Acknowledging that setbacks are a common occurrence in T20 matches, Pujara encourages players to find their footing again.",
+    "img": "https://static.toiimg.com/photo/msid-134787962,imgsize-62528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/there-shouldnt-be-any-questions-pujara-comes-out-in-support-of-sanju-samson-ahead-of-west-indies-2nd-t20i/articleshow/134787809.cms",
+    "time": "2026-10-08T10:55:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's GDP is booming, but stock market is crashing: What's going wrong?",
+    "desc": "India is experiencing impressive GDP growth of 7.8%, while the World Bank revises its growth outlook to 7.1%. Yet, Dalal Street faces turbulence as benchmark indices suffer losses exceeding 1%. This is largely due to foreign investors offloading shares and rising bond yields globally, fostering a cautious sentiment in the market.",
+    "img": "https://static.toiimg.com/photo/msid-134787937,imgsize-157604.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-gdp-is-booming-but-stock-market-is-crashing-whats-going-wrong/articleshow/134786666.cms",
+    "time": "2026-10-08T10:49:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Pneumonic plague outbreak in Russia? What we know so far",
+    "desc": "An employee at a plague research institute in Siberia, Darya Shipilova, employed at a plague research institute in Siberia fell ill and died in undisclosed circumstances. Unconfirmed reports in Russia blamed the woman’s death on pneumonic plague",
+    "img": "https://th-i.thgim.com/public/incoming/fb2nj6/article71558844.ece/alternates/LANDSCAPE_1200/Russia_Desease_67862.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russia-pneumonic-plague-epidemic-siberia-lab-worker-death/article71558805.ece",
+    "time": "2026-10-08T10:42:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "AI regulation consultation paper next month, says IT minister Vaishnaw",
+    "desc": "Union minister Ashwini Vaishnaw announced plans for a Consultation paper on AI regulations to address specific concerns. The focus will include AI safety, deepfakes, user harm, and the need for skilling. The government aims to establish a regulatory framework while involving various stakeholders in the process. This initiative follows recent amendments in IT Rules to combat AI-generated harmful content more effectively.",
+    "img": "https://static.toiimg.com/photo/msid-134787174,imgsize-87430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-regulation-consultation-paper-next-month-says-it-minister-vaishnaw-focus-on-safety-deepfakes/articleshow/134785844.cms",
+    "time": "2026-10-08T10:22:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Yemen’s Houthis say struck Riyadh airport, other Saudi sites",
+    "desc": "The fighting in Yemen has become the most active front in the West Asia war in recent weeks, displacing more than 1,84,000 people, the United Nations says, and deepening the conflict that has engulfed the wider region.",
+    "img": "https://th-i.thgim.com/public/news/national/4klymp/article71550268.ece/alternates/LANDSCAPE_1200/AFP__20260919__C8RQ4WJ__v1__HighRes__SaudiYemenIranUsIsraelWar.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/yemens-houthis-say-struck-riyadh-airport-other-saudi-sites/article71550273.ece",
+    "time": "2026-10-08T10:15:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SS Rajamouli's ‘Varanasi’ to feature a new language",
+    "desc": "Renowned director SS Rajamouli's latest venture, titled 'Varanasi', stars Mahesh Babu and Priyanka Chopra in a thrilling time-travel adventure. The film explores various timelines and continents, enriched by a fictional language crafted for its ancient script. Mahesh Babu takes on the lead role of Rudhra, with Priyanka Chopra as Mandakini. Audiences can catch 'Varanasi' in theaters worldwide starting April 7, 2027.",
+    "img": "https://static.toiimg.com/photo/msid-134786767,imgsize-107370.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/like-baahubalis-kiliki-ss-rajamouli-mahesh-babu-priyanka-chopras-varanasi-to-feature-new-language-and-ancient-script-in-time-travel-sequence/articleshow/134786689.cms",
+    "time": "2026-10-08T10:06:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nana danced dekhni in Goa, played shamel, three days before he passed away",
+    "desc": "Nana Patekar attended a musical event in Goa shortly before his sudden death at the age of 75. He participated in traditional performances, delighting audiences with his enthusiasm and interaction. Just days prior, he made a poignant remark about life and accomplishment. His death led to widespread tributes from fans and notable figures, including Prime Minister Narendra Modi. Patekar leaves behind a memorable legacy in both Hindi and Marathi cinema.",
+    "img": "https://static.toiimg.com/photo/msid-134786751,imgsize-252498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-danced-dekhni-in-goa-played-shamel-with-a-local-konkani-group-three-days-before-he-passed-away-video-goes-viral/articleshow/134786482.cms",
+    "time": "2026-10-08T10:04:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhananjaya de Silva steps down as Sri Lanka Test captain",
+    "desc": "Dhananjaya de Silva has officially resigned as the Test captain of Sri Lanka, concluding an 18-match tenure. His decision was communicated to the Sri Lanka Cricket Board. Under his leadership, the team celebrated victories over Afghanistan and Bangladesh. As it stands, Sri Lanka ranks seventh in the World Test Championship, with no announcement yet regarding his successor before the series against Pakistan.",
+    "img": "https://static.toiimg.com/photo/msid-134786454,imgsize-45758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dhananjaya-de-silva-steps-down-as-sri-lanka-test-captain/articleshow/134786439.cms",
+    "time": "2026-10-08T09:50:52.000Z"
   },
   {
     "cat": "Business",
@@ -36,15 +477,6 @@ const newsData_en = [
     "time": "2026-10-08T09:24:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Good movie, wrong audience,' Fans hail Karthi's 'Sardar 2'",
-    "desc": "Following its OTT premiere, Karthi's 'Sardar 2' has sparked a distinctive reaction from viewers, contrasting sharply with its initial box office performance. Fans have commended its action scenes and character arcs, despite acknowledging certain weaknesses. Conversations are swirling around the shift from negative reviews to renewed acclaim. Some viewers suggest trimming the film's length to enhance its overall effect. It seems 'Sardar 2' is finding newfound success on streaming services.",
-    "img": "https://static.toiimg.com/photo/msid-134785902,imgsize-232294.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sardar-2-ott-review-good-movie-wrong-audience-fans-hail-karthi-and-ps-mithrans-spy-thriller-after-its-digital-release/articleshow/134785870.cms",
-    "time": "2026-10-08T09:22:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Six hours a day, 19% to 14% body fat: Inside Bhuvneshwar Kumar’s bid for longevity at 36",
     "desc": "At 36, Bhuvneshwar Kumar is back in India’s T20I setup, four years after his last international appearance. His recall followed a 28-wicket IPL season for RCB and a strong UP T20 campaign, but the numbers tell only part of the story. His strength and conditioning coach reveals how Bhuvneshwar cut his body fat from 19% to 14%, spent up to seven hours a day training and rebuilt his fitness to force his way back.",
@@ -52,33 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/six-hours-a-day-19-to-14-body-fat-inside-bhuvneshwar-kumars-bid-for-longevity-at-36/articleshow/134785793.cms",
     "time": "2026-10-08T09:20:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ram Gopal Varma shares Nana Patekar’s old video on his cremation plans",
-    "desc": "Ram Gopal Varma recently shared a video of Nana Patekar discussing his arrangements for his cremation. In the interview, Nana revealed he had set aside 12 maunds of dry wood for this purpose. He humorously expressed the importance of avoiding wet wood during his cremation. Following his death at age 75, Varma expressed his grief and reflected on Nana's contributions to cinema.",
-    "img": "https://static.toiimg.com/photo/msid-134785801,imgsize-89881.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-shares-nana-patekars-old-video-on-his-cremation-plans-veteran-actor-explained-why-he-wanted-dry-wood-to-be-used-said-this-is-my-final-property/articleshow/134785714.cms",
-    "time": "2026-10-08T09:18:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Car falls into sinkhole as road caves in near Chennai’s Tidel Park",
-    "desc": "The occupants of the car managed to escape from the vehicle before it full fell into the pit; in May 2025, a call taxi had fallen into a similar pit that had developed on the same road after a cave-in",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/s37u0m/article71558887.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-08%20at%2013.13.44.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/car-falls-into-sinkhole-as-road-caves-in-near-chennais-tidel-park/article71558860.ece",
-    "time": "2026-10-08T09:12:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hrithik Roshan, Chiranjeevi hail his legacy; recall iconic roles",
-    "desc": "Nana Patekar, a veteran actor in Indian cinema, passed away at the age of 75. His death was attributed to cardiac arrest at his residence in Goa. Many celebrities from the film industry expressed their condolences and shared tributes on social media. They remembered Patekar for his powerful performances and his contributions beyond film, particularly his work for farmers.",
-    "img": "https://static.toiimg.com/photo/msid-134785527,imgsize-115547.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nana-patekar-dies-at-75-hrithik-roshan-calls-him-an-inspiration-chiranjeevi-remembers-his-humanity-as-they-pay-tributes-to-veteran-actor/articleshow/134785326.cms",
-    "time": "2026-10-08T09:11:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -90,24 +495,6 @@ const newsData_en = [
     "time": "2026-10-08T08:55:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Kisi ke aage hath ni failaya’",
-    "desc": "Nana Patekar, the celebrated actor and Padma Shri recipient, has tragically passed away at 75. His journey in acting began after overcoming numerous challenges and leaving behind various jobs for his true passion. Though he achieved fame, a sense of disconnection from the film industry lingered. Sadly, after suffering a heart attack, medical efforts fell short. His final rites will take place at his Pune farmhouse this Thursday evening.",
-    "img": "https://static.toiimg.com/photo/msid-134784388,imgsize-419005.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-once-painted-zebra-crossings-for-rs-15-national-award-winning-actor-said-majja-is-bat-ka-tha-k-kisi-ke-aage-hath-ni-failaya/articleshow/134784194.cms",
-    "time": "2026-10-08T08:48:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED arrests suspended chairperson, member; ₹20–40 lakh bribe for leaked answer keys",
-    "desc": "In some cases, the accused allegedly used confidential information to approach candidates, who were anyway likely to be selected, and assured them of selection in exchange for bribes ranging from ₹10 lakh to ₹50 lakh",
-    "img": "https://th-i.thgim.com/public/incoming/txnlr1/article71558974.ece/alternates/LANDSCAPE_1200/CID-questions-aGBGGFMOQS.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/kpsc-recruitment-scam-ed-arrests-suspended-chairperson-member-2040-lakh-bribe-for-leaked-answer-keys/article71558816.ece",
-    "time": "2026-10-08T08:43:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Bond yields may hold near 7.25% after policy shift",
     "desc": "In a significant policy change, the Reserve Bank of India has upped its key interest rate to 5.50% with a 25 basis point hike, the first in nearly four years. This adjustment reflects a shift to a calibrated tightening approach, hinting at potential future increases. However, contrary to market expectations, no new liquidity measures were introduced.",
@@ -115,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-rate-hike-impact-bond-yields-may-hold-near-7-25-after-policy-shift/articleshow/134782852.cms",
     "time": "2026-10-08T08:36:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tukaram Mundhe reveals Nana Patekar's last words to him 8 days before his death",
-    "desc": "Veteran actor Nana Patekar, renowned for his extraordinary roles, has died at 75 due to cardiac arrest. Unconscious at his dwelling in Goa, he was rushed to the hospital where resuscitation efforts ultimately failed. With a prolific career exceeding 40 years, Nana's talent has shaped Indian cinema, and many have begun honoring his legacy through heartfelt tributes from friends and industry peers.",
-    "img": "https://static.toiimg.com/photo/msid-134784877,imgsize-290089.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-passes-away-tukaram-mundhe-reveals-the-veteran-actors-last-words-to-him-8-days-before-his-demise-a-few-leave-behind-a-part-of-themselves-in-our-lives/articleshow/134784821.cms",
-    "time": "2026-10-08T08:32:19.000Z"
   },
   {
     "cat": "Sports",
@@ -135,51 +513,6 @@ const newsData_en = [
     "time": "2026-10-08T08:11:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aamir Khan stops dyeing his hair; says the process had become boring",
-    "desc": "Aamir Khan revealed his decision to stop dyeing his hair during a recent panel discussion. He shared that he became tired of the coloring routine, opting for a natural grey appearance. This change is not linked to any specific role, as his looks have evolved while preparing for different characters. Filmmaker Subhash Ghai discussed how Aamir's appearance reflects his character study process.",
-    "img": "https://static.toiimg.com/photo/msid-134784379,imgsize-187083.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-stops-dyeing-his-hair-says-the-process-had-become-boring-subhash-ghai-explains-hes-studying-character/articleshow/134784274.cms",
-    "time": "2026-10-08T08:06:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nana Patekar’s friend Tukaram Mundhe shares emotional tribute: ‘Love you, Bala’",
-    "desc": "Nana Patekar passed away at the age of 75 due to a cardiac arrest at his home. His close friend Tukaram Mundhe shared an emotional tribute on social media after his death. Patekar was known for his powerful performances in films such as ‘Krantiveer’ and ‘Agneepath’. He was found unconscious at his residence and efforts to revive him were unsuccessful.",
-    "img": "https://static.toiimg.com/photo/msid-134784349,imgsize-105915.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekars-friend-tukaram-mundhe-recalls-their-last-conversation-eight-days-ago-writes-his-last-words-were-love-you-bala/articleshow/134784117.cms",
-    "time": "2026-10-08T08:05:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Juhi Chawla remembers 'Raju Ban Gaya Gentleman' days",
-    "desc": "Nana Patekar, a beloved figure in Hindi and Marathi cinema, passed away at 75 from a cardiac arrest at his residence. Heartfelt tributes poured in from fellow stars like Juhi Chawla, Hrithik Roshan, and Sanjay Dutt, reminiscing about his diverse roles in both serious dramas and comedies. Throughout his illustrious career, he garnered multiple National Film Awards and was recently seen in Housefull 5 and O'Romeo, solidifying his lasting legacy.",
-    "img": "https://static.toiimg.com/photo/msid-134784219,imgsize-118200.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-passes-away-juhi-chawla-remembers-raju-ban-gaya-gentleman-days-he-portrayed-every-character-with-so-much-colour-depth-and-authenticity/articleshow/134784174.cms",
-    "time": "2026-10-08T08:00:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kamal Haasan calls Nana Patekar ‘An extraordinary artist’",
-    "desc": "In a heartfelt tribute, Kamal Haasan mourned the loss of veteran actor Nana Patekar, celebrating his profound legacy in the film industry. Patekar was recognized for his fervent activism on social issues, particularly his advocacy for farmers and valiant participation in the Kargil War. Haasan described him as not just an extraordinary performer, but also a humanitarian.",
-    "img": "https://static.toiimg.com/photo/msid-134784180,imgsize-325909.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nana-patekar-passes-away-kamal-haasan-calls-him-an-extraordinary-artist-and-an-even-greater-human-being/articleshow/134784169.cms",
-    "time": "2026-10-08T07:58:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Raj's tribute to Nana: MNS chief hails him as voice of common man",
-    "desc": "Raj Thackeray paid tribute to Nana Patekar, who died on October 8 at 75, saying the actor captured the common man's anger, despair and helplessness. He compared Patekar to Morgan Freeman, called him a pioneer of character actors, and said Hindi cinema lost out when directors sidestepped him over his outspokenness.",
-    "img": "https://static.toiimg.com/photo/msid-134784118,imgsize-250232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-first-hero-of-this-era-was-100-nana-raj-thackeray-recalls-nana-patekar-as-the-voice-of-the-common-mans-frustration-and-despair/articleshow/134784099.cms",
-    "time": "2026-10-08T07:55:50.000Z"
-  },
-  {
     "cat": "Business",
     "title": "No MDR on UPI from October 15? Government considers delaying rollout of fees: Report",
     "desc": "Last month, the government ended the zero-fee regime for UPI by allowing merchants to be charged 0.4% on transactions above Rs 2,000. UPI is used by more than 500 million people across the country for payments ranging from roadside cups of tea to iPhones. The charge is scheduled to take effect on October 15, coinciding with the annual festive season.",
@@ -187,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/no-mdr-on-upi-from-october-15-government-considers-delaying-rollout-of-fees-report/articleshow/134783783.cms",
     "time": "2026-10-08T07:51:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ravi Shankar says films like ‘Hanuman Ansh’ are needed amid AI deepfake misuse",
-    "desc": "Ravi Shankar, the filmmaker distributing the Telugu version of 'Hanuman Ansh', spoke against social media misuse. He highlighted concerns over realistic AI-generated deepfakes following a controversial video featuring Janhvi Kapoor and Jr NTR. Several celebrities, including Jr NTR and Janhvi Kapoor, condemned the deepfake incident as a violation of women's rights. They emphasized the need for strict regulations on AI usage to protect individuals.",
-    "img": "https://static.toiimg.com/photo/msid-134784049,imgsize-118210.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/hanuman-ansh-telugu-distributor-condemns-ai-misuse-after-janhvi-kapoors-deepfake-says-youth-have-become-polluted-due-to-ai-we-need-films-with-divine-power/articleshow/134783831.cms",
-    "time": "2026-10-08T07:51:49.000Z"
   },
   {
     "cat": "Sports",
@@ -207,24 +531,6 @@ const newsData_en = [
     "time": "2026-10-08T07:48:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Manisha's tribute: Nana Patekar dies at 75 in Goa",
-    "desc": "Veteran actor Nana Patekar died on October 8 at 75, reportedly after a cardiac arrest at his Goa home. Manisha Koirala, his Khamoshi co-star, paid tribute on X, calling him \"a true stalwart of the craft.\" Doctors could not revive him despite prolonged cardiac massage, and a post-mortem followed.",
-    "img": "https://static.toiimg.com/photo/msid-134783374,imgsize-281683.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manisha-koirala-pays-emotional-tribute-to-her-khamoshi-and-agnisakshi-co-star-nana-patekar-a-remarkable-presence-and-true-stalwart/articleshow/134783020.cms",
-    "time": "2026-10-08T07:20:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shankar officially resumes work on 'Indian 3' with Kamal Haasan",
-    "desc": "Filming for Indian 3 is set to pick back up after the lukewarm reception of Indian 2 at the box office. The highly anticipated sequel is targeted for a summer 2027 release, following an extensive production timeline. Kamal Haasan will return as Senapathy, joined by Kajal Aggarwal and a talented ensemble. Director Shankar plans to finish Indian 3 before he embarks on his next venture, Velpari.",
-    "img": "https://static.toiimg.com/photo/msid-134783187,imgsize-332314.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/the-resurgence-begins-shankar-officially-resumes-work-on-indian-3-with-kamal-haasan-after-2-year-wait/articleshow/134783148.cms",
-    "time": "2026-10-08T07:13:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What is the gold price outlook on October 8, 2026?",
     "desc": "Gold and silver prices are expected to trade with a negative bias in the coming days. On the lower side, MCX Gold is expected to gradually move towards the Rs 1,45,000 level, which remains the key downside target. A decisive break below the immediate support zone could accelerate the decline towards this level.",
@@ -234,24 +540,6 @@ const newsData_en = [
     "time": "2026-10-08T07:05:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "WHO puts stroke, cancer, mental health on 10-year traditional medicine research agenda",
-    "desc": "The World Health Organization has set forth a comprehensive research agenda for the upcoming decade, focusing on pivotal health conditions such as stroke, mental health, cancer, and reproductive health. The extensive report points out significant underfunding in these areas, especially stroke and mental health. India expresses its support for this initiative, embracing traditional medicine to enhance the evidence necessary for the integration of these practices in healthcare.",
-    "img": "https://static.toiimg.com/photo/msid-134782866,imgsize-79854.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/who-puts-stroke-cancer-mental-health-on-10-year-traditional-medicine-research-agenda/articleshow/134782817.cms",
-    "time": "2026-10-08T07:01:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nani says he knew which ‘The Paradise’ portions would not work for audiences",
-    "desc": "Nani recently shared his thoughts on the audience's mixed reactions to his action thriller 'The Paradise'. He acknowledged having seen some issues prior to its release and expressed his appreciation for viewer feedback. Nani mentioned that he values the honesty of opinions from family and friends. Directed by Srikanth Odela, the film focuses on a tribe in the 1980s battling for their citizenship.",
-    "img": "https://static.toiimg.com/photo/msid-134782779,imgsize-170980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nani-admits-he-noticed-the-paradise-issues-before-release-says-i-did-see-all-of-that/articleshow/134782691.cms",
-    "time": "2026-10-08T06:57:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘True legend of Indian cinema’: Virat Kohli mourns Nana Patekar’s death",
     "desc": "Virat Kohli expressed his condolences on social media after Nana Patekar's death due to cardiac arrest. Patekar was a prominent figure in Hindi and Marathi cinema, earning numerous accolades throughout his career. He made his mark with roles in films like Parinda and Prahar, and was awarded the Padma Shri in 2013. His recent works included Housefull 5 and O’Romeo, showcasing his enduring talent in the industry.",
@@ -259,24 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/true-legend-of-indian-cinema-virat-kohli-mourns-nana-patekars-death/articleshow/134782484.cms",
     "time": "2026-10-08T06:48:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anupam Kher remembers Nana Patekar",
-    "desc": "The sudden passing of Nana Patekar at 75 has sent shockwaves through the film community. Esteemed actors like Anupam Kher, Rajinikanth, and Manoj Bajpayee paid their respects, with Kher reminiscing about Patekar's genuine nature and his courage in addressing tough topics. Bajpayee noted Patekar's trajectory as a source of motivation for budding talent in Mumbai. His remarkable contributions to both Hindi and Marathi cinema ensure his legacy will endure.",
-    "img": "https://static.toiimg.com/photo/msid-134782570,imgsize-210213.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-demise-anupam-kher-imagines-how-the-krantiveer-actor-would-have-dismissed-the-idea-of-a-tribute-mar-gaya-toh-kya-hua-sabhi-marte-hain/articleshow/134782507.cms",
-    "time": "2026-10-08T06:48:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CUSAT suspends offline classes amid rising chickenpox cases",
-    "desc": "Functioning of all departments of schools and centres at Thrikkakara and Marine campuses has been shifted to online mode after cases were reported on the campus. All infected students have left the campus, says a CUSAT official",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/ya9cmq/article71558640.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-08%20at%2011.42.44.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/cusat-suspends-offline-classes-amid-rising-chickenpox-cases/article71558549.ece",
-    "time": "2026-10-08T06:43:21.000Z"
   },
   {
     "cat": "Business",
@@ -297,15 +567,6 @@ const newsData_en = [
     "time": "2026-10-08T06:39:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "FIR against MLA for creating false death certificates of voters in Vijayapura",
-    "desc": "The complainant alleged that the MLA and Booth Level Agent of Vijayapura Assembly constituency had falsely claimed that he had died, and that his name needs to be struck off the electoral rolls under the Special Intensive Revision in Karnataka",
-    "img": "https://th-i.thgim.com/public/incoming/3vz2oh/article71558522.ece/alternates/LANDSCAPE_1200/BJP-will-soon-dG86FEA8E1.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/fir-against-basanagouda-patil-yatnal-mla-expelled-by-bjp-for-creating-false-death-certificates-of-voters-in-vijayapura-karnataka/article71558508.ece",
-    "time": "2026-10-08T06:34:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Man got leave encashment, but exemption limit was hiked later; ITAT allows full Rs 12.27 lakh relief",
     "desc": "The ITAT Chennai bench viewed the increase from Rs 3 lakh to Rs 25 lakh as an enhancement of an existing benefit, rather than the creation of a new exemption. The Tribunal also found the change beneficial and remedial in nature and said it was intended to reduce hardship and bring parity between government and non-government employees.",
@@ -313,24 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/retired-bank-employee-got-rs-12-27-lakh-leave-encashment-and-claimed-rs-3-lakh-exemption-in-2020-but-government-later-hiked-limit-to-rs-25-lakh-in-2023-itat-chennai-allows-full-tax-exemption/articleshow/134781129.cms",
     "time": "2026-10-08T06:31:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Four Bengal workers, detained on Bangladeshi suspicion, released from Chhattisgarh",
-    "desc": "“We were so surprised. It happened suddenly when we lost our hope. The higher authority ordered them to release us immediately. The Police also wrote it in the order copy that we are Indians, not Bangladeshis,” said one of the detainees, Safikul Islam.",
-    "img": "https://th-i.thgim.com/public/news/national/bihar/ck8yt1/article71558656.ece/alternates/LANDSCAPE_1200/Migrantworkers.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/four-bengal-workers-detained-on-bangladeshi-suspicion-released-from-chhattisgarh/article71558593.ece",
-    "time": "2026-10-08T06:28:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Inappropriate': BJP turns heat on Rahul Gandhi over 'clash' with female Delhi cop during anti-CEC protest",
-    "desc": "BJP leaders escalated attacks on Rahul Gandhi following his protests against the Election Commission. C R Kesavan accused Gandhi of inappropriate behavior toward a female police officer during the protest. Nitin Nabin labeled Gandhi as having an anarchist mindset and suggested he resign if he disagrees with the Election Commission. The Congress party has expressed demands for Chief Election Commissioner Gyanesh Kumar’s resignation over recent decisions.",
-    "img": "https://static.toiimg.com/photo/msid-134781740,imgsize-73660.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/inappropriate-bjp-turns-heat-on-rahul-gandhi-over-clash-with-female-delhi-cop-during-anti-cec-protest/articleshow/134781680.cms",
-    "time": "2026-10-08T06:07:01.000Z"
   },
   {
     "cat": "Entertainment",
@@ -352,7 +595,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘So many have faded out’: Vaibhav Sooryavanshi cautioned with Vinod Kambli example",
+    "title": "‘So many have faded out’: Sooryavanshi cautioned with Vinod Kambli example",
     "desc": "Vaibhav Sooryavanshi is making waves in the cricket world with his remarkable feats at an early age. However, cricket legend Kapil Dev advocates caution, emphasizing the volatile nature of youth talent. He stresses the significance of a player's growth beyond the cricket field for long-term success. In essence, the key question remains whether Sooryavanshi can sustain his performance consistently over the years.",
     "img": "https://static.toiimg.com/photo/msid-134780847,imgsize-89294.cms",
     "src": "indiatimes.com",
@@ -367,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/nana-patekar-passes-away-emotional-tributes-pour-in-for-veteran-actor/articleshow/134780447.cms",
     "time": "2026-10-08T05:13:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "FIR against Rahul, Priyanka Gandhi over 'assault' during anti-Gyanesh Kumar protest in Delhi",
-    "desc": "The Delhi Police have filed an FIR against Congress leaders Rahul Gandhi and Priyanka Gandhi Vadra for allegedly assaulting police officers during a demonstration aimed at highlighting electoral roll discrepancies. The police complaint also mentions other party leaders and workers. Tensions increased when law enforcement intercepted demonstrators en route to Jantar Mantar, resulting in the detention of 91 individuals, including political figures and MPs.",
-    "img": "https://static.toiimg.com/photo/msid-134780432,imgsize-172516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fir-against-rahul-priyanka-gandhi-over-assault-during-anti-gyanesh-kumar-protest-in-delhi/articleshow/134780077.cms",
-    "time": "2026-10-08T05:00:25.000Z"
   },
   {
     "cat": "Business",
@@ -405,15 +639,6 @@ const newsData_en = [
     "time": "2026-10-08T04:18:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Don't think Nana Patekar got the love he deserved in return",
-    "desc": "Sonali Kulkarni mourns the loss of her dear friend Nana Patekar, who tragically passed away at his home, later confirmed dead at the hospital. Reflecting on their years of collaboration, Kulkarni shared heartfelt memories of their friendship. She praised Nana’s generosity, highlighting his dedication to supporting farmers and technicians, and cherishing the profound connection they shared through countless memorable experiences.",
-    "img": "https://static.toiimg.com/photo/msid-134779421,imgsize-343487.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/sonali-kulkarni-nana-patekar-was-trendsetter-and-a-giver-but-i-dont-think-he-got-the-love-he-deserved-in-return-exclusive/articleshow/134779388.cms",
-    "time": "2026-10-08T04:07:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'You earned that love': Messi's wife pays emotional tribute",
     "desc": "Lionel Messi’s final game for Argentina turned into an emotional farewell in Buenos Aires, with his wife Antonela Roccuzzo sharing a heartfelt message for the football superstar after his international career came to an end.",
@@ -421,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/you-earned-that-love-lionel-messis-wife-antonela-roccuzzo-pays-emotional-tribute/articleshow/134779272.cms",
     "time": "2026-10-08T04:00:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘You’re always looking for the next hero’: Kapil Dev on finding Kohli’s successor",
-    "desc": "In his role as president of PGTI, Kapil Dev shares his delight in fostering the progress of Indian golf. Reflecting on his brief coaching past, he points out the critical need for opportunities for young cricketers. He notes the evolution of cricket equipment and the importance of regular play to reduce injury risks. Dev also emphasizes the call for improved infrastructure for golfers and recognizes the rising star, Vaibhav Sooryavanshi.",
-    "img": "https://static.toiimg.com/photo/msid-134779147,imgsize-118932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/youre-always-looking-for-the-next-hero-kapil-dev-on-finding-virat-kohlis-successor/articleshow/134779069.cms",
-    "time": "2026-10-08T03:40:52.000Z"
   },
   {
     "cat": "Business",
@@ -477,24 +693,6 @@ const newsData_en = [
     "time": "2026-10-08T02:57:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NTPC identifies 3 locations for nuclear power projects",
-    "desc": "The public sector powerhouse, NTPC, has earmarked three strategic locations across India for the establishment of nuclear power plants. Situated in Madhya Pradesh, Bihar, and Odisha, these sites are projected to support a significant capacity expansion of up to 30GW. Feasibility reports have been submitted to the Atomic Energy Commission for thorough appraisal, while NTPC explores potential partnerships with international technology firms to enhance the initiative.",
-    "img": "https://static.toiimg.com/photo/msid-134778475,imgsize-84170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ntpc-identifies-3-locations-for-nuclear-power-projects/articleshow/134778436.cms",
-    "time": "2026-10-08T02:53:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Para-shooters allege corruption in Asian Games selection",
-    "desc": "The selection of India’s para-shooting team for the Aichi-Nagoya Para Asian Games has come under a cloud of controversy after a group of para-shooters alleged corruption and financial demands in the selection process. The shooters have sought an independent inquiry into what they described as financial corruption, extortion and manipulation by officials of the Paralympic Committee of India (PCI) and its Shooting Technical Committee (STC).",
-    "img": "https://static.toiimg.com/photo/msid-134777889,imgsize-16503.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/para-shooters-allege-corruption-in-asian-games-selection-pci-chief-says-process-100-fair/articleshow/134777800.cms",
-    "time": "2026-10-08T02:14:52.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Oil remains beyond $100 per barrel as Middle East supply concerns persist",
     "desc": "As tensions escalate in the Middle East, particularly around the Strait of Hormuz, oil prices have surged amid fears of potential supply disruptions. Recent assaults on tankers heighten the danger of transporting crude through this vital corridor. Additionally, American crude inventories are dwindling, signaling a tighter market, while diesel and jet fuel stocks remain below average levels, a trend seen for over seven months since the onset of regional conflict.",
@@ -504,15 +702,6 @@ const newsData_en = [
     "time": "2026-10-08T02:06:25.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Unko select karke koi meherbani nahi ki': Wasim Jaffer on Bhuvneshwar Kumar's India return",
-    "desc": "Bhuvneshwar Kumar’s return to India’s T20I squad has received strong backing from former India batter Wasim Jaffer, who believes the experienced pacer’s selection is based on his performances and fitness, rather than any favour. Bhuvneshwar, 36, has been recalled for India’s five-match T20I series against New Zealand, beginning October 22. Jaffer feels the veteran seamer should have been brought back into the national setup earlier.",
-    "img": "https://static.toiimg.com/photo/msid-134777617,imgsize-31004.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/unko-select-karke-koi-meherbani-nahi-ki-wasim-jaffer-on-bhuvneshwar-kumars-india-return/articleshow/134777577.cms",
-    "time": "2026-10-08T01:51:20.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Airtel hikes postpaid tariffs, others may follow",
     "desc": "Bharti Airtel is set to raise its postpaid tariffs by 3-10% starting Thursday, which affects all users. The new plans will incorporate free international roaming, valued at Rs 2,000 for each SIM once per trip. This change means that postpaid plans will now begin at Rs 499, reflecting increased costs for consumers. Other telecom operators are expected to follow Airtel’s lead in adjusting their pricing soon.",
@@ -520,96 +709,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/airtel-hikes-postpaid-tariffs-others-may-follow/articleshow/134777582.cms",
     "time": "2026-10-08T01:48:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Brookfield to acquire 8 ESR logistics parks for $450 million",
-    "desc": "Brookfield is entering the industrial and logistics real estate market by acquiring eight warehousing parks from ESR India. This acquisition amounts to $450 million and expands Brookfield's operations beyond office and hospitality spaces. The warehousing portfolio spans nearly 400 acres across major cities like Mumbai, Pune, and Chennai. Approximately 98% of the space is leased to various logistics and industrial tenants.",
-    "img": "https://static.toiimg.com/photo/msid-134777570,imgsize-54654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/brookfield-to-acquire-8-esr-logistics-parks-for-450-million/articleshow/134777559.cms",
-    "time": "2026-10-08T01:43:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Consolidated account statements to reflect deposits in banks",
-    "desc": "Individuals will soon benefit from easier access to financial assets in one place through RBI's measures. Interoperable account aggregators will enable customers to access financial information across various banks with consent. Survivors of deceased account holders will find it simpler to discover unclaimed deposits. Additionally, bank deposit information will be included in the monthly consolidated account statement for better financial visibility.",
-    "img": "https://static.toiimg.com/photo/msid-134777545,imgsize-127104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/consolidated-account-statements-to-reflect-deposits-in-banks/articleshow/134777538.cms",
-    "time": "2026-10-08T01:38:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "At 107, National Company Law Tribunal OKs record insolvency cases",
-    "desc": "The National Company Law Tribunal approved 107 corporate insolvency cases in the last quarter of the fiscal year. These cases had an estimated value of Rs 11,000 crore compared to previous quarters. However, the tribunal now faces significant vacancies among its members and challenges in its operations. With many judges retiring soon, the functioning of the tribunal is further affected.",
-    "img": "https://static.toiimg.com/photo/msid-134777533,imgsize-57324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/at-107-national-company-law-tribunal-oks-record-insolvency-cases/articleshow/134777509.cms",
-    "time": "2026-10-08T01:36:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Report",
-    "desc": "Premium spirits in India are experiencing significant growth with a rise in sales volumes projected until 2025. Cheaper liquor categories show slower growth, which indicates a changing market composition. Indian malt whiskies are among the fastest-growing segments, surpassing Scotch malts in sales volume in 2024. The overall spirits market is expected to expand steadily, driven by rising incomes and evolving consumer preferences.",
-    "img": "https://static.toiimg.com/photo/msid-134777476,imgsize-153056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/premium-spirits-sales-soar-past-cheaper-liquor-report/articleshow/134777469.cms",
-    "time": "2026-10-08T01:31:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "12% in India report being scammed in last 1 year",
-    "desc": "According to a recent GSMA survey, 12% of respondents in India reported being scammed recently. Online shopping scams are the most prevalent type among Indian consumers compared to other scams. The survey indicates that messaging apps are frequently used by scammers targeting Indian victims. GSMA highlights the increasing challenge of digital fraud on a global scale. Telecommunications operators in India are proactively working to combat these scams effectively.",
-    "img": "https://static.toiimg.com/photo/msid-134777433,imgsize-83424.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/survey-12-in-india-report-being-scammed-in-last-1-year/articleshow/134777419.cms",
-    "time": "2026-10-08T01:24:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee may be undervalued, markets can be irrational: RBI governor Sanjay Malhotra",
-    "desc": "RBI governor Sanjay Malhotra indicated that the rupee is undervalued and the central bank will intervene. The rupee closed at 96.78, down 36 paise from the previous day, hitting a five-month low. Malhotra mentioned that global AI stock corrections could attract foreign capital to India. Despite a robust services trade surplus, the current account deficit has widened due to increased merchandise trade deficit.",
-    "img": "https://static.toiimg.com/photo/msid-134777376,imgsize-118540.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rupee-may-be-undervalued-markets-can-be-irrational-rbi-governor-sanjay-malhotra/articleshow/134777349.cms",
-    "time": "2026-10-08T01:14:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Naman Dhir has finished him': World Cup winner's big statement on star's T20I future",
-    "desc": "Naman Dhir had scored 318 runs in IPL 2026 but did not bowl a single over during the tournament. His international debut showed that he can offer India another option with the ball. Former India cricketer and 1983 World Cup winner Krishnamachari Srikkanth believes Dhir’s emergence could seriously hurt Washington Sundar’s chances in white-ball cricket.",
-    "img": "https://static.toiimg.com/photo/msid-134777358,imgsize-60172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/naman-dhir-has-finished-him-world-cup-winners-big-statement-on-stars-t20i-future/articleshow/134777331.cms",
-    "time": "2026-10-08T01:12:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court to study plea for recall of split verdict on EC appointment law",
-    "desc": "The Supreme Court has agreed to examine a plea concerning a recent split verdict related to a 2023 election law. This law alters the appointment process for the Chief Election Commissioner and other election commissioners. The split verdict occurred between Justices Dipankar Datta and Satish Chandra Sharma on whether to refer the matter to a larger Constitution bench.",
-    "img": "https://static.toiimg.com/photo/msid-134777326,imgsize-190972.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/supreme-court-to-study-plea-for-recall-of-split-verdict-on-ec-appointment-law/articleshow/134777320.cms",
-    "time": "2026-10-08T01:07:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi Police to scan videos to identify protesters accused of assaulting personnel; FIR likely",
-    "desc": "Delhi Police is reviewing videos to identify protesters involved in the alleged assault during a Congress protest. Rahul Gandhi and Priyanka Gandhi were detained for defying police orders while attempting to proceed to Jantar Mantar. Police are also taking action against misleading social media posts regarding their conduct during the protest. Earlier, an FIR was lodged against Rahul and Priyanka Gandhi for forcibly entering Akashvani Bhawan.",
-    "img": "https://static.toiimg.com/photo/msid-134777285,imgsize-155188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-protest-delhi-police-to-scan-videos-to-identify-protesters-accused-of-assaulting-personnel-fir-likely/articleshow/134777266.cms",
-    "time": "2026-10-08T00:56:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Elon Musk",
-    "desc": "Elon Musk has claimed that certain oligarchs are obstructing Starlink's entry into the Indian market. Starlink has already established the necessary infrastructure and is prepared to launch its services. The company aims to provide affordable broadband connectivity to areas lacking internet access. Regulatory approvals are awaited before the commercial rollout can commence in India. Collaboration with local telecom operators has been a key element in Starlink's strategy for success.",
-    "img": "https://static.toiimg.com/photo/msid-134776982,imgsize-31720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/some-oligarchs-blocking-entry-of-starlink-in-india-elon-musk/articleshow/134776971.cms",
-    "time": "2026-10-07T23:23:36.000Z"
   },
   {
     "cat": "World",
@@ -622,30 +721,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Nobody can stop Bumrah &amp; Bhuvi’: Ashwin’s bold prediction as pacer makes India return",
-    "desc": "Ravichandran Ashwin asserts that Bhuvneshwar Kumar’s display in New Zealand might have a significant impact on his chances for World Cup selection. Having last participated in an ODI in 2022, Bhuvneshwar is set to make his return to international cricket. His capacity to swing the ball could enhance India's bowling lineup for next year’s championship.",
-    "img": "https://static.toiimg.com/photo/msid-134771686,imgsize-63648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/nobody-can-stop-bumrah-and-bhuvneshwar-ashwins-bold-prediction-as-pacer-makes-india-return-after-four-years/articleshow/134771489.cms",
-    "time": "2026-10-07T17:24:59.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Smriti Mandhana, India’s new captain, has earned her job",
     "desc": "The 30-year-old, who is the most experienced player in the side after Harmanpreet, has also led RCB to two WPL titles; the southpaw’s immediate task will be to strengthen the team in the shortest format",
     "img": "https://th-i.thgim.com/public/incoming/3kgu6h/article71555657.ece/alternates/LANDSCAPE_1200/52_RVM_2786.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/smriti-mandhana-indias-new-captain-has-earned-her-job/article71555344.ece",
     "time": "2026-10-07T17:00:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Out on bail after rape allegation, Porel named in Bengal squad for Ranji opener",
-    "desc": "Wicketkeeper-batter Abhishek Porel has been included in Bengal's squad for their upcoming Ranji Trophy match. He was previously arrested on allegations of rape but has since been granted bail. The team has named a strong squad with senior pacers Mohammed Shami and Akash Deep included. Bengal's match against Delhi is set to take place in Kalyani to mark the season opener.",
-    "img": "https://static.toiimg.com/photo/msid-134770637,imgsize-67824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/out-on-bail-after-rape-allegation-abhishek-porel-named-in-bengal-squad-for-ranji-trophy-opener-against-delhi/articleshow/134770593.cms",
-    "time": "2026-10-07T16:47:34.000Z"
   },
   {
     "cat": "World",
@@ -655,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/france-suspends-use-of-stun-grenades-to-police-student-protests/article71556872.ece",
     "time": "2026-10-07T16:32:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Changed Shreyas’ grip &amp; backlift’: How Nayar helped India T20I captain bounce back",
-    "desc": "Facing a troubling drop in performance, with no scores exceeding 30 in his last ten T20I outings, Shreyas Iyer turned to Abhishek Nayar for help. Their two-hour conversation revolved around critical adjustments to Iyer's batting style. The results were evident as Iyer responded with a stellar 102 not out in the first T20I against West Indies, underscoring his tenacity and capacity to rebound from tough situations.",
-    "img": "https://static.toiimg.com/photo/msid-134770001,imgsize-116491.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/changed-shreyas-iyers-grip-initial-movement-and-backlift-how-abhishek-nayar-helped-india-t20i-captain-bounce-back/articleshow/134769902.cms",
-    "time": "2026-10-07T16:01:38.000Z"
   },
   {
     "cat": "World",
@@ -693,15 +765,6 @@ const newsData_en = [
     "time": "2026-10-07T14:43:41.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘He deserves the same’: England legend laments Ronaldo’s finale compared to Messi’s",
-    "desc": "Gary Lineker expressed his sadness over the conclusion of Cristiano Ronaldo's international journey, contrasting it with Lionel Messi's heartfelt farewell with Argentina. While Messi received an emotional send-off, Ronaldo's exit was steeped in controversy. Lineker advocates for a more fitting tribute to Ronaldo's legacy, recognising his significant impact on football.",
-    "img": "https://static.toiimg.com/photo/msid-134768700,imgsize-2083474.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-deserves-the-same-gary-lineker-laments-ronaldos-portugal-finale-compared-to-messis-farewell/articleshow/134768611.cms",
-    "time": "2026-10-07T14:36:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Supreme Court to examine plea that systemic blind spots in aviation boom left disabled travellers stranded",
     "desc": "The plea highlights a systemic and nationwide failure of non-implementation of accessibility across all stages of air travel, including booking, web-check-in, airport entry and navigation, counter check-in, security screening, Digi Yatra processing, immigration, boarding, in-flight services, and arrival assistance",
@@ -718,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/unable-to-distinguish-between-victim-and-perpetrator-india-slams-oic-remarks-at-un/article71555241.ece",
     "time": "2026-10-07T11:07:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why ODI squad announcement was delayed",
-    "desc": "The squads for the upcoming ODI series between India and New Zealand will be announced next week. Selectors are evaluating players during the unofficial ODI series featuring India A against Australia A. Key decision-makers are watching how potential ODI players perform against quality opposition teams. Bhuvneshwar Kumar has rejoined the T20I squad as they prepare for the New Zealand tour.",
-    "img": "https://static.toiimg.com/photo/msid-134763215,imgsize-118786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-tour-of-new-zealand-why-odi-squad-announcement-was-delayed/articleshow/134762990.cms",
-    "time": "2026-10-07T10:25:18.000Z"
   },
   {
     "cat": "World",
@@ -783,15 +837,6 @@ const newsData_en = [
     "time": "2026-10-07T03:01:48.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran must cut enrichment to end war, U.S. Vice-President Vance says",
-    "desc": "J.D. Vance, in an interview, said the U.S. was in talks with Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araqchi. But it was unclear ‌how much authority they wield within Iran’s power structure, he said",
-    "img": "https://th-i.thgim.com/public/incoming/fee7kt/article71554108.ece/alternates/LANDSCAPE_1200/2026-10-06T222836Z_162530340_RC2EXNANCE0Z_RTRMADP_3_USA-VANCE-INTERVIEW.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-must-cut-enrichment-to-end-war-us-vice-president-vance-says/article71554105.ece",
-    "time": "2026-10-07T01:46:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "lessons from the Asian Games for the Olympics",
     "desc": "An Olympic medal will mean less to a player than winning a World Cup or World Test Championship. And if the games are in a country with little or no interest in cricket, it is unlikely to spread its message which is what the ICC hopes for",
@@ -799,24 +844,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/back-to-the-future-lessons-from-the-asian-games-for-the-olympics/article71551385.ece",
     "time": "2026-10-07T01:16:42.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Ganga Water Treaty is ‘flawed’, needs to be updated: Bangladesh river expert",
-    "desc": "“The Ganga Water Treaty is three decades old and flawed as it does not include a guarantee clause. It also does not have ecological flow and environmental flow considerations,” Manjur A. Chowdhury, chairman of Bangladesh River Conservation Commission told The Hindu",
-    "img": "https://th-i.thgim.com/public/news/national/q76w8d/article71553000.ece/alternates/LANDSCAPE_1200/iStock-1435404243.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ganga-water-treaty-is-flawed-needs-to-be-updated-bangladesh-river-expert/article71552590.ece",
-    "time": "2026-10-06T17:19:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Paramount and Warner Bros merge to become one Hollywood giant, Skydance",
-    "desc": "The merger brings two of America's oldest moviemaking studios together under the helm of billionaire David Ellison and Ynon Kreiz, in a move that is projected to concentrate power in an industry already run by just a handful of major players",
-    "img": "https://th-i.thgim.com/public/incoming/ffoftu/article71552659.ece/alternates/LANDSCAPE_1200/2298278510.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/paramount-and-warner-bros-merge-to-become-one-hollywood-giant-skydance/article71552210.ece",
-    "time": "2026-10-06T15:41:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -828,15 +855,6 @@ const newsData_en = [
     "time": "2026-10-06T14:19:49.000Z"
   },
   {
-    "cat": "Business",
-    "title": "How next-gen GST can power India’s journey to Viksit Bharat",
-    "desc": "In this column, Finance Minister Nirmala Sitharaman outlines the vision behind Next-Gen GST and explains how recent reforms are aimed at reducing tax burdens, simplifying compliance and supporting economic growth. She highlights rising GST collections, stronger business participation, growing consumer demand and the role of states in shaping the reform process.",
-    "img": "https://th-i.thgim.com/public/incoming/mydod7/article71551535.ece/alternates/LANDSCAPE_1200/T%20THUMBNAIL.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/how-next-gen-gst-can-power-indias-journey-to-viksit-bharat-fm-nirmala-sitharaman-writes/article71551543.ece",
-    "time": "2026-10-06T12:40:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Drop Shot EP 09",
     "desc": "In this episode, we bring together four stories from the worlds of cinema, culture, society and Chennai’s history. Arjun Das and Aditi Shankar talk about Once More and choosing stories that connect with them. Writer Meena Kandasamy examines the world of the Indian incel and the ideas behind it. We step inside the Art Deco story of The Hindu’s iconic Chennai building, and look at Yash and Geetu Mohandas’ Toxic, a dark fairy tale for grown-ups.",
@@ -844,24 +862,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/shows/drop-shot-ep-09-once-more-incels-art-deco-yashs-toxic-fairy-tale/article71405693.ece",
     "time": "2026-10-06T07:46:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Messi set for emotional Argentina farewell in Buenos Aires friendly vs Benin",
-    "desc": "The 39-year-old superstar will play his final match for Argentina on Tuesday (October 6, 2026) — a friendly against Benin at Estadio Monumental in Buenos Aires — marking a pivotal moment in the country's football",
-    "img": "https://th-i.thgim.com/public/incoming/dgpeva/article71548906.ece/alternates/LANDSCAPE_1200/Argentina_Messi_Soccer_58277.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/messi-set-for-emotional-argentina-farewell-in-buenos-aires-friendly-vs-benin/article71548905.ece",
-    "time": "2026-10-05T21:42:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Windies could run India close in the shortest format",
-    "desc": "The host boasts of a power-packed batting line-up; Samson under the scanner; how the team management handles Sooryavanshi remains to be seen; the visitor gets a big boost with the return of Hetmyer, Powell, Shepherd and Akeal",
-    "img": "https://th-i.thgim.com/public/incoming/umgj9e/article71547628.ece/alternates/LANDSCAPE_1200/INDIA%20WEST%20INDIES%20T20%209.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-vs-west-indies-first-t20-international-preview/article71547488.ece",
-    "time": "2026-10-05T14:00:37.000Z"
   },
   {
     "cat": "Tech",
@@ -882,15 +882,6 @@ const newsData_en = [
     "time": "2026-10-05T08:06:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "A look back at one of Indian cinema’s iconic duos",
-    "desc": "From a film without dialogue to a dwarf protagonist and four characters played by a single actor — with an appetite for the unconventional and an instinct for experimentation, Singeetham Srinivasa Rao and Kamal Haasan formed a rare creative partnership that repeatedly turned the impossible into enduring cinema",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/98wd3x/article71543641.ece/alternates/LANDSCAPE_1200/Singeetham%20Kamal.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/singeetham-srinivasa-rao-kamal-haasan-raaja-paarvai-apoorva-sagodharargal-pushpak-michael-madana-kama-rajan/article71543551.ece",
-    "time": "2026-10-04T12:47:34.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Amazon v. Perplexity: who’s in control when an AI agent acts for you?",
     "desc": "In India, where e-commerce, automated consumer services, and AI adoption are all expanding rapidly, the legal dispute between Amazon.com and Perplexity AI offers a useful, if also imperfect, template to think about platform governance and intermediary liability",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/amazon-v-perplexity-whos-in-control-when-an-ai-agent-acts-for-you/article71523202.ece",
     "time": "2026-10-04T10:31:31.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why translating AI advances to the real world is a major challenge",
+    "desc": "AI systems more reliable in everyday settings is a challenge worth solving, not just to improve gadgets and apps, but because AI has the potential to support human well-being, whether that means safer streets, smarter healthcare or more secure homes",
+    "img": "https://th-i.thgim.com/public/incoming/pkygws/article71543297.ece/alternates/LANDSCAPE_1200/healthcare_ai.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/from-lab-to-life-why-translating-ai-advances-to-the-real-world-is-a-major-challenge/article71543262.ece",
+    "time": "2026-10-04T08:54:27.000Z"
   }
 ];
