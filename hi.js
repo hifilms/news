@@ -1,6 +1,78 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Dhananjaya de Silva steps down as Sri Lanka's Test captain ahead of Pakistan series",
+    "desc": "In a major development, Sri Lanka’s Test captain, Dhananjaya de Silva, has officially stepped down as captain of the side. It is interesting to note that De Silva made the decision of his own accord,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dhananjaya-de-silva-steps-down-as-sri-lanka-s-test-captain-ahead-of-pakistan-series-2026-10-08-1056428",
+    "time": "2026-10-08T09:31:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli, Sachin Tendulkar mourn Nana Patekar, post emotional note over his sudden passing",
+    "desc": "The world has been hit with a shockwave after the news of veteran actor Nana Patekar’s passing came out. It is worth noting that at the age of 75, Nana Patekar was found unconscious at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-sachin-tendulkar-mourn-nana-patekar-post-emotional-note-over-his-sudden-passing-2026-10-08-1056419",
+    "time": "2026-10-08T08:19:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Kagiso Rabada play for South Africa against Australia in Durban? Simon Harmer provides update",
+    "desc": "The stage is set for the upcoming three-game Test series between South Africa and Australia. The two sides will meet in the first test of the series at Kingsmead in Durban from October 9th. Being...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-kagiso-rabada-play-for-south-africa-against-australia-in-durban-simon-harmer-provides-update-2026-10-08-1056411",
+    "time": "2026-10-08T07:32:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cristiano Ronaldo posts heartfelt farewell message for Lionel Messi after latter's international retirement",
+    "desc": "Legendary Argentine footballer Lionel Messi has retired from international football. One of the greatest players to grace the pitch, Messi recently played his farewell game for Argentina as the side took on Benin. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-posts-heartfelt-farewell-message-for-lionel-messi-after-latter-s-international-retiremen-2026-10-08-1056403",
+    "time": "2026-10-08T06:19:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Punjab Kings' coaching staff to undergo major changes? Haddin-Hopes resign ahead of IPL 2027",
+    "desc": "The IPL (Indian Premier League) 2027 season is on the horizon, and the various franchises are hard at work as they begin the process of finalising their squads ahead of the new season of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-coaching-staff-to-undergo-major-changes-haddin-hopes-resign-ahead-of-ipl-2027-report-2026-10-08-1056397",
+    "time": "2026-10-08T05:26:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Afghanistan head coach hails Mohammad Nabi, reflects on his importance in the squad",
+    "desc": "Afghanistan is gearing up for a stacked schedule ahead of their upcoming clashes. After a one-off Test match against Bangladesh on October 9th, Afghanistan will also be participating in a tri-series against Zimbabwe and Bangladesh...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-head-coach-hails-mohammad-nabi-reflects-on-his-importance-in-the-squad-2026-10-08-1056388",
+    "time": "2026-10-08T04:09:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'This is an advantage': Former India cricketer weighs in on Naman Dhir ahead of India's second T20I against WI",
+    "desc": "The stage is set for the Indian team to continue their ongoing T20I series against the West Indies. The two sides are slated to take on each other in the second T20I of the series...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/this-is-an-advantage-former-india-cricketer-weighs-in-on-naman-dhir-ahead-of-india-s-second-t20i-against-wi-2026-10-08-1056375",
+    "time": "2026-10-08T02:26:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand announce BJ Watling as new Test team batting coach",
+    "desc": "NZC (New Zealand Cricket) recently came forward and announced the appointment of former cricketer BJ Watling as the Test side’s new batting coach. The former wicketkeeper-batter will be replacing Luke Ronchi in the role. His...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-announce-bj-watling-as-new-test-team-batting-coach-2026-10-08-1056371",
+    "time": "2026-10-08T01:36:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kieron Pollard has joined Joburg Super Kings in SA20 auction; MI Cape Town sign Trent Boult, Shimron Hetmyer",
     "desc": "Kieron Pollard’s association with the MI family began in 2010. He has served the franchise for over a decade and is currently the batting coach of Mumbai Indians in the Indian Premier League. However, he...",
     "img": "",
@@ -16,77 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/9-indian-wrestlers-denied-us-visas-for-world-wrestling-championship-in-las-vegas-here-s-why-2026-10-07-1056355",
     "time": "2026-10-07T15:17:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kieron Pollard leaves MI for Joburg, Trent Boult, Hetmyer joins Cape Town",
-    "desc": "The SA20 Season 5 auction is set to begin with four franchises still to fill 19 squad positions after the salary cap was raised to USD 2.54 million. Joburg Super Kings enter the auction with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sa20-auction-live-updates-list-of-players-sold-unsold-purse-remaining-updated-squads-kieron-pollard-faf-du-plessis-trent-boult-sunrisers-mi-1056349",
-    "time": "2026-10-07T13:57:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi says goodbye to Argentina in tears, while Cristiano Ronaldo stages bizzare meltdown at 41",
-    "desc": "There is a fine line between relentless competitive fire and absurd self-parody, and Cristiano Ronaldo is walking on it precariously. At 41 years old, when sporting legends usually cultivate grace, reflection, or at least a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-says-goodbye-to-argentina-in-tears-while-cristiano-ronaldo-stages-absurd-meltdown-at-41-2026-10-07-1056331",
-    "time": "2026-10-07T11:53:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer climbs to seven in men's T20I ranking, KL Rahul enters top 10 in ODIs",
-    "desc": "Shreyas Iyer made a major jump in the latest ICC men's T20I batting rankings after his unbeaten century against West Indies in Lucknow. He jumped 18 places to a career-high seventh position. His 43-ball 102...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-climbs-to-seven-in-men-s-t20i-ranking-kl-rahul-enters-top-10-in-odis-2026-10-07-1056325",
-    "time": "2026-10-07T11:26:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sourav Ganguly denies conflict of interest after named Delhi Capitals coach amid serving as CAB president",
-    "desc": "Sourav Ganguly has rejected questions over a potential conflict of interest linked to his appointment as Delhi Capitals head coach. He said that an order issued by the BCCI ombudsman addresses his position while he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sourav-ganguly-denies-conflict-of-interest-after-being-named-delhi-capitals-coach-amid-serving-as-cab-president-2026-10-07-1056316",
-    "time": "2026-10-07T10:30:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur, Smriti Mandhana 'weren't seeing eye to eye' over captaincy: Report",
-    "desc": "Smriti Mandhana's elevation as captain of the Indian women's cricket team was the expected next step after Harmanpreet Kaur stepped down from the role. But according to a PTI report, the change also comes against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-smriti-mandhana-werent-seeing-eye-to-eye-over-captaincy-reports-pti-2026-10-07-1056294",
-    "time": "2026-10-07T06:31:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Baseless claim': Virat Kohli's team denies he took Rs 5 crore to visit Premanand Maharaj's ashram",
-    "desc": "Virat Kohli did not receive Rs 5 crore for his visit to Premanand Maharaj's ashram, with his official spokesperson dismissing the claim as \"completely false, baseless and factually incorrect.\" \"Virat Kohli visits Premanand Maharaj purely...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/baseless-claim-virat-kohli-s-team-denies-he-took-rs-5-crore-to-visit-premanand-maharaj-s-ashram-2026-10-07-1056292",
-    "time": "2026-10-07T06:27:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "A night of tears, emotions as Lionel Messi signs off with one last goal for Argentina in farewell match",
-    "desc": "Emotions ran high, with teary eyes at the Buenos Aires stadium as Lionel Messi concluded his 21-year stellar international football career on Tuesday, bidding farewell to adoring Argentina fans during his final appearance for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/a-night-of-tears-emotions-as-lionel-messi-signs-off-with-one-last-goal-for-argentina-in-farewell-match-2026-10-07-1056272",
-    "time": "2026-10-07T02:28:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India show potential with Anirudh Thapa's goal, crumble in second half as Uruguay win 6-1 in Kolkata",
-    "desc": "India’s international break ended on a disappointing note as they were beaten 6-1 by Uruguay at the Salt Lake Stadium in Kolkata on Tuesday. Anirudh Thapa scored India’s only goal in the first half, but...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/india-show-potential-with-anirudh-thapa-s-goal-crumble-in-second-half-as-uruguay-win-6-1-in-kolkata-2026-10-06-1056264",
-    "time": "2026-10-06T18:07:02.000Z"
   }
 ];
