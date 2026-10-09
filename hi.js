@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India vs West Indies, 2nd T20I Pitch Report, how will surface in Ranchi play?",
+    "desc": "The stage is set for the 2nd T20I of the ongoing series between India and the West Indies. The two sides are slated to take on each other at the JSCA International Stadium Complex, Ranchi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-west-indies-2nd-t20i-pitch-report-how-will-surface-in-ranchi-play-2026-10-09-1056527",
+    "time": "2026-10-09T08:18:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Injury crisis hits New Zealand, two star players ruled out of upcoming India T20Is; Check details",
+    "desc": "The stage is set for the upcoming multi-format series between India and New Zealand. After the conclusion of India’s ongoing T20I series against the West Indies, the Men in Blue will be taking on New...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/injury-crisis-hits-new-zealand-two-star-players-ruled-out-of-upcoming-india-t20is-check-details-2026-10-09-1056520",
+    "time": "2026-10-09T07:37:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India vs Pakistan U19 Asia Cup clash set on Diwali day; check full schedule",
     "desc": "India and Pakistan will meet again in the U19 Asia Cup on November 8 after the Asian Cricket Council confirmed the schedule for the 2026 edition of the continental tournament. The competition will be staged...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/south-africa-announce-playing-xi-for-1st-test-vs-australia-nortje-returns-but-kagiso-rabada-misses-out-2026-10-08-1056441",
     "time": "2026-10-08T10:52:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MI reacts to losing Kieron Pollard to Joburg Super Kings; Albie Morkel welcomes him, says 'no-brainer' deal",
-    "desc": "In a blockbuster move, Joburg Super Kings signed legendary cricketer Kieron Pollard for R1.5 million in the SA20 2027 auction. Joburg were quick to bid for him and the solitary bid was enough for them...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-reacts-to-losing-kieron-pollard-to-joburg-super-kings-albie-morkel-welcomes-him-says-no-brainer-deal-2026-10-08-1056431",
-    "time": "2026-10-08T10:02:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dhananjaya de Silva steps down as Sri Lanka's Test captain ahead of Pakistan series",
-    "desc": "In a major development, Sri Lanka’s Test captain, Dhananjaya de Silva, has officially stepped down as captain of the side. It is interesting to note that De Silva made the decision of his own accord,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dhananjaya-de-silva-steps-down-as-sri-lanka-s-test-captain-ahead-of-pakistan-series-2026-10-08-1056428",
-    "time": "2026-10-08T09:31:17.000Z"
   }
 ];
