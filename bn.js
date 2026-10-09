@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "যন্তর মন্তরে সিজেপি বিক্ষোভের আগেই যেন নিশ্ছিদ্র দুর্গ দিল্লি: ২৩ হাজার পুলিস, ফেস রিকগনিশন মেশিন আর AI ড্রোন নজরদারি: অবরুদ্ধ রাজধানী",
+    "desc": "উত্তরপ্রদেশ এবং রাজস্থান সীমান্ত দিয়ে যাতে আন্দোলনকারীদের কোনও দল দিল্লিতে প্রবেশ করতে না পারে, তার জন্য শাহদারা ও পূর্ব সীমানায় একাধিক ব্যারিকেড বসানো হয়েছে। আইনশৃঙ্খলা বজায় রাখতে ৯ ও ১০ অক্টোবর পুরো দিল্লিতে মদের দোকান বন্ধ (Dry Day) রাখার নির্দেশ দেওয়া হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/delhi-under-tight-gridlock-57-metro-stations-face-gate-closures-and-key-rail-routes-suspended-for-jantar-mantar-agitation_673017.html ",
+    "time": "2026-10-09T11:18:19.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "পুরভোটের আগেই রাজ্যে SIR এ নাম বাদ পড়াদের নিয়ে বিরাট খবর: বাদ নয়, আগে নাম তোলার হিসেব হোক, সুপ্রিম রায়ে অবশেষে ভোটাধিকার বঞ্চিতদের?",
     "desc": "শুক্রবার মামলার বিশেষ উল্লেখের সময় সুপ্রিম কোর্টের প্রধান বিচারপতি সূর্যকান্ত সাফ জানিয়ে দেন, প্রয়োজনে নাম বাদ দেওয়ার আপিল শুনানি কিছুদিনের জন্য স্থগিত রেখে, যাঁদের নাম তালিকা থেকে বাদ পড়েছে তাঁদের নাম ফের অন্তর্ভুক্তির আবেদনগুলি আগে শোনা হবে। শুধু তা-ই নয়, আসন্ন নির্বাচনগুলির দিনক্ষণ ঘোষণার আগেই যাতে এই সংক্রান্ত আইনি প্রক্রিয়ার দ্রুত নিষ্পত্তি করা যায়, সেই সম্ভাবনাও সক্রিয়ভাবে বিবেচনা করছে আদালত।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -160,24 +169,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/building-on-its-legacy-of-34-years-z-progresses-towards-its-growth-aspirations-to-shape-the-next-era-of-entertainment_672624.html ",
     "time": "2026-10-01T12:21:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ব্রেক আপের হাড়হিম বদলা! নার্সিং ছাত্রীকে নৃশংস খুন, ৫ শহর ঘুরেও শেষরক্ষা হল না প্রেমিকের",
-    "desc": "নিখোঁজ হওয়ার প্রায় ৫ দিন পর দুর্গন্ধ পেয়ে স্থানীয় এক ব্যক্তি পুলিসে খবর দেন। পুলিস তদন্তে নেমে তরুণীর প্রেমিক পুনমচাঁদকে একাধিক শহর ঘুরে গ্রেফতার করে। সম্পর্ক ভেঙে দেওয়ার ক্ষোভে নির্জন স্থানে ছুরি মেরে নিশাকে খুন করেছে বলে অভিযুক্ত স্বীকার করেছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/rajasthan-dungarpur-nursing-student-murder-boyfriend-arrested_672617.html ",
-    "time": "2026-10-01T08:51:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "৪ বছর পর নীল ড্রাম থেকে মিলল মহিলার দেহ! তদন্তে ৩ খুনের রহস্য, গ্রেফতার দম্পতি",
-    "desc": "পুলিসের দাবি, মাধবদাস সাধু ও তাঁর স্ত্রী উর্মিলা তিন মহিলা আত্মীয়কে খুন করেছিলেন। তাঁদের মধ্যে এক জনের দেহ সিমেন্টভর্তি নীল ড্রামে লুকিয়ে বাড়ির উঠোনে মাটির নীচে পুঁতে রাখা হয়েছিল। স্বামী-স্ত্রীকে গ্রেফতার করেছে আহমেদাবাদ ক্রাইম ব্রাঞ্চ।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/ahmedabad-triple-murder-blue-drum-body-couple-arrested-2022-case_672591.html ",
-    "time": "2026-10-01T07:36:54.000Z"
   },
   {
     "cat": "Entertainment",
