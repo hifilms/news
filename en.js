@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Keegan Allen ATTACKED and robbed at gunpoint",
+    "desc": "Keegan Allen, known for his role in Pretty Little Liars, was violently attacked and robbed recently. Two masked assailants threatened him with a gun and knife before fleeing with his watch. The incident occurred on Santa Monica Boulevard in West Hollywood, leaving Allen injured with a laceration on his forehead. Local authorities have confirmed the robbery and are investigating the incident with public concern.",
+    "img": "https://static.toiimg.com/photo/msid-134842671,imgsize-331575.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/pretty-little-liars-actor-keegan-allen-attacked-and-robbed-at-gunpoint-actor-says-men-threatened-to-kill-him-over-luxury-watch-video/articleshow/134842672.cms",
+    "time": "2026-10-09T21:41:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hyderabad’s common mobility pass fails to hit the mark",
+    "desc": "Priced at ₹8,500 a month, the new pass allows unlimited travel on Metro Rail and RTC buses within the ORR limits but excludes MMTS and last-mile services. Commuters say affordable fares, feeder connectivity and coordination among transport agencies are essential for seamless travel",
+    "img": "https://th-i.thgim.com/public/incoming/234hki/article71565118.ece/alternates/LANDSCAPE_1200/_DSC6749.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/hyderabads-common-mobility-pass-fails-to-hit-the-mark/article71564182.ece",
+    "time": "2026-10-09T19:26:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Breakfast scheme brings more students to schools in Telangana",
+    "desc": "Increased enrolment, enhanced attendance, no complaints of hunger and more energy among students throughout the day were some of the key factors that emerged as focal points in the Telangana schools after the introduction of the breakfast scheme this academic year, according to a survey in Kodangal constituency by Third Vision Research and Services",
+    "img": "https://th-i.thgim.com/public/incoming/r1szof/article71564685.ece/alternates/LANDSCAPE_1200/DSC0607.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/breakfast-scheme-brings-more-students-to-schools-in-telangana/article71564342.ece",
+    "time": "2026-10-09T19:21:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJP leaders accuse govt. of imposing Emergency, 'Even if I am detained, the protest should not end', says   Dipke",
+    "desc": "The Ministry of Home Affairs has approved the temporary suspension of internet services. Internet services will remain suspended within a 4-kilometre radius around the Janpath–Kartavya Path crossing from 10 p.m. on October 9 to 10 p.m. on October 10.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-controversy-live-updates-india-bloc-congress-jantar-mantar-cjp-protest-live-updates-october-9-2026/article71562437.ece",
+    "time": "2026-10-09T19:01:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mrunal defends Kat and Kriti against trolls who judged their looks and clothes",
+    "desc": "In a recent statement, Mrunal Thakur came to the defense of actresses Katrina Kaif and Kriti Sanon, who faced harsh judgment online. Social media users criticized Katrina's appearance post-pregnancy, while Kriti's outfit choices were scrutinized. Mrunal emphasized the importance of respect for all actors and noted that men also endure similar criticisms. This commentary came during the promotion of her film 'Pooja Meri Jaan' on ZEE5.",
+    "img": "https://static.toiimg.com/photo/msid-134841338,imgsize-663478.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-defends-katrina-kaif-and-kriti-sanon-against-trolls-who-judged-their-looks-and-clothes-women-are-always-judged-and-when-are-they-not-judged/articleshow/134841221.cms",
+    "time": "2026-10-09T18:32:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shai Hope, Sherfane Rutherford dazzle as West Indies draws level",
+    "desc": "Shai Hope hits an unbeaten 102 off just 45 deliveries while Sherfane Rutherford smashes a 37-ball 84 as the Men in Maroon pull off their highest chase in the shortest format; Samson’s knock goes in vain",
+    "img": "https://th-i.thgim.com/public/incoming/p13e2h/article71565686.ece/alternates/LANDSCAPE_1200/067.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ind-vs-wi-second-t20-shai-hope-sherfane-rutherford-dazzle-as-west-indies-draws-level/article71565697.ece",
+    "time": "2026-10-09T18:05:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kareena's F1 crossover leaves netizens bringing up Saif's 'Ta Ra Rum Pum'",
+    "desc": "Kareena Kapoor Khan has proudly become a member of the McLaren Racing family and is set to have a chat with Lando Norris. This collaboration has sparked a wave of excitement among fans on social media, leading many to reminisce about Saif Ali Khan’s performance in ‘Ta Ra Rum Pum’ and its connection to Kareena’s new venture.",
+    "img": "https://static.toiimg.com/photo/msid-134840604,imgsize-547526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khans-f1-crossover-leaves-netizens-bringing-up-saif-ali-khans-ta-ra-rum-pum-her-favourite-driver/articleshow/134840353.cms",
+    "time": "2026-10-09T18:03:19.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Rahul Gandhi's claim that President Murmu accepted 'vote theft' allegation incorrect: Report",
     "desc": "Regarding the President's response during their interaction, Rahul Gandhi had said, \"I sat in quite an unbelievable meeting. First, we took a memorandum to the President of India. In that memorandum, we clearly stated that the Prime Minister, HM Amit Shah, and CEC Gyanesh Kumar had conspired to destroy Indian democracy. The President in no way denied what we said, questioned what we said, or argued what we said.\"",
@@ -9,13 +72,13 @@ const newsData_en = [
     "time": "2026-10-09T17:44:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CJP leaders accuse govt. of imposing Emergency, 'Even if I am detained, the protest should not end', says   Dipke",
-    "desc": "The Ministry of Home Affairs has approved the temporary suspension of internet services. Internet services will remain suspended within a 4-kilometre radius around the Janpath–Kartavya Path crossing from 10 p.m. on October 9 to 10 p.m. on October 10.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-controversy-live-updates-india-bloc-congress-jantar-mantar-cjp-protest-live-updates-october-9-2026/article71562437.ece",
-    "time": "2026-10-09T17:41:14.000Z"
+    "cat": "Sports",
+    "title": "Hope springs eternal as West Indies pull off highest chase in T20Is in Ranchi",
+    "desc": "Hope and Sherfane Rutherford turned the match on its head with a 120-run stand for the fourth wicket. Rutherford smashed 84 off 37 balls, while Hope remained unbeaten on 102 off 45 as the West Indies chased down India's 250-run target with nine balls to spare.",
+    "img": "https://static.toiimg.com/photo/msid-134840078,imgsize-107461.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/hope-springs-eternal-as-west-indies-pull-off-their-highest-chase-in-t20is-in-ranchi/articleshow/134839973.cms",
+    "time": "2026-10-09T17:40:32.000Z"
   },
   {
     "cat": "Sports",
@@ -45,15 +108,6 @@ const newsData_en = [
     "time": "2026-10-09T17:19:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Farmers in Keralam’s Kollam call for hill-region hartal over exclusion of villages from ESA exemption list",
-    "desc": "The shutdown, scheduled from 6 a.m. to 6 p.m. on October 27, is also in protest against the State government’s alleged sidelining of eight villages in Kollam while recommending exclusion of 33 other villages across Keralam from contentious draft",
-    "img": "https://th-i.thgim.com/public/incoming/cqvpu8/article71564635.ece/alternates/LANDSCAPE_1200/ESA-row-heats-uGS3GJFIBJ.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/farmers-in-keralams-kollam-call-forhill-regionhartal-over-exclusion-of-villages-from-esa-exemption-list/article71564099.ece",
-    "time": "2026-10-09T17:17:24.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kamal Haasan STRONGLY responds to Elon Musk's Starlink claim",
     "desc": "Kamal Haasan addressed Elon Musk's allegations regarding Starlink's delayed entry into India and competition issues. He emphasized that billionaires should not dictate national policies for any country, including India. Haasan pointed out India's commitment to ensuring affordable satellite internet access to bridge the digital divide. He also highlighted that India's national security considerations shape its regulatory decisions, which are not discriminatory.",
@@ -61,15 +115,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kamal-haasan-strongly-responds-to-elon-musks-starlink-claim-india-is-a-democracy-not-a-colony-says-the-country-will-decide-its-own-future/articleshow/134838972.cms",
     "time": "2026-10-09T17:12:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "16.18 lakh Form 6 applications filed during enumeration phase of SIR in U.P.: Chief Electoral Officer",
-    "desc": "CEO Navdeep Rinwa responded to a report by The Reporters’ Collective that said Form 6 applications that are used for new voter registrations had been added ‘mysteriously’ and that the names of the applicants had not been disclosed",
-    "img": "https://th-i.thgim.com/public/incoming/ikdx7u/article71565496.ece/alternates/LANDSCAPE_1200/DSC_4655.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/1618-lakh-form-6-applications-filed-during-enumeration-phase-of-sir-in-up-chief-electoral-officer/article71564759.ece",
-    "time": "2026-10-09T16:39:22.000Z"
   },
   {
     "cat": "Business",
@@ -118,24 +163,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "TVK bags Madurantakam, Dharapuram seats",
-    "desc": "The bypolls in the two constituencies were necessitated after Maragatham Kumaravel and P. Sathyabama, who had won the Madurantakam and Dharapuram seats, respectively, as AIADMK candidates in the 2026 Assembly elections, resigned as MLAs and joined the ruling TVK",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/wdq0uc/article71563461.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-09%20at%2013.57.25%202.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bypoll-results-tvk-madurantakam-dharapuram-constituencies/article71563406.ece",
-    "time": "2026-10-09T16:04:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "HMDA mortgages 10 land parcels to raise ₹10,000 crore for infra works",
-    "desc": "Funds will be used for construction of two greenfield radial roads, respectively from Raviryal exit of the Outer Ring Road to Amangal, and from Shamshabad to Pargi and two elevated corridors respectively on National Highway 44, and State Highway 01",
-    "img": "https://th-i.thgim.com/public/incoming/90ojhe/article71565414.ece/alternates/LANDSCAPE_1200/_DSC8444.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/hmda-mortgages-10-parcels-of-public-lands-to-raise-10000-crore-for-infra-works/article71564999.ece",
-    "time": "2026-10-09T16:02:43.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Game of one-upmanship? For fourth day in a row, INDIA bloc MPs hit the streets ahead of CJP's Jantar Mantar 2.0",
     "desc": "In New Delhi, opposition leaders have rallied for four straight days, demanding the resignation of Chief Election Commissioner Gyanesh Kumar. They charge the government with manipulating electoral rolls while staging protests across multiple sites. Police responses have fluctuated, at times permitting rallies and occasionally enforcing strict measures. Adding to the unrest, a youth-led organization is planning a demonstration on October 10, potentially escalating tensions and influencing the opposition's future tactics.",
     "img": "https://static.toiimg.com/photo/msid-134838473,imgsize-1583512.cms",
@@ -151,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/zubeen-garg-death-case-gauhati-high-court-gives-relief-to-co-singer-amritprava-mahanta-who-was-arrested-by-assam-sit-in-2025/articleshow/134837633.cms",
     "time": "2026-10-09T15:49:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi Police compile ‘database’ of potential protesters, make calls and visit homes ahead of October 10 Jantar Mantar protest",
-    "desc": "Police are coordinating with States to prevent people from reaching Delhi for the October 10 CJP protest; at least 200 WhatsApp and Instagram groups under surveillance as students, supporters and journalists report police enquiries about their plans.",
-    "img": "https://th-i.thgim.com/public/incoming/eohydc/article71565213.ece/alternates/LANDSCAPE_1200/PTI10_09_2026_000177B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-compile-database-of-potential-protesters-make-calls-and-visit-homes-ahead-of-october-10-jantar-mantar-protest/article71565202.ece",
-    "time": "2026-10-09T15:48:51.000Z"
   },
   {
     "cat": "Sports",
@@ -178,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/vincius-jr-s-institute-gave-away-nearly-r8-million-in-2025-how-the-real-madrid-star-is-changing-future-of-thousands-of-brazilian-children/articleshow/134830516.cms",
     "time": "2026-10-09T15:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'This govt will fall': Rahul Gandhi's 'guarantee' to allies amid protests against CEC Gyanesh Kumar",
-    "desc": "Addressing INDIA bloc MPs at the Central Hall of Samvidhan Sadan, Gandhi said the issue went beyond Chief Election Commissioner Gyanesh Kumar and called for the termination of the current government. \"There is a much deeper problem than Gyanesh Kumar and it requires termination of this current government,\" said Congress leader Rahul Gandhi.",
-    "img": "https://static.toiimg.com/photo/msid-134837469,imgsize-58648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/this-govt-will-fall-rahul-gandhis-guarantee-to-allies-amid-protests-against-cec-gyanesh-kumar/articleshow/134837217.cms",
-    "time": "2026-10-09T15:27:52.000Z"
   },
   {
     "cat": "World",
@@ -234,13 +243,13 @@ const newsData_en = [
     "time": "2026-10-09T14:44:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Will your next car be cheaper to run?",
-    "desc": "India is set to implement new Corporate Average Fuel Economy norms from April 2027, aiming to enhance fuel efficiency. Automakers will face stricter fuel-consumption targets and incentives for clean technologies, which may impact vehicle prices. Buyers must consider total ownership costs, including maintenance and energy, before purchasing new cars. The regulations will promote various technologies like electric and hybrid vehicles while allowing manufacturers to choose their paths.",
-    "img": "https://static.toiimg.com/photo/msid-134836821,imgsize-173220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cafe-iii-kicks-in-from-2027-will-your-next-car-be-cheaper-to-run/articleshow/134836042.cms",
-    "time": "2026-10-09T14:33:37.000Z"
+    "cat": "Sports",
+    "title": "The World title match is like an hourglass… it’s always the same opponent: Nepomniachtchi",
+    "desc": "The Russian GM recently got a measure of revenge for his 2021 World championship loss, beating Magnus Carlsen to help his side win the Global Chess League. He talks about the upcoming Gukesh-Sindarov clash, the dynamics of title matches and the next generation",
+    "img": "https://th-i.thgim.com/public/incoming/99mrvg/article71564845.ece/alternates/LANDSCAPE_1200/_JAI7654.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/the-world-title-match-is-like-an-hourglass...-its-always-the-same-opponent-nepomniachtchi/article71564835.ece",
+    "time": "2026-10-09T14:39:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -295,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/upi-vs-credit-cards-what-should-you-choose-for-payments-after-mdr/articleshow/134822791.cms",
     "time": "2026-10-09T13:39:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt orders internet shutdown within 4-kilometer radius of Janpath–Kartavya Path ahead of anti-CEC protest",
-    "desc": "Senior Delhi Police officers on Friday also held a high-level meeting at the police headquarters to review the law-and-order situation ahead CJP's proposed protest at Jantar Mantar. The meeting focused on assessing the security situation and reviewing arrangements to maintain law and order in the national capital, they said. Officers also examined recent observations made by the Supreme Court, which are expected to feature in the discussions, sources added.",
-    "img": "https://static.toiimg.com/photo/msid-134835552,imgsize-200860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/govt-orders-internet-shutdown-within-4-kilometer-radius-of-janpathkartavya-path-ahead-of-anti-cec-protest/articleshow/134835311.cms",
-    "time": "2026-10-09T13:38:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -403,33 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/historic-olympic-quota-multiple-medals-but-no-salary-indias-compound-archery-coach-unhappy-over-payment-delay/articleshow/134832852.cms",
     "time": "2026-10-09T11:59:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Awarapan 2' Ott release: Fans hail Emraan Hashmi return",
-    "desc": "Nitin Kakkar’s “Awarapan 2,” starring Emraan Hashmi, Disha Patani and Shabana Azmi, is now streaming on Prime Video. Despite mixed reviews, the sequel to the cult 2007 film earned ₹213.01 crore worldwide. Fans are celebrating Emraan’s return as Shivam Pandit, flooding social media with nostalgic reactions.",
-    "img": "https://static.toiimg.com/photo/msid-134832963,imgsize-247562.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-2-ott-release-heres-when-and-where-to-watch-the-emraan-hashmi-disha-patani-starrer/articleshow/134832949.cms",
-    "time": "2026-10-09T11:57:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Katrina revealed how Nana Patekar helped her a big dialogue scene",
-    "desc": "Katrina Kaif recently shared her nerves while filming a crucial speech scene in 'Rajneeti', surrounded by a bustling crowd. During this challenging moment, she received invaluable encouragement from veteran actor Nana Patekar. In the film, Katrina embodies Indu Pratap, a pivotal character whose journey intertwines with the narrative. Sadly, recent reports regarding Nana Patekar's passing have brought renewed attention to his impactful role in cinema.",
-    "img": "https://static.toiimg.com/photo/msid-134832310,imgsize-546198.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-katrina-kaif-revealed-how-nana-patekar-helped-her-deliver-a-big-dialogue-scene-in-raajneeti-its-going-to-be-fine/articleshow/134832132.cms",
-    "time": "2026-10-09T11:31:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Saif's sister Saba on being diagnosed with brain tumour at 27",
-    "desc": "During a candid chat with Soha Ali Khan, Saba Pataudi shared the shocking news of her brain tumor diagnosis. At just 27, she experienced an unexpected fainting spell, which led to an MRI scan that uncovered a shadow on her brain, initially mistaken for a colloid cyst. However, tests later revealed it as a low-grade pilocytic astrocytoma.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khans-sister-saba-pataudi-was-diagnosed-with-brain-tumour-at-the-age-of-27-i-didnt-want-to-be-dependent-on-anyone-didnt-want-to-become-a-vegetable/articleshow/134831815.cms",
-    "time": "2026-10-09T11:19:19.000Z"
   },
   {
     "cat": "Sports",
@@ -612,51 +585,6 @@ const newsData_en = [
     "time": "2026-10-09T01:36:02.000Z"
   },
   {
-    "cat": "Business",
-    "title": "As HDFC Bank CEO, Bagchi set for 36 crore target pay",
-    "desc": "Anup Bagchi will assume the role of MD and CEO of HDFC Bank on October 27. His target annual compensation is set at Rs 35.9 crore, with potential total pay reaching Rs 43.2 crore. The compensation package includes a fixed pay of Rs 9 crore and a variable pay component capped at Rs 26.9 crore. Bagchi's pay significantly surpasses his previous compensation at ICICI Prudential Life.",
-    "img": "https://static.toiimg.com/photo/msid-134803883,imgsize-111810.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/as-hdfc-bank-ceo-bagchi-set-for-36-crore-target-pay/articleshow/134803841.cms",
-    "time": "2026-10-09T01:30:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India joins US-led group on structural excess capacity",
-    "desc": "India has officially joined a coalition with the US and several other economies to tackle excess capacity. This coalition focuses on five sectors, including automobiles and semiconductors, that are primarily dominated by China. Countries in this group aim to coordinate actions against non-market practices that disrupt global markets. They plan to meet at a technical level before December 2026 to discuss their findings and strategies.",
-    "img": "https://static.toiimg.com/photo/msid-134803833,imgsize-92542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-joins-us-led-group-on-structural-excess-capacity/articleshow/134803801.cms",
-    "time": "2026-10-09T01:22:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "MDR on UPI may now take effect in January 2027",
-    "desc": "The rollout of the merchant discount rate on UPI transactions has been postponed to January 2027. This decision follows requests from trade bodies concerned about potential impacts on festival season sales. The new fee structure was originally set to take effect on October 15, giving stakeholders only a month for preparations. The framework includes a 0.4% charge for transactions above Rs 2,000, but many transactions will remain fee-free.",
-    "img": "https://static.toiimg.com/photo/msid-134803814,imgsize-57782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/mdr-on-upi-may-now-take-effect-in-january-2027/articleshow/134803802.cms",
-    "time": "2026-10-09T01:20:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Faceless system in place for central GST payers",
-    "desc": "Finance Minister Nirmala Sitharaman unveiled a faceless GST system to streamline processes for two lakh taxpayers. This new system follows significant rate cuts that reduced the effective GST rate across goods and services. A working group submitted a report to implement a centralized tax administration for multiple CGST jurisdictions. This initiative aims to improve taxpayer experiences similar to reforms in income tax administration.",
-    "img": "https://static.toiimg.com/photo/msid-134803786,imgsize-109464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/faceless-system-in-place-for-central-gst-payers/articleshow/134803787.cms",
-    "time": "2026-10-09T01:16:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Sensex slips amid rising oil, bond yields",
-    "desc": "Brent crude prices surged to over $105 per barrel, affecting the Indian stock market negatively. The Sensex dropped 1,045 points, significantly impacting investor wealth by Rs 10 lakh crore. Foreign portfolio investors sold stocks worth approximately Rs 13,000 crore, marking a high level of outflows. The ongoing market decline has led to a nine-week losing streak, which could become the longest on record.",
-    "img": "https://static.toiimg.com/photo/msid-134803610,imgsize-92720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/perfect-storm-sensex-slips-amid-rising-oil-bond-yields/articleshow/134803327.cms",
-    "time": "2026-10-09T01:10:29.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.K. arrest two Latvians inside perimeter of RAF base housing U.S., NATO intelligence operations",
     "desc": "The base, RAF Molesworth, which is 112 km north of London, is operated by the U.S. Air Force and is home to the NATO Intelligence Fusion Centre, which provides information to the Supreme Allied Commander in Europe",
@@ -666,15 +594,6 @@ const newsData_en = [
     "time": "2026-10-08T23:36:01.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Is Ambani the real boss of India, asks Elon Musk",
-    "desc": "Elon Musk has raised concerns about regulatory obstacles facing Starlink's introduction in India. He claimed influential figures might be hindering the process and questioned if Ambani controls the situation. In response, India's government reaffirmed its fair and non-discriminatory approach, rejecting Musk's allegations. Other companies like Reliance Jio and Eutelsat OneWeb are also vying for approval to offer satellite services.",
-    "img": "https://static.toiimg.com/photo/msid-134801007,imgsize-33370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stralinks-india-entry-row-is-ambani-the-real-boss-of-india-asks-elon-musk/articleshow/134800745.cms",
-    "time": "2026-10-08T22:05:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "Europe backs Ukraine funding but tightens anti-corruption conditions",
     "desc": "Europe has moved to cover Ukraine’s 2026 defence funding gap, but its refusal to front-load promised aid has exposed unease over how Kyiv spends the money; new conditions on taxation and anti-graft oversight underline the EU’s demand for greater accountability as Ukraine’s financial needs rise",
@@ -682,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/europe-backs-ukraine-funding-but-tightens-anti-corruption-conditions/article71560310.ece",
     "time": "2026-10-08T22:02:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "GST Council scraps tax officers' arrest powers, eases refund rules",
-    "desc": "The GST Council has proposed major procedural changes to enhance business operations and tax compliance. These reforms aim to streamline registration, refunds, and input tax credit processes while lowering compliance costs. Additionally, the council will remove officers' powers for arrests under the GST framework. Processing of refunds will be expedited, with a goal to resolve claims within three days.",
-    "img": "https://static.toiimg.com/photo/msid-134800733,imgsize-141312.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gst-council-scraps-tax-officers-arrest-powers-eases-refund-rules/articleshow/134800724.cms",
-    "time": "2026-10-08T21:51:57.000Z"
   },
   {
     "cat": "Tech",
@@ -898,5 +808,77 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
