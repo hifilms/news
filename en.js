@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘Amitabh Bachchan is a hero for us, but he’s allowed to be human': Abhishek Bachchan",
+    "desc": "Amitabh Bachchan is celebrating his 84th birthday on October 11 with numerous wishes from admirers. On the occasion, here's recalling the time when Abhishek Bachchan shared insights about their family dynamics and his father's dual role as a star and family man. He also spoke about how his parents feel about his career and how seeing his father at home despite being a superstar, taught him to stay detach from fame early on in life.",
+    "img": "https://static.toiimg.com/photo/msid-134860701,imgsize-324849.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-is-a-hero-for-us-but-hes-allowed-to-be-human-hes-a-father-a-grandfather-abhishek-bachchan-on-the-man-behind-the-legend-exclusive-throwback/articleshow/134860544.cms",
+    "time": "2026-10-10T19:16:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Flamboyant Badoni keen to put a price on his wicket",
+    "desc": "While the middle-order batter’s average of 54 in the longer format is noteworthy, his return of four hundreds and 10 half-centuries after 38 innings suggests the need to be more ruthless in his pursuit of runs",
+    "img": "https://th-i.thgim.com/public/incoming/4uf8ho/article71569499.ece/alternates/LANDSCAPE_1200/ALL_4792.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/flamboyant-badoni-keen-to-put-a-price-on-his-wicket/article71569486.ece",
+    "time": "2026-10-10T18:58:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Anti-CEC protest: Right-wing group members assault protesters at Connaught Place",
+    "desc": "A group of men raised slogans backing the police, chased and allegedly assaulted demonstrators in Connaught Place amid mass detentions ahead of the planned CJP protest at Jantar Mantar; videos of the incidents drew sharp reactions from the AAP and Congress.",
+    "img": "https://th-i.thgim.com/public/incoming/thofpr/article71569125.ece/alternates/LANDSCAPE_1200/right%20wing%20chase%201.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/anti-cec-protest-right-wing-group-members-assault-protesters-at-connaught-place/article71569132.ece",
+    "time": "2026-10-10T18:08:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Nana said his father died in the hospital because he didn't have money for his treatment",
+    "desc": "Nana Patekar once opened up about the despair he felt when he could not afford his father's medical care. He shared touching memories of playing Antakshari with a companion in the hospital's waiting area, desperate for news. Even after achieving great success, the regret of not being able to save his father haunts him, revealing the personal struggles he endured at the onset of his acting career.",
+    "img": "https://static.toiimg.com/photo/msid-134858914,imgsize-252862.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-nana-patekar-revealed-he-didnt-have-money-to-pay-for-his-fathers-treatment-so-he-died-in-the-hospital-that-hesitation-stays-with-you/articleshow/134858751.cms",
+    "time": "2026-10-10T17:38:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Navi Pillay",
+    "desc": "The Nobel Peace Prize for 2026 is as much a recognition of the South African jurist’s lifelong commitment to justice for the oppressed and the powerless as it is a rebuke to the idea that might is right",
+    "img": "https://th-i.thgim.com/public/news/national/94krvz/article71569251.ece/alternates/LANDSCAPE_1200/Navi_pillay_Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/navi-pillay-the-jurist-and-a-redemption/article71569258.ece",
+    "time": "2026-10-10T17:37:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Slew of events planned in memory of K.V. Thiruvengadam in centenary year",
+    "desc": "The celebrations, in memory of the renowned physician’s extraordinary impact on medicine both in Chennai and beyond, will focus on restoring the art of listening to the patient, examining at the bedside, thinking before ordering a test, and finally, and dwelling on the fundamental question of what it means to be a good physician in an age of extraordinary technology",
+    "img": "https://th-i.thgim.com/public/incoming/6a56vc/article71567716.ece/alternates/LANDSCAPE_1200/Thiruvengdam_2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/slew-of-events-planned-in-memory-of-kv-thiruvengadam-in-centenary-year/article71555118.ece",
+    "time": "2026-10-10T17:36:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "At least five killed in fresh Manipur violence",
+    "desc": "Armed groups, including those from across the Myanmar border, carried out the attacks; Kuki, Naga groups blame extremists from the other community for deaths; Kukis also blame IRB, calling for withdrawal of biased State forces",
+    "img": "https://th-i.thgim.com/public/incoming/lkrefz/article71569374.ece/alternates/LANDSCAPE_1200/20261002260L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/manipur/at-least-five-killed-in-fresh-manipur-violence/article71568845.ece",
+    "time": "2026-10-10T17:12:28.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Telangana CM directs officials to prepare El Nino action plan",
     "desc": "Telangana's chief minister A Revanth Reddy convened an urgent meeting to tackle the repercussions of El Nino, focusing on essential needs in agriculture, water, and electricity. The region has faced a 17 percent deficit in monsoon rainfall, leading to drought conditions. Reddy underscored the need for community engagement in responsible energy use and awareness, announcing a follow-up session with ministers to explore agricultural strategies in light of these challenges.",
@@ -7,6 +70,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/telangana-cm-directs-officials-to-prepare-el-nino-action-plan/articleshow/134857833.cms",
     "time": "2026-10-10T16:49:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arsenal survive Leeds scare as Arteta’s inspired triple substitution sparks comeback win",
+    "desc": "Arsenal secured a crucial 2-1 comeback victory against Leeds United at the Emirates Stadium. The match saw Leeds initially take the lead in the second half through James Justin's goal after a counterattack. However, Riccardo Calafiori equalised shortly after, before Bruno Guimaraes scored the winner. Mikel Arteta acknowledged the importance of the win following a prior loss to Brighton & Hove Albion.",
+    "img": "https://static.toiimg.com/photo/msid-134858012,imgsize-231975.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/arsenal-survive-leeds-scare-as-artetas-inspired-triple-substitution-sparks-comeback-win-in-premier-league/articleshow/134857956.cms",
+    "time": "2026-10-10T16:44:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -25,15 +97,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/landlords-wanted-tenant-out-to-open-a-law-office-he-said-the-reason-for-seeking-eviction-had-changed-and-other-properties-were-available-why-delhi-high-court-upheld-eviction/articleshow/134856919.cms",
     "time": "2026-10-10T16:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Anti-CEC protest LIVE updates: 'We still don't know where they are', CJP members allege they have no information on detained CJP leaders' whereabouts",
-    "desc": "Supreme Court to hold Sunday special hearing on contempt petition against shutdown of transit corridors, metro stations across Delhi; Delhi Metro Rail Corporation (DMRC) on Saturday extended the closure of entry and exit gates at 45 metro stations by four hours till 10 p.m.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/cjp-protests-jantar-mantar-new-delhi-election-commissioner-gyanesh-kumar-resignation-sir-cec-row-october-10-2026-live-news/article71566021.ece",
-    "time": "2026-10-10T16:21:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -81,15 +144,6 @@ const newsData_en = [
     "time": "2026-10-10T15:35:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Karnataka seeks wider price caps beyond cancer medicines on other high-cost life-saving drugs",
-    "desc": "Health Minister U.T. Khader said price rationalisation should translate into direct savings for patients, and urged the Union government to extend similar measures to other essential medicines where high treatment costs place a burden on patients.",
-    "img": "https://th-i.thgim.com/public/news/national/karnataka/qpwubd/article71567510.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-10%20at%2013.20.18.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-seeks-wider-price-caps-beyond-cancer-medicines-on-other-high-cost-life-saving-drugs/article71567350.ece",
-    "time": "2026-10-10T15:31:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Carrying the tricolour is a different feeling’: Bhagat eyes gold at Para Asian Games",
     "desc": "Pramod Bhagat, the standout gold medallist from the Tokyo Paralympics, is poised to represent India by carrying the flag at the upcoming Asian Para Games. As he enters this fifth edition of the event, Bhagat is eager to add another gold to his collection, acknowledging the intensifying competition in adaptive sports.",
@@ -117,24 +171,6 @@ const newsData_en = [
     "time": "2026-10-10T15:08:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Former CMs Pinarayi and Mamata detained amid crackdown in Delhi",
-    "desc": "Former Bengal CM, detained near MPs’ flats, says she and her colleagues were treated like 'criminals’; Keralam’s ex-CM was picked up from Kerala House; his party MP John Brittas alleges that ‘basic civil liberties are being taken away’",
-    "img": "https://th-i.thgim.com/public/incoming/40n2pk/article71568932.ece/alternates/LANDSCAPE_1200/20261010358L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/former-cms-pinarayi-and-mamata-detained-amid-crackdown-in-delhi/article71568607.ece",
-    "time": "2026-10-10T15:06:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "VMC sets up special drainage system for Saras Aajeevika Mela to ensure cleanliness at Punnami Ghat",
-    "desc": "Municipal Commissioner says the measures are being taken in consideration of the large influx of vendors from across the country who are expected to set up their stalls at the Saras Aajeevika Mela, which is scheduled to begin from October 13",
-    "img": "https://th-i.thgim.com/public/incoming/m661jl/article71568778.ece/alternates/LANDSCAPE_1200/DSC_4570.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/vmc-sets-up-special-drainage-system-for-saras-aajeevika-mela-to-ensure-cleanliness-at-punnami-ghat/article71568439.ece",
-    "time": "2026-10-10T14:55:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘He is somewhat similar to me’: Sehwag says Vaibhav Sooryavanshi is in his prime",
     "desc": "Virender Sehwag draws parallels between his explosive batting style and Vaibhav Sooryavanshi's fearless gameplay. The 15-year-old prodigy has made waves in T20Is, showcasing an impressive strike rate and accumulating runs effortlessly. Sehwag emphasises that age should take a backseat to performance at higher levels of cricket, especially with seasoned competitors like Sanju Samson and Abhishek Sharma vying for opening positions.",
@@ -151,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/to-be-finalised-in-line-with-changed-circumstances-piyush-goyal-on-india-us-trade-deal/articleshow/134856416.cms",
     "time": "2026-10-10T14:45:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 1983, Kenny Rogers bought a Georgia estate and took 15 years to turn it into a retreat",
-    "desc": "Kenny Rogers' legacy extends beyond music; in 1983, he acquired a magnificent 973-acre estate in Georgia, which he meticulously developed over 15 years. The estate boasts an impressive 18-hole golf course and various guest homes for loved ones. It hosted numerous celebrity charity events that attracted renowned names. Sold in 2003 for USD 10.",
-    "img": "https://static.toiimg.com/photo/msid-134852343,imgsize-30760.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/in-1983-kenny-rogers-purchased-his-georgia-estate-and-then-spent-15-years-turning-it-into-beaver-dam-farms/articleshow/134852169.cms",
-    "time": "2026-10-10T14:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -306,15 +333,6 @@ const newsData_en = [
     "time": "2026-10-10T11:54:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Over 7,000 detained as CJP stir against CEC triggers political face-off",
-    "desc": "Delhi Police detained upwards of 37000 demonstrators on Saturday, protesting against Chief Election Commissioner Gyanesh Kumar over alleged voter-list manipulation, insisting on his resignation. Prominent political figures such as Arvind Kejriwal and Mamata Banerjee were among those arrested. Opposition members criticized the government for suppressing free speech by halting protests and imposing internet shutdowns, while the BJP defended their stance, calling the demonstrations a ploy to incite chaos.",
-    "img": "https://static.toiimg.com/photo/msid-134853548,imgsize-246936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-protests-over-3000-detained-as-cjp-stir-against-cec-triggers-political-face-off-top-developments/articleshow/134853149.cms",
-    "time": "2026-10-10T11:42:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Subhash Ghai praises Ranbir Kapoor and backs Nitesh Tiwari Ramayana",
     "desc": "Subhash Ghai has backed Nitesh Tiwari’s ‘Ramayana’, saying he expects a lot from the film and praising its director, storytelling and cast, including Ranbir Kapoor. Speaking at India Today Conclave Mumbai 2026 on October 10, Ghai said AI may transform filmmaking but cannot replace a good storyteller or alter the emotions at the heart of an epic. His daughter, Meghana Ghai Puri, also reflected on the challenges and responsibility of carrying forward his legacy.",
@@ -369,15 +387,6 @@ const newsData_en = [
     "time": "2026-10-10T10:52:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rajinikanth says he still misses his days as a bus conductor",
-    "desc": "Rajinikanth recently shared his fond memories of working as a bus conductor in Bengaluru for five years before rising to cinematic stardom. He believes that every visit to Bengaluru rekindles those cherished times, highlighting his enduring connection to that humble role. Regardless of his fame, he proudly identifies as a bus conductor. His much-anticipated film, ‘Jailer 2’, is scheduled for release in October 2026.",
-    "img": "https://static.toiimg.com/photo/msid-134852531,imgsize-85134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/i-have-never-really-felt-like-a-big-superstar-rajinikanth-says-he-still-misses-his-five-years-as-a-bengaluru-bus-conductor-while-promoting-jailer-2/articleshow/134852493.cms",
-    "time": "2026-10-10T10:47:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Despite promise, builder denied disabled parking to Rs 1.03 crore flat buyer; RERA orders relief",
     "desc": "In one such case, a woman and her family bought a 3BHK ( 3 Bedrooms, Hall, Kitchen) from a builder in Bengaluru for Rs 1.03 crore. The builder promised two specially enabled parking spaces, and it was supposedly one of the property's key attractions. The builder's brochure and terms clearly referred to these parking facilities. However, he failed to deliver on that commitment.",
@@ -388,30 +397,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Flamboyant Badoni keen to put a price on his wicket",
-    "desc": "“I like to take challenges. As a batter, I like it when there is pressure. As a captain too, there is pressure. I will try to keep things simple and rely on my instincts to do what is best in that given moment,” says Ayush Badoni",
-    "img": "https://th-i.thgim.com/public/incoming/fkl37i/article71567759.ece/alternates/LANDSCAPE_1200/ALL_6999.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/flamboyant-badoni-keen-to-put-a-price-on-his-wicket/article71567599.ece",
-    "time": "2026-10-10T10:32:10.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'I think it should be taken out': Rahane joins calls to abolish Impact Player rule",
     "desc": "Ajinkya Rahane has raised significant concerns regarding the Impact Player rule in the Indian Premier League. He argues that this rule stifles the development of all-rounders in Indian cricket, restricting their vital opportunities on the field. Although some teams have exploited this rule for higher scores, it diminishes the role of bowlers and all-rounders.",
     "img": "https://static.toiimg.com/photo/msid-134852037,imgsize-66042.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-think-it-should-be-taken-out-ajinkya-rahane-joins-calls-to-abolish-ipls-impact-player-rule/articleshow/134851960.cms",
     "time": "2026-10-10T10:30:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Ramayana’ event in Ramtek on October 11 postponed amid Maharashtra drought",
-    "desc": "Maharashtra's grand event for the film 'Ramayana' was postponed due to the ongoing drought affecting farmers. The programme was originally scheduled for October 11, 2026, and aimed to celebrate the significance of Ramtek. MLA Ashish Jaiswal confirmed this decision through a video message on social media. The film's team is now considering support for farmers during this challenging time.",
-    "img": "https://static.toiimg.com/photo/msid-134851951,imgsize-674140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoors-ramayana-event-in-ramtek-postponed-amid-maharashtra-drought-confirms-mla-ashish-jaiswal-as-farmers-welfare-takes-priority/articleshow/134851744.cms",
-    "time": "2026-10-10T10:10:34.000Z"
   },
   {
     "cat": "Sports",
@@ -466,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/man-did-not-file-itr-faced-rs-17-18-lakh-penalty-over-alleged-rs-55-62-lakh-unexplained-cash-deposits-itat-mumbai-deletes-penalty-because-tax-officer-invoked-wrong-provision/articleshow/134837562.cms",
     "time": "2026-10-10T06:37:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand rule out O'Rourke against India to keep him fit for Australia",
-    "desc": "New Zealand fast bowler Will O'Rourke will miss the upcoming series against India as he recovers from hamstring and calf injuries. Coach Rob Walter said the decision was made to avoid rushing his return. New Zealand hope O'Rourke will play domestic cricket in late December before featuring in the first Test against Australia in Perth on December 9.",
-    "img": "https://static.toiimg.com/photo/msid-134848622,imgsize-58596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealand-rule-out-will-orourke-against-india-to-keep-him-fit-for-australia/articleshow/134848484.cms",
-    "time": "2026-10-10T06:08:26.000Z"
   },
   {
     "cat": "World",
@@ -693,24 +675,6 @@ const newsData_en = [
     "time": "2026-10-09T02:05:42.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.K. arrest two Latvians inside perimeter of RAF base housing U.S., NATO intelligence operations",
-    "desc": "The base, RAF Molesworth, which is 112 km north of London, is operated by the U.S. Air Force and is home to the NATO Intelligence Fusion Centre, which provides information to the Supreme Allied Commander in Europe",
-    "img": "https://th-i.thgim.com/public/incoming/3xur7p/article71562060.ece/alternates/LANDSCAPE_1200/2026-10-08T162804Z_2060490836_RC24ZNA5GXFG_RTRMADP_3_BRITAIN-SECURITY-MOLESWORTH.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/uk-arrest-two-latvians-inside-perimeter-of-raf-base-housing-us-nato-intelligence-operations/article71561623.ece",
-    "time": "2026-10-08T23:36:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Europe backs Ukraine funding but tightens anti-corruption conditions",
-    "desc": "Europe has moved to cover Ukraine’s 2026 defence funding gap, but its refusal to front-load promised aid has exposed unease over how Kyiv spends the money; new conditions on taxation and anti-graft oversight underline the EU’s demand for greater accountability as Ukraine’s financial needs rise",
-    "img": "https://th-i.thgim.com/public/incoming/lapgqg/article71561355.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_Germany_55896.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/europe-backs-ukraine-funding-but-tightens-anti-corruption-conditions/article71560310.ece",
-    "time": "2026-10-08T22:02:57.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Delhi Police ramp up ‘perception’ campaign, identifies 500 people, 200 social media channels ahead of October 10 protest",
     "desc": "After the July protest, police step up a ‘cyber warfare’ strategy to counter online narratives and circulate videos of injured personnel and alleged clashes; officials examine why their social media content failed to gain traction",
@@ -772,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/indias-trade-caught-in-the-middle/article71555534.ece",
     "time": "2026-10-08T03:31:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Supreme Court to examine plea that systemic blind spots in aviation boom left disabled travellers stranded",
-    "desc": "The plea highlights a systemic and nationwide failure of non-implementation of accessibility across all stages of air travel, including booking, web-check-in, airport entry and navigation, counter check-in, security screening, Digi Yatra processing, immigration, boarding, in-flight services, and arrival assistance",
-    "img": "https://th-i.thgim.com/public/incoming/x80xzj/article71556260.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGR7FV5KAC.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-to-examine-plea-that-systemic-blind-spots-in-aviation-boom-left-disabled-travellers-stranded/article71555374.ece",
-    "time": "2026-10-07T14:14:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

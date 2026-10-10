@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bengaluru's dramatic comeback secures 3-2 win over Delhi in ISL opener; Goa held Chennaiyin 1-1",
+    "desc": "Bengaluru FC opened their 2026-27 Indian Super League campaign with a 3-2 victory over Sporting Club Delhi at the Sree Kanteerava Stadium. Menno Koch kept it late, scoring the decisive goal in the 89th minute...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bengaluru-s-dramatic-comeback-secures-3-2-win-over-delhi-in-isl-opener-goa-held-chennaiyin-1-1-2026-10-10-1056651",
+    "time": "2026-10-10T17:32:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arunachal Pradesh forfeit Ranji Trophy opener amid cricket association dispute",
+    "desc": "Arunachal Pradesh’s domestic cricket campaign has suffered an early setback, with the team deemed to have forfeited its opening Ranji Trophy Plate Division fixture against Nagaland and set to miss its first CK Nayudu Trophy...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/arunachal-pradesh-forfeit-ranji-trophy-opener-amid-cricket-association-dispute-2026-10-10-1056648",
+    "time": "2026-10-10T16:55:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shubman Gill set to miss Punjab's Ranji Trophy opener, could return against Chhattisgarh",
     "desc": "India captain Shubman Gill will not feature in Punjab’s opening Ranji Trophy fixture against Assam in New Chandigarh. However, the batter could return for the team’s next match against Chhattisgarh, scheduled from October 18 to...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/have-to-stick-together-erling-haaland-sends-a-message-to-manchester-city-fans-ahead-of-crucial-liverpool-clash-2026-10-10-1056611",
     "time": "2026-10-10T08:23:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dinesh Karthik weighs in on India's playing XI after 2nd T20I loss against the West Indies",
-    "desc": "Former India cricketer Dinesh Karthik had a lot to say about the Men in Blue’s team composition as the side faced a loss against the West Indies in the second T20I of the ongoing series....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dinesh-karthik-weighs-in-on-india-s-playing-xi-after-2nd-t20i-loss-against-the-west-indies-2026-10-10-1056608",
-    "time": "2026-10-10T07:52:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan becomes third Indian batter to achieve massive feat despite India's loss to the West Indies",
-    "desc": "The ongoing T20I series between India and the West Indies continues with the visitors registering an exceptional victory. The two sides met at the JSCA International Complex in Ranchi on October 9th, and the Windies...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-becomes-third-indian-batter-to-achieve-massive-feat-despite-india-s-loss-to-the-west-indies-in-ranchi-2026-10-10-1056604",
-    "time": "2026-10-10T06:32:14.000Z"
   }
 ];
