@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Chennai Super Kings part ways with batting coach Mike Hussey as part of a major coaching restructure",
+    "desc": "In a major development, IPL (Indian Premier League) franchise Chennai Super Kings came forward and announced that they will be parting ways with former Australia cricketer and batting coach Mike Hussey. The side decided on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/chennai-super-kings-part-ways-with-batting-coach-mike-hussey-as-part-of-a-major-coaching-restructure-2026-10-10-1056595",
+    "time": "2026-10-10T03:52:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "William O'Rourke set to miss India series with injury, targets Australia Tests for comeback",
+    "desc": "In a major blow for New Zealand, the side’s star pacer William O’Rourke has been ruled out of the upcoming multi-format series against the Indian team. It is worth noting that team India is slated...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/william-o-rourke-set-to-miss-india-series-with-injury-targets-australia-tests-for-comeback-2026-10-10-1056593",
+    "time": "2026-10-10T02:56:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Plays a massive role': Shreyas Iyer opens up after the West Indies hand India a hefty loss in 2nd T20I",
+    "desc": "The Indian team faced a hefty loss in the 2nd T20I of the ongoing series against the West Indies. The two sides took on each other at the JSCA International Complex in Ranchi on October...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/plays-a-massive-role-shreyas-iyer-opens-up-after-the-west-indies-hand-india-a-hefty-loss-in-2nd-t20i-2026-10-10-1056590",
+    "time": "2026-10-10T01:46:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Steve Smith surpasses Steve Waugh to become Australia's third-leading run-scorer in Test cricket",
     "desc": "Steve Smith surpassed former captain Steve Waugh to become the third leading run-scorer for Australia in Test cricket history. The veteran achieved the feat in the opening day of the first Test against against South...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-vaibhav-sooryavanshi-not-playing-in-india-s-2nd-t20i-vs-west-indies-in-ranchi-2026-10-09-1056568",
     "time": "2026-10-09T13:18:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PM Narendra Modi meets team India's representatives at the WorldSkills Competition 2026",
-    "desc": "Prime Minister Narendra Modi recently came forward and interacted with the Indian team’s representatives at the 48th WorldSkills Competition 2026. It is worth noting that the tournament was held in Shanghai, and the Indian team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pm-narendra-modi-meets-team-india-s-representatives-at-the-worldskills-competition-2026-2026-10-09-1056567",
-    "time": "2026-10-09T13:15:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shai Hope smacks century, West Indies chase 250 runs with 9 balls remaining",
-    "desc": "India defeated West Indies by eight wickets in the opening of the five-match T20I series in Lucknow. Captain Shreyas Iyer led by example, scoring an unbeaten century, while Ishan Kishan played the perfect role of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-2nd-t20i-final-live-score-india-vs-west-indies-latest-match-updates-scorecards-playing-xis-reactions-1056562",
-    "time": "2026-10-09T12:52:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravindra Jadeja named as Saurashtra announce squad for Ranji Trophy opener against Chhattisgarh",
-    "desc": "Veteran all-rounder Ravindra Jadeja is set to feature for Saurashtra in their opening fixture of the 2026-27 Ranji Trophy against Chhattisgarh at Rajkot’s Niranjan Shah Stadium. Ahead of the upcoming Test series against New Zealand,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadeja-named-as-saurashtra-announce-squad-for-ranji-trophy-opener-against-chhattisgarh-2026-10-09-1056558",
-    "time": "2026-10-09T12:13:03.000Z"
   }
 ];
