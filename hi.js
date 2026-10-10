@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shubman Gill set to miss Punjab's Ranji Trophy opener, could return against Chhattisgarh",
+    "desc": "India captain Shubman Gill will not feature in Punjab’s opening Ranji Trophy fixture against Assam in New Chandigarh. However, the batter could return for the team’s next match against Chhattisgarh, scheduled from October 18 to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-set-to-miss-punjab-s-ranji-trophy-opener-could-return-against-chhattisgarh-2026-10-10-1056646",
+    "time": "2026-10-10T16:09:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi is in his prime, thinking is somewhat similar to mine, should get more matches: Sehwag",
+    "desc": "Virender Sehwag has thrown his support behind Vaibhav Sooryavanshi after the young India opener spent back-to-back matches against West Indies on the sidelines. He lauded Sooryavanshi’s attacking prowess and urged India to give him opportunities...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-is-in-his-prime-thinking-is-somewhat-similar-to-mine-should-get-more-matches-virender-sehwag-2026-10-10-1056644",
+    "time": "2026-10-10T15:24:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cristiano Ronaldo faces provisional suspension as Portugal federation investigates sudden national team exit",
+    "desc": "The Portugal Football Federation (FPF) has suspended Cristiano Ronaldo after an investigation was launched into his departure from the national team camp following a dispute over his involvement in a Nations League fixture against Norway....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-faces-provisional-suspension-as-portugal-federation-investigates-sudden-national-team-exit-2026-10-10-1056640",
+    "time": "2026-10-10T14:25:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yuzvendra Chahal raises concerns over bat-ball balance after West Indies chase 250 against India in 2nd T20I",
+    "desc": "Yuzvendra Chahal has called for conditions that offer bowlers a fairer contest in T20 cricket after India’s 250-run total failed to stop the West Indies from securing a six-wicket victory in the second T20I in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yuzvendra-chahal-raises-concerns-over-bat-ball-balance-after-west-indies-chase-250-against-india-in-second-t20i-2026-10-10-1056636",
+    "time": "2026-10-10T13:25:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Josh Inglis set to rejoin Australia squad ahead of second South Africa Test",
+    "desc": "Josh Inglis is set to rejoin Australia’s squad before the second Test against South Africa in Gqeberha. The wicketkeeper-batter is reported to have recovered from his fractured finger and will link up with the squad...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/josh-inglis-set-to-rejoin-australia-squad-ahead-of-second-south-africa-test-2026-10-10-1056631",
+    "time": "2026-10-10T12:15:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Where to watch Indian Super League (ISL) 2026-27 live on TV and stream online for free?",
     "desc": "India’s three recent FIFA friendlies against Paraguay, Brazil and Uruguay created an incredible buzz for the upcoming Indian Super League (ISL), slated to begin on October 10. The forthcoming season marks a return to a...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-becomes-third-indian-batter-to-achieve-massive-feat-despite-india-s-loss-to-the-west-indies-in-ranchi-2026-10-10-1056604",
     "time": "2026-10-10T06:32:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shai Hope surpasses Chris Gayle, Evin Lewis in elite list with exceptional ton against India in Ranchi",
-    "desc": "The West Indies put forth a brilliant showing against the Indian team in the second T20I of the ongoing series between the two sides. The teams met at the JSCA International Complex in Ranchi for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shai-hope-surpasses-chris-gayle-evin-lewis-in-elite-list-with-exceptional-ton-against-india-in-ranchi-2026-10-10-1056599",
-    "time": "2026-10-10T05:16:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chennai Super Kings part ways with batting coach Mike Hussey as part of a major coaching restructure",
-    "desc": "In a major development, IPL (Indian Premier League) franchise Chennai Super Kings came forward and announced that they will be parting ways with former Australia cricketer and batting coach Mike Hussey. The side decided on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/chennai-super-kings-part-ways-with-batting-coach-mike-hussey-as-part-of-a-major-coaching-restructure-2026-10-10-1056595",
-    "time": "2026-10-10T03:52:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "William O'Rourke set to miss India series with injury, targets Australia Tests for comeback",
-    "desc": "In a major blow for New Zealand, the side’s star pacer William O’Rourke has been ruled out of the upcoming multi-format series against the Indian team. It is worth noting that team India is slated...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/william-o-rourke-set-to-miss-india-series-with-injury-targets-australia-tests-for-comeback-2026-10-10-1056593",
-    "time": "2026-10-10T02:56:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Plays a massive role': Shreyas Iyer opens up after the West Indies hand India a hefty loss in 2nd T20I",
-    "desc": "The Indian team faced a hefty loss in the 2nd T20I of the ongoing series against the West Indies. The two sides took on each other at the JSCA International Complex in Ranchi on October...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/plays-a-massive-role-shreyas-iyer-opens-up-after-the-west-indies-hand-india-a-hefty-loss-in-2nd-t20i-2026-10-10-1056590",
-    "time": "2026-10-10T01:46:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Steve Smith surpasses Steve Waugh to become Australia's third-leading run-scorer in Test cricket",
-    "desc": "Steve Smith surpassed former captain Steve Waugh to become the third leading run-scorer for Australia in Test cricket history. The veteran achieved the feat in the opening day of the first Test against against South...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-surpasses-steve-waugh-to-become-australia-s-third-leading-run-scorer-in-test-cricket-2026-10-09-1056585",
-    "time": "2026-10-09T17:51:39.000Z"
   }
 ];
