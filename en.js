@@ -1,12 +1,417 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘Jailer 2’ ticket prices hiked in Andhra Pradesh for opening week",
+    "desc": "Rajinikanth's upcoming film 'Jailer 2' will release in theatres on October 15. The Andhra Pradesh government has approved a ticket price increase for the film's opening week. Single-screen theatres can charge an additional Rs 50, while multiplexes can add Rs 75. The increased rates will apply for seven days, covering five shows daily. In contrast, Vijay Deverakonda's 'Ranabaali' will release at regular ticket prices in Andhra Pradesh.",
+    "img": "https://static.toiimg.com/photo/msid-134853375,imgsize-81456.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanths-jailer-2-gets-andhra-pradesh-government-approval-for-ticket-price-hike-during-opening-week-single-screens-to-charge-rs-50-more-and-multiplexes-to-charge-extra-rs-75/articleshow/134853200.cms",
+    "time": "2026-10-10T11:36:32.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "Delhi Police begin detaining protesters from Jantar Mantar; Dipke on his way to capital",
-    "desc": "Delhi Police have denied permission for the Jantar Mantar protest, citing breach of past undertaking; restrictions in place include internet curbs in parts of Delhi, shutting down of Metro stations, and cancellations of trains bound for the capital",
+    "title": "Anti-CEC protest in Delhi top developments: detentions, curbs, crackdown",
+    "desc": "Security forces in Delhi detained more than 3,300 people and barred access to Jantar Mantar on Saturday, October 10, 2026, as authorities imposed a massive lockdown to stifle protests called by the Cockroach Janata Party and allied groups demanding the resignation of Chief Election Commissioner Gyanesh Kumar",
+    "img": "https://th-i.thgim.com/public/incoming/e3r8ex/article71566977.ece/alternates/LANDSCAPE_1200/SECURITY%20AHEAD%20CJP%20PROTEST%20NEW%20DELHI%2010.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cjp-protests-anti-cec-demonstration-delhi-latest-updates-detentions-curbs-crackdowns-on-traffic-metro-trains-delhi-police-october-10-2026/article71567478.ece",
+    "time": "2026-10-10T11:35:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2001, Bear Grylls bought a Welsh island for USD 300,000 and spent 4 years turning it into a home",
+    "desc": "Bear Grylls and Shara Grylls took the plunge in 2001, acquiring a picturesque 20-acre island off the Welsh coast for about USD 300,000, inclusive of a houseboat. They poured their hearts into renovating rundown cottages, turning them into a cozy retreat powered by sustainable energy. Yet, after four years, they decided to shift gears, selling their houseboat and settling into a sleek penthouse in Battersea.",
+    "img": "https://static.toiimg.com/photo/msid-134851606,imgsize-104184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/in-2001-bear-grylls-bought-his-wife-shara-grylls-a-20-acre-private-island-and-a-houseboat-for-usd-300000-and-spent-four-years-on-repairs-on-the-main-cottage/articleshow/134851134.cms",
+    "time": "2026-10-10T11:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Madhuri shares funny shoot memory of director crying on the trolley during a scene",
+    "desc": "Madhuri Dixit shared a humorous anecdote about a director who often let his emotions spill over on set, shedding tears during pivotal scenes. During a particularly tender moment, she noticed him sobbing on a trolley, which prompted laughter from Sonali Bendre, present as a guest. Reflecting on this, Madhuri appreciated the director's deep passion and discussed their unique collaboration while promoting her new venture on 'Kon Honar Crorepati'.",
+    "img": "https://static.toiimg.com/photo/msid-134853113,imgsize-729571.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/he-would-be-sitting-under-the-table-crying-madhuri-dixit-recalls-a-director-breaking-down-during-film-shoots-says-he-once-sat-crying-on-a-trolley-mid-scene-sonali-bendre-asks-are-you-serious/articleshow/134853085.cms",
+    "time": "2026-10-10T11:28:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police formed special teams to nab culprits in suspicious death case of Assam woman Himashri Boro",
+    "desc": "“The Superintendent of Police, Srikakulam, along with a Special Investigation Team, visited the crime scene and conducted enquiries. RFSL team, clues team, dog squads and drone teams inspected the scene of the offence and areas along the railway track to unearth the clues if any,” says official",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/cjp-protests-jantar-mantar-new-delhi-election-commissioner-gyanesh-kumar-resignation-sir-cec-row-october-10-2026-live-news/article71566021.ece",
-    "time": "2026-10-10T03:49:32.000Z"
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/assam-student-found-dead-in-srikakulam-ap-police-form-sit/article71567250.ece",
+    "time": "2026-10-10T11:17:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Big assets': Robin identifies key factor that makes Rohit, Virat crucial for World Cup",
+    "desc": "Rohit Sharma and Virat Kohli are on a roll, showcasing their exceptional talent and form as the 2027 ODI World Cup approaches. Robin Singh emphasizes that their vast experience and top-notch fitness could be game-changers for India. The selectors are currently testing different player combinations, while seasoned bowlers like Bhuvneshwar Kumar and Mohammed Shami are also in the selection spotlight.",
+    "img": "https://static.toiimg.com/photo/msid-134852776,imgsize-130998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/big-assets-for-india-robin-singh-identifies-key-factor-that-makes-rohit-sharma-virat-kohli-crucial-for-2027-world-cup/articleshow/134852681.cms",
+    "time": "2026-10-10T11:04:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saba Pataudi recalls feeling HURT by sister Soha during brain tumour surgery",
+    "desc": "At just 27 years old, Saba Pataudi bravely shared her journey with a benign brain tumour. During her recovery, she expressed her dismay over limited support from her sister, Soha. The emotional struggle was palpable, as she feared becoming reliant on others. However, her family, including mother Sharmila Tagore and brother Saif Ali Khan, rallied behind her, showcasing the intricate dynamics of sibling bonds in tough times.",
+    "img": "https://static.toiimg.com/photo/msid-134852678,imgsize-474339.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/soha-was-barely-in-touch-saba-pataudi-recalls-feeling-hurt-by-sister-during-brain-tumour-surgery-at-27-says-mother-sharmila-tagore-and-brother-saif-ali-khan-stood-by-her/articleshow/134852611.cms",
+    "time": "2026-10-10T10:57:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Focus on your batting’: Wasim Jaffer questions Yashasvi Jaiswal’s wicketkeeping move",
+    "desc": "Wasim Jaffer has raised eyebrows over Yashasvi Jaiswal’s late venture into wicketkeeping practice as he gears up for the Ranji Trophy. Jaffer pointed out the difficulty of mastering wicketkeeping, particularly without foundational training. He recommends that Jaiswal focus on his batting skills instead, especially since he aims to secure a spot on India's white-ball teams.",
+    "img": "https://static.toiimg.com/photo/msid-134852617,imgsize-129604.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/focus-on-your-batting-wasim-jaffer-questions-yashasvi-jaiswals-wicketkeeping-move/articleshow/134852485.cms",
+    "time": "2026-10-10T10:52:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NIA files case under anti-hijacking law &amp; UAPA",
+    "desc": "The National Investigation Agency has initiated a probe into the shocking attack on Captain Smit Machchhar, who was brutally stabbed by his co-pilot during a flydubai flight from Dubai to Tel Aviv. In a remarkable display of courage, Machchhar managed to open the cockpit door to facilitate assistance. The flight made an emergency landing in Tabuk, Saudi Arabia, where he received treatment.",
+    "img": "https://static.toiimg.com/photo/msid-134852583,imgsize-109625.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-to-probe-attack-on-flydubai-pilot-smit-machchhar-nia-files-case-under-anti-hijacking-law-uapa/articleshow/134852496.cms",
+    "time": "2026-10-10T10:49:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajinikanth says he still misses his days as a bus conductor",
+    "desc": "Rajinikanth recently shared his fond memories of working as a bus conductor in Bengaluru for five years before rising to cinematic stardom. He believes that every visit to Bengaluru rekindles those cherished times, highlighting his enduring connection to that humble role. Regardless of his fame, he proudly identifies as a bus conductor. His much-anticipated film, ‘Jailer 2’, is scheduled for release in October 2026.",
+    "img": "https://static.toiimg.com/photo/msid-134852531,imgsize-85134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/i-have-never-really-felt-like-a-big-superstar-rajinikanth-says-he-still-misses-his-five-years-as-a-bengaluru-bus-conductor-while-promoting-jailer-2/articleshow/134852493.cms",
+    "time": "2026-10-10T10:47:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Despite promise, builder denied disabled parking to Rs 1.03 crore flat buyer; RERA orders relief",
+    "desc": "In one such case, a woman and her family bought a 3BHK ( 3 Bedrooms, Hall, Kitchen) from a builder in Bengaluru for Rs 1.03 crore. The builder promised two specially enabled parking spaces, and it was supposedly one of the property's key attractions. The builder's brochure and terms clearly referred to these parking facilities. However, he failed to deliver on that commitment.",
+    "img": "https://static.toiimg.com/photo/msid-134850726,imgsize-350580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/woman-buys-rs-1-03-crore-3bhk-in-bengaluru-but-builder-fails-to-provide-specially-enabled-parking-karnataka-rera-orders-provision-within-60-days-and-audited-maintenance-accounts/articleshow/134850385.cms",
+    "time": "2026-10-10T10:34:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Flamboyant Badoni keen to put a price on his wicket",
+    "desc": "“I like to take challenges. As a batter, I like it when there is pressure. As a captain too, there is pressure. I will try to keep things simple and rely on my instincts to do what is best in that given moment,” says Ayush Badoni",
+    "img": "https://th-i.thgim.com/public/incoming/fkl37i/article71567759.ece/alternates/LANDSCAPE_1200/ALL_6999.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/flamboyant-badoni-keen-to-put-a-price-on-his-wicket/article71567599.ece",
+    "time": "2026-10-10T10:32:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I think it should be taken out': Rahane joins calls to abolish Impact Player rule",
+    "desc": "Ajinkya Rahane has raised significant concerns regarding the Impact Player rule in the Indian Premier League. He argues that this rule stifles the development of all-rounders in Indian cricket, restricting their vital opportunities on the field. Although some teams have exploited this rule for higher scores, it diminishes the role of bowlers and all-rounders.",
+    "img": "https://static.toiimg.com/photo/msid-134852037,imgsize-66042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-think-it-should-be-taken-out-ajinkya-rahane-joins-calls-to-abolish-ipls-impact-player-rule/articleshow/134851960.cms",
+    "time": "2026-10-10T10:30:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Neighbours protest Taylor Swift and Travis Kelce's privacy fence at Bratenahl home",
+    "desc": "Taylor Swift and Travis Kelce have bought a mansion in Bratenahl for security and privacy. Neighbors are concerned about landscaping affecting local wildlife and shared infrastructure. The planned six-foot fence received initial approval, although opposition remains from residents. One neighbor raised the risk of sewer complications following construction. The couple has also reinforced the property with a special alarm to enhance their safety.",
+    "img": "https://static.toiimg.com/photo/msid-134851128,imgsize-102498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-and-travis-kelces-ohio-neighbours-call-them-absentee-owners-oppose-privacy-fence-and-raise-concerns-over-sewer-lines-and-wildlife/articleshow/134851082.cms",
+    "time": "2026-10-10T10:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Muzzled Democracy': Congress slams government over mass detentions amid massive anti-SIR protests",
+    "desc": "Congress Party leaders have condemned the government's mass detentions during protests against Chief Election Commissioner Gyanesh Kumar in Delhi. They assert that numerous individuals, including activists and students, were detained while trying to voice dissent. The party emphasized the right to protest as essential to democracy and criticized the government for its heavy-handed approach.",
+    "img": "https://static.toiimg.com/photo/msid-134852015,imgsize-40606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/muzzled-democracy-congress-slams-government-over-mass-detentions-amid-massive-anti-sir-protests/articleshow/134851226.cms",
+    "time": "2026-10-10T10:19:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When can police stop a protest or detain you?",
+    "desc": "The constitutional right to protest is fundamental, but it comes with responsibilities, allowing authorities to enforce regulations for the sake of public safety. Police may require permits for gatherings based on specific local laws, and they can issue dispersal orders when public safety is at risk, given legal justification. Detained individuals have the right to contest unlawful arrests and assert their rights through appropriate channels.",
+    "img": "https://static.toiimg.com/photo/msid-134851949,imgsize-1797143.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/protest-rights-in-india-when-can-police-stop-a-protest-or-detain-you/articleshow/134851835.cms",
+    "time": "2026-10-10T10:18:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "#THtalksBengaluru",
+    "desc": "A package of stories featuring Mr. Haris’s responses to readers’ questions on the environmental impact of the short tunnel project, recurring civic issues at layouts developed by the BDA, and the progress of long-pending traffic corridors to decongest the city.",
+    "img": "https://th-i.thgim.com/public/incoming/n5qhtu/article71567705.ece/alternates/LANDSCAPE_1200/_DSC8925.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/thtalksbengaluru-na-haris-and-the-bdas-vision-for-bengaluru/article71567696.ece",
+    "time": "2026-10-10T10:15:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gyanesh Kumar Row: How did the ECI delete 13 crore voters during the SIR",
+    "desc": "More than 13 crore names have been struck off draft electoral rolls across 30 States and Union Territories since the Election Commission of India began the Special Intensive Revision in June 2025. The exercise has triggered protests and renewed scrutiny of Chief Election Commissioner Gyanesh Kumar. In this episode, Sonikka Loganathan speaks to Srinivasan Ramani, Senior Associate Editor at The Hindu, about the key issues that led to these many deletions, what the data tells us about who is being deleted and the constitutionality of this exercise.",
+    "img": "https://th-i.thgim.com/public/incoming/t8np57/article71567729.ece/alternates/LANDSCAPE_1200/INSIGHT%20INDIA%20%203.30.38%E2%80%AFPM.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shows/watch-gyanesh-kumar-row-how-did-the-eci-delete-13-crore-voters-during-the-sir-insight-india/article71567738.ece",
+    "time": "2026-10-10T10:12:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Ramayana’ event in Ramtek on October 11 postponed amid Maharashtra drought",
+    "desc": "Maharashtra's grand event for the film 'Ramayana' was postponed due to the ongoing drought affecting farmers. The programme was originally scheduled for October 11, 2026, and aimed to celebrate the significance of Ramtek. MLA Ashish Jaiswal confirmed this decision through a video message on social media. The film's team is now considering support for farmers during this challenging time.",
+    "img": "https://static.toiimg.com/photo/msid-134851951,imgsize-674140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoors-ramayana-event-in-ramtek-postponed-amid-maharashtra-drought-confirms-mla-ashish-jaiswal-as-farmers-welfare-takes-priority/articleshow/134851744.cms",
+    "time": "2026-10-10T10:10:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pralhad Joshi defends security steps ahead of CJP protest, says 'govt can't remain silent spectator'",
+    "desc": "Union minister Pralhad Joshi labeled the current protests as mere political theater, asserting that the government must ensure public safety. He pointed out the BJP's electoral gains and its rise in West Bengal stemming from alleged mismanagement. Opposition figures, including Aradhana Mishra of the Congress party, denounced heavy security measures as a threat to democracy.",
+    "img": "https://static.toiimg.com/photo/msid-134851931,imgsize-89169.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pralhad-joshi-defends-security-steps-ahead-of-cjp-protest-says-govt-cant-remain-silent-spectator/articleshow/134851568.cms",
+    "time": "2026-10-10T10:09:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police took CPI (M) leaders into custody, prevented protests, foil ‘Chalo Lok Bhavan’",
+    "desc": "Alleging irregularities in SIR and extending support to the agitation planned at Jantar Mantar in New Delhi, leaders of CPI (M), CITU, Students Federation of India (SFI) and other unions gave a call for ‘Chalo Lok Bhavan’",
+    "img": "https://th-i.thgim.com/public/news/national/bzecs7/article71567697.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-10%20at%203.22.53%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-took-cpi-m-leaders-into-custody-prevented-protests-foil-chalo-lok-bhavan/article71567473.ece",
+    "time": "2026-10-10T10:07:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shekhar cancels episode after Nana Patekar’s death",
+    "desc": "Shekhar Suman has dropped the finale of ‘Shekhar Tonite’ because Nana Patekar, who died on October 8 aged 75, was to be its last guest. In a video, Suman recalled Patekar’s praise for the show, their unreleased film ‘Tadap’, and said no one could replace him.",
+    "img": "https://static.toiimg.com/photo/msid-134851856,imgsize-105267.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-was-to-be-our-last-guest-shekhar-suman-cancels-shekhar-tonite-finale-says-no-one-can-take-the-late-actors-place-recalls-actors-last-phone-call-and-unreleased-film-tadap/articleshow/134851839.cms",
+    "time": "2026-10-10T10:04:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Delhi High Court protects Vijay Deverakonda from AI deepfakes",
+    "desc": "Vijay Deverakonda has secured legal safeguards against the unauthorized portrayal of his identity and likeness. The Delhi High Court has instructed social media platforms to eliminate any content that misrepresents his persona. Defendants must reply to the court within four weeks. Furthermore, while the term 'Rowdy' can be used independently, it should not be coupled with his image. Subsequent hearings will further address this ongoing legal matter.",
+    "img": "https://static.toiimg.com/photo/msid-134851831,imgsize-43344.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-wins-interim-personality-rights-protection-from-delhi-high-court-as-platforms-directed-to-content-misusing-actors-identity-within-72-hours-extends-protection-to-ai-generated-images-and-deepfakes/articleshow/134851758.cms",
+    "time": "2026-10-10T10:03:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'After 39 years, everything still fits me': Anil revisits his iconic 'Mr. India' look",
+    "desc": "Anil Kapoor delighted fans by donning his famous outfit from the classic 1987 movie Mr. India during a recent episode of his show. He humorously noted that the jacket still fits after nearly forty years, showcasing his love for the iconic piece. Kapoor mentioned that he found the memorable jacket at Mumbai's Chor Bazaar instead of having it specially made.",
+    "img": "https://static.toiimg.com/photo/msid-134851657,imgsize-601711.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-39-years-everything-still-fits-me-anil-kapoor-revisits-his-iconic-mr-india-look-after-over-three-decades-reveals-his-famous-jacket-was-bought-from-chor-bazaar/articleshow/134851437.cms",
+    "time": "2026-10-10T09:54:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IOA polls on Dec 5; former election commissioner appointed as returning officer",
+    "desc": "The Indian Olympic Association is preparing for its Executive Council elections scheduled for December 5. Sanjay Kumar Srivastava, a former Election Commissioner, will oversee the electoral process. These elections are critical as the current term ends on December 10. The Athletes’ Commission elections will take place on November 3, and nominations are currently being accepted.",
+    "img": "https://static.toiimg.com/photo/msid-134851645,imgsize-81948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/ioa-polls-on-december-5-former-election-commissioner-appointed-as-returning-officer/articleshow/134851614.cms",
+    "time": "2026-10-10T09:52:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Catherine Tresa joins Sundeep Kishan’s ‘Karikaala’",
+    "desc": "Catherine Tresa has officially joined the cast of 'Karikaala', a socio-fantasy film directed by Ugandhar Muni. This film stars Sundeep Kishan, whose first-look poster has already generated significant interest. 'Karikaala' is being planned as a two-part release, with the first installment set for July 2, 2027. The project aims for a pan-India release in Telugu, Tamil, and Hindi languages.",
+    "img": "https://static.toiimg.com/photo/msid-134851388,imgsize-200478.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/catherine-tresa-to-star-opposite-sundeep-kishan-in-karikaala-ugandhar-munis-socio-fantasy-film-scheduled-for-a-two-part-release-in-2027/articleshow/134851336.cms",
+    "time": "2026-10-10T09:31:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "shares emotional tribute",
+    "desc": "Veteran actress Saira Banu mourned Nana Patekar, who died on October 8 aged 75 after a cardiac arrest in Goa. Calling it a heartbreaking loss for Indian cinema, she recalled how Dilip Kumar once dried a drenched Patekar with a towel, which he called a greater award than any trophy.",
+    "img": "https://static.toiimg.com/photo/msid-134851385,imgsize-209132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/isse-bada-kya-award-chahiye-ek-insaan-ko-saira-banu-pays-tribute-to-nana-patekar-recalls-how-dilip-kumar-welcomed-the-actor-with-a-towel-and-fresh-shirt-after-he-arrived-drenched/articleshow/134851277.cms",
+    "time": "2026-10-10T09:31:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Doesn’t make sense': Dinesh Karthik on scrapping Impact Player rule before IPL 2027",
+    "desc": "Dinesh Karthik champions the retention of the Impact Player rule for IPL 2027 to ensure fairness across the board. He highlights that franchises have built their squads with the assumption of having an additional player available. Even as the rule appears to be waning in importance, Karthik underlines its initial advantages for match dynamics. He raises alarms over the potential decrease in opportunities for all-rounders if this rule is modified.",
+    "img": "https://static.toiimg.com/photo/msid-134851333,imgsize-53742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/doesnt-make-sense-dinesh-karthik-on-scrapping-impact-player-rule-before-ipl-2027/articleshow/134851145.cms",
+    "time": "2026-10-10T09:29:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ramayana to have 2 versions in US; English cut is 30 mins shorter than Hindi",
+    "desc": "In an eagerly awaited project, Ranbir Kapoor features in 'Ramayana', directed by Nitesh Tiwari, debuting in November 2026. This cinematic experience will be accessible in Hindi and English, with varied runtimes – 3 hours 15 minutes for the Hindi cut and 2 hours 45 minutes for the English version. Previews are scheduled for November 4, 2026, in India, and further clarification on the variations is awaited.",
+    "img": "https://static.toiimg.com/photo/msid-134851025,imgsize-827403.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoors-ramayana-to-have-two-versions-in-the-us-with-english-cut-ramayana-rise-of-a-legend-30-minutes-shorter-than-hindi-release-report/articleshow/134851002.cms",
+    "time": "2026-10-10T09:11:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka seeks wider price caps beyond cancer medicines on other high-cost life-saving drugs",
+    "desc": "Health Minister U.T. Khader said price rationalisation should translate into direct savings for patients, and urged the Union government to extend similar measures to other essential medicines where high treatment costs place a burden on patients.",
+    "img": "https://th-i.thgim.com/public/news/national/karnataka/qpwubd/article71567510.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-10%20at%2013.20.18.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-seeks-wider-price-caps-beyond-cancer-medicines-on-other-high-cost-life-saving-drugs/article71567350.ece",
+    "time": "2026-10-10T08:48:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Not exactly what was required': Gavaskar questions India's choices after defeat",
+    "desc": "Former India captain Sunil Gavaskar questioned India's bowling choices after their six-wicket defeat to the West Indies in Ranchi. He felt Mayank Yadav or Arshdeep Singh should have bowled the 18th over instead of Axar Patel. Gavaskar also suggested Kuldeep Yadav would have been a better option than Shivam Dube earlier, as India failed to defend 249 runs.",
+    "img": "https://static.toiimg.com/photo/msid-134850694,imgsize-40760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/not-exactly-what-was-required-sunil-gavaskar-questions-indias-bowling-choices-after-west-indies-defeat/articleshow/134850521.cms",
+    "time": "2026-10-10T08:40:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sai Abhyankar reportedly bound by ‘Raaka’ deal",
+    "desc": "Young composer Sai Abhyankar may have an exclusivity clause preventing him from signing Telugu films. This contract is reportedly tied to the upcoming film 'Raaka', a significant collaboration between Allu Arjun and Atlee. While the details of the clause are unclear, it could enable more focus on the music for 'Raaka'. The film has generated interest due to Allu Arjun's intriguing look and multiple avatars.",
+    "img": "https://static.toiimg.com/photo/msid-134850629,imgsize-101379.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/sai-abhyankar-signs-exclusivity-clause-for-allu-arjun-and-atlees-raaka-restricting-him-from-taking-up-other-telugu-films-report/articleshow/134850565.cms",
+    "time": "2026-10-10T08:34:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Big B must appear in person at next hearing if personality rights settlement",
+    "desc": "In a recent ruling, the Delhi High Court mandated that Amitabh Bachchan must attend the hearings in person if a settlement isn't achieved. The court has allowed an extension for finalizing agreements made during mediation with various defendants. This case revolves around allegations of unauthorized use of Bachchan's personality for commercial gain. The next appearance is set for November 16, 2026, to evaluate the progress of the settlement.",
+    "img": "https://static.toiimg.com/photo/msid-134850569,imgsize-567588.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-must-appear-in-person-if-settlement-with-defendants-remains-incomplete-in-personality-rights-case-and-to-pursue-remaining-claims-directs-delhi-high-court-grants-time-until-november-16/articleshow/134850242.cms",
+    "time": "2026-10-10T08:29:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Only openers' spots are permanent': Gambhir's clear message on India's batting order",
+    "desc": "India head coach Gautam Gambhir has backed the decision to promote Shivam Dube to No. 4 despite the all-rounder failing to make an impact in the second T20 International against the West Indies in Ranchi. Dube scored seven off 10 balls before being dismissed by West Indies off-spinner Roston Chase. However, Gambhir said India would continue to change their batting order according to the match situation, adding that only the opening positions are fixed in T20 cricket.",
+    "img": "https://static.toiimg.com/photo/msid-134850476,imgsize-123864.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/only-openers-spots-are-permanent-gautam-gambhirs-clear-message-on-indias-t20-batting-order/articleshow/134850376.cms",
+    "time": "2026-10-10T08:20:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Rowles became Joburg’s big bet",
+    "desc": "Jason Rowles, 18, a talented South African cricketer, was bought by Joburg Super Kings for R2.9 million, 14.5 times his base price, in the SA20 Season 5 Auction. Having excelled in youth cricket, Rowles now faces high expectations as part of a broader trend of investing in promising young players. The league aims to nurture talent while managing hype and pressure.",
+    "img": "https://static.toiimg.com/photo/msid-134850252,imgsize-84191.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/from-schoolboy-to-biggest-sa20-auction-signing-how-jason-rowles-became-joburgs-big-bet/articleshow/134850237.cms",
+    "time": "2026-10-10T08:17:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajinikanth jokes about Tamannaah’s ‘Kaavaalaa’ song in ‘Jailer 2’",
+    "desc": "Rajinikanth shared a humorous memory with director Nelson Dilipkumar regarding Tamannaah Bhatia's dance number in 'Jailer 2'. He recalled asking Nelson for another song for Tamannaah, who was part of the original film. Nelson humorously replied that a song could not be added just because of Rajinikanth's suggestion. Tamannaah previously expressed her joy in working with Rajinikanth, calling it a significant career milestone.",
+    "img": "https://static.toiimg.com/photo/msid-134850224,imgsize-107469.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/i-never-said-i-liked-it-rajinikanth-recalls-funny-exchange-with-nelson-dilipkumar-says-tamannaah-bhatia-will-be-missed-in-jailer-2/articleshow/134850191.cms",
+    "time": "2026-10-10T08:07:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "GTech to seek Centre’s intervention as U.S. Green Card curbs hit IT giants",
+    "desc": "The Ministry of External Affairs has since clarified that the suspension of PERM applications does not, by itself, affect the validity of existing H-1B visas or the status of H-1B visa holders and their dependants",
+    "img": "https://th-i.thgim.com/public/news/national/h5l8vy/article71567418.ece/alternates/LANDSCAPE_1200/iStock-1275464753.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/gtech-to-seek-centres-intervention-as-us-green-card-curbs-hit-it-giants/article71567277.ece",
+    "time": "2026-10-10T07:49:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Gyanesh Kumar will go, this government will go’: Rahul Gandhi",
+    "desc": "Rahul Gandhi said the repair of democracy will begin once the CEC and the Modi government are gone, a day after telling INDIA bloc MPs the government would fall if the Opposition kept up its push",
+    "img": "https://th-i.thgim.com/public/incoming/dre8p4/article71567251.ece/alternates/LANDSCAPE_1200/20261009508L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/gyanesh-kumar-will-go-this-government-will-go-rahul-gandhi/article71567234.ece",
+    "time": "2026-10-10T07:45:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kangana’s emotional Pitru Paksha tribute; recalls great-grandfather’s love",
+    "desc": "Kangana Ranaut paid tribute to her great-grandfather, Sarju Singh Ranaut, during Pitru Paksha, crediting him for her “main character energy.” She recalled he was proud of her while she filmed ‘Tanu Weds Manu’. Her latest film, ‘Bharat Bhhagya Viddhaata’, released in June to positive reviews.",
+    "img": "https://static.toiimg.com/photo/msid-134849905,imgsize-230930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/he-gave-me-the-main-character-energy-that-i-have-today-kangana-ranaut-remembers-late-great-grandfather-recalls-how-proud-he-was-of-her-during-tanu-weds-manu/articleshow/134849879.cms",
+    "time": "2026-10-10T07:44:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka Postal Circle to sell 8,000 philately passports on October 10 and 11",
+    "desc": "The Karnataka Postal Circle will issue 8,000 philately passports on October 10 and 11, with 1,500 to be sold in Bengaluru’s GPO and the rest spread across Mangaluru, Mysuru, and Belagavi in a first-come, first-served process, as part of National Postal Week.",
+    "img": "https://th-i.thgim.com/public/incoming/ys4rg3/article71556924.ece/alternates/LANDSCAPE_1200/PTI10_07_2026_000195B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-postal-circle-to-sell-8000-philately-passports-on-october-10-and-11/article71556163.ece",
+    "time": "2026-10-10T07:36:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Man faces Rs 17.18 lakh tax penalty over Rs 55.62 lakh unexplained deposits; ITAT gives relief",
+    "desc": "A man had not filed an income tax return for assessment year 2016-17. The tax department subsequently completed a reassessment without his participation and, on February 15, 2024, assessed his total income at Rs 55.62 lakh. The amount was treated as unexplained cash deposits in a bank account that the department attributed to him.",
+    "img": "https://static.toiimg.com/photo/msid-134837737,imgsize-355170.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/man-did-not-file-itr-faced-rs-17-18-lakh-penalty-over-alleged-rs-55-62-lakh-unexplained-cash-deposits-itat-mumbai-deletes-penalty-because-tax-officer-invoked-wrong-provision/articleshow/134837562.cms",
+    "time": "2026-10-10T06:37:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Their careers are at stake as well': Gautam Gambhir breaks silence after India's defeat",
+    "desc": "Mayank Yadav finished with three wickets in three overs but conceded 36 runs at an economy rate of 12.00. Despite his early strikes, India failed to defend 249 as the West Indies chased down the target to win by six wickets.",
+    "img": "https://static.toiimg.com/photo/msid-134849132,imgsize-62455.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/their-careers-are-at-stake-as-well-gautam-gambhir-breaks-silence-after-indias-defeat/articleshow/134849046.cms",
+    "time": "2026-10-10T06:36:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gukesh, Pragg get Rs 15 lakh each as TN awards Rs 60 lakh to Olympiad medallists",
+    "desc": "Tamil Nadu Chief Minister C Joseph Vijay honoured the state's 2026 Chess Olympiad medallists, distributing Rs 60 lakh among five recipients. D Gukesh and R Praggnanandhaa received Rs 15 lakh each, while Savitha Shri, R Vaishali and captain Srinath Narayanan were awarded Rs 10 lakh each. The state also launched its Dream Olympics 2036 scheme to support athletes with training and nutrition costs.",
+    "img": "https://static.toiimg.com/photo/msid-134849102,imgsize-186538.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/gukesh-praggnanandhaa-get-rs-15-lakh-each-as-tamil-nadu-awards-rs-60-lakh-to-chess-olympiad-medallists/articleshow/134849027.cms",
+    "time": "2026-10-10T06:34:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand rule out O'Rourke against India to keep him fit for Australia",
+    "desc": "New Zealand fast bowler Will O'Rourke will miss the upcoming series against India as he recovers from hamstring and calf injuries. Coach Rob Walter said the decision was made to avoid rushing his return. New Zealand hope O'Rourke will play domestic cricket in late December before featuring in the first Test against Australia in Perth on December 9.",
+    "img": "https://static.toiimg.com/photo/msid-134848622,imgsize-58596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealand-rule-out-will-orourke-against-india-to-keep-him-fit-for-australia/articleshow/134848484.cms",
+    "time": "2026-10-10T06:08:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "As Israel goes to the polls, settler attacks and expansion intensify in West Bank",
+    "desc": "More than 1,600 settler attacks against Palestinians recorded between January and August; over 1,000 Palestinians killed in the West Bank in the last four years; movement curbs, land seizures, demolitions have displaced thousands, while major parties show little interest in dismantling settlements",
+    "img": "https://th-i.thgim.com/public/incoming/adpbm8/article71565548.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_West_Bank_72343.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/as-israel-goes-to-the-polls-settler-attacks-and-expansion-intensify-in-west-bank/article71564412.ece",
+    "time": "2026-10-10T05:44:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I don't blame anyone': Gambhir's strong words after India fail to defend 249",
+    "desc": "The West Indies chased down a target of 250 in just 18.3 overs to register their highest successful T20I chase against India and level the five-match series 1-1. Shai Hope scored an unbeaten 102, while Sherfane Rutherford made 84 to lead the visitors to victory.",
+    "img": "https://static.toiimg.com/photo/msid-134847757,imgsize-56733.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/i-dont-blame-anyone-gautam-gambhirs-strong-words-after-india-fail-to-defend-249-vs-west-indies/articleshow/134847530.cms",
+    "time": "2026-10-10T05:10:41.000Z"
   },
   {
     "cat": "Sports",
@@ -18,24 +423,6 @@ const newsData_en = [
     "time": "2026-10-10T03:48:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aneet Padda remembers Nana Patekar and recalls working with him for ‘Shakti Shalini'",
-    "desc": "Aneet Padda fondly reminisced about collaborating with Nana Patekar during the making of 'Shakti Shalini.' She recounted their initial encounter, highlighting Patekar's profound impact as an actor. Director Aditya Sarpotdar shared his feelings of sorrow and unexpected grief following Patekar's passing. In light of these events, the release of 'Shakti Shalini' has been delayed until the first quarter of 2027.",
-    "img": "https://static.toiimg.com/photo/msid-134846898,imgsize-318841.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aneet-padda-on-working-with-nana-patekar-in-shakti-shalini-im-grateful-our-paths-crossed/articleshow/134846810.cms",
-    "time": "2026-10-10T03:39:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Female role take a backseat when the hero leads",
-    "desc": "Srinidhi Shetty shared her thoughts on the importance of female characters in South Indian cinema. She noted that while some films provide significant roles for women, others center around male protagonists. Addressing remuneration, she dismissed claims of charging Rs 7 to Rs 8 crore per film as mere speculation. She emphasized that financial gain is not her sole consideration when choosing projects.",
-    "img": "https://static.toiimg.com/photo/msid-134846877,imgsize-186038.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/when-srinidhi-shetty-said-female-characters-take-a-backseat-when-the-hero-leads-everybody-else-become-accessories-to-the-plot-or-maybe-to-the-heros-character/articleshow/134846869.cms",
-    "time": "2026-10-10T03:37:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "West Indies’ beacon of Hope ready for some redemption",
     "desc": "The West Indian’s batting graph has gone north ever since landing in India; after five outings against the Men in Blue across three ODIs and two T20Is, Shai Hope has added 432 golden runs to his international tally",
@@ -43,24 +430,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ind-vs-wi-t20is-west-indies-beacon-of-hope-ready-for-some-redemption/article71566005.ece",
     "time": "2026-10-10T03:37:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Drones take to Delhi skies ahead of CJP protest against CEC Gyanesh Kumar",
-    "desc": "In anticipation of the Cockroach Janta Party's protest in central Delhi, drones and a heavy police presence have been mobilized. The protest calls for the resignation of Chief Election Commissioner Gyanesh Kumar due to alleged electoral roll discrepancies. Despite the police denying permission, organizers are determined to continue, leading to major disruptions in public transport. Comprehensive security measures are being implemented, including various checkpoints and surveillance systems to ensure safety.",
-    "img": "https://static.toiimg.com/photo/msid-134846803,imgsize-7951721.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-drones-take-to-delhi-skies-ahead-of-cjp-protest-against-cec-gyanesh-kumar/articleshow/134846792.cms",
-    "time": "2026-10-10T03:29:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala HC order against former CM Pinarayi Vijayan and others raises a larger question of natural justice, say legal experts",
-    "desc": "Pinarayi, Riyas and Veena denied an opportunity to be heard, which can be construed as denial of natural justice and could be challenged in the High Court or the Supreme Court, they say. Some also say that single judge’s order bypasses a law that mandates approval from the competent authority to conduct inquiry into public servants",
-    "img": "https://th-i.thgim.com/public/incoming/krvvt2/article71566964.ece/alternates/LANDSCAPE_1200/CMRL-Exalogic-pG2OGIUJ4S.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-order-against-former-chief-minister-pinarayi-vijayan-and-others-raises-a-larger-question-of-natural-justice-say-legal-experts/article71564921.ece",
-    "time": "2026-10-10T03:28:43.000Z"
   },
   {
     "cat": "Sports",
@@ -72,15 +441,6 @@ const newsData_en = [
     "time": "2026-10-10T02:36:58.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "George Clooney talks about Presley Gerber weeks after his passing",
-    "desc": "George Clooney expressed his deep sadness over the untimely death of Presley Gerber in a touching statement. He noted that this tragedy has left both families with an immense feeling of grief. Presley had bravely discussed his struggles with substance abuse, which was not a secret to his relatives or fans. Just before his death, Kaia Gerber, his sister, shared insights about their family's hardships.",
-    "img": "https://static.toiimg.com/photo/msid-134846363,imgsize-300390.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/george-clooney-breaks-silence-about-presley-gerbers-death-its-the-worst-thing-that-could-ever-happen/articleshow/134846322.cms",
-    "time": "2026-10-10T02:30:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How Neeraj Chopra's javelin helped Rohit Yadav win Asian Games bronze",
     "desc": "Rohit Yadav made an impressive mark at the Asian Games javelin final with support from Neeraj Chopra, who lent him a javelin after Yadav’s was damaged. With a throw of 84.35m, Yadav clinched a bronze medal. This victory led to a heartfelt message from Chopra, eager to join forces in future competitions. Yadav is now set to refine his skills for upcoming international events.",
@@ -90,15 +450,6 @@ const newsData_en = [
     "time": "2026-10-10T02:23:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "New texts revealed between Ryan Reynolds and Colleen Hoover talking about Justin Baldoni",
-    "desc": "In a recently uncovered exchange, Ryan Reynolds openly criticized Justin Baldoni, labeling him a predator amidst discussions of a smear campaign targeting Blake Lively. Colleen Hoover added a light-hearted touch to the serious conversation during their chat in August 2024. Meanwhile, Lively had previously reached a settlement with Baldoni following an extensive legal battle, making this exchange particularly significant against the backdrop of their ongoing feud.",
-    "img": "https://static.toiimg.com/photo/msid-134846200,imgsize-295814.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-reynolds-and-colleen-hoovers-alleged-texts-reveal-the-actor-calling-it-ends-with-us-justin-baldoni-a-predator/articleshow/134846130.cms",
-    "time": "2026-10-10T02:07:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Only second ever! Hope scripts history against India with record-breaking ton",
     "desc": "West Indies captain Shai Hope became only the second player after Australia's Shane Watson to score centuries in all three formats against India. Hope smashed an unbeaten 102 off 45 balls, helping West Indies chase 250 to win by six wickets in Ranchi. The victory marked their highest successful T20I chase and levelled the five-match series at 1-1.",
@@ -106,42 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/only-second-player-ever-shai-hope-scripts-history-against-india-with-record-breaking-ton/articleshow/134846078.cms",
     "time": "2026-10-10T01:57:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajinikanth on rejecting 'Baasha 2' and 'Petta 2'",
-    "desc": "Rajinikanth has made it clear that he is not a fan of movie sequels, expressing concerns about their usual lack of innovation. He rejected ideas for 'Baasha 2' and 'Petta 2,' deeming them uninspiring. However, upon revisiting 'Jailer,' he saw the potential for a sequel, leading director Nelson Dilipkumar to switch gears and focus on 'Jailer 2' instead.",
-    "img": "https://static.toiimg.com/photo/msid-134846111,imgsize-335002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/im-generally-not-keen-on-sequels-rajinikanth-on-rejecting-baasha-2-and-petta-2-says-jailer-had-the-right-setup-for-a-sequel/articleshow/134846106.cms",
-    "time": "2026-10-10T01:54:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vivek Oberoi remembers Nana Patekar; recalls 'Darna Mana Hai' memories",
-    "desc": "Vivek Oberoi honored the memory of Nana Patekar following his passing at age 75. He shared a post reflecting on their collaborations and his father's past work with Nana. The actor emphasized the loss felt and praised Nana's impactful legacy in cinema. Tributes poured in from colleagues and other actors, showcasing the veteran's influence and contributions. Nana Patekar's last rites were conducted with full state honors at his farmhouse.",
-    "img": "https://static.toiimg.com/photo/msid-134846057,imgsize-179515.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saying-goodbye-feels-incredibly-difficult-vivek-oberoi-remembers-nana-patekar-recalls-darna-mana-hai-memories/articleshow/134846050.cms",
-    "time": "2026-10-10T01:47:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aamir spends time with his kids on family night out",
-    "desc": "Aamir Khan was spotted with his children Ira Khan and Azaad Khan during a family gathering in Bandra. The family shared warm goodbyes after enjoying their evening together, showcasing their close bond. Azaad, who seemed cheerful, displayed a mature look that caught attention. Ira opted for an auto ride home, while Aamir drove off in his car.",
-    "img": "https://static.toiimg.com/photo/msid-134846037,imgsize-61884.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-spends-time-with-his-kids-on-low-key-family-night-out-ira-and-husband-nupur-shikhare-leave-in-a-rickshaw-watch/articleshow/134845996.cms",
-    "time": "2026-10-10T01:43:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nani plans changes to 'The Paradise' OTT version",
-    "desc": "Nani is reportedly overseeing changes to his film 'The Paradise' for its upcoming OTT release. The team may include previously deleted scenes in the digital version to enhance viewer satisfaction. Nani expressed understanding of the criticism received after the theatrical release and acknowledged some anticipated issues. He emphasized the importance of honest feedback from family and friends in evaluating his work. As of now, 'The Paradise' has grossed Rs 171.",
-    "img": "https://static.toiimg.com/photo/msid-134845978,imgsize-417253.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nani-plans-changes-to-the-paradise-ott-version-may-include-unseen-footage-reports/articleshow/134845971.cms",
-    "time": "2026-10-10T01:32:58.000Z"
   },
   {
     "cat": "Sports",
@@ -162,15 +477,6 @@ const newsData_en = [
     "time": "2026-10-10T01:16:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "DMK retains much of its vote bank, reinforces position as the principal rival of TVK",
-    "desc": "The TVK failed to match the vote count secured by the AIADMK in the general election, despite the defection of the former AIADMK legislator and the shift of the DMK’s erstwhile allies to the ruling party",
-    "img": "https://th-i.thgim.com/public/incoming/dkykqm/article71566957.ece/alternates/LANDSCAPE_1200/2085_3_10_2026_12_19_8_5_DSC_3762.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-retains-much-of-its-vote-bank-despite-going-it-alone-reinforces-position-as-the-principal-rival-of-tvk/article71565415.ece",
-    "time": "2026-10-10T01:11:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Gambhir is chopping and changing': Ex-Australia player calls India 'unsettled'",
     "desc": "Former Australian all-rounder Shane Watson criticised Gautam Gambhir for frequently changing India’s playing XI and batting order, saying it affects team consistency. However, he praised Gambhir for backing players like Sanju Samson. Meanwhile, West Indies defeated India by six wickets after chasing 250, with Shai Hope scoring an unbeaten 102 to level the five-match T20I series at 1-1.",
@@ -178,78 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/gambhir-is-chopping-and-changing-all-the-time-ex-australia-player-calls-india-unsettled-explains-why/articleshow/134845857.cms",
     "time": "2026-10-10T01:10:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Baththa' BO day 9 vs 'Dorothy'",
-    "desc": "Baththa has seen an increase in box office earnings, accumulating Rs 17.06 crore in net collections. On its second Friday, Baththa collected Rs 1.60 crore, showcasing a growth over previous earnings. Meanwhile, Dorothy's collections on its 15th day reached Rs 50 lakhs, totaling Rs 11.94 crore in net earnings. Both films have been receiving positive reviews from audiences, contributing to their box office success.",
-    "img": "https://static.toiimg.com/photo/msid-134845873,imgsize-247522.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/baththa-box-office-collection-day-9-vs-dorothy-vijay-sethupathis-film-earns-rs-1-60-cr-karthik-subbarajs-film-collects-rs-50-lakhs/articleshow/134845868.cms",
-    "time": "2026-10-10T01:07:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Sigma' BO day 8: Jason Sanjay's film earns Rs 8.32 cr net",
-    "desc": "Jason Sanjay's directorial debut, 'Sigma', has grossed Rs 8.32 cr net in India after its first eight days. The film opened on October 2, 2026, with an impressive opening-day gross collection of Rs 2.70 cr. Following a strong start, the collections saw a decline during the weekdays, recording various gross earnings. The movie features Sundeep Kishan in the lead role, alongside a supporting cast.",
-    "img": "https://static.toiimg.com/photo/msid-134845840,imgsize-236403.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sigma-box-office-collection-day-8-jason-sanjays-film-earns-rs-8-32-cr-net-worldwide-gross-reaches-rs-9-44-cr/articleshow/134845837.cms",
-    "time": "2026-10-10T00:56:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Hanuman Ansh' box office collection day 64: Vishal Chaturvedi's film earns Rs 1.20 crore",
-    "desc": "On October 9, 'Hanuman Ansh' recorded an increase in daily earnings following its Telugu version's release. The film earned Rs 1.20 crore on Day 64, marking a 60% rise from the previous day. Domestic net collections reached Rs 329.18 crore, contributing to a worldwide gross total of Rs 428.82 crore. The overall occupancy for both language versions was 17.29% for Hindi and 17.91% for Telugu.",
-    "img": "https://static.toiimg.com/photo/msid-134845829,imgsize-173264.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-64-vishal-chaturvedis-film-earns-rs-1-20-crore-worldwide-gross-reaches-rs-428-82-crore/articleshow/134845824.cms",
-    "time": "2026-10-10T00:48:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Paradise' BO day 16 vs 'Don't Trouble the Trouble'",
-    "desc": "Nani and Kayadu Lohar's film 'The Paradise' has earned Rs 119.54 cr in India net collections. It achieved a worldwide gross of Rs 171.96 cr after three weeks in theaters. 'Don't Trouble the Trouble', starring Fahadh Faasil, has collected Rs 4.44 cr net in India during its opening week. This fantasy movie recorded a total gross of Rs 5.10 cr worldwide.",
-    "img": "https://static.toiimg.com/photo/msid-134845755,imgsize-279571.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-box-office-collection-day-16-vs-dont-trouble-the-trouble-nanis-film-earns-rs-51-lakhs-net-worldwide-gross-reaches-rs-171-96-cr-fahadh-faasils-movie-crosses-rs-5-cr/articleshow/134845752.cms",
-    "time": "2026-10-10T00:14:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Drishyam 3' box office collection day 8: Ajay Devgn’s film earns Rs 260 crore net",
-    "desc": "The Conclusion' has earned Rs 260 cr in domestic net collections. The film's gross collection in India has reached Rs 312 cr, with an impressive increase noted on Day 8. Additionally, the overseas gross has reached Rs 95 cr, contributing to a worldwide total of Rs 407 cr. The film's story follows Vijay Salgaonkar as he navigates another police investigation against his family.",
-    "img": "https://static.toiimg.com/photo/msid-134845754,imgsize-247239.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/drishyam-3-box-office-collection-day-8-ajay-devgns-film-earns-rs-260-cr-net-worldwide-gross-reaches-rs-407-crore/articleshow/134845749.cms",
-    "time": "2026-10-10T00:13:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Scarlett Johansson in 'The Exorcist: Martyrs' trailer",
-    "desc": "Martyrs' directed by Mike Flanagan. This film will explore a new story in the iconic series featuring a police detective investigating murders. After an executed serial killer's threat appears to resurface, she confronts a demonic force. The supporting cast includes Chiwetel Ejiofor and Laurence Fishburne as assisting priests. 'The Exorcist: Martyrs' is scheduled for theatrical release on March 12, 2027.",
-    "img": "https://static.toiimg.com/photo/msid-134845727,imgsize-289658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-exorcist-martyrs-trailer-scarlett-johansson-goes-up-against-demonic-forces-in-mike-flanagans-new-horror-film-watch/articleshow/134845632.cms",
-    "time": "2026-10-10T00:06:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJP leaders accuse govt. of imposing Emergency, 'Even if I am detained, the protest should not end', says   Dipke",
-    "desc": "The Ministry of Home Affairs has approved the temporary suspension of internet services. Internet services will remain suspended within a 4-kilometre radius around the Janpath–Kartavya Path crossing from 10 p.m. on October 9 to 10 p.m. on October 10.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-controversy-live-updates-india-bloc-congress-jantar-mantar-cjp-protest-live-updates-october-9-2026/article71562437.ece",
-    "time": "2026-10-09T23:42:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Dhurandhar: The Revenge’ eyes Grammy nomination",
-    "desc": "The Revenge is reportedly entering the Grammy race for its impressive soundtrack. T-Series and B62 Studios are campaigning for several songs across diverse categories. Notable tracks include 'Phir Se', 'Aari Aari', and 'Jaiye Sajana'. The Recording Academy's eligibility requirements must be met for nominations to be secured. The Grammy ceremony is scheduled for February 7, 2027, and will introduce new music categories.",
-    "img": "https://static.toiimg.com/photo/msid-134845515,imgsize-158520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-dhurandhar-the-revenge-eyes-grammy-nomination-shashwat-sachdevs-soundtrack-submitted-across-multiple-categories-including-best-compilation-soundtrack-for-visual-media/articleshow/134845447.cms",
-    "time": "2026-10-09T22:56:44.000Z"
   },
   {
     "cat": "World",
@@ -261,60 +495,6 @@ const newsData_en = [
     "time": "2026-10-09T22:50:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "TMC MP writes to UNHCR over denial of drinking water in Kolkata colony",
-    "desc": "Samirul Islam alleged that drinking water supply to Jyoti Nagar Colony was cut off after the BJP came to power in West Bengal. \"Because the residents are Muslims and are not considered part of the BJP’s so-called vote bank,” he said",
-    "img": "https://th-i.thgim.com/public/incoming/7kye36/article71564011.ece/alternates/LANDSCAPE_1200/IMG_Smirul_Islam_2_1_EHEB4S1K.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/kolkata/tmc-mp-samirul-islam-writes-to-un-rights-chief-over-drinking-water-crisis-in-kolkata-colony/article71563791.ece",
-    "time": "2026-10-09T22:13:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Keegan Allen ATTACKED and robbed at gunpoint",
-    "desc": "Keegan Allen, known for his role in Pretty Little Liars, was violently attacked and robbed recently. Two masked assailants threatened him with a gun and knife before fleeing with his watch. The incident occurred on Santa Monica Boulevard in West Hollywood, leaving Allen injured with a laceration on his forehead. Local authorities have confirmed the robbery and are investigating the incident with public concern.",
-    "img": "https://static.toiimg.com/photo/msid-134842671,imgsize-331575.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/pretty-little-liars-actor-keegan-allen-attacked-and-robbed-at-gunpoint-actor-says-men-threatened-to-kill-him-over-luxury-watch-video/articleshow/134842672.cms",
-    "time": "2026-10-09T21:41:59.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "As Israel goes to the polls, settler attacks and expansion intensify in West Bank",
-    "desc": "More than 1,600 settler attacks against Palestinians recorded between January and August; over 1,000 Palestinians killed in the West Bank in the last four years; movement curbs, land seizures, demolitions have displaced thousands, while major parties show little interest in dismantling settlements",
-    "img": "https://th-i.thgim.com/public/incoming/adpbm8/article71565548.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_West_Bank_72343.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/as-israel-goes-to-the-polls-settler-attacks-and-expansion-intensify-in-west-bank/article71564412.ece",
-    "time": "2026-10-09T21:34:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Hyderabad’s common mobility pass fails to hit the mark",
-    "desc": "Priced at ₹8,500 a month, the new pass allows unlimited travel on Metro Rail and RTC buses within the ORR limits but excludes MMTS and last-mile services. Commuters say affordable fares, feeder connectivity and coordination among transport agencies are essential for seamless travel",
-    "img": "https://th-i.thgim.com/public/incoming/234hki/article71565118.ece/alternates/LANDSCAPE_1200/_DSC6749.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/hyderabads-common-mobility-pass-fails-to-hit-the-mark/article71564182.ece",
-    "time": "2026-10-09T19:26:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Breakfast scheme brings more students to schools in Telangana",
-    "desc": "Increased enrolment, enhanced attendance, no complaints of hunger and more energy among students throughout the day were some of the key factors that emerged as focal points in the Telangana schools after the introduction of the breakfast scheme this academic year, according to a survey in Kodangal constituency by Third Vision Research and Services",
-    "img": "https://th-i.thgim.com/public/incoming/r1szof/article71564685.ece/alternates/LANDSCAPE_1200/DSC0607.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/breakfast-scheme-brings-more-students-to-schools-in-telangana/article71564342.ece",
-    "time": "2026-10-09T19:21:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mrunal defends Kat and Kriti against trolls who judged their looks and clothes",
-    "desc": "In a recent statement, Mrunal Thakur came to the defense of actresses Katrina Kaif and Kriti Sanon, who faced harsh judgment online. Social media users criticized Katrina's appearance post-pregnancy, while Kriti's outfit choices were scrutinized. Mrunal emphasized the importance of respect for all actors and noted that men also endure similar criticisms. This commentary came during the promotion of her film 'Pooja Meri Jaan' on ZEE5.",
-    "img": "https://static.toiimg.com/photo/msid-134841338,imgsize-663478.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-defends-katrina-kaif-and-kriti-sanon-against-trolls-who-judged-their-looks-and-clothes-women-are-always-judged-and-when-are-they-not-judged/articleshow/134841221.cms",
-    "time": "2026-10-09T18:32:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shai Hope, Sherfane Rutherford dazzle as West Indies draws level",
     "desc": "Shai Hope hits an unbeaten 102 off just 45 deliveries while Sherfane Rutherford smashes a 37-ball 84 as the Men in Maroon pull off their highest chase in the shortest format; Samson’s knock goes in vain",
@@ -322,42 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ind-vs-wi-second-t20-shai-hope-sherfane-rutherford-dazzle-as-west-indies-draws-level/article71565697.ece",
     "time": "2026-10-09T18:05:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kareena's F1 crossover leaves netizens bringing up Saif's 'Ta Ra Rum Pum'",
-    "desc": "Kareena Kapoor Khan has proudly become a member of the McLaren Racing family and is set to have a chat with Lando Norris. This collaboration has sparked a wave of excitement among fans on social media, leading many to reminisce about Saif Ali Khan’s performance in ‘Ta Ra Rum Pum’ and its connection to Kareena’s new venture.",
-    "img": "https://static.toiimg.com/photo/msid-134840604,imgsize-547526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khans-f1-crossover-leaves-netizens-bringing-up-saif-ali-khans-ta-ra-rum-pum-her-favourite-driver/articleshow/134840353.cms",
-    "time": "2026-10-09T18:03:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hope springs eternal as West Indies pull off highest chase in T20Is in Ranchi",
-    "desc": "Hope and Sherfane Rutherford turned the match on its head with a 120-run stand for the fourth wicket. Rutherford smashed 84 off 37 balls, while Hope remained unbeaten on 102 off 45 as the West Indies chased down India's 250-run target with nine balls to spare.",
-    "img": "https://static.toiimg.com/photo/msid-134840078,imgsize-107461.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/hope-springs-eternal-as-west-indies-pull-off-their-highest-chase-in-t20is-in-ranchi/articleshow/134839973.cms",
-    "time": "2026-10-09T17:40:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Match-winner on captaincy debut! Farhan leads Pak to stunning chase vs Sri Lanka",
-    "desc": "Sahibzada Farhan made a remarkable debut as captain, scoring 89 runs and guiding Pakistan to an impressive win over Sri Lanka, successfully chasing down 183. The aggressive pairing with Maaz Sadaqat shone through, sealing victory with seven balls left in the first T20I. Sri Lanka had set a competitive stage, thanks to Lahiru Udara's 91 runs. The anticipation builds for the upcoming matches scheduled in Rawalpindi.",
-    "img": "https://static.toiimg.com/photo/msid-134839981,imgsize-72224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/match-winning-knock-on-captaincy-debut-sahibzada-farhan-leads-pakistan-to-stunning-chase-against-sri-lanka/articleshow/134839918.cms",
-    "time": "2026-10-09T17:32:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kamal Haasan STRONGLY responds to Elon Musk's Starlink claim",
-    "desc": "Kamal Haasan addressed Elon Musk's allegations regarding Starlink's delayed entry into India and competition issues. He emphasized that billionaires should not dictate national policies for any country, including India. Haasan pointed out India's commitment to ensuring affordable satellite internet access to bridge the digital divide. He also highlighted that India's national security considerations shape its regulatory decisions, which are not discriminatory.",
-    "img": "https://static.toiimg.com/photo/msid-134839649,imgsize-759929.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kamal-haasan-strongly-responds-to-elon-musks-starlink-claim-india-is-a-democracy-not-a-colony-says-the-country-will-decide-its-own-future/articleshow/134838972.cms",
-    "time": "2026-10-09T17:12:45.000Z"
   },
   {
     "cat": "Business",
@@ -369,51 +513,6 @@ const newsData_en = [
     "time": "2026-10-09T16:38:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Novak Djokovic donated €1 million during COVID-19: What his money helped buy",
-    "desc": "In 2020, as the COVID-19 pandemic put Serbia’s hospitals under mounting pressure, Novak Djokovic and his wife, Jelena, stepped in with a €1 million donation for medical equipment. The money helped hospitals obtain ventilators, clinical monitors and CT scanners at a time when such resources were urgently needed. It was one of the most visible examples of a philanthropic commitment the couple had been building for more than a decade through the Novak Djokovic Foundation, established in 2007 to improve opportunities for vulnerable communities.",
-    "img": "https://static.toiimg.com/photo/msid-134836994,imgsize-8713697.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/covid-19-hero-how-novak-djokovic-donated-1-million-during-one-of-mankinds-worst-crises-the-ventilators-ct-scanners-and-medical-equipment-his-money-helped-buy/articleshow/134836190.cms",
-    "time": "2026-10-09T16:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "149.5kmph thunderbolt! Mayank Yadav leaves West Indies reeling in chase",
-    "desc": "India scored their highest-ever T20I total against West Indies, reaching 249 runs in 20 overs. Mayank Yadav played a critical role by taking three wickets during the powerplay. His impressive bowling performance included a remarkable delivery clocked at 149.5kmph. West Indies struggled to respond and were left reeling early in their chase.",
-    "img": "https://static.toiimg.com/photo/msid-134838705,imgsize-119256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/149-5kmph-thunderbolt-mayank-yadav-leaves-west-indies-reeling-after-indias-record-t20i-total-in-ranchi/articleshow/134838539.cms",
-    "time": "2026-10-09T16:28:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kieran Hayler told 13-year-old rape accuser she could be his ‘best friend’",
-    "desc": "Katie Price’s ex-husband Kieran Hayler allegedly told a 13-year-old girl, who has accused him of rape, that she could be his “best friend” because he had no friends, a court heard. The girl’s mother testified during his trial at Lewes Crown Court. Hayler denies three counts of rape and one count of sexual assault.",
-    "img": "https://static.toiimg.com/photo/msid-134838385,imgsize-61339.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/katie-prices-ex-husband-kieran-hayler-told-13-year-old-rape-accuser-she-could-be-his-best-friend-because-he-had-no-friends-court-hears-he-denies-all-charges/articleshow/134838290.cms",
-    "time": "2026-10-09T16:21:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India smash highest T20I total vs WI as Samson, Iyer and Tilak go berserk in Ranchi",
-    "desc": "India showcased their batting prowess against the West Indies, amassing an unprecedented T20I total of 249 runs. The highlight of the match was Sanju Samson, who electrified the crowd with an explosive 82 runs from 41 balls. Significant input from Ishan Kishan and Shreyas Iyer, alongside Tilak Varma's not-out 44, fortified India's position.",
-    "img": "https://static.toiimg.com/photo/msid-134837659,imgsize-126210.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/india-smash-highest-t20i-total-against-west-indies-as-samson-iyer-and-tilak-go-berserk-in-ranchi/articleshow/134837627.cms",
-    "time": "2026-10-09T15:46:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vinícius Jr. invested R$8M in 2025 alone: How is his institute changing Brazilian schools?",
-    "desc": "Vinícius Júnior is transforming Brazilian public education through his Instituto Vini Jr., which invested nearly R$8 million in 2025. Using football, technology and innovative teaching methods, the institute supports thousands of students across multiple states. From digital classrooms to community development in São Gonçalo, his mission is to reduce inequality, empower children and create educational opportunities.",
-    "img": "https://static.toiimg.com/photo/msid-134833801,imgsize-202830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/vincius-jr-s-institute-gave-away-nearly-r8-million-in-2025-how-the-real-madrid-star-is-changing-future-of-thousands-of-brazilian-children/articleshow/134830516.cms",
-    "time": "2026-10-09T15:30:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "ICC rejects U.S. sanctions, says 'history will judge this moment'",
     "desc": "The sanctions are \"an assault on the rule of law and on the very foundations of the international legal order which strikes at the simple principle that no one stands above the law\", said the court in a statement",
@@ -421,33 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/icc-rejects-us-sanctions-says-history-will-judge-this-moment/article71565060.ece",
     "time": "2026-10-09T15:24:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Affected me personally’: United boss Carrick calls for swift resolution to City’s case",
-    "desc": "Michael Carrick advocates for a swift conclusion to the financial charges against Manchester City, arguing that the lingering ambiguity is harmful for English football at large. Drawing from his experiences in title races, he underscored the personal impact of this case and highlighted injury challenges within his squad as they gear up to face Tottenham Hotspur.",
-    "img": "https://static.toiimg.com/photo/msid-134837392,imgsize-115568.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/its-affected-me-personally-man-united-boss-carrick-calls-for-swift-resolution-to-man-citys-financial-case/articleshow/134837355.cms",
-    "time": "2026-10-09T15:18:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson matches Virat Kohli’s record with whirlwind fifty against West Indies",
-    "desc": "In the thrilling second T20I against West Indies, Sanju Samson showcased his batting talent with a blistering fifty, equaling Virat Kohli's record for the fastest fifty by an Indian against this rival. This explosive performance helped propel India's stellar powerplay score in T20Is. Teaming up with Abhishek Sharma, he set a strong foundation for India, continuing their successful momentum after a prior victory in the series.",
-    "img": "https://static.toiimg.com/photo/msid-134836676,imgsize-64486.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/sanju-samson-matches-virat-kohlis-record-with-whirlwind-21-ball-fifty-against-west-indies/articleshow/134836607.cms",
-    "time": "2026-10-09T14:25:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘We could have broken more records together’: Kuldeep’s heartfelt message to Chahal",
-    "desc": "In a candid interaction, Kuldeep Yadav opened up about his feelings on surpassing Yuzvendra Chahal's T20I wicket tally. While proud, he wishes to collaborate with Chahal for more unforgettable records. Reflecting on his adaptation to T20 cricket post-hiatus, Kuldeep outlined his game plan for the West Indies, emphasising control and limiting aggressive strokes. Ultimately, he remains focused on the collective success of the team over individual achievements on the field.",
-    "img": "https://static.toiimg.com/photo/msid-134835803,imgsize-105812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/we-could-have-broken-many-more-records-together-kuldeep-yadavs-heartfelt-message-to-yuzvendra-chahal/articleshow/134835704.cms",
-    "time": "2026-10-09T13:48:26.000Z"
   },
   {
     "cat": "Business",
@@ -459,15 +531,6 @@ const newsData_en = [
     "time": "2026-10-09T13:39:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Why Bangladesh replaced Pakistan at the last minute in Asian Champions Trophy",
-    "desc": "Pakistan has officially withdrawn from the men's Asian Champions Trophy scheduled for late October. Bangladesh will step in as Pakistan's replacement, with matches starting on October 27. The tournament will include major teams like India, Malaysia, and Japan, competing in a round-robin format. India will begin their campaign against Bangladesh after winning the Asian Games gold medal.",
-    "img": "https://static.toiimg.com/photo/msid-134835141,imgsize-201666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/why-bangladesh-replaced-pakistan-at-the-last-minute-in-asian-champions-trophy-hockey/articleshow/134834920.cms",
-    "time": "2026-10-09T13:24:27.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India’s share of global greenfield investments more than double China’s in 2020-25",
     "desc": "A report by the UN Conference on Trade and Development said that greenfield investments are increasingly taking place in strategic sectors. It added that India remains the fastest-growing major economy, even though domestic consumption is starting to show signs of strain due to higher prices",
@@ -475,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece",
     "time": "2026-10-09T12:45:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Olympic gold jeetna hai’: Kumkum’s dream after ending Korea’s stranglehold in archery",
-    "desc": "Kumkum Mohod won the women's individual recurve gold medal at the Asian Games. She defeated South Korea’s Oh Yejin in a closely contested final. Kumkum also won gold in the recurve team event and silver in the mixed team event. Her success has secured a quota place for India at the Los Angeles 2028 Olympics. She aims to achieve her ultimate goal of winning Olympic gold in the future.",
-    "img": "https://static.toiimg.com/photo/msid-134831850,imgsize-78596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/olympic-gold-jeetna-hai-kumkum-mohods-big-dream-after-ending-koreas-stranglehold-in-archery-at-asian-games-2026/articleshow/134831669.cms",
-    "time": "2026-10-09T11:17:39.000Z"
   },
   {
     "cat": "Business",
@@ -603,15 +657,6 @@ const newsData_en = [
     "time": "2026-10-09T02:05:42.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Air India group and Akasa hike fuel surcharge",
-    "desc": "IndiGo, Air India, and other airlines have announced increased fuel surcharges for both domestic and international flights. The new surcharges reflect a range that varies based on the distance of travel involved. Airlines cite rising operational costs primarily attributed to escalating aviation turbine fuel prices. This situation coincides with a decline in air traffic as passengers seek more affordable transportation options.",
-    "img": "https://static.toiimg.com/photo/msid-134803925,imgsize-43866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/air-india-group-and-akasa-hike-fuel-surcharge/articleshow/134803918.cms",
-    "time": "2026-10-09T01:36:02.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.K. arrest two Latvians inside perimeter of RAF base housing U.S., NATO intelligence operations",
     "desc": "The base, RAF Molesworth, which is 112 km north of London, is operated by the U.S. Air Force and is home to the NATO Intelligence Fusion Centre, which provides information to the Supreme Allied Commander in Europe",
@@ -664,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/paramount-and-warner-bros-merge-to-become-one-hollywood-giant-skydance/article71552210.ece",
     "time": "2026-10-08T11:57:28.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Yemen’s Houthis say struck Riyadh airport, other Saudi sites",
-    "desc": "The fighting in Yemen has become the most active front in the West Asia war in recent weeks, displacing more than 1,84,000 people, the United Nations says, and deepening the conflict that has engulfed the wider region.",
-    "img": "https://th-i.thgim.com/public/news/national/4klymp/article71550268.ece/alternates/LANDSCAPE_1200/AFP__20260919__C8RQ4WJ__v1__HighRes__SaudiYemenIranUsIsraelWar.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/yemens-houthis-say-struck-riyadh-airport-other-saudi-sites/article71550273.ece",
-    "time": "2026-10-08T10:15:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
   }
 ];

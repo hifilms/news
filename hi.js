@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Where to watch Indian Super League (ISL) 2026-27 live on TV and stream online for free?",
+    "desc": "India’s three recent FIFA friendlies against Paraguay, Brazil and Uruguay created an incredible buzz for the upcoming Indian Super League (ISL), slated to begin on October 10. The forthcoming season marks a return to a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/where-to-watch-indian-super-league-isl-2026-27-live-on-tv-and-stream-online-for-free-2026-10-10-1056622",
+    "time": "2026-10-10T10:31:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mikel Arteta provides crucial fitness update on key Arsenal stars ahead of Leeds United clash",
+    "desc": "Premier League football makes its emphatic return. Defending champions Arsenal are gearing up for a clash against Leeds United. The two sides will take on each other at the Emirates in London on October 10th,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/mikel-arteta-provides-crucial-fitness-update-on-key-arsenal-stars-ahead-of-leeds-united-clash-2026-10-10-1056617",
+    "time": "2026-10-10T09:33:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Have to stick together': Erling Haaland sends a message to Man City fans ahead of crucial Liverpool clash",
+    "desc": "The stage is set for one of the most anticipated clashes in the ongoing Premier League season as club football makes its return. Liverpool is slated to take on rivals Manchester City at Anfield on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/have-to-stick-together-erling-haaland-sends-a-message-to-manchester-city-fans-ahead-of-crucial-liverpool-clash-2026-10-10-1056611",
+    "time": "2026-10-10T08:23:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dinesh Karthik weighs in on India's playing XI after 2nd T20I loss against the West Indies",
+    "desc": "Former India cricketer Dinesh Karthik had a lot to say about the Men in Blue’s team composition as the side faced a loss against the West Indies in the second T20I of the ongoing series....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dinesh-karthik-weighs-in-on-india-s-playing-xi-after-2nd-t20i-loss-against-the-west-indies-2026-10-10-1056608",
+    "time": "2026-10-10T07:52:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan becomes third Indian batter to achieve massive feat despite India's loss to the West Indies",
+    "desc": "The ongoing T20I series between India and the West Indies continues with the visitors registering an exceptional victory. The two sides met at the JSCA International Complex in Ranchi on October 9th, and the Windies...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-becomes-third-indian-batter-to-achieve-massive-feat-despite-india-s-loss-to-the-west-indies-in-ranchi-2026-10-10-1056604",
+    "time": "2026-10-10T06:32:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shai Hope surpasses Chris Gayle, Evin Lewis in elite list with exceptional ton against India in Ranchi",
+    "desc": "The West Indies put forth a brilliant showing against the Indian team in the second T20I of the ongoing series between the two sides. The teams met at the JSCA International Complex in Ranchi for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shai-hope-surpasses-chris-gayle-evin-lewis-in-elite-list-with-exceptional-ton-against-india-in-ranchi-2026-10-10-1056599",
+    "time": "2026-10-10T05:16:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Chennai Super Kings part ways with batting coach Mike Hussey as part of a major coaching restructure",
     "desc": "In a major development, IPL (Indian Premier League) franchise Chennai Super Kings came forward and announced that they will be parting ways with former Australia cricketer and batting coach Mike Hussey. The side decided on...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-surpasses-steve-waugh-to-become-australia-s-third-leading-run-scorer-in-test-cricket-2026-10-09-1056585",
     "time": "2026-10-09T17:51:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hope's consistency, Rutherford's savagery help West Indies record second-highest chase in T20Is",
-    "desc": "West Indies stunned India in the second T20I of the five-match series at the JSKA International Stadium in Ranchi. The evening started with Sanju Samson’s onslaught, which was followed by Tilak Varma and Shreyas Iyer’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hope-s-consistency-rutherford-s-savagery-help-west-indies-chase-250-runs-in-second-t20i-vs-india-2026-10-09-1056582",
-    "time": "2026-10-09T17:14:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma sets new six-hitting record in second T20I against West Indies in Ranchi",
-    "desc": "Star opener Abhishek Sharma failed to live up to his potential in the second T20I against West Indies in Ranchi, but his 20-run knock off 12 balls was enough for him to add another record...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-sets-new-six-hitting-record-in-second-t20i-against-west-indies-in-ranchi-2026-10-09-1056579",
-    "time": "2026-10-09T15:55:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson equals Yuvraj Singh's tally, smashes 82 runs to propel India to a huge total against WI",
-    "desc": "The Indian team took on the West Indies in the 2nd T20I of the series. The two sides met at the JSCA International Complex on October 9th, and the clash saw the West Indies come...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-equals-yuvraj-singh-s-tally-smashes-82-runs-to-propel-india-to-a-huge-total-against-wi-2026-10-09-1056578",
-    "time": "2026-10-09T15:48:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "AB de Villiers smacks 37-ball century; South Africa beat Australia by eight wickets",
-    "desc": "Former South Africa captain AB de Villiers stole the show in the World Championship of Legends clash against Australia. Chasing 210 runs at the Sharjah Cricket Ground, the Proteas lost the wicket of Faf du...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ab-de-villiers-smacks-37-ball-century-south-africa-beat-australia-by-eight-wickets-2026-10-09-1056576",
-    "time": "2026-10-09T15:13:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bengal head coach provides major update on Rishabh Pant's fitness ahead of New Zealand series",
-    "desc": "The stage is set for the upcoming multi-format series between India and New Zealand. The two sides will meet across five T20Is, five ODIs, and two Test matches. Ahead of the series, there have been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bengal-head-coach-provides-major-update-on-rishabh-pant-s-fitness-ahead-of-new-zealand-series-2026-10-09-1056575",
-    "time": "2026-10-09T15:09:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Vaibhav Sooryavanshi not playing in India's 2nd T20I vs West Indies in Ranchi?",
-    "desc": "India have once again benched Vaibhav Sooryavanshi in the second T20I against West Indies at the JSCA International Stadium Complex in Ranchi. The 15-year-old proved his mettle in the series against Zimbabwe earlier in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-vaibhav-sooryavanshi-not-playing-in-india-s-2nd-t20i-vs-west-indies-in-ranchi-2026-10-09-1056568",
-    "time": "2026-10-09T13:18:07.000Z"
   }
 ];
