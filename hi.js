@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India vs West Indies, 3rd T20I Pitch Report, how will surface in Indore play?",
+    "desc": "The stage is set for the third of five T20Is of the ongoing series between India and the West Indies. The two sides will meet at the Holkar Stadium in Indore on October 11th, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-west-indies-3rd-t20i-pitch-report-how-will-surface-in-indore-play-2026-10-11-1056685",
+    "time": "2026-10-11T11:33:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand announce squad for India ODIs, three key stars make emphatic returns; Check details",
+    "desc": "NZC (New Zealand Cricket) recently came forward and announced the side’s squad ahead of the upcoming multi-format series against the Indian team. It is interesting to note that India will soon be touring New Zealand...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-announce-squad-for-india-odis-three-key-stars-make-emphatic-returns-check-details-2026-10-11-1056680",
+    "time": "2026-10-11T10:32:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bengaluru's dramatic comeback secures 3-2 win over Delhi in ISL opener; Goa held Chennaiyin 1-1",
     "desc": "Bengaluru FC opened their 2026-27 Indian Super League campaign with a 3-2 victory over Sporting Club Delhi at the Sree Kanteerava Stadium. Menno Koch kept it late, scoring the decisive goal in the 89th minute...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/where-to-watch-indian-super-league-isl-2026-27-live-on-tv-and-stream-online-for-free-2026-10-10-1056622",
     "time": "2026-10-10T10:31:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mikel Arteta provides crucial fitness update on key Arsenal stars ahead of Leeds United clash",
-    "desc": "Premier League football makes its emphatic return. Defending champions Arsenal are gearing up for a clash against Leeds United. The two sides will take on each other at the Emirates in London on October 10th,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/mikel-arteta-provides-crucial-fitness-update-on-key-arsenal-stars-ahead-of-leeds-united-clash-2026-10-10-1056617",
-    "time": "2026-10-10T09:33:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Have to stick together': Erling Haaland sends a message to Man City fans ahead of crucial Liverpool clash",
-    "desc": "The stage is set for one of the most anticipated clashes in the ongoing Premier League season as club football makes its return. Liverpool is slated to take on rivals Manchester City at Anfield on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/have-to-stick-together-erling-haaland-sends-a-message-to-manchester-city-fans-ahead-of-crucial-liverpool-clash-2026-10-10-1056611",
-    "time": "2026-10-10T08:23:00.000Z"
   }
 ];
