@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'It was wonderful': Shreyas Iyer hails India's bowling attack after third T20I win against the West Indies",
+    "desc": "The Indian team registered a dominant victory against the West Indies in the third T20I of the ongoing series. The two sides met at the Holkar International Cricket Stadium in Indore for the clash, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/it-was-wonderful-shreyas-iyer-hails-india-s-bowling-attack-after-third-t20i-win-against-the-west-indies-2026-10-11-1056706",
+    "time": "2026-10-11T18:14:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bowling resilience helps team India take lead in T20I series, defeat WI by 14 runs in Indore",
+    "desc": "The Indian team continued their ongoing T20I series against the West Indies. The two sides met at the Holkar International Cricket Stadium in Indore for the clash on October 11th, and the game saw India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bowling-resilience-helps-team-india-take-lead-in-t20i-series-defeat-wi-by-14-runs-in-indore-2026-10-11-1056704",
+    "time": "2026-10-11T17:15:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma breaks Suryakumar Yadav's record, achieves huge feat with stellar start to third WI T20I",
+    "desc": "The third T20I of the ongoing series between India and the West Indies saw the two sides take on each other at the Holkar International Stadium in Indore. The clash saw the Indian team come...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-suryakumar-yadav-s-record-achieves-huge-feat-with-stellar-start-to-third-wi-t20i-2026-10-11-1056699",
+    "time": "2026-10-11T16:09:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Kuldeep Yadav not playing in India's 3rd T20I vs West Indies in Indore?",
+    "desc": "The Indian take on the West Indies in the third T20I of the ongoing five-game series between the two sides. The teams met at the Holkar International Stadium in Indore on October 11th, and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kuldeep-yadav-not-playing-in-india-s-3rd-t20i-vs-west-indies-in-indore-2026-10-11-1056693",
+    "time": "2026-10-11T13:26:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India defeat West Indies by 14 runs, lead T20I series by 2-1",
+    "desc": "India and the West Indies are all set to take on each other in the third T20I of the ongoing series. The teams meet at the Holkar Stadium in Indore for the clash, and it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-3rd-t20i-live-score-india-look-to-take-the-series-lead-in-indore-1056691",
+    "time": "2026-10-11T12:46:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Steve Smith smashes Joe Root's world record, achieves massive feat against South Africa in 1st Test",
+    "desc": "Veteran Australia batter Steve Smith has once again captured the limelight as the star man has surpassed England’s Joe Root and broken his world record. It is interesting to note that Steve Smith achieved a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-smashes-joe-root-s-world-record-achieves-massive-feat-against-south-africa-in-1st-test-2026-10-11-1056690",
+    "time": "2026-10-11T12:38:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India vs West Indies, 3rd T20I Pitch Report, how will surface in Indore play?",
     "desc": "The stage is set for the third of five T20Is of the ongoing series between India and the West Indies. The two sides will meet at the Holkar Stadium in Indore on October 11th, and...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/arunachal-pradesh-forfeit-ranji-trophy-opener-amid-cricket-association-dispute-2026-10-10-1056648",
     "time": "2026-10-10T16:55:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill set to miss Punjab's Ranji Trophy opener, could return against Chhattisgarh",
-    "desc": "India captain Shubman Gill will not feature in Punjab’s opening Ranji Trophy fixture against Assam in New Chandigarh. However, the batter could return for the team’s next match against Chhattisgarh, scheduled from October 18 to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-set-to-miss-punjab-s-ranji-trophy-opener-could-return-against-chhattisgarh-2026-10-10-1056646",
-    "time": "2026-10-10T16:09:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi is in his prime, thinking is somewhat similar to mine, should get more matches: Sehwag",
-    "desc": "Virender Sehwag has thrown his support behind Vaibhav Sooryavanshi after the young India opener spent back-to-back matches against West Indies on the sidelines. He lauded Sooryavanshi’s attacking prowess and urged India to give him opportunities...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-is-in-his-prime-thinking-is-somewhat-similar-to-mine-should-get-more-matches-virender-sehwag-2026-10-10-1056644",
-    "time": "2026-10-10T15:24:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo faces provisional suspension as Portugal federation investigates sudden national team exit",
-    "desc": "The Portugal Football Federation (FPF) has suspended Cristiano Ronaldo after an investigation was launched into his departure from the national team camp following a dispute over his involvement in a Nations League fixture against Norway....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-faces-provisional-suspension-as-portugal-federation-investigates-sudden-national-team-exit-2026-10-10-1056640",
-    "time": "2026-10-10T14:25:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yuzvendra Chahal raises concerns over bat-ball balance after West Indies chase 250 against India in 2nd T20I",
-    "desc": "Yuzvendra Chahal has called for conditions that offer bowlers a fairer contest in T20 cricket after India’s 250-run total failed to stop the West Indies from securing a six-wicket victory in the second T20I in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/yuzvendra-chahal-raises-concerns-over-bat-ball-balance-after-west-indies-chase-250-against-india-in-second-t20i-2026-10-10-1056636",
-    "time": "2026-10-10T13:25:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Josh Inglis set to rejoin Australia squad ahead of second South Africa Test",
-    "desc": "Josh Inglis is set to rejoin Australia’s squad before the second Test against South Africa in Gqeberha. The wicketkeeper-batter is reported to have recovered from his fractured finger and will link up with the squad...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/josh-inglis-set-to-rejoin-australia-squad-ahead-of-second-south-africa-test-2026-10-10-1056631",
-    "time": "2026-10-10T12:15:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch Indian Super League (ISL) 2026-27 live on TV and stream online for free?",
-    "desc": "India’s three recent FIFA friendlies against Paraguay, Brazil and Uruguay created an incredible buzz for the upcoming Indian Super League (ISL), slated to begin on October 10. The forthcoming season marks a return to a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/where-to-watch-indian-super-league-isl-2026-27-live-on-tv-and-stream-online-for-free-2026-10-10-1056622",
-    "time": "2026-10-10T10:31:52.000Z"
   }
 ];
