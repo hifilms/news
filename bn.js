@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "দেবীপক্ষের শুরুতেই মারাত্মক ঘটনা: রক্তাক্ত সংঘর্ষ, পিটিয়ে মারা হল প্রাক্তন বিজেপি বিধায়ককে-- মৃত্যুর নেপথ্যের চাঞ্চল্যকর তথ্য",
+    "desc": "এই হামলায় প্রাক্তন বিধায়ক এবং তাঁর দেহরক্ষী বা অ্যাসোসিয়েট (Associate) গগন শর্মা গুরুতর জখম হন। প্রাথমিক চিকিৎসার জন্য তাঁদের স্থানীয় বৈর (Weir) হাসপাতালে নিয়ে যাওয়া হয়। অবস্থার অবনতি হলে অতর সিং ভাদানাকে জয়পুরের এসএমএস হাসপাতালে (SMS Hospital Jaipur) রেফার করা হয়, সেখানেই চিকিৎসাধীন অবস্থায় তাঁর মৃত্যু হয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/stone-crusher-facility-violence-claims-life-of-former-bjp-legislator-in-bharatpur_673087.html ",
+    "time": "2026-10-12T08:22:18.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ককরোচরা মরে না! বিমান থেকে নাটুকে গ্রেফতারির পর মুক্ত সিজেপি নেতারা, ছাড়া পেলেন ধ্রুব রাঠীও",
     "desc": "দিল্লির আদালত সিজেপির তিন শীর্ষ নেতাকে মুক্তি দিল। এক বছর শান্তি বজায় রাখার শর্তে তাঁদের ছাড়া হয়েছে। মুখ্য নির্বাচন কমিশনারের পদত্যাগের দাবিতে আন্দোলন করায় তাঁদের আটক করা হয়েছিল। এই একই ঘটনায় আটক ইউটিউবার ধ্রুব রাঠীকেও পুলিস ছেড়ে দিয়েছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -52,24 +61,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/nana-patekar-passes-away-at-75-in-goa-death-news_672968.html ",
     "time": "2026-10-08T02:46:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আদালতে অস্বস্তি জ্ঞানেশ কুমারের: আরও চাপে নির্বাচন কমিশন, ফর্ম ৬ বদলের অনুমতি কখনই সুপ্রিম কোর্ট দেয়নি-- জানিয়ে দিলেন CJI সূর্যকান্ত",
-    "desc": "আবেদনকারীদের পক্ষে প্রবীণ আইনজীবী মেনকা গুরুস্বামী আদালতে জানান, দিল্লিতে এই প্রক্রিয়ায় দুটি নতুন শর্ত যুক্ত করে বহু মানুষকে নোটিস পাঠানো হয়েছে। সমালোচকদের মূল দাবি-- কেন্দ্রীয় আইন ও বিচার মন্ত্রক নিয়মানুযায়ী গেজেট বিজ্ঞপ্তির মাধ্যমে নিয়ম সংশোধন না করা পর্যন্ত কোনও সংবিধিবদ্ধ ফর্ম কমিশন একতরফাভাবে বদলাতে পারে না।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/sc-rebuffs-interim-stay-on-cec-gyanesh-kumar-says-no-clearance-was-given-to-modified-form-6-for-voter-enrolment_672915.html ",
-    "time": "2026-10-06T07:45:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "জীবন বাজি রেখে ১৭৪ যাত্রীর প্রাণ বাঁচালেন পাইলট স্মিত, মিলল ১ কোটি-সহ একাধিক পুরস্কার",
-    "desc": "ফ্লাইদুবাইয়ের FZ1073 বিমানে ভয়াবহ পরিস্থিতির মধ্যেও নিজের প্রাণের ঝুঁকি নিয়ে ১৭৪ জন যাত্রীর জীবন বাঁচানোর জন্য ভারতীয় পাইলট ক্যাপ্টেন স্মিত মচ্ছারকে একাধিক পুরস্কার দেওয়ার ঘোষণা করা হয়েছে। গুজরাত সরকার ঘোষণা করেছে ২৫ লক্ষ টাকা ও ‘বিশিষ্ট গুজরাত গরিমা’ সম্মান। রাজ্যসভার সাংসদ বিক্রমজিৎ সিং সাহনিও ২৫ লক্ষ টাকার পুরস্কার ঘোষণা করেছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/smit-machchhar-reward-1-crore-flydubai-pilot-bravery-gujarat-garima-award_672911.html ",
-    "time": "2026-10-06T06:53:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -169,15 +160,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/mass-shootings-south-africa-leave-at-least-27-dead_672318.html ",
     "time": "2026-09-27T13:43:17.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "৪৮ ঘণ্টার টানা ভারী বৃষ্টিতে ডুবল শহর, বিপর্যস্ত জেলার পর জেলা, ভয়াবহ বন্যাপরিস্থিতিকে 'ডিজাস্টার' ঘোষণা",
-    "desc": "১ থেকে ২৫ সেপ্টেম্বরের মধ্যে ৪৮৭ মিমি বৃষ্টি! মূলত সেপ্টেম্বরেই ভারী বৃষ্টি হয় ব্যাঙ্ককে। কিন্তু এ বছরের মতো এমন বর্ষা এখানে শেষ কবে হয়েছে, তা কেউ মনেই করতে পারছেন না! ৪৮ ঘণ্টা টানা ভারী বৃষ্টিপাতের জেরে বিস্তীর্ণ এলাকায় বন্যা, ব্যাপক যানজট, নাগরিকদের দৈনন্দিন কাজ ব্যাহত হওয়ায় ব্যাঙ্ককের ৫০টি জেলাকেই 'বিপর্যস্ত এলাকা' হিসেবে ঘোষণা করা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/thailand-bangkok-flooding-48-hrs-heavy-rain-triggers-disaster-declaration_672307.html ",
-    "time": "2026-09-27T09:54:02.000Z"
   },
   {
     "cat": "Entertainment",

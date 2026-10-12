@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Is Vaibhav Sooryvanshi's exclusion from India's T20I squad justified? Former cricketer opines",
+    "desc": "The stage is set for the fourth T20I of the ongoing series between India and the West Indies. The two sides are slated to meet at the Rajiv Gandhi International Stadium in Hyderabad for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-vaibhav-sooryanshi-s-exclusion-from-india-s-t20i-squad-justified-former-cricketer-opines-2026-10-12-1056746",
+    "time": "2026-10-12T09:46:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Erling Haaland gives his reaction as Man City storm Anfield to register brilliant victory against Liverpool",
+    "desc": "Premier League football made its return after the international break, and the break ended with league titans Manchester City and Liverpool taking on each other. The two sides met at Anfield for the clash on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/erling-haaland-gives-his-reaction-as-man-city-storm-anfield-to-register-brilliant-victory-against-liverpool-2026-10-12-1056739",
+    "time": "2026-10-12T08:27:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dinesh Karthik breaks down Nitish Kumar Reddy's role in the Indian team after third T20I victory",
+    "desc": "Team India registered a brilliant victory as they defeated the West Indies in the third T20I of the ongoing series. The two sides met in Indore for the clash on October 11, and the Men...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dinesh-karthik-breaks-down-nitish-kumar-reddy-s-role-in-the-indian-team-after-third-t20i-victory-2026-10-12-1056736",
+    "time": "2026-10-12T07:43:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer surpasses MS Dhoni's tally, achieves massive feat after leading India to third T20I win over WI",
+    "desc": "Team India got back to winning ways as they defeated the West Indies in the third T20I of the ongoing series. The two sides met at the Holkar International Stadium in Indore on October 11,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-surpasses-ms-dhoni-s-tally-achieves-massive-feat-after-leading-india-to-third-t20i-win-over-wi-2026-10-12-1056733",
+    "time": "2026-10-12T06:58:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Will be ruthless': Abhishek Sharma opens up on team India's approach after third T20I victory over WI",
+    "desc": "The Indian team registered a brilliant victory as they took on the West Indies in the third T20I of the ongoing series. The two sides met at the Holkar International Stadium in Indore on October...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-be-ruthless-abhishek-sharma-opens-up-on-team-india-s-approach-after-third-t20i-victory-over-wi-2026-10-12-1056730",
+    "time": "2026-10-12T06:00:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'It was wonderful': Shreyas Iyer hails India's bowling attack after third T20I win against the West Indies",
     "desc": "The Indian team registered a dominant victory against the West Indies in the third T20I of the ongoing series. The two sides met at the Holkar International Cricket Stadium in Indore for the clash, and...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-3rd-t20i-live-score-india-look-to-take-the-series-lead-in-indore-1056691",
     "time": "2026-10-11T12:46:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Steve Smith smashes Joe Root's world record, achieves massive feat against South Africa in 1st Test",
-    "desc": "Veteran Australia batter Steve Smith has once again captured the limelight as the star man has surpassed England’s Joe Root and broken his world record. It is interesting to note that Steve Smith achieved a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-smashes-joe-root-s-world-record-achieves-massive-feat-against-south-africa-in-1st-test-2026-10-11-1056690",
-    "time": "2026-10-11T12:38:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs West Indies, 3rd T20I Pitch Report, how will surface in Indore play?",
-    "desc": "The stage is set for the third of five T20Is of the ongoing series between India and the West Indies. The two sides will meet at the Holkar Stadium in Indore on October 11th, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-west-indies-3rd-t20i-pitch-report-how-will-surface-in-indore-play-2026-10-11-1056685",
-    "time": "2026-10-11T11:33:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand announce squad for India ODIs, three key stars make emphatic returns; Check details",
-    "desc": "NZC (New Zealand Cricket) recently came forward and announced the side’s squad ahead of the upcoming multi-format series against the Indian team. It is interesting to note that India will soon be touring New Zealand...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-announce-squad-for-india-odis-three-key-stars-make-emphatic-returns-check-details-2026-10-11-1056680",
-    "time": "2026-10-11T10:32:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bengaluru's dramatic comeback secures 3-2 win over Delhi in ISL opener; Goa held Chennaiyin 1-1",
-    "desc": "Bengaluru FC opened their 2026-27 Indian Super League campaign with a 3-2 victory over Sporting Club Delhi at the Sree Kanteerava Stadium. Menno Koch kept it late, scoring the decisive goal in the 89th minute...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/bengaluru-s-dramatic-comeback-secures-3-2-win-over-delhi-in-isl-opener-goa-held-chennaiyin-1-1-2026-10-10-1056651",
-    "time": "2026-10-10T17:32:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arunachal Pradesh forfeit Ranji Trophy opener amid cricket association dispute",
-    "desc": "Arunachal Pradesh’s domestic cricket campaign has suffered an early setback, with the team deemed to have forfeited its opening Ranji Trophy Plate Division fixture against Nagaland and set to miss its first CK Nayudu Trophy...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arunachal-pradesh-forfeit-ranji-trophy-opener-amid-cricket-association-dispute-2026-10-10-1056648",
-    "time": "2026-10-10T16:55:23.000Z"
   }
 ];
