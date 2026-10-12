@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "West Indies stars reprimanded by the ICC, handed demerit points after third T20I loss against India",
+    "desc": "The West Indies succumbed to a hefty loss against the Indian team in the third T20I of the ongoing series. The two sides met at the Holkar International Stadium in Indore on October 11, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-stars-reprimanded-by-the-icc-handed-demerit-points-after-third-t20i-loss-against-india-2026-10-12-1056766",
+    "time": "2026-10-12T13:17:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI denies reports of venue change, India's 1st ODI clash against Sri Lanka to stay in Delhi",
+    "desc": "The Indian team is all set for a multi-format white-ball series against Sri Lanka. Currently in the midst of a series against the West Indies. The Indian team will be taking on New Zealand across...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-denies-reports-of-venue-change-india-s-1st-odi-clash-against-sri-lanka-to-stay-in-delhi-2026-10-12-1056760",
+    "time": "2026-10-12T12:01:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I'm the greatest': Cristiano Ronaldo drops bombshell interview amid national team suspension",
+    "desc": "World football has been surrounded by talk of the national team suspension of veteran forward Cristiano Ronaldo. It is worth noting that Ronaldo has recently been involved in several controversies after he walked out of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/i-m-the-greatest-cristiano-ronaldo-drops-bombshell-interview-amid-national-team-suspension-2026-10-12-1056754",
+    "time": "2026-10-12T10:54:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Is Vaibhav Sooryvanshi's exclusion from India's T20I squad justified? Former cricketer opines",
     "desc": "The stage is set for the fourth T20I of the ongoing series between India and the West Indies. The two sides are slated to meet at the Rajiv Gandhi International Stadium in Hyderabad for the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bowling-resilience-helps-team-india-take-lead-in-t20i-series-defeat-wi-by-14-runs-in-indore-2026-10-11-1056704",
     "time": "2026-10-11T17:15:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma breaks Suryakumar Yadav's record, achieves huge feat with stellar start to third WI T20I",
-    "desc": "The third T20I of the ongoing series between India and the West Indies saw the two sides take on each other at the Holkar International Stadium in Indore. The clash saw the Indian team come...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-suryakumar-yadav-s-record-achieves-huge-feat-with-stellar-start-to-third-wi-t20i-2026-10-11-1056699",
-    "time": "2026-10-11T16:09:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Kuldeep Yadav not playing in India's 3rd T20I vs West Indies in Indore?",
-    "desc": "The Indian take on the West Indies in the third T20I of the ongoing five-game series between the two sides. The teams met at the Holkar International Stadium in Indore on October 11th, and the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kuldeep-yadav-not-playing-in-india-s-3rd-t20i-vs-west-indies-in-indore-2026-10-11-1056693",
-    "time": "2026-10-11T13:26:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India defeat West Indies by 14 runs, lead T20I series by 2-1",
-    "desc": "India and the West Indies are all set to take on each other in the third T20I of the ongoing series. The teams meet at the Holkar Stadium in Indore for the clash, and it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-3rd-t20i-live-score-india-look-to-take-the-series-lead-in-indore-1056691",
-    "time": "2026-10-11T12:46:47.000Z"
   }
 ];
