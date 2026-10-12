@@ -1,6 +1,15 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Delhi Police releases video of informing Dipke about his grandmother's death, refutes CJP's allegation",
+    "desc": "Reacting to the police statement, Mr. Dipke said, “Why did you delete the part where I was asking for my phone so I could retrieve my cousin’s number? And where I was asking to let me speak to my lawyers?”",
+    "img": "https://th-i.thgim.com/public/news/national/vzdylx/article71572087.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-11%20200336.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/delhi-police-releases-video-of-informing-dipke-about-his-grandmothers-death-refutes-cjps-allegation/article71571905.ece",
+    "time": "2026-10-11T19:53:44.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Vijay urges Prime Minister Modi to sanction Metro Rail from  Hosur to Bommasandra",
     "desc": "The CM says the inter-State link will benefit both T.N. and Karnataka. He also urges Modi to reconsider Metro Rail projects in Coimbatore and Madurai in view of the future development and economic growth of T.N.’s western and southern regions",
     "img": "https://th-i.thgim.com/public/incoming/foc3e9/article71571764.ece/alternates/LANDSCAPE_1200/DSC_2958.JPG",
@@ -153,15 +162,6 @@ const newsData_en = [
     "time": "2026-10-11T15:58:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Youth activists of Congress, CPI(M) clash in Adoor; ex-MLA Mamkootathil booked",
-    "desc": "Police say three cases registered against activists of the Kerala Students Union, Youth Congress, Students Federation of India, and Democratic Youth Federation of India. Tension began following college union elections at the College of Engineering, Adoor",
-    "img": "https://th-i.thgim.com/public/incoming/4mnqtu/article71572423.ece/alternates/LANDSCAPE_1200/Rahul-MamkootatGRTFJNRCF.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/youth-activists-of-congress-cpim-clash-in-adoor-ex-mla-mamkootathil-booked/article71572095.ece",
-    "time": "2026-10-11T15:55:32.000Z"
-  },
-  {
     "cat": "World",
     "title": "Dissanayake highlights ‘good relations’ with India, points to New Delhi’s Katchatheevu stance",
     "desc": "Sri Lankan President says India has acknowledged before its Supreme Court that Katchatheevu belongs to Sri Lanka. Last week, Attorney General R. Venkataramani told the court that India did not intend reopening the Katchatheevu agreements of 1974 and 1976 with Sri Lanka",
@@ -189,15 +189,6 @@ const newsData_en = [
     "time": "2026-10-11T15:49:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Modi and Vijay commit themselves to working together for Tamil Nadu’s development",
-    "desc": "Inaugurating a slew of projects, including the Chennai Metro Rail services on the Vadapalani-Poonamallee stretch, Mr. Modi says that while governments have changed, his commitment to the development of Tamil Nadu and his service to its people have remained the same",
-    "img": "https://th-i.thgim.com/public/incoming/anbg1r/article71571998.ece/alternates/LANDSCAPE_1200/DSC_2982A.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/modi-and-vijay-commit-themselves-to-working-together-for-tamil-nadus-development/article71571973.ece",
-    "time": "2026-10-11T15:42:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rupee relief, higher hedging costs: What RBI’s new forex rules mean",
     "desc": "Reserve Bank of India has introduced new measures aimed at stabilizing the Indian rupee against the dollar. These changes include tighter restrictions on foreign exchange derivatives and new reserve requirements for banks. Analysts expect these measures to ease rupee depreciation and lower speculative dollar demand temporarily. However, external factors like high crude oil prices may continue influencing the currency's stability.",
@@ -223,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/fuel-tank-cavities-myanmar-links-ncb-busts-50-crores-yaba-haul-2-manipur-residents-arrested/articleshow/134872671.cms",
     "time": "2026-10-11T15:11:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IndiGo Delhi-Chennai flight diverts to Hyderabad after electronic device battery catches fire",
-    "desc": "An IndiGo flight from Delhi to Chennai experienced a diversion to Hyderabad following a fire incident. The fire was caused by a battery in a passenger's personal electronic device, which emitted smoke. Crew members promptly extinguished the fire and ensured passenger safety during the diversion. An alternate aircraft was arranged to continue the journey to Chennai after the incident.",
-    "img": "https://static.toiimg.com/photo/msid-134872598,imgsize-1084355.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indigo-delhi-chennai-flight-diverts-to-hyderabad-after-electronic-device-battery-catches-fire/articleshow/134872378.cms",
-    "time": "2026-10-11T15:01:10.000Z"
   },
   {
     "cat": "Sports",
@@ -279,15 +261,6 @@ const newsData_en = [
     "time": "2026-10-11T14:25:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘People want change’: Sachin Pilot says Congress will return to power in Punjab with absolute majority",
-    "desc": "Sachin Pilot expressed confidence in Congress regaining power in Punjab with an absolute majority in upcoming elections. He emphasized the loss of public faith in the Aam Aadmi Party government and the desire for change. Newly appointed Punjab Congress president Pargat Singh called for collective action to address the state's challenges. Former chief minister Charanjit Singh Channi highlighted issues such as corruption and drug abuse under the AAP administration.",
-    "img": "https://static.toiimg.com/photo/msid-134872076,imgsize-75548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/people-want-change-sachin-pilot-says-congress-will-return-to-power-in-punjab-with-absolute-majority/articleshow/134871974.cms",
-    "time": "2026-10-11T14:24:35.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Tanishaa Mukerji slams 'well-educated elitist Hindus' for ‘blind hate’",
     "desc": "Tanishaa Mukerji recently took to X to voice her concerns regarding the narrow-mindedness of elitist Hindus, urging them to prioritize their patriotism over sensational media narratives. She advocates for logical discourse in political matters and has been actively promoting respectful conduct at the upcoming Durga Puja event. Her engagement with fans continues through both social media and various public events, highlighting her commitment to constructive dialogue.",
@@ -315,24 +288,6 @@ const newsData_en = [
     "time": "2026-10-11T13:58:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CJP protest against CEC Gyanesh Kumar blocked in Goa, dozens detained",
-    "desc": "On Sunday, several protesters were detained by Goa Police during a demonstration targeting chief election commissioner Gyanesh Kumar. Noteworthy individuals, including Ferdin Rebello, the former chief justice of Allahabad high court, were not allowed to enter the protest area. Instead, demonstrators gathered outside the Goa Police headquarters, demanding Gyanesh Kumar's resignation due to alleged electoral roll irregularities, raising alarms about citizens' rights to peaceful assembly.",
-    "img": "https://static.toiimg.com/photo/msid-134871461,imgsize-187511.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cjp-protest-against-cec-gyanesh-kumar-blocked-in-goa-dozens-detained/articleshow/134870633.cms",
-    "time": "2026-10-11T13:44:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Cops wanted to torment my parents at 3.30 am': Dipke's rebuttal to Delhi Police's clip",
-    "desc": "In a statement reacting to the police's account, Dipke said he had repeatedly requested access to his phone to retrieve his cousin's number and speak to a lawyer, but was denied both requests. He also questioned why officers asked him to call his father at 3.30 am and tell him that he could be sent to jail for a long time.",
-    "img": "https://static.toiimg.com/photo/msid-134871519,imgsize-81044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cops-wanted-to-torment-my-parents-at-3-30-am-dipkes-rebuttal-to-delhi-polices-clip/articleshow/134871383.cms",
-    "time": "2026-10-11T13:36:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "In the 1980s, Robert De Niro convinced Nobu Matsuhisa to open a restaurant in NYC; it's now a multi-million-dollar empire",
     "desc": "In the 1980s, Robert De Niro stumbled upon the culinary brilliance of Nobu Matsuhisa. Captivated by the flavors, he spent years convincing Matsuhisa to branch out to New York. This collaboration bore fruit in 1994, leading to the iconic Nobu restaurant opening in Tribeca. By 2013, Nobu ventured into hospitality with a Vegas hotel, and today it boasts a global presence, enchanting food lovers in Europe, Asia, and beyond.",
@@ -349,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/inflation-data-it-earnings-crude-oil-to-steer-stock-markets-this-week-say-experts/articleshow/134871184.cms",
     "time": "2026-10-11T13:23:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Police release Dipke's detention video; PM Modi pledges support to Tamil Nadu &amp; more",
-    "desc": "Delhi Police released a video showing Abhijeet Dipke being informed of his grandmother's passing during detention. Prime Minister Modi pledged ongoing support for Tamil Nadu's infrastructure projects worth Rs 13,000 crore. An IndiGo flight from Delhi to Chennai made an emergency landing in Hyderabad after smoke was detected from a passenger's power bank. A scuffle erupted at the UP Congress office ahead of Aradhana Mishra's takeover as state president.",
-    "img": "https://static.toiimg.com/photo/msid-134871277,imgsize-120048.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-police-release-dipkes-detention-video-pm-modi-pledges-support-to-tamil-nadu-more/articleshow/134871070.cms",
-    "time": "2026-10-11T13:19:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -378,15 +324,6 @@ const newsData_en = [
     "time": "2026-10-11T12:52:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Delhi cops release video when they told Dipke in detention of grandmother’s death",
-    "desc": "Delhi Police released a video showing officers informing Cockroach Janta Party (CJP) founder Abhijeet Dipke about his grandmother’s death in detention and offering help with travel arrangements for her last rites, which he declined. The release followed his mother’s allegation that police had failed to inform him. Dipke was detained ahead of a proposed protest demanding Chief Election Commissioner Gyanesh Kumar’s resignation and later released on an undertaking to maintain public order.",
-    "img": "https://static.toiimg.com/photo/msid-134870707,imgsize-40796.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-police-release-video-of-informing-dipke-of-grandmothers-death-in-detention-watch/articleshow/134870504.cms",
-    "time": "2026-10-11T12:34:24.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Cyrus calls Dilip overrated; comic slams viral cook’s scripted act",
     "desc": "Farah Khan’s cook Dilip became a vlog favourite, but comedian Cyrus Broacha called him “overrated” and scripted, while Shantanu Anam defended him as “lovable.” Farah has said her YouTube success helped Dilip clear debts, build a house in Bihar and educate his children, besides earning a share of vlog revenue.",
@@ -403,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-advance-box-office-collection-rajinikanths-mass-entertainer-surpasses-rs-20-crore-worldwide-eyes-a-massive-opening/articleshow/134870435.cms",
     "time": "2026-10-11T12:15:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Competition of anarchy’: BJP hits out at Rahul Gandhi, Arvind Kejriwal amid CEC protest row",
-    "desc": "BJP MP Bansuri Swaraj condemned Congress leader Rahul Gandhi and Aam Aadmi Party leader Arvind Kejriwal for losing their voter base. She accused both parties of seeking excuses for their electoral defeats instead of constructive politics. Rahul Gandhi announced upcoming protests to challenge the government's actions against demonstrators. Kejriwal criticized PM Modi for police actions during protests and invoked historical comparisons.",
-    "img": "https://static.toiimg.com/photo/msid-134870286,imgsize-158911.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/competition-of-anarchy-bjp-hits-out-at-rahul-gandhi-arvind-kejriwal-amid-cec-protest-row/articleshow/134869395.cms",
-    "time": "2026-10-11T12:10:16.000Z"
   },
   {
     "cat": "Entertainment",
@@ -712,15 +640,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Teacher denied gratuity for working past 60; Allahabad HC orders payment with 6% interest",
-    "desc": "A woman joined an educational institution in Faizabad as an assistant teacher on August 16, 1992. She continued working there until March 31, 2019, when she retired. However, the institution declined to pay her gratuity, arguing that the prescribed retirement age was 60 and she had remained in service until she was 62.",
-    "img": "https://static.toiimg.com/photo/msid-134836917,imgsize-321875.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/she-worked-as-a-teacher-till-62-years-of-age-instead-of-retiring-at-60-but-was-denied-gratuity-because-of-extended-service-allahabad-hc-orders-payment-with-6-interest/articleshow/134831020.cms",
-    "time": "2026-10-09T16:38:56.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "India’s share of global greenfield investments more than double China’s in 2020-25",
     "desc": "A report by the UN Conference on Trade and Development said that greenfield investments are increasingly taking place in strategic sectors. It added that India remains the fastest-growing major economy, even though domestic consumption is starting to show signs of strain due to higher prices",
     "img": "https://th-i.thgim.com/public/incoming/6w5blo/article71564105.ece/alternates/LANDSCAPE_1200/IMG_unctadjpg_2_1_8RCB8P7S.jpg",
@@ -898,5 +817,68 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
     "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
