@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Temba Bavuma suffers first Test defeat as captain as Australia thrash South Africa by 214 runs",
+    "desc": "Temba Bavuma’s historic reign as Test captain has come to an end. Since taking over the responsibility, the Proteas won 12 consecutive Test matches under his leadership, which includes the win over Australia in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/temba-bavuma-suffers-first-test-defeat-as-captain-as-australia-thrash-south-africa-by-214-runs-2026-10-13-1056852",
+    "time": "2026-10-13T11:58:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ayush Mhatre injured again, BCCI CoE again under scanner as Mumbai batter could miss six weeks",
+    "desc": "Mumbai batter Ayush Mhatre is expected to spend another spell on the sidelines after suffering a grade 4 tear in his right hamstring during the opening match of the Ranji Trophy season against Chandigarh at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ayush-mhatre-injured-again-bcci-coe-again-under-scanner-as-mumbai-batter-could-miss-six-weeks-2026-10-13-1056846",
+    "time": "2026-10-13T11:25:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jofra Archer returns, Jos Buttler ruled out as England announce squads for Australia series",
+    "desc": "England have announced a 16-member ODI squad for the upcoming three-match ODI series in Australia. High-profile cricketers, such as Jofra Archer and Jacob Bethell, have returned to the squad, while former captain Jos Buttler has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jofra-archer-returns-jos-buttler-ruled-out-as-england-announce-squads-for-australia-series-2026-10-13-1056837",
+    "time": "2026-10-13T10:39:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "KL Rahul, Yashasvi Jaiswal flop on Ranji return, concerning sign for India ahead of New Zealand series",
     "desc": "Star India openers KL Rahul and Yashasvi Jaiswal failed to make a mark in their return to the Ranji Trophy. Against Chandigarh, Jaiswal scored a 13-ball duck, while Rahul made 4 and 1, respectively, in...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/west-indies-stars-reprimanded-by-the-icc-handed-demerit-points-after-third-t20i-loss-against-india-2026-10-12-1056766",
     "time": "2026-10-12T13:17:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI denies reports of venue change, India's 1st ODI clash against Sri Lanka to stay in Delhi",
-    "desc": "The Indian team is all set for a multi-format white-ball series against Sri Lanka. Currently in the midst of a series against the West Indies. The Indian team will be taking on New Zealand across...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-denies-reports-of-venue-change-india-s-1st-odi-clash-against-sri-lanka-to-stay-in-delhi-2026-10-12-1056760",
-    "time": "2026-10-12T12:01:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I'm the greatest': Cristiano Ronaldo drops bombshell interview amid national team suspension",
-    "desc": "World football has been surrounded by talk of the national team suspension of veteran forward Cristiano Ronaldo. It is worth noting that Ronaldo has recently been involved in several controversies after he walked out of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/i-m-the-greatest-cristiano-ronaldo-drops-bombshell-interview-amid-national-team-suspension-2026-10-12-1056754",
-    "time": "2026-10-12T10:54:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Vaibhav Sooryvanshi's exclusion from India's T20I squad justified? Former cricketer opines",
-    "desc": "The stage is set for the fourth T20I of the ongoing series between India and the West Indies. The two sides are slated to meet at the Rajiv Gandhi International Stadium in Hyderabad for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-vaibhav-sooryanshi-s-exclusion-from-india-s-t20i-squad-justified-former-cricketer-opines-2026-10-12-1056746",
-    "time": "2026-10-12T09:46:05.000Z"
   }
 ];
