@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "ব্রেকআপের কথা বলতেই রোমান্টিক ডেট বদলে গেল বিভীষিকায়! প্রেমিকাকে ১০০০ ফুট গভীর খাদে ফেলে খুন",
+    "desc": "ঘটনার পর সে নিজেই থানায় গিয়ে দাবি করে, সেলফি তুলতে গিয়ে পা পিছলে পড়ে গিয়েছেন প্রেমিকা। পুলিসের টানা জেরায় অসঙ্গতি ধরা পড়ায় অবশেষে সে নিজের অপরাধ স্বীকার করে এবং গ্রেফতার হয়। ১,০০০ ফুট নীচে থেকে মৃতদেহ উদ্ধার করে ময়নাতদন্তে পাঠিয়েছে পুলিস।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/maharashtra-man-pushes-girlfriend-into-1-000-foot-gorge-after-breakup-talk_673152.html ",
+    "time": "2026-10-13T05:03:38.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "শেষ হল যন্তর মন্তর বিক্ষোভ? দিল্লি পুলিসের বিরাট নির্দেশিকায় বিশ বাঁও জলে আন্দোলনকারীরা, জেন জি বিদ্রোহেরও কি এখানেই ইতি?",
     "desc": "একই সঙ্গে বিক্ষোভকারীদের জন্য পানীয় জল, শৌচাগার এবং চিকিৎসা সহায়তার মতো ন্যূনতম সুযোগ-সুবিধাযুক্ত উন্নত পরিকাঠামোযুক্ত স্থানের ব্যবস্থা করার কথাও বলা হয়েছিল। আদালতের এই পর্যবেক্ষণের পরেই দিল্লি পুলিস (Delhi Police) পদক্ষেপ গ্রহণ করে যন্তর মন্তরকে বাদ দেওয়ার সিলমোহর দেয়।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -34,24 +43,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/strategic-dispersal-delhi-police-shift-detained-cjp-leaders-to-three-separate-locations-from-dwarka-to-gurugram_673031.html ",
     "time": "2026-10-10T08:03:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "যন্তর মন্তরে সিজেপি বিক্ষোভের আগেই যেন নিশ্ছিদ্র দুর্গ দিল্লি: ২৩ হাজার পুলিস, ফেস রিকগনিশন মেশিন আর AI ড্রোন নজরদারি: অবরুদ্ধ রাজধানী",
-    "desc": "উত্তরপ্রদেশ এবং রাজস্থান সীমান্ত দিয়ে যাতে আন্দোলনকারীদের কোনও দল দিল্লিতে প্রবেশ করতে না পারে, তার জন্য শাহদারা ও পূর্ব সীমানায় একাধিক ব্যারিকেড বসানো হয়েছে। আইনশৃঙ্খলা বজায় রাখতে ৯ ও ১০ অক্টোবর পুরো দিল্লিতে মদের দোকান বন্ধ (Dry Day) রাখার নির্দেশ দেওয়া হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/delhi-under-tight-gridlock-57-metro-stations-face-gate-closures-and-key-rail-routes-suspended-for-jantar-mantar-agitation_673017.html ",
-    "time": "2026-10-09T11:18:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "পুরভোটের আগেই রাজ্যে SIR এ নাম বাদ পড়াদের নিয়ে বিরাট খবর: বাদ নয়, আগে নাম তোলার হিসেব হোক, সুপ্রিম রায়ে অবশেষে ভোটাধিকার বঞ্চিতদের?",
-    "desc": "শুক্রবার মামলার বিশেষ উল্লেখের সময় সুপ্রিম কোর্টের প্রধান বিচারপতি সূর্যকান্ত সাফ জানিয়ে দেন, প্রয়োজনে নাম বাদ দেওয়ার আপিল শুনানি কিছুদিনের জন্য স্থগিত রেখে, যাঁদের নাম তালিকা থেকে বাদ পড়েছে তাঁদের নাম ফের অন্তর্ভুক্তির আবেদনগুলি আগে শোনা হবে। শুধু তা-ই নয়, আসন্ন নির্বাচনগুলির দিনক্ষণ ঘোষণার আগেই যাতে এই সংক্রান্ত আইনি প্রক্রিয়ার দ্রুত নিষ্পত্তি করা যায়, সেই সম্ভাবনাও সক্রিয়ভাবে বিবেচনা করছে আদালত।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/bengal-sir-row-supreme-court-hints-at-prioritising-re-inclusion-pleas-for-deleted-voters-ahead-of-civic-polls_673010.html ",
-    "time": "2026-10-09T07:56:12.000Z"
   },
   {
     "cat": "World",

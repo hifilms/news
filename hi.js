@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "KL Rahul, Yashasvi Jaiswal flop on Ranji return, concerning sign for India ahead of New Zealand series",
+    "desc": "Star India openers KL Rahul and Yashasvi Jaiswal failed to make a mark in their return to the Ranji Trophy. Against Chandigarh, Jaiswal scored a 13-ball duck, while Rahul made 4 and 1, respectively, in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-yashasvi-jaiswal-flop-on-ranji-return-concerning-sign-for-india-ahead-of-new-zealand-series-2026-10-13-1056829",
+    "time": "2026-10-13T10:00:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Attack is best form of defence, explains Chelsea's Joao Pedro after 5-1 win over Bournemouth",
+    "desc": "Chelsea have been a force to reckon with in the Premier League. After missing out on Europe last season, they appointed Xabi Alonso as new head coach and under the Spaniard’s leadership, the London-based club...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/attack-is-best-form-of-defence-explains-chelsea-s-joao-pedro-after-5-1-win-over-bournemouth-2026-10-13-1056814",
+    "time": "2026-10-13T08:10:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill creates history with fifth ICC Player of the Month award; Shafali Verma wins after Asian Games",
+    "desc": "India’s Shubman Gill and Shafali Verma have been named the ICC Men’s and Women’s Player of the Month for September 2026. The current India Test and ODI captain extended his record to five wins, while...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-creates-history-with-fifth-icc-player-of-the-month-award-shafali-verma-wins-after-asian-games-2026-10-13-1056806",
+    "time": "2026-10-13T06:46:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka announce squad for Test series against Pakistan, new captain to take over",
+    "desc": "Sri Lanka have announced a 15-member squad for their two-Test tour of Pakistan in November. Kusal Mendis has been appointed as captain after Dhananjaya de Silva stepped down from the role. Meanwhile, uncapped batter Anjala...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-announce-squad-for-test-series-against-pakistan-new-captain-to-take-over-2026-10-13-1056805",
+    "time": "2026-10-13T06:28:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunil Gavaskar proposes football-like divisions to maintain cricket records, questions T20I statistics",
+    "desc": "Sunil Gavaskar has urged cricket authorities to reconsider how records are classified across international and domestic competitions. The former cricketer suggested a division-based system that could distinguish performances according to the level of opposition. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-proposes-football-like-divisions-to-maintain-cricket-records-questions-t20i-statistics-2026-10-13-1056798",
+    "time": "2026-10-13T05:12:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jos Buttler undergoes hamstring surgery; Australia series, SA20 participation remain in doubt",
+    "desc": "Former England captain Jos Buttler has undergone surgery on his injured left hamstring. The 36-year-old confirmed the development on Monday through an Instagram post. However, neither the player nor the England Cricket Board has disclosed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-undergoes-hamstring-surgery-australia-series-sa20-participation-remain-in-doubt-2026-10-13-1056793",
+    "time": "2026-10-13T04:30:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "West Indies stars reprimanded by the ICC, handed demerit points after third T20I loss against India",
     "desc": "The West Indies succumbed to a hefty loss against the Indian team in the third T20I of the ongoing series. The two sides met at the Holkar International Stadium in Indore on October 11, and...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/is-vaibhav-sooryanshi-s-exclusion-from-india-s-t20i-squad-justified-former-cricketer-opines-2026-10-12-1056746",
     "time": "2026-10-12T09:46:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Erling Haaland gives his reaction as Man City storm Anfield to register brilliant victory against Liverpool",
-    "desc": "Premier League football made its return after the international break, and the break ended with league titans Manchester City and Liverpool taking on each other. The two sides met at Anfield for the clash on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/erling-haaland-gives-his-reaction-as-man-city-storm-anfield-to-register-brilliant-victory-against-liverpool-2026-10-12-1056739",
-    "time": "2026-10-12T08:27:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dinesh Karthik breaks down Nitish Kumar Reddy's role in the Indian team after third T20I victory",
-    "desc": "Team India registered a brilliant victory as they defeated the West Indies in the third T20I of the ongoing series. The two sides met in Indore for the clash on October 11, and the Men...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dinesh-karthik-breaks-down-nitish-kumar-reddy-s-role-in-the-indian-team-after-third-t20i-victory-2026-10-12-1056736",
-    "time": "2026-10-12T07:43:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer surpasses MS Dhoni's tally, achieves massive feat after leading India to third T20I win over WI",
-    "desc": "Team India got back to winning ways as they defeated the West Indies in the third T20I of the ongoing series. The two sides met at the Holkar International Stadium in Indore on October 11,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-surpasses-ms-dhoni-s-tally-achieves-massive-feat-after-leading-india-to-third-t20i-win-over-wi-2026-10-12-1056733",
-    "time": "2026-10-12T06:58:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Will be ruthless': Abhishek Sharma opens up on team India's approach after third T20I victory over WI",
-    "desc": "The Indian team registered a brilliant victory as they took on the West Indies in the third T20I of the ongoing series. The two sides met at the Holkar International Stadium in Indore on October...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-be-ruthless-abhishek-sharma-opens-up-on-team-india-s-approach-after-third-t20i-victory-over-wi-2026-10-12-1056730",
-    "time": "2026-10-12T06:00:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It was wonderful': Shreyas Iyer hails India's bowling attack after third T20I win against the West Indies",
-    "desc": "The Indian team registered a dominant victory against the West Indies in the third T20I of the ongoing series. The two sides met at the Holkar International Cricket Stadium in Indore for the clash, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/it-was-wonderful-shreyas-iyer-hails-india-s-bowling-attack-after-third-t20i-win-against-the-west-indies-2026-10-11-1056706",
-    "time": "2026-10-11T18:14:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bowling resilience helps team India take lead in T20I series, defeat WI by 14 runs in Indore",
-    "desc": "The Indian team continued their ongoing T20I series against the West Indies. The two sides met at the Holkar International Cricket Stadium in Indore for the clash on October 11th, and the game saw India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bowling-resilience-helps-team-india-take-lead-in-t20i-series-defeat-wi-by-14-runs-in-indore-2026-10-11-1056704",
-    "time": "2026-10-11T17:15:18.000Z"
   }
 ];
