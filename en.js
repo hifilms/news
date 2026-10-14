@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Ahaan Panday hosts fairytale birthday bash for Aneet Padda",
+    "desc": "Aneet Padda celebrated her birthday with close friends including Ahaan Panday, who shared heartfelt posts on social media. The intimate gathering featured a beautiful pastel decor and a curated Spotify playlist. Fans continue to speculate about Aneet and Ahaan's relationship following their successful film 'Saiyaara'. Prominent figures like Alia Bhatt also attended, marking the occasion as special for Aneet.",
+    "img": "https://static.toiimg.com/photo/msid-134926658,imgsize-296396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aneet-padda-and-rumoured-beau-ahaan-panday-pose-together-at-actress-fairytale-birthday-bash-alia-bhatt-deanne-panday-attend-celebrations-pics/articleshow/134926657.cms",
+    "time": "2026-10-13T23:30:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Zelenskyy to visit Britain as Burnham pledges fresh support for Ukraine",
+    "desc": "The meeting comes at a difficult time for the Ukrainian President, days after the U.S. made a deal with Russia for diesel exports and U.S. President ‌Donald Trump said Mr. Zelenskyy should be replaced as ‌Ukraine’s leader",
+    "img": "https://th-i.thgim.com/public/incoming/f2n4na/article71581320.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_Germany_51484.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/zelenskyy-to-visit-britain-as-burnham-pledges-fresh-support-for-ukraine/article71581319.ece",
+    "time": "2026-10-13T22:31:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Narnia: The Magician's Nephew' trailer: Film sets Feb 12 release",
+    "desc": "The Magician's Nephew\" during a New York event. The film will be released theatrically on February 12 and on Netflix on April 2. Gerwig, who wrote her first draft in 2020, emphasized the project's cinematic scale and significance. Led Zeppelin's \"Stairway to Heaven\" features in the trailer, chosen for thematic resonance with the story.",
+    "img": "https://static.toiimg.com/photo/msid-134926483,imgsize-269423.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/greta-gerwig-debuts-first-narnia-the-magicians-nephew-trailer-film-set-for-theatrical-release-on-february-12-watch/articleshow/134926455.cms",
+    "time": "2026-10-13T21:30:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Duane Davis gets 40 years to life in prison",
+    "desc": "Duane 'Keffe D' Davis received a 40 years to life sentence for the murder of rapper Tupac Shakur. Prosecutors stated that Davis orchestrated the shooting and profited from his involvement through a memoir. Shakur's family expressed their pain over the loss and the years of Davis's admissions. Many witnesses testified about possible connections between Sean 'Diddy' Combs and the crime.",
+    "img": "https://static.toiimg.com/photo/msid-134926427,imgsize-313478.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/tupac-shakur-murder-case-duane-keffe-d-davis-gets-40-years-to-life-in-prison-for-orchestrating-rappers-death/articleshow/134926360.cms",
+    "time": "2026-10-13T20:51:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Barca and Real icons set for Salt Lake clash on Nov 25",
+    "desc": "Kolkata will host Barcelona Legends vs Real Madrid Legends at Salt Lake Stadium on November 25, bringing El Clasico nostalgia to India. Luis Figo, Carles Puyol and Iker Casillas are among the names reportedly expected, though official squads remain unconfirmed. The exhibition follows last year’s meeting in Mumbai, where Real Madrid Legends won 2-0, and adds another chapter to Kolkata’s rich footballing history.",
+    "img": "https://static.toiimg.com/photo/msid-134926334,imgsize-144134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/kolkata-to-bring-el-clasico-to-india-with-blockbuster-barcelona-vs-real-madrid-legends-clash-on-nov-25-luis-figo-puyol-among-expected-names/articleshow/134926283.cms",
+    "time": "2026-10-13T20:14:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Saudi coalition strikes Yemen oil sites after Houthi attacks",
+    "desc": "The Saudi-led coalition had earlier warned civilians to evacuate the Al-Sabaha station near the Houthi-held capital, which belongs to the Yemen Petroleum Company (YPC), following a spate of deadly Houthi attacks in Saudi Arabia, particularly on Riyadh airport.",
+    "img": "https://th-i.thgim.com/public/incoming/dpyu12/article71580870.ece/alternates/LANDSCAPE_1200/AP01_18_2022_000150A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/houthi-media-says-saudi-arabia-hit-oil-facility-near-sanaa/article71580863.ece",
+    "time": "2026-10-13T20:09:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Muslims disproportionately flagged in Delhi SIR",
+    "desc": "Muslims, who form 13.6% of electors on Delhi’s draft roll, made up 20.3% of those flagged for ‘logical discrepancies’ and 30% of those flagged under five reasons indicative of family size by the Election Commission’s ERONET software; in Bihar, which didn’t have ‘logical discrepancy’ checks, Muslims accounted for 18.4% of deleted electors, in line with their 17.7% share in population",
+    "img": "https://th-i.thgim.com/public/incoming/zruy1/article71581147.ece/alternates/LANDSCAPE_1200/Election15.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/data/muslims-disproportionately-flagged-in-delhi-sir/article71580772.ece",
+    "time": "2026-10-13T19:22:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Political resistance against vote chori will continue, not as parallel protests but as one movement:  Rahul Gandhi",
+    "desc": "Rahul Gandhi hosted leaders from 16 Opposition parties, civil society and student activists in a bid to coordinate diverse strands of the agitation; his office tried reaching out to CJP leaders, but it did not work out",
+    "img": "https://th-i.thgim.com/public/incoming/mr985f/article71580997.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-13%20at%2018.13.40.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/political-resistance-against-vote-chori-will-continue-not-as-parallel-protests-but-as-one-movement-rahul-gandhi/article71580671.ece",
+    "time": "2026-10-13T18:51:45.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Is Wetland Authority accountable to government or construction companies, asks Anbumani",
     "desc": "Anbumani alleges that the authority has moved with ‘lightning speed’ to reduce buffer zone around the Pallikaranai marsh in order to protect the interests of construction firms. He demands that the government notify all wetlands across the State",
@@ -28,12 +100,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Political resistance against vote chori will continue, not as parallel protests but as one movement:  Rahul Gandhi",
-    "desc": "Rahul Gandhi hosted leaders from 16 Opposition parties, civil society and student activists in a bid to coordinate diverse strands of the agitation; his office tried reaching out to CJP leaders, but it did not work out",
-    "img": "https://th-i.thgim.com/public/incoming/mr985f/article71580997.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-13%20at%2018.13.40.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/political-resistance-against-vote-chori-will-continue-not-as-parallel-protests-but-as-one-movement-rahul-gandhi/article71580671.ece",
-    "time": "2026-10-13T18:20:10.000Z"
+    "title": "Allahabad HC initiates contempt proceedings against UP official over pay order",
+    "desc": "The Allahabad high court's Lucknow bench has initiated contempt proceedings against Ajay Chauhan due to his failure to comply with earlier orders. This arises from 37 contempt petitions related to the unpaid salaries and benefits of government employees, stemming from orders issued four years ago, which remain ignored despite several reminders.",
+    "img": "https://static.toiimg.com/photo/msid-134924013,imgsize-101301.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/allahabad-hc-initiates-contempt-proceedings-against-up-official-over-pay-order/articleshow/134923123.cms",
+    "time": "2026-10-13T17:52:30.000Z"
   },
   {
     "cat": "Politics",
@@ -79,42 +151,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ind-vs-wi-fourth-t20i-india-and-west-indies-willow-wielders-glove-up-for-another-batting-blast/article71579614.ece",
     "time": "2026-10-13T16:48:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Houthi media says Saudi Arabia hit oil facility near Sanaa",
-    "desc": "The Saudi-led coalition had earlier warned civilians to evacuate the Al-Sabaha station near the Houthi-held capital, which belongs to the Yemen Petroleum Company (YPC), following a spate of deadly Houthi attacks in Saudi Arabia, particularly on Riyadh airport.",
-    "img": "https://th-i.thgim.com/public/incoming/dpyu12/article71580870.ece/alternates/LANDSCAPE_1200/AP01_18_2022_000150A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/houthi-media-says-saudi-arabia-hit-oil-facility-near-sanaa/article71580863.ece",
-    "time": "2026-10-13T16:38:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court Registry clears, numbers Rahul Gandhi’s plea against SIR-CEC within 24 hours",
-    "desc": "The petition has sought a complete disclosure of records and decisions of Election Commission on Special Intensive Revision and an independent probe into allegations of unilateral exercise of power by Chief Election Commissioner Gyanesh Kumar",
-    "img": "https://th-i.thgim.com/public/incoming/rr9u44/article71577874.ece/alternates/LANDSCAPE_1200/PTI10_12_2026_000402B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rahul-gandhis-plea-not-listed-for-hearing-on-october-13-faces-routine-clerical-hurdles/article71577862.ece",
-    "time": "2026-10-13T16:22:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SIC may seek clarification from Kochi Corporation on alleged move to curb RTI applications",
-    "desc": "Corporation had decided to hand over details of repeat RTI applicants to the Vigilance and Anti-Corruption Bureau for a probe into their financial backgrounds; SIC meeting on Wednesday to discuss the issue after taking suo motu notice of the developments; Commission sources say the RTI Act does not prescribe a limit on the number of applications a person can file",
-    "img": "https://th-i.thgim.com/public/incoming/kyajiz/article71580774.ece/alternates/LANDSCAPE_1200/RTI.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/sic-may-seek-clarification-from-kochi-corporation-on-alleged-move-to-curb-rti-applications/article71579829.ece",
-    "time": "2026-10-13T16:16:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What the law says about preventive detention",
-    "desc": "The Supreme Court directed the Union government and the Delhi Police to stop illegal detentions and allow free and smooth movement of people and traffic, as well as the operations of Metro and rail services, but “subject to law and public order”",
-    "img": "https://th-i.thgim.com/public/incoming/y1l8a7/article71575461.ece/alternates/LANDSCAPE_1200/6744_11_10_2026_16_29_16_3_A23_65415.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/delhi-protests-against-cec-what-the-law-says-about-preventive-detention-explained/article71574850.ece",
-    "time": "2026-10-13T15:52:00.000Z"
   },
   {
     "cat": "Business",
@@ -388,30 +424,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Nayanthara steps out in Mumbai with twin sons Uyir and Ulagam",
-    "desc": "Recently spotted in Mumbai, Nayanthara shared a joyful day with her twin boys, Uyir and Ulagam, as they celebrated their fourth birthday on October 9. As excitement builds for the release of 'Mookuthi Amman 2' during Diwali, she's also juggling projects like 'Dear Students' and 'Rakkayie'. While married to Vignesh Shivan, Nayanthara enjoys keeping her family life private, offering only glimpses of their beautiful moments together.",
-    "img": "https://static.toiimg.com/photo/msid-134915813,imgsize-146472.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nayanthara-spotted-in-mumbai-with-twin-sons-uyir-and-ulagam-boys-twin-in-matching-outfits/articleshow/134915762.cms",
-    "time": "2026-10-13T10:56:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Phir Se' from 'Dhurandhar' makes it to Grammy consideration list",
     "desc": "The Revenge' is making waves as it garners Grammy consideration. Taking to social media, the talented singer thanked his devoted fans for their unwavering support. The Grammy campaign features multiple tracks from the film, showcasing a desire for enhanced global recognition. With a captivating score by Shashwat Sachdev, this blockbuster franchise has amassed an impressive Rs 3,000 crore worldwide.",
     "img": "https://static.toiimg.com/photo/msid-134915226,imgsize-265580.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arijit-singhs-song-phir-se-from-ranveer-singhs-dhurandhar-makes-it-to-grammy-consideration-list-in-the-best-song-written-for-visual-media-category/articleshow/134915011.cms",
     "time": "2026-10-13T10:33:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sidharth jokes on ‘break a leg’; no update on condition",
-    "desc": "Sidharth Malhotra shared an Instagram Story on October 13 showing his leg in a medical walking boot, captioned “I took ‘break a leg’ too seriously.” He hasn’t revealed how he was hurt. The injury comes days after he and Kiara Advani announced they are expecting their second child.",
-    "img": "https://static.toiimg.com/photo/msid-134915168,imgsize-231415.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sidharth-malhotra-shares-leg-injury-photo-in-medical-boot-jokes-i-took-break-a-leg-too-seriously-days-after-announcing-second-pregnancy-with-kiara-advani/articleshow/134915084.cms",
-    "time": "2026-10-13T10:32:32.000Z"
   },
   {
     "cat": "Sports",
@@ -522,33 +540,6 @@ const newsData_en = [
     "time": "2026-10-13T08:13:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Drishyam 3' BO Day 12: Ajay Devgn film hits Rs 501 crore worldwide",
-    "desc": "The Conclusion' continues its dominant box office run as it enters Day 12 of release. Helmed by Abhishek Pathak, the suspense thriller is headed towards the Rs 320 crore domestic net milestone. Additionally, the Rs. 325 crore and Rs. 350 crore India net are the next domestic targets, while the Rs. 500 crore worldwide mark is now just over Rs. 10 crore away.",
-    "img": "https://static.toiimg.com/photo/msid-134911880,imgsize-101813.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/drishyam-the-conclusion-box-office-collection-day-12-live-ajay-devgn-tabu-jaideep-ahlawat-prakash-raj-starrer-maintains-stead-hold-in-second-week-with-sights-on-rs-325-crore-india-net-and-rs-500-crore-global-landmark/articleshow/134911831.cms",
-    "time": "2026-10-13T07:56:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Tata chief flags challenges in India's semiconductor push, calls 'global collaboration a necessity'",
-    "desc": "N Chandrasekaran underscored India's immense promise in the semiconductor sector. He stressed the importance of thoughtful investments, aligning with market demand and financial feasibility. To bolster domestic capabilities, Tata Electronics collaborates with Taiwan's Powerchip to establish a fabrication plant in Gujarat, while Assam sees the launch of a semiconductor assembly facility aimed at fulfilling local needs.",
-    "img": "https://static.toiimg.com/photo/msid-134911407,imgsize-38242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/tata-chief-flags-challenges-in-indias-semiconductor-push-calls-global-collaboration-a-necessity/articleshow/134911153.cms",
-    "time": "2026-10-13T07:52:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Employer in South Korea paid him salary in dollars in India; income tax department sends notice",
-    "desc": "A Karnataka man working in South Korea faced an income tax notice over his salary deposited in an NRE account in India. The Income Tax Assessing Officer claimed the salary was taxable in India due to his employment. However, the ITAT Bangalore found that the man had established his non-resident status.",
-    "img": "https://static.toiimg.com/photo/msid-134910354,imgsize-288422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/man-worked-in-south-korea-and-received-salary-in-us-dollars-in-nre-account-income-tax-department-sent-notice-itat-bangalore-sets-aside-assessment-and-orders-fresh-review/articleshow/134895954.cms",
-    "time": "2026-10-13T07:34:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Mandhana gets new role at UNICEF, says 'every child deserves to dream big'",
     "desc": "UNICEF India has appointed Indian women’s cricket captain Smriti Mandhana as its Celebrity Advocate to promote girls’ rights, health, well-being and equal opportunities. Mandhana will support efforts to empower young girls and help them achieve their potential. A celebrated cricketer, she was part of India’s historic 2025 Women’s Cricket World Cup-winning team and has set several batting records.",
@@ -556,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indian-womens-captain-smriti-mandhana-gets-new-role-at-unicef-says-every-child-deserves-to-dream-big/articleshow/134910772.cms",
     "time": "2026-10-13T07:33:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka name new captain for Pak Tests! Ex-skipper de Silva retained in squad",
-    "desc": "Kusal Mendis will lead Sri Lanka in their upcoming Test series against Pakistan starting November 9. Dhananjaya de Silva, the former captain, recently stepped down to make way for new leadership. Pathum Nissanka's inclusion in the squad is dependent on his recovery from a hamstring injury sustained last month. Notable inclusions are uncapped wicketkeeper-batter Anjala Bandara and left-arm fast bowler Dilshan Madushanka.",
-    "img": "https://static.toiimg.com/photo/msid-134911398,imgsize-184164.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sri-lanka-name-new-captain-for-pakistan-tests-former-skipper-dhananjaya-de-silva-retained-in-15-member-squad/articleshow/134911293.cms",
-    "time": "2026-10-13T07:27:20.000Z"
   },
   {
     "cat": "Sports",
@@ -585,15 +567,6 @@ const newsData_en = [
     "time": "2026-10-13T06:18:46.000Z"
   },
   {
-    "cat": "Business",
-    "title": "What is the outlook for gold on October 13, 2026?",
-    "desc": "Gold prices are seeing ome fluctuations recently, influenced by geopolitical tensions and economic data. Recent attacks on Saudi Arabia have raised concerns about regional stability and oil prices. The US Dollar has strengthened, impacting gold prices and local currencies like the rupee. Expectations of future Fed rate hikes present additional challenges for gold.",
-    "img": "https://static.toiimg.com/photo/msid-134909949,imgsize-656777.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-october-13-2026-and-in-the-near-term-mcx-gold-silver-prices/articleshow/134909904.cms",
-    "time": "2026-10-13T06:13:34.000Z"
-  },
-  {
     "cat": "World",
     "title": "Why Pakistan declared emergency in Khyber-Pakhtunkhwa",
     "desc": "The military-backed government in Pakistan has imposed emergency rule in the Opposition PTI-ruled Province, citing rise in terrorist attacks; the move comes amid a prolonged stand-off with the party of jailed ex-Prime Minister Imran Khan and a worsening security situation in the Province",
@@ -601,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/why-pakistan-declared-emergency-in-khyber-pakhtunkhwa-explained/article71576216.ece",
     "time": "2026-10-13T05:51:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "HCLTech jumps over 5%, TCS up 4%: Why are IT stocks rallying",
-    "desc": "Dalal Street saw a surge as IT stocks soared following strong quarterly earnings from industry giants. HCLTech and Tata Consultancy Services were at the forefront, with their share prices climbing significantly. However, this rally comes amidst a tougher year for IT stocks, which have dipped by 23%. Investor concerns remain about inflation and fluctuating crude oil prices, with the global tech landscape also impacted by chip industry developments.",
-    "img": "https://static.toiimg.com/photo/msid-134909355,imgsize-147966.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/hcltech-jumps-over-5-tcs-up-4-why-are-it-stocks-rallying/articleshow/134908713.cms",
-    "time": "2026-10-13T05:45:50.000Z"
   },
   {
     "cat": "Sports",
@@ -648,15 +612,6 @@ const newsData_en = [
     "time": "2026-10-13T05:35:06.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Rupee extends winning streak, rises to 94.96 against dollar as RBI tightens forex rules",
-    "desc": "In a significant turnaround, the Rupee gained ground against the US dollar, settling at 94.96 as a result of strategic interventions by the Reserve Bank of India. These measures aimed at reducing excessive demand for dollars positively influenced the forex market, contributing to a decline in the dollar index and modestly lower oil prices.",
-    "img": "https://static.toiimg.com/photo/msid-134908016,imgsize-69236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-extends-winning-streak-rises-to-94-96-against-dollar-as-rbi-tightens-forex-rules/articleshow/134907993.cms",
-    "time": "2026-10-13T04:45:54.000Z"
-  },
-  {
     "cat": "World",
     "title": "What are the debates surrounding Nidal Hasan’s execution? | Explained",
     "desc": "The move to make livestream the execution by firing squad has drawn criticism from activists, lawmakers across party lines, other nations, and international organisations alike for its “barbaric” nature and symbolism linked to autocracy and anarchy",
@@ -667,39 +622,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Tenant's Rs 10 lakh deposit claim fails; Delhi HC orders payment for unauthorised stay",
-    "desc": "The case involved a tenant, who rented a 238.38 sq. ft shop in 2014 from a couple in Delhi. The agreed monthly rent was Rs 25,500. However, the 11-month rent agreement was never registered. The tenant subsequently claimed that he had paid the landlords Rs 10 lakh in cash as a security deposit between November 2016 and March 2017.",
-    "img": "https://static.toiimg.com/photo/msid-134895868,imgsize-303810.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/tenant-claimed-landlords-withheld-rs-10-lakh-security-deposit-and-refused-to-vacate-shop-delhi-high-court-rules-against-him-orders-payout-for-unauthorised-stay/articleshow/134895137.cms",
-    "time": "2026-10-13T04:30:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India's economic story in fast lane, IMF projects 7% GDP growth for FY27 and FY28",
-    "desc": "India is projected to maintain a robust growth rate of 7% in both 2026 and 2027, bolstered by strong domestic demand and a thriving services sector, according to the International Monetary Fund. Positive revisions from the World Bank and OECD highlight resilience amid consumption patterns. However, challenges such as rising energy prices and geopolitical tensions could impact this trajectory, yet India's economic growth remains strong compared to other major nations.",
-    "img": "https://static.toiimg.com/photo/msid-134906827,imgsize-216778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-economic-story-in-fast-lane-imf-projects-7-gdp-growth-for-fy26-and-fy27/articleshow/134906510.cms",
-    "time": "2026-10-13T03:23:02.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Why does India need a trained workforce for elderly care?",
     "desc": "India’s 60-plus population is projected to touch 347 million by 2050, underscoring the need for a robust caregiving ecosystem; a formal training programme, building on existing small-scale initiatives, could promote gender parity in caregiving and recognise informal, unpaid family caregivers",
     "img": "https://th-i.thgim.com/public/news/i4ftmw/article71576742.ece/alternates/LANDSCAPE_1200/iStock-1392762085.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/why-does-india-need-a-trained-workforce-for-elderly-care/article71576741.ece",
     "time": "2026-10-13T03:07:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil prices hold near $105 per barrel as Trump eases sanctions on Russian fuel",
-    "desc": "Oil prices fell on Tuesday after increasing nearly $2 a barrel the previous session. Concerns over energy supply disruptions from ongoing conflicts in the Middle East influenced market sentiment. Meanwhile, US sanctions on Russian fuel were temporarily lifted, allowing for additional diesel supply. OPEC revised its demand growth forecast downward, indicating overcapacity in the market.",
-    "img": "https://static.toiimg.com/photo/msid-134905971,imgsize-117078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-hold-near-105-per-barrel-as-trump-eases-sanctions-on-russian-fuel/articleshow/134905912.cms",
-    "time": "2026-10-13T02:00:22.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +826,77 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
     "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
   }
 ];
