@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bengal beat Delhi to kickstart their Ranji Trophy campaign; Gujarat win by 10 wickets",
+    "desc": "Bengal and Gujarat opened their Ranji Trophy Group C campaigns with emphatic victories on Wednesday, defeating Delhi by nine wickets and Odisha by 10 wickets, respectively. While Bengal completed a modest chase on the final...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bengal-beat-delhi-to-kickstart-their-ranji-trophy-campaign-gujarat-win-by-10-wickets-2026-10-14-1056962",
+    "time": "2026-10-14T12:48:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shimron Hetmyer's cameo ends, West Indies need to cash in on momentum",
+    "desc": "India and the West Indies head into the fourth T20I in Hyderabad on Wednesday, with the series offering little relief for bowlers as batters have largely dominated across the white-ball contests. The previous match in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-4th-t20i-final-live-score-india-vs-west-indies-latest-match-updates-scorecards-playing-xis-reactions-1056960",
+    "time": "2026-10-14T12:42:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi Capitals pacer returns to Sunrisers Hyderabad after two years, accepts 5.75 crore pay cut",
+    "desc": "Sunrisers Hyderabad have brought back pacer T. Natarajan in a player trade with Delhi Capitals, with leg-spinner Zeeshan Ansari moving in the opposite direction. The Chennai pacer played for SRH from 2020 to 2024 and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-pacer-returns-to-sunrisers-hyderabad-after-two-years-accepts-5-75-crore-pay-cut-2026-10-14-1056954",
+    "time": "2026-10-14T11:46:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 Indian cricketers feature in top 4 of latest ICC T20I rankings, Matt Renshaw benefits in Tests",
+    "desc": "India captain Shreyas Iyer has reached a career-high fourth position in the latest ICC T20I batting rankings following his century against the West Indies in the opening match of their ongoing five-game series at home....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-indian-cricketers-feature-in-top-4-of-latest-icc-t20i-rankings-matt-renshaw-benefits-in-tests-2026-10-14-1056942",
+    "time": "2026-10-14T10:45:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lisandro Martinez slams Manchester United management after 2-0 defeat to Atletico in Champions League",
+    "desc": "Lisandro Martinez has slammed Manchester United’s recruitment strategy following their 2-0 Champions League defeat to Atletico Madrid. He called on the club’s leadership to invest more heavily in the squad rather than allowing manager Michael...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lisandro-martinez-slams-manchester-united-management-after-2-0-defeat-to-atletico-in-champions-league-2026-10-14-1056936",
+    "time": "2026-10-14T10:16:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Temba Bavuma suffers first Test defeat as captain as Australia thrash South Africa by 214 runs",
     "desc": "Temba Bavuma’s historic reign as Test captain has come to an end. Since taking over the responsibility, the Proteas won 12 consecutive Test matches under his leadership, which includes the win over Australia in the...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/attack-is-best-form-of-defence-explains-chelsea-s-joao-pedro-after-5-1-win-over-bournemouth-2026-10-13-1056814",
     "time": "2026-10-13T08:10:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill creates history with fifth ICC Player of the Month award; Shafali Verma wins after Asian Games",
-    "desc": "India’s Shubman Gill and Shafali Verma have been named the ICC Men’s and Women’s Player of the Month for September 2026. The current India Test and ODI captain extended his record to five wins, while...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-creates-history-with-fifth-icc-player-of-the-month-award-shafali-verma-wins-after-asian-games-2026-10-13-1056806",
-    "time": "2026-10-13T06:46:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka announce squad for Test series against Pakistan, new captain to take over",
-    "desc": "Sri Lanka have announced a 15-member squad for their two-Test tour of Pakistan in November. Kusal Mendis has been appointed as captain after Dhananjaya de Silva stepped down from the role. Meanwhile, uncapped batter Anjala...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-announce-squad-for-test-series-against-pakistan-new-captain-to-take-over-2026-10-13-1056805",
-    "time": "2026-10-13T06:28:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Gavaskar proposes football-like divisions to maintain cricket records, questions T20I statistics",
-    "desc": "Sunil Gavaskar has urged cricket authorities to reconsider how records are classified across international and domestic competitions. The former cricketer suggested a division-based system that could distinguish performances according to the level of opposition. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-proposes-football-like-divisions-to-maintain-cricket-records-questions-t20i-statistics-2026-10-13-1056798",
-    "time": "2026-10-13T05:12:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler undergoes hamstring surgery; Australia series, SA20 participation remain in doubt",
-    "desc": "Former England captain Jos Buttler has undergone surgery on his injured left hamstring. The 36-year-old confirmed the development on Monday through an Instagram post. However, neither the player nor the England Cricket Board has disclosed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-undergoes-hamstring-surgery-australia-series-sa20-participation-remain-in-doubt-2026-10-13-1056793",
-    "time": "2026-10-13T04:30:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "West Indies stars reprimanded by the ICC, handed demerit points after third T20I loss against India",
-    "desc": "The West Indies succumbed to a hefty loss against the Indian team in the third T20I of the ongoing series. The two sides met at the Holkar International Stadium in Indore on October 11, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-stars-reprimanded-by-the-icc-handed-demerit-points-after-third-t20i-loss-against-india-2026-10-12-1056766",
-    "time": "2026-10-12T13:17:00.000Z"
   }
 ];
