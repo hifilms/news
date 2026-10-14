@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abhishek Sharma breaks Suryakumar Yadav's record, sets new benchmark for sixes in fourth T20I vs West Indies",
+    "desc": "India opener Abhishek Sharma surpassed former captain Suryakumar Yadav to become the cricketer with the most sixes among a full-member nation in a single calendar year in T20I cricket. He holds the record now, having...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-suryakumar-yadav-s-record-sets-new-benchmark-for-sixes-in-fourth-t20i-vs-west-indies-2026-10-14-1056993",
+    "time": "2026-10-14T18:06:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shai Hope, Keemo Paul architect West Indies' 25-run win in 4th T20I vs India, series locked at 2-2",
+    "desc": "West Indies defeated India by 25 runs in the fourth T20I of the five-match series at the Rajiv Gandhi International Stadium in Hyderabad. The hosts arrived as favourites, given their batting form, but the Shai...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shai-hope-keemo-paul-architect-west-indies-25-run-win-in-4th-t20i-vs-india-series-locked-at-2-2-2026-10-14-1056989",
+    "time": "2026-10-14T17:32:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smriti Mandhana plans to set new standard for Indian T20I side in upcoming Zimbabwe series",
+    "desc": "Newly appointed captain Smriti Mandhana aims to use India's upcoming six-match home series against Zimbabwe to sharpen the team's T20I strategy and establish performance benchmarks ahead of the inaugural Women's Champions Trophy in February 2027....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-plans-to-set-new-standard-for-indian-t20i-side-in-upcoming-zimbabwe-series-2026-10-14-1056985",
+    "time": "2026-10-14T16:15:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yuvraj Singh reveals conversation with Sourav Ganguly before taking up Delhi Capitals coaching role",
+    "desc": "Former India all-rounder Yuvraj Singh has set his sights on helping Delhi Capitals win their maiden Indian Premier League (IPL) title after taking up his first formal coaching assignment as the franchise’s Assistant and Batting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yuvraj-singh-reveals-conversation-with-sourav-ganguly-before-taking-up-delhi-capitals-coaching-role-2026-10-14-1056976",
+    "time": "2026-10-14T14:36:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bengal beat Delhi to kickstart their Ranji Trophy campaign; Gujarat win by 10 wickets",
     "desc": "Bengal and Gujarat opened their Ranji Trophy Group C campaigns with emphatic victories on Wednesday, defeating Delhi by nine wickets and Odisha by 10 wickets, respectively. While Bengal completed a modest chase on the final...",
     "img": "",
@@ -10,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Shimron Hetmyer's cameo ends, West Indies need to cash in on momentum",
+    "title": "West Indies beat India by 25 runs, series finale awaits in Bengaluru",
     "desc": "India and the West Indies head into the fourth T20I in Hyderabad on Wednesday, with the series offering little relief for bowlers as batters have largely dominated across the white-ball contests. The previous match in...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/temba-bavuma-suffers-first-test-defeat-as-captain-as-australia-thrash-south-africa-by-214-runs-2026-10-13-1056852",
     "time": "2026-10-13T11:58:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ayush Mhatre injured again, BCCI CoE again under scanner as Mumbai batter could miss six weeks",
-    "desc": "Mumbai batter Ayush Mhatre is expected to spend another spell on the sidelines after suffering a grade 4 tear in his right hamstring during the opening match of the Ranji Trophy season against Chandigarh at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ayush-mhatre-injured-again-bcci-coe-again-under-scanner-as-mumbai-batter-could-miss-six-weeks-2026-10-13-1056846",
-    "time": "2026-10-13T11:25:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jofra Archer returns, Jos Buttler ruled out as England announce squads for Australia series",
-    "desc": "England have announced a 16-member ODI squad for the upcoming three-match ODI series in Australia. High-profile cricketers, such as Jofra Archer and Jacob Bethell, have returned to the squad, while former captain Jos Buttler has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jofra-archer-returns-jos-buttler-ruled-out-as-england-announce-squads-for-australia-series-2026-10-13-1056837",
-    "time": "2026-10-13T10:39:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul, Yashasvi Jaiswal flop on Ranji return, concerning sign for India ahead of New Zealand series",
-    "desc": "Star India openers KL Rahul and Yashasvi Jaiswal failed to make a mark in their return to the Ranji Trophy. Against Chandigarh, Jaiswal scored a 13-ball duck, while Rahul made 4 and 1, respectively, in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-yashasvi-jaiswal-flop-on-ranji-return-concerning-sign-for-india-ahead-of-new-zealand-series-2026-10-13-1056829",
-    "time": "2026-10-13T10:00:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Attack is best form of defence, explains Chelsea's Joao Pedro after 5-1 win over Bournemouth",
-    "desc": "Chelsea have been a force to reckon with in the Premier League. After missing out on Europe last season, they appointed Xabi Alonso as new head coach and under the Spaniard’s leadership, the London-based club...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/attack-is-best-form-of-defence-explains-chelsea-s-joao-pedro-after-5-1-win-over-bournemouth-2026-10-13-1056814",
-    "time": "2026-10-13T08:10:16.000Z"
   }
 ];
