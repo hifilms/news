@@ -1,5 +1,32 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Kelly Clarkson 'put us in danger,' claims Brooklyn shop owner",
+    "desc": "Kelly Clarkson's dispute with Brooklyn's Art of Play over a $15,000 mechanical singing bird has escalated. Co-owner Adam Rubin claims the singer's public comments have put the shop in danger, alleging threats against people associated with the business. Meanwhile, the automaton, named Molly, now carries a $15 million price tag, despite the shop maintaining it is not for sale.",
+    "img": "https://static.toiimg.com/photo/msid-134954378,imgsize-131987.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kelly-clarkson-has-put-us-in-danger-claims-brooklyn-shop-owner-adam-rubin-after-15000-singing-bird-row-art-of-plays-automaton-now-carries-a-15-million-price-tag/articleshow/134954345.cms",
+    "time": "2026-10-14T22:48:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Matthew spent two days in a West Texas desert reading 20 years of bad reviews",
+    "desc": "Oscar-winning actor Matthew McConaughey, 56, spent two days in the West Texas desert reading 20 years of negative reviews. The $200 million star said the exercise helped him distinguish personal attacks from constructive criticism. Reflecting on his Hollywood journey, McConaughey explained how honest feedback can reveal weaknesses and help actors improve their performances.",
+    "img": "https://static.toiimg.com/photo/msid-134951775,imgsize-36642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/matthew-mcconaughey-56-worth-200-million-spent-two-days-in-a-west-texas-desert-reading-20-years-of-bad-reviews-oscar-winner-reveals-how-he-separated-hate-from-constructive-criticism/articleshow/134951763.cms",
+    "time": "2026-10-14T21:58:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Koder House fire under fresh scrutiny amid probe into synagogue arson",
+    "desc": "Police say there is no information directly linking the Koder House fire to the synagogue arson; forensic examination awaited to establish whether a short circuit caused the blaze at the heritage property; Koder House remains closed; restoration and reopening may require heritage and archaeological clearances",
+    "img": "https://th-i.thgim.com/public/incoming/t32lgj/article71585313.ece/alternates/LANDSCAPE_1200/Kodder_house_12.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/koder-house-fire-under-fresh-scrutiny-amid-probe-into-synagogue-arson/article71584668.ece",
+    "time": "2026-10-14T19:16:49.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Vijay launches ₹3,108-cr. ring main pipeline project for equitable drinking water supply",
     "desc": "The project will interlink all nine water treatment facilities to ensure uninterrupted supply to residents of the GCC area. It involves laying 91.2 km of interconnected pipelines and installing instruments to measure water pressure, flow, and quality at treatment plants and distribution stations",
@@ -43,15 +70,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/not-benefiting-anyone-traders-urge-rahul-to-rethink-sir-protests-amid-festive-season-cite-business-losses/articleshow/134947754.cms",
     "time": "2026-10-14T17:40:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Koder House fire under fresh scrutiny amid probe into synagogue arson",
-    "desc": "Police say there is no information directly linking the Koder House fire to the synagogue arson; forensic examination awaited to establish whether a short circuit caused the blaze at the heritage property; Koder House remains closed; restoration and reopening may require heritage and archaeological clearances",
-    "img": "https://th-i.thgim.com/public/incoming/t32lgj/article71585313.ece/alternates/LANDSCAPE_1200/Kodder_house_12.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/koder-house-fire-under-fresh-scrutiny-amid-probe-into-synagogue-arson/article71584668.ece",
-    "time": "2026-10-14T17:39:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -99,7 +117,7 @@ const newsData_en = [
     "time": "2026-10-14T16:49:46.000Z"
   },
   {
-    "cat": "Politics",
+    "cat": "World",
     "title": "‘Enormous potential’ for India-Canada ties amidst global uncertainty: Canadian Foreign Minister",
     "desc": "Minister Anita Anand is in India along with Minister of International Trade Maninder Sidhu for engagements with External Affairs Minister S. Jaishankar and Commerce Minister Piyush Goyal; the Canadian Minister indicated that PM Modi would visit Canada later in December",
     "img": "https://th-i.thgim.com/public/incoming/3w5yqi/article71584546.ece/alternates/LANDSCAPE_1200/HUl8po4a8AAV-kE.jpg",
@@ -169,15 +187,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/google-deepminds-hassabis-calls-ai-hacks-early-warning-shots/article71585010.ece",
     "time": "2026-10-14T16:05:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "People’s vote and voice cannot be taken away easily: Prabir Purkayastha",
-    "desc": "BJP is trying to come to power in Kerala using the Election Commission of India and the ED, says Manish Sisodia of AAP at a seminar on 'Political persecution by Central agencies’ organised by the AKG Centre for Research and Studies.",
-    "img": "https://th-i.thgim.com/public/incoming/5rf51e/article71584906.ece/alternates/LANDSCAPE_1200/PTI10_14_2026_000464B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/peoples-vote-and-voice-cannot-be-taken-away-easily-prabir-purkayastha/article71584851.ece",
-    "time": "2026-10-14T16:01:54.000Z"
   },
   {
     "cat": "Sports",
@@ -342,15 +351,6 @@ const newsData_en = [
     "time": "2026-10-14T13:53:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Govt set to examine satellite internet, says parliamentary panel chief Nishikant Dubey",
-    "desc": "The Indian parliamentary panel will soon discuss satellite internet services following Elon Musk's allegations about market access and opposition. Musk claims powerful business interests are obstructing Starlink's entry into India while urging competition. The government has rejected these allegations, stating security and regulatory requirements are crucial. BJP MP Nishikant Dubey emphasized security agencies' concerns regarding Starlink's operations.",
-    "img": "https://static.toiimg.com/photo/msid-134943989,imgsize-55326.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/starlink-row-govt-set-to-examine-satellite-internet-says-parliamentary-panel-chief-nishikant-dubey/articleshow/134943629.cms",
-    "time": "2026-10-14T13:26:21.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What does RBI's new Consolidated Account Statement measure benefit you? Explained",
     "desc": "Announced on October 7, 2026, the measures will allow SEBI-regulated depositories to include information related to deposit accounts in CAS. RBI Governor Sanjay Malhotra said the measures would be implemented by December 31, 2026. Let’s understand what all is expected to be consolidated and what it means for you:",
@@ -367,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-prayer-meet-shivaji-satam-rohini-hattangadi-sanjay-jadhav-and-others-pay-tribute-to-the-late-actor-in-mumbai/articleshow/134943744.cms",
     "time": "2026-10-14T13:21:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Woman, lover get death sentence in Blue Drum murder case; US ends automatic work permit extensions &amp; more",
-    "desc": "A Meerut court sentenced Muskan Rastogi and Sahil Shukla to death for murdering Saurabh Rajput, which occurred in March 2025. The court issued the verdict following a trial that included testimony from 22 prosecution witnesses. Meanwhile, the US announced the end of automatic work permit extensions for H-4 visa holders, impacting many Indian spouses.",
-    "img": "https://static.toiimg.com/photo/msid-134943741,imgsize-759789.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-woman-lover-get-death-sentence-in-blue-drum-murder-case-us-ends-automatic-work-permit-extensions-more/articleshow/134943291.cms",
-    "time": "2026-10-14T13:13:28.000Z"
   },
   {
     "cat": "Entertainment",
@@ -405,24 +396,6 @@ const newsData_en = [
     "time": "2026-10-14T12:22:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Journalists slapped with SC/ST Act for casteist slur against ACP on duty",
-    "desc": "The FIR was registered on October 13 at Parliament Street Police Station on the complaint of ACP Vivek Bhagat, who is posted in the Connaught Place subdivision. Journalist Rosy, Gajendra Singh, who is associated with a news portal, and an unidentified person have been named as accused. The case has been registered under provisions of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act.",
-    "img": "https://static.toiimg.com/photo/msid-134942544,imgsize-195738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-protest-journalists-slapped-with-sc/st-act-for-casteist-slur-against-acp-on-duty/articleshow/134941545.cms",
-    "time": "2026-10-14T12:12:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Advancing our Strategic Partnership’: EAM Jaishankar meets Canadian counterpart Anita Anand as India, Canada push to reset ties",
-    "desc": "External Affairs Minister S Jaishankar and Canadian Foreign Minister Anita Anand met to enhance bilateral relations. They discussed trade, investment, energy, defense, and education, aiming to advance the Strategic Partnership. Prime Ministers Modi and Carney also spoke to build momentum towards the India-Canada Comprehensive Economic Partnership Agreement. Canadian corporate delegation is exploring joint ventures in multiple sectors during their visit.",
-    "img": "https://static.toiimg.com/photo/msid-134942052,imgsize-177428.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/advancing-our-strategic-partnership-eam-jaishankar-meets-canadian-counterpart-anita-anand-as-india-canada-push-to-reset-ties/articleshow/134940846.cms",
-    "time": "2026-10-14T12:03:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "T Natarajan returns to SRH for Rs 5 crore; Zeeshan Ansari moves to DC",
     "desc": "In a strategic move before the IPL season begins, Sunrisers Hyderabad and Delhi Capitals have confirmed a player trade. T Natarajan, the left-arm pacer previously known for his significant contributions to SRH, is returning after a term with DC. Meanwhile, leg-spinner Zeeshan Ansari is set to enhance DC's spin attack, having already demonstrated his skills in early matches at his current contract value.",
@@ -439,42 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranauts-queen-forever-gets-a-breather-as-bombay-high-court-refuses-to-stay-sequel-amid-phantom-studios-intellectual-property-dispute/articleshow/134941059.cms",
     "time": "2026-10-14T11:46:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Neetu Kapoor recalls sangeet night with Rishi, where Nusrat Fateh Ali Khan performed",
-    "desc": "In a heartwarming throwback, Neetu Kapoor shared an enchanting snapshot from her wedding festivities with Rishi Kapoor. The picture captures the magic of Nusrat Fateh Ali Khan's performance during their sangeet night. Amidst the excitement, Neetu reflected on the hurdles of their bustling wedding, which led to her fainting, while Rishi also encountered challenges, becoming faint prior to their nuptials, with pickpockets weaving through the delighted guests.",
-    "img": "https://static.toiimg.com/photo/msid-134941518,imgsize-281606.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neetu-kapoor-recalls-sangeet-night-where-nusrat-fateh-ali-khan-performed-and-rishi-kapoor-couldnt-stop-appreciating-him-rarest-of-the-rare/articleshow/134941250.cms",
-    "time": "2026-10-14T11:37:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Your Didi is with you",
-    "desc": "In a message posted on X on Wednesday, Banerjee condemned the arrests of Ashutosh Ranka and Saurav Das, who were sent to judicial custody, and assured young people of her support. “Your Didi is with you - today and forever!” she wrote. The arrests came amid opposition protests in Delhi over alleged electoral irregularities and demands for the resignation of Chief Election Commissioner (CEC) Gyanesh Kumar.",
-    "img": "https://static.toiimg.com/photo/msid-134940824,imgsize-62234.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/your-didi-is-with-you-today-and-forever-mamata-banerjee-to-detained-cjp-activists/articleshow/134939329.cms",
-    "time": "2026-10-14T11:18:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Imran Khan's Karjat home which he designed himself with 3D modelling",
-    "desc": "Imran Khan once spoke about the creative journey behind his environmentally friendly home in Karjat. Taking a hands-on approach, he dedicated considerable time to studying the landscape and its seasonal transitions before crafting his unique design. By utilizing local techniques and materials during construction, he ensured that his residence seamlessly blended with nature. This personalized endeavor proved to be a more economical choice compared to buying pre-existing villas in the vicinity.",
-    "img": "https://static.toiimg.com/photo/msid-134940771,imgsize-264751.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-imran-khans-karjat-home-which-is-a-lavish-vacation-villa-that-he-designed-himself-with-3d-modelling-spent-a-year-observing-the-propertys-sunlight-landscape-seasonal-changes/articleshow/134940518.cms",
-    "time": "2026-10-14T11:16:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Why are you ruining nation?' CJP's Abhijeet Dipke heckled with 'CIA agent' remark at Delhi airport",
-    "desc": "Dipke landed in Delhi a day after his party's co-convenors, Saurav Das and Ashutosh Ranka, surreptitiously climbed a gate at the prohibited area of Jantar Mantar to protest against Chief Election Commissioner (CEC) Gyanesh Kumar and the government, which has denotified Jantar Mantar as a designated protest site. Later, Das and Ranka were sent to 5-day judicial custody on the order of Delhi's special executive magistrate court.",
-    "img": "https://static.toiimg.com/photo/msid-134940599,imgsize-101671.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-are-you-ruining-nation-cjps-abhijeet-dipke-heckled-with-cia-agent-remark-at-delhi-airport/articleshow/134939956.cms",
-    "time": "2026-10-14T11:09:07.000Z"
   },
   {
     "cat": "Sports",
@@ -603,15 +540,6 @@ const newsData_en = [
     "time": "2026-10-14T07:15:30.000Z"
   },
   {
-    "cat": "Business",
-    "title": "What's the outlook for gold on October 14, 2026?",
-    "desc": "Gold prices are trading cautiously, influenced by high US yields and the dollar index. Investors are still purchasing gold despite challenges in the physical market and slowed central bank acquisitions. The upcoming US September CPI is pivotal for the Federal Reserve's actions regarding interest rates.",
-    "img": "https://static.toiimg.com/photo/msid-134934441,imgsize-736216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-october-14-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions-federal-reserve/articleshow/134934158.cms",
-    "time": "2026-10-14T06:25:54.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "What is New York City’s ‘Click to Cancel’ rule, and does India have a similar policy?",
     "desc": "It can feel effortless to sign up online for a gym membership, a grocery subscription, a mobile phone plan, or a magazine delivery. When one wants to cancel the same service, however, the process is often so convoluted and time-consuming that customers end up keeping a subscription they’d prefer to eliminate",
@@ -646,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/vaibhav-sooryavanshi-drops-two-word-message-ahead-of-india-vs-west-indies-4th-t20i/articleshow/134932233.cms",
     "time": "2026-10-14T04:44:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Man buys property with father &amp; wife, gets Rs 55.2 lakh addition notice; what ITAT said",
-    "desc": "A man bought a residential property jointly with his wife and his father. The Income Tax Department reopened his assessment for the 2016-17 assessment year after receiving information through its Risk Management Strategy that he had purchased an immovable property during the 2015-16 financial year. The man then approached the ITAT, challenging both the addition and the calculation underlying it.",
-    "img": "https://static.toiimg.com/photo/msid-134921607,imgsize-338714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/man-jointly-bought-rs-80-lakh-property-with-father-and-wife-but-didnt-file-itr-taxman-added-rs-55-2-lakh-as-unexplained-money-but-itat-grants-relief-after-proof-of-family-contributions/articleshow/134920990.cms",
-    "time": "2026-10-14T04:32:25.000Z"
   },
   {
     "cat": "Sports",
@@ -810,15 +729,6 @@ const newsData_en = [
     "time": "2026-10-13T05:37:25.000Z"
   },
   {
-    "cat": "World",
-    "title": "What are the debates surrounding Nidal Hasan’s execution? | Explained",
-    "desc": "The move to make livestream the execution by firing squad has drawn criticism from activists, lawmakers across party lines, other nations, and international organisations alike for its “barbaric” nature and symbolism linked to autocracy and anarchy",
-    "img": "https://th-i.thgim.com/public/incoming/sf7cb4/article71577953.ece/alternates/LANDSCAPE_1200/Fort_Hood_Shooting_Death_Penalty.JPEG-0730f.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/what-are-the-debates-surrounding-nidal-hasans-execution-explained/article71577926.ece",
-    "time": "2026-10-13T04:41:04.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why does India need a trained workforce for elderly care?",
     "desc": "India’s 60-plus population is projected to touch 347 million by 2050, underscoring the need for a robust caregiving ecosystem; a formal training programme, building on existing small-scale initiatives, could promote gender parity in caregiving and recognise informal, unpaid family caregivers",
@@ -898,5 +808,95 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/why-openais-australia-ai-hack-must-dismay-world-governments/article71550312.ece",
     "time": "2026-10-07T03:01:48.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
   }
 ];
