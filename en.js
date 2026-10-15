@@ -1,21 +1,48 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Wild tusker Chakkakompan uses cleared elephant passage to move to national park in Keralam’s Idukki",
-    "desc": "Forest department recently dismantled illegal fences that had obstructed traditional elephant passages, acting on a directive issued by the Idukki District Collector; the tusker had remained confined to an area for the past 18 months because of the obstruction",
-    "img": "https://th-i.thgim.com/public/incoming/gor8p3/article71540687.ece/alternates/LANDSCAPE_1200/80759_2_10_2026_18_26_52_1_CHAKKANEW.JPG",
+    "title": "Dentist dismissed after joining black flag protest against Minister in Keralam",
+    "desc": "Sidharth Ravindran was working temporarily at the Kanhangad District Hospital under the National Health Mission. He was dismissed after authorities concluded that his participation in the protest violated the terms of the agreement he had signed while joining the service",
+    "img": "https://th-i.thgim.com/public/incoming/c3r2vm/article71544397.ece/alternates/LANDSCAPE_1200/11435_1_10_2026_21_38_19_1_SCREENSHOT_20261001_213750.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/wild-tusker-chakkakompan-uses-cleared-elephant-passage-to-move-to-national-park-in-keralams-idukki/article71540665.ece",
-    "time": "2026-10-15T19:54:05.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/dentist-dismissed-after-joining-black-flag-protest-against-minister-in-keralam/article71544274.ece",
+    "time": "2026-10-15T23:26:45.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Setback for Pinarayi Vijayan, kin as Kerala HC dismisses pleas to appeal against FIR order",
-    "desc": "Dismissing pleas by Pinarayi Vijayan, his daughter T. Veena and son-in-law Mohamed Riyas, Division Bench holds that Single Judge’s October 9 order has not affected the applicants’ right to pursue their constitutional or statutory remedies against registration of FIR",
-    "img": "https://th-i.thgim.com/public/incoming/9rstld/article71586726.ece/alternates/LANDSCAPE_1200/Pinarayi%202%20Thulasi%20Kakkat.jpg",
+    "title": "Dipankar Bhattacharya questions Bihar Assembly Speaker over BJP MLA’s continued membership",
+    "desc": "The CPI(ML)L general secretary cited the case of MLA Manoj Manzil, whose membership was revoked immediately after conviction, to question why Speaker Prem Kumar has taken no decision on BJP MLA Raju Singh’s conviction in a celebratory firing case",
+    "img": "https://th-i.thgim.com/public/incoming/s5m4px/article71544042.ece/alternates/LANDSCAPE_1200/20261004127L.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/cmrl-payoff-case-setback-for-pinarayi-vijayan-kin-as-kerala-hc-dismisses-pleas-to-appeal-against-fir-order/article71586718.ece",
-    "time": "2026-10-15T19:49:22.000Z"
+    "url": "https://www.thehindu.com/news/national/bihar/dipankar-bhattacharya-questions-bihar-assembly-speaker-over-bjp-mlas-continued-membership/article71543878.ece",
+    "time": "2026-10-15T23:06:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP nominates former Trinamool MP Koel Mallick to Rajya Sabha",
+    "desc": "The nomination of former Trinamool Congress MPs to Rajya Sabha has sparked a debate about “Trinamoolisation of the BJP” with a section of party leaders saying that the party was accommodating those who faught against the BJP before the party came to power in WB.",
+    "img": "https://th-i.thgim.com/public/incoming/nhollh/article71543281.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-16%20154207.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/bjp-nominates-former-trinamool-mp-koel-mallick-to-rajya-sabha/article71543269.ece",
+    "time": "2026-10-15T22:59:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kiran Rao reacts to Imran Khan's 'leave India' notice",
+    "desc": "Filmmaker Kiran Rao has expressed support for actor Imran Khan, who has been ordered to leave India. The Maharashtra police issued a notice to Khan following his participation in a protest against the Chief Election Commissioner. Khan's lawyer plans to challenge the order in the Bombay High Court, arguing that it violates his rights as an Overseas Citizen of India.",
+    "img": "https://static.toiimg.com/photo/msid-134978973,imgsize-264383.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kiran-rao-reacts-to-aamir-khans-nephew-imran-khans-leave-india-notice-says-wah-now-its-mumbai-police/articleshow/134978920.cms",
+    "time": "2026-10-15T22:38:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Godfather' star Al Pacino to receive award from SAG-AFTRA",
+    "desc": "Al Pacino will be honored with the SAG-AFTRA Life Achievement Award for his impressive career and humanitarian contributions. The award will be presented at the 33rd Actor Awards ceremony in Los Angeles on February 28, 2027. Al Pacino is recognized for his memorable roles, including Michael Corleone in 'The Godfather' films and Tony Montana in 'Scarface.' He has won numerous prestigious awards, including an Oscar for 'Scent of a Woman.",
+    "img": "https://static.toiimg.com/photo/msid-134976725,imgsize-114951.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/godfather-star-al-pacino-to-receive-life-achievement-award-from-actors-guild-says-its-an-honor-to-be-recognized-by-sag-aftra/articleshow/134976707.cms",
+    "time": "2026-10-15T21:30:59.000Z"
   },
   {
     "cat": "Business",
@@ -27,15 +54,6 @@ const newsData_en = [
     "time": "2026-10-15T19:30:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Vice-President’s visit: tight security arrangements in place in Kozhikode",
-    "desc": "Traffic restrictions will be in place in Kozhikode city from 4 p.m. on Friday. The restrictions will cover the route from Ramanattukara-Airport Road junction through Thondayad, Arayidathupalam, Mavoor Road, Mananchira, Palayam, and Pushpa Junction to Chalappuram",
-    "img": "https://th-i.thgim.com/public/incoming/svgro4/article71589903.ece/alternates/LANDSCAPE_1200/V-P-to-inauguraG1PGFF6FP.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/vice-presidents-visit-tight-security-arrangements-in-place-in-kozhikode/article71587836.ece",
-    "time": "2026-10-15T19:22:03.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kamal Haasan congratulates Rajinikanth as 'Jailer 2' turns superhit",
     "desc": "Kamal Haasan has lauded his longtime friend Rajinikanth following the remarkable success of 'Jailer 2', which became a superhit just days after its premiere on October 15, 2026. The film has garnered widespread accolades from various celebrities, who have applauded its thrilling narrative and stellar performances. Director Nelson Dilipkumar expressed his heartfelt thanks for the glowing reviews from industry veterans, suggesting that the film will continue to thrive with audiences.",
@@ -43,24 +61,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kamal-haasan-congratulates-rajinikanth-as-jailer-2-turns-superhit-heartfelt-congratulations-to-my-friend/articleshow/134974796.cms",
     "time": "2026-10-15T18:32:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM cites hurdles in Kannur airport runway expansion plan",
-    "desc": "Land acquisition notification issued in 2017, but process yet to begin; affected residents reject rehabilitation package, demand original package or ₹15 lakh; proposed acquisition of 99.3235 hectares in Keezhallur under review over site’s unsuitability for runway expansion",
-    "img": "https://th-i.thgim.com/public/incoming/7nbxel/article71589534.ece/alternates/LANDSCAPE_1200/20261012006L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/cm-cites-hurdles-in-kannur-airport-runway-expansion-plan/article71588201.ece",
-    "time": "2026-10-15T18:08:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "90,000 devotees throng Vijayawada Kanaka Durga temple on fifth day of Dasara celebrations",
-    "desc": "Special rituals performed and haratis offered to the presiding deities atop Indrakeeladri; deities taken out in a grand procession along the Krishna riverfront and ghat road as part of the Nagarotsavam; devotional music, Harikatha and classical dance performances add to the festivities",
-    "img": "https://th-i.thgim.com/public/incoming/3wh1gr/article71589501.ece/alternates/LANDSCAPE_1200/DSC_5633.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Vijayawada/90000-devotees-throng-vijayawada-kanaka-durga-temple-on-fifth-day-of-dasara-celebrations/article71588749.ece",
-    "time": "2026-10-15T18:00:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -306,15 +306,6 @@ const newsData_en = [
     "time": "2026-10-15T14:04:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "IMD announces onset of winter monsoon in south Peninsular India, summer monsoon withdrawal completes on normal date",
-    "desc": "The southwest monsoon in India withdrew on schedule. Simultaneously, the northeast monsoon commenced, bringing rainfall to parts of south Peninsular India. Regions including Tamil Nadu, Puducherry, and coastal Andhra Pradesh experienced the initial winter rainfall. Predictions indicate a normal winter monsoon may provide relief after a significant summer rainfall deficit.",
-    "img": "https://static.toiimg.com/photo/msid-134969607,imgsize-126324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/imd-announces-onset-of-winter-monsoon-in-south-peninsular-india-summer-monsoon-withdrawal-completes-on-normal-date/articleshow/134969347.cms",
-    "time": "2026-10-15T13:41:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Stellar Abhishek, Super Tilak power India to gold despite Nawaz heroics for Pakistan",
     "desc": "The pitch was a tricky one but eased out later as world’s No. 1 T20I batter Abhishek smashed 61 off 28 balls, with seven sixes, and vice-captain Tilak silenced his critics with a top-notch unbeaten 51 off 22 balls",
@@ -331,24 +322,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/sports-ministry-reviews-indias-asian-games-performance-demands-results-and-future-proofing/article71588496.ece",
     "time": "2026-10-15T13:33:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ex-IAS Divya Mittal launches own party: 10 civil servants who quit service to enter politics",
-    "desc": "Divya Mittal, an ex-IAS officer, has established the Jan Neeti Bharat party in preparation for the forthcoming elections. With a focus on enhancing citizen participation in policymaking rather than adhering to conventional governance methods, she aims to make a significant impact. Her decision to retire after 13 years in civil service aligns with a trend of bureaucrats entering politics.",
-    "img": "https://static.toiimg.com/photo/msid-134969396,imgsize-80488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ex-ias-divya-mittal-launches-own-party-10-civil-servants-who-quit-service-to-enter-politics/articleshow/134969157.cms",
-    "time": "2026-10-15T13:31:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "EC announces Special Summary Revision of voters' list in 17 states amid SIR row",
-    "desc": "While a Summary Revision focuses on new eligibles and routine corrections, SIR goes far deeper, involving statewide house-to-house verification, detailed scrutiny of entries, and large-scale data audits. For instance, under a Summary Revision, a voter who has shifted homes must file a form to update their address. Under SIR, the Booth Level Officer visits that address, confirms whether the voter still lives there, checks if anyone new has become eligible, and updates the roll based on physical verification rather than waiting for the voter to initiate the change.",
-    "img": "https://static.toiimg.com/photo/msid-134969276,imgsize-100602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ec-announces-special-summary-revision-of-voters-list-in-17-states-amid-sir-row/articleshow/134969117.cms",
-    "time": "2026-10-15T13:25:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -460,15 +433,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "SC lets Rajpal Yadav seek passport release for Canada film shoot",
-    "desc": "In a significant development, Rajpal Yadav has won permission to recover his passport for a film project in Canada, as endorsed by the Supreme Court amidst ongoing cheque-bounce litigation. The court's decision encourages mediation between Yadav and his creditors in hopes of reaching a peaceful resolution to the financial troubles that escalated from a film-related loan, leading to bounced checks.",
-    "img": "https://static.toiimg.com/photo/msid-134965990,imgsize-394182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/supreme-court-lets-rajpal-yadav-seek-passport-release-for-canada-film-shoot-sends-cheque-bounce-dues-dispute-to-mediation/articleshow/134965746.cms",
-    "time": "2026-10-15T11:11:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "When a man becomes god: The story of Kathivanoor Veeran Theyyam",
     "desc": "What does it take for a man to become a god? In North Keralam, Theyyam artistes undergo hours of rituals, makeup and transformation to embody deities. Follow Vinu Peruvannan as he becomes Kathivanoor Veeran, a warrior-turned-deity, and discover the folklore, fire and faith behind Keralam’s extraordinary Theyyam tradition.",
     "img": "https://th-i.thgim.com/public/incoming/ve252d/article71587200.ece/alternates/LANDSCAPE_1200/When%20Man%20Becomes%20God_Theyyam.png",
@@ -574,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/batting-unit-needs-to-show-more-responsibility-sunil-gavaskar-slams-indian-batters-after-4th-t20i-loss-to-west-indies/articleshow/134961738.cms",
     "time": "2026-10-15T08:10:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Imran asked to leave India by Oct 28 for participating in protests despite being a non-Indian citizen",
-    "desc": "In a bold stand at Mumbai's August Kranti Maidan, actor Imran Khan demanded the resignation of Chief Election Commissioner Gyanesh Kumar. The protest culminated in a short detention by police, triggering a 'Leave India Notice' due to his non-citizen status. On social media, Khan posted a gripping image from inside the police van, underscoring the protest's significance against the backdrop of escalating political tensions in New Delhi.",
-    "img": "https://static.toiimg.com/photo/msid-134961426,imgsize-293288.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imran-khan-asked-to-leave-india-by-october-28-by-mumbai-police-for-participating-in-cjp-protests-despite-being-a-non-indian-citizen-as-per-provisions-of-the-immigration-act/articleshow/134961365.cms",
-    "time": "2026-10-15T07:50:14.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/oppo-unveils-coloros-17-to-debut-with-find-x10-series-on-oct-22-in-india/article71579485.ece",
     "time": "2026-10-13T13:08:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Andrew Schulz on playing Dan Hibiki in ‘Street Fighter’: ‘It’s like choosing an MLS team on FIFA’",
+    "desc": "From discovering that Dan Hibiki was designed to humiliate opponents to beating the ‘Street Fighter’ game director with him, the stand-up comedian discusses childhood arcade rivalries, Hollywood’s video-game obsession, the cast’s actual fighting abilities and why his own contribution to the film was best left to comedy rather than abs",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/8o74gj/article71579368.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/andrew-schulz-interview-dan-hibiki-street-fighter-movie-2026/article71579207.ece",
+    "time": "2026-10-13T12:38:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "James Spader and Terry Matalas on resurrecting Ultron in the age of AI for Marvel’s ‘VisionQuest’",
+    "desc": "A decade after James Spader’s genocidal AI tried to save the planet by wiping out its inhabitants, Marvel’s ‘VisionQuest’ gives Ultron another chance to reconsider humanity, with a little help from the arts and perhaps a little more from Jimi Hendrix",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/1pxgqg/article71578249.ece/alternates/LANDSCAPE_1200/VisionQuest_TF_3.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/james-spader-and-terry-matalas-on-resurrecting-ultron-in-the-age-of-ai-for-marvels-visionquest/article71578248.ece",
+    "time": "2026-10-13T09:46:15.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Delhi Police ramp up ‘perception’ campaign, identifies 500 people, 200 social media channels ahead of October 10 protest",
+    "desc": "After the July protest, police step up a ‘cyber warfare’ strategy to counter online narratives and circulate videos of injured personnel and alleged clashes; officials examine why their social media content failed to gain traction",
+    "img": "https://th-i.thgim.com/public/incoming/gaek9f/article71560345.ece/alternates/LANDSCAPE_1200/2026-10-07T142626Z_858694076_RC2BYNA1EVK0_RTRMADP_3_INDIA-POLITICS-PROTEST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-ramp-up-perception-campaign-identifies-500-people-social-media-channels-ahead-of-october-10-protest/article71560264.ece",
+    "time": "2026-10-08T17:50:09.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
