@@ -1,12 +1,165 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Rahul Gandhi urges President to reconsider Dushyant Gautam’s appointment as Governor over pending CBI probe",
-    "desc": "Rahul Gandhi referred to the Ankita Bhandari murder case and said the appointment raised concerns because Article 361 of the Constitution provides immunity to the President and Governors from criminal proceedings while they hold office",
-    "img": "https://th-i.thgim.com/public/incoming/u7bg50/article71589490.ece/alternates/LANDSCAPE_1200/20261014540L.jpg",
+    "title": "Wild tusker Chakkakompan uses cleared elephant passage to move to national park in Keralam’s Idukki",
+    "desc": "Forest department recently dismantled illegal fences that had obstructed traditional elephant passages, acting on a directive issued by the Idukki District Collector; the tusker had remained confined to an area for the past 18 months because of the obstruction",
+    "img": "https://th-i.thgim.com/public/incoming/gor8p3/article71540687.ece/alternates/LANDSCAPE_1200/80759_2_10_2026_18_26_52_1_CHAKKANEW.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rahul-gandhi-urges-president-to-reconsider-dushyant-gautams-appointment-as-governor-over-pending-cbi-probe/article71588989.ece",
-    "time": "2026-10-15T16:09:29.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/wild-tusker-chakkakompan-uses-cleared-elephant-passage-to-move-to-national-park-in-keralams-idukki/article71540665.ece",
+    "time": "2026-10-15T19:54:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Setback for Pinarayi Vijayan, kin as Kerala HC dismisses pleas to appeal against FIR order",
+    "desc": "Dismissing pleas by Pinarayi Vijayan, his daughter T. Veena and son-in-law Mohamed Riyas, Division Bench holds that Single Judge’s October 9 order has not affected the applicants’ right to pursue their constitutional or statutory remedies against registration of FIR",
+    "img": "https://th-i.thgim.com/public/incoming/9rstld/article71586726.ece/alternates/LANDSCAPE_1200/Pinarayi%202%20Thulasi%20Kakkat.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/cmrl-payoff-case-setback-for-pinarayi-vijayan-kin-as-kerala-hc-dismisses-pleas-to-appeal-against-fir-order/article71586718.ece",
+    "time": "2026-10-15T19:49:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Land shortage cripples Agriculture Ministry’s weather network rollout",
+    "desc": "Project is a year behind deadline, with over 96% of planned rain gauges and weather stations yet to be installed; private partners say IMD is retrospectively insisting that sensors be installed on the ground, not on rooftops",
+    "img": "https://th-i.thgim.com/public/news/national/pe9p6o/article71589784.ece/alternates/LANDSCAPE_1200/Untitled.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/land-shortage-cripples-agriculture-ministry-weather-network/article71588890.ece",
+    "time": "2026-10-15T19:30:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vice-President’s visit: tight security arrangements in place in Kozhikode",
+    "desc": "Traffic restrictions will be in place in Kozhikode city from 4 p.m. on Friday. The restrictions will cover the route from Ramanattukara-Airport Road junction through Thondayad, Arayidathupalam, Mavoor Road, Mananchira, Palayam, and Pushpa Junction to Chalappuram",
+    "img": "https://th-i.thgim.com/public/incoming/svgro4/article71589903.ece/alternates/LANDSCAPE_1200/V-P-to-inauguraG1PGFF6FP.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/vice-presidents-visit-tight-security-arrangements-in-place-in-kozhikode/article71587836.ece",
+    "time": "2026-10-15T19:22:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kamal Haasan congratulates Rajinikanth as 'Jailer 2' turns superhit",
+    "desc": "Kamal Haasan has lauded his longtime friend Rajinikanth following the remarkable success of 'Jailer 2', which became a superhit just days after its premiere on October 15, 2026. The film has garnered widespread accolades from various celebrities, who have applauded its thrilling narrative and stellar performances. Director Nelson Dilipkumar expressed his heartfelt thanks for the glowing reviews from industry veterans, suggesting that the film will continue to thrive with audiences.",
+    "img": "https://static.toiimg.com/photo/msid-134974906,imgsize-755730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kamal-haasan-congratulates-rajinikanth-as-jailer-2-turns-superhit-heartfelt-congratulations-to-my-friend/articleshow/134974796.cms",
+    "time": "2026-10-15T18:32:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM cites hurdles in Kannur airport runway expansion plan",
+    "desc": "Land acquisition notification issued in 2017, but process yet to begin; affected residents reject rehabilitation package, demand original package or ₹15 lakh; proposed acquisition of 99.3235 hectares in Keezhallur under review over site’s unsuitability for runway expansion",
+    "img": "https://th-i.thgim.com/public/incoming/7nbxel/article71589534.ece/alternates/LANDSCAPE_1200/20261012006L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/cm-cites-hurdles-in-kannur-airport-runway-expansion-plan/article71588201.ece",
+    "time": "2026-10-15T18:08:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "90,000 devotees throng Vijayawada Kanaka Durga temple on fifth day of Dasara celebrations",
+    "desc": "Special rituals performed and haratis offered to the presiding deities atop Indrakeeladri; deities taken out in a grand procession along the Krishna riverfront and ghat road as part of the Nagarotsavam; devotional music, Harikatha and classical dance performances add to the festivities",
+    "img": "https://th-i.thgim.com/public/incoming/3wh1gr/article71589501.ece/alternates/LANDSCAPE_1200/DSC_5633.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Vijayawada/90000-devotees-throng-vijayawada-kanaka-durga-temple-on-fifth-day-of-dasara-celebrations/article71588749.ece",
+    "time": "2026-10-15T18:00:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Raza Murad and Gajendra Chauhan support 'leave India' notice to Imran Khan",
+    "desc": "In a recent protest, actors Raza Murad and Gajendra Chauhan commented on Imran Khan's involvement, urging the government to send him back to Pakistan by October 28. Murad condemned foreign interference in Indian matters and supported police actions, while Chauhan pointed out the legal limitations for Overseas Citizens of India. They warned of serious consequences for breaching residency terms. Read on.",
+    "img": "https://static.toiimg.com/photo/msid-134973914,imgsize-512871.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raza-murad-and-gajendra-chauhan-back-leave-india-notice-to-imran-khan-he-has-no-right-to-intervene-in-the-internal-affairs-of-our-country-report/articleshow/134973779.cms",
+    "time": "2026-10-15T17:54:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s current account deficit narrows to $5.2 billion in August, RBI data shows",
+    "desc": "India's overall balance of payments showed a surplus of $45.4 billion in August 2026. This significant surplus is attributed to an increase in foreign currency inflows, especially from non-resident Indian deposits. The current account deficit also narrowed slightly to $5.2 billion during the same month. Foreign direct investment improved, with net inflows of $3.3 billion recorded.",
+    "img": "https://static.toiimg.com/photo/msid-134973580,imgsize-66934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-current-account-deficit-narrows-to-5-2-billion-in-august-rbi-data-shows/articleshow/134973365.cms",
+    "time": "2026-10-15T17:39:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India sourced more than two-thirds of its August oil imports from just three countries",
+    "desc": "While Russia’s share in India’s oil imports fell to 44%, from a historic high in July, the shares of both the U.S. and the UAE surged, resulting in the cumulative shares of the three countries reached an all-time high",
+    "img": "https://th-i.thgim.com/public/news/17l39l/article71589764.ece/alternates/LANDSCAPE_1200/jealous.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/india-sourced-more-than-two-thirds-of-its-august-oil-imports-from-just-three-countries/article71587667.ece",
+    "time": "2026-10-15T17:37:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Commercial goods are no longer entering Gaza, raising fears of worsening shortages in the territory",
+    "desc": "Merchants in Gaza coordinate directly with vendors outside the territory, whose shipments are examined by Israel's military before entering Gaza; the Ministry had been asking merchants to pay 10,000 shekels (about $3,226) per truck entering Gaza, the head of private truckers union said",
+    "img": "https://th-i.thgim.com/public/incoming/5n5wre/article71589786.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_Gaza_5_88_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/commercial-goods-are-no-longer-entering-gaza-raising-fears-of-worsening-shortages-in-the-territory/article71589618.ece",
+    "time": "2026-10-15T17:33:15.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S.-Russia talks on Ukraine involve multi-billion dollar oil deal: report",
+    "desc": "The deal, ‌which ⁠is contingent on approval from ⁠the U.S. government and the Kremlin, involves a sprawling set of oil fields, refineries and ​gas stations around ‌the world owned by Russian energy group Lukoil, according to the report.",
+    "img": "https://th-i.thgim.com/public/incoming/a0blxh/article71541509.ece/alternates/LANDSCAPE_1200/2026-09-23T215100Z_460740872_RC2Z7GA62BPA_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-G20.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-russia-talks-on-ukraine-involve-multi-billion-dollar-oil-deal-report/article71541486.ece",
+    "time": "2026-10-15T17:16:55.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "New China-North Korea bridge opens after more than a decade of delay",
+    "desc": "The New Yalu River Bridge initially was expected to enter use in 2014, when China had apparently completed construction on its side. But North Korea had not done corresponding work on its side at the time",
+    "img": "https://th-i.thgim.com/public/incoming/ymsc4p/article71589750.ece/alternates/LANDSCAPE_1200/2026-10-15T103925Z_834472537_RC2L3OAE1W1Q_RTRMADP_3_CHINA-NORTHKOREA-BRIDGE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/new-china-north-korea-bridge-opens-after-more-than-a-decade-of-delay/article71589742.ece",
+    "time": "2026-10-15T17:16:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Will stand with Pakistan if US attacks’: Rajasthan BJP chief’s remark sparks Congress backlash",
+    "desc": "Rajasthan BJP president Madan Rathore stated that India would align with Pakistan in a potential US-Pakistan conflict. This statement has drawn significant criticism from Congress leaders, including Shama Mohamed. Mohamed questioned the BJP's stance and asked for clarification from Prime Minister Narendra Modi and Amit Shah. Rathore also accused Rahul Gandhi of inciting unrest and mentioned foreign interference in India's stability.",
+    "img": "https://static.toiimg.com/photo/msid-134972794,imgsize-100936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/will-stand-with-pakistan-if-us-attacks-rajasthan-bjp-chiefs-remark-sparks-congress-backlash/articleshow/134972702.cms",
+    "time": "2026-10-15T17:05:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Ukraine resumes attacks on Russian oil refineries as U.S. relations teeter",
+    "desc": "Ukraine President Zekenskyy said “we are losing a strong partner” in the United States. He said that “it's painful when President Trump chooses one side, not our side. But we are OK that he's in the middle”",
+    "img": "https://th-i.thgim.com/public/incoming/9jk8u1/article71589704.ece/alternates/LANDSCAPE_1200/2026-10-15T112352Z_665012958_RC2M3OA45VAX_RTRMADP_3_UKRAINE-CRISIS-ATTACK-AIRCRAFT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ukraine-resumes-attacks-on-russian-oil-refineries-as-us-relations-teeter/article71589573.ece",
+    "time": "2026-10-15T17:02:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Flat redeveloped and sold for Rs 1.95 crore in 8 days; taxman denies LTCG, ITAT grants relief",
+    "desc": "The man had purchased a 510-square-foot flat in a housing society in Mumbai, during FY 2006-07, where he lived with his wife. Many years later, in FY 2012-13, the housing society entered into a redevelopment agreement with a builder. The builder handed over the redeveloped flat to the man after the two parties entered into an Agreement for Permanent Alternate Accommodation in 2018.",
+    "img": "https://static.toiimg.com/photo/msid-134970127,imgsize-425424.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/he-bought-a-home-gave-it-for-redevelopment-years-later-and-sold-new-flat-for-rs-1-95-crore-within-8-days-taxman-denied-ltcg-exemption-and-added-rs-80-14-lakh-but-itat-grants-relief/articleshow/134969634.cms",
+    "time": "2026-10-15T16:49:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kareena sets the internet buzzing in a red Bandhani suit",
+    "desc": "Kareena Kapoor Khan recently dazzled in a stunning red Bandhani suit, sharing moments from her visit to 'The Great Indian Kapil Show' alongside husband Saif Ali Khan. Host Kapil Sharma captured the audience's infectious energy as the couple graced the set. Enthusiastic fans flocked to snap photos with the couple. Fans can look forward to Kareena's upcoming appearance in the sequel to 'Crew' with Kriti Sanon and Tabu.",
+    "img": "https://static.toiimg.com/photo/msid-134972026,imgsize-468796.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khan-sets-the-internet-buzzing-in-a-red-bandhani-suit-and-statement-earrings-poses-to-diljit-dosanjhs-what-ve/articleshow/134971876.cms",
+    "time": "2026-10-15T16:27:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC Bar Association files criminal contempt plea against Sanjay Raut, Nikhil Wagle",
+    "desc": "Attorney General R Venkataramani has since granted consent to initiate criminal contempt proceedings against the two under the Contempt of Courts Act. The statements came after Chief Justice of India (CJI) declined a request last week from a delegation of opposition parties to meet him in person. The CJI said the delegation could instead file a petition before the court.",
+    "img": "https://static.toiimg.com/photo/msid-134971840,imgsize-81128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-bar-association-files-criminal-contempt-plea-against-sanjay-raut-nikhil-wagle/articleshow/134971540.cms",
+    "time": "2026-10-15T16:21:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -18,15 +171,6 @@ const newsData_en = [
     "time": "2026-10-15T15:59:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Red tape leaves UGC’s social inclusion scheme in limbo, leads to salary crisis",
-    "desc": "Prominent universities that conduct two-year Master’s programmes, five-year PhD courses under the centre include Banaras Hindu University, Jamia Millia Islamia, the University of Hyderabad, the Tata Institute of Social Sciences, and Panjab University amongst others",
-    "img": "https://th-i.thgim.com/public/incoming/fa7shs/article71540499.ece/alternates/LANDSCAPE_1200/Centre-concedesGNSG91TEE.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/education/red-tape-leaves-ugcs-social-inclusion-scheme-in-limbo-leads-to-salary-crisis/article71540281.ece",
-    "time": "2026-10-15T15:57:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Bowlers shouldn’t be too hard on themselves on bad days: Paul",
     "desc": "“We have some pretty long team bowling meetings. So we don’t take that (success with the ball) for granted. I knew what I wanted to do, I knew what my field setting was, and I knew my plan,” Keemo Paul said",
@@ -36,6 +180,15 @@ const newsData_en = [
     "time": "2026-10-15T15:55:40.000Z"
   },
   {
+    "cat": "Business",
+    "title": "India-China trade jumps 29% to $91.76 billion, overtakes US in first half of FY27",
+    "desc": "India's bilateral trade with China rose significantly in the first half of the financial year. Trade with the US also increased, although the surplus narrowed. Exports to various countries, including Singapore and Tanzania, showed substantial growth. However, imports from some nations declined during this period. Overall, projections for India's merchandise exports remain optimistic as growth trends continue.",
+    "img": "https://static.toiimg.com/photo/msid-134971449,imgsize-130980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-china-trade-jumps-29-to-91-76-billion-overtakes-us-in-first-half-of-fy27/articleshow/134971325.cms",
+    "time": "2026-10-15T15:54:42.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "IGL rolls out AI system to check CNG cylinder safety at pumps",
     "desc": "Indraprastha Gas Ltd has implemented an AI-enabled vehicle recognition system at various CNG stations in Delhi. This technology checks the hydrotest status of CNG cylinders to enhance safety measures. It ensures that vehicles with invalid certifications are alerted and refuelling is halted. The initiative follows a cylinder blast incident, prompting stricter enforcement of safety norms. The system will soon be deployed at all CNG stations managed by IGL.",
@@ -43,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/igl-rolls-out-ai-system-to-check-cng-cylinder-safety-at-pumps/articleshow/134971405.cms",
     "time": "2026-10-15T15:54:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vigilance recovers bribe money flushed down toilet, arrests official in Keralam",
-    "desc": "As per a trap set by the Vigilance, complainant pays public health inspector ₹10,000 as bribe for licence for a newly opened restaurant. When VACB officials knock the door, he flushes it down the toilet, but confesses later",
-    "img": "https://th-i.thgim.com/public/incoming/rs2hx1/article71541039.ece/alternates/LANDSCAPE_1200/iStock-611631070%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/vigilance-recovers-bribe-money-flushed-down-toilet-arrests-official-in-keralam/article71540663.ece",
-    "time": "2026-10-15T15:41:36.000Z"
   },
   {
     "cat": "Politics",
@@ -207,31 +351,13 @@ const newsData_en = [
     "time": "2026-10-15T13:25:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India seeks US probe into Illinois Hindu temple attack plot; BJP calls Rahul 'anarchic' &amp; more",
-    "desc": "Men cheered outside a bathroom where a woman was reportedly being sexually assaulted at a Chicago party. India has called for a US investigation into a potential mass shooting plot against a Hindu temple. The BJP criticized Rahul Gandhi for undermining institutions during protests against the chief election commissioner. Congress questioned the government’s silence on Marco Rubio's planned visit to India.",
-    "img": "https://static.toiimg.com/photo/msid-134969146,imgsize-614434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-india-seeks-us-probe-into-illinois-hindu-temple-attack-plot-bjp-calls-rahul-anarchic-more/articleshow/134968501.cms",
-    "time": "2026-10-15T13:20:35.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Cards were printed'",
     "desc": "During an earlier episode on 'Koffee With Karan', Salman Khan opened up about his former relationship with actress Sangeeta Bijlani, mentioning that they had even printed wedding invitations before things took a different turn. Sangeeta echoed this sentiment on a recent TV show, further confirming their wedding intentions. Despite their breakup, the duo shares a cordial relationship that continues to intrigue fans, marking their story as a memorable aspect of Salman's romantic history.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "img": "https://static.toiimg.com/photo/msid-134974715,imgsize-202346.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-salman-khan-revealed-he-came-close-to-getting-married-to-sangeeta-bijlani-even-wedding-cards-were-printed-heres-why-it-was-called-off/articleshow/134968863.cms",
     "time": "2026-10-15T13:10:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why Brazil's presidential election matters for Brics and India",
-    "desc": "Brics began with five members and grew to eleven after the 2024 expansion, with Indonesia the newest, joining in 2025. Brazil opposed the enlargement, particularly because of the one nation. Iran. It feared that adding the avowedly anti-West Islamic Republic would cost the group its cohesion. Like India, Brazil wants Brics to be reformist and not revolutionary, thereby limiting it to a body that argues for change inside the existing order rather than one that tries to replace it.",
-    "img": "https://static.toiimg.com/photo/msid-134968673,imgsize-290950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/lula-or-bolsonaro-why-brazils-presidential-election-matters-for-brics-and-india/articleshow/134968944.cms",
-    "time": "2026-10-15T13:08:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -241,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlals-jailer-2-stylist-questions-actors-reduced-screen-time-in-rajinikanth-starrer-claims-three-looks-were-trimmed-from-final-cut-and-rules-out-working-on-sequel/articleshow/134968357.cms",
     "time": "2026-10-15T12:43:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Anything possible in politics’: Sachin Pilot on speculation over Amarinder Singh’s return to Congress",
-    "desc": "Sachin Pilot remarked on the potential for Captain Amarinder Singh's return to Congress, emphasizing that politics is unpredictable. While Singh expressed dissatisfaction with the BJP, he has not discussed his future political plans with Pilot. Singh previously led the Congress in Punjab and left over internal conflicts within the party. He later formed the Punjab Lok Congress which did not succeed in recent elections.",
-    "img": "https://static.toiimg.com/photo/msid-134968267,imgsize-1134355.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/anything-possible-in-politics-sachin-pilot-on-speculation-over-amarinder-singhs-return-to-congress/articleshow/134967922.cms",
-    "time": "2026-10-15T12:35:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -268,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nushrratt-bharuccha-discharged-from-hospital-after-successful-spine-surgery-due-to-accident-in-bali-official-statement-says-she-remains-positive-and-is-focusing-on-healing-and-regaining-her-strength/articleshow/134967874.cms",
     "time": "2026-10-15T12:24:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt issues clarification on 'unconditional apology' in SC over internet shutdown",
-    "desc": "In a statement, the government reacted to the media reports that the Union home secretary Govind Mohan had tendered an unconditional apology to the Supreme Court in response to a contempt notice. It said whenever the Supreme Court issues a contempt notice, the party responding to it is required to begin its affidavit with an unconditional apology, followed by the presentation of other facts and arguments.",
-    "img": "https://static.toiimg.com/photo/msid-134967852,imgsize-198262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/govt-issues-clarification-on-unconditional-apology-in-sc-over-internet-shutdown/articleshow/134967376.cms",
-    "time": "2026-10-15T12:19:07.000Z"
   },
   {
     "cat": "Business",
@@ -361,15 +469,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "‘Jailer 2’ action director reveals blast behind Rajinikanth in trailer was real",
-    "desc": "In 'Jailer 2', a real explosion is shown behind Rajinikanth, enhancing the action sequences. Stunt and action director Chethan D’Souza discussed the clarity of director Nelson Dilipkumar’s vision. Rajinikanth's humble nature is highlighted through his willingness to seek feedback from the stunt team. The film features significant cast members alongside Rajinikanth, including Mithun Chakraborty and Mohanlal. Audiences can expect more exciting surprises in the film’s action sequences.",
-    "img": "https://static.toiimg.com/photo/msid-134965589,imgsize-109531.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/the-blast-behind-rajinikanth-sir-was-real-jailer-2-stunt-director-chethan-dsouza-reveals-how-the-team-created-the-films-explosive-action-sequences/articleshow/134965488.cms",
-    "time": "2026-10-15T10:56:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "When a man becomes god: The story of Kathivanoor Veeran Theyyam",
     "desc": "What does it take for a man to become a god? In North Keralam, Theyyam artistes undergo hours of rituals, makeup and transformation to embody deities. Follow Vinu Peruvannan as he becomes Kathivanoor Veeran, a warrior-turned-deity, and discover the folklore, fire and faith behind Keralam’s extraordinary Theyyam tradition.",
     "img": "https://th-i.thgim.com/public/incoming/ve252d/article71587200.ece/alternates/LANDSCAPE_1200/When%20Man%20Becomes%20God_Theyyam.png",
@@ -394,24 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/no-more-guessing-whos-calling-govt-mandates-caller-id-display-from-november-1/articleshow/134964658.cms",
     "time": "2026-10-15T10:32:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anupama Parameswaran says narcissistic abuse nearly made her quit acting",
-    "desc": "Anupama Parameswaran has shared her experiences with narcissistic abuse and the emotional struggles it caused her. She emphasized the impact it had on her self-image and acting performances. Anupama acknowledged seeking therapy and the importance of finding the right support for recovery. Speaking out about her experiences has helped others recognize similar patterns in their lives. Her openness has contributed to increased awareness of narcissistic abuse in South India.",
-    "img": "https://static.toiimg.com/photo/msid-134964453,imgsize-107151.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/i-came-close-to-quitting-acting-anupama-parameswaran-recalls-the-toll-of-narcissistic-abuse-says-every-day-is-survival-mode-as-she-struggled-to-recognise-herself-amid-dhruv-vikram-rumours/articleshow/134964342.cms",
-    "time": "2026-10-15T10:16:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Saiyami Kher defends Katrina, Aishwarya against body shaming",
-    "desc": "Saiyami Kher has called out social media trolls targeting female actors over their appearances, defending Katrina Kaif and Aishwarya Rai Bachchan against unsolicited public scrutiny. In an exclusive conversation with Mid-Day, the actor said women deserve privacy and should not be judged for their personal choices. As she completes 10 years in the entertainment industry, Saiyami also reflects on rejection, redefining success, choosing substantial female roles and staying authentic despite Bollywood’s expectations.",
-    "img": "https://static.toiimg.com/photo/msid-134964358,imgsize-119840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-kaif-has-been-fit-all-her-life-haiwaan-actress-saiyami-kher-calls-out-social-media-trolling-of-female-actors-like-aishwarya-rai-bachchan-and-says-nobody-has-the-right-to-comment-on-their-lives/articleshow/134963722.cms",
-    "time": "2026-10-15T09:57:22.000Z"
   },
   {
     "cat": "Sports",
@@ -640,15 +721,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Can New Zealand stop India's big hitters? Santner reveals his plan",
-    "desc": "As New Zealand prepare for the five-match T20I series, the left-arm spinner is hoping the early-season conditions offer some assistance, while stressing the need for his bowlers to adapt quickly and stay in the contest even when the boundaries begin to flow.",
-    "img": "https://static.toiimg.com/photo/msid-134956127,imgsize-45156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-can-new-zealand-stop-indias-big-hitters-mitchell-santner-reveals-his-plan/articleshow/134956022.cms",
-    "time": "2026-10-15T03:12:25.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "When will Team India's ODI squad for New Zealand tour be picked? Details inside",
     "desc": "The Pragyan Ojha-led selection committee has already picked India’s T20I squad for the five-match T20I series in New Zealand, which will start from Oct 22. The five-match ODI series will start on Nov 4 in Auckland. It's understood that Ojha met Team India captain Shubman Gill and head coach Gautam Gambhir, celebrating his 45th birthday, in Hyderabad on Wednesday, for the first time since the BCCI asked him to take over as the interim chairman of the national selection committee.",
     "img": "https://static.toiimg.com/photo/msid-134955840,imgsize-42405.cms",
@@ -810,24 +882,6 @@ const newsData_en = [
     "time": "2026-10-14T05:52:25.000Z"
   },
   {
-    "cat": "World",
-    "title": "Sheikh Hasina’s activities in India ‘principal challenge’ in planning Bangladesh PM’s visit: Humaiyun Kobir",
-    "desc": "Mr. Kobir, Bangladesh State Minister for Foreign Affairs, stresses on the importance of ‘strategic autonomy’ for Bangladesh; he says India has to appreciate the ‘challenges of a newly elected government’ in Bangladesh and argues that activities of the exiled leaders of the Awami League will not help India",
-    "img": "https://th-i.thgim.com/public/incoming/jxcfoa/article71547077.ece/alternates/LANDSCAPE_1200/07_BNP_VVK_7853.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sheikh-hasinas-activities-in-india-principal-challenge-in-planning-bangladesh-pms-visit/article71546940.ece",
-    "time": "2026-10-14T05:36:03.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump's Ambassador to Greece resigns after allegations of improper conduct",
-    "desc": "Mr. Trump's administration said on Tuesday (October 13) it had asked her to leave her post after she faced severe criticism over allegations she engaged in improper and possibly illegal conduct before and during her tenure in Athens.",
-    "img": "https://th-i.thgim.com/public/incoming/uqjcpj/article71582056.ece/alternates/LANDSCAPE_1200/Trump_Guilfoyle_42837.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trumps-ambassador-to-greece-resigns-after-allegations-of-improper-conduct/article71582055.ece",
-    "time": "2026-10-14T02:42:11.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Elon Musk and Mukesh Ambani’s feud over Starlink",
     "desc": "Elon Musk believes that India’s mobile internet market is skewed to favour the Ambani family and that his Starlink service deserves a fair chance in the country. However, critics have pointed to sovereignty and security concerns",
@@ -837,24 +891,6 @@ const newsData_en = [
     "time": "2026-10-14T02:38:53.000Z"
   },
   {
-    "cat": "World",
-    "title": "Zelenskyy to visit Britain as Burnham pledges fresh support for Ukraine",
-    "desc": "The meeting comes at a difficult time for the Ukrainian President, days after the U.S. made a deal with Russia for diesel exports and U.S. President ‌Donald Trump said Mr. Zelenskyy should be replaced as ‌Ukraine’s leader",
-    "img": "https://th-i.thgim.com/public/incoming/f2n4na/article71581320.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_Germany_51484.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/zelenskyy-to-visit-britain-as-burnham-pledges-fresh-support-for-ukraine/article71581319.ece",
-    "time": "2026-10-13T22:31:42.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Saudi coalition strikes Yemen oil sites after Houthi attacks",
-    "desc": "The Saudi-led coalition had earlier warned civilians to evacuate the Al-Sabaha station near the Houthi-held capital, which belongs to the Yemen Petroleum Company (YPC), following a spate of deadly Houthi attacks in Saudi Arabia, particularly on Riyadh airport.",
-    "img": "https://th-i.thgim.com/public/incoming/dpyu12/article71580870.ece/alternates/LANDSCAPE_1200/AP01_18_2022_000150A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/houthi-media-says-saudi-arabia-hit-oil-facility-near-sanaa/article71580863.ece",
-    "time": "2026-10-13T20:09:50.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Oppo unveils ColorOS 17, to debut with Find X10 series on Oct 22 in India",
     "desc": "Oppo Find X10 series will feature Find X10 Pro Max and Find X10. They will have Hasselblad-tuned camera system, flat LTPO displays with refresh rates of up to 144 Hz and IP66, IP68 and IP69 ratings",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/oppo-unveils-coloros-17-to-debut-with-find-x10-series-on-oct-22-in-india/article71579485.ece",
     "time": "2026-10-13T13:08:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Andrew Schulz on playing Dan Hibiki in ‘Street Fighter’: ‘It’s like choosing an MLS team on FIFA’",
-    "desc": "From discovering that Dan Hibiki was designed to humiliate opponents to beating the ‘Street Fighter’ game director with him, the stand-up comedian discusses childhood arcade rivalries, Hollywood’s video-game obsession, the cast’s actual fighting abilities and why his own contribution to the film was best left to comedy rather than abs",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/8o74gj/article71579368.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/andrew-schulz-interview-dan-hibiki-street-fighter-movie-2026/article71579207.ece",
-    "time": "2026-10-13T12:38:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "James Spader and Terry Matalas on resurrecting Ultron in the age of AI for Marvel’s ‘VisionQuest’",
-    "desc": "A decade after James Spader’s genocidal AI tried to save the planet by wiping out its inhabitants, Marvel’s ‘VisionQuest’ gives Ultron another chance to reconsider humanity, with a little help from the arts and perhaps a little more from Jimi Hendrix",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/1pxgqg/article71578249.ece/alternates/LANDSCAPE_1200/VisionQuest_TF_3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/james-spader-and-terry-matalas-on-resurrecting-ultron-in-the-age-of-ai-for-marvels-visionquest/article71578248.ece",
-    "time": "2026-10-13T09:46:15.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Delhi Police ramp up ‘perception’ campaign, identifies 500 people, 200 social media channels ahead of October 10 protest",
-    "desc": "After the July protest, police step up a ‘cyber warfare’ strategy to counter online narratives and circulate videos of injured personnel and alleged clashes; officials examine why their social media content failed to gain traction",
-    "img": "https://th-i.thgim.com/public/incoming/gaek9f/article71560345.ece/alternates/LANDSCAPE_1200/2026-10-07T142626Z_858694076_RC2BYNA1EVK0_RTRMADP_3_INDIA-POLITICS-PROTEST.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-ramp-up-perception-campaign-identifies-500-people-social-media-channels-ahead-of-october-10-protest/article71560264.ece",
-    "time": "2026-10-08T17:50:09.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
   }
 ];
