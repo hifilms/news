@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shafali Verma wants India to mix a fearless brand of cricket with smartness under new captain Smriti Mandhana",
+    "desc": "India women’s vice-captain Shafali Verma has outlined the team’s approach ahead of the upcoming series against Zimbabwe. She said that the focus will be on combining aggressive cricket with better decision-making, as the goal is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-wants-india-to-mix-a-fearless-brand-of-cricket-with-smartness-under-new-captain-smriti-mandhana-2026-10-15-1057096",
+    "time": "2026-10-15T14:24:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pathum Nissanka ruled out, Sri Lanka announce replacement for tri-series against Pakistan, England",
+    "desc": "Sri Lanka opener Pathum Nissanka has been ruled out of the ODI tri-series against Pakistan and England, starting October 18. He suffered a left hamstring injury during the team’s limited-overs tour of England and is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pathum-nissanka-ruled-out-sri-lanka-announce-replacement-for-tri-series-against-pakistan-england-2026-10-15-1057089",
+    "time": "2026-10-15T13:30:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Trent Boult pens deal with Sydney Thunder ahead of the upcoming BBL 2026-27 season",
+    "desc": "Sydney Thunder have secured the services of former New Zealand pacer Trent Boult for the entire Big Bash League (BBL) 2026-27 season. Under the new head coach Andrew Flintoff, the franchise aims to strengthen their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/trent-boult-pens-deal-with-sydney-thunder-ahead-of-the-upcoming-bbl-2026-27-season-2026-10-15-1057085",
+    "time": "2026-10-15T12:59:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PM Modi felicitates Asian Games medal winners, receives signed jerseys and hockey stick from athletes",
+    "desc": "Prime Minister Narendra Modi felicitated Indian athletes after their successful campaign at the Asian Games 2026 in Aichi-Nagoya, Japan. The Indian contingent bagged 85 medals in total, which includes 21 gold, 27 silver, and 37...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/pm-modi-felicitates-asian-games-medal-winners-receives-signed-jerseys-and-hockey-stick-from-athletes-2026-10-15-1057075",
+    "time": "2026-10-15T11:44:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'No replacement for Bumrah'",
+    "desc": "Sanju Samson has admitted that India cannot find a direct replacement for Jasprit Bumrah, but believes the team has promising pace-bowling options capable of improving with experience and consistent backing. His comments come ahead of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/no-replacement-for-bumrah-sanju-samson-reflects-on-india-s-defeat-to-west-indies-in-fourth-t20i-2026-10-15-1057071",
+    "time": "2026-10-15T11:00:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "South Africa make one change to their squad, drop Tristan Stubbs ahead of second Test vs Australia",
     "desc": "South Africa have recalled Matthew Breetzke to their Test squad for the second match against Australia in Gqeberha. He replaced Tristan Stubbs, who has been dropped following the hosts’ defeat in Durban. The change comes...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-suryakumar-yadav-s-record-sets-new-benchmark-for-sixes-in-fourth-t20i-vs-west-indies-2026-10-14-1056993",
     "time": "2026-10-14T18:06:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shai Hope, Keemo Paul architect West Indies' 24-run win in 4th T20I vs India, series locked at 2-2",
-    "desc": "West Indies defeated India by 24 runs in the fourth T20I of the five-match series at the Rajiv Gandhi International Stadium in Hyderabad. The hosts arrived as favourites, given their batting form, but the Shai Hope-led...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shai-hope-keemo-paul-architect-west-indies-25-run-win-in-4th-t20i-vs-india-series-locked-at-2-2-2026-10-14-1056989",
-    "time": "2026-10-14T17:32:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana plans to set new standard for Indian T20I side in upcoming Zimbabwe series",
-    "desc": "Newly appointed captain Smriti Mandhana aims to use India's upcoming six-match home series against Zimbabwe to sharpen the team's T20I strategy and establish performance benchmarks ahead of the inaugural Women's Champions Trophy in February 2027....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-plans-to-set-new-standard-for-indian-t20i-side-in-upcoming-zimbabwe-series-2026-10-14-1056985",
-    "time": "2026-10-14T16:15:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yuvraj Singh reveals conversation with Sourav Ganguly before taking up Delhi Capitals coaching role",
-    "desc": "Former India all-rounder Yuvraj Singh has set his sights on helping Delhi Capitals win their maiden Indian Premier League (IPL) title after taking up his first formal coaching assignment as the franchise’s Assistant and Batting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/yuvraj-singh-reveals-conversation-with-sourav-ganguly-before-taking-up-delhi-capitals-coaching-role-2026-10-14-1056976",
-    "time": "2026-10-14T14:36:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bengal beat Delhi to kickstart their Ranji Trophy campaign; Gujarat win by 10 wickets",
-    "desc": "Bengal and Gujarat opened their Ranji Trophy Group C campaigns with emphatic victories on Wednesday, defeating Delhi by nine wickets and Odisha by 10 wickets, respectively. While Bengal completed a modest chase on the final...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bengal-beat-delhi-to-kickstart-their-ranji-trophy-campaign-gujarat-win-by-10-wickets-2026-10-14-1056962",
-    "time": "2026-10-14T12:48:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "West Indies beat India by 25 runs, series finale awaits in Bengaluru",
-    "desc": "India and the West Indies head into the fourth T20I in Hyderabad on Wednesday, with the series offering little relief for bowlers as batters have largely dominated across the white-ball contests. The previous match in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-4th-t20i-final-live-score-india-vs-west-indies-latest-match-updates-scorecards-playing-xis-reactions-1056960",
-    "time": "2026-10-14T12:42:01.000Z"
   }
 ];

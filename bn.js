@@ -189,15 +189,6 @@ const newsData_bn = [
     "time": "2026-09-23T06:44:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "অনন্ত নাগের মুকুটে নতুন পালক! মাম্মুট্টি-কর্তিক থেকে ইয়ামিকে সম্মান, কোথায় কীভাবে দেখবেন জাতীয় চলচ্চিত্র পুরস্কার?",
-    "desc": "২২ সেপ্টেম্বর গুজরাটের একতা নগর, কেভাডিয়ায় বসছে ৭২তম জাতীয় চলচ্চিত্র পুরস্কারের আসর। প্রথম বার দিল্লির বাইরে হচ্ছে এই অনুষ্ঠান। রাষ্ট্রপতি দ্রৌপদী মুর্মু পুরস্কার তুলে দেবেন। অনুষ্ঠান শুরু বিকেল ৩টেয় এবং DD National-এর ইউটিউব চ্যানেলে সরাসরি দেখা যাবে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/72nd-national-film-awards-2026-gujarat-anant-nag-major-winners-live-stream_671794.html ",
-    "time": "2026-09-22T08:10:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "হোয়াটসঅ্যাপের 'ইউজারনেম' ফিচার সুরক্ষা ও গোপনীয়তায় কত বড় চ্যালেঞ্জ?",
     "desc": "WhatsApp is rolling out a new username feature, allowing users to chat without sharing phone numbers. হোয়াটসঅ্যাপের এই নতুন ফিচারে নম্বর গোপন রেখে চ্যাট করার সুযোগ পাবেন ব্যবহারকারীরা, যা সাইবার নিরাপত্তা বাড়াবে এবং ব্যক্তিগত সুরক্ষা নিশ্চিত করবে।",
