@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India announce Test and two separate ODI squads for New Zealand series, Ravindra Jadeja dropped",
+    "desc": "India have announced two separate ODI squads for the upcoming five-match ODI series against New Zealand, starting November 4 in Auckland. All the key Test players, excluding Mohammad Siraj, have been rested for the final...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-announce-test-and-two-separate-odi-squads-for-new-zealand-series-ravindra-jadeja-dropped-2026-10-16-1057196",
+    "time": "2026-10-16T15:36:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lisandro Martinez shares new statement, meets Michael Carrick, club hierarchy after subpar results",
     "desc": "One of the biggest clubs in world football, Manchester United is going through a rough patch. With the appointment of former midfielder Michael Carrick as their full-time head coach, the side had high hopes for...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-wants-india-to-mix-a-fearless-brand-of-cricket-with-smartness-under-new-captain-smriti-mandhana-2026-10-15-1057096",
     "time": "2026-10-15T14:24:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pathum Nissanka ruled out, Sri Lanka announce replacement for tri-series against Pakistan, England",
-    "desc": "Sri Lanka opener Pathum Nissanka has been ruled out of the ODI tri-series against Pakistan and England, starting October 18. He suffered a left hamstring injury during the team’s limited-overs tour of England and is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pathum-nissanka-ruled-out-sri-lanka-announce-replacement-for-tri-series-against-pakistan-england-2026-10-15-1057089",
-    "time": "2026-10-15T13:30:56.000Z"
   }
 ];
