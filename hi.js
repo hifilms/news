@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lisandro Martinez shares new statement, meets Michael Carrick, club hierarchy after subpar results",
+    "desc": "One of the biggest clubs in world football, Manchester United is going through a rough patch. With the appointment of former midfielder Michael Carrick as their full-time head coach, the side had high hopes for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lisandro-martinez-shares-new-statement-meets-michael-carrick-club-hierarchy-after-subpar-results-2026-10-16-1057186",
+    "time": "2026-10-16T13:17:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India coach weighs in on Jasprit Bumrah's workload management ahead of NZ tour",
+    "desc": "The stage is set for the multi-format series between India and New Zealand. The Indian team will be touring the Black Caps. The two sides will meet across five T20Is, five ODI matches, and two...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-coach-weighs-in-on-jasprit-bumrah-s-workload-management-ahead-of-nz-tour-2026-10-16-1057173",
+    "time": "2026-10-16T11:39:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aditya Tare backs defending champions Arsenal to go all the way, retain their Premier League title",
+    "desc": "The Premier League 2026-27 season is well underway. Some of the sides have showcased some brilliant football so far. With the season still in its early stages, the Premier League table is beginning to take...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/aditya-tare-backs-defending-champions-arsenal-to-go-all-the-way-retain-their-premier-league-title-2026-10-16-1057166",
+    "time": "2026-10-16T10:24:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bhuvneshwar Kumar added to India's squad for fifth WI T20I as star pacer sustains injury; Check details",
+    "desc": "In a major change, the BCCI (Board of Control for Cricket in India) has come forward and revealed that veteran pacer Bhuvneshwar Kumar will be added to the Indian’s squad for the fifth and final...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bhuvneshwar-kumar-added-to-india-s-squad-for-fifth-wi-t20i-as-star-pacer-sustains-injury-check-details-2026-10-16-1057155",
+    "time": "2026-10-16T09:03:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Nayar reflects on Sanju Samson's form, backs him to do well against WI in Bengaluru",
+    "desc": "The stage is set for the fifth and final T20I of the ongoing series between India and the West Indies. The two sides will meet at the M Chinnaswamy Stadium in Bengaluru on October 17th....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-nayar-reflects-on-sanju-samson-s-form-backs-him-to-do-well-against-wi-in-bengaluru-2026-10-16-1057154",
+    "time": "2026-10-16T08:40:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Smriti Mandhana reflects on leading India women, lays down the plan ahead of the Women's Champions Trophy",
     "desc": "The Indian women’s team is hitting its peak; after winning the ODI World Cup 2025, the side has its eyes set at the Champions Trophy 2027. The inaugural edition of the Women’s Champions Trophy kicks...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pathum-nissanka-ruled-out-sri-lanka-announce-replacement-for-tri-series-against-pakistan-england-2026-10-15-1057089",
     "time": "2026-10-15T13:30:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Trent Boult pens deal with Sydney Thunder ahead of the upcoming BBL 2026-27 season",
-    "desc": "Sydney Thunder have secured the services of former New Zealand pacer Trent Boult for the entire Big Bash League (BBL) 2026-27 season. Under the new head coach Andrew Flintoff, the franchise aims to strengthen their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/trent-boult-pens-deal-with-sydney-thunder-ahead-of-the-upcoming-bbl-2026-27-season-2026-10-15-1057085",
-    "time": "2026-10-15T12:59:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PM Modi felicitates Asian Games medal winners, receives signed jerseys and hockey stick from athletes",
-    "desc": "Prime Minister Narendra Modi felicitated Indian athletes after their successful campaign at the Asian Games 2026 in Aichi-Nagoya, Japan. The Indian contingent bagged 85 medals in total, which includes 21 gold, 27 silver, and 37...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pm-modi-felicitates-asian-games-medal-winners-receives-signed-jerseys-and-hockey-stick-from-athletes-2026-10-15-1057075",
-    "time": "2026-10-15T11:44:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'No replacement for Bumrah'",
-    "desc": "Sanju Samson has admitted that India cannot find a direct replacement for Jasprit Bumrah, but believes the team has promising pace-bowling options capable of improving with experience and consistent backing. His comments come ahead of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/no-replacement-for-bumrah-sanju-samson-reflects-on-india-s-defeat-to-west-indies-in-fourth-t20i-2026-10-15-1057071",
-    "time": "2026-10-15T11:00:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa make one change to their squad, drop Tristan Stubbs ahead of second Test vs Australia",
-    "desc": "South Africa have recalled Matthew Breetzke to their Test squad for the second match against Australia in Gqeberha. He replaced Tristan Stubbs, who has been dropped following the hosts’ defeat in Durban. The change comes...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-make-one-change-to-their-squad-drop-tristan-stubbs-ahead-of-second-test-vs-australia-2026-10-15-1057057",
-    "time": "2026-10-15T09:38:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cameron Green's availability for second Test vs South Africa in doubt, head coach shares update",
-    "desc": "Australia remain uncertain about Cameron Green’s availability for the second World Test Championship match against South Africa. Head coach Andrew McDonald indicated that the all-rounder must clear further fitness assessments before being considered for selection....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cameron-green-s-availability-for-second-test-vs-south-africa-in-doubt-head-coach-shares-update-2026-10-15-1057045",
-    "time": "2026-10-15T08:10:54.000Z"
   }
 ];
