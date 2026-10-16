@@ -1,6 +1,96 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "‘Endgame’ dethrones 'Avatar'; James Cameron congratulates team",
+    "desc": "Endgame’ reclaiming the highest-grossing film title. He shared artwork featuring Iron Man among the Na’vi people from ‘Avatar’. This marks the second time Cameron has acknowledged Marvel's achievements in box office records. ‘Avengers: Endgame: Encore’ was released with additional footage and earned significant revenue during its opening weekend.",
+    "img": "https://static.toiimg.com/photo/msid-135005307,imgsize-268718.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-cameron-congratulates-team-avengers-endgame-as-marvel-blockbuster-overtakes-avatar-to-reclaim-box-office-crown/articleshow/135005244.cms",
+    "time": "2026-10-16T22:47:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "WWE star Natalie Eva Marie finalises divorce from Jonathan Coyle",
+    "desc": "WWE star Natalie Eva Marie has finalised her divorce from Jonathan Coyle after 10 years of marriage. Speaking to Page Six, Marie said the split felt like “so much longer than a year” and described their relationship as a business partnership. She also opened up about reclaiming her name and embracing a new chapter in life.",
+    "img": "https://static.toiimg.com/photo/msid-135005296,imgsize-59974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/natalie-eva-marie-finalises-divorce-from-jonathan-coyle-after-10-years-of-marriage-wwe-star-says-split-felt-like-so-much-longer-than-a-year-we-were-like-business-partners/articleshow/135005290.cms",
+    "time": "2026-10-16T22:31:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK launches music festival; Arijit Singh, Sonu Nigam to headline gig",
+    "desc": "Shah Rukh Khan will launch the UNIFYD Festival in Abu Dhabi on March 20, 2027. The festival will showcase South Asian musical talent alongside headliners like Arijit Singh, Sonu Nigam, and Karan Aujla. Ticket sales will begin on October 19, 2026, for early access and October 20 for general admission. The event aims to present a unique blend of music on multiple stages.",
+    "img": "https://static.toiimg.com/photo/msid-135003419,imgsize-139246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-announces-music-festival-in-abu-dhabi-arijit-singh-sonu-nigam-and-karan-aujla-to-headline-2027-gig/articleshow/134982928.cms",
+    "time": "2026-10-16T22:13:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gandikota’s timeless landscape faces modern-day pressures",
+    "desc": "The Andhra Pradesh government’s efforts to recognise Gandikota’s tourism potential have put this geologically significant site back in the spotlight. However, with renewed activity and growing popularity, the site is experiencing poor waste management that takes a heavy toll on the environment. Furthermore, it continues to struggle with heavy foot traffic, natural weathering, and systemic neglect",
+    "img": "https://th-i.thgim.com/public/incoming/jq6ga/article71592838.ece/alternates/LANDSCAPE_1200/file_0000000020f082119bebfcbec560467a9pho.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/gandikotas-timeless-landscape-faces-modern-day-pressures/article71592579.ece",
+    "time": "2026-10-16T22:04:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Billy Ray Cyrus and Elizabeth Hurley engaged after over a year of dating",
+    "desc": "Billy Ray Cyrus, 65, and Elizabeth Hurley, 61, are reportedly engaged after dating for more than a year. Engagement rumours intensified after the British actress was spotted wearing a large diamond ring. If they marry, it will be the fourth marriage for the country singer, who was previously married to Cindy Smith, Tish Cyrus and Firerose.",
+    "img": "https://static.toiimg.com/photo/msid-135003424,imgsize-92246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/billy-ray-cyrus-65-and-elizabeth-hurley-61-engaged-after-over-a-year-of-dating-actress-spotted-wearing-a-large-diamond-ring-country-singer-set-to-marry-for-the-fourth-time/articleshow/135003374.cms",
+    "time": "2026-10-16T22:00:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi Police",
+    "desc": "The clarification from Delhi police comes as security has been heightened in central Delhi, with the INDIA bloc holding a protest demanding the removal of CEC Gyanesh Kumar, and the CJP planning a protest at Jantar Mantar on October 10",
+    "img": "https://th-i.thgim.com/public/incoming/n0enx3/article71556156.ece/alternates/LANDSCAPE_1200/CJP%20PRESS%20CONFERENCE%20DELHI%2024.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protests-permission-delhi-police/article71556047.ece",
+    "time": "2026-10-16T21:59:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Free health camp extends services to nearly 600 students, youth in Anantapur",
+    "desc": "The camp, which was held as part of the foundation day celebrations of Nigama Foundation, provided free blood grouping, haemoglobin and diabetes screening, blood-pressure checks, general and orthopaedic consultations, and eye examinations to the students",
+    "img": "https://th-i.thgim.com/public/incoming/1ad38t/article71555794.ece/alternates/LANDSCAPE_1200/10745_7_10_2026_15_54_46_1_IMG_20261007_WA0021.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/free-health-camp-extends-services-to-nearly-600-students-youth-in-anantapur/article71555146.ece",
+    "time": "2026-10-16T21:52:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Five ‘terrorist associates’ held, hideout busted in Kashmir: police",
+    "desc": "Joint operation in Kulgam district resulted in arrest of five ‘terrorist associates’ and recovery of two pistols and some ammunition; old hideout destroyed in a forested area in Handwara, huge cache of arms and ammo recovered",
+    "img": "https://th-i.thgim.com/public/incoming/3dfewe/article71557126.ece/alternates/LANDSCAPE_1200/PTI10_07_2026_000467A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/five-terrorist-associates-held-hideout-busted-in-kashmir-police/article71556989.ece",
+    "time": "2026-10-16T21:50:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "lessons from the Asian Games for the Olympics",
+    "desc": "An Olympic medal will mean less to a player than winning a World Cup or World Test Championship. And if the games are in a country with little or no interest in cricket, it is unlikely to spread its message which is what the ICC hopes for",
+    "img": "https://th-i.thgim.com/public/incoming/bn29rn/article71554094.ece/alternates/LANDSCAPE_1200/6744_3_10_2026_21_4_42_1_A1_RVM_2644.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/back-to-the-future-lessons-from-the-asian-games-for-the-olympics/article71551385.ece",
+    "time": "2026-10-16T19:00:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Todd-Julie hit with $1.57M IRS tax lien after Donald Trump’s 2025 pardon",
+    "desc": "Reality TV stars Todd Chrisley and wife Julie are facing a $1.57 million federal tax lien filed by the IRS in Tennessee, months after President Donald Trump pardoned them over their 2022 bank fraud and tax evasion convictions. According to a report, the August 2026 lien relates to unpaid taxes for 2021 and 2022 and is separate from the financial crimes for which the couple were convicted.",
+    "img": "https://static.toiimg.com/photo/msid-135002298,imgsize-79222.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/todd-chrisley-and-wife-julie-hit-with-1-57-million-irs-tax-lien-after-donald-trumps-2025-pardon-claims-involve-2021-and-2022-taxes-separate-from-couples-36-million-bank-fraud-and-tax-evasion-case/articleshow/135002000.cms",
+    "time": "2026-10-16T18:41:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Priyanka wishes 'Varanasi' co-star Prithviraj on his birthday",
     "desc": "Priyanka Chopra took to social media to celebrate the birthday of her co-star Prithviraj Sukumaran, affectionately referencing his role as Kumbha. Also chiming in were Mahesh Babu and director SS Rajamouli, who shared their heartfelt wishes. The much-anticipated film 'Varanasi', which focuses on safeguarding the city from an impending asteroid, will hit theaters on April 7, 2027. Prithviraj plays a compelling antagonist, adding depth to the narrative.",
     "img": "https://static.toiimg.com/photo/msid-135001389,imgsize-397830.cms",
@@ -34,15 +124,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-says-ready-to-address-each-others-concerns-after-fm-sitharaman-flags-trade-barriers/article71593446.ece",
     "time": "2026-10-16T17:41:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ASHA workers seek ₹15,000 monthly remuneration",
-    "desc": "Accredited Social Health Activists affiliated to the All India United Trade Union Centre staged a protest in front of the Zilla Panchayat Chief Executive Officer’s office in Karwar on Tuesday as part of a State-wide protest week, demanding a minimum monthly remuneration of ₹15,000 and timely payment of incentives and honorarium",
-    "img": "https://th-i.thgim.com/public/incoming/1ezwcs/article71553037.ece/alternates/LANDSCAPE_1200/2699_6_10_2026_20_15_34_1_07HUBLIASHAS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/asha-workers-seek-15000-monthly-remuneration/article71552289.ece",
-    "time": "2026-10-16T17:38:10.000Z"
   },
   {
     "cat": "World",
@@ -378,13 +459,13 @@ const newsData_en = [
     "time": "2026-10-16T13:08:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Naga Chaitanya’s ‘Vrushakarma’ shares new poster",
-    "desc": "Naga Chaitanya will lead the mystical adventure thriller 'Vrushakarma', directed by Karthik Dandu and set for a theatrical release on December 4, 2026. The film's makers recently unveiled a poster showcasing him in adventurous attire. The teaser hints at a dark supernatural realm, exploring themes of fate and safeguarding. Alongside Naga Chaitanya, the cast features Meenakshi Chaudhary and Sparsh Srivastava, with music composed by Ajaneesh Loknath.",
-    "img": "https://static.toiimg.com/photo/msid-134996002,imgsize-141304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/naga-chaitanyas-vrushakarma-unveils-new-poster-as-the-countdown-for-the-release-begins-film-set-to-hit-the-screens-on-december-4/articleshow/134995936.cms",
-    "time": "2026-10-16T13:02:04.000Z"
+    "cat": "Sports",
+    "title": "Many feel Sindarov will win easily, but I don’t think so: Wei Yi",
+    "desc": "The Chinese GM realised one of his chess dreams — reaching 2700 Elo points — at just 15, but his goal of becoming World champion remains ahead of him. He speaks in this interview about what that ambition demands, why Gukesh shouldn’t be written off in the World title match and what he felt after his role in a historic Olympiad triumph",
+    "img": "https://th-i.thgim.com/public/incoming/oalurr/article71592577.ece/alternates/LANDSCAPE_1200/GettyImages-2151401243.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/many-feel-sindarov-will-win-easily-but-i-dont-think-so-wei-yi/article71592608.ece",
+    "time": "2026-10-16T13:07:25.000Z"
   },
   {
     "cat": "Politics",
@@ -403,6 +484,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-considers-new-export-curbs-on-solar-ai-biotech/article71591880.ece",
     "time": "2026-10-16T12:54:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is the all-format cricketer doomed to go extinct?",
+    "desc": "Only a select few have the elasticity of skill required to thrive in Tests, ODIs and T20Is. But even this rare ability might not be enough in an age of taxing, overlapping schedules. Will larger-than-life stars, with an impact spanning three formats, become a thing of the past?",
+    "img": "https://th-i.thgim.com/public/incoming/f4xa0w/article71592493.ece/alternates/LANDSCAPE_1200/GettyImages-2159845100.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/is-the-all-format-cricketer-doomed-to-go-extinct/article71592519.ece",
+    "time": "2026-10-16T12:51:38.000Z"
   },
   {
     "cat": "World",
@@ -430,33 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/sports-ministry-revises-funding-rules-for-federations-mandates-advance-selection-policies/articleshow/134995093.cms",
     "time": "2026-10-16T12:36:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SRK’s ‘King’ promo to be attached to Ranbir’s ‘Ramayana’ in theatres",
-    "desc": "Shah Rukh Khan's new film 'King' is set to release on December 24, 2026. A promotional video will be shown alongside Ranbir Kapoor's 'Ramayana' in theaters. Fans can expect the teaser for 'King' to arrive on his birthday, November 2. 'Ramayana' will have its worldwide release on November 6, just ahead of Diwali. The collaboration between the two films aims to enhance visibility for 'King' significantly.",
-    "img": "https://static.toiimg.com/photo/msid-134995395,imgsize-702990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-king-promo-to-be-attached-to-ranbir-kapoors-ramayana-in-theatres-as-teaser-likely-to-drop-on-srks-birthday-on-november-2/articleshow/134995263.cms",
-    "time": "2026-10-16T12:35:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Riteish Deshmukh calls Rajinikanth’s ‘Jailer 2’ a ‘blockbuster’",
-    "desc": "After catching 'Jailer 2' in theaters, Riteish Deshmukh shared his exhilaration, dubbing the experience a tribute to Rajinikanth’s unmatched charisma. He lauded the directorial vision of Nelson Dilipkumar and praised the engaging narrative that centers on Muthuvel Pandian. This sequel not only continues the story from the 2023 original but also features many familiar faces from the first film, emphasizing the captivating allure of its star-studded cast.",
-    "img": "https://static.toiimg.com/photo/msid-134995122,imgsize-107827.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/superstardom-thy-name-rajni-sir-riteish-deshmukh-heaps-praise-after-watching-rajinikanths-blockbuster-jailer-2-says-he-clapped-whistled-and-cheered-at-every-entry/articleshow/134995085.cms",
-    "time": "2026-10-16T12:27:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kajol marks 28 years with Anjali-style photos",
-    "desc": "Kajol marked 28 years of “Kuch Kuch Hota Hai” by sharing pictures of herself in a red jacket and short hair on X, captioning them, “Can magic ever be recreated? Here’s Anjali a couple of years later.” The 1998 film also starred Shah Rukh Khan and Rani Mukerji, with music by Jatin-Lalit.",
-    "img": "https://static.toiimg.com/photo/msid-134994985,imgsize-230980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/heres-anjali-a-couple-of-years-later-kajol-revisits-her-iconic-look-in-a-red-jacket-and-short-hair-as-karan-johars-kuch-kuch-hota-hai-starring-shah-rukh-khan-salman-khan-and-rani-mukerji-clocks-28-years/articleshow/134994948.cms",
-    "time": "2026-10-16T12:22:03.000Z"
   },
   {
     "cat": "Politics",
@@ -495,15 +558,6 @@ const newsData_en = [
     "time": "2026-10-16T12:02:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Abhijeet Sawant recalls performing at small pandals for Rs 50-100",
-    "desc": "Abhijeet Sawant reminisced about the joy of performing at intimate events, where even small payments felt significant. He spoke of the emotional rollercoaster of his singing career and how audience engagement acted as a guiding light during challenging times. In a heartfelt moment, he mentioned that winning the inaugural season of 'Indian Idol' transformed his life, marking a pivotal step in his musical journey.",
-    "img": "https://static.toiimg.com/photo/msid-134994431,imgsize-351364.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhijeet-sawant-looks-back-at-his-early-singing-days-when-he-performed-at-small-pandals-for-rs-50-100-before-becoming-a-household-name-with-indian-idol-season-1-win-mera-sabse-happiest-day-hota-tha/articleshow/134994106.cms",
-    "time": "2026-10-16T12:01:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India's schedule on October 17",
     "desc": "Indian para athletes will continue their campaigns at the 2026 Asian Para Games on Saturday, October 17, two days before the event's official opening on October 18. Indian fans can look forward to action in para badminton, para table tennis and Boccia in Nagoya.",
@@ -513,24 +567,6 @@ const newsData_en = [
     "time": "2026-10-16T12:01:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'I am alone': CJP's Dipke argues with cops during detention ahead of Tiranga march",
-    "desc": "Dipke, earlier today, had defended the party's protests, asserting that peaceful demonstrations were a democratic right. He accused the government of restricting citizens' freedoms and disrupting business activities through shutdowns, Internet suspensions and movement restrictions. \"I'm alone, what law did I break,\" Dipke asked before he was detained. The court had directed the CJP to refrain from causing any public disturbance for a period of one year.",
-    "img": "https://static.toiimg.com/photo/msid-134993455,imgsize-60528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/i-am-alone-cjps-dipke-argues-with-cops-during-detention-ahead-of-tiranga-march-watch/articleshow/134993030.cms",
-    "time": "2026-10-16T11:37:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ladakh administration announces Sankoo as eighth district",
-    "desc": "The authorities in Ladakh have announced the formation of Sankoo as its eighth district, fulfilling a long-awaited aspiration. Lieutenant Governor V K Saxena underscored this decision as part of the government's commitment to progress. Various local organizations, notably Anjuman-e-Sahib Zaman led by Syed Mohammad Razvi, played a crucial role in this development.",
-    "img": "https://static.toiimg.com/photo/msid-134993405,imgsize-94820.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ladakh-administration-announces-sankoo-as-eighth-district/articleshow/134993240.cms",
-    "time": "2026-10-16T11:32:08.000Z"
-  },
-  {
     "cat": "World",
     "title": "Pakistan to chair IMF, World Bank boards next year for first time since 1953",
     "desc": "Minister for Economic Affairs Ahad Khan Cheema, who is also Pakistan’s governor to the World Bank, was formally announced as the incoming chair during the plenary session of the 2026 WBG-IMF Annual Meetings in Bangkok.",
@@ -538,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/pakistan-to-chair-imf-world-bank-boards-next-year-for-first-time-since-1953/article71591760.ece",
     "time": "2026-10-16T11:31:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Protesters ignorant of ground realities': Delhi traders write to PM Modi over losses",
-    "desc": "The traders urged the authorities to ensure a transparent assessment of the losses suffered by shopkeepers following the October 10 protest and recover full compensation from the principal organisers and participants responsible, rather than place the financial burden on traders already struggling with lost business. It said shop earnings supported traders' families and employees, while covering shop rents, children's education and medical expenses for elderly parents.",
-    "img": "https://static.toiimg.com/photo/msid-134992951,imgsize-186926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/protesters-ignorant-of-ground-realities-delhi-traders-write-to-pm-modi-over-losses/articleshow/134992421.cms",
-    "time": "2026-10-16T11:17:46.000Z"
   },
   {
     "cat": "Sports",
@@ -828,15 +855,6 @@ const newsData_en = [
     "time": "2026-10-16T01:49:20.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Asian Games",
-    "desc": "The Olympic Council of Asia torch and flag were handed over to Qatar Prime Minister Sheikh Mohammed bin Abdulrahman Al-Thani, who passed it to Olympic, World and Asian high jump champion Mutaz Essa Barshim as a mark of formal handover",
-    "img": "https://th-i.thgim.com/public/incoming/n39im0/article71543404.ece/alternates/LANDSCAPE_1200/2026-10-04T095718Z_1139352025_UP1EMA40RNG1I_RTRMADP_3_GAMES-ASIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/asian-games-close-in-japan-after-records-rancour-and-rain/article71543397.ece",
-    "time": "2026-10-15T23:00:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Government raises deepwater gas price ceiling to $9.89/MMBtu; APM gas cap at $7",
     "desc": "The new ceiling for difficult-field gas, including from the KG-D6 block, is applicable for October 2026 to March 2027, while the APM gas cap for ONGC and OIL’s legacy fields stays at $7 per MMBtu",
@@ -864,15 +882,6 @@ const newsData_en = [
     "time": "2026-10-15T19:30:37.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India sourced more than two-thirds of its August oil imports from just three countries",
-    "desc": "While Russia’s share in India’s oil imports fell to 44%, from a historic high in July, the shares of both the U.S. and the UAE surged, resulting in the cumulative shares of the three countries reached an all-time high",
-    "img": "https://th-i.thgim.com/public/news/17l39l/article71589764.ece/alternates/LANDSCAPE_1200/jealous.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/india-sourced-more-than-two-thirds-of-its-august-oil-imports-from-just-three-countries/article71587667.ece",
-    "time": "2026-10-15T17:37:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Are your vintage kolu dolls becoming collector’s items?",
     "desc": "Vintage kolu dolls are attracting collectors as prices go up every year. How much are your heirlooms worth? From antique Mysore Gowri bommai to finely detailed religious figurines, traditional vintage Navratri dolls are drawing interest for their rarity and craftsmanship. In Chennai, families and collectors preserve generations-old collection",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-when-a-man-becomes-god-the-ritual-of-kathivanoor-veeran-theyyam/article71587218.ece",
     "time": "2026-10-15T10:50:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Slaves, a new production by The Madras Players, is a translation of writer Sujatha",
-    "desc": "For years, Sujatha has captured the imagination of Tamil audiences through short stories, film scripts, and even theatre plays. On October 24, the Madras Players dramatises one of his earlier works, Adimaigal as Slaves on fortune, love, and loss",
-    "img": "https://th-i.thgim.com/public/incoming/7a6mc/article71582411.ece/alternates/LANDSCAPE_1200/DSC_6421.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/theatre/slaves-a-new-production-by-the-madras-players-is-a-translation-of-writer-sujatha/article71582426.ece",
-    "time": "2026-10-15T05:43:28.000Z"
   }
 ];
