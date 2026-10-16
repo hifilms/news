@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Smriti Mandhana reflects on leading India women, lays down the plan ahead of the Women's Champions Trophy",
+    "desc": "The Indian women’s team is hitting its peak; after winning the ODI World Cup 2025, the side has its eyes set at the Champions Trophy 2027. The inaugural edition of the Women’s Champions Trophy kicks...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-reflects-on-leading-india-women-lays-down-the-plan-ahead-of-the-women-s-champions-trophy-2026-10-16-1057146",
+    "time": "2026-10-16T07:37:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Veteran batter Punam Raut announces retirement from international cricket",
+    "desc": "In a major development, veteran India women’s batter Punam Raut recently came forward and announced her retirement from international cricket. Turning 37 years old on October 14th, Rau decided to retire from all forms of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/veteran-batter-punam-raut-announces-retirement-from-international-cricket-2026-10-16-1057138",
+    "time": "2026-10-16T06:26:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Started with bowling': Shreyas Iyer opens up on what went wrong for India after 4th T20I loss against WI",
+    "desc": "Team India and the West Indies continued their ongoing T20I series by taking on each other in the fourth T20I. The two sides met at the Rajiv Gandhi International Stadium in Hyderabad for the clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/started-with-bowling-shreyas-iyer-opens-up-on-what-went-wrong-for-india-after-4th-t20i-loss-against-wi-2026-10-16-1057130",
+    "time": "2026-10-16T05:21:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shafali Verma wants India to mix a fearless brand of cricket with smartness under new captain Smriti Mandhana",
     "desc": "India women’s vice-captain Shafali Verma has outlined the team’s approach ahead of the upcoming series against Zimbabwe. She said that the focus will be on combining aggressive cricket with better decision-making, as the goal is...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/cameron-green-s-availability-for-second-test-vs-south-africa-in-doubt-head-coach-shares-update-2026-10-15-1057045",
     "time": "2026-10-15T08:10:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Real Madrid score 3 in 8 minutes, beat Roma 4-3 in UCL; Vinicius Jr. to miss El Classico",
-    "desc": "European football delivered a dramatic night of contrasting fortunes on Wednesday, as Real Madrid fought back from a two-goal deficit to defeat AS Roma 4-3, while Paris Saint-Germain found it comfortable against Manchester City, winning...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/real-madrid-score-3-in-8-minutes-beat-roma-4-3-in-ucl-vinicius-jr-to-miss-el-classico-2026-10-15-1057039",
-    "time": "2026-10-15T07:26:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson provides medical update on Arshdeep Singh; will he play fifth T20I in Bengaluru?",
-    "desc": "India pacer Arshdeep Singh suffered a painful shoulder injury during the fourth T20I against West Indies in Hyderabad. The incident happened in the final over of the match when pacer Shamar Joseph struck Arshdeep with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-provides-medical-update-on-arshdeep-singh-will-he-play-fifth-t20i-in-bengaluru-2026-10-15-1057030",
-    "time": "2026-10-15T06:53:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma breaks Suryakumar Yadav's record, sets new benchmark for sixes in fourth T20I vs West Indies",
-    "desc": "India opener Abhishek Sharma surpassed former captain Suryakumar Yadav to become the cricketer with the most sixes among a full-member nation in a single calendar year in T20I cricket. He holds the record now, having...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-suryakumar-yadav-s-record-sets-new-benchmark-for-sixes-in-fourth-t20i-vs-west-indies-2026-10-14-1056993",
-    "time": "2026-10-14T18:06:16.000Z"
   }
 ];
