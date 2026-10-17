@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Xabi Alonso issues crucial update on Emi Martinez after latter's headinjury against Everton",
+    "desc": "The Premier League 2026-27 season saw Everton host Chelsea on October 17th. The two sides met at the Hill Dickinson Stadium, and it was Chelsea who came out on top, registering a 0-2 victory in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/xabi-alonso-issues-crucial-update-on-emi-martinez-after-latter-s-headinjury-against-everton-2026-10-17-1057271",
+    "time": "2026-10-17T18:20:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India's fifth T20I against the West Indies gets abandoned as rain plays spoilsport, series ends 2-2",
     "desc": "The Indian team took on the West Indies in the fifth and final T20I of the ongoing series. The two sides met at the M Chinnaswamy Stadium in Bengaluru on October 17th. The clash was...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/lisandro-martinez-shares-new-statement-meets-michael-carrick-club-hierarchy-after-subpar-results-2026-10-16-1057186",
     "time": "2026-10-16T13:17:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India coach weighs in on Jasprit Bumrah's workload management ahead of NZ tour",
-    "desc": "The stage is set for the multi-format series between India and New Zealand. The Indian team will be touring the Black Caps. The two sides will meet across five T20Is, five ODI matches, and two...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-coach-weighs-in-on-jasprit-bumrah-s-workload-management-ahead-of-nz-tour-2026-10-16-1057173",
-    "time": "2026-10-16T11:39:31.000Z"
   }
 ];
