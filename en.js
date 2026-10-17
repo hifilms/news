@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Ukraine resumes attacks on Russian oil refineries as U.S. relations teeter",
+    "desc": "Ukraine President Zekenskyy said “we are losing a strong partner” in the United States. He said that “it's painful when President Trump chooses one side, not our side. But we are OK that he's in the middle”",
+    "img": "https://th-i.thgim.com/public/incoming/9jk8u1/article71589704.ece/alternates/LANDSCAPE_1200/2026-10-15T112352Z_665012958_RC2M3OA45VAX_RTRMADP_3_UKRAINE-CRISIS-ATTACK-AIRCRAFT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ukraine-resumes-attacks-on-russian-oil-refineries-as-us-relations-teeter/article71589573.ece",
+    "time": "2026-10-17T22:29:48.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "New China-North Korea bridge opens after more than a decade of delay",
+    "desc": "The New Yalu River Bridge initially was expected to enter use in 2014, when China had apparently completed construction on its side. But North Korea had not done corresponding work on its side at the time",
+    "img": "https://th-i.thgim.com/public/incoming/ymsc4p/article71589750.ece/alternates/LANDSCAPE_1200/2026-10-15T103925Z_834472537_RC2L3OAE1W1Q_RTRMADP_3_CHINA-NORTHKOREA-BRIDGE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/new-china-north-korea-bridge-opens-after-more-than-a-decade-of-delay/article71589742.ece",
+    "time": "2026-10-17T22:29:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Saini pitches prosperity, Congress alleges rising crime, debt",
+    "desc": "The Chief Minister said that while Congress leaders frequently claimed to have made Haryana a leading State during their tenure, the reality was that the State had emerged as number one in corruption, nepotism, fear, favouritism and regional discrimination under Congress rule",
+    "img": "https://th-i.thgim.com/public/incoming/1wyvpy/article71597971.ece/alternates/LANDSCAPE_1200/20261017253L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/war-of-words-in-haryana-cm-saini-pitches-prosperity-congress-alleges-rising-crime-debt/article71596746.ece",
+    "time": "2026-10-17T22:20:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Land shortage cripples Agriculture Ministry’s weather network rollout",
+    "desc": "Project is a year behind deadline, with over 96% of planned rain gauges and weather stations yet to be installed; private partners say IMD is retrospectively insisting that sensors be installed on the ground, not on rooftops",
+    "img": "https://th-i.thgim.com/public/news/national/7q3wxg/article71589784.ece/alternates/LANDSCAPE_1200/Untitled.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/land-shortage-cripples-agriculture-ministry-weather-network/article71588890.ece",
+    "time": "2026-10-17T22:11:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vice-President’s visit: tight security arrangements in place in Kozhikode",
+    "desc": "Traffic restrictions will be in place in Kozhikode city from 4 p.m. on Friday. The restrictions will cover the route from Ramanattukara-Airport Road junction through Thondayad, Arayidathupalam, Mavoor Road, Mananchira, Palayam, and Pushpa Junction to Chalappuram",
+    "img": "https://th-i.thgim.com/public/incoming/svgro4/article71589903.ece/alternates/LANDSCAPE_1200/V-P-to-inauguraG1PGFF6FP.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/vice-presidents-visit-tight-security-arrangements-in-place-in-kozhikode/article71587836.ece",
+    "time": "2026-10-17T22:10:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul Gandhi urges President to reconsider Dushyant Gautam’s appointment as Governor over pending CBI probe",
+    "desc": "Rahul Gandhi referred to the Ankita Bhandari murder case and said the appointment raised concerns because Article 361 of the Constitution provides immunity to the President and Governors from criminal proceedings while they hold office",
+    "img": "https://th-i.thgim.com/public/incoming/u7bg50/article71589490.ece/alternates/LANDSCAPE_1200/20261014540L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rahul-gandhi-urges-president-to-reconsider-dushyant-gautams-appointment-as-governor-over-pending-cbi-probe/article71588989.ece",
+    "time": "2026-10-17T22:10:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM cites hurdles in Kannur airport runway expansion plan",
+    "desc": "Land acquisition notification issued in 2017, but process yet to begin; affected residents reject rehabilitation package, demand original package or ₹15 lakh; proposed acquisition of 99.3235 hectares in Keezhallur under review over site’s unsuitability for runway expansion",
+    "img": "https://th-i.thgim.com/public/incoming/7nbxel/article71589534.ece/alternates/LANDSCAPE_1200/20261012006L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/cm-cites-hurdles-in-kannur-airport-runway-expansion-plan/article71588201.ece",
+    "time": "2026-10-17T21:35:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "90,000 devotees throng Vijayawada Kanaka Durga temple on fifth day of Dasara celebrations",
+    "desc": "Special rituals performed and haratis offered to the presiding deities atop Indrakeeladri; deities taken out in a grand procession along the Krishna riverfront and ghat road as part of the Nagarotsavam; devotional music, Harikatha and classical dance performances add to the festivities",
+    "img": "https://th-i.thgim.com/public/incoming/3wh1gr/article71589501.ece/alternates/LANDSCAPE_1200/DSC_5633.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Vijayawada/90000-devotees-throng-vijayawada-kanaka-durga-temple-on-fifth-day-of-dasara-celebrations/article71588749.ece",
+    "time": "2026-10-17T21:33:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Commercial goods are no longer entering Gaza, raising fears of worsening shortages in the territory",
+    "desc": "Merchants in Gaza coordinate directly with vendors outside the territory, whose shipments are examined by Israel's military before entering Gaza; the Ministry had been asking merchants to pay 10,000 shekels (about $3,226) per truck entering Gaza, the head of private truckers union said",
+    "img": "https://th-i.thgim.com/public/incoming/5n5wre/article71589786.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_Gaza_5_88_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/commercial-goods-are-no-longer-entering-gaza-raising-fears-of-worsening-shortages-in-the-territory/article71589618.ece",
+    "time": "2026-10-17T21:28:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Actor Imran Khan asked to leave India, days after protesting in Mumbai  against CEC Gyanesh Kumar",
+    "desc": "Bollywood actor and US citizen Imran Khan has been issued a notice by Mumbai Police directing him to leave India by October 28 for allegedly violating immigration laws. The action follows his detention after participating in an October 10 protest at August Kranti Maidan organized by the Cockroach Janata Party to demand the resignation of Chief Election Commissioner Gyanesh Kumar.",
+    "img": "https://th-i.thgim.com/public/incoming/wt2kui/article71587550.ece/alternates/LANDSCAPE_1200/IMRAN%20KHAN.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/actor-imran-khan-asked-to-leave-india-days-after-protesting-in-mumbai-against-cec-gyanesh-kumar/article71587554.ece",
+    "time": "2026-10-17T21:23:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fresh talks between MHA, Ladakh groups remain ‘inconclusive’; next round in Delhi on October 22",
+    "desc": "The Ministry made a 15-page presentation with details on the way forward during the day-long meeting in Leh while the members of key groups, the Leh Apex Body and Kargil Democratic Alliance, raised questions and submitted their own draft",
+    "img": "https://th-i.thgim.com/public/incoming/mgijag/article71589658.ece/alternates/LANDSCAPE_1200/TH09-Vijiata-MHGAAGGRUFG.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ladakh/fresh-talks-between-mha-ladakh-groups-remain-inconclusive-next-round-in-delhi-on-october-22/article71589227.ece",
+    "time": "2026-10-17T21:22:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When a man becomes god: The story of Kathivanoor Veeran Theyyam",
+    "desc": "What does it take for a man to become a god? In North Keralam, Theyyam artistes undergo hours of rituals, makeup and transformation to embody deities. Follow Vinu Peruvannan as he becomes Kathivanoor Veeran, a warrior-turned-deity, and discover the folklore, fire and faith behind Keralam’s extraordinary Theyyam tradition.",
+    "img": "https://th-i.thgim.com/public/incoming/bn6lfy/article71587200.ece/alternates/LANDSCAPE_1200/When%20Man%20Becomes%20God_Theyyam.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-when-a-man-becomes-god-the-ritual-of-kathivanoor-veeran-theyyam/article71587218.ece",
+    "time": "2026-10-17T21:15:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bowlers shouldn’t be too hard on themselves on bad days: Paul",
+    "desc": "“We have some pretty long team bowling meetings. So we don’t take that (success with the ball) for granted. I knew what I wanted to do, I knew what my field setting was, and I knew my plan,” Keemo Paul said",
+    "img": "https://th-i.thgim.com/public/incoming/xh3m7r/article71589289.ece/alternates/LANDSCAPE_1200/India_West_Indies_Cricket_92289.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/bowlers-shouldnt-be-too-hard-on-themselves-on-bad-days-paul/article71589012.ece",
+    "time": "2026-10-17T21:10:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "France demands Israel act after 'criminal violence' against visiting mayor",
+    "desc": "\"The Israeli authorities must arrest those responsible for these revolting acts and take them to justice. They must urgently halt this criminal violence and guarantee the safety of civilian populations, as they are compelled to do under international law,” says Mayor Bernard Baudoux",
+    "img": "https://th-i.thgim.com/public/news/national/ds54ll/article71597850.ece/alternates/LANDSCAPE_1200/AFP__20261014__D39T6UY__v1__HighRes__FrancePoliticsParliament.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/france-demands-israel-act-after-criminal-violence-against-visiting-mayor/article71597848.ece",
+    "time": "2026-10-17T20:50:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sports ministry reviews India’s Asian Games performance, demands results and future-proofing",
+    "desc": "The review not only addressed the issue of injured athletes travelling to Aichi-Nagoya — raised by Usha — but also tried to assess preparations for major upcoming events, including 2028 Olympics, Commonwealth Games and Asian Games in 2030",
+    "img": "https://th-i.thgim.com/public/incoming/3x98oq/article71588508.ece/alternates/LANDSCAPE_1200/PTI09_08_2026_000422B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/sports-ministry-reviews-indias-asian-games-performance-demands-results-and-future-proofing/article71588496.ece",
+    "time": "2026-10-17T20:41:24.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "North Korea says it tested cruise missiles designed to be fired from submarines",
+    "desc": "North Korean state media said the tests were aimed at assessing the readiness of the country's underwater combat systems, improving the Navy's ability to carry out strategic missions and demonstrating the reliability of its nuclear deterrent",
+    "img": "https://th-i.thgim.com/public/news/national/z4503x/article71586565.ece/alternates/LANDSCAPE_1200/iStock-1153689138.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/north-korea-says-it-tested-cruise-missiles-designed-to-be-fired-from-submarines/article71586524.ece",
+    "time": "2026-10-17T20:11:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Houthi attack on Saudi oil giant raises global energy concerns",
+    "desc": "The conflict in Yemen has entered a dangerous new phase after Iran-backed Houthi rebels targeted the headquarters of Saudi oil giant Aramco in Dhahran. While there were no reported fatalities, the strike damaged parts of the company’s headquarters and highlighted the Houthis’ growing ability to hit strategic targets deep inside Saudi Arabia. The attack comes amid renewed fighting in Yemen, repeated strikes on Saudi infrastructure and growing concerns over regional stability, global energy supplies and the risk of a wider Middle East conflict.",
+    "img": "https://th-i.thgim.com/public/incoming/2lxrnc/article71587459.ece/alternates/LANDSCAPE_1200/TeMEN.jpg.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/houthi-attack-on-saudi-oil-giant-raises-global-energy-concerns/article71587462.ece",
+    "time": "2026-10-17T20:05:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "‘Enormous potential’ for India-Canada ties amidst global uncertainty: Canadian Foreign Minister",
+    "desc": "Minister Anita Anand is in India along with Minister of International Trade Maninder Sidhu for engagements with External Affairs Minister S. Jaishankar and Commerce Minister Piyush Goyal; the Canadian Minister indicated that PM Modi would visit Canada later in December",
+    "img": "https://th-i.thgim.com/public/incoming/5l6glq/article71584546.ece/alternates/LANDSCAPE_1200/HUl8po4a8AAV-kE.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-meets-canadian-minister-anita-anand-discussions/article71584510.ece",
+    "time": "2026-10-17T19:43:07.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Oil prices retreat as investors weigh supply outlook, West Asia tensions",
     "desc": "Brent crude futures fell $1.64, or 1.6%, to $104.42 a barrel by 0337 GMT, while U.S. West Texas Intermediate crude futures were down 98 cents, or 1%, to $94.11, reversing gains from the ‌previous session",
@@ -7,6 +169,24 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/oil-prices-dip-as-supply-risks-from-west-asia-tensions-clash/article71586615.ece",
     "time": "2026-10-17T19:42:40.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Why is Spain facing a housing crisis?",
+    "desc": "How are tourism and investment funds worsening the crisis? Why is Spain struggling to provide affordable housing? How has the housing crisis affected Sánchez’s government? What measures has the government proposed to tackle the crisis? What is at stake in Spain’s snap election?",
+    "img": "https://th-i.thgim.com/public/incoming/bgqr5r/article71585211.ece/alternates/LANDSCAPE_1200/2026-10-09T174919Z_681455989_RC2TZNAS0F63_RTRMADP_3_SPAIN-HOUSING-MARICARMEN-PROTEST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/why-is-spain-facing-a-housing-crisis-explained/article71583583.ece",
+    "time": "2026-10-17T19:42:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Justin Rose",
+    "desc": "The 13-time PGA Tour winner feels that it is an important time for the sport globally and India is key to its development, is willing to constantly tweak his game in order to stay relevant with the modern times",
+    "img": "https://th-i.thgim.com/public/sport/wp6zcx/article71585464.ece/alternates/LANDSCAPE_1200/TH15%20JUSTIN%20ROSE.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/i-would-love-to-push-myself-to-try-and-win-another-major-justin-rose/article71585405.ece",
+    "time": "2026-10-17T19:40:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -25,24 +205,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/bob-stock-tanks-35-as-nmc-founder-shetty-sues-bank-for-15-bn/article71584927.ece",
     "time": "2026-10-17T19:01:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sudha Pillai panel submits report on KIIFB",
-    "desc": "The terms of reference of the panel included recommending measures for restructuring KIIFB, redeploying its institutional capacities within the government, and laying out future courses of action regarding subsidiary or spin-off entities established by KIIFB",
-    "img": "https://th-i.thgim.com/public/incoming/xvg250/article71585026.ece/alternates/LANDSCAPE_1200/KIIFB.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/sudha-pillai-panel-submits-report-on-kiifb/article71584978.ece",
-    "time": "2026-10-17T19:00:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi Police register at least 10 FIRs against alleged right-wing activists over assaults on protesters",
-    "desc": "The action comes after a slew of social media posts demanded action; videos and photographs shared by citizens, activists and political organisations prompted the police to register cases and arrest five accused in separate incidents, while others are being traced",
-    "img": "https://th-i.thgim.com/public/incoming/2n9ylr/article71595583.ece/alternates/LANDSCAPE_1200/GYANESH%20PROTEST%20DELHI%20103.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/anti-cec-protest-delhi-police-registers-at-least-10-firs-over-assaults-on-protesters-after-sustained-public-pressure/article71595546.ece",
-    "time": "2026-10-17T19:00:20.000Z"
   },
   {
     "cat": "World",
@@ -270,15 +432,6 @@ const newsData_en = [
     "time": "2026-10-17T16:05:07.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Ranji Trophy 2026-27",
-    "desc": "With the second new ball just two overs old, Assam will walk out on the fourth morning with its tails up, hoping to find a crack in the nagging sixth-wicket partnership between Salil and Emanjot",
-    "img": "https://th-i.thgim.com/public/incoming/5kl7kz/article71579799.ece/alternates/LANDSCAPE_1200/11_India%20vs%20Australia.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-2026-27-punjab-assam-day-three-report/article71579787.ece",
-    "time": "2026-10-17T16:03:55.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "NCB busts two synthetic drug labs in Greater Noida, seizes drugs worth Rs 50 crore",
     "desc": "The Narcotics Control Bureau conducted a significant raid on two synthetic-drug laboratories in Greater Noida. During the operation, authorities seized large quantities of Methamphetamine and precursor chemicals. Two individuals were arrested, including a Nigerian national using a false identity. Investigators are tracing financial and chemical supply networks linked to the suspects. Citizens are urged to report suspicious activities to promote public safety and environmental health.",
@@ -313,15 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/teja-sajja-on-hosting-the-traitors-telugu-i-had-to-be-serious-unlike-my-real-personality/article71565582.ece",
     "time": "2026-10-17T15:35:59.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Indian student groups in London protest against CEC Gyanesh Kumar, SIR; Govt supporters hold counter-protest",
-    "desc": "While the “Stop Vote Chori” protest cheered for activist Dhruv Rathee as the keynote speaker, chants of “Modi, Modi” rang out from a smaller group across the Gandhi statue, being kept apart by Metropolitan Police officers",
-    "img": "https://th-i.thgim.com/public/incoming/qc0lq0/article71597279.ece/alternates/LANDSCAPE_1200/20261017240L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/indian-student-groups-in-london-protest-against-cec-gyanesh-kumar-sir-govt-supporters-hold-counter-protest/article71597243.ece",
-    "time": "2026-10-17T15:25:39.000Z"
   },
   {
     "cat": "Business",
@@ -405,24 +549,6 @@ const newsData_en = [
     "time": "2026-10-17T14:17:35.000Z"
   },
   {
-    "cat": "World",
-    "title": "Gunmen kill 24 in Nigerian attacks",
-    "desc": "There has been a recent increase in attacks on communities in the two regions, blamed on gangs engaged in kidnapping for ransom and cattle rustling — locally referred to as bandits, and on jihadist groups",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/gunmen-kill-24-in-nigerian-attacks/article71576595.ece",
-    "time": "2026-10-17T14:11:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "France braces for fresh student demonstrations as Macron calls for ‘respect’",
-    "desc": "Students have blocked entrances to hundreds of lycees — high schools for children 15 to 18 — since late September to rail against poor classroom conditions, with squads of riot police deployed and occasionally violent clashes erupting",
-    "img": "https://th-i.thgim.com/public/incoming/94q2kx/article71576677.ece/alternates/LANDSCAPE_1200/2026-10-05T072911Z_1512977447_RC2VWNA37XQS_RTRMADP_3_FRANCE-PROTEST.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/france-braces-for-fresh-student-demonstrations-as-macron-calls-for-respect/article71576578.ece",
-    "time": "2026-10-17T14:10:53.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Standalone profit rises 20% to Rs 14,843 crore, NII up 17.7%",
     "desc": "ICICI Bank has reported a remarkable 20.1 percent surge in standalone net profit for Q2 of FY 2026-27. This impressive performance is further highlighted by a 22.28 percent increase in consolidated net profit, which reached Rs 16,333.18 crore. Year-on-year, net interest income rose by 17.7 percent, alongside significant growth in advances and deposits, while asset quality improved with a drop in the gross non-performing asset ratio to 1.20 percent.",
@@ -441,15 +567,6 @@ const newsData_en = [
     "time": "2026-10-17T13:53:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Nine murders' claim, then a clarification: How 'Chhote Sarkar' has put Nitish, JD(U) on the spot",
-    "desc": "Anant Singh is no ordinary legislator as locals rarely use his given name. They call him 'Chhote Sarkar', or little lord, because in the Barh and Mokama belt his word has often counted for more than the government’s. His story begins with his elder brother, Dilip Singh, who won as an independent and became a minister in Lalu Prasad’s cabinet during its first term, from 1990 to 1995.",
-    "img": "https://static.toiimg.com/photo/msid-135015143,imgsize-76478.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nine-murders-claim-then-a-clarification-how-chote-sarkar-has-put-nitish-jdu-on-the-spot/articleshow/135014764.cms",
-    "time": "2026-10-17T13:36:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Food, fuel and precious metals drive September retail inflation to 23-month high of 5.5%",
     "desc": "Inflation as measured by the Consumer Price Index (CPI) in September 2026 was the highest since October 2024. The rate in September also marked a substantial increase over the 4.8% rate seen in August 2026",
@@ -459,15 +576,6 @@ const newsData_en = [
     "time": "2026-10-17T13:35:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Can't die like this': Indian pilot Smit Machchhar recalls flydubai flight ordeal",
-    "desc": "In a shocking incident on September 30, Indian Captain Smit Machchhar endured an assault by his Omani co-pilot aboard flydubai flight FZ1073 en route from Dubai to Tel Aviv. With injury and determination, Machchhar opened the cockpit door, allowing passengers to step in and restrain the assailant. The aircraft landed safely in Tabuk, Saudi Arabia, following a critical altitude drop.",
-    "img": "https://static.toiimg.com/photo/msid-135015169,imgsize-224188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cant-die-like-this-indian-pilot-smit-machchhar-recalls-flydubai-flight-ordeal/articleshow/135014940.cms",
-    "time": "2026-10-17T13:26:32.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Rajpal Yadav calls wife Radha 'a diamond' in sweet birthday post for her",
     "desc": "Rajpal Yadav took to social media to celebrate his wife Radha's birthday with a touching tribute. He expressed his heartfelt gratitude for her steadfast support during tough times, recognizing how much she influences their children's lives. Rajpal praised Radha's selflessness as she always prioritizes family happiness over her own wishes, dubbing her the diamond of their family. He ended the post with a warm birthday wish for her.",
@@ -475,24 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-calls-wife-radha-a-diamond-in-sweet-birthday-post-for-her-agar-meri-zindagi-mein-kisi-ka-sabse-bada-karz-hai-toh-woh-hai-meri-dear-radha-ka/articleshow/135014970.cms",
     "time": "2026-10-17T13:18:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "FSSAI proposes ban on added sugars in infant food for babies up to 6 months",
-    "desc": "The Food Safety and Standards Authority of India has proposed a ban on adding fructose and sucrose in infant food. This proposal aims to impose stricter regulations for foods intended for infants up to six months old. The draft amendment seeks to enhance nutritional safeguards during a critical development period. Stakeholders are invited to submit their objections and suggestions regarding the proposal.",
-    "img": "https://static.toiimg.com/photo/msid-135015400,imgsize-131102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fssai-proposes-ban-on-added-sugars-in-infant-food-for-babies-up-to-6-months/articleshow/135014856.cms",
-    "time": "2026-10-17T13:09:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'An evening in Paris': Opposition questions 'nature' of Punjab CM Mann's France visit",
-    "desc": "Punjab Chief Minister Bhagwant Mann's trip to Paris has triggered criticism from opposition leaders and parties. Concerns have been raised regarding drug abuse, law and order, and recent violent incidents in the state. Critics question the appropriateness of Mann's foreign visit, especially as he celebrated his birthday during a crisis. Allegations suggest that he attended a police meeting under the influence of alcohol, which raises further concerns.",
-    "img": "https://static.toiimg.com/photo/msid-135014678,imgsize-1497889.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/an-evening-in-paris-opposition-questions-nature-of-punjab-cm-manns-france-visit/articleshow/135014468.cms",
-    "time": "2026-10-17T12:50:43.000Z"
   },
   {
     "cat": "Sports",
@@ -808,95 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/health/indian-german-firms-to-collaborate-on-immunoglobulin-products-indian-embassy/article71591495.ece",
     "time": "2026-10-16T07:36:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why translating AI advances to the real world is a major challenge",
-    "desc": "AI systems more reliable in everyday settings is a challenge worth solving, not just to improve gadgets and apps, but because AI has the potential to support human well-being, whether that means safer streets, smarter healthcare or more secure homes",
-    "img": "https://th-i.thgim.com/public/incoming/pkygws/article71543297.ece/alternates/LANDSCAPE_1200/healthcare_ai.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/from-lab-to-life-why-translating-ai-advances-to-the-real-world-is-a-major-challenge/article71543262.ece",
-    "time": "2026-10-16T04:58:15.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The ‘WarGames’ problem: Computer science has long understood what it takes to keep AI under control",
-    "desc": "The problem with headlines proclaiming that AI agents have gone rogue goes beyond anthropomorphising the technology. It creates the impression that the agents were beyond the control of the AI companies that made them and there was little the companies could do about it.",
-    "img": "https://th-i.thgim.com/public/incoming/pt9ybk/article71539827.ece/alternates/LANDSCAPE_1200/iStock-1196705579.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/the-wargames-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control/article71539805.ece",
-    "time": "2026-10-15T21:05:38.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Old doubts linger, yet new Microsoft quantum chip raises the stakes",
-    "desc": "Not everyone is convinced Microsoft learnt the bigger lesson from its experience with announcing the Majorana 1 chip. As University of Pittsburgh professor Sergey Frolov has said, Microsoft’s previous record has left him unwilling to treat the new work as resting on a well-understood foundation",
-    "img": "https://th-i.thgim.com/public/incoming/nqu0nu/article71583021.ece/alternates/LANDSCAPE_1200/2026-09-22T200012Z_1427311781_RC2VDLAPOBCU_RTRMADP_3_MICROSOFT-QUANTUM.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/majorana-2-old-doubts-linger-new-microsoft-quantum-chip-raises-stakes/article71583068.ece",
-    "time": "2026-10-14T09:47:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "What is New York City’s ‘Click to Cancel’ rule, and does India have a similar policy?",
-    "desc": "It can feel effortless to sign up online for a gym membership, a grocery subscription, a mobile phone plan, or a magazine delivery. When one wants to cancel the same service, however, the process is often so convoluted and time-consuming that customers end up keeping a subscription they’d prefer to eliminate",
-    "img": "https://th-i.thgim.com/public/incoming/wpglr9/article71577966.ece/alternates/LANDSCAPE_1200/2026-10-03T132601Z_1740526921_RC2PVNA8Y7E3_RTRMADP_3_USA-ELECTION-NEW-YORK.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/what-is-new-york-citys-click-to-cancelrule-and-does-india-have-asimilarpolicy/article71578030.ece",
-    "time": "2026-10-14T06:23:59.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk and Mukesh Ambani’s feud over Starlink",
-    "desc": "Elon Musk believes that India’s mobile internet market is skewed to favour the Ambani family and that his Starlink service deserves a fair chance in the country. However, critics have pointed to sovereignty and security concerns",
-    "img": "https://th-i.thgim.com/public/incoming/wzwh3t/article71578006.ece/alternates/LANDSCAPE_1200/Film_-_Musk_14315.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/elon-musk-and-mukesh-ambanis-feud-over-starlink-explained/article71577979.ece",
-    "time": "2026-10-14T02:38:53.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Oppo unveils ColorOS 17, to debut with Find X10 series on Oct 22 in India",
-    "desc": "Oppo Find X10 series will feature Find X10 Pro Max and Find X10. They will have Hasselblad-tuned camera system, flat LTPO displays with refresh rates of up to 144 Hz and IP66, IP68 and IP69 ratings",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/h2fl6m/article71579498.ece/alternates/LANDSCAPE_1200/AI%20Photo%20Agent.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/oppo-unveils-coloros-17-to-debut-with-find-x10-series-on-oct-22-in-india/article71579485.ece",
-    "time": "2026-10-13T13:08:14.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
