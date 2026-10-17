@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "India look to clinch T20I series against in-form West Indies",
+    "title": "India's fifth T20I against the West Indies gets abandoned as rain plays spoilsport, series ends 2-2",
+    "desc": "The Indian team took on the West Indies in the fifth and final T20I of the ongoing series. The two sides met at the M Chinnaswamy Stadium in Bengaluru on October 17th. The clash was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-s-fifth-t20i-against-the-west-indies-gets-abandoned-as-rain-plays-spoilsport-series-ends-2-2-2026-10-17-1057265",
+    "time": "2026-10-17T17:40:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tim Southee reflects on challenges posed by Jasprit Bumrah ahead of India's tour to New Zealand",
+    "desc": "The stage is set for the multi-format series between India and New Zealand. The two sides will take on each other across five ODIs, five T20Is, and two Test matches. Ahead of the series, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tim-southee-reflects-on-challenges-posed-by-jasprit-bumrah-ahead-of-india-s-tour-to-new-zealand-2026-10-17-1057263",
+    "time": "2026-10-17T17:01:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2027 auction to be held on December 16, franchises told to prepare for event in Goa: Report",
+    "desc": "In a major development, a recent report from Cricbuzz has suggested that the highly anticipated IPL (Indian Premier League) 2027 auction is slated to be held on December 16th in Goa. It is worth noting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2027-auction-to-be-held-on-december-16-franchises-told-to-prepare-for-event-in-goa-report-2026-10-17-1057257",
+    "time": "2026-10-17T14:58:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smriti Mandhana opens up after India edge out close victory against Zimbabwe in Raipur",
+    "desc": "India women got off to a good start to the series against Zimbabwe women. The two sides met at the Shaheed Veer Narayan Singh International Stadium, Raipur, on October 16th. The clash began with Zimbabwe...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-opens-up-after-india-edge-out-close-victory-against-zimbabwe-in-raipur-2026-10-17-1057252",
+    "time": "2026-10-17T13:37:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs WI 5th T20I Highlights Match abandoned due to rain, T20I series ends 2-2",
     "desc": "India and the West Indies take on each other in the fifth and final T20I of the ongoing series. The two sides meet at the M Chinnaswamy Stadium in Bengaluru for the clash, and both...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-india-coach-weighs-in-on-jasprit-bumrah-s-workload-management-ahead-of-nz-tour-2026-10-16-1057173",
     "time": "2026-10-16T11:39:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aditya Tare backs defending champions Arsenal to go all the way, retain their Premier League title",
-    "desc": "The Premier League 2026-27 season is well underway. Some of the sides have showcased some brilliant football so far. With the season still in its early stages, the Premier League table is beginning to take...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/aditya-tare-backs-defending-champions-arsenal-to-go-all-the-way-retain-their-premier-league-title-2026-10-16-1057166",
-    "time": "2026-10-16T10:24:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bhuvneshwar Kumar added to India's squad for fifth WI T20I as star pacer sustains injury; Check details",
-    "desc": "In a major change, the BCCI (Board of Control for Cricket in India) has come forward and revealed that veteran pacer Bhuvneshwar Kumar will be added to the Indian’s squad for the fifth and final...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bhuvneshwar-kumar-added-to-india-s-squad-for-fifth-wi-t20i-as-star-pacer-sustains-injury-check-details-2026-10-16-1057155",
-    "time": "2026-10-16T09:03:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Nayar reflects on Sanju Samson's form, backs him to do well against WI in Bengaluru",
-    "desc": "The stage is set for the fifth and final T20I of the ongoing series between India and the West Indies. The two sides will meet at the M Chinnaswamy Stadium in Bengaluru on October 17th....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-nayar-reflects-on-sanju-samson-s-form-backs-him-to-do-well-against-wi-in-bengaluru-2026-10-16-1057154",
-    "time": "2026-10-16T08:40:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana reflects on leading India women, lays down the plan ahead of the Women's Champions Trophy",
-    "desc": "The Indian women’s team is hitting its peak; after winning the ODI World Cup 2025, the side has its eyes set at the Champions Trophy 2027. The inaugural edition of the Women’s Champions Trophy kicks...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-reflects-on-leading-india-women-lays-down-the-plan-ahead-of-the-women-s-champions-trophy-2026-10-16-1057146",
-    "time": "2026-10-16T07:37:19.000Z"
   }
 ];
