@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India look to clinch T20I series against in-form West Indies",
+    "desc": "India and the West Indies take on each other in the fifth and final T20I of the ongoing series. The two sides meet at the M Chinnaswamy Stadium in Bengaluru for the clash, and both...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-5th-t20i-live-score-india-look-to-clinch-t20i-series-against-in-form-west-indies-1057249",
+    "time": "2026-10-17T12:37:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will weather in Bengaluru fare for the fifth T20I?",
+    "desc": "The stage is set for the fifth and final T20I of the ongoing series between India and the West Indies. The two sides are slated to take on each other at the M Chinnaswamy Stadium...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-weather-report-how-will-weather-in-bengaluru-fare-for-the-fifth-t20i-2026-10-17-1057240",
+    "time": "2026-10-17T11:37:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mahela Jayawardene parts ways with Mumbai Indians ahead of IPL 2027",
+    "desc": "With the IPL (Indian Premier League) 2027 season looming on the horizon, five-time champions Mumbai Indians will go under a major overhaul as their head coach, former Sri Lanka cricketer Mahela Jayawardene, announced that he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mahela-jayawardene-parts-ways-with-mumbai-indians-ahead-of-ipl-2027-2026-10-17-1057235",
+    "time": "2026-10-17T10:24:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India announce Test and two separate ODI squads for New Zealand series, Ravindra Jadeja dropped",
     "desc": "India have announced two separate ODI squads for the upcoming five-match ODI series against New Zealand, starting November 4 in Auckland. All the key Test players, excluding Mohammad Siraj, have been rested for the final...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-reflects-on-leading-india-women-lays-down-the-plan-ahead-of-the-women-s-champions-trophy-2026-10-16-1057146",
     "time": "2026-10-16T07:37:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Veteran batter Punam Raut announces retirement from international cricket",
-    "desc": "In a major development, veteran India women’s batter Punam Raut recently came forward and announced her retirement from international cricket. Turning 37 years old on October 14th, Rau decided to retire from all forms of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/veteran-batter-punam-raut-announces-retirement-from-international-cricket-2026-10-16-1057138",
-    "time": "2026-10-16T06:26:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Started with bowling': Shreyas Iyer opens up on what went wrong for India after 4th T20I loss against WI",
-    "desc": "Team India and the West Indies continued their ongoing T20I series by taking on each other in the fourth T20I. The two sides met at the Rajiv Gandhi International Stadium in Hyderabad for the clash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/started-with-bowling-shreyas-iyer-opens-up-on-what-went-wrong-for-india-after-4th-t20i-loss-against-wi-2026-10-16-1057130",
-    "time": "2026-10-16T05:21:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shafali Verma wants India to mix a fearless brand of cricket with smartness under new captain Smriti Mandhana",
-    "desc": "India women’s vice-captain Shafali Verma has outlined the team’s approach ahead of the upcoming series against Zimbabwe. She said that the focus will be on combining aggressive cricket with better decision-making, as the goal is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-wants-india-to-mix-a-fearless-brand-of-cricket-with-smartness-under-new-captain-smriti-mandhana-2026-10-15-1057096",
-    "time": "2026-10-15T14:24:02.000Z"
   }
 ];
