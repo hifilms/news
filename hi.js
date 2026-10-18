@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Cricket West Indies name replacement for Keemo Paul ahead of Bangladesh Tests; Check details",
+    "desc": "With the conclusion of the multi-format series against the Indian team, the West Indies is gearing up for a Test series against Bangladesh. The two sides will take on each other in two Test matches,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cricket-west-indies-name-replacement-for-keemo-paul-ahead-of-bangladesh-tests-check-details-2026-10-18-1057320",
+    "time": "2026-10-18T18:14:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India women dominate Zimbabwe to clinch T20I series, register stellar nine-wicket win in Raipur",
     "desc": "The ongoing T20I series between India women and Zimbabwe women continued with the two sides taking on each other at the Shaheed Veer Narayan Singh International Stadium, Raipur, on October 18th. It is interesting to...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-opens-up-after-india-edge-out-close-victory-against-zimbabwe-in-raipur-2026-10-17-1057252",
     "time": "2026-10-17T13:37:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs WI 5th T20I Highlights Match abandoned due to rain, T20I series ends 2-2",
-    "desc": "India and the West Indies take on each other in the fifth and final T20I of the ongoing series. The two sides meet at the M Chinnaswamy Stadium in Bengaluru for the clash, and both...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-5th-t20i-live-score-india-look-to-clinch-t20i-series-against-in-form-west-indies-1057249",
-    "time": "2026-10-17T12:37:37.000Z"
   }
 ];

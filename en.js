@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "FIR against officials of Reliance Consumer Products, Reliance Retail, Blinkit and Zomato Hyperpure over expired food products",
+    "desc": "The Shanti Nagar police station in Thane registered the FIR. It names 10 accused, including senior officials and employees associated with Reliance Consumer Products, Reliance Retail, Blinkit, and Zomato Hyperpure, as well as disposal agency operators and local suppliers.",
+    "img": "https://th-i.thgim.com/public/incoming/o95o48/article71595453.ece/alternates/LANDSCAPE_1200/PTI09_23_2026_000187B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/fir-against-reliance-consumer-products-director-9-others-after-fda-crackdown-on-expired-food-products/article71595443.ece",
+    "time": "2026-10-18T18:36:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Majeed Annan, the man who brought Khasakkinte Ithihasam alive for visitors to Thasrak, is no more",
+    "desc": "Majeed, who worked for years as a caretaker at the O.V. Vijayan Memorial Cultural Centre at Thasrak, was a link between the writer and the people who continued to visit the place in search of the novel’s world",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/7qkfry/article71597111.ece/alternates/LANDSCAPE_1200/Majeed.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/majeed-annan-the-man-who-brought-khasakkinte-ithihasam-alive-for-visitors-to-thasrak-is-no-more/article71597077.ece",
+    "time": "2026-10-18T18:17:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dua Lipa takes on Samsung in a $15 million image rights lawsuit",
+    "desc": "Dua Lipa is opposing Samsung’s bid to dismiss her $15 million lawsuit over the alleged unauthorised use of her photograph on television packaging. According to Law Commentary, the singer’s lawyers argue that the image could have falsely suggested she endorsed Samsung’s products. The company disputes the claim, and the court has yet to rule on its dismissal request.",
+    "img": "https://static.toiimg.com/photo/msid-135033851,imgsize-58798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dua-lipa-fights-samsungs-bid-to-dismiss-15-million-lawsuit-over-alleged-unauthorised-use-of-her-photo-on-tv-boxes-claiming-the-packaging-falsely-suggested-she-endorsed-its-products/articleshow/135033710.cms",
+    "time": "2026-10-18T18:16:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SMA flays Waqf Board reconstitution in Keralam",
+    "desc": "District president K.V. Siddique Faizy said the exclusion two Samastha Kerala Jamiyyathul Ulama groups was unfair, given the role of the two organisations in protecting Waqf properties and running religious and educational institutions in Keralam",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/sma-flays-waqf-board-reconstitution-in-keralam/article71596747.ece",
+    "time": "2026-10-18T18:15:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police fire six rounds in air to defuse tension in Pulivendula",
+    "desc": "Trouble breaks out as YSRCP activists attempt to barge into the nomination filing centre in large numbers; police resort to mild lathi-charge to chase away trouble-mongers; Kadapa MP Avinash Reddy accuses Chief Minister and HRD Minister of ‘instigating attacks’",
+    "img": "https://th-i.thgim.com/public/incoming/yibdf2/article71597106.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-17%20at%2019.57.41.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-fire-six-rounds-in-air-to-defuse-tension-in-pulivendula/article71596343.ece",
+    "time": "2026-10-18T18:14:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Karnataka takes on strong challenger Saurashtra",
+    "desc": "The southern giant has not beaten the West India outfit in the competition since 2009; stand-in captain Shreyas will be eager to prove his worth; the home side will be hoping the rain stays away",
+    "img": "https://th-i.thgim.com/public/incoming/raf45/article71596884.ece/alternates/LANDSCAPE_1200/TH01-SUDU-DuleeG7UGFHMV3.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-karnataka-takes-on-strong-challenger-saurashtra/article71596893.ece",
+    "time": "2026-10-18T17:55:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US says Europe refused to join push for tariffs on India, China over Russian oil",
+    "desc": "Scott Bessent has criticized European nations for refusing to impose tariffs on India and China, which purchase Russian oil. He highlighted that the US has approached its allies to coordinate actions against energy purchases from Russia. Bessent emphasized the need for the US to reassess its strategy regarding sanctions and tariffs, especially with respect to energy supplies.",
+    "img": "https://static.toiimg.com/photo/msid-135033385,imgsize-66212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/us-says-europe-refused-to-join-push-for-tariffs-on-india-china-over-russian-oil/articleshow/135033241.cms",
+    "time": "2026-10-18T17:51:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Should focus on actual criminals’: Dipke jabs police after shots fired at Tiger Shroff",
+    "desc": "Abhijeet Dipke expressed his frustrations on social media regarding the recent shooting incident involving actor Tiger Shroff. The attack occurred while Shroff was leaving a birthday celebration in Mumbai, resulting in injuries to his driver and a fan. Three assailants on motorcycles fled the scene shortly after the incident. Police are investigating a social media post claiming responsibility for the attack and threatening others in the film industry.",
+    "img": "https://static.toiimg.com/photo/msid-135033221,imgsize-182808.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/should-focus-on-actual-criminals-dipke-jabs-police-after-shots-fired-at-tiger-shroff/articleshow/135033073.cms",
+    "time": "2026-10-18T17:41:14.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Andrey Rublev's bid to reinvent himself",
     "desc": "Rublev has slipped to No. 23, falling outside the top 20 for the first time since January 2020 six weeks ago. For a player who finished inside the top 10 between 2020 and 2024, for five consecutive seasons, and reached 10 Grand Slam quarter-finals, the decline is striking.",
@@ -7,33 +79,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/breaking-down-to-build-again-andrey-rublevs-bid-to-reinvent-himself/articleshow/135032288.cms",
     "time": "2026-10-18T17:27:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TDP hopeful of a cakewalk in Kamalapuram Municipality as YSRCP stays away from contest",
-    "desc": "Party’s Kadapa Mayor candidate Matli Suvarna files her nomination; district police register cases on 63 people in Pulivendula for their alleged involvement in violent incidents on Saturday and place leaders of both parties under house arrest",
-    "img": "https://th-i.thgim.com/public/incoming/5nm8xx/article71600501.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-18%20at%2018.11.50.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-hopeful-of-a-cakewalk-in-kamalapuram-municipality-as-ysrcp-stays-away-from-contest/article71600295.ece",
-    "time": "2026-10-18T17:26:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Canada keen to deepen partnerships with Karnataka quantum computing, AI, aerospace and defence: Trade Minister Maninder Sidhu",
-    "desc": "Mr. Sidhu, who was in the city as part of a high-level Canadian trade mission to India, said Canada and India had complementary economic strengths and were well positioned to build stronger partnerships at a time when global trade patterns were being reshaped.",
-    "img": "https://th-i.thgim.com/public/incoming/9ya6vx/article71596705.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-16%20at%2021.23.38.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/canada-keen-to-deepen-partnerships-with-karnataka-quantum-computing-ai-aerospace-and-defence-trade-minister-maninder-sindhu/article71593364.ece",
-    "time": "2026-10-18T17:16:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ten youths from Punjab with unlicensed weapons arrested in Rayachoti",
-    "desc": "Tension prevails as TDP men confront supporters of a political party outside the lodge on Madanapalle Road where the accused have allegedly been staying; investigation into the purpose of their stay at the lodge and their possible links to Friday’s clashes under way, say police",
-    "img": "https://th-i.thgim.com/public/incoming/lhptu3/article71596613.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-17%20at%2017.11.02.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ten-youths-from-punjab-with-unlicensed-weapons-arrested-in-rayachoti/article71596238.ece",
-    "time": "2026-10-18T17:13:55.000Z"
   },
   {
     "cat": "Politics",
@@ -45,15 +90,6 @@ const newsData_en = [
     "time": "2026-10-18T17:09:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "The debate over immunity to CEC, ECs",
-    "desc": "The SC has issued a notice to the Centre on a plea challenging Section 16 of the 2023 law, which grants CEC and ECs lifelong immunity for actions taken in discharge of official duties; the provision is more expansive than constitutional immunities provided to the President and Governors; as well as Parliamentary privileges granted to legislators",
-    "img": "https://th-i.thgim.com/public/incoming/6dhimk/article71589748.ece/alternates/LANDSCAPE_1200/CJP%20PROTEST%20100.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/the-debate-over-immunity-to-cec-ecs/article71589739.ece",
-    "time": "2026-10-18T16:57:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Kerala and Odisha eye a turnaround after chastening opening round results",
     "desc": "The host, which was put through the wringer by Jharkhand, will bank on home advantage while the visitor, smarting after a 10-wicket loss to Gujarat, will aim to bounce back; the weather, however, may have the final say with the venue experiencing heavy rains",
@@ -61,33 +97,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-kerala-and-odisha-eye-a-turnaround-after-chastening-opening-round-results/article71596439.ece",
     "time": "2026-10-18T16:55:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why does India need a trained workforce for elderly care?",
-    "desc": "India’s 60-plus population is projected to touch 347 million by 2050, underscoring the need for a robust caregiving ecosystem; a formal training programme, building on existing small-scale initiatives, could promote gender parity in caregiving and recognise informal, unpaid family caregivers",
-    "img": "https://th-i.thgim.com/public/news/6obub0/article71576742.ece/alternates/LANDSCAPE_1200/iStock-1392762085.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/why-does-india-need-a-trained-workforce-for-elderly-care/article71576741.ece",
-    "time": "2026-10-18T16:53:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Comparing SIR 2002-04 and 2025-26",
-    "desc": "Unlike previous SIRs, which had elaborate processes for preparing fresh rolls to ensure that no eligible elector would be taken off the rolls, the current SIR exercise adopts a flawed process that has led to the exclusion of lakhs of eligible voters; a point-by-point comparison is provided",
-    "img": "https://th-i.thgim.com/public/incoming/fsl9tw/article71576732.ece/alternates/LANDSCAPE_1200/vjkvg-sir%203.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/comparing-sir-2002-04-and-2025-26/article71576723.ece",
-    "time": "2026-10-18T16:50:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why UAPA demands urgent reform",
-    "desc": "UAPA’s vague provisions, stringent bail conditions and inconsistent judicial interpretations have enabled the prolonged imprisonment of activists, scholars and journalists without trial; Prof. G.N. Saibaba’s experience shows the urgent need to reform a legal regime that undermines civil liberties, due process and rule of law",
-    "img": "https://th-i.thgim.com/public/incoming/dgcplm/article71572510.ece/alternates/LANDSCAPE_1200/G.N.%20Saibaba%20at%20JNU%2013%2010%20DELHI%205.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/why-uapa-demands-urgent-reform/article71571306.ece",
-    "time": "2026-10-18T16:49:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -109,39 +118,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Understanding Gandhi’s re-emergence in India’s oppositional politics",
-    "desc": "Gandhi’s return to the centre of opposition politics shows a wider churn in India, with protests, citizen action and new political movements seeking greater accountability and systemic change; despite efforts to diminish his legacy, his emphasis on bottom-up political change remains relevant",
-    "img": "https://th-i.thgim.com/public/incoming/cr7qth/article71561179.ece/alternates/LANDSCAPE_1200/IMG_GettyImages-22869519_2_1_8DGJKOA7.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/understanding-gandhis-re-emergence-in-indias-oppositional-politics/article71560235.ece",
-    "time": "2026-10-18T16:46:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why stubble fires keep coming back",
-    "desc": "Stubble burning is the result of a combination of legal, technological and economic factors, including the paddy-wheat cycle, assured procurement and a narrow window between crops; a lasting solution needs stronger incentives for diversification, better residue management and more reliable measurement of burning",
-    "img": "https://th-i.thgim.com/public/incoming/5z6gy/article71561167.ece/alternates/LANDSCAPE_1200/PTI09_29_2025_000422B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/why-stubble-fires-keep-coming-back/article71559694.ece",
-    "time": "2026-10-18T16:46:01.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Amit Shah to meet families of Punjab drug-trade victims on Oct 19, vows crackdown on ‘chitta’ trade",
     "desc": "Home Minister Amit Shah is scheduled to meet families affected by drug-related deaths in Punjab. Multiple incidents have highlighted the growing issue of 'chitta' trade in the state. Recent deaths involve a father of a drug addict and two anti-drug activists. Shah has criticized the Punjab government for its handling of the drug crisis and promised action.",
     "img": "https://static.toiimg.com/photo/msid-135031934,imgsize-28450.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/amit-shah-to-meet-families-of-punjab-drug-trade-victims-on-oct-19-vows-crackdown-on-chitta-trade/articleshow/135031872.cms",
     "time": "2026-10-18T16:43:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The forgotten villages at the heart of Delhi’s urban history",
-    "desc": "Delhi’s villages were integral to the city’s history, but colonial surveys, land acquisition and urbanisation transformed their land and communities; as Delhi expands, preserving the heritage and living traditions of Delhi Dehat remains a challenge",
-    "img": "https://th-i.thgim.com/public/news/national/3x0sc4/article71534510.ece/alternates/LANDSCAPE_1200/2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/the-forgotten-villages-at-the-heart-of-delhis-urban-history/article71532892.ece",
-    "time": "2026-10-18T16:40:45.000Z"
   },
   {
     "cat": "Politics",
@@ -187,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2007-brad-pitt-launched-a-project-to-rebuild-new-orleans-the-story-behind-make-it-rights-ambitious-housing-mission-and-what-went-wrong/articleshow/135027217.cms",
     "time": "2026-10-18T16:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Out of work and outraged",
-    "desc": "While the immediate trigger for the students’ protest at Jantar Mantar was the repeated paper leaks, disillusionment among the youth runs much deeper. India has a significant youth population; however, unemployment remains high. Additionally, access to quality education has become limited due to a number of factors",
-    "img": "https://th-i.thgim.com/public/incoming/ytyaat/article71306847.ece/alternates/LANDSCAPE_1200/20260724284L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/education/out-of-work-and-outraged/article71306838.ece",
-    "time": "2026-10-18T16:18:59.000Z"
   },
   {
     "cat": "World",
@@ -406,15 +379,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Teen in England saves mom using AI; says he had a Hugh Laurie ‘House' moment",
-    "desc": "Facing a dire health crisis, two siblings in England turned to an AI chatbot for assistance after their mother experienced critical seizures. Traditional medical consultations failed to yield a diagnosis, prompting them to input her symptoms and scans into the AI system. Miraculously, the chatbot identified a prevalent vitamin deficiency associated with her Parkinson’s treatment, leading to effective care and a significant recovery for their mother.",
-    "img": "https://static.toiimg.com/photo/msid-135026708,imgsize-41874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/oxfordshire-resident-says-he-felt-he-was-in-hugh-lauries-hit-tv-show-house-as-he-describes-saving-his-mom-using-ai/articleshow/135026642.cms",
-    "time": "2026-10-18T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Saif Ali Khan reveals he has been attending PTA meetings at same school since he was 20",
     "desc": "Saif Ali Khan light-heartedly reflected on his extensive journey of attending parent-teacher meetings, starting at 20 and continuing to make appearances at 55. He humorously noted the challenges of managing four kids enrolled at the same institution. Meanwhile, Kareena Kapoor revealed that Saif proposed to her three times before she finally said yes; they have been happily married since 2012, sharing two sons together.",
     "img": "https://static.toiimg.com/photo/msid-135028822,imgsize-243347.cms",
@@ -430,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vidyut-jammwal-is-more-dhalsim-than-dhalsim-says-street-fighter-director-kitao-sakurai-he-owns-it-and-hes-so-proud-of-it/articleshow/135028366.cms",
     "time": "2026-10-18T11:58:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Can she crack BJP's women-voter fortress?",
-    "desc": "Dimple Yadav is stepping into the spotlight with a heightened political presence within the Samajwadi Party. As she actively campaigns and addresses rallies in anticipation of the Uttar Pradesh Assembly elections, her efforts aim to connect with women voters—a key demographic for the party's triumph. Her initiatives are centered on empowering women and addressing social issues that speak to the electorate.",
-    "img": "https://static.toiimg.com/photo/msid-135027859,imgsize-107926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-dimple-factor-can-she-crack-bjps-women-voter-fortress-deliver-up-to-akhilesh/articleshow/135027767.cms",
-    "time": "2026-10-18T11:30:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -640,15 +595,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘We've matched the defending champions’: Sammy after 2-2 India T20I draw",
-    "desc": "West Indies head coach Daren Sammy praised his team's progress after drawing the T20I series 2-2 against India, calling it a major step forward. He said the players have regained confidence, belief and their fighting spirit. Sammy also urged greater financial support for West Indies cricket, highlighting its rich legacy and stressing the importance of securing the game's future.",
-    "img": "https://static.toiimg.com/photo/msid-135024359,imgsize-177406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/weve-matched-the-defending-champions-west-indies-head-coach-daren-sammy-after-2-2-india-t20i-draw/articleshow/135024273.cms",
-    "time": "2026-10-18T05:58:04.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "‘Massive difference between words and actions’: Ex-cricketer on Jadeja’s snub",
     "desc": "Aakash Chopra is voicing his concerns about the absence of Ravindra Jadeja from India's ODI series against New Zealand, suggesting a preference for Axar Patel that contradicts previous commitments made by management regarding Jadeja's future. Additionally, the exclusion of Manav Suthar from the Test squad is puzzling, considering his stellar debut. Chopra advocates for selectors to openly discuss the reasons behind such omissions with players to foster transparency.",
     "img": "https://static.toiimg.com/photo/msid-135024351,imgsize-128290.cms",
@@ -793,12 +739,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "FEI suspends EFI from December 1, Indian riders, officials to be barred from international events",
-    "desc": "Explaining the reasons for the decision, the FEI said the dissolution of EFI's executive committee by the Delhi High Court in February, combined with the absence of fresh elections, had resulted in a prolonged governance crisis",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/fei-suspends-efi-from-december-1-indian-riders-officials-to-be-barred-from-international-events/article71591344.ece",
-    "time": "2026-10-18T00:19:40.000Z"
+    "title": "Neighbours question evergreens and sewer risk; board to revisit on Nov 10",
+    "desc": "Travis Kelce’s $5.35 million Ohio mansion faces fresh scrutiny as local officials continue reviewing plans for the historic lakeside estate. While the revised six-foot privacy fence received approval in September, the proposed rear landscaping remains unresolved. Neighbors have raised concerns about tree heights and potential damage to shared sewer lines. Bratenahl’s Architectural Review Board is scheduled to revisit the landscaping proposal on November 10, 2026, leaving parts of the property improvements pending.",
+    "img": "https://static.toiimg.com/photo/msid-135022423,imgsize-148517.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelces-5-35-million-mansion-faces-new-developments-as-officials-schedule-another-property-review/articleshow/135022409.cms",
+    "time": "2026-10-18T00:05:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -835,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-when-a-man-becomes-god-the-ritual-of-kathivanoor-veeran-theyyam/article71587218.ece",
     "time": "2026-10-17T21:15:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bowlers shouldn’t be too hard on themselves on bad days: Paul",
-    "desc": "“We have some pretty long team bowling meetings. So we don’t take that (success with the ball) for granted. I knew what I wanted to do, I knew what my field setting was, and I knew my plan,” Keemo Paul said",
-    "img": "https://th-i.thgim.com/public/incoming/xh3m7r/article71589289.ece/alternates/LANDSCAPE_1200/India_West_Indies_Cricket_92289.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/bowlers-shouldnt-be-too-hard-on-themselves-on-bad-days-paul/article71589012.ece",
-    "time": "2026-10-17T21:10:51.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +835,68 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/roundglass-sustains-short-film-a-spring-against-all-odds-to-be-showcased-at-international-film-festival/article71562550.ece",
     "time": "2026-10-17T19:40:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "BoB stock tanks 3.5% as NMC founder Shetty sues bank for $15 bn",
+    "desc": "Mr. Shetty has accused the Bank and 25 others of acting as an instrument in the siphoning of funds that led to the collapse of his business empire. Bank said it will defend the suit firmly and take all steps necessary to protect its interests.",
+    "img": "https://th-i.thgim.com/public/incoming/eo1v0t/article71585031.ece/alternates/LANDSCAPE_1200/2026-10-14T051303Z_1815291161_RC2YM1AM4QQT_RTRMADP_3_INDIA-BANK-OF-BARODA-SUIT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/bob-stock-tanks-35-as-nmc-founder-shetty-sues-bank-for-15-bn/article71584927.ece",
+    "time": "2026-10-17T19:01:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Better transport economics will depend on more than an apex label",
+    "desc": "The ITLA, a special purpose vehicle (SPV) under the Department for Promotion of Industry and Internal Trade (DPIIT) of Ministry of Commerce and Industry, seeks to address the lack of synchronisation among various transport infrastructure modes as PM’s GatiShakti go in full steam",
+    "img": "https://th-i.thgim.com/public/news/national/1fffu8/article71582861.ece/alternates/LANDSCAPE_1200/iStock-1453114790.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/itla-better-transport-economics-will-depend-on-more-than-an-apex-label/article71582825.ece",
+    "time": "2026-10-17T18:58:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "GTRI",
+    "desc": "US President Donald Trump waived tariffs on major buyers of Russian oil, providing temporary relief to India. While the immediate threat of trade penalties has eased, concerns over future tariffs remain. The GTRI suggests that India should focus on buying oil on commercial terms for long-term energy security. Existing sanctions on Russia remain unaffected, and US monitoring of energy purchases will continue.",
+    "img": "https://static.toiimg.com/photo/msid-135017406,imgsize-132006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/russia-sanctions-waiver-buys-time-for-india-but-offers-no-lasting-certainty-gtri/articleshow/135017208.cms",
+    "time": "2026-10-17T16:57:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Teja Sajja on hosting ‘The Traitors Telugu’: I had to be serious, unlike my real personality",
+    "desc": "Teja Sajja has been facing the camera since he was a little over two. Debuting as a child actor and later transitioning into an adult lead actor, he has over 30 films to his credit. Yet, something about his new assignment made him a tad nervous. Making his debut as a reality show host for The Traitors Telugu, which will stream on Prime Video from October 15, he found himself having to deliver several pages of the script in a single take.",
+    "img": "https://th-i.thgim.com/public/videos/shorts/2u4y7s/article71565573.ece/alternates/LANDSCAPE_1200/teja%20sajja.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/teja-sajja-on-hosting-the-traitors-telugu-i-had-to-be-serious-unlike-my-real-personality/article71565582.ece",
+    "time": "2026-10-17T15:35:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why the post-pandemic boom is different",
+    "desc": "India’s economy contracted by 5.8% in 2020 during the pandemic before rebounding with growth of 9.7% in 2021. It then expanded by more than 7% in each of the following four years. If current forecasts hold, India could surpass that record. The IMF has raised its growth projection for India in the current year from 6.4% to 7%.",
+    "img": "https://static.toiimg.com/photo/msid-135016152,imgsize-710744.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/the-indian-growth-story-why-the-post-pandemic-boom-is-different/articleshow/135015786.cms",
+    "time": "2026-10-17T14:59:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Man skipped ITR, declared Rs 12.9 lakh income after notice; ITAT cancels 200% penalty",
+    "desc": "The man in this case failed to file his income tax return, and the Income Tax Department issued him a notice. He subsequently responded by filing an ITR for assessment year (AY) 2018-19, reporting an income of Rs 12.9 lakh. However, the Income Tax Assessing Officer (AO) took the view that this income would have remained outside the tax net had the department not issued the notice to the man.",
+    "img": "https://static.toiimg.com/photo/msid-134997905,imgsize-562869.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/man-skipped-filing-itr-and-got-tax-notice-so-he-declared-rs-12-9-lakh-income-department-imposed-200-penalty-of-rs-3-99-lakh-on-taxable-amount-but-itat-cancels-it/articleshow/134992210.cms",
+    "time": "2026-10-17T14:38:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Standalone profit rises 20% to Rs 14,843 crore, NII up 17.7%",
+    "desc": "ICICI Bank has reported a remarkable 20.1 percent surge in standalone net profit for Q2 of FY 2026-27. This impressive performance is further highlighted by a 22.28 percent increase in consolidated net profit, which reached Rs 16,333.18 crore. Year-on-year, net interest income rose by 17.7 percent, alongside significant growth in advances and deposits, while asset quality improved with a drop in the gross non-performing asset ratio to 1.20 percent.",
+    "img": "https://static.toiimg.com/photo/msid-135015664,imgsize-52826.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/icici-bank-q2-results-standalone-profit-rises-20-to-rs-14843-crore-nii-up-17-7/articleshow/135015586.cms",
+    "time": "2026-10-17T14:06:36.000Z"
   }
 ];
