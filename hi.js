@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer weighs in on Abhishek Sharma's performances after WI T20I series",
+    "desc": "The five-game T20I series between India and the West Indies came to an end, the two sides locked horns across five brilliant matches, and the series eventually ended on a score of 2-2 after the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-abhishek-sharma-s-performances-after-wi-t20i-series-2026-10-18-1057304",
+    "time": "2026-10-18T11:40:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nahida Akter named Bangladesh women's new T20I captain, set to succeed Nigar Sultana in the role",
+    "desc": "In a major development, the BCB (Bangladesh Cricket Board) came forward and revealed that Nahida Akter will be the new T20I captain of Bangladesh women, taking over in the role from Nigar Sultana, who stepped...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nahida-akter-named-bangladesh-women-s-new-t20i-captain-set-to-succeed-nigar-sultana-in-the-role-2026-10-18-1057300",
+    "time": "2026-10-18T10:41:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are Nathan Lyon and Cameron Green not playing for Australia vs South Africa in 2nd Test in Gqeberha?",
+    "desc": "Australia made one change to their playing XI in the second Test against South Africa at St George's Park in Gqeberha. Nathan Lyon has been benched, with ace pacer Scott Boland returning to the playing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-nathan-lyon-and-cameron-green-not-playing-for-australia-vs-south-africa-in-2nd-test-in-gqeberha-2026-10-18-1057292",
+    "time": "2026-10-18T08:25:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Xabi Alonso issues crucial update on Emi Martinez after latter's headinjury against Everton",
     "desc": "The Premier League 2026-27 season saw Everton host Chelsea on October 17th. The two sides met at the Hill Dickinson Stadium, and it was Chelsea who came out on top, registering a 0-2 victory in...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-weather-report-how-will-weather-in-bengaluru-fare-for-the-fifth-t20i-2026-10-17-1057240",
     "time": "2026-10-17T11:37:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mahela Jayawardene parts ways with Mumbai Indians ahead of IPL 2027",
-    "desc": "With the IPL (Indian Premier League) 2027 season looming on the horizon, five-time champions Mumbai Indians will go under a major overhaul as their head coach, former Sri Lanka cricketer Mahela Jayawardene, announced that he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mahela-jayawardene-parts-ways-with-mumbai-indians-ahead-of-ipl-2027-2026-10-17-1057235",
-    "time": "2026-10-17T10:24:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India announce Test and two separate ODI squads for New Zealand series, Ravindra Jadeja dropped",
-    "desc": "India have announced two separate ODI squads for the upcoming five-match ODI series against New Zealand, starting November 4 in Auckland. All the key Test players, excluding Mohammad Siraj, have been rested for the final...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-announce-test-and-two-separate-odi-squads-for-new-zealand-series-ravindra-jadeja-dropped-2026-10-16-1057196",
-    "time": "2026-10-16T15:36:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lisandro Martinez shares new statement, meets Michael Carrick, club hierarchy after subpar results",
-    "desc": "One of the biggest clubs in world football, Manchester United is going through a rough patch. With the appointment of former midfielder Michael Carrick as their full-time head coach, the side had high hopes for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lisandro-martinez-shares-new-statement-meets-michael-carrick-club-hierarchy-after-subpar-results-2026-10-16-1057186",
-    "time": "2026-10-16T13:17:27.000Z"
   }
 ];
