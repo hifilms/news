@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "FWICEcondemns firing at Tiger Shroff; seeks security for actor",
+    "desc": "The Federation of Western India Cine Employees (FWICE) on Sunday strongly condemned the firing incident involving Bollywood actor Tiger Shroff's vehicle and called for immediate security measures to ensure the safety of the actor and his family.",
+    "img": "https://static.toiimg.com/photo/msid-135035188,imgsize-412887.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroff-car-firing-fwice-condems-firing-incident-seeks-immediate-security-for-actor-and-family/articleshow/135035175.cms",
+    "time": "2026-10-18T22:06:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Saini pitches prosperity, Congress alleges rising crime, debt",
+    "desc": "The Chief Minister said that while Congress leaders frequently claimed to have made Haryana a leading State during their tenure, the reality was that the State had emerged as number one in corruption, nepotism, fear, favouritism and regional discrimination under Congress rule",
+    "img": "https://th-i.thgim.com/public/incoming/1wyvpy/article71597971.ece/alternates/LANDSCAPE_1200/20261017253L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/war-of-words-in-haryana-cm-saini-pitches-prosperity-congress-alleges-rising-crime-debt/article71596746.ece",
+    "time": "2026-10-18T22:06:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cindy and Kaia remember Presley in tear-jerking posts",
+    "desc": "Cindy Crawford, Rande Gerber, and their daughter Kaia recently expressed their heartbreak following Presley Gerber's passing. Cindy shared an emotional Instagram tribute, reflecting on their love for him. Kaia expressed her deep grief and cherished memories they shared together as siblings. Rande also honored Presley by reposting their heartfelt messages on social media. The investigation into the circumstances surrounding Presley’s death is still ongoing.",
+    "img": "https://static.toiimg.com/photo/msid-135035164,imgsize-397911.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cindy-crawford-and-kaia-gerber-share-heartbreaking-posts-remembering-presley-gerber-month-after-shocking-demise-at-age-27/articleshow/135035139.cms",
+    "time": "2026-10-18T21:36:32.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "France demands Israel act after 'criminal violence' against visiting mayor",
+    "desc": "\"The Israeli authorities must arrest those responsible for these revolting acts and take them to justice. They must urgently halt this criminal violence and guarantee the safety of civilian populations, as they are compelled to do under international law,” says Mayor Bernard Baudoux",
+    "img": "https://th-i.thgim.com/public/news/national/fdde5a/article71597850.ece/alternates/LANDSCAPE_1200/AFP__20261014__D39T6UY__v1__HighRes__FrancePoliticsParliament.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/france-demands-israel-act-after-criminal-violence-against-visiting-mayor/article71597848.ece",
+    "time": "2026-10-18T21:31:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's Para Asian Games contingent showcases 5,000 years of heritage",
+    "desc": "More than 100 Indian athletes took part in the ceremony, led by Paralympic medallist sprinter Simran Sharma and top shuttler Pramod Bhagat, who carried the national flag as the contingent marched in with the Tricolour fluttering proudly",
+    "img": "https://th-i.thgim.com/public/incoming/skef8g/article71601143.ece/alternates/LANDSCAPE_1200/20261018300L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/indias-para-asian-games-contingent-showcases-5000-years-of-heritage/article71601142.ece",
+    "time": "2026-10-18T21:21:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition targets Fadnavis over 'deteriorating' law and order",
+    "desc": "Maharashtra Congress president Harshwardhan Sapkal accused the Mahayuti government of creating a \"jungle raj\" in the state following the firing incident involving Shroff and demanded CM Fadnavis's resignation on moral grounds over deteriorating law and order",
+    "img": "https://th-i.thgim.com/public/incoming/lb54lg/article71601133.ece/alternates/LANDSCAPE_1200/20261018420L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tiger-shroff-firing-incident-opposition-targets-fadnavis-over-deteriorating-law-and-order/article71601132.ece",
+    "time": "2026-10-18T20:41:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Disha visits Tiger after firing incident; Eknath Shinde condemns attack",
+    "desc": "Disha Patani visited Tiger Shroff’s residence after a firing incident in Mumbai’s Juhu area. Maharashtra Deputy Chief Minister Eknath Shinde met the actor’s family and condemned the attack, while Chief Minister Devendra Fadnavis called Tiger and assured him of swift action. The actor escaped unharmed, while his driver sustained a gunshot injury. Police are investigating.",
+    "img": "https://static.toiimg.com/photo/msid-135035086,imgsize-97644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/disha-patani-visits-tiger-shroffs-residence-after-firing-incident-eknath-shinde-meets-family-condemns-attack-devendra-fadnavis-calls-actor-assures-swift-action/articleshow/135035064.cms",
+    "time": "2026-10-18T20:40:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi Police register at least 10 FIRs against alleged right-wing activists over assaults on protesters",
+    "desc": "The action comes after a slew of social media posts demanded action; videos and photographs shared by citizens, activists and political organisations prompted the police to register cases and arrest five accused in separate incidents, while others are being traced",
+    "img": "https://th-i.thgim.com/public/incoming/2n9ylr/article71595583.ece/alternates/LANDSCAPE_1200/GYANESH%20PROTEST%20DELHI%20103.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/anti-cec-protest-delhi-police-registers-at-least-10-firs-over-assaults-on-protesters-after-sustained-public-pressure/article71595546.ece",
+    "time": "2026-10-18T20:26:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs. West Indies fifth T20I: Honours even as rain has the final say in a thrilling series",
+    "desc": "India reaches 118 for five in 7.4 overs after being asked to take first strike in a nine-over shootout before the heavens open up to end the decider; the Windies follow up their triumph on home soil in 2023 with a 2-2 result against the Men in Blue",
+    "img": "https://th-i.thgim.com/public/incoming/brji6u/article71597425.ece/alternates/LANDSCAPE_1200/PTI10_17_2026_000439B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-vs-west-indies-t20/article71597418.ece",
+    "time": "2026-10-18T20:22:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala High Court denies stay on government order reconstituting State Waqf Board",
+    "desc": "Court holds that the State government has the authority to cancel appointments made to the previous board. Petition by K.S. Hamza, former board chairperson, says government order is violative of an earlier High Court directive to fill vacancies on the previous board",
+    "img": "https://th-i.thgim.com/public/incoming/gzuf0w/article71597786.ece/alternates/LANDSCAPE_1200/Text-11-10-2026G05GLA860.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-denies-stay-on-government-order-reconstituting-state-waqf-board/article71597289.ece",
+    "time": "2026-10-18T20:20:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Today it is Tiger Shroff. Who is next?’ AICWA questions Mumbai’s law and order",
+    "desc": "The All Indian Cine Workers Association (AICWA) has questioned Mumbai’s law and order following the firing incident involving Tiger Shroff in Juhu. Citing previous attacks involving Salman Khan, Rohit Shetty and others, the association alleged that Bollywood personalities remain vulnerable and demanded strict action against those responsible, stronger security for film celebrities and accountability from authorities.",
+    "img": "https://static.toiimg.com/photo/msid-135034979,imgsize-125422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/today-it-is-tiger-shroff-who-is-next-aicwa-questions-mumbais-law-and-order-after-firing-incidents-involving-salman-khan-rohit-shetty-and-others-says-bollywood-is-living-in-fear/articleshow/135034961.cms",
+    "time": "2026-10-18T19:53:08.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "FIR against officials of Reliance Consumer Products, Reliance Retail, Blinkit and Zomato Hyperpure over expired food products",
     "desc": "The Shanti Nagar police station in Thane registered the FIR. It names 10 accused, including senior officials and employees associated with Reliance Consumer Products, Reliance Retail, Blinkit, and Zomato Hyperpure, as well as disposal agency operators and local suppliers.",
@@ -9,15 +108,6 @@ const newsData_en = [
     "time": "2026-10-18T18:36:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Majeed Annan, the man who brought Khasakkinte Ithihasam alive for visitors to Thasrak, is no more",
-    "desc": "Majeed, who worked for years as a caretaker at the O.V. Vijayan Memorial Cultural Centre at Thasrak, was a link between the writer and the people who continued to visit the place in search of the novel’s world",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/7qkfry/article71597111.ece/alternates/LANDSCAPE_1200/Majeed.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/majeed-annan-the-man-who-brought-khasakkinte-ithihasam-alive-for-visitors-to-thasrak-is-no-more/article71597077.ece",
-    "time": "2026-10-18T18:17:22.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Dua Lipa takes on Samsung in a $15 million image rights lawsuit",
     "desc": "Dua Lipa is opposing Samsung’s bid to dismiss her $15 million lawsuit over the alleged unauthorised use of her photograph on television packaging. According to Law Commentary, the singer’s lawyers argue that the image could have falsely suggested she endorsed Samsung’s products. The company disputes the claim, and the court has yet to rule on its dismissal request.",
@@ -25,24 +115,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dua-lipa-fights-samsungs-bid-to-dismiss-15-million-lawsuit-over-alleged-unauthorised-use-of-her-photo-on-tv-boxes-claiming-the-packaging-falsely-suggested-she-endorsed-its-products/articleshow/135033710.cms",
     "time": "2026-10-18T18:16:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SMA flays Waqf Board reconstitution in Keralam",
-    "desc": "District president K.V. Siddique Faizy said the exclusion two Samastha Kerala Jamiyyathul Ulama groups was unfair, given the role of the two organisations in protecting Waqf properties and running religious and educational institutions in Keralam",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/sma-flays-waqf-board-reconstitution-in-keralam/article71596747.ece",
-    "time": "2026-10-18T18:15:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Police fire six rounds in air to defuse tension in Pulivendula",
-    "desc": "Trouble breaks out as YSRCP activists attempt to barge into the nomination filing centre in large numbers; police resort to mild lathi-charge to chase away trouble-mongers; Kadapa MP Avinash Reddy accuses Chief Minister and HRD Minister of ‘instigating attacks’",
-    "img": "https://th-i.thgim.com/public/incoming/yibdf2/article71597106.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-17%20at%2019.57.41.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-fire-six-rounds-in-air-to-defuse-tension-in-pulivendula/article71596343.ece",
-    "time": "2026-10-18T18:14:50.000Z"
   },
   {
     "cat": "Sports",
@@ -162,15 +234,6 @@ const newsData_en = [
     "time": "2026-10-18T16:33:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "In 2007, Brad Pitt’s housing mission was meant to rebuild New Orleans; how things went wrong resulted in lawsuits",
-    "desc": "Brad Pitt co-founded the Make It Right Foundation to rebuild homes in New Orleans after Hurricane Katrina. The project aimed to construct affordable and sustainable homes but encountered significant structural issues. Homeowners experienced problems like rotting materials and water damage shortly after moving in. A class-action lawsuit was filed against the foundation for defective construction and fraud. The foundation ultimately agreed to a settlement to reimburse affected homeowners for repairs.",
-    "img": "https://static.toiimg.com/photo/msid-135027238,imgsize-31064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2007-brad-pitt-launched-a-project-to-rebuild-new-orleans-the-story-behind-make-it-rights-ambitious-housing-mission-and-what-went-wrong/articleshow/135027217.cms",
-    "time": "2026-10-18T16:30:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "Why the debate between Keynesian and orthodox economics matters",
     "desc": "Keynes-Kalecki framework holds that demand, in particular private investment, shapes short-term fluctuations as well as long-term growth, unlike orthodox approaches that see supply as determining long-term growth; shift towards inflation targeting coincided with falling wage shares and greater burden on workers",
@@ -286,15 +349,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladesh-celebrates-durga-puja-under-heavy-security-pm-and-president-stress-communal-harmony/article71595967.ece",
     "time": "2026-10-18T14:38:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 2022, when the jury ruled in favor of Johnny Depp in a defamation case",
-    "desc": "In a landmark ruling in 2022, Johnny Depp won his defamation case against Amber Heard after a gripping six-week trial that shined a light on domestic abuse issues. The jury awarded Depp $10.35 million, citing Heard's liability for defamation. Following the decision, Heard lamented its implications for women's rights. Meanwhile, both parties have moved forward with out-of-court agreements, allowing Depp to reenter the film industry.",
-    "img": "https://static.toiimg.com/photo/msid-135027078,imgsize-337304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2022-when-johnny-depp-won-a-defamation-verdict-against-amber-heard-and-said-the-jury-gave-my-life-back-heres-what-happened-during-the-six-week-trial/articleshow/135027007.cms",
-    "time": "2026-10-18T14:30:00.000Z"
   },
   {
     "cat": "World",
@@ -468,24 +522,6 @@ const newsData_en = [
     "time": "2026-10-18T10:27:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nelson Dilipkumar thanks fans as Rajinikanth’s ‘Jailer 2’ crosses Rs 317 crore worldwide",
-    "desc": "Director Nelson Dilipkumar expressed heartfelt appreciation to fans following the release of 'Jailer 2' on October 15, 2026. The thrilling sequel featuring Rajinikanth as Tiger Muthuvel Pandian has made waves, grossing over Rs 317 crore globally within just three days. Anirudh Ravichander enriches the film’s soundtrack, collaborating once again with both the director and the veteran star. The impressive cast also includes Vidya Balan, Vijay Sethupathi, and Mohanlal.",
-    "img": "https://static.toiimg.com/photo/msid-135026865,imgsize-79985.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nothing-beats-seeing-the-audience-celebrate-it-nelson-dilipkumar-thanks-fans-as-rajinikanth-starrer-jailer-2-crosses-rs-300-crore-worldwide-in-three-days/articleshow/135026824.cms",
-    "time": "2026-10-18T09:52:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Saif Ali Khan says his two-year supply of ghee and ‘KBC’ cheque are still pending",
-    "desc": "During a delightful appearance on Netflix’s The Great Indian Kapil Show, Saif Ali Khan jokingly admitted he is still eagerly awaiting his promised ghee and prize cheque. Reflecting on his viral moment from Kaun Banega Crorepati, his witty remarks sparked fans to revive discussions about the elusive ghee. Saif and Kareena Kapoor Khan warmly reminisced about their shared fondness for ghee, making for an entertaining episode.",
-    "img": "https://static.toiimg.com/photo/msid-135026850,imgsize-705484.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-havent-even-received-the-ghee-yet-saif-ali-khan-says-his-two-year-supply-of-ghee-and-kaun-banega-crorepati-cheque-are-still-pending-on-the-great-indian-kapil-show-leaving-kareena-kapoor-laughing/articleshow/135026786.cms",
-    "time": "2026-10-18T09:51:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Lifetime subscription to pressure’: Ex-cricketer’s blunt defence of Sanju Samson",
     "desc": "Aakash Chopra has raised concerns about Sanju Samson's continued exclusion from the ODI squad. Despite impressive ODI statistics, Samson was overlooked for the New Zealand series. Chopra highlighted that multiple other wicketkeeper-batters were not selected either, indicating a possible decision on Samson's future. He compared performance metrics between Samson and other T20I players to support his point. This scrutiny comes as discussions around Samson's place in the team continue.",
@@ -622,15 +658,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "India vs. West Indies T20I series: Chinnaswamy set for decider amid rain threat",
-    "desc": "International cricket returns to the Garden City after a gap of two years; another high-scoring game on the cards if weather does not play spoilsport; India adds Bhuvneshwar to the squad; skipper Hope has been in red-hot form for Windies",
-    "img": "https://th-i.thgim.com/public/incoming/yolte3/article71593170.ece/alternates/LANDSCAPE_1200/_KMK1034.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-vs-west-indies-t20i-series-chinnaswamy-set-for-decider-amid-rain-threat/article71593161.ece",
-    "time": "2026-10-18T04:29:04.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "PCB snubs Michael Atherton, Nasser Hussain after Imran Khan interview controversy",
     "desc": "The Pakistan Cricket Board has announced a commentary panel of six for the upcoming men's ODI tri-series. Notably, renowned commentators Michael Atherton and Nasser Hussain will be missing after a controversial interview on Imran Khan's prison health caused a stir. The matches between Pakistan, England, and Sri Lanka will take place from October 18 to October 31, with coverage from former international players at venues in Rawalpindi and Lahore.",
     "img": "https://static.toiimg.com/photo/msid-135023772,imgsize-840450.cms",
@@ -646,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/as-climate-risks-become-harder-to-predict-and-insure-india-must-price-catastrophe-without-leaving-people-unprotected/article71587747.ece",
     "time": "2026-10-18T04:11:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Administrator Saurabh Tiwary, a vintage hard-hitting batter, aims to make cricketers’ lives easy",
-    "desc": "The vintage hard-hitting batter is the secretary of the Jharkhand State CA now; the southpaw says that the modern batters are much better at power-hitting than he ever was; he waxes eloquent on Sooryavanshi’s talent and Kohli’s longevity",
-    "img": "https://th-i.thgim.com/public/sport/1z5ptv/article71592632.ece/alternates/LANDSCAPE_1200/saurabh.tiwary.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/saurabh-tiwary-jharkhand-cricket-association-secretary-cricketers-life-easy/article71592627.ece",
-    "time": "2026-10-18T03:15:14.000Z"
   },
   {
     "cat": "Business",
@@ -693,24 +711,6 @@ const newsData_en = [
     "time": "2026-10-18T01:50:24.000Z"
   },
   {
-    "cat": "World",
-    "title": "Clashes and fires break out as protesters rally across France, joining students",
-    "desc": "Police fired tear gas and water cannons to push back people wearing hoods and masks and throwing fireworks, paving stones and other objects at officers in the Place de la République, northeast of the Paris city centre",
-    "img": "https://th-i.thgim.com/public/incoming/gq8txc/article71598965.ece/alternates/LANDSCAPE_1200/AFP_D3LR764.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/clashes-and-fires-break-out-as-protesters-rally-across-france-joining-students/article71598941.ece",
-    "time": "2026-10-18T01:35:54.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Indian student groups in London protest against CEC Gyanesh Kumar, SIR; Govt supporters hold counter-protest",
-    "desc": "While the “Stop Vote Chori” protest cheered for activist Dhruv Rathee as the keynote speaker, chants of “Modi, Modi” rang out from a smaller group across the Gandhi statue, being kept apart by Metropolitan Police officers",
-    "img": "https://th-i.thgim.com/public/incoming/qc0lq0/article71597279.ece/alternates/LANDSCAPE_1200/20261017240L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/indian-student-groups-in-london-protest-against-cec-gyanesh-kumar-sir-govt-supporters-hold-counter-protest/article71597243.ece",
-    "time": "2026-10-18T01:18:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'You have to wait': Iyer explains why Sooryavanshi missed all 5 T20Is",
     "desc": "India captain Shreyas Iyer urged Vaibhav Sooryavanshi to remain patient and trust his process despite missing the entire West Indies T20I series. Iyer praised consistent openers Sanju Samson and Abhishek Sharma. Reflecting on India's 2-2 series draw, he blamed inconsistent bowling for missed opportunities and praised West Indies captain Shai Hope, who won Player of the Series.",
@@ -718,15 +718,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/you-have-to-wait-shreyas-iyer-explains-why-vaibhav-sooryavanshi-missed-all-5-t20is-against-west-indies/articleshow/135022644.cms",
     "time": "2026-10-18T01:16:33.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO's response",
-    "desc": "The attacks in the two countries' exclusive economic zones threaten a global shipping route and have left two people dead, with at least 25 still missing. They also run the risk of drawing other countries directly into the war for Ukraine",
-    "img": "https://th-i.thgim.com/public/news/national/1lcaj1/article71591449.ece/alternates/LANDSCAPE_1200/iStock-1809242492.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/article71591367.ece",
-    "time": "2026-10-18T01:11:34.000Z"
   },
   {
     "cat": "Tech",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/icici-bank-q2-results-standalone-profit-rises-20-to-rs-14843-crore-nii-up-17-7/articleshow/135015586.cms",
     "time": "2026-10-17T14:06:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "HDFC deputy MD Kaizad Bharucha announces exit ahead of Anup Bagchi's takeover as CEO",
+    "desc": "HDFC Bank's Deputy Managing Director, Kaizad Bharucha, has announced his resignation, effective December 31. This move precedes Anup Bagchi's appointment as the new Managing Director and CEO. In the latest reports, HDFC Bank has demonstrated remarkable profitability shifts this July to September, reflecting improved asset quality and a surge in net profit. Bharucha's resignation awaits approval from the Reserve Bank of India, as it has been accepted by the board.",
+    "img": "https://static.toiimg.com/photo/msid-135013184,imgsize-67618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/hdfc-deputy-md-kaizad-bharucha-announces-decision-to-quit-ahead-of-anup-bagchis-takeover-as-ceo/articleshow/135013132.cms",
+    "time": "2026-10-17T11:28:12.000Z"
   }
 ];
