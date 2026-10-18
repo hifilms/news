@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India women dominate Zimbabwe to clinch T20I series, register stellar nine-wicket win in Raipur",
+    "desc": "The ongoing T20I series between India women and Zimbabwe women continued with the two sides taking on each other at the Shaheed Veer Narayan Singh International Stadium, Raipur, on October 18th. It is interesting to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-women-dominate-zimbabwe-to-clinch-t20i-series-register-stellar-nine-wicket-win-in-raipur-2026-10-18-1057318",
+    "time": "2026-10-18T17:08:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer weighs in on Abhishek Sharma's performances after WI T20I series",
     "desc": "The five-game T20I series between India and the West Indies came to an end, the two sides locked horns across five brilliant matches, and the series eventually ended on a score of 2-2 after the...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-5th-t20i-live-score-india-look-to-clinch-t20i-series-against-in-form-west-indies-1057249",
     "time": "2026-10-17T12:37:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will weather in Bengaluru fare for the fifth T20I?",
-    "desc": "The stage is set for the fifth and final T20I of the ongoing series between India and the West Indies. The two sides are slated to take on each other at the M Chinnaswamy Stadium...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-wi-weather-report-how-will-weather-in-bengaluru-fare-for-the-fifth-t20i-2026-10-17-1057240",
-    "time": "2026-10-17T11:37:28.000Z"
   }
 ];
