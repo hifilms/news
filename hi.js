@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pragyan Ojha named BCCI's new chief selector, Ramesh Powar gets appointed to men's selection committee",
+    "desc": "In a major development, the BCCI (Board of Control for Cricket in India) has come forward and named former India cricketer Pragyan Ojha as the new chief selector of the men’s national team. Apart from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pragyan-ojha-named-bcci-s-new-chief-selector-ramesh-powar-gets-appointed-to-men-s-selection-committee-2026-10-19-1057368",
+    "time": "2026-10-19T10:44:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer opens up on Bhuvneshwar Kumar's comeback in the Indian side",
+    "desc": "The stage is set for the multi-format series between India and New Zealand. The Men in Blue will be touring New Zealand to take on the Black Caps across five T20Is, five ODIs, and two...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-bhuvneshwar-kumar-s-comeback-in-the-indian-side-2026-10-19-1057364",
+    "time": "2026-10-19T10:03:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravi Shastri opens up on Jasprit Bumrah's workload management ahead of NZ series",
+    "desc": "The stage is set for the multi-format series between India and New Zealand. The two sides will take on each other across five T20Is, five ODIs, and two Test matches. With the ODI World Cup...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravi-shastri-opens-up-on-jasprit-bumrah-s-workload-management-ahead-of-nz-series-2026-10-19-1057357",
+    "time": "2026-10-19T09:03:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "VETO unveils 'VETO Sports Carnival', brings 300+ hours of live sports to Indian audiences this festive season",
+    "desc": "VETO, India’s subscription-free OTT platform, has announced the ‘VETO Sports Carnival’, featuring more than 300 hours of live sports streaming across cricket, football, weightlifting and tennis during the festive season. The initiative brings together five...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/veto-unveils-veto-sports-carnival-brings-over-300-hours-of-live-sports-to-indian-audiences-this-festive-season-2026-10-19-1057356",
+    "time": "2026-10-19T08:58:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Darcie Brown ruled out of the upcoming WBBL season with back injury",
+    "desc": "In a major blow, Australia and Adelaide Strikers pacer Darcie Brown has been ruled out of the upcoming WBBL (Women’s Big Bash League) season. It is interesting to note that Brown has been ruled out...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/darcie-brown-ruled-out-of-the-upcoming-wbbl-season-with-back-injury-2026-10-19-1057352",
+    "time": "2026-10-19T07:52:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shafali Verma surpasses Smriti Mandhana in an elite list as India women T20I series against Zimbabwe",
+    "desc": "The Indian women’s team put in a strong performance against Zimbabwe in the second T20I of the ongoing three-game series. The two sides met at the Shaheed Veer Narayan Singh International Stadium, Raipur, on October...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-surpasses-smriti-mandhana-in-an-elite-list-as-india-women-t20i-series-against-zimbabwe-2026-10-19-1057345",
+    "time": "2026-10-19T06:49:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Cricket West Indies name replacement for Keemo Paul ahead of Bangladesh Tests; Check details",
     "desc": "With the conclusion of the multi-format series against the Indian team, the West Indies is gearing up for a Test series against Bangladesh. The two sides will take on each other in two Test matches,...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/nahida-akter-named-bangladesh-women-s-new-t20i-captain-set-to-succeed-nigar-sultana-in-the-role-2026-10-18-1057300",
     "time": "2026-10-18T10:41:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are Nathan Lyon and Cameron Green not playing for Australia vs South Africa in 2nd Test in Gqeberha?",
-    "desc": "Australia made one change to their playing XI in the second Test against South Africa at St George's Park in Gqeberha. Nathan Lyon has been benched, with ace pacer Scott Boland returning to the playing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-nathan-lyon-and-cameron-green-not-playing-for-australia-vs-south-africa-in-2nd-test-in-gqeberha-2026-10-18-1057292",
-    "time": "2026-10-18T08:25:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Xabi Alonso issues crucial update on Emi Martinez after latter's headinjury against Everton",
-    "desc": "The Premier League 2026-27 season saw Everton host Chelsea on October 17th. The two sides met at the Hill Dickinson Stadium, and it was Chelsea who came out on top, registering a 0-2 victory in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/xabi-alonso-issues-crucial-update-on-emi-martinez-after-latter-s-headinjury-against-everton-2026-10-17-1057271",
-    "time": "2026-10-17T18:20:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's fifth T20I against the West Indies gets abandoned as rain plays spoilsport, series ends 2-2",
-    "desc": "The Indian team took on the West Indies in the fifth and final T20I of the ongoing series. The two sides met at the M Chinnaswamy Stadium in Bengaluru on October 17th. The clash was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-s-fifth-t20i-against-the-west-indies-gets-abandoned-as-rain-plays-spoilsport-series-ends-2-2-2026-10-17-1057265",
-    "time": "2026-10-17T17:40:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tim Southee reflects on challenges posed by Jasprit Bumrah ahead of India's tour to New Zealand",
-    "desc": "The stage is set for the multi-format series between India and New Zealand. The two sides will take on each other across five ODIs, five T20Is, and two Test matches. Ahead of the series, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tim-southee-reflects-on-challenges-posed-by-jasprit-bumrah-ahead-of-india-s-tour-to-new-zealand-2026-10-17-1057263",
-    "time": "2026-10-17T17:01:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2027 auction to be held on December 16, franchises told to prepare for event in Goa: Report",
-    "desc": "In a major development, a recent report from Cricbuzz has suggested that the highly anticipated IPL (Indian Premier League) 2027 auction is slated to be held on December 16th in Goa. It is worth noting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2027-auction-to-be-held-on-december-16-franchises-told-to-prepare-for-event-in-goa-report-2026-10-17-1057257",
-    "time": "2026-10-17T14:58:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana opens up after India edge out close victory against Zimbabwe in Raipur",
-    "desc": "India women got off to a good start to the series against Zimbabwe women. The two sides met at the Shaheed Veer Narayan Singh International Stadium, Raipur, on October 16th. The clash began with Zimbabwe...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-opens-up-after-india-edge-out-close-victory-against-zimbabwe-in-raipur-2026-10-17-1057252",
-    "time": "2026-10-17T13:37:45.000Z"
   }
 ];
