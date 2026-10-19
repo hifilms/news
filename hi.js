@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Michael Carrick weighs in on Bruno Fernandes' injury as Man United's subpar form continues",
+    "desc": "Manchester United’s run of subpar form in the Premier League continues; the side has been struggling to get results ever since the start of the season. The side currently sits in 13th place in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/michael-carrick-weighs-in-on-bruno-fernandes-injury-as-man-united-s-subpar-form-continues-2026-10-19-1057388",
+    "time": "2026-10-19T14:31:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mikel Arteta gives his take on Arsenal's momentum in the Premier League amid brilliant form",
+    "desc": "The Premier League 2026-27 is well underway. With the conclusion of the international break, the league standings are taking shape, and defending champions Arsenal currently sit in second place in the league table. Under the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/mikel-arteta-gives-his-take-on-arsenal-s-momentum-in-the-premier-league-amid-brilliant-form-2026-10-19-1057382",
+    "time": "2026-10-19T13:13:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mona Agarwal, Nishad Kumar kick off India's gold medal campaign at Para Asian Games 2026",
+    "desc": "The Indian contingent’s campaign at the Para Asian Games 2026 began on a positive note as the nation clinched its first gold medal at the event. It is worth noting that Mona Agarwal brought home...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/mona-agarwal-nishad-kumar-kick-off-india-s-gold-medal-campaign-at-para-asian-games-2026-2026-10-19-1057376",
+    "time": "2026-10-19T11:56:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pragyan Ojha named BCCI's new chief selector, Ramesh Powar gets appointed to men's selection committee",
     "desc": "In a major development, the BCCI (Board of Control for Cricket in India) has come forward and named former India cricketer Pragyan Ojha as the new chief selector of the men’s national team. Apart from...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/cricket-west-indies-name-replacement-for-keemo-paul-ahead-of-bangladesh-tests-check-details-2026-10-18-1057320",
     "time": "2026-10-18T18:14:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India women dominate Zimbabwe to clinch T20I series, register stellar nine-wicket win in Raipur",
-    "desc": "The ongoing T20I series between India women and Zimbabwe women continued with the two sides taking on each other at the Shaheed Veer Narayan Singh International Stadium, Raipur, on October 18th. It is interesting to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-women-dominate-zimbabwe-to-clinch-t20i-series-register-stellar-nine-wicket-win-in-raipur-2026-10-18-1057318",
-    "time": "2026-10-18T17:08:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer weighs in on Abhishek Sharma's performances after WI T20I series",
-    "desc": "The five-game T20I series between India and the West Indies came to an end, the two sides locked horns across five brilliant matches, and the series eventually ended on a score of 2-2 after the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-abhishek-sharma-s-performances-after-wi-t20i-series-2026-10-18-1057304",
-    "time": "2026-10-18T11:40:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nahida Akter named Bangladesh women's new T20I captain, set to succeed Nigar Sultana in the role",
-    "desc": "In a major development, the BCB (Bangladesh Cricket Board) came forward and revealed that Nahida Akter will be the new T20I captain of Bangladesh women, taking over in the role from Nigar Sultana, who stepped...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nahida-akter-named-bangladesh-women-s-new-t20i-captain-set-to-succeed-nigar-sultana-in-the-role-2026-10-18-1057300",
-    "time": "2026-10-18T10:41:39.000Z"
   }
 ];
