@@ -1,6 +1,51 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "FIRST LOOK at Hanuman in 'Ramayana' spin-off revealed!",
+    "desc": "Sunny Deol's first look as Lord Hanuman was revealed at an event in Hyderabad for the film 'Ramayana'. The producers announced plans for multiple spin-off projects based on various characters from the epic saga. Advance bookings for the film are set to begin during the festival of Dussehra in India. The first part of 'Ramayana' is scheduled for release on November 5, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-135058406,imgsize-439032.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deols-first-look-as-lord-hanuman-namit-malhotra-announces-plans-to-expand-ramayana-universe-with-spin-offs-watch/articleshow/135056376.cms",
+    "time": "2026-10-19T22:42:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Saudi envoy meets Pakistan Army chief, discusses regional security dynamics",
+    "desc": "During the meeting at General Headquarters in Rawalpindi, both sides expressed satisfaction over the progress made under the framework of the Makkah Joint Defence Agreement and underscored the importance of strengthening defence collaboration, institutional linkages and strategic coordination, the army said in a statement",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/saudi-envoy-meets-pakistan-army-chief-discusses-regional-security-dynamics/article71603090.ece",
+    "time": "2026-10-19T20:48:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suniel Shetty reacts to firing at Tiger Shroff’s car: 'If something like this can happen to him...'",
+    "desc": "In a shocking incident in Mumbai's Juhu, Tiger Shroff's vehicle was shot at as he was departing from a football club. While actor Suniel Shetty expressed gratitude that Tiger emerged unscathed, his driver suffered injuries. The police swiftly captured the assailants on a train, and multiple charges were filed. Suniel highlighted the pressing issue of safety following this alarming event.",
+    "img": "https://static.toiimg.com/photo/msid-135055223,imgsize-513268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-reacts-to-firing-at-tiger-shroffs-car-if-something-like-this-can-happen-to-him-it-could-happen-to-anyone/articleshow/135055189.cms",
+    "time": "2026-10-19T18:43:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2017, George Clooney sold Casamigos in a deal worth up to $1 billion",
+    "desc": "George Clooney co-founded Casamigos tequila in 2013, initially creating it for personal enjoyment with friends. The brand grew rapidly, attracting attention due to its quality and rising demand in the premium tequila market. In June 2017, Diageo announced its decision to acquire Casamigos in a deal potentially worth up to $1 billion. The acquisition was finalized in August 2017, marking a significant milestone for Clooney and his partners.",
+    "img": "https://static.toiimg.com/photo/msid-135045549,imgsize-91137.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2017-george-clooney-sold-casamigos-in-a-deal-worth-up-to-1-billion-the-tequila-brand-began-as-a-project-among-friends/articleshow/135045510.cms",
+    "time": "2026-10-19T18:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lil Jon discovers man who raised him was not his biological father",
+    "desc": "Rapper Lil Jon has revealed that the man who raised him was not his biological father, a discovery he made after a cousin took a DNA test. In his new memoir, he reflects on the revelation, unanswered questions about his family, and the death of his son Nathan Smith, sharing how grief has reshaped his perspective on fatherhood.",
+    "img": "https://static.toiimg.com/photo/msid-135054949,imgsize-178890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lil-jon-discovers-man-who-raised-him-was-not-his-biological-father-after-cousins-dna-test-rapper-opens-up-about-son-nathan-smiths-death-and-why-he-may-never-get-answers-about-his-family/articleshow/135054880.cms",
+    "time": "2026-10-19T18:24:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'You are singing after drinking alcohol'",
     "desc": "During the Kunjapuri Fair in Uttarakhand, singer Daler Mehndi sparked controversy when Minister Subodh Uniyal accused him of performing under alcohol's influence. Highlighting the religious importance of Navratri, Uniyal stressed the need for decorum. In response, Mehndi asked the minister to step off the stage, igniting discussions about the appropriateness of entertainment at such sacred occasions.",
     "img": "https://static.toiimg.com/photo/msid-135054512,imgsize-490095.cms",
@@ -252,15 +297,6 @@ const newsData_en = [
     "time": "2026-10-19T14:43:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "In 2006, Al Pacino rented and stayed at Jackie Collins' place for 18 years; later it was put on the market",
-    "desc": "Al Pacino enjoyed a long-term rental of Jackie Collins' stunning Beverly Hills estate for almost two decades, continuing to reside there even after her demise. The new owner, Ben Nehmadi, further extended Pacino's lease before the property was listed at USD 15.95 million. This exquisite residence comes with lavish amenities such as a tennis court, a swimming pool, and an elegant cabana, making it highly desirable.",
-    "img": "https://static.toiimg.com/photo/msid-135048691,imgsize-184035.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2006-al-pacino-started-renting-jackie-collinss-beverly-hills-home-for-18-years-the-home-was-later-put-up-on-the-market-for-usd-15-95m-after-he-moved-out-in-2024/articleshow/135048560.cms",
-    "time": "2026-10-19T14:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Marseille &amp; Lille stores looted as clubs condemn violence",
     "desc": "The weekend unrest in France led to severe vandalism and looting at Olympique de Marseille and Lille. Marseille's official store on La Canebière was damaged and will remain closed for repairs, while Lille's downtown store also suffered extensive vandalism and is closed until further notice. Both clubs have condemned these acts, expressing solidarity with their employees and supporters as authorities launch cleanup operations and impose restrictions.",
@@ -358,24 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neetu-kapoor-washes-granddaughter-raha-kapoors-feet-on-ashtami-varun-dhawan-celebrates-navratri-with-daughter-lara-pics-inside/articleshow/135049459.cms",
     "time": "2026-10-19T13:02:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Donnie Wahlberg’s private jet skids off Las Vegas runway: NKOTB singer says, 'pilots saved our lives'",
-    "desc": "Donnie Wahlberg expressed gratitude for the safety of himself and his team following a private jet incident. The aircraft overshot the runway at Harry Reid International Airport in Las Vegas, striking a fence. Wahlberg shared a video post-incident, reassuring fans that everyone aboard was unharmed. He praised the pilots for their quick actions that avoided further hazards.",
-    "img": "https://static.toiimg.com/photo/msid-135049353,imgsize-494202.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/new-kids-on-the-block-singer-donnie-wahlberg-thanks-pilots-after-private-jet-carrying-singer-and-his-team-runs-out-of-runway-and-crashes-into-las-vegas-airport-fence-god-is-good/articleshow/135049258.cms",
-    "time": "2026-10-19T12:49:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sohum Shah excited for SS Rajamouli’s ‘Varanasi’, Ranbir Kapoor’s ‘Ramayana’",
-    "desc": "Sohum Shah is eagerly anticipating the upcoming films 'Varanasi' and 'Ramayana' due to renowned filmmakers. He appreciates Rajamouli's storytelling approach and is curious about the unique world of 'Varanasi'. Shah admires Ranbir Kapoor's role in 'Ramayana' and acknowledges its large-scale production aimed at global audiences. Additionally, he shares his views on AI in filmmaking, highlighting its potential without seeing it as a threat.",
-    "img": "https://static.toiimg.com/photo/msid-135049338,imgsize-105037.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/tumbbad-fame-sohum-shah-excited-for-ss-rajamoulis-varanasi-and-ranbir-kapoors-ramayana-says-he-is-curious-about-mahesh-babu-starrer/articleshow/135049299.cms",
-    "time": "2026-10-19T12:47:50.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +513,6 @@ const newsData_en = [
     "time": "2026-10-19T10:38:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Polish PM Donald Tusk to visit India from October 21 to 23, hold talks with PM Modi",
-    "desc": "Polish Prime Minister Donald Tusk is set to visit India from October 21 to 23. During this visit, he will hold talks with Indian Prime Minister Narendra Modi in New Delhi. The discussions will focus on enhancing bilateral relations across various sectors, including trade and defense. Tusk will also meet with business stakeholders in Bengaluru and participate in business forums.",
-    "img": "https://static.toiimg.com/photo/msid-135046386,imgsize-1167050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/polish-pm-donald-tusk-to-visit-india-from-october-21-to-23-hold-talks-with-pm-modi/articleshow/135045953.cms",
-    "time": "2026-10-19T10:33:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Chinmay Sutar breaks Prithvi Shaw’s record, becomes 2nd Indian to score FC 400",
     "desc": "Chinmay Sutar made history by scoring an impressive 400 not out in a Ranji Trophy contest, striking off 517 balls with 46 fours and seven sixes. His achievement outshone Prithvi Shaw's former record of 379 runs. Thanks to Sutar's heroic effort, Mizoram declared their innings at 581 for nine against Nagaland, showcasing his remarkable form following a notable T20 Mumbai season.",
@@ -531,15 +540,6 @@ const newsData_en = [
     "time": "2026-10-19T09:59:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Around 1575, a Mughal artist painted a cheetah family on cloth during Akbar's reign; about 450 years later, the tiny work from Prince Sadruddin Aga Khan's collection sold for nearly Rs 120 crore in London",
-    "desc": "A Family of Cheetahs, attributed to Basawan, was sold at Christie's auction for approximately Rs 120 crore. The painting, created during Mughal Emperor Akbar's reign, highlights wildlife in its natural habitat. This artwork signifies the Mughal interest in depicting nature rather than just royal figures or religious scenes. Its sale price dramatically exceeded the pre-auction estimate by 14 times, indicating high demand.",
-    "img": "https://static.toiimg.com/photo/msid-135045379,imgsize-111632.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/around-1575-a-mughal-artist-painted-a-cheetah-family-on-cloth-during-akbars-reign-about-450-years-later-the-tiny-work-from-prince-sadruddin-aga-khans-collection-sold-for-nearly-rs-120-crore-in-london/articleshow/135045100.cms",
-    "time": "2026-10-19T09:58:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Nishad Kumar clinches long jump gold with dominant performance",
     "desc": "Nishad Kumar shone brightly at the Asian Para Games, capturing gold in the men's T47 long jump with a leap of 7.11 meters. This victory underscores his talent among India's para-athletes. Meanwhile, Mona Agarwal earned gold in women's 10m air rifle, breaking the Asian Para Games record with 250.0 points. Not far behind, Avani Lekhara achieved silver with 249.6 points, reflecting India's impressive performance on this memorable day.",
@@ -556,15 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/punjab/anti-drug-activist-murder-diljit-dosanjh-says-jhotas-family-should-get-justice/article71602367.ece",
     "time": "2026-10-19T09:27:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "3 suspects taken into custody in Rajasthan, police launch probe",
-    "desc": "Tiger Shroff found himself in a terrifying shooting episode while departing from a football club in Mumbai, resulting in injuries to his driver. Witnesses noted that the assailants fired multiple rounds at the car. In a swift response, police detained three suspects in Kota, Rajasthan, and mobilized 15 investigative teams.",
-    "img": "https://static.toiimg.com/photo/msid-135044716,imgsize-212794.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroff-firing-case-3-suspects-apprehended-in-rajasthans-kota-police-launch-probe-into-attack-eye-witness-says-the-actor-was-on-the-floor/articleshow/135044557.cms",
-    "time": "2026-10-19T09:02:43.000Z"
   },
   {
     "cat": "Sports",
@@ -774,15 +765,6 @@ const newsData_en = [
     "time": "2026-10-19T00:14:26.000Z"
   },
   {
-    "cat": "World",
-    "title": "Indian student groups in London protest against CEC Gyanesh Kumar, SIR; Govt supporters hold counter-protest",
-    "desc": "While the “Stop Vote Chori” protest cheered for activist Dhruv Rathee as the keynote speaker, chants of “Modi, Modi” rang out from a smaller group across the Gandhi statue, being kept apart by Metropolitan Police officers",
-    "img": "https://th-i.thgim.com/public/incoming/qc0lq0/article71597279.ece/alternates/LANDSCAPE_1200/20261017240L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/indian-student-groups-in-london-protest-against-cec-gyanesh-kumar-sir-govt-supporters-hold-counter-protest/article71597243.ece",
-    "time": "2026-10-18T23:49:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India vs. West Indies fifth T20I: Honours even as rain has the final say in a thrilling series",
     "desc": "India reaches 118 for five in 7.4 overs after being asked to take first strike in a nine-over shootout before the heavens open up to end the decider; the Windies follow up their triumph on home soil in 2023 with a 2-2 result against the Men in Blue",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-when-a-man-becomes-god-the-ritual-of-kathivanoor-veeran-theyyam/article71587218.ece",
     "time": "2026-10-17T21:15:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Slaves, a new production by The Madras Players, is a translation of writer Sujatha",
+    "desc": "For years, Sujatha has captured the imagination of Tamil audiences through short stories, film scripts, and even theatre plays. On October 24, the Madras Players dramatises one of his earlier works, Adimaigal as Slaves on fortune, love, and loss",
+    "img": "https://th-i.thgim.com/public/incoming/7a6mc/article71582411.ece/alternates/LANDSCAPE_1200/DSC_6421.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/theatre/slaves-a-new-production-by-the-madras-players-is-a-translation-of-writer-sujatha/article71582426.ece",
+    "time": "2026-10-17T19:48:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Roundglass Sustain’s short film A Spring Against All Odds to be showcased at international film festival",
+    "desc": "The film, one of 48 films selected for Film SouthAsia (FSA), an international documentary film festival to be held in Kathmandu from November 27–29, 2026, is based on a script by Radhika Raj and has been directed by Samreen Farooqui",
+    "img": "https://th-i.thgim.com/public/life-and-style/98l9v3/article71562564.ece/alternates/LANDSCAPE_1200/Film%201.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/roundglass-sustains-short-film-a-spring-against-all-odds-to-be-showcased-at-international-film-festival/article71562550.ece",
+    "time": "2026-10-17T19:40:40.000Z"
   }
 ];
