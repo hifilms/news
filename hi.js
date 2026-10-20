@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Justin Langer makes shocking claim related to Sandpapergate saga, says 'ball hasn't reverse swung since'",
+    "desc": "Former Australia head coach Justin Langer has reignited the debate surrounding the 2018 Sandpapergate scandal. He made a shocking claim that Steve Smith, David Warner and Cameron Bancroft bore the consequences of a practice he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/justin-langer-makes-shocking-claim-related-to-sandpapergate-saga-says-ball-hasn-t-reverse-swung-anywhere-since-2026-10-20-1057419",
+    "time": "2026-10-20T07:19:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "WPL 2026 auction to feature 146 players; several marquee cricketers opt out",
+    "desc": "The Women’s Premier League (WPL) 2027 mini auction will feature 146 players competing for 27 vacancies when franchises assemble in Kochi on October 28. England batter Sophia Dunkley and Australia captain Sophie Molineux headline the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-auction-to-feature-146-players-several-marquee-cricketers-opt-out-2026-10-20-1057413",
+    "time": "2026-10-20T05:59:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Portugal FA suspends Cristiano Ronaldo for 30 days, hands him €255 fine after walkout from national team",
+    "desc": "Cristiano Ronaldo has been sanctioned by the Portuguese Football Federation with a 30-day suspension and a €255 fine following his departure from Portugal’s national team camp during the recent international break. The disciplinary decision follows...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/portugal-fa-suspends-cristiano-ronaldo-for-30-days-hands-him-255-euro-fine-after-walkout-from-national-team-2026-10-20-1057407",
+    "time": "2026-10-20T05:17:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Michael Carrick weighs in on Bruno Fernandes' injury as Man United's subpar form continues",
     "desc": "Manchester United’s run of subpar form in the Premier League continues; the side has been struggling to get results ever since the start of the season. The side currently sits in 13th place in the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/veto-unveils-veto-sports-carnival-brings-over-300-hours-of-live-sports-to-indian-audiences-this-festive-season-2026-10-19-1057356",
     "time": "2026-10-19T08:58:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Darcie Brown ruled out of the upcoming WBBL season with back injury",
-    "desc": "In a major blow, Australia and Adelaide Strikers pacer Darcie Brown has been ruled out of the upcoming WBBL (Women’s Big Bash League) season. It is interesting to note that Brown has been ruled out...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/darcie-brown-ruled-out-of-the-upcoming-wbbl-season-with-back-injury-2026-10-19-1057352",
-    "time": "2026-10-19T07:52:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shafali Verma surpasses Smriti Mandhana in an elite list as India women T20I series against Zimbabwe",
-    "desc": "The Indian women’s team put in a strong performance against Zimbabwe in the second T20I of the ongoing three-game series. The two sides met at the Shaheed Veer Narayan Singh International Stadium, Raipur, on October...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-surpasses-smriti-mandhana-in-an-elite-list-as-india-women-t20i-series-against-zimbabwe-2026-10-19-1057345",
-    "time": "2026-10-19T06:49:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cricket West Indies name replacement for Keemo Paul ahead of Bangladesh Tests; Check details",
-    "desc": "With the conclusion of the multi-format series against the Indian team, the West Indies is gearing up for a Test series against Bangladesh. The two sides will take on each other in two Test matches,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cricket-west-indies-name-replacement-for-keemo-paul-ahead-of-bangladesh-tests-check-details-2026-10-18-1057320",
-    "time": "2026-10-18T18:14:38.000Z"
   }
 ];
