@@ -1,5 +1,275 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "AAIB chief gets a year's extension as many key probes, including AI 171, on",
+    "desc": "People in the know say while the aviation ministry “keeps the aircraft accident investigating agency at an arm’s length and does not interfere in its working in any way,” it is taking steps to strengthen the AAIB. The bureau's lab has been recently upgraded and it now has the capability to download cockpit voice recorder and digital flight data recorder (black box) to know the conversation in the flight deck and the flight parameters till before an event being investigated.",
+    "img": "https://static.toiimg.com/photo/msid-135075667,imgsize-59940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/aaib-chief-gets-a-years-extension-as-many-key-probes-incl-ai-171-on/articleshow/135075656.cms",
+    "time": "2026-10-20T18:40:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Two Andaman, one Chhattisgarh site added to Unesco World Heritage tentative list",
+    "desc": "India has added three sites to its tentative list for UNESCO World Heritage status, including the Karst-mud-volcano Complex. The sites are located in the Andaman and Nicobar Islands and Chhattisgarh, and the Archaeological Survey of India played a crucial role. Inclusion on this list is necessary for future nominations to the UNESCO World Heritage List. Currently, India possesses 45 UNESCO World Heritage Sites, ranking sixth in the world.",
+    "img": "https://static.toiimg.com/photo/msid-135075477,imgsize-321930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/two-andaman-one-chhattisgarh-site-added-to-unesco-world-heritage-tentative-list/articleshow/135075402.cms",
+    "time": "2026-10-20T18:29:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJP’s Abhijeet Dipke thanks Delhi Ramlila organisers for ‘free publicity’ over cockroach effigy",
+    "desc": "The Shree Keshav Ram Leela Committee, which organises the annual event in Pitampura, has said the cockroach effigy is intended to symbolise filth and dirt and promote cleanliness under the Swachh Bharat and Swachh Delhi campaigns",
+    "img": "https://th-i.thgim.com/public/incoming/7norp5/article71605374.ece/alternates/LANDSCAPE_1200/DUSSHERA%20DELHI%205.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cjps-abhijeet-dipke-thanks-delhi-ramlila-organisers-for-free-publicity-over-cockroach-effigy/article71603848.ece",
+    "time": "2026-10-20T17:20:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Health Department issues circular on maintaining medicine stocks in hospitals",
+    "desc": "The circular directs that an updated list of the medicine stocks in hospitals be provided to doctors in the OP (outpatient) departments. This will help doctors have a clear idea about the medicines available in the hospital and to prescribe the same to patients.",
+    "img": "https://th-i.thgim.com/public/incoming/x4a96s/article71605367.ece/alternates/LANDSCAPE_1200/iStock-530809521.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/health-department-issues-circular-on-maintaining-medicine-stocks-in-hospitals/article71604608.ece",
+    "time": "2026-10-20T17:17:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet unleashes six-hitting blitz as India thrash Zimbabwe by 92 runs",
+    "desc": "India's women's cricket team displayed sheer dominance against Zimbabwe, clinching the third T20I by a commanding 92 runs. With Shafali Verma and Harmanpreet Kaur leading the charge, scoring 69 and 91 respectively, Zimbabwe struggled in the chase, ending at 124/7 after facing early setbacks. Nandani Sharma's stellar three-wicket performance solidified the win, marking an impressive 11-match T20I winning streak.",
+    "img": "https://static.toiimg.com/photo/msid-135074091,imgsize-1732293.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/harmanpreet-kaur-unleashes-six-hitting-blitz-as-india-thrash-zimbabwe-by-92-runs-to-complete-3-0-t20i-series-sweep/articleshow/135074015.cms",
+    "time": "2026-10-20T17:10:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Wall Street climbs as healthcare stocks hit record, oil prices ease",
+    "desc": "Wall Street's primary indices saw an uptick, primarily driven by healthcare stocks reaching all-time highs amid falling oil prices. Investors are scrutinizing corporate earnings, with increasing worries about artificial intelligence expenditure impacting market stability. Significant advances from companies like Eli Lilly and Equifax boosted overall market performance. Nevertheless, General Motors and Steel Dynamics struggled with elevated costs and missed profit expectations.",
+    "img": "https://static.toiimg.com/photo/msid-135073985,imgsize-104856.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/wall-street-climbs-as-healthcare-stocks-hit-record-oil-prices-ease-dow-jones-up-0-97-sp-gains-0-42/articleshow/135073829.cms",
+    "time": "2026-10-20T16:53:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi flags three ‘enemies’ of India, calls for unity in national interest",
+    "desc": "“Let our thoughts be aligned… all the institutions of the nation, all political parties… let us stand together for the national interest. We must proceed with this very spirit; we must fight together against the enemies of the country,” Prime Minister Narendra Modi said",
+    "img": "https://th-i.thgim.com/public/incoming/gjs9a2/article71605319.ece/alternates/LANDSCAPE_1200/20261020460L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-flags-three-enemies-of-india-calls-for-unity-in-national-interest/article71605000.ece",
+    "time": "2026-10-20T16:45:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi BJP leader burns giant cockroach effigy; CJP founder responds with SRK’s 'Swades' song",
+    "desc": "During Dussehra celebrations in Delhi, a 30-foot cockroach effigy was burned alongside traditional effigies of Ravan. Organizers stated that the effigy symbolized filth and promoted cleanliness in line with health awareness initiatives. Leaders of the Cockroach Janta Party reacted sharply, suggesting the move provided them with free publicity. Delhi minister Kapil Mishra remarked that cockroaches symbolize chaos and filth, reflecting public sentiment.",
+    "img": "https://static.toiimg.com/photo/msid-135073750,imgsize-68136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/free-publicity-cjp-reacts-as-delhi-burns-30ft-cockroach-effigy-with-ravan/articleshow/135073600.cms",
+    "time": "2026-10-20T16:45:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&K government announces annual shifting of capital from Srinagar to Jammu",
+    "desc": "According to the ‘Darbar Move’ calendar, the offices are scheduled to reopen in the winter capital of Jammu on November 2. In summer capital Srinagar, offices will start closing from October 30 and October 31",
+    "img": "https://th-i.thgim.com/public/incoming/8b20j3/article71605029.ece/alternates/LANDSCAPE_1200/12-DARBAR-MOVE-SGR-04-05-2026.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-government-announces-annual-shifting-of-capital-from-srinagar-to-jammu/article71604076.ece",
+    "time": "2026-10-20T16:38:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cat Deeley begins ‘massive renovation’ of new home after split from Patrick Kielty",
+    "desc": "Cat Deeley has revealed she is undertaking a massive renovation of her new home with help from her brother following her split from Patrick Kielty. Meanwhile, the former couple’s Hampstead property, purchased for £4.9 million in 2022, is on the market for £5 million after a reported £250,000 price reduction.",
+    "img": "https://static.toiimg.com/photo/msid-135073605,imgsize-104567.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/cat-deeley-begins-massive-renovation-of-new-home-with-brothers-help-after-split-from-patrick-kielty-ex-couples-hampstead-house-listed-for-5-million-after-250000-price-cut/articleshow/135073472.cms",
+    "time": "2026-10-20T16:33:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police actions on protesters violate India’s core international legal obligations: UN human rights experts",
+    "desc": "‘Any restrictions on peaceful assembly must be legal, pursue a legitimate aim, and be necessary and proportionate,’ says a joint statement by a group of globally recognised rapporteurs, issued by the UN Human Rights Office of the High Commissioner",
+    "img": "https://th-i.thgim.com/public/incoming/8if9zu/article71604414.ece/alternates/LANDSCAPE_1200/STUDENT%20PROTEST%20TIRANGA%20MARCH%20DELHI%20CEC%2091.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/un-experts-urge-india-to-curb-force-against-unarmed-student-protesters/article71604310.ece",
+    "time": "2026-10-20T16:32:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika wears Rs 90,000 hand-embroidered kurta set, as they reveal second baby's name",
+    "desc": "Deepika Padukone and Ranveer Singh shared the name of their second daughter, Devi Padukone Singh, on social media. The couple posted a family photograph featuring their daughters dressed in coordinated outfits. Deepika wore a peach kurta set, while Ranveer complemented her in an ivory silk kurta. The announcement garnered positive reactions from fans and celebrities through comments filled with love and good wishes.",
+    "img": "https://static.toiimg.com/photo/msid-135073350,imgsize-433562.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-wears-rs-90000-hand-embroidered-kurta-set-twins-with-ranveer-singh-dua-and-devi-as-couple-reveals-second-daughters-name-with-adorable-pic/articleshow/135073294.cms",
+    "time": "2026-10-20T16:11:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJP leaders Saurav Das, Ashutosh Ranka move Delhi HC against judicial custody",
+    "desc": "The CJP leaders have questioned the justification for their continued detention on grounds of public order; their plea states that any restriction on liberty must be backed by a real and proximate connection with a disturbance of public order, rather than a remote possibility of such a disturbance",
+    "img": "https://th-i.thgim.com/public/incoming/hrwxvb/article71604548.ece/alternates/LANDSCAPE_1200/20261019244L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/saurav-das-ashutosh-ranka-judicial-custody-cjp-seeks-urgent-hearing-in-delhi-high-court/article71604565.ece",
+    "time": "2026-10-20T16:08:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yash offered to pay for loss suffered for not clicking him, Arjun bought camera for the paps",
+    "desc": "In a recent conversation, paparazzo shed light on the considerate nature of actors Arjun Kapoor and Yash towards photographers. Arjun has notably stepped in to assist photographers facing hardships by gifting them cameras, while Yash has urged them not to feel obliged to wait outside during his dubbing sessions.",
+    "img": "https://static.toiimg.com/photo/msid-135072747,imgsize-226849.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yash-offered-to-pay-to-the-paparazzi-for-loss-suffered-for-not-clicking-his-photos-arjun-kapoor-bought-cameras-for-them-reveals-paparazzo-he-has-the-best-heart/articleshow/135072659.cms",
+    "time": "2026-10-20T15:35:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Youth on streets are revolutionaries': Uddhav Thackeray calls for 'regime change'",
+    "desc": "During the vibrant Dussehra rally at Shivaji Park in Mumbai, Uddhav Thackeray rallied his supporters, highlighting the significance of youth activism in addressing the alleged electoral irregularities impacting the fresh electorate. He proclaimed that the saffron identity is a legacy of his party, urging a reformation in the political climate and the prominent display of the saffron flag, echoing the influence of Bal Thackeray in his passionate address.",
+    "img": "https://static.toiimg.com/photo/msid-135072783,imgsize-151444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/youth-on-streets-are-revolutionaries-uddhav-thackeray-calls-for-regime-change/articleshow/135072727.cms",
+    "time": "2026-10-20T15:35:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former Man Utd boss exposes lazy training habits that ruined Ronaldo 4 years ago",
+    "desc": "Erik ten Hag has revealed fresh details about Cristiano Ronaldo’s dramatic Manchester United exit, claiming the forward failed to meet fitness standards, skipped training demands and let the team down. The former manager’s comments revisit their bitter 2022 fallout, which escalated after Ronaldo refused to come on against Tottenham and accused the club of betrayal before departing for Saudi Arabia’s Al-Nassr.",
+    "img": "https://static.toiimg.com/photo/msid-135072719,imgsize-78742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/four-years-of-silence-broken-former-man-utd-coach-erik-ten-hag-admits-he-dropped-ronaldo-because-he-was-too-unfit-for-premier-league-football/articleshow/135072289.cms",
+    "time": "2026-10-20T15:34:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jalaj’s late strikes boost Kerala’s push for victory",
+    "desc": "Odisha ends the penultimate day at 102 for four after following on as bad weather forces an early close; the visiting side needs 78 more on an uneven wicket to make the home team bat again",
+    "img": "https://th-i.thgim.com/public/incoming/imefis/article71605015.ece/alternates/LANDSCAPE_1200/NH20Ranji053.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-jalajs-late-strikes-boost-keralas-push-for-victory/article71605022.ece",
+    "time": "2026-10-20T15:30:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jailer 2' actor SJ Suryah explains Superstar Rajinikanth connection in his name transformation",
+    "desc": "SJ Suryah, whose birth name is S. Justin Selvaraj, reveals the origin of his moniker. Director Vasanth suggested 'SJ Suryah' from a list he provided. Suryah is currently seen in the much-anticipated film 'Jailer 2', co-starring Rajinikanth, which hit theaters on October 15. Grateful for the unwavering support from fans, he encourages everyone to applaud Rajinikanth's performance in the film.",
+    "img": "https://static.toiimg.com/photo/msid-135072582,imgsize-164037.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/from-justin-selvaraj-to-sj-suryah-jailer-2-actor-reveals-how-director-vasanth-gave-him-his-screen-name-recalls-rajinikanth-connection/articleshow/135072579.cms",
+    "time": "2026-10-20T15:19:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tiger's team issues first statement after firing incident, warns of legal action over AI videos",
+    "desc": "Tiger Shroff's team has issued a statement concerning the recent shooting incident in Mumbai. They clarified that the actor has not made any public statements regarding the attack. The team expressed concern over the spread of fake news and AI-generated content related to the event. They warned that legal action will be pursued against those circulating misleading material online.",
+    "img": "https://static.toiimg.com/photo/msid-135072345,imgsize-212794.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroffs-team-issues-first-statement-after-firing-incident-warns-of-legal-action-over-fake-news-and-ai-generated-videos/articleshow/135072325.cms",
+    "time": "2026-10-20T14:59:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tiger Shroff was not the orignal target of the shooters, says Mumbai police",
+    "desc": "the assailants initially planned to strike another Bollywood figure. But due to stringent security protocols, they switched their focus to Tiger Shroff. The moment of confrontation occurred as he exited a football club, with shots fired at his car.",
+    "img": "https://static.toiimg.com/photo/msid-135072075,imgsize-152175.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroff-was-not-the-orignal-target-of-the-shooters-says-mumbai-police-the-three-shooters-were-targeting-a-prominent-bollywood-celebrity/articleshow/135071999.cms",
+    "time": "2026-10-20T14:39:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi breaks his own Guinness World Record with six species named after him",
+    "desc": "Lionel Messi’s legacy has extended beyond football with Salvia messii, a newly described sage plant discovered in Peru’s Andes. Its pale blue and white flowers reflect Argentina’s national colours, while its endangered classification highlights conservation concerns. The discovery brings the number of species named after Messi to six, adding a distinctive botanical tribute to his remarkable sporting achievements and global influence.",
+    "img": "https://static.toiimg.com/photo/msid-135072021,imgsize-109392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/lionel-messi-breaks-own-guinness-world-record-with-six-species-named-in-his-honour-all-the-insects-animals-fossils-fungi-and-plants/articleshow/135070538.cms",
+    "time": "2026-10-20T14:34:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Where are the fans?': Warner fumes over sparse crowds in South Africa-Australia Test",
+    "desc": "David Warner is voicing alarm over the dismal attendance during the ongoing Test series between South Africa and Australia. Both teams hold the top two positions in Test cricket rankings, yet crowds have been sparse. Rain has exacerbated the situation, resulting in noticeably empty stands. With the echoes of the 2018 ball-tampering scandal lingering, this series' low turnout raises critical questions about the future of Test cricket's allure.",
+    "img": "https://static.toiimg.com/photo/msid-135072015,imgsize-75936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/where-are-the-fans-david-warner-fumes-over-sparse-crowds-in-south-africa-australia-test-series/articleshow/135071963.cms",
+    "time": "2026-10-20T14:33:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "L-G would be final authority in proposed U.T.-level body in Ladakh, says Centre’s proposal",
+    "desc": "The draft, accessed by The Hindu asks, whether the delimitation of constituencies for the elected body will be done by an election authority or a Delimitation Commission; it also explores multiple options, including reserving one-third or up to 50% of the seats in the proposed body for women",
+    "img": "https://th-i.thgim.com/public/incoming/23nduq/article71604486.ece/alternates/LANDSCAPE_1200/PTI10_16_2026_000505B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ladakh/l-g-would-be-final-authority-in-proposed-ut-level-body-in-ladakh-says-centres-proposal/article71604466.ece",
+    "time": "2026-10-20T14:29:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Athisaya Piravi': Santhanam’s next borrows Rajinikanth’s 1990 title",
+    "desc": "Santhanam's latest film, 'Athisaya Piravi', has just released its first-look poster, sparking excitement among fans. This comedy-science fiction flick marks the debut direction of Sudhaman Krishna. Although production has wrapped, fans are still waiting for details on the plot and release date. The film stars Gopika Ramesh as the female lead, with music composed by GV Prakash Kumar, and additional cast announcements are expected soon.",
+    "img": "https://static.toiimg.com/photo/msid-135071914,imgsize-169820.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/athisaya-piravi-first-look-out-santhanams-comedy-sci-fi-film-borrows-rajinikanths-1990-title/articleshow/135071905.cms",
+    "time": "2026-10-20T14:25:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "President promulgates LAHDC Regulation, paves the way for hill council polls in all eight districts of Ladakh",
+    "desc": "L-G Vinai Kumar Saxena says the decision is historic as ‘it was implemented in a record time of just six days and now paves the way for creation of LAHDC in all eight districts of Ladakh, including the newly-created Sankoo district’",
+    "img": "https://th-i.thgim.com/public/incoming/cmiy7a/article71604968.ece/alternates/LANDSCAPE_1200/PTI10_16_2026_000505B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ladakh/president-promulgates-lahdc-regulation-paves-the-way-for-hill-council-polls-in-all-eight-districts-of-ladakh/article71604027.ece",
+    "time": "2026-10-20T14:24:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Saurashtra’s tail wags to deny Karnataka the first innings lead",
+    "desc": "Parth Bhut and Jaydev Unadkat come together for a 40-run stand to take the visitor past the host’s tally, which now needs to go for an outright win after returning with just one point from its season opener against Andhra",
+    "img": "https://th-i.thgim.com/public/incoming/shvu3x/article71604779.ece/alternates/LANDSCAPE_1200/_JAI7166.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-saurashtras-tail-wags-to-deny-karnataka-the-first-innings-lead/article71604671.ece",
+    "time": "2026-10-20T14:21:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why India slipped in Asian Games standings despite 24 medals as China extend lead",
+    "desc": "India achieved 24 medals, achieving five golds on Day 2 of the Asian Para Games 2026. Nishad Kumar and Deepthi Jeevanji led the country with outstanding athletic performances, contributing significantly to the medal tally. Despite this notable success, India's ranking dropped from fourth to sixth due to the gold medal count. China continued to lead the standings with a significant gap over competing nations.",
+    "img": "https://static.toiimg.com/photo/msid-135071784,imgsize-144008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/why-india-slipped-in-asian-para-games-standings-despite-24-medals-five-golds-as-china-extend-lead/articleshow/135071633.cms",
+    "time": "2026-10-20T14:16:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre must stop treating Punjab's drug crisis as ‘political opportunity’: AAP Minister on Shah’s visit",
+    "desc": "Harpal Cheema's reaction came as Amit Shah met the kin of victims of the drug menace in Punjab and said he had come to remind the AAP government and its leaders that they promised to eradicate the drug trade within three months of coming to power, but it is growing",
+    "img": "https://th-i.thgim.com/public/incoming/k7bypz/article71604961.ece/alternates/LANDSCAPE_1200/20260907107L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/centre-must-stop-treating-punjabs-drug-crisis-as-political-opportunity-aap-minister-on-shahs-visit/article71604928.ece",
+    "time": "2026-10-20T14:12:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shashi Tharoor calls Ranveer Singh's 'Dhurandhar' a propaganda film",
+    "desc": "Shashi Tharoor expressed his views on the 'Dhurandhar' films directed by Aditya Dhar. He praised the storytelling and cinematic execution while criticizing the excessive violence portrayed. Tharoor acknowledged the political messaging present in the franchise, which has led to bans in some countries. He also compared the film's depiction of intelligence work to his own experiences. Despite concerns over violence, he appreciated the overall filmmaking quality and impact.",
+    "img": "https://static.toiimg.com/photo/msid-135071669,imgsize-311616.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shashi-tharoor-calls-ranveer-singhs-dhurandhar-a-propaganda-film-i-think-pakistanis-will-realise-how-much-wrong-has-been-done-in-their-name/articleshow/135071511.cms",
+    "time": "2026-10-20T14:07:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi invokes 'Ram Rajya', warns against people hurting India's image",
+    "desc": "Prime Minister Narendra Modi addressed the Dussehra celebrations and highlighted the importance of public welfare. He emphasized the need for social justice and self-reliance as central to national development. Modi reminded attendees of the ideals of Lord Ram, focusing on justice and equal opportunities. He encouraged recognizing India's potential while serving the poor and marginalized. The Prime Minister referenced Vijayadashami as a celebration of the triumph of good over evil.",
+    "img": "https://static.toiimg.com/photo/msid-135071579,imgsize-225102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-invokes-ram-rajya-warns-against-people-hurting-indias-image-top-quotes-from-dussehra-event/articleshow/135071521.cms",
+    "time": "2026-10-20T13:58:37.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Suriya visits late composer Deva’s house to pay his last respects",
     "desc": "Actor Suriya paid a heartfelt visit to the family of the late music composer Deva, who profoundly influenced his early career, especially with memorable contributions to his debut film. Despite being unable to attend the funeral due to filming commitments in another city, Suriya's gesture showcases his respect. The industry mourns Deva’s passing, with many lending their support, while his timeless music continues to inspire numerous fans.",
@@ -25,24 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/indias-medal-storm-24-medals-five-golds-as-nishad-kumar-deepthi-jeevanji-shine-at-asian-para-games/articleshow/135071078.cms",
     "time": "2026-10-20T13:33:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Saurashtra’s tail wags to deny Karnataka the first innings lead",
-    "desc": "Parth Bhut and Jaydev Unadkat come together for a 40-run stand to take the visitor past the host’s tally, which now needs to go for an outright win after returning with just one point from its season opener against Andhra",
-    "img": "https://th-i.thgim.com/public/incoming/shvu3x/article71604779.ece/alternates/LANDSCAPE_1200/_JAI7166.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-saurashtras-tail-wags-to-deny-karnataka-the-first-innings-lead/article71604671.ece",
-    "time": "2026-10-20T13:27:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJP’s Abhijeet Dipke thanks Delhi Ramlila organisers for 'free publicity' over cockroach effigy",
-    "desc": "The Shree Keshav Ram Leela Committee, which organises the annual event in Pitampura, has said the cockroach effigy is intended to symbolise filth and dirt and promote cleanliness under the Swachh Bharat and Swachh Delhi campaigns",
-    "img": "https://th-i.thgim.com/public/incoming/laxp60/article71603849.ece/alternates/LANDSCAPE_1200/20261020008L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cjps-abhijeet-dipke-thanks-delhi-ramlila-organisers-for-free-publicity-over-cockroach-effigy/article71603848.ece",
-    "time": "2026-10-20T13:17:38.000Z"
   },
   {
     "cat": "Sports",
@@ -124,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/does-trumps-60-day-tariff-waiver-really-give-relief-to-india-what-it-means-for-us-trade-deal-oil-prices/articleshow/135065802.cms",
     "time": "2026-10-20T12:12:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "UN experts urge India to curb force against unarmed student protesters",
-    "desc": "The UN experts said in a statement that “this crackdown reflects a broader, troubling pattern”, adding that they alerted the Indian authorities on the “undue restrictions on peaceful assembly, excessive use of force, arbitrary detentions, enforced disappearances, and the targeting of student activists, amongst others”",
-    "img": "https://th-i.thgim.com/public/incoming/8if9zu/article71604414.ece/alternates/LANDSCAPE_1200/STUDENT%20PROTEST%20TIRANGA%20MARCH%20DELHI%20CEC%2091.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/un-experts-urge-india-to-curb-force-against-unarmed-student-protesters/article71604310.ece",
-    "time": "2026-10-20T12:05:50.000Z"
   },
   {
     "cat": "Business",
@@ -225,24 +468,6 @@ const newsData_en = [
     "time": "2026-10-20T10:51:56.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ashish Shelar meets Tiger Shroff after Juhu firing incident",
-    "desc": "In a show of support, Maharashtra Minister Ashish Shelar visited Bollywood star Tiger Shroff following a troubling firing incident in Juhu. With police now apprehending three suspects linked to the attack, a local court has approved their transit remand for deeper inquiries. While Tiger Shroff emerged unharmed, his driver sustained injuries, prompting authorities to initiate a case against the arrested individuals under various legal statutes.",
-    "img": "https://static.toiimg.com/photo/msid-135068046,imgsize-274790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ashish-shelar-meets-tiger-shroff-after-juhu-firing-incident-checks-on-actors-well-being/articleshow/135068046.cms",
-    "time": "2026-10-20T10:48:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dasara-themed watchlist: Films echo festival’s good-versus-evil spirit",
-    "desc": "Dasara celebrates good defeating evil, and Bollywood channels that theme through four films. ‘Kalank’ offers a glowing Ravan Dahan backdrop, ‘Ek Villain’ explores darker inner battles, ‘Nayyi Naveli’ mixes supernatural comedy with mythology, and ‘Adipurush’ retells the Ramayana, making a varied Dasara watchlist.",
-    "img": "https://static.toiimg.com/photo/msid-135068069,imgsize-320995.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kalank-nayyi-naveli-to-adipurush-bollywood-films-that-capture-the-spirit-of-dussehra-with-grand-celebrations-good-vs-evil-and-mythological-drama/articleshow/135068035.cms",
-    "time": "2026-10-20T10:47:03.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "BJP’s delimitation gambit: Will it isolate Congress, puncture opposition’s SIR unity?",
     "desc": "As the government gears up for a new delimitation effort, Congress’s quest for opposition unity faces hurdles. Congress chief Mallikarjun Kharge raised alarms about the government's legislative strategies pertaining to delimitation and reservations for women. With Kiren Rijiju hinting at discussions across various opposition factions that may favor the bills, the scenario presents a complex web of political dynamics.",
@@ -262,12 +487,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "When Anirudh Ravichander and Andrea Jeremiah reacted to their viral pics",
-    "desc": "Anirudh Ravichander recently marked the release of 'Jailer 2', while navigating personal transformations. An old controversy involving intimate photos with Andrea Jeremiah has resurfaced. Both artists opened up about the leaked images, recalling their past relationship. Anirudh expressed disappointment over the situation but chose to channel his energy into music. His recent triumphs and discussions of marriage showcase the positive shift in his public persona since 2012.",
-    "img": "https://static.toiimg.com/photo/msid-135067909,imgsize-176268.cms",
+    "title": "In 2025, Sydney Sweeney reportedly toured $15 million Bel-Air estate Casa Contenta",
+    "desc": "Sydney Sweeney recently explored Casa Contenta, a historic estate nestled in Bel-Air that's currently on the market. With its rich ties to Hollywood and sprawling landscapes, the property, built in 1936, boasts vintage interiors and intricate details, perfectly matching Sweeney's passion for classic homes. Not long ago, she celebrated her 28th birthday at a cosmic-themed bash in Los Angeles. As of now, her plans regarding the estate remain unannounced.",
+    "img": "https://static.toiimg.com/photo/msid-135063675,imgsize-60182.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/when-anirudh-ravichander-and-andrea-jeremiah-reacted-to-their-viral-picswe-are-not-ashamed-it-was-a-beautiful-bond/articleshow/135067896.cms",
-    "time": "2026-10-20T10:35:22.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2025-sydney-sweeney-reportedly-toured-15-million-bel-air-estate-casa-contenta-after-her-28th-birthday/articleshow/135063644.cms",
+    "time": "2026-10-20T10:30:00.000Z"
   },
   {
     "cat": "Business",
@@ -279,42 +504,6 @@ const newsData_en = [
     "time": "2026-10-20T10:14:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anurag says patriotic and devotional films have a stranglehold on Bollywood",
-    "desc": "Anurag Kashyap says Bollywood now greenlights only patriotic or devotional films, calling it “a fact and a tragedy.” Backing the children’s film Little Thomas, releasing October 23, he calls himself an “enabler.” He hopes slice-of-life stories can still sneak in, and says making any film is difficult today.",
-    "img": "https://static.toiimg.com/photo/msid-135067523,imgsize-216020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-backs-little-thomas-says-patriotic-and-devotional-films-have-a-stranglehold-on-bollywood/articleshow/135067509.cms",
-    "time": "2026-10-20T10:04:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Disability group urges Centre to classify communication aids as essential products",
-    "desc": "Agents of Change has sought the classification of AAC devices and prostheses as essential assistive products under the draft Rights of Persons with Disabilities (Amendment) Rules, 2026, warning that their current categorisation could create uncertainty over insurance and public financing",
-    "img": "https://th-i.thgim.com/public/news/national/q3uf51/article71604006.ece/alternates/LANDSCAPE_1200/AA61E25A-52AE-4F03-9226-ED6E7795A7EC.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/disability-group-urges-centre-to-classify-communication-aids-as-essential-products/article71603955.ece",
-    "time": "2026-10-20T09:58:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Greens see red over Keralam government move to permit sand extraction in 17 rivers",
-    "desc": "Society for the Protection of the Environment, Kerala (SPEK) says though the govt decision has been presented as a flood mitigation step, no environmental impact assessment appears to have been conducted. Activists also point out that this may serve as a pretext for indiscriminate extraction of sand from all rivers and streams",
-    "img": "https://th-i.thgim.com/public/incoming/j40y01/article71603560.ece/alternates/LANDSCAPE_1200/Bharathapuzha_1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/greens-see-red-over-keralam-govts-move-to-permit-sand-mining-in-17-rivers/article71603504.ece",
-    "time": "2026-10-20T09:54:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arshad Warsi returns as original Jolly in 'Jolly LLB 4' prequel directed by Umesh Shukla",
-    "desc": "Arshad Warsi is set to return as lawyer Jagdish Tyagi in 'Jolly LLB 4', a prequel directed by Umesh Shukla, according to Variety India. The film is reportedly in production and is expected to wrap filming by January 2027, although its title and supporting cast remain unconfirmed. Warsi first played Jolly in the 2013 film before Akshay Kumar headlined the next two instalments. Jolly LLB 3 earned Rs. 171.64 crore worldwide, according to Sacnilk.",
-    "img": "https://static.toiimg.com/photo/msid-135067300,imgsize-182247.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arshad-warsi-to-return-as-original-jolly-in-jolly-llb-4-after-akshay-kumar-headlined-second-and-third-instalments-with-umesh-shukla-to-direct-prequel-that-will-wrap-filming-by-january-2027-report/articleshow/135067108.cms",
-    "time": "2026-10-20T09:52:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shree Charani, Deepti Sharma dominate as Nandani, Kranti make gains",
     "desc": "Team India continues to shine in the ICC Women's T20I Bowling Rankings, led by the exceptional performances of Shree Charani and Deepti Sharma. With Nandani Sharma and Kranti Gaud climbing the rankings, the Indian women's team has established a commanding 2-0 lead over Zimbabwe in their series. This reinforces the depth of talent within the squad, while Australian players also rise in the ODI rankings after their series against Bangladesh.",
@@ -324,22 +513,13 @@ const newsData_en = [
     "time": "2026-10-20T09:51:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala HC says SC-fixed registration deadline can’t be extended by HC or govt",
-    "desc": "Justice Bechu Kurian Thomas holds that without any extension of the time granted by the Supreme Court, it was not proper for the High Court to direct a delayed registration or even to direct the consideration of an application for time extension",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/55xwke/article71603987.ece/alternates/LANDSCAPE_1200/Kerala%20HC%20%20%20-%20R%20K%20Nithin.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/temple-plea-for-elephant-procession-kerala-hc-says-sc-fixed-registration-deadline-cant-be-extended-by-hc-or-govt/article71603853.ece",
-    "time": "2026-10-20T09:35:55.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "Sonu Nigam apologises to Kannadigas ahead of Bengaluru concert",
-    "desc": "After facing backlash for his Pahalgam remarks from 2025, Sonu Nigam has issued a heartfelt apology to the people of Karnataka. The Karnataka Rakshana Vedike expressed discontent, prompting Nigam to clarify his intentions and acknowledge the love he has encountered from Kannadigas. They are now calling for a cancellation of his scheduled concert on October 24, warning of potential statewide protests if their grievances are not addressed.",
-    "img": "https://static.toiimg.com/photo/msid-135066855,imgsize-92794.cms",
+    "title": "In 2005, Halle Berry bought Los Angeles villa for nearly $6 million",
+    "desc": "Halle Berry is putting her stunning Los Angeles estate on the market after purchasing it in 2005 for just below $6 million. This sprawling Mediterranean-style home offers three spacious bedrooms along with a guesthouse and studio. Sitting on a vast 25,000 square foot lot, the property boasts a magnificent outdoor space complete with a swimming pool, spa, and peaceful meditation garden.",
+    "img": "https://static.toiimg.com/photo/msid-135067195,imgsize-105442.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/sonu-nigam-apologises-to-kannadigas-over-pahalgam-remark-ahead-of-bengaluru-concert-says-i-dont-mind-saying-sorry-1000-times/articleshow/135066807.cms",
-    "time": "2026-10-20T09:35:54.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2005-halle-berry-bought-los-angeles-villa-for-nearly-6-million-now-lists-longtime-home-for-12-million/articleshow/135067130.cms",
+    "time": "2026-10-20T09:48:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -349,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/would-anyone-dare-to-behave-like-that-with-coldplay-mika-singh-defends-daler-mehndi-after-uttarakhand-event-controversy-says-he-will-quit-singing-if-anyone-ever-saw-him-with-alcohol-palash-sen-comes-out-in-support/articleshow/135066562.cms",
     "time": "2026-10-20T09:28:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sharad Kelkar slams Tiger Shroff firing",
-    "desc": "On Sunday, shots were fired at Tiger Shroff outside a Mumbai football club; he escaped with gunpowder burns on his hand. Sharad Kelkar called it “anarchy in the country” and trusted Mumbai Police. Vidyut Jammwal questioned security lapses. Police arrested three suspects in Kota, Rajasthan, on Monday.",
-    "img": "https://static.toiimg.com/photo/msid-135066644,imgsize-147470.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sharad-kelkar-reacts-to-tiger-shroff-firing-incident-backs-mumbai-police-there-should-never-be-this-kind-of-anarchy-in-the-country/articleshow/135066629.cms",
-    "time": "2026-10-20T09:26:06.000Z"
   },
   {
     "cat": "Politics",
@@ -378,15 +549,6 @@ const newsData_en = [
     "time": "2026-10-20T09:14:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Who was Karthik Sabesh? Inside late Tamil actor's life and film career",
-    "desc": "Karthik Sabesh, a well-known figure in Tamil cinema, has tragically passed away at the age of 37 after facing health complications. His death comes shortly after losing his uncle, Deva, and his father, M. C. Sabesan. He made his debut in 2004 with 'Dreams' and featured in various notable films. He leaves behind his wife, two daughters, and sorrowful siblings.",
-    "img": "https://static.toiimg.com/photo/msid-135066142,imgsize-165127.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/who-was-karthik-sabesh-inside-the-life-and-film-career-of-the-late-tamil-actor-son-of-composer-sabesh-and-nephew-of-late-composer-deva/articleshow/135066104.cms",
-    "time": "2026-10-20T09:05:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Himanshu Nandal wins bronze, gives India second swimming medal",
     "desc": "Himanshu Nandal, the Indian para-swimmer, clinched a bronze medal in the men's 400m freestyle S11 event at the Asian Para Games 2026, clocking in at 5 minutes and 10.91 seconds. This achievement marks a high point following his fourth-place finish in the men's 100m backstroke S11 event. Meanwhile, fellow swimmer Ravi Karthik Budigina participated in the S13 category but did not secure a medal.",
@@ -394,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-himanshu-nandal-wins-bronze-gives-india-second-swimming-medal/articleshow/135065950.cms",
     "time": "2026-10-20T09:04:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nathan Fielder talked with Elizabeth Holmes before the documentary's release",
-    "desc": "In an intriguing revelation, Nathan Fielder shared that he spoke with Elizabeth Holmes shortly before the documentary’s release. Their conversation revolved around her well-being and memories of their earlier interactions. Holmes opened up about her life and how she felt about the film covering her fraud scandal. While she conveyed trust in Fielder, he remained skeptical about why.",
-    "img": "https://static.toiimg.com/photo/msid-135066088,imgsize-252073.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nathan-fielder-reveals-elizabeth-holmes-contacted-him-from-prison-head-of-you-can-see-everything-release-didnt-even-know-she-had-an-ability-to-reach-out/articleshow/135065628.cms",
-    "time": "2026-10-20T09:02:39.000Z"
   },
   {
     "cat": "Sports",
@@ -432,15 +585,6 @@ const newsData_en = [
     "time": "2026-10-20T08:18:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Highly inspiring': PM Modi hails Mohan Bhagwat's speech on RSS Sthapana Divas",
-    "desc": "During the RSS centenary celebrations in Nagpur, Prime Minister Narendra Modi praised Mohan Bhagwat's impactful speech, which underscored important themes of social harmony, national growth, and self-reliance. Bhagwat acknowledged the vital roles of historical figures in fostering spiritual unity among Indians. This celebration, concluding a year of commemorative activities by the RSS, also focused on the importance of self-awareness and the Swadeshi movement for nation-building.",
-    "img": "https://static.toiimg.com/photo/msid-135064810,imgsize-96109.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/highly-inspiring-pm-modi-hails-mohan-bhagwats-speech-on-rss-sthapana-divas/articleshow/135064575.cms",
-    "time": "2026-10-20T08:09:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘We’ve got our plans’: New Zealand plot to stop Sooryavanshi ahead of India T20Is",
     "desc": "As New Zealand gear up to face India in the upcoming T20I series, focus shifts to young batter Vaibhav Sooryavanshi. Jacob Duffy acknowledges Sooryavanshi's impressive hitting skills exhibited during the IPL. The series kicks off in Christchurch, where bowlers may find a bit of an advantage. Duffy wishes for conditions that level the playing field, and all eyes will be on how Sooryavanshi adjusts to these challenges.",
@@ -468,24 +612,6 @@ const newsData_en = [
     "time": "2026-10-20T07:42:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Ramayana' distributor Dil Raju confuses Ranbir with Ranveer: 'Best hero'",
-    "desc": "Nitesh Tiwari's highly anticipated film 'Ramayana' is set to hit theaters this Diwali. The distribution has been secured, with Dil Raju overseeing the release for Telugu audiences. A recent gathering for promotion saw a humorous slip as Dil Raju called Ranbir Kapoor by Ranveer Singh's name, which delighted the crowd. With Ranbir leading as Lord Rama, the diverse ensemble cast added to the film's allure.",
-    "img": "https://static.toiimg.com/photo/msid-135064253,imgsize-222064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-distributor-dil-raju-confuses-ranbir-kapoor-with-ranveer-singh-at-an-event-quickly-apologises-calls-him-the-best-hero-watch-video/articleshow/135064180.cms",
-    "time": "2026-10-20T07:39:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Good always finds a way to triumph’: Sachin, Gambhir, Laxman extend Dussehra wishes",
-    "desc": "Legends of Indian cricket, including Sachin Tendulkar and Gautam Gambhir, took to social media to convey their warm Vijayadashami wishes, emphasising themes of valor and ethical righteousness. Suryakumar Yadav joined the festivities, advocating for universal peace. Known as Dussehra, this occasion celebrates the victory of Bhagwan Shri Ram over Ravana, prompting reflection on one’s own shortcomings and the necessity to challenge societal evils.",
-    "img": "https://static.toiimg.com/photo/msid-135063668,imgsize-195163.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/good-always-finds-a-way-to-triumph-sachin-tendulkar-gautam-gambhir-vvs-laxman-extend-dussehra-wishes/articleshow/135063482.cms",
-    "time": "2026-10-20T07:12:58.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Nepal bans Priyagold biscuit after FSSAI finds serious hygiene deficiencies",
     "desc": "In a significant move, Nepal's Food Technology and Quality Control Department has officially banned Priyagold biscuits produced by Surya Food and Agro Ltd. This action follows alarming food safety concerns raised by the Food Safety and Standards Authority of India, which revealed serious hygiene issues during their inspections, leading to a suspension of the manufacturer's license.",
@@ -502,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-sheetal-devi-swati-chaudhary-storm-into-archery-finals-eye-gold-medals-for-india/articleshow/135062781.cms",
     "time": "2026-10-20T06:30:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Values that inspired Captain Smit Machchhar': RSS chief Mohan Bhagwat cites flydubai pilot in Vijayadashami speech",
-    "desc": "Mohan Bhagwat highlighted Captain Smit Machchhar's bravery during a recent flight incident in his speech. He linked Machchhar's actions to Hindu values that prioritize protecting human lives and safety. The RSS aims to inspire national unity and build a strong society through these traditional values. Bhagwat emphasized the unconditional bond among Indians and the legacy of devotion demonstrated by freedom fighters.",
-    "img": "https://static.toiimg.com/photo/msid-135062776,imgsize-86837.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/values-that-inspired-captain-smit-machchharrss-chief-mohan-bhagwat-cites-flydubai-pilot-in-vijayadashami-speech/articleshow/135062684.cms",
-    "time": "2026-10-20T06:21:30.000Z"
   },
   {
     "cat": "Sports",
@@ -549,15 +666,6 @@ const newsData_en = [
     "time": "2026-10-20T05:08:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Give Sooryavanshi harsh truth’: Ex-cricketer explains Gambhir, management’s approach",
-    "desc": "Vaibhav Sooryavanshi, a talented 15-year-old cricketer, is still waiting for his big break in the Indian senior team. Despite his impressive glimpses, established players like Sanju Samson and Abhishek Sharma keep taking the spots. Former spinner Murali Kartik believes in the current squad and encourages Sooryavanshi to keep working hard for when his chance finally comes.",
-    "img": "https://static.toiimg.com/photo/msid-135060734,imgsize-78380.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/give-vaibhav-sooryavanshi-harsh-truth-ex-india-cricketer-explains-gautam-gambhir-managements-approach/articleshow/135060567.cms",
-    "time": "2026-10-20T03:43:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Property deed shows Rs 1.60 crore, taxman alleges Rs 3.30 crore sale but ITAT gives relief",
     "desc": "The dispute concerned a man and his wife, who jointly owned a property in Delhi before selling it.The Income Tax Department alleged that the buyers had paid an additional amount in cash beyond the sale consideration documented in the registered conveyance deed. The assessing officer calculated the total transaction value at around Rs 3.30 crore, whereas the registered sale deed recorded a consideration of Rs 1.60 crore.",
@@ -574,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-on-dussehra-are-nse-bse-mcx-open-or-closed-for-trading-on-october-20/articleshow/135059951.cms",
     "time": "2026-10-20T02:42:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Deepthi Jeevanji wins 400m T20 gold with Asian Para Games record",
-    "desc": "Deepthi Jeevanji won the gold medal in the women's 400m T20 event at the Asian Para Games 2026 after producing a superb performance in the final. Deepthi clocked 56.36 seconds to finish on top of the podium.",
-    "img": "https://static.toiimg.com/photo/msid-135059839,imgsize-37884.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/deepthi-jeevanji-wins-400m-t20-gold-with-asian-para-games-record/articleshow/135059803.cms",
-    "time": "2026-10-20T02:12:36.000Z"
   },
   {
     "cat": "Business",
@@ -799,104 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/max-richter-india-concert-on-the-nature-of-daylight-arrival-hamnet/article71599591.ece",
     "time": "2026-10-18T10:59:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "As climate risks become harder to predict and insure, India must price catastrophe without leaving people unprotected",
-    "desc": "Insurance has traditionally depended on the past to price the future. Climate change is making that bargain harder. Floods, cyclones and extreme rainfall are altering the risks insurers thought they knew, forcing them to ask whether yesterday remains a reliable guide to tomorrow",
-    "img": "https://th-i.thgim.com/public/incoming/22obdf/article71587800.ece/alternates/LANDSCAPE_1200/IMG_PTI02_12_2021_000254_2_1_JDD42P4G.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/as-climate-risks-become-harder-to-predict-and-insure-india-must-price-catastrophe-without-leaving-people-unprotected/article71587747.ece",
-    "time": "2026-10-18T04:11:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "China considers new export curbs on solar, AI, biotech",
-    "desc": "The draft plan, “Announcement No. 48”, proposes a complete export ban on 14 technologies and restrictions on 26 more, including next-generation solar technologies that could affect countries such as India seeking to reduce dependence on China",
-    "img": "https://th-i.thgim.com/public/news/national/uzyxwz/article71591945.ece/alternates/LANDSCAPE_1200/2026-06-08T083940Z_683439900_RC2GPLAIKHDA_RTRMADP_3_NORTHKOREA-CHINA.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/china-considers-new-export-curbs-on-solar-ai-biotech/article71591880.ece",
-    "time": "2026-10-18T02:57:39.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Indian, German firms to collaborate on immunoglobulin products: Indian Embassy",
-    "desc": "The Indian mission facilitated the exchange of a non-disclosure agreement (NDA) between Germany's Neovii Biotech GmbH and India's VINS Bioproducts Ltd. on the sidelines of the Indo-German Health Leadership Dialogue on October 13, says Embassy of India in Berlin",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/indian-german-firms-to-collaborate-on-immunoglobulin-products-indian-embassy/article71591495.ece",
-    "time": "2026-10-18T00:30:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Scenes from Madras & Trivandrum exhibition in Thiruvananthapuram traces the birth of modernism in south India",
-    "desc": "Curated by Tensing Joseph, the exhibition showcases the emergence of modernism in Keralam and south India through more than 140 works by 30 artists, with paintings from pivotal figures such as KCS Paniker, CL Porinchukutty and Kanayi Kunhiraman, among others",
-    "img": "https://th-i.thgim.com/public/incoming/99bur/article71582386.ece/alternates/LANDSCAPE_1200/IMG_20261008_183806362_HDR.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/art/southern-latitudes-scenes-from-madras-amp-trivandrum-exhibition-in-thiruvananthapuram-modernism-in-south-india/article71578173.ece",
-    "time": "2026-10-17T23:38:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Land shortage cripples Agriculture Ministry’s weather network rollout",
-    "desc": "Project is a year behind deadline, with over 96% of planned rain gauges and weather stations yet to be installed; private partners say IMD is retrospectively insisting that sensors be installed on the ground, not on rooftops",
-    "img": "https://th-i.thgim.com/public/news/national/7q3wxg/article71589784.ece/alternates/LANDSCAPE_1200/Untitled.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/land-shortage-cripples-agriculture-ministry-weather-network/article71588890.ece",
-    "time": "2026-10-17T22:11:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When a man becomes god: The story of Kathivanoor Veeran Theyyam",
-    "desc": "What does it take for a man to become a god? In North Keralam, Theyyam artistes undergo hours of rituals, makeup and transformation to embody deities. Follow Vinu Peruvannan as he becomes Kathivanoor Veeran, a warrior-turned-deity, and discover the folklore, fire and faith behind Keralam’s extraordinary Theyyam tradition.",
-    "img": "https://th-i.thgim.com/public/incoming/bn6lfy/article71587200.ece/alternates/LANDSCAPE_1200/When%20Man%20Becomes%20God_Theyyam.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-when-a-man-becomes-god-the-ritual-of-kathivanoor-veeran-theyyam/article71587218.ece",
-    "time": "2026-10-17T21:15:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Slaves, a new production by The Madras Players, is a translation of writer Sujatha",
-    "desc": "For years, Sujatha has captured the imagination of Tamil audiences through short stories, film scripts, and even theatre plays. On October 24, the Madras Players dramatises one of his earlier works, Adimaigal as Slaves on fortune, love, and loss",
-    "img": "https://th-i.thgim.com/public/incoming/7a6mc/article71582411.ece/alternates/LANDSCAPE_1200/DSC_6421.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/theatre/slaves-a-new-production-by-the-madras-players-is-a-translation-of-writer-sujatha/article71582426.ece",
-    "time": "2026-10-17T19:48:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Roundglass Sustain’s short film A Spring Against All Odds to be showcased at international film festival",
-    "desc": "The film, one of 48 films selected for Film SouthAsia (FSA), an international documentary film festival to be held in Kathmandu from November 27–29, 2026, is based on a script by Radhika Raj and has been directed by Samreen Farooqui",
-    "img": "https://th-i.thgim.com/public/life-and-style/98l9v3/article71562564.ece/alternates/LANDSCAPE_1200/Film%201.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/roundglass-sustains-short-film-a-spring-against-all-odds-to-be-showcased-at-international-film-festival/article71562550.ece",
-    "time": "2026-10-17T19:40:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Teja Sajja on hosting ‘The Traitors Telugu’: I had to be serious, unlike my real personality",
-    "desc": "Teja Sajja has been facing the camera since he was a little over two. Debuting as a child actor and later transitioning into an adult lead actor, he has over 30 films to his credit. Yet, something about his new assignment made him a tad nervous. Making his debut as a reality show host for The Traitors Telugu, which will stream on Prime Video from October 15, he found himself having to deliver several pages of the script in a single take.",
-    "img": "https://th-i.thgim.com/public/videos/shorts/2u4y7s/article71565573.ece/alternates/LANDSCAPE_1200/teja%20sajja.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/teja-sajja-on-hosting-the-traitors-telugu-i-had-to-be-serious-unlike-my-real-personality/article71565582.ece",
-    "time": "2026-10-17T15:35:59.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Anthropic proposes law regulating AI to US lawmakers",
-    "desc": "The company’s draft bill would let Washington block a model’s release if there is an imminent risk of killing more than 50 people or causing more than $1 billion in damages, but only with a judge’s approval",
-    "img": "https://th-i.thgim.com/public/incoming/o2380b/article71595754.ece/alternates/LANDSCAPE_1200/2026-10-14T222837Z_814297647_RC2LU7ANS75E_RTRMADP_3_ANTHROPIC-IPO-INVESTORS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/anthropic-proposes-law-regulating-ai-to-us-lawmakers/article71595557.ece",
-    "time": "2026-10-17T09:19:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "‘Safe landing’ a revamped Tesla Roadster",
-    "desc": "The revamped Tesla Roadster showcased the ability to drive up vertical walls and “fly” briefly with cold-gas thrusters, indicating how Elon Musk’s Tesla and SpaceX companies are converging. But the concept is far from reaching customers",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/v82uku/article71595308.ece/alternates/LANDSCAPE_1200/AFP__20261016__D3G39G3__v4__HighRes__TopshotUsAutomobileTeslaMusk.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/safe-landing-a-revamped-tesla-roadster-explained/article71595274.ece",
-    "time": "2026-10-17T04:23:54.000Z"
   }
 ];

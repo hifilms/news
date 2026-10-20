@@ -1,7 +1,7 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Pranav Soorma breaks Asian record to win gold in discuss throw at Para Asian Games",
+    "title": "Pranav Soorma breaks Asian record to win gold in discus throw at Para Asian Games",
     "desc": "India added more medals at the Para Asian Games in Aichi-Nagoya on Tuesday, with Pranav Soorma and Ram Ratan Singh securing the top two positions in the men’s discus throw F51/F52/F53 event. Soorma won gold...",
     "img": "",
     "src": "indiatvnews.com",
