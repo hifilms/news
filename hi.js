@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pranav Soorma breaks Asian record to win gold in discuss throw at Para Asian Games",
+    "desc": "India added more medals at the Para Asian Games in Aichi-Nagoya on Tuesday, with Pranav Soorma and Ram Ratan Singh securing the top two positions in the men’s discus throw F51/F52/F53 event. Soorma won gold...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/pranav-soorma-breaks-asian-record-to-win-gold-in-discuss-throw-at-para-asian-games-2026-10-20-1057455",
+    "time": "2026-10-20T12:14:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mitchell Starc achieves another majestic feat in Test cricket after dismissing Wiaan Mulder",
+    "desc": "Australia pacer Mitchell Starc became the first left-arm bowler to take 450 wickets in Test cricket. He recorded the feat on the third day of the second Test against South Africa in Gqeberha by dismissing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-achieves-another-majestic-feat-in-test-cricket-after-dismissing-wiaan-mulder-2026-10-20-1057451",
+    "time": "2026-10-20T11:57:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammed Shami reflects on India ambition, says 'hope should always be there'",
+    "desc": "Mohammed Shami opted to take a break in Bengal’s Ranji Trophy 2026 clash against Services at the Palam Air Force Ground A in New Delhi. He was reported to be suffering from a niggle, but...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-shami-reflects-on-india-ambition-says-hope-should-always-be-there-2026-10-20-1057443",
+    "time": "2026-10-20T10:36:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhimanyu Easwaran, Shahbaz Ahmed inspire Bengal's Ranji Trophy win over Services in Palam",
+    "desc": "Bengal defeated Services by 60 runs in their second Ranji Trophy 2026 clash at the Airforce Palam Stadium in New Delhi. Captain Abhimanyu Easwaran and the team management were quick to identify the sluggish nature...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhimanyu-easwaran-shahbaz-ahmed-inspire-bengal-s-ranji-trophy-win-over-services-in-palam-2026-10-20-1057437",
+    "time": "2026-10-20T09:55:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shafali Verma reprimanded for breaching ICC code of conduct during second T20I against Zimbabwe",
+    "desc": "India opener Shafali Verma has received an official reprimand from the International Cricket Council (ICC) for breaching its Code of Conduct during the second T20I against Zimbabwe in Raipur. The 22-year-old has also been handed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-reprimanded-for-breaching-icc-code-of-conduct-during-second-t20i-against-zimbabwe-2026-10-20-1057428",
+    "time": "2026-10-20T08:30:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Justin Langer makes shocking claim related to Sandpapergate saga, says 'ball hasn't reverse swung since'",
     "desc": "Former Australia head coach Justin Langer has reignited the debate surrounding the 2018 Sandpapergate scandal. He made a shocking claim that Steve Smith, David Warner and Cameron Bancroft bore the consequences of a practice he...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/mikel-arteta-gives-his-take-on-arsenal-s-momentum-in-the-premier-league-amid-brilliant-form-2026-10-19-1057382",
     "time": "2026-10-19T13:13:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mona Agarwal, Nishad Kumar kick off India's gold medal campaign at Para Asian Games 2026",
-    "desc": "The Indian contingent’s campaign at the Para Asian Games 2026 began on a positive note as the nation clinched its first gold medal at the event. It is worth noting that Mona Agarwal brought home...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/mona-agarwal-nishad-kumar-kick-off-india-s-gold-medal-campaign-at-para-asian-games-2026-2026-10-19-1057376",
-    "time": "2026-10-19T11:56:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pragyan Ojha named BCCI's new chief selector, Ramesh Powar gets appointed to men's selection committee",
-    "desc": "In a major development, the BCCI (Board of Control for Cricket in India) has come forward and named former India cricketer Pragyan Ojha as the new chief selector of the men’s national team. Apart from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pragyan-ojha-named-bcci-s-new-chief-selector-ramesh-powar-gets-appointed-to-men-s-selection-committee-2026-10-19-1057368",
-    "time": "2026-10-19T10:44:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer opens up on Bhuvneshwar Kumar's comeback in the Indian side",
-    "desc": "The stage is set for the multi-format series between India and New Zealand. The Men in Blue will be touring New Zealand to take on the Black Caps across five T20Is, five ODIs, and two...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-bhuvneshwar-kumar-s-comeback-in-the-indian-side-2026-10-19-1057364",
-    "time": "2026-10-19T10:03:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravi Shastri opens up on Jasprit Bumrah's workload management ahead of NZ series",
-    "desc": "The stage is set for the multi-format series between India and New Zealand. The two sides will take on each other across five T20Is, five ODIs, and two Test matches. With the ODI World Cup...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravi-shastri-opens-up-on-jasprit-bumrah-s-workload-management-ahead-of-nz-series-2026-10-19-1057357",
-    "time": "2026-10-19T09:03:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "VETO unveils 'VETO Sports Carnival', brings 300+ hours of live sports to Indian audiences this festive season",
-    "desc": "VETO, India’s subscription-free OTT platform, has announced the ‘VETO Sports Carnival’, featuring more than 300 hours of live sports streaming across cricket, football, weightlifting and tennis during the festive season. The initiative brings together five...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/veto-unveils-veto-sports-carnival-brings-over-300-hours-of-live-sports-to-indian-audiences-this-festive-season-2026-10-19-1057356",
-    "time": "2026-10-19T08:58:17.000Z"
   }
 ];
