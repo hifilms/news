@@ -1,6 +1,222 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Left parties should sell books from party offices, not at Durga Puja pandals, says West Bengal CM",
+    "desc": "The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals",
+    "img": "https://th-i.thgim.com/public/incoming/7d68q1/article71605663.ece/alternates/LANDSCAPE_1200/20261020395L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/left-parties-should-sell-books-from-party-offices-not-at-durga-puja-pandals-says-west-bengal-cm/article71605199.ece",
+    "time": "2026-10-20T23:16:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bavuma battles adversity to put South Africa in control",
+    "desc": "The captain produced a defiant display and showcased his ​batting skills as South Africa recovered from a precarious 110-6 in ⁠the morning session on the third day to declare on 425-9 before taking an Australian wicket prior to stumps, an emphatic response to their heavy defeat in last week’s first ‌test",
+    "img": "https://th-i.thgim.com/public/incoming/v1oj97/article71605660.ece/alternates/LANDSCAPE_1200/South_Africa_Australia_Cricket_2313_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket-bavuma-battles-adversity-to-put-south-africa-in-control/article71605659.ece",
+    "time": "2026-10-20T22:54:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Christina Applegate reveals SHOCKING MS misdiagnosis",
+    "desc": "Christina Applegate announced her return to the MeSsy podcast while sharing significant insights about her health. The actress revealed that she had been misdiagnosed with multiple sclerosis, which impacted her life deeply. She expressed emotional turmoil regarding the diagnosis and the ongoing health struggles she faces. Despite the lack of a multiple sclerosis diagnosis, Applegate confirmed her debilitating symptoms persist without improvement.",
+    "img": "https://static.toiimg.com/photo/msid-135078271,imgsize-231275.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/christina-applegate-reveals-she-was-misdiagnosed-with-multiple-sclerosis-says-i-havent-gotten-better-ive-gotten-worse/articleshow/135077158.cms",
+    "time": "2026-10-20T22:51:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India bag 14 medals in para athletics, Nishad third Indian to win two golds in single Para Asiad",
+    "desc": "India added five gold, four silver, and five bronze medals on the second day of competition, taking the medal count from para athletics to 20, the second best so far after China's 23 (13 gold, 5 silver, 5 bronze)",
+    "img": "https://th-i.thgim.com/public/incoming/x0sldx/article71605651.ece/alternates/LANDSCAPE_1200/PTI10_20_2026_000270B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/india-bag-14-medals-in-para-athletics-nishad-third-indian-to-win-two-golds-in-single-para-asiad/article71605650.ece",
+    "time": "2026-10-20T22:20:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Survey",
+    "desc": "The gap is also visible in employees’ current workplaces. Only 46% of respondents described their career paths as very clear. Among GCC employees, the figure fell to 36%, compared with 50% in IT services and 51% in startups. This could make career clarity a differentiator for GCCs competing for experienced technology talent, particularly as candidates increasingly seek clarity on career progression before joining an employer.",
+    "img": "https://static.toiimg.com/photo/msid-135078208,imgsize-72582.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gccs-emerging-top-career-choice-for-tech-talent-survey/articleshow/135077162.cms",
+    "time": "2026-10-20T22:17:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What student founders need",
+    "desc": "Colleges also need to let students learn across disciplines, she added. For technical businesses, support can be tangible. IIT Jammu gave MachFly Aerospace labs, resources and early financial support to build its first prototype, Bajpai said. Incubators also give young companies access to equipment they could not afford themselves, professors with domain expertise and alumni with industry experience, she said.",
+    "img": "https://static.toiimg.com/photo/msid-135077346,imgsize-95006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/classrooms-to-customers-what-student-founders-need/articleshow/135077161.cms",
+    "time": "2026-10-20T22:13:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Review of 2019 mineral policy on cards amid new priorities",
+    "desc": "The National Mineral Policy, 2019, was approved by the Union cabinet chaired by Prime Minister Narendra Modi. It was aimed at ensuring more effective regulation and sustainable development of the mining sector, and addressing the concerns of project-affected persons, particularly those living in tribal areas. The policy sought to create a more effective, meaningful and implementable framework by bringing in greater transparency.",
+    "img": "https://static.toiimg.com/photo/msid-135077159,imgsize-50044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/review-of-2019-mineral-policy-on-cards-amid-new-priorities/articleshow/135076899.cms",
+    "time": "2026-10-20T22:02:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran security chief rejects moving enriched uranium out of country",
+    "desc": "\"Not even a tiny bit of enriched nuclear material will leave Iran; such materials constitute a major asset and national wealth for the Iranian people, intended for use within the country,\" says Mr. Rezaei, Iran's secretary of the Supreme National Security Council",
+    "img": "https://th-i.thgim.com/public/incoming/s96w10/article71605649.ece/alternates/LANDSCAPE_1200/2026-08-10T075525Z_2037129379_RC2A6MAKWMCJ_RTRMADP_3_IRAN-CRISIS-REZAEI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-security-chief-rejects-moving-enriched-uranium-out-of-country/article71605648.ece",
+    "time": "2026-10-20T22:02:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Hotel tariffs in Delhi, Mumbai top Rishikesh, Ranthambore",
+    "desc": "Leading hospitality consulting firm Hotelivate’s recently released trends & opportunities report for 2026 shows average revenue per available room (RevPAR) for Delhi at Rs 9,811; Mumbai Rs 9,761; Ranthambore Rs 9,649 and Rishikesh Rs 9,583 in FY 2025-26. In the previous fiscal, the top four positions were Ranthambore (Rs 0,059), Rishikesh (Rs 9,493), Mumbai (Rs 9,458) and Delhi (Rs 8,846).",
+    "img": "https://static.toiimg.com/photo/msid-135077103,imgsize-223130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/hotel-tariffs-in-delhi-mumbai-top-rishikesh-ranthambore/articleshow/135076902.cms",
+    "time": "2026-10-20T21:58:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Hacker group claims access to 3.8 lakh SBI data entries",
+    "desc": "The claim was highlighted by cybersecurity monitoring account CyberPulse56 in a post on social media platform X. According to the account, the group purportedly possesses about 3.8 lakh data entries in CSV format and 2,722 pdf documents associated with the country’s largest public sector lender. The allegedly exposed dataset is said to contain customers’ personal information, residential addresses, loan applications, supporting documents and other applicationrelated records.",
+    "img": "https://static.toiimg.com/photo/msid-135077047,imgsize-50184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/hacker-group-claims-access-to-3-8-lakh-sbi-data-entries/articleshow/135076898.cms",
+    "time": "2026-10-20T21:52:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Michael' barred from 'Musical/Comedy' category at Golden Globes",
+    "desc": "The Michael Jackson biopic 'Michael', starring Jaafar Jackson, has been denied classification in the musical/comedy category. The film's use of music reportedly did not meet the eligibility criteria set by the awards committee. Previous biopics, such as 'Ray' and 'Walk the Line', were accepted as musicals before the rules changed. Lionsgate, the studio behind the film, is considering an appeal against this decision.",
+    "img": "https://static.toiimg.com/photo/msid-135077046,imgsize-208002.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-denied-golden-globes-submission-in-musical/comedy-category-asked-to-contend-in-drama-category/articleshow/135076888.cms",
+    "time": "2026-10-20T21:52:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Smartphone shipments slip, Chinese brands lose ground",
+    "desc": "Vivo’s shipments dropped 34% to 6.4 million — the sharpest decline among the top five. Repeated price increases disrupted retailers’ inventory planning, while limited supplies of entry-level phones weakened its position. Xiaomi’s traditional appeal of offering more features for the money also came under pressure. Rising component costs forced trade-offs on pricing and memory configurations, with shipments falling 28% to 4.7 million.",
+    "img": "https://static.toiimg.com/photo/msid-135077002,imgsize-64760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/smartphone-shipments-slip-chinese-brands-lose-ground/articleshow/135076901.cms",
+    "time": "2026-10-20T21:47:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "PE-VC investments shine, may exceed $39 billion this year",
+    "desc": "Data sourced by TOI from research firm Venture Intelligence shows that investments to the tune of $39 billion, comprising 1,434 deals, were recorded in CY2025. With 1,076 deals, it has already reached $32.7 billion during the nine-month period (Jan-Sept, 2026). It was primarily driven by record PEVC investments in Sept 2026 at $6 billion. The PE-VC investments do not include those related to the real estate sector.",
+    "img": "https://static.toiimg.com/photo/msid-135076938,imgsize-36360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/pe-vc-investments-shine-may-exceed-39-billion-this-year/articleshow/135076900.cms",
+    "time": "2026-10-20T21:41:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Asean emerges as fastest growing region for exports",
+    "desc": "Latest data available with the commerce department showed that India’s exports to Asean went up 56% during the first five months of the fiscal year as oil product shipments soared 2.4 times to over $6.1 billion, with Singapore accounting for almost threefourths of it. What also helped was a 20-fold jump in computer hardware to $1.4 billion to Asean countries and strong growth of electric machinery (82% to $1.6 billion) and buffalo meat (42% to $1 billion)",
+    "img": "https://static.toiimg.com/photo/msid-135076921,imgsize-115592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asean-emerges-as-fastest-growing-region-for-exports/articleshow/135076897.cms",
+    "time": "2026-10-20T21:38:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Asmita, Tanvi advance; Satwik-Chirag crash out of French Open badminton",
+    "desc": "The world No. 5 Indian pair of Satwik and Chirag bounced back to win the second game before going down against the French pair of Christo Popov and Toma Junior Popov 19-21, 21-18, 13-21 in just over an hour",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/asmita-tanvi-advance-satwik-chirag-crash-out-of-french-open-badminton/article71605533.ece",
+    "time": "2026-10-20T21:35:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Maddison's dream return helps Spurs to long-awaited Premier League win",
+    "desc": "Spurs had lost three and drawn three coming into the match and there was a real worry that the London club might face a relegation battle like last season, when it escaped on the final day",
+    "img": "https://th-i.thgim.com/public/incoming/dh250g/article71605532.ece/alternates/LANDSCAPE_1200/2026-10-19T194808Z_2111217628_UP1EMAJ1J07QL_RTRMADP_3_SOCCER-ENGLAND-TOT-COV.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/maddisons-dream-return-helps-spurs-to-long-awaited-premier-league-win/article71605527.ece",
+    "time": "2026-10-20T21:28:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi high court cites national security, junks CIC order to IAF on PMs’ foreign trips",
+    "desc": "Allowing a petition by the Central Public Information Officer of Directorate of Personal Services, Air Headquarters, Justice Amit Mahajan held the IAF was justified in denying access to the records under section 8 of RTI that exempts disclosure of information that could jeopardise national security or pose a risk to a person’s life and physical safety.",
+    "img": "https://static.toiimg.com/photo/msid-135076889,imgsize-119280.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-high-court-cites-national-security-junks-cic-order-to-iaf-on-pms-foreign-trips/articleshow/135076886.cms",
+    "time": "2026-10-20T21:16:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India &amp; United States to boost defence, energy ties, Marco Rubio says trade deal close",
+    "desc": "Rubio’s second visit to India comes against the backdrop of the US’s Sanctioning Russia and Iran Act, which is intended to penalise countries purchasing Russian oil, and Trump’s subsequent temporary suspension of related tariffs. India maintains that its oil procurement is essential not only for its own energy security but also for the stability of global markets. Rubio lauded the “substantial progress” made by India in diversifying its energy portfolio.",
+    "img": "https://static.toiimg.com/photo/msid-135076648,imgsize-114004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-united-states-to-boost-defence-energy-ties-marco-rubio-says-trade-deal-close/articleshow/135076521.cms",
+    "time": "2026-10-20T20:57:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police lens on Lawrence Bishnoi’s aide Randeep Malik in Tiger Shroff shooting case",
+    "desc": "Anil Pandit Pandit and Shroff ’s shooter Rehan both reported to Malik and were considered “his men” till a few months ago, a source said. Rehan had been earlier tasked by Malik and Pandit with a shooting incident in Sonipat as well. “Rehan was shown the same ‘American dream’ that Malik had shown Pandit in the past,” a source said.",
+    "img": "https://static.toiimg.com/photo/msid-135076880,imgsize-1157881.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/police-lens-on-lawrence-bishnois-aide-randeep-malik-in-tiger-shroff-shooting-case/articleshow/135076527.cms",
+    "time": "2026-10-20T20:56:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Allahabad HC cites long trial, lets off offenders, SC slams ‘misplaced sympathy’",
+    "desc": "A bench of Justices J B Pardiwala and K Vinod Chandran said it was a case of misplaced sympathy. The trial court had awarded fiveyear jail terms to the two, but the HC released them on probation. SC said the case was “doomed from its inception insofar as justice delivery to the victim is concerned”.",
+    "img": "https://static.toiimg.com/photo/msid-135076807,imgsize-1289834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/allahabad-hc-cites-long-trial-lets-off-offenders-sc-slams-misplaced-sympathy/articleshow/135076528.cms",
+    "time": "2026-10-20T20:49:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, US ‘perfectly aligned’ on key issues: Marco Rubio; defends ties with Pakistan",
+    "desc": "Addressing a gathering of India Inc’s leading business figures, Rubio said the relationship between the two countries could help shape the future of the global economy, particularly as advances in artificial intelligence and quantum computing transform industries and societies. “I truly believe the relationship between US and India is defining, in many ways, in a positive way, what the 21st century can look like,” he said.",
+    "img": "https://static.toiimg.com/photo/msid-135076767,imgsize-69334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-us-perfectly-aligned-on-key-issues-marco-rubio-defends-ties-with-pakistan/articleshow/135076530.cms",
+    "time": "2026-10-20T20:45:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "US secretary of state Marco Rubio",
+    "desc": "US secretary of state Marco Rubio is visiting Jamnagar Wednesday to tour the Reliance refinery and, in a lastminute change of schedule, is likely to spend the night there. He was earlier scheduled to leave around 9pm and return to Mumbai. In Jamnagar, he will have dinner with Mukesh Ambani at the Vantara centre. Rubio’s visit to Jamnagar comes within weeks of a vicious attack on Ambani by Elon Musk.",
+    "img": "https://static.toiimg.com/photo/msid-135076696,imgsize-242776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-talks-with-reliance-to-refine-more-venezuelan-oil-us-secretary-of-state-marco-rubio/articleshow/135076525.cms",
+    "time": "2026-10-20T20:37:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengal CM defends decision to shift stampede injured to private hospital, cites better care",
+    "desc": "\"We moved those injured to private hospitals because we realised that the best treatment could be provided there so that there is no more loss of life. I am happy to announce that there was no death among the 25 injured in the stampede. We decided on the spot. There is nothing controversial behind this,\" says West Bengal CM",
+    "img": "https://th-i.thgim.com/public/incoming/yhn436/article71605500.ece/alternates/LANDSCAPE_1200/PTI10_20_2026_000179B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-defends-decision-to-shift-stampede-injured-to-private-hospital-cites-better-care/article71605499.ece",
+    "time": "2026-10-20T20:02:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mariah Carey wins $20 million defamation lawsuit filed by brother Morgan",
+    "desc": "Mariah Carey has won a legal battle after a judge dismissed brother Morgan Carey’s defamation lawsuit over her 2020 memoir, The Meaning of Mariah Carey. Morgan sought more than $20 million, alleging reputational damage. The court ruled he failed to establish actual malice. His lawyer has said he plans to appeal the dismissal.",
+    "img": "https://static.toiimg.com/photo/msid-135076257,imgsize-82527.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mariah-carey-wins-as-judge-dismisses-brother-morgan-careys-defamation-lawsuit-seeking-20-million-over-memoir-the-meaning-of-mariah-carey-court-cites-failure-to-prove-actual-malice-lawyer-to-appeal/articleshow/135076247.cms",
+    "time": "2026-10-20T19:19:00.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "AAIB chief gets a year's extension as many key probes, including AI 171, on",
     "desc": "People in the know say while the aviation ministry “keeps the aircraft accident investigating agency at an arm’s length and does not interfere in its working in any way,” it is taking steps to strengthen the AAIB. The bureau's lab has been recently upgraded and it now has the capability to download cockpit voice recorder and digital flight data recorder (black box) to know the conversation in the flight deck and the flight parameters till before an event being investigated.",
     "img": "https://static.toiimg.com/photo/msid-135075667,imgsize-59940.cms",
@@ -315,24 +531,6 @@ const newsData_en = [
     "time": "2026-10-20T13:13:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Reason behind Anirudh Ravichander and Kavya Maran’s Greece wedding",
-    "desc": "In November 2026, Anirudh Ravichander and Kavya Maran will tie the knot in Greece, a location renowned for its scenic beauty and rich history. Their wedding aims to blend elegance with charm, making it a perfect choice for a celebrity affair. With breathtaking spots like Santorini and Mykonos, this event promises to be an unforgettable celebration, gathering loved ones from across the globe.",
-    "img": "https://static.toiimg.com/photo/msid-135070170,imgsize-148193.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anirudh-ravichander-and-kavya-marans-greece-wedding-why-the-couple-may-have-chosen-this-dream-destination/articleshow/135070148.cms",
-    "time": "2026-10-20T13:09:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Gujarat government ‘gifts’ part of disputed Vadodara plot to Yusuf Pathan",
-    "desc": "The proposal comes nearly four months after the Lok Sabha MP, as part of a rebel TMC group, broke away from the Mamata Banerjee-led fold and merged with the NCPI to join the BJP-led NDA",
-    "img": "https://th-i.thgim.com/public/incoming/juoszh/article71604117.ece/alternates/LANDSCAPE_1200/PTI03_21_2025_000144B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/gujarat/gujarat-govt-gifts-part-of-disputed-vadodara-plot-to-yusuf-pathan/article71604103.ece",
-    "time": "2026-10-20T12:50:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Hat-trick hero Sai Kishore bowls TN to innings win",
     "desc": "The 29-year-old claims six wickets while fellow left-arm spinner Ajith Ram scalps four as Uttarakhand gets bundled out for 113 shortly after lunch on the third day; the home team skipper finishes with career-best match figures of 10 for 74",
@@ -387,15 +585,6 @@ const newsData_en = [
     "time": "2026-10-20T11:53:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Selvaraghavan drops fresh hint about the long-awaited 'Pudhupettai' sequel",
-    "desc": "Selvaraghavan has thrillingly revealed plans to revisit the world of 'Pudhupettai', igniting fervor among fans for a potential sequel. Nearly two decades after Dhanush's unforgettable portrayal of Kokki Kumar, the film's legacy endures. While specifics about production, cast, and release remain under wraps, fans eagerly anticipate the continuation of Kokki Kumar's journey. An official announcement regarding the sequel's progress is still pending.",
-    "img": "https://static.toiimg.com/photo/msid-135069359,imgsize-208370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/will-dhanush-return-as-kokki-kumar-in-pudhupettai-2-selvaraghavan-drops-fresh-hint-about-the-long-awaited-sequel/articleshow/135069337.cms",
-    "time": "2026-10-20T11:48:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Historic high! India win record five bronze medals in best-ever para TT show",
     "desc": "At the Asian Para Games in Aichi-Nagoya, India delivered its standout performance in para table tennis, clinching five bronze medals and exceeding its previous best of two. With Ravi Baby Sahana and Prachi Pandey marking a significant first in the standing category, and impressive contributions from Bhavina Patel and Jehan Madan, this feat highlights India's expanding footprint in para table tennis.",
@@ -441,15 +630,6 @@ const newsData_en = [
     "time": "2026-10-20T11:16:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside Vadivelu’s 100 crore home with traditional design, modern features",
-    "desc": "Vadivelu's latest residence elegantly blends traditional Tamil architecture with contemporary features, creating a truly unique living space. The property boasts a flourishing fruit garden, enriching its natural ambiance. With renewable solar energy, advanced CCTV security, and a personalized office area for Vadivelu, this home stands out with its generous outdoor environment. Meanwhile, the versatile actor is actively engaged in multiple film ventures, marking a significant phase in his acting journey.",
-    "img": "https://static.toiimg.com/photo/msid-135068691,imgsize-187520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/inside-vadivelus-new-100-crore-home-with-traditional-design-fruit-garden-and-modern-features/articleshow/135068657.cms",
-    "time": "2026-10-20T11:15:08.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "‘Felt very happy’: Annamalai welcomes Bhagwat's remarks on Muslims' place in India",
     "desc": "K Annamalai lauded Mohan Bhagwat's recent statements on the significance of religious inclusivity in India. Speaking at a Faith Leaders Conference in New York, Bhagwat encouraged the embrace of diverse communities, including Muslims, reiterating the value of dignity for all. Annamalai pointed out the rising global fascination with Indian civilization, stressing the necessity for leaders and citizens to embody the nation's established ideals.",
@@ -466,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-1-2-for-india-pranav-soorma-ram-ratan-singh-clinch-discus-gold-and-silver/articleshow/135068090.cms",
     "time": "2026-10-20T10:51:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP’s delimitation gambit: Will it isolate Congress, puncture opposition’s SIR unity?",
-    "desc": "As the government gears up for a new delimitation effort, Congress’s quest for opposition unity faces hurdles. Congress chief Mallikarjun Kharge raised alarms about the government's legislative strategies pertaining to delimitation and reservations for women. With Kiren Rijiju hinting at discussions across various opposition factions that may favor the bills, the scenario presents a complex web of political dynamics.",
-    "img": "https://static.toiimg.com/photo/msid-135069734,imgsize-2093485.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjps-delimitation-gambit-how-it-can-isolate-congress-puncture-oppositions-sir-unity/articleshow/135063073.cms",
-    "time": "2026-10-20T10:45:51.000Z"
   },
   {
     "cat": "Business",
@@ -529,15 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/would-anyone-dare-to-behave-like-that-with-coldplay-mika-singh-defends-daler-mehndi-after-uttarakhand-event-controversy-says-he-will-quit-singing-if-anyone-ever-saw-him-with-alcohol-palash-sen-comes-out-in-support/articleshow/135066562.cms",
     "time": "2026-10-20T09:28:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rubio lands in Mumbai for 3-day India visit, Jaishankar talks and Jamnagar trip on agenda",
-    "desc": "US secretary of state Marco Rubio commenced his three-day visit to India on Tuesday, landing in Mumbai to engage in meaningful discussions with external affairs minister S Jaishankar. The agenda focuses on fortifying bilateral relations and includes the Freedom 250 Reception and a memorial tribute to terrorism victims at the Taj Memorial. This visit could signal advancements in the long-anticipated India-US trade pact.",
-    "img": "https://static.toiimg.com/photo/msid-135066525,imgsize-152342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rubio-lands-in-mumbai-for-3-day-india-visit-jaishankar-talks-and-jamnagar-trip-on-agenda/articleshow/135066350.cms",
-    "time": "2026-10-20T09:25:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -667,48 +829,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Property deed shows Rs 1.60 crore, taxman alleges Rs 3.30 crore sale but ITAT gives relief",
-    "desc": "The dispute concerned a man and his wife, who jointly owned a property in Delhi before selling it.The Income Tax Department alleged that the buyers had paid an additional amount in cash beyond the sale consideration documented in the registered conveyance deed. The assessing officer calculated the total transaction value at around Rs 3.30 crore, whereas the registered sale deed recorded a consideration of Rs 1.60 crore.",
-    "img": "https://static.toiimg.com/photo/msid-135051034,imgsize-655040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/husband-and-wife-sell-property-income-tax-dept-alleges-rs-3-30-crore-sale-against-rs-1-60-crore-in-deed-cites-whatsapp-chats-excel-sheets-to-claim-rs-1-70-crore-cash-receipts-but-itat-gives-relief/articleshow/135050856.cms",
-    "time": "2026-10-20T03:27:00.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Are NSE, BSE, MCX open or closed for trading today",
     "desc": "Domestic equity markets including NSE and BSE will remain closed on October 20 for Dussehra. This holiday follows a significant market drop due to weak private banking and disappointing earnings. The Multi Commodity Exchange will operate in the evening despite a morning session closure. Upcoming market holidays for the remainder of 2026 include Diwali Balipratipada and Christmas. Investors should plan their trading activities accordingly during these holidays.",
     "img": "https://static.toiimg.com/photo/msid-135060016,imgsize-235576.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-on-dussehra-are-nse-bse-mcx-open-or-closed-for-trading-on-october-20/articleshow/135059951.cms",
     "time": "2026-10-20T02:42:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "SDTT files response to commissioner",
-    "desc": "Sir Dorabji Tata Trust responded to governance complaints regarding trustee appointments, specifically mentioning Noel Tata. The complaints, filed by trustees Venu Srinivasan and Vijay Singh, claimed exclusion from key decision-making. The Maharashtra Charity Commissioner allowed an extension for responses until October 19. Notably, there were accusations about Noel's role in business dealings and talks with minority shareholders, as this trust holds a significant 28% share in Tata Sons.",
-    "img": "https://static.toiimg.com/photo/msid-135059470,imgsize-49798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/tata-trusts-row-sir-dorabji-tata-trust-files-response-to-commissioner/articleshow/135059462.cms",
-    "time": "2026-10-20T01:44:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude holds near $110 per barrel as Middle East tensions keep supply concerns alive",
-    "desc": "Currently hovering around $110 a barrel, oil prices are influenced by escalating geopolitical tensions involving Russia and Saudi Arabia. Washington's recent move to relax restrictions on Russian energy exports has shifted market impressions. Attacks claimed by Yemen's Houthis on Saudi facilities have further heightened stability concerns. As a result, prices remain resilient above $100, prompting traders to carefully evaluate the ramifications for global energy security.",
-    "img": "https://static.toiimg.com/photo/msid-135059440,imgsize-75400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/crude-holds-near-110-per-barrel-as-middle-east-tensions-keep-supply-concerns-alive/articleshow/135059405.cms",
-    "time": "2026-10-20T01:43:31.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Food quality on trains to get better? IRCTC and QCI to crack down with surprise audits",
-    "desc": "Indian Railway Catering and Tourism Corporation Limited (IRCTC) has entered into a strategic Memorandum of Understanding (MoU) with Quality Council of India to strengthen compliance with food safety and hygiene standards across the railway system, according to a statement issued by the Railway Ministry. As part of the system, inspectors will use a mobile application to record their findings, with geo-tagging, time-stamps and photographic evidence made mandatory.",
-    "img": "https://static.toiimg.com/photo/msid-135046766,imgsize-770960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indian-railways-cracks-down-on-food-quality-issues-after-passenger-complaints-irctc-partners-with-qci-for-surprise-audits-on-trains-and-stations-with-digital-evidence-to-speed-up-action/articleshow/135045412.cms",
-    "time": "2026-10-20T01:26:00.000Z"
   },
   {
     "cat": "World",
@@ -772,131 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-pulls-out-of-key-investment-in-sri-lanka-port-logistics-venture/article71602799.ece",
     "time": "2026-10-19T15:09:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hyderabad leads by 169 runs at stumps on Day-2",
-    "desc": "If Andhra had grabbed the game by the scruff of the neck in the second session on Day 1, it was Hyderabad’s turn to do the same on Day 2, with Tanay once again at the heart of it, as he had been against Tripura in the previous round.",
-    "img": "https://th-i.thgim.com/public/incoming/c27pa5/article71602805.ece/alternates/LANDSCAPE_1200/vjkvg-rajan%2010.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-hyderabad-leads-by-169-runs-at-stumps-on-day-2/article71602808.ece",
-    "time": "2026-10-19T13:44:05.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Prime Minister calls for localised curfews in cities to curb rioting, looting",
-    "desc": "On October 17, 2026, ‘despite scenes of severe violence and extensive property damage, no one was killed, and that is a miracle,’ said the French PM as he defended the work of police officers faced with violent groups of people",
-    "img": "https://th-i.thgim.com/public/incoming/fvu0wt/article71602729.ece/alternates/LANDSCAPE_1200/2026-10-19T122103Z_1048790696_RC2C6OAWWFB4_RTRMADP_3_FRANCE-PROTEST-LUXURY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/france-protest-prime-minister-calls-for-localised-curfews-in-cities-to-curb-rioting-looting/article71602727.ece",
-    "time": "2026-10-19T13:08:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Turtle Walker’: Zoya Akhtar-backed documentary pays tribute to Satish Bhaskar’s life and legacy",
-    "desc": "The film is a stunning deep dive into the life of turtle conservationist Satish Bhaskar, who walked nearly every inch of India’s coastline to discover the nesting beaches of sea turtles so that they could be protected",
-    "img": "https://th-i.thgim.com/public/life-and-style/ai4fxk/article71599776.ece/alternates/LANDSCAPE_1200/TW_02.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/turtle-walker-zoya-akhtar-taira-malaney-satish-bhaskar-animal-planet-documentary-india-epic-wild-stories/article71599741.ece",
-    "time": "2026-10-19T12:15:15.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "China imposes export controls on tunnel-boring machines sought by India, citing ‘national security’",
-    "desc": "The Chinese Commerce Ministry said on Monday, October 19, in an announcement that, it was “introducing export controls on tunnel-boring machines and related items and optimising and adjusting export-control measures for certain dredgers and related items.”",
-    "img": "https://th-i.thgim.com/public/incoming/s4n7i3/article71602543.ece/alternates/LANDSCAPE_1200/iStock-187348194.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/china-imposes-export-controls-on-tunnel-boring-machines-sought-by-india-citing-national-security/article71602536.ece",
-    "time": "2026-10-19T10:53:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India’s scheduling SNAFU — how much is too much?",
-    "desc": "In these last 114 days since Shreyas first walked out for the toss, India have played 21 matches against Ireland, England, Zimbabwe, Afghanistan, Japan, Sri Lanka, Pakistan and the West Indies. Imagine playing every one of these matches, in different time zones",
-    "img": "https://th-i.thgim.com/public/incoming/lgll9a/article71601078.ece/alternates/LANDSCAPE_1200/PTI10_14_2026_000315A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/indias-scheduling-snafu-how-much-is-too-much/article71601080.ece",
-    "time": "2026-10-19T06:45:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's Para Asian Games contingent showcases 5,000 years of heritage",
-    "desc": "More than 100 Indian athletes took part in the ceremony, led by Paralympic medallist sprinter Simran Sharma and top shuttler Pramod Bhagat, who carried the national flag as the contingent marched in with the Tricolour fluttering proudly",
-    "img": "https://th-i.thgim.com/public/incoming/skef8g/article71601143.ece/alternates/LANDSCAPE_1200/20261018300L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/indias-para-asian-games-contingent-showcases-5000-years-of-heritage/article71601142.ece",
-    "time": "2026-10-19T05:31:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Are your vintage kolu dolls becoming collector’s items?",
-    "desc": "Vintage kolu dolls are attracting collectors as prices go up every year. How much are your heirlooms worth? From antique Mysore Gowri bommai to finely detailed religious figurines, traditional vintage Navratri dolls are drawing interest for their rarity and craftsmanship. In Chennai, families and collectors preserve generations-old collection",
-    "img": "https://th-i.thgim.com/public/incoming/6u009c/article71582492.ece/alternates/LANDSCAPE_1200/06a-DSC_0228%20%20-%20Baby%20Saroja%20dolls.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/society/history-and-culture/navratri-2026-are-your-vintage-kolu-dolls-becoming-collectors-items/article71578617.ece",
-    "time": "2026-10-19T00:14:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why does India need a trained workforce for elderly care?",
-    "desc": "India’s 60-plus population is projected to touch 347 million by 2050, underscoring the need for a robust caregiving ecosystem; a formal training programme, building on existing small-scale initiatives, could promote gender parity in caregiving and recognise informal, unpaid family caregivers",
-    "img": "https://th-i.thgim.com/public/news/6obub0/article71576742.ece/alternates/LANDSCAPE_1200/iStock-1392762085.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/why-does-india-need-a-trained-workforce-for-elderly-care/article71576741.ece",
-    "time": "2026-10-18T16:53:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What drives corporate investment?",
-    "desc": "Corporate investment as a share of GDP in India has declined sharply since demonetisation, with the fall persisting despite tax cuts and a low-interest-rate regime; smaller firms face higher interest costs, while larger firms are more constrained by demand; reviving investment requires government expenditure to push profitability up",
-    "img": "https://th-i.thgim.com/public/news/national/eneed6/article71362064.ece/alternates/LANDSCAPE_1200/iStock-1405176819.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/what-drives-corporate-investment/article71360385.ece",
-    "time": "2026-10-18T16:18:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Does ‘inflation targeting’ work in India?",
-    "desc": "India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation",
-    "img": "https://th-i.thgim.com/public/news/national/700mky/article71436304.ece/alternates/LANDSCAPE_1200/iStock-2149589805.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/does-inflation-targeting-work-in-india/article71435164.ece",
-    "time": "2026-10-18T16:18:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What lies beyond India’s E20 push",
-    "desc": "The E20 blend’s promised savings were offset by lower mileage, with consumers spending an estimated ₹88,234 cr. extra over the last three years; its benefits for emissions and forex savings are uncertain, as higher fuel consumption can raise emissions while diverting crops to ethanol can affect food security and exports",
-    "img": "https://th-i.thgim.com/public/news/national/8cvikn/article71474011.ece/alternates/LANDSCAPE_1200/iStock-2265290727.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/what-lies-beyond-indias-e20-push/article71472275.ece",
-    "time": "2026-10-18T16:18:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s trade caught in the middle",
-    "desc": "India’s trade surplus with the U.S. is critical as it offsets a structural trade deficit with China, but a heavy U.S. tariff and the potential impact of AI on exports could put this surplus at risk and intensify pressure on the rupee; India should treat the tariff threat as a wake-up call to diversify its export markets and products",
-    "img": "https://th-i.thgim.com/public/news/national/5hnk5o/article71557086.ece/alternates/LANDSCAPE_1200/iStock-1399337469.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/indias-trade-caught-in-the-middle/article71555534.ece",
-    "time": "2026-10-18T16:17:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jailer 2 Is a Rajini Rave! How Nelson Gets the Superstar Right",
-    "desc": "Rajini Rave. From the iconic Rajinikanth grammar of Baashha, Annamalai and Padayappa to Nelson’s irreverent dark humour, elaborate set-ups, ingenious payoffs and colourful gallery of rogues, we examine how the filmmaker turns a star vehicle into a celebration of cinema itself. We look at how Nelson balances comedy with genuine emotional stakes, why consequences drive the story, how he uses cameos to solve narrative problems, and why Rajinikanth’s vulnerability matters as much as his larger-than-life aura.",
-    "img": "https://th-i.thgim.com/public/incoming/3g0hvt/article71596003.ece/alternates/LANDSCAPE_1200/FMM%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/jailer-2-is-a-rajini-rave-how-nelson-gets-the-superstar-right-3d-movie-review-ep-1/article71596007.ece",
-    "time": "2026-10-18T15:46:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "On the melancholia of ‘On the Nature of Daylight’ and the art of making audiences weep",
-    "desc": "Ahead of his first live concert in India, the Oscar-nominated composer reflects on the tear-jerking legacy of ‘Arrival’, making sense of Shakespeare with Chloe Zhao, and the fruitful collaboration with Ritesh Batra on ‘The Lunchbox’",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/jy0wz1/article71599585.ece/alternates/LANDSCAPE_1200/FzOAxVNWcAAe4lA.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/max-richter-india-concert-on-the-nature-of-daylight-arrival-hamnet/article71599591.ece",
-    "time": "2026-10-18T10:59:24.000Z"
   }
 ];
