@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "South Africa become first team to achieve major feat against Australia in WTC history",
+    "desc": "South Africa pacers produced a stunning show on Day 4 of the second Test against Australia, which left the visitors bundled out for only 99 runs. The Proteas had a rough start with the bat...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-become-first-team-to-achieve-major-feat-against-australia-in-wtc-history-2026-10-21-1057553",
+    "time": "2026-10-21T12:19:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Temba Bavuma credits Sachin Tendulkar after career-best score in second Test against Australia",
+    "desc": "Temba Bavuma credited Sachin Tendulkar as an influence on his batting technique after producing a career-best 179 to rescue South Africa from a precarious position in the second Test against Australia at St George's Park....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/temba-bavuma-credits-sachin-tendulkar-after-career-best-score-in-second-test-against-australia-2026-10-21-1057550",
+    "time": "2026-10-21T11:52:07.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Marco Jansen stuns Australia, leaves them 69/6 at lunch on Day 4 as South Africa smell comeback",
     "desc": "Marco Jansen ripped through Australia’s batting order with four wickets for 16 runs in his seven overs until Lunch on Day 4. His exceptional spell left the visitors struggling at 69 for six as South...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/pranav-soorma-breaks-asian-record-to-win-gold-in-discuss-throw-at-para-asian-games-2026-10-20-1057455",
     "time": "2026-10-20T12:14:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Starc achieves another majestic feat in Test cricket after dismissing Wiaan Mulder",
-    "desc": "Australia pacer Mitchell Starc became the first left-arm bowler to take 450 wickets in Test cricket. He recorded the feat on the third day of the second Test against South Africa in Gqeberha by dismissing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-achieves-another-majestic-feat-in-test-cricket-after-dismissing-wiaan-mulder-2026-10-20-1057451",
-    "time": "2026-10-20T11:57:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammed Shami reflects on India ambition, says 'hope should always be there'",
-    "desc": "Mohammed Shami opted to take a break in Bengal’s Ranji Trophy 2026 clash against Services at the Palam Air Force Ground A in New Delhi. He was reported to be suffering from a niggle, but...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-shami-reflects-on-india-ambition-says-hope-should-always-be-there-2026-10-20-1057443",
-    "time": "2026-10-20T10:36:46.000Z"
   }
 ];
