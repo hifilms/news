@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Marco Jansen stuns Australia, leaves them 69/6 at lunch on Day 4 as South Africa smell comeback",
+    "desc": "Marco Jansen ripped through Australia’s batting order with four wickets for 16 runs in his seven overs until Lunch on Day 4. His exceptional spell left the visitors struggling at 69 for six as South...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/marco-jansen-stuns-australia-leaves-them-69-6-at-lunch-on-day-4-as-south-africa-smell-comeback-2026-10-21-1057542",
+    "time": "2026-10-21T10:51:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ayush Verma, Praveen Kumar, Sachin Khilari add three more golds to India's para Asian Games campaign",
+    "desc": "India added 10 medals, including three gold, to their para-athletics haul on Wednesday at the Asian Para Games, with Ayush Verma, Praveen Kumar and Sachin Khilari winning their respective events. With that, India’s overall para-athletics...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/ayush-verma-praveen-kumar-sachin-khilari-add-three-more-golds-to-india-s-para-asian-games-campaign-2026-10-21-1057535",
+    "time": "2026-10-21T09:41:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India, Pakistan drafted into separate groups in ICC Women's U19 T20 World Cup, check schedule",
+    "desc": "The International Cricket Council has unveiled the schedule for the upcoming U19 Women’s T20 World Cup, starting January 21. The final will be hosted on February 6. Meanwhile, India will begin their campaign against West...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-pakistan-drafted-into-separate-groups-in-icc-women-s-u19-t20-world-cup-check-schedule-2026-10-21-1057523",
+    "time": "2026-10-21T08:23:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Luis Enrique's system-first PSG dynasty defining future of modern football",
+    "desc": "There was a time when a mid-match hamstring pull to Ousmane Dembele, coupled with Khvicha Kvaratskhelia operating at less than 100%, would have triggered panic inside the Parc des Princes. Paris Saint-Germain had a fragile...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/luis-enrique-s-system-first-psg-dynasty-defining-future-of-modern-football-2026-10-21-1057517",
+    "time": "2026-10-21T07:48:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Door shut for Vaibhav Sooryavanshi? Shreyas Iyer backs Abhishek Sharma, Sanju Samson to open in New Zealand",
+    "desc": "India captain Shreyas Iyer has urged Vaibhav Sooryavanshi to remain patient as the 15-year-old continues to compete for a place in the playing XI. Currently, both Abhishek Sharma and Sanju Samson have proved their mettle...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/door-shut-for-vaibhav-sooryavanshi-shreyas-iyer-backs-abhishek-sharma-sanju-samson-to-open-in-new-zealand-2026-10-21-1057507",
+    "time": "2026-10-21T06:02:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mitchell Santner names one Indian bowler New Zealand batters should be careful of in upcoming T20I series",
+    "desc": "After a four-year wait, Bhuvneshwar Kumar is back again in the T20I scheme of things. He returned to action in the fifth T20I against West Indies in Bengaluru, but since the match got called off...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-santner-names-one-indian-bowler-new-zealand-batters-should-be-careful-of-in-upcoming-t20i-series-2026-10-21-1057502",
+    "time": "2026-10-21T05:18:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur breaks down after emphatic 91-run knock as India seal series 3-0 vs Zimbabwe",
+    "desc": "Former India captain Harmanpreet Kaur struck an unbeaten 91 off 41 deliveries in the third and final T20I against Zimbabwe in Raipur. It helped India post 216 runs on the board in the first innings...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-breaks-down-after-emphatic-91-run-knock-as-india-seal-series-3-0-vs-zimbabwe-2026-10-21-1057500",
+    "time": "2026-10-21T04:55:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pranav Soorma breaks Asian record to win gold in discus throw at Para Asian Games",
     "desc": "India added more medals at the Para Asian Games in Aichi-Nagoya on Tuesday, with Pranav Soorma and Ram Ratan Singh securing the top two positions in the men’s discus throw F51/F52/F53 event. Soorma won gold...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mohammed-shami-reflects-on-india-ambition-says-hope-should-always-be-there-2026-10-20-1057443",
     "time": "2026-10-20T10:36:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhimanyu Easwaran, Shahbaz Ahmed inspire Bengal's Ranji Trophy win over Services in Palam",
-    "desc": "Bengal defeated Services by 60 runs in their second Ranji Trophy 2026 clash at the Airforce Palam Stadium in New Delhi. Captain Abhimanyu Easwaran and the team management were quick to identify the sluggish nature...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhimanyu-easwaran-shahbaz-ahmed-inspire-bengal-s-ranji-trophy-win-over-services-in-palam-2026-10-20-1057437",
-    "time": "2026-10-20T09:55:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shafali Verma reprimanded for breaching ICC code of conduct during second T20I against Zimbabwe",
-    "desc": "India opener Shafali Verma has received an official reprimand from the International Cricket Council (ICC) for breaching its Code of Conduct during the second T20I against Zimbabwe in Raipur. The 22-year-old has also been handed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-reprimanded-for-breaching-icc-code-of-conduct-during-second-t20i-against-zimbabwe-2026-10-20-1057428",
-    "time": "2026-10-20T08:30:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Justin Langer makes shocking claim related to Sandpapergate saga, says 'ball hasn't reverse swung since'",
-    "desc": "Former Australia head coach Justin Langer has reignited the debate surrounding the 2018 Sandpapergate scandal. He made a shocking claim that Steve Smith, David Warner and Cameron Bancroft bore the consequences of a practice he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/justin-langer-makes-shocking-claim-related-to-sandpapergate-saga-says-ball-hasn-t-reverse-swung-anywhere-since-2026-10-20-1057419",
-    "time": "2026-10-20T07:19:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WPL 2026 auction to feature 146 players; several marquee cricketers opt out",
-    "desc": "The Women’s Premier League (WPL) 2027 mini auction will feature 146 players competing for 27 vacancies when franchises assemble in Kochi on October 28. England batter Sophia Dunkley and Australia captain Sophie Molineux headline the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-auction-to-feature-146-players-several-marquee-cricketers-opt-out-2026-10-20-1057413",
-    "time": "2026-10-20T05:59:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Portugal FA suspends Cristiano Ronaldo for 30 days, hands him €255 fine after walkout from national team",
-    "desc": "Cristiano Ronaldo has been sanctioned by the Portuguese Football Federation with a 30-day suspension and a €255 fine following his departure from Portugal’s national team camp during the recent international break. The disciplinary decision follows...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/portugal-fa-suspends-cristiano-ronaldo-for-30-days-hands-him-255-euro-fine-after-walkout-from-national-team-2026-10-20-1057407",
-    "time": "2026-10-20T05:17:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Michael Carrick weighs in on Bruno Fernandes' injury as Man United's subpar form continues",
-    "desc": "Manchester United’s run of subpar form in the Premier League continues; the side has been struggling to get results ever since the start of the season. The side currently sits in 13th place in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/michael-carrick-weighs-in-on-bruno-fernandes-injury-as-man-united-s-subpar-form-continues-2026-10-19-1057388",
-    "time": "2026-10-19T14:31:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mikel Arteta gives his take on Arsenal's momentum in the Premier League amid brilliant form",
-    "desc": "The Premier League 2026-27 is well underway. With the conclusion of the international break, the league standings are taking shape, and defending champions Arsenal currently sit in second place in the league table. Under the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/mikel-arteta-gives-his-take-on-arsenal-s-momentum-in-the-premier-league-amid-brilliant-form-2026-10-19-1057382",
-    "time": "2026-10-19T13:13:15.000Z"
   }
 ];
