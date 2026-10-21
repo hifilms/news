@@ -1,6 +1,231 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Tiger shooters got weapons via ‘dead drop’; couriers delivered guns a day earlier",
+    "desc": "Kunal, who has also been arrested, has emerged as a key character who had been in touch with gangsters Anil Pandit and Randeep Malik for over two months. He had also figured as the source of the weapon used for the murder of a forex-hawala trader in Sonipat last year, sources said.",
+    "img": "https://static.toiimg.com/photo/msid-135100677,imgsize-146088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tiger-shooters-got-weapons-via-dead-drop-couriers-delivered-guns-a-day-earlier/articleshow/135100409.cms",
+    "time": "2026-10-21T21:01:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "At Jamnagar refinery, Rubio and Ambanis discuss energy, digital infra, giga factories",
+    "desc": "US President Donald Trump had earlier announced the setting up of a $300 billion refinery in US, with RIL being part of his plank to revive industry in the country and bring back jobs that were offshored. The Mukesh Ambani-led company has, however, not outlined any details. The importance of Reliance has since increased because the Jamnagar complex is where hard Venezuelan crude can be refined.",
+    "img": "https://static.toiimg.com/photo/msid-135100645,imgsize-108148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/at-jamnagar-refinery-rubio-and-ambanis-discuss-energy-digital-infra-giga-factories/articleshow/135100415.cms",
+    "time": "2026-10-21T20:54:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi protests India’s internal matter, won’t comment: Rubio; calls UN experts an ‘oxymoron'",
+    "desc": "On Tuesday, more than 20 UN human rights experts in Geneva had expressed alarm over what they described as a “repeatedly heavy-handed police response” to peaceful youth-led demonstrations in the national capital. United States secretary of state Marco Rubio brushed aside criticism by “UN experts” of the Indian crackdown as he called them an “oxymoron”.",
+    "img": "https://static.toiimg.com/photo/msid-135100598,imgsize-57942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-protests-indias-internal-matter-wont-comment-rubio-calls-un-experts-an-oxymoron/articleshow/135100408.cms",
+    "time": "2026-10-21T20:51:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NMC denotifies medical education rules; annual disclosures risk lacking verification",
+    "desc": "The 2019 Act also states that MARB may conduct evaluation of any institute at any time without prior notice. However, with the denotification, the aspects that need to be included in the evaluation report, such as verification of physical infrastructure, availability of the required number of faculty and review of feedback from students, have also been removed.",
+    "img": "https://static.toiimg.com/photo/msid-135100572,imgsize-53042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nmc-denotifies-medical-education-rules-annual-disclosures-risk-lacking-verification/articleshow/135100412.cms",
+    "time": "2026-10-21T20:49:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India deal pretty close, will be different: Trump; pact to exclude unresolved sectors",
+    "desc": "There has been speculation in certain quarters that the much-awaited deal may not be comprehensive, covering all sectors, and the two sides may like to leave aside the issues which have been particularly nettlesome to have an understanding on those for which they have been able to hammer out agreements.",
+    "img": "https://static.toiimg.com/photo/msid-135100498,imgsize-74164.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-deal-pretty-close-will-be-different-trump-pact-to-exclude-unresolved-sectors/articleshow/135100411.cms",
+    "time": "2026-10-21T20:19:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Confidence in poll process key for democracy, halt list of candidates: SC to AP SEC",
+    "desc": "Senior advocate Maninder Singh, who appeared for YSRCP, said in 19 of the 100 urban local bodies — 13 municipal corporations and 87 municipalities/nagar panchayats — more than 63% of YSRCP candidates were prevented from filing nominations or their nomination papers were torn. Senior advocate Sidharth Luthra, for AP govt, said YSRCP was importing criminal elements from as far as Punjab and fomenting violence only to cry wolf later.",
+    "img": "https://static.toiimg.com/photo/msid-135100509,imgsize-81128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/confidence-in-poll-process-key-for-democracy-halt-list-of-candidates-sc-to-ap-sec/articleshow/135100407.cms",
+    "time": "2026-10-21T20:19:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kochi pharma firm loses ₹99 lakh in alleged impersonation fraud",
+    "desc": "According to the FIR, the accused hacked a mobile phone used by the company’s accounts department and managed to save a phone number as that of the CEO, using the WhatsApp display picture used by him",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kochi-pharma-firm-loses-99-lakh-in-alleged-impersonation-fraud/article71608822.ece",
+    "time": "2026-10-21T19:50:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&K HC summons Srinagar Deputy Commissioner over detention order under PSA passed ‘without application of mind’",
+    "desc": "In the present case, the nature of the allegations, the apparent absence of specific material particulars on the grounds of detention and the prima facie concern regarding the manner in which the detention order has been formulated warrant further examination, Justice Nargal observes",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-hc-summons-srinagar-deputy-commissioner-over-detention-order-under-psa-passed-without-application-of-mind/article71608260.ece",
+    "time": "2026-10-21T19:38:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kuki-Zo groups demand reimposition of President’s Rule in Manipur",
+    "desc": "President’s Rule was last imposed in the State from February 2025 to February 2026; Kuki-Zo groups say 32 members of their community have died in ethnic violence since March, while economic embargoes hurt Kuki-Zo villages",
+    "img": "https://th-i.thgim.com/public/news/national/2ccyn0/article71608943.ece/alternates/LANDSCAPE_1200/IMG_4539.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/manipur/manipur-crisis-is-political-not-a-security-issue-says-kuki-zo-womens-forum-seeks-presidents-rule/article71607642.ece",
+    "time": "2026-10-21T19:37:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "RSS-affiliated labour organisation opens first Kashmir office in Pulwama",
+    "desc": "BMS has been actively working in Kashmir since 2020 after the abrogation of Article 370 and currently has 20 registered affiliated labour unions in the region, Khuchay said. Initially, there were a lot of misconceptions about RSS, he said. However, the BMS functionary claimed that over the years, he had succeeded in convincing the people that RSS was not anti-Muslim, but pro-labour and pro-people.",
+    "img": "https://static.toiimg.com/photo/msid-135100055,imgsize-46697.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rss-affiliated-labour-organisation-opens-first-kashmir-office-in-pulwama/articleshow/135099884.cms",
+    "time": "2026-10-21T19:27:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Drone-linked narco-terror module busted in Jammu; 804 gm heroin; 1.1 kg opium seized",
+    "desc": "“Preliminary investigation has indicated a cross-border nexus. Inquiry is underway to identify the source of the consignment, its intended recipients, and persons involved in the network,” police said. The network came to light during the questioning of a 26-year-old man arrested for consuming drugs in RS Pura on Wednesday. Police said, “The arrested man, Sunny Kumar, a resident of Kotli Mirdian, Suchetgarh, revealed about the smuggling module.”",
+    "img": "https://static.toiimg.com/photo/msid-135099978,imgsize-151720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/drone-linked-narco-terror-module-busted-in-jammu-804-gm-heroin-1-1-kg-opium-seized/articleshow/135099887.cms",
+    "time": "2026-10-21T19:18:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AAP alleges corruption in DJB on spraying of anti-frothing agent in Yamuna",
+    "desc": "“The container belonging to a company is marked ‘Defoamer Stock’, which means the tanks and all the equipment used to spray chemicals to remove foam from the Yamuna have already been set up,” says AAP Delhi president",
+    "img": "https://th-i.thgim.com/public/incoming/4toa6u/article71608932.ece/alternates/LANDSCAPE_1200/If-three-time-CGM2GIBM9F.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/aap-alleges-corruption-in-djb-on-spraying-of-anti-frothing-agent-in-yamuna/article71608548.ece",
+    "time": "2026-10-21T19:18:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Who are the terrorists? J&amp;K and Ladakh high court questions ‘vague’ detention order",
+    "desc": "A single bench of Justice Wasim Nargal said preventive detention, which allows authorities to deprive a person of liberty without a regular criminal trial, demands the “highest degree of constitutional responsibility and procedural diligence”. The court directed the DC to appear with the detention order, police dossier, material placed before him and records showing his consideration of the case and subjective satisfaction before ordering detention under PSA.",
+    "img": "https://static.toiimg.com/photo/msid-135099948,imgsize-1238902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/who-are-the-terrorists-jk-and-ladakh-high-court-questions-vague-detention-order/articleshow/135099891.cms",
+    "time": "2026-10-21T19:16:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jennifer Aniston still earns $20 million yearly from Friends",
+    "desc": "Jennifer Aniston reportedly continues to earn $20 million annually from Friends, more than 20 years after the sitcom ended. The show’s six stars initially earned $22,500 per episode before collective negotiations pushed their salaries to $1 million in the final seasons. A groundbreaking profit-sharing deal also helped the cast benefit from the sitcom’s enduring popularity and continued revenue.",
+    "img": "https://static.toiimg.com/photo/msid-135099803,imgsize-74601.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-aniston-still-makes-20-million-a-year-from-friends-despite-sitcom-ending-over-20-years-ago-how-the-cast-went-from-22500-to-1-million-per-episode/articleshow/135099712.cms",
+    "time": "2026-10-21T19:11:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Captain Iyer says Vaibhav Sooryavanshi must be patient for national opportunities",
+    "desc": "It's important that a talent like him is always happy around the dressing room. And he is very young. He has more years to get opportunities. It's not like he can walk in straight away. Because our openers are also scoring consistently. And they also won the World Cup,\" Iyer said during the press conference ahead of the first T20I in Hagley Oval",
+    "img": "https://th-i.thgim.com/public/incoming/igv1r4/article71608911.ece/alternates/LANDSCAPE_1200/PTI10_17_2026_000380A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/captain-iyer-says-vaibhav-sooryavanshi-must-be-patient-for-national-opportunities/article71608904.ece",
+    "time": "2026-10-21T18:59:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ladakh administration dissolves hill council in Kargil, announces panchayat elections on November 21",
+    "desc": "The administration of Ladakh has notified 100 elected constituencies for the eight districts of the region; nominations will close on November 2 while the Model Code of Conduct has come into force with immediate effect",
+    "img": "https://th-i.thgim.com/public/incoming/1b1uq/article71608814.ece/alternates/LANDSCAPE_1200/20261006389L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ladakh/ladakh-administration-dissolves-hill-council-in-kargil-announces-panchayat-elections-on-november-21/article71608564.ece",
+    "time": "2026-10-21T18:14:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'It was slip of tongue'",
+    "desc": "At a recent Dussehra event, Ranbir Kapoor caused a stir when he mistakenly referred to 'ant' instead of 'jeet' while explaining the festive theme. The actor, known for his upcoming role as Lord Ram in 'Ramayana', acknowledged the error and mentioned his collaboration with AR Rahman to stress the difficulty in articulating ideas accurately. Social media buzzed with amusing reactions, showcasing the lighter side of the incident.",
+    "img": "https://static.toiimg.com/photo/msid-135098639,imgsize-196278.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-apologises-after-being-brutally-trolled-for-saying-aakhir-mein-ant-sacchai-aur-achchai-ki-hi-hogi-at-ramayana-event-it-was-a-slip-of-tongue-watch-video/articleshow/135098372.cms",
+    "time": "2026-10-21T18:09:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Controversy erupts after ‘protest’ photographs by Priyanka Gandhi’s son allegedly get removed from Bikaner House exhibition",
+    "desc": "“Five hours ago, the Bikaner House Management forced me to remove the bulk of the artworks displayed in my show 'No Idea Is Final”, which opens this evening at 7 p.m.. The photos were of the youth protests in Delhi. Apparently the content is objectionable,” says Raihan Vadra",
+    "img": "https://th-i.thgim.com/public/incoming/efjvhx/article71608833.ece/alternates/LANDSCAPE_1200/PTI10_21_2026_000416B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/controversy-erupts-after-protest-photographs-by-priyanka-gandhis-son-allegedly-get-removed-from-bikaner-house-exhibition/article71608800.ece",
+    "time": "2026-10-21T18:07:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor wasn’t pleased when Jason woke her and Travis at 7:30 am for gym help",
+    "desc": "30 am with an unexpected workout request. The retired NFL star wanted Travis to spot him during a bench press session, leaving the Kansas City Chiefs tight end initially worried something was wrong. Swift’s reaction sparked laughter on their New Heights podcast.",
+    "img": "https://static.toiimg.com/photo/msid-135098537,imgsize-131547.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-wasnt-pleased-when-jason-kelce-woke-her-and-travis-kelce-at-730-am-to-ask-his-brother-to-spot-him-during-a-workout-this-is-f-ed-up/articleshow/135098319.cms",
+    "time": "2026-10-21T18:04:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress pulls up SBI over data breach, seeks accountability; experts call leak 'no ordinary incident'",
+    "desc": "Congress has raised concerns regarding a significant data exposure involving 3,897 customer records from State Bank of India. The bank confirmed the leak following alerts from its cybersecurity providers and has since initiated an investigation. Experts warned that the leaked data may pose risks to national security due to the bank's prominence. Meanwhile, SBI assured that customer balances remain safe and are implementing security measures.",
+    "img": "https://static.toiimg.com/photo/msid-135098110,imgsize-109586.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/congress-pulls-up-sbi-over-data-breach-seeks-accountability-experts-call-leak-no-ordinary-incident/articleshow/135097889.cms",
+    "time": "2026-10-21T17:57:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Remain vigilant’: India urges citizens in France to avoid protest sites ahead of fresh demonstrations",
+    "desc": "The Indian Embassy in France has raised an alert for Indian nationals amid ongoing protests in the nation. Citizens are advised to avoid large gatherings and comply with directives from local officials. With violent outbreaks and curfews emerging in reaction to increasing living expenses, the French government braces for more unrest. Indians living in France should closely follow news updates and keep emergency contacts easily available.",
+    "img": "https://static.toiimg.com/photo/msid-135097832,imgsize-143070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/remain-vigilant-india-urges-citizens-in-france-to-avoid-protest-sites-ahead-of-fresh-demonstrations/articleshow/135097622.cms",
+    "time": "2026-10-21T17:39:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's full schedule for October 22",
+    "desc": "India have won 62 medals so far and will look to add to their tally on Thursday. Para-athletics has contributed 13 of the country's 14 gold medals, with athletes such as Dilip Gavit among those aiming to help India improve their position in the standings.",
+    "img": "https://static.toiimg.com/photo/msid-135096460,imgsize-139729.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-2026-indias-full-schedule-for-october-22-medal-events-and-timings/articleshow/135096460.cms",
+    "time": "2026-10-21T16:46:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Untouchability and the idea of ‘purity’",
+    "desc": "How does Indian law define ‘untouchability’? How has the Supreme Court interpreted ‘purity and pollution’? What did the Rajasthan High Court rule on purification? What facts would determine whether the Haldwani ritual amounted to untouchability?",
+    "img": "https://th-i.thgim.com/public/incoming/n3mif/article71416792.ece/alternates/LANDSCAPE_1200/PTI09_01_2026_000231B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/untouchability-and-the-idea-of-purity/article71415040.ece",
+    "time": "2026-10-21T16:39:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "The broken promise of the right to work",
+    "desc": "The replacement of MGNREGA with the VB-GRAM G Act has weakened the rural right-to-work framework; restoring a meaningful right to work through adequate funding, living wages and stronger local institutions would advance constitutional aims while also supporting rural demand and economic growth",
+    "img": "https://th-i.thgim.com/public/incoming/swndpq/article71412287.ece/alternates/LANDSCAPE_1200/10217_27_2_2023_17_20_15_1_DSC_7195.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/the-broken-promise-of-the-right-to-work/article71410754.ece",
+    "time": "2026-10-21T16:34:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee hits 6-week high, surges 53 paise to 94.38 against dollar on Jio IPO inflows, RBI support",
+    "desc": "The rupee strengthened by 53 paise on Wednesday, closing at 94.38 against the US dollar, bolstered by foreign currency flows from the Jio Platforms IPO and intervention from the Reserve Bank of India. Nonetheless, pressures persisted from falling domestic stocks and increasing crude oil prices. The rapid full subscription of the Jio Platforms IPO within 100 minutes reflects significant investor interest.",
+    "img": "https://static.toiimg.com/photo/msid-135096389,imgsize-146510.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-hits-6-week-high-surges-53-paise-to-94-38-against-dollar-on-jio-ipo-inflows-rbi-support/articleshow/135096229.cms",
+    "time": "2026-10-21T16:32:31.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "CJP’s Saurav Das, Ashutosh Ranka get bail after seven days in jail",
     "desc": "CJP activists released after giving undertaking that they would not call for protests at Jantar Mantar as long as it remains a denotified site; they assured the court that they would not engage in any activity that would breach peace",
     "img": "https://th-i.thgim.com/public/incoming/tvmjfe/article71608661.ece/alternates/LANDSCAPE_1200/2026-10-21T160415Z_1757924968_RC2R7OAQFNNF_RTRMADP_3_INDIA-POLITICS.JPG",
@@ -45,24 +270,6 @@ const newsData_en = [
     "time": "2026-10-21T15:34:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NTRUHS alleges misinformation over seat allocation to reserved category students",
-    "desc": "By the end of three rounds of counselling for MBBS admissions for 2026–27 academic year, 3,543 seats, accounting for 77.34%, of the 4,581 convener quota seats have been allotted to students belonging to the Scheduled Castes, Scheduled Tribes and Backward Classes, says Registrar",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ntruhs-alleges-misinformation-over-seat-allocation-to-reserved-category-students/article71607717.ece",
-    "time": "2026-10-21T15:31:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kuki-Zo groups demand reimposition of President’s Rule in Manipur",
-    "desc": "President’s Rule was last imposed in the State from February 2025 to February 2026; Kuki-Zo groups say 32 members of their community have died in ethnic violence since March, while economic embargoes hurt Kuki-Zo villages",
-    "img": "https://th-i.thgim.com/public/incoming/2h7upu/article71607670.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGD2GMIOLU.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/manipur/manipur-crisis-is-political-not-a-security-issue-says-kuki-zo-womens-forum-seeks-presidents-rule/article71607642.ece",
-    "time": "2026-10-21T15:26:58.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Jio IPO subscription hits 3.16x on Day 1; offer open till October 23",
     "desc": "The Rs 30,213-crore initial public offering (IPO) achieved full subscription in just 100 minutes after opening on Wednesday, setting a record for the fastest subscription of a mega IPO in India. By 5 pm, investors had bid for 62.36 crore shares, with the total value of bids reaching approximately Rs 69,800 crore, exchange data showed.",
@@ -70,24 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/jio-ipo-subscribed-3-16-times-on-day-1-draws-rs-69800-crore-in-bids/articleshow/135095545.cms",
     "time": "2026-10-21T15:18:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "YSRCP crying foul after vitiating the process of local body elections, asserts Chandrababu Naidu",
-    "desc": "The comments of the opposition party leaders on the Supreme Court verdict reflects their litigant mindset, observes the TDP national president and Chief Minister, while exhorting the party MLAs, MPs, candidates and booth-level activists to work for the victory of the alliance candidates",
-    "img": "https://th-i.thgim.com/public/incoming/av7y0t/article71608285.ece/alternates/LANDSCAPE_1200/11TDP-page-1_G7G05GLA9MM.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-crying-foul-after-vitiating-the-process-of-local-body-elections-asserts-chandrababu-naidu/article71607873.ece",
-    "time": "2026-10-21T15:01:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Forest dept. all set to build elephant crossings on Gap Road in Idukki",
-    "desc": "Plan includes building three elephant underpasses, crossing ramps, culverts, and an animal over-bridge along the Munnar–Bodimettu section of NH 85 to safeguard elephant corridors and curb human-wildlife conflict. The NHAI has already sanctioned ₹6.96 crore for the project.",
-    "img": "https://th-i.thgim.com/public/incoming/xrepgm/article71608232.ece/alternates/LANDSCAPE_1200/80759_21_10_2026_17_58_30_1_IMG_9058COPY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/forest-dept-all-set-to-build-elephant-crossings-on-gap-road-in-idukki/article71607910.ece",
-    "time": "2026-10-21T14:47:43.000Z"
   },
   {
     "cat": "Business",
@@ -99,22 +288,13 @@ const newsData_en = [
     "time": "2026-10-21T14:46:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Tamil Nadu CM Vijay pays floral tributes",
-    "desc": "The day is being observed to honour the sacrifice of 10 CRPF personnel who laid down their lives during a surprise attack by Chinese forces in the Ladakh region in 1959, as well as to pay tributes to the police personnel of the State force.",
-    "img": "https://th-i.thgim.com/public/incoming/vu5x5o/article71607169.ece/alternates/LANDSCAPE_1200/DSC_9796.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/police-commemoration-day-tamil-nadu-cm-vijay-pays-floral-tributes/article71607030.ece",
-    "time": "2026-10-21T14:46:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chief Minister Chandrababu Naidu directs steps to prevent rise in prices of essential commodities in Andhra Pradesh",
-    "desc": "He asks officials to monitor the prices of rice, red gram, onions, edible oil and sugar to ensure the burden of rising prices does not fall on consumers, and explore the possibility of making fine-quality rice available at a subsidy at rythu bazaars during festivals",
-    "img": "https://th-i.thgim.com/public/incoming/d5lnms/article71608191.ece/alternates/LANDSCAPE_1200/20261019394L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-chandrababu-naidu-directs-steps-to-prevent-rise-in-prices-of-essential-commodities-in-andhra-pradesh/article71608077.ece",
-    "time": "2026-10-21T14:44:12.000Z"
+    "cat": "Entertainment",
+    "title": "Madhuri Dixit's husband Dr Nene on losing 158 pounds and turning to a vegan diet",
+    "desc": "Dr. Shriram Madhav Nene shared insights into his various dietary experiments during a recent session at Masters’ Union University. He highlighted the challenges from rigorous diets, including significant weight loss and muscle cramps. Nene's experience with veganism involved extensive efforts to meet protein needs while navigating discomfort. A notable encounter with a patient led him to try the Atkins diet, resulting in noticeable weight loss.",
+    "img": "https://static.toiimg.com/photo/msid-135094854,imgsize-263886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madhuri-dixits-husband-dr-sriram-nene-opens-up-on-losing-158-pounds-and-turning-to-a-vegan-diet-after-a-point-i-was-a-gas-bomb/articleshow/135094676.cms",
+    "time": "2026-10-21T14:42:47.000Z"
   },
   {
     "cat": "Sports",
@@ -198,15 +378,6 @@ const newsData_en = [
     "time": "2026-10-21T13:29:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Delhi court orders release of CJP leaders Saurav Das, Ashutosh Ranka",
-    "desc": "A special executive magistrate court in Delhi reserved its order regarding the custody of CJP leaders Saurav Das and Ashutosh Ranka. The police sought an extension of three days for their custody following a protest at Jantar Mantar. During the proceedings, Das and Ranka challenged the custody extension in the Delhi high court. The high court advised them to await the SEM's decision before seeking further legal remedies.",
-    "img": "https://static.toiimg.com/photo/msid-135093954,imgsize-63600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-court-orders-release-of-cjp-leaders-saurav-das-ashutosh-ranka/articleshow/135092955.cms",
-    "time": "2026-10-21T12:52:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Simran, Praveen, Sachin shine as India's medal tally swells to 62",
     "desc": "India's athletics team celebrated a remarkable achievement by winning five gold medals at the Asian Para Games. Sprinter Simran and high-jumper Praveen Kumar set new Games records in their categories. The morning session also saw four silver medals added to the total. Success flowed from other disciplines too, such as badminton, para-archery, and para-swimming. With more competitions ahead, Indian athletes aim for even greater achievements.",
@@ -286,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2014-after-robin-williams-committed-suicide-his-widow-and-three-adult-children-underwent-an-8-month-long-battle-over-his-leftover-estate-worth-usd-45-million-to-usd-50-million/articleshow/135089679.cms",
     "time": "2026-10-21T11:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Monsoon's gone, El Niño isn't: Why India's weather worries are far from over",
-    "desc": "El Niño is increasingly influencing global weather patterns including agriculture and temperatures in India. Current forecasts predict a warmer winter as El Niño intensifies, which could affect agriculture adversely. Recent monsoon rainfall deficits raise concerns regarding water resources and crop yields moving forward. Different regions may experience varying extremes from drought to flooding in the coming months due to this phenomenon.",
-    "img": "https://static.toiimg.com/photo/msid-135090828,imgsize-79298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/monsoons-gone-el-nio-isnt-why-indias-weather-worries-are-far-from-over/articleshow/135090741.cms",
-    "time": "2026-10-21T11:23:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -387,24 +549,6 @@ const newsData_en = [
     "time": "2026-10-21T10:21:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Drishyam 3' BO Day 20 [LIVE]: Eyes Rs 360 crore India net milestone",
-    "desc": "The Conclusion' starring Ajay Devgn, Tabu, and Jaideep Ahlawat continues its blockbuster run on Day 20. With over Rs. 358 crore net amassed in India and Rs. 556 crore gross worldwide, the Abhishek Pathak directorial is poised to target the Rs. 360 crore domestic net mark while consolidating its position as Ajay Devgn’s highest-grossing film to date.",
-    "img": "https://static.toiimg.com/photo/msid-135088916,imgsize-126766.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/drishyam-the-conclusion-box-office-collection-day-20-live-ajay-devgns-thriller-eyes-rs-360-crore-india-net-milestone-as-worldwide-total-approaches-rs-560-crore-on-third-wednesday/articleshow/135088751.cms",
-    "time": "2026-10-21T10:11:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Then, you are not Gen Z?’ Delhi High Court’s light-hearted exchange with CJP leaders; Dipke reacts",
-    "desc": "During a hearing, the Delhi High Court engaged in a light-hearted exchange about Generation Z with Cockroach Janta Party leaders. The court questioned the legal approach taken by the petitioners against the custody extension issued by a Special Executive Magistrate. Concerns were raised about possible violations of prohibitory orders related to protests as well. The petitioners ultimately withdrew their plea after expressing worries about the outcomes of their surety reconsideration.",
-    "img": "https://static.toiimg.com/photo/msid-135088799,imgsize-106270.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/then-you-are-not-gen-z-delhi-high-courts-light-hearted-exchange-with-cjp-leaders-dipke-reacts/articleshow/135088235.cms",
-    "time": "2026-10-21T10:04:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Is India running out of power? Over half of coal plants face critically low fuel stocks",
     "desc": "India's coal-fired power plants are grappling with alarming fuel shortages, with almost half of them maintaining reserves for less than three days. This comes amid soaring electricity demand driven by rising temperatures and dwindling hydropower supplies. In response, the government has ramped up local coal production while pausing coal imports.",
@@ -412,24 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/is-india-running-out-of-power-over-half-of-coal-plants-face-critically-low-fuel-stocks-as-demand-surges/articleshow/135088575.cms",
     "time": "2026-10-21T10:01:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar' marketing head explains why Ranveer didn't promote the film: 'Ranbir had Tu Jhoothi..'",
-    "desc": "Aditya Dhar and Ranveer Singh's film Dhurandhar achieved remarkable box-office success, earning over Rs 1,300 crore globally. The promotional strategy included a unique decision to limit Ranveer's appearances during advertising efforts. Varun Gupta from Max Marketing explained the rationale behind this choice, emphasizing effective long-format promotional content. Despite initial criticisms regarding promotion, confidence remained intact among the director and marketing team.",
-    "img": "https://static.toiimg.com/photo/msid-135088411,imgsize-192903.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-marketing-head-explains-why-ranveer-singh-didnt-promote-the-film-ranbir-kapoor-had-tu-jhoothi-main-makkaar-before-animal-released/articleshow/135088172.cms",
-    "time": "2026-10-21T09:49:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bjorn Surrao dismisses Anirudh-Kavya's Greece wedding reports",
-    "desc": "Rumors surrounding Anirudh Ravichander and Kavya Maran's impending wedding have escalated, with contrasting information regarding the venue. Some sources hint at a dream destination wedding in Greece, while close friend Bjorn Surrao asserts it will happen in Chennai. Scheduled for November 11 and followed by a reception on November 21, notable political figures, including Prime Minister Narendra Modi, are reportedly invited.",
-    "img": "https://static.toiimg.com/photo/msid-135088331,imgsize-187697.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/their-wedding-is-going-to-happen-in-chennai-jailer-2-actor-bjorn-surrao-dismisses-greece-wedding-reports-of-anirudh-ravichander-and-kavya-maran/articleshow/135088282.cms",
-    "time": "2026-10-21T09:46:03.000Z"
   },
   {
     "cat": "Sports",
@@ -457,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/sbi-data-leak-nearly-4000-customer-records-found-on-dark-web-what-we-know-so-far/articleshow/135083923.cms",
     "time": "2026-10-21T09:23:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir Kapoor pairs Rs 95k navy Bandhgala with a stunning emerald brooch",
-    "desc": "Rise of a Legend’ in a navy blue Bandhgala set from Tisa Studio worth Rs 95,000. The ensemble featured gold metallic detailing and straight trousers, paired with an ivory shirt and an emerald-studded eagle brooch from Anmol Jewellers. The actor also won over Telugu-speaking fans by addressing them in their language and spoke about the enduring values of the epic and his co-stars.",
-    "img": "https://static.toiimg.com/photo/msid-135087794,imgsize-103232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-wears-a-navy-blue-bandhgala-worth-rs-95000-for-ramayana-event-in-hyderabad-with-an-emerald-eagle-brooch-stealing-the-spotlight-exclusive/articleshow/135087429.cms",
-    "time": "2026-10-21T09:21:58.000Z"
   },
   {
     "cat": "Business",
@@ -511,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ishan-kishan-on-the-verge-of-three-major-t20-records-as-india-take-on-new-zealand/articleshow/135085872.cms",
     "time": "2026-10-21T07:50:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Get your facts straight’: BJP accuses Rahul Gandhi of hypocrisy over RSS remarks on women’s rights",
-    "desc": "Bharatiya Janata Party officials criticized Congress leader Rahul Gandhi for his recent statements about the RSS. They accused him of hypocrisy regarding women's respect based on his behavior towards women. BJP spokesperson CR Kesavan emphasized Gandhi's failure to address allegations against a Congress MP involved in harassment. Additionally, BJP MLA Ram Kadam challenged Gandhi's understanding of the RSS's women's wing.",
-    "img": "https://static.toiimg.com/photo/msid-135085356,imgsize-1066900.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/get-your-facts-straight-bjp-accuses-rahul-gandhi-of-hypocrisy-over-rss-remarks-on-womens-rights/articleshow/135083177.cms",
-    "time": "2026-10-21T07:20:30.000Z"
   },
   {
     "cat": "Sports",
@@ -595,15 +703,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Can't walk in right now': Iyer says Sooryavanshi has 'years to get opportunities'",
-    "desc": "Shreyas Iyer has suggested that young talent Vaibhav Sooryavanshi might need to be patient regarding his opportunities in the playing XI. With seasoned openers like Abhishek Sharma and Sanju Samson in fine form, Iyer believes that the experience Sooryavanshi gained from prior tours will significantly aid his growth. He stressed the importance of nurturing a comfortable team atmosphere for the player's continued development.",
-    "img": "https://static.toiimg.com/photo/msid-135082345,imgsize-103546.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/he-cant-walk-in-right-now-shreyas-iyer-says-vaibhav-sooryavanshi-has-more-years-to-get-opportunities/articleshow/135082283.cms",
-    "time": "2026-10-21T04:39:57.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Harmanpreet Kaur breaks down on live TV, reveals what has changed",
     "desc": "Harmanpreet Kaur achieved a remarkable performance by scoring 91 runs against Zimbabwe in a recent T20I. Her innings marked a significant comeback after struggling for form in previous matches. She expressed gratitude towards those who supported her during challenging times in her career. After stepping down as captain, she found relief and confidence to enjoy her game once more.",
     "img": "https://static.toiimg.com/photo/msid-135082020,imgsize-228338.cms",
@@ -664,15 +763,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-pretty-close-to-signing-a-different-kind-of-deal-says-donald-trump/articleshow/135079765.cms",
     "time": "2026-10-21T02:20:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Brent crude tops $110 as Middle East tensions threaten shipments",
-    "desc": "Oil prices have risen due to growing concerns over disruptions in Middle East supplies and threats to shipping routes. Recent attacks on vessels and infrastructure have heightened worries among traders and analysts. While Brent crude futures climbed to $110.10, WTI crude also saw an increase following previous declines. US officials are working with refiners to address rising fuel prices and shortages.",
-    "img": "https://static.toiimg.com/photo/msid-135079551,imgsize-39284.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-21-october-2026-brent-crude-tops-110-as-middle-east-tensions-threaten-shipments/articleshow/135079433.cms",
-    "time": "2026-10-21T01:44:06.000Z"
   },
   {
     "cat": "Sports",
@@ -756,15 +846,6 @@ const newsData_en = [
     "time": "2026-10-19T15:41:40.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "FIBA Women’s Basketball League Asia: Railways to become first Indian team at the event",
-    "desc": "Four club champions from China, South Korea (KB Stars), Chinese Taipei (Cathay Life Tigers) and Japan (Denso Iris), along with Indian National champion Indian Railways and wild-card entrant Akari Sports from the Philippines, make up the six-team competition",
-    "img": "https://th-i.thgim.com/public/incoming/1x2d9j/article71602944.ece/alternates/LANDSCAPE_1200/IMG_0805.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/fiba-womens-basketball-league-asia-railways-to-become-first-indian-team-at-the-event/article71602949.ece",
-    "time": "2026-10-19T15:11:41.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Turtle Walker’: Zoya Akhtar-backed documentary pays tribute to Satish Bhaskar’s life and legacy",
     "desc": "The film is a stunning deep dive into the life of turtle conservationist Satish Bhaskar, who walked nearly every inch of India’s coastline to discover the nesting beaches of sea turtles so that they could be protected",
@@ -801,33 +882,6 @@ const newsData_en = [
     "time": "2026-10-18T16:18:38.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Does ‘inflation targeting’ work in India?",
-    "desc": "India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation",
-    "img": "https://th-i.thgim.com/public/news/national/700mky/article71436304.ece/alternates/LANDSCAPE_1200/iStock-2149589805.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/does-inflation-targeting-work-in-india/article71435164.ece",
-    "time": "2026-10-18T16:18:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What lies beyond India’s E20 push",
-    "desc": "The E20 blend’s promised savings were offset by lower mileage, with consumers spending an estimated ₹88,234 cr. extra over the last three years; its benefits for emissions and forex savings are uncertain, as higher fuel consumption can raise emissions while diverting crops to ethanol can affect food security and exports",
-    "img": "https://th-i.thgim.com/public/news/national/8cvikn/article71474011.ece/alternates/LANDSCAPE_1200/iStock-2265290727.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/what-lies-beyond-indias-e20-push/article71472275.ece",
-    "time": "2026-10-18T16:18:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s trade caught in the middle",
-    "desc": "India’s trade surplus with the U.S. is critical as it offsets a structural trade deficit with China, but a heavy U.S. tariff and the potential impact of AI on exports could put this surplus at risk and intensify pressure on the rupee; India should treat the tariff threat as a wake-up call to diversify its export markets and products",
-    "img": "https://th-i.thgim.com/public/news/national/5hnk5o/article71557086.ece/alternates/LANDSCAPE_1200/iStock-1399337469.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/indias-trade-caught-in-the-middle/article71555534.ece",
-    "time": "2026-10-18T16:17:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Jailer 2 Is a Rajini Rave! How Nelson Gets the Superstar Right",
     "desc": "Rajini Rave. From the iconic Rajinikanth grammar of Baashha, Annamalai and Padayappa to Nelson’s irreverent dark humour, elaborate set-ups, ingenious payoffs and colourful gallery of rogues, we examine how the filmmaker turns a star vehicle into a celebration of cinema itself. We look at how Nelson balances comedy with genuine emotional stakes, why consequences drive the story, how he uses cameos to solve narrative problems, and why Rajinikanth’s vulnerability matters as much as his larger-than-life aura.",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/max-richter-india-concert-on-the-nature-of-daylight-arrival-hamnet/article71599591.ece",
     "time": "2026-10-18T10:59:24.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "China considers new export curbs on solar, AI, biotech",
-    "desc": "The draft plan, “Announcement No. 48”, proposes a complete export ban on 14 technologies and restrictions on 26 more, including next-generation solar technologies that could affect countries such as India seeking to reduce dependence on China",
-    "img": "https://th-i.thgim.com/public/news/national/uzyxwz/article71591945.ece/alternates/LANDSCAPE_1200/2026-06-08T083940Z_683439900_RC2GPLAIKHDA_RTRMADP_3_NORTHKOREA-CHINA.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/china-considers-new-export-curbs-on-solar-ai-biotech/article71591880.ece",
-    "time": "2026-10-18T02:57:39.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Indian, German firms to collaborate on immunoglobulin products: Indian Embassy",
-    "desc": "The Indian mission facilitated the exchange of a non-disclosure agreement (NDA) between Germany's Neovii Biotech GmbH and India's VINS Bioproducts Ltd. on the sidelines of the Indo-German Health Leadership Dialogue on October 13, says Embassy of India in Berlin",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/indian-german-firms-to-collaborate-on-immunoglobulin-products-indian-embassy/article71591495.ece",
-    "time": "2026-10-18T00:30:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Scenes from Madras & Trivandrum exhibition in Thiruvananthapuram traces the birth of modernism in south India",
-    "desc": "Curated by Tensing Joseph, the exhibition showcases the emergence of modernism in Keralam and south India through more than 140 works by 30 artists, with paintings from pivotal figures such as KCS Paniker, CL Porinchukutty and Kanayi Kunhiraman, among others",
-    "img": "https://th-i.thgim.com/public/incoming/99bur/article71582386.ece/alternates/LANDSCAPE_1200/IMG_20261008_183806362_HDR.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/art/southern-latitudes-scenes-from-madras-amp-trivandrum-exhibition-in-thiruvananthapuram-modernism-in-south-india/article71578173.ece",
-    "time": "2026-10-17T23:38:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When a man becomes god: The story of Kathivanoor Veeran Theyyam",
-    "desc": "What does it take for a man to become a god? In North Keralam, Theyyam artistes undergo hours of rituals, makeup and transformation to embody deities. Follow Vinu Peruvannan as he becomes Kathivanoor Veeran, a warrior-turned-deity, and discover the folklore, fire and faith behind Keralam’s extraordinary Theyyam tradition.",
-    "img": "https://th-i.thgim.com/public/incoming/bn6lfy/article71587200.ece/alternates/LANDSCAPE_1200/When%20Man%20Becomes%20God_Theyyam.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-when-a-man-becomes-god-the-ritual-of-kathivanoor-veeran-theyyam/article71587218.ece",
-    "time": "2026-10-17T21:15:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Slaves, a new production by The Madras Players, is a translation of writer Sujatha",
-    "desc": "For years, Sujatha has captured the imagination of Tamil audiences through short stories, film scripts, and even theatre plays. On October 24, the Madras Players dramatises one of his earlier works, Adimaigal as Slaves on fortune, love, and loss",
-    "img": "https://th-i.thgim.com/public/incoming/7a6mc/article71582411.ece/alternates/LANDSCAPE_1200/DSC_6421.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/theatre/slaves-a-new-production-by-the-madras-players-is-a-translation-of-writer-sujatha/article71582426.ece",
-    "time": "2026-10-17T19:48:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Roundglass Sustain’s short film A Spring Against All Odds to be showcased at international film festival",
-    "desc": "The film, one of 48 films selected for Film SouthAsia (FSA), an international documentary film festival to be held in Kathmandu from November 27–29, 2026, is based on a script by Radhika Raj and has been directed by Samreen Farooqui",
-    "img": "https://th-i.thgim.com/public/life-and-style/98l9v3/article71562564.ece/alternates/LANDSCAPE_1200/Film%201.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/roundglass-sustains-short-film-a-spring-against-all-odds-to-be-showcased-at-international-film-festival/article71562550.ece",
-    "time": "2026-10-17T19:40:40.000Z"
   }
 ];
