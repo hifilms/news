@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Suvarna Raj brings home gold for India at the Para Asian Games 2026 in women's discus throw",
+    "desc": "In a major development, India’s Suvarna Raj won the gold medal for the country at the 2026 Para Asian Games. She brought home the gold in the women’s discus throw F54 event. She registered a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/suvarna-raj-brings-home-gold-for-india-at-the-para-asian-games-2026-in-women-s-discus-throw-2026-10-22-1057578",
+    "time": "2026-10-22T02:45:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs New Zealand, 1st T20I Pitch Report, how will surface in Christchurch play?",
+    "desc": "The stage is set for the beginning of the multi-format series between India and New Zealand. The two sides are slated to meet for the first T20I of the series at the Hagley Oval, Christchurch,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-1st-t20i-pitch-report-how-will-surface-in-christchurch-play-2026-10-22-1057574",
+    "time": "2026-10-22T01:48:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "South Africa become first team to achieve major feat against Australia in WTC history",
     "desc": "South Africa pacers produced a stunning show on Day 4 of the second Test against Australia, which left the visitors bundled out for only 99 runs. The Proteas had a rough start with the bat...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mitchell-santner-names-one-indian-bowler-new-zealand-batters-should-be-careful-of-in-upcoming-t20i-series-2026-10-21-1057502",
     "time": "2026-10-21T05:18:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur breaks down after emphatic 91-run knock as India seal series 3-0 vs Zimbabwe",
-    "desc": "Former India captain Harmanpreet Kaur struck an unbeaten 91 off 41 deliveries in the third and final T20I against Zimbabwe in Raipur. It helped India post 216 runs on the board in the first innings...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-breaks-down-after-emphatic-91-run-knock-as-india-seal-series-3-0-vs-zimbabwe-2026-10-21-1057500",
-    "time": "2026-10-21T04:55:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pranav Soorma breaks Asian record to win gold in discus throw at Para Asian Games",
-    "desc": "India added more medals at the Para Asian Games in Aichi-Nagoya on Tuesday, with Pranav Soorma and Ram Ratan Singh securing the top two positions in the men’s discus throw F51/F52/F53 event. Soorma won gold...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pranav-soorma-breaks-asian-record-to-win-gold-in-discuss-throw-at-para-asian-games-2026-10-20-1057455",
-    "time": "2026-10-20T12:14:40.000Z"
   }
 ];
