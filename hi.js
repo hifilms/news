@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abhishek Sharma breaks Rohit Sharma's world record in first T20I against New Zealand in Christchurch",
+    "desc": "India beat New Zealand by four wickets in the first of the five-match T20I series against New Zealand. They were asked to chase 226 runs in the middle, which needed a strong start from openers...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-rohit-sharma-s-world-record-in-first-t20i-against-new-zealand-in-christchurch-2026-10-22-1057663",
+    "time": "2026-10-22T13:23:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shailesh Kumar sets Asian Para Games record as India sweep men's high jump T63 medals",
+    "desc": "India secured all three medals in the men’s high jump T63 final at the Asian Para Games 2026 on Thursday, October 22, with Shailesh Kumar leading the podium sweep alongside Varun Bhati and Rahul Saroha...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/shailesh-kumar-sets-asian-para-games-record-as-india-sweep-men-s-high-jump-t63-medals-2026-10-22-1057657",
+    "time": "2026-10-22T12:53:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harry Brook smashes fastest double century in ODI cricket history, breaks Shubman Gill's record",
+    "desc": "Harry Brook stole the show against Sri Lanka in the ODI tri-series at the Rawalpindi Cricket Stadium. The England captain went berserk, scoring a 114-ball double century, breaking Shubman Gill’s record in the process for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-smashes-fastest-double-century-in-odi-cricket-history-breaks-shubman-gill-s-record-2026-10-22-1057653",
+    "time": "2026-10-22T11:59:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma breaks Shafiqullah Shinwari's world record in first T20I against New Zealand in Christchurch",
+    "desc": "Abhishek Sharma broke Shafiqullah Shinwari’s world record as India register their highest successful chase in T20I cricket history. The feat was achieved in the first over of the chase itself when Abhishek launched a cracking...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-shafiqullah-shinwari-s-world-record-in-first-t20i-against-new-zealand-in-christchurch-2026-10-22-1057650",
+    "time": "2026-10-22T11:43:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India register their highest successful run chase in T20I history, beat New Zealand by four wickets",
+    "desc": "India have defeated New Zealand by four wickets in the opening of the five-match T20I series at the Hagley Oval in Christchurch. The Shreyas Iyer-led side hosted West Indies just five days ago in Bengaluru...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-register-their-highest-successful-run-chase-in-t20i-history-beat-new-zealand-by-four-wickets-2026-10-22-1057641",
+    "time": "2026-10-22T11:09:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'There is no end': Dinesh Karthik shares words of wisdom for Vaibhav Sooryavanshi amid limited playing time",
     "desc": "Team India took on New Zealand in the first of five T20I of the ongoing series. The two sides met at the Hagley Oval in Christchurch for the game, and the game saw India win...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-in-india-s-1st-t20i-vs-new-zealand-in-christchurch-2026-10-22-1057607",
     "time": "2026-10-22T06:45:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Bhuvneshwar Kumar help India against New Zealand in upcoming series? Former cricketer opines",
-    "desc": "India and New Zealand are all set to take on each other in a multi-format series. The two sides will take on each other across five T20Is to kick off the T20I of the series,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/can-bhuvneshwar-kumar-help-india-against-new-zealand-in-upcoming-series-former-cricketer-opines-2026-10-22-1057604",
-    "time": "2026-10-22T06:20:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Twist in the tale? Shreyas Iyer departs for 42 as India chase 226",
-    "desc": "After a 2-2 draw against West Indies at home, India have travelled to New Zealand for a five-match T20I series, starting October 22 in Christchurch. The players barely had time to get adjusted to the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-1st-t20i-live-score-india-vs-new-zealand-latest-match-updates-scorecards-playing-xis-reactions-1057602",
-    "time": "2026-10-22T06:15:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Andrew McDonald disappointed with Australia's batting performance, says 'can't defend that'",
-    "desc": "Australia head coach Andrew McDonald has acknowledged his side’s batting failures after a dramatic collapse against South Africa in the second Test in Gqeberha. The visitors defeated the Proteas by 214 runs in the first...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/andrew-mcdonald-disappointed-with-australia-s-batting-performance-says-can-t-defend-that-2026-10-22-1057598",
-    "time": "2026-10-22T05:44:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch India vs New Zealand, 1st T20I live on TV and stream online in India?",
-    "desc": "The stage is set for the upcoming multi-format series between India and New Zealand. The two sides will be taking on each other across five T20Is, five ODis, and two Test matches. The series will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-new-zealand-1st-t20i-live-on-tv-and-stream-online-in-india-2026-10-22-1057592",
-    "time": "2026-10-22T05:04:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bruno Fernandes calls out Michael Carrick's tactics after Manchester United's embarassing 4-1 loss to Como",
-    "desc": "Manchester United’s horrible form just refuses to stop as the three-time Champions League winners lost their group stage clash against Italy’s Como. The two sides took on each other on October 22nd, and while many...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/bruno-fernandes-calls-out-michael-carrick-s-tactics-after-manchester-united-s-embarassing-4-1-loss-to-como-2026-10-22-1057585",
-    "time": "2026-10-22T04:09:36.000Z"
   }
 ];
