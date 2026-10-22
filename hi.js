@@ -1,92 +1,92 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Suvarna Raj brings home gold for India at the Para Asian Games 2026 in women's discus throw",
-    "desc": "In a major development, India’s Suvarna Raj won the gold medal for the country at the 2026 Para Asian Games. She brought home the gold in the women’s discus throw F54 event. She registered a...",
+    "title": "'There is no end': Dinesh Karthik shares words of wisdom for Vaibhav Sooryavanshi amid limited playing time",
+    "desc": "Team India took on New Zealand in the first of five T20I of the ongoing series. The two sides met at the Hagley Oval in Christchurch for the game, and the game saw India win...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/suvarna-raj-brings-home-gold-for-india-at-the-para-asian-games-2026-in-women-s-discus-throw-2026-10-22-1057578",
-    "time": "2026-10-22T02:45:31.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/there-is-no-end-dinesh-karthik-shares-words-of-wisdom-for-vaibhav-sooryavanshi-amid-limited-playing-time-2026-10-22-1057624",
+    "time": "2026-10-22T08:59:39.000Z"
   },
   {
     "cat": "Sports",
-    "title": "India vs New Zealand, 1st T20I Pitch Report, how will surface in Christchurch play?",
-    "desc": "The stage is set for the beginning of the multi-format series between India and New Zealand. The two sides are slated to meet for the first T20I of the series at the Hagley Oval, Christchurch,...",
+    "title": "Cricket Australia issues a two-game suspension to Megan Schutt; Check details",
+    "desc": "In a major development, CA (Cricket Australia) has come forward and issued a two-game suspension to star seamer Megan Schutt. It is worth noting that Schutt has been suspended for not adhering to the strict...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-1st-t20i-pitch-report-how-will-surface-in-christchurch-play-2026-10-22-1057574",
-    "time": "2026-10-22T01:48:20.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/cricket-australia-issues-a-two-game-suspension-to-megan-schutt-check-details-2026-10-22-1057619",
+    "time": "2026-10-22T08:16:46.000Z"
   },
   {
     "cat": "Sports",
-    "title": "South Africa become first team to achieve major feat against Australia in WTC history",
-    "desc": "South Africa pacers produced a stunning show on Day 4 of the second Test against Australia, which left the visitors bundled out for only 99 runs. The Proteas had a rough start with the bat...",
+    "title": "Sheetal Devi wins gold again, beats Singapore's Nur Alim Syahidah in women's archery at Para Asian Games",
+    "desc": "Indian para-archer Sheetal Devi added another gold medal to her growing collection at the Para Asian Games 2026. She defeated Singapore’s Nur Alim Syahidah 142-139 in the women’s compound final on Thursday as her victory strengthened...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-become-first-team-to-achieve-major-feat-against-australia-in-wtc-history-2026-10-21-1057553",
-    "time": "2026-10-21T12:19:17.000Z"
+    "url": "https://www.indiatvnews.com/sports/other/sheetal-devi-wins-gold-again-beats-singapore-s-nur-alim-syahidah-in-women-s-archery-at-para-asian-games-2026-10-22-1057616",
+    "time": "2026-10-22T07:43:51.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Temba Bavuma credits Sachin Tendulkar after career-best score in second Test against Australia",
-    "desc": "Temba Bavuma credited Sachin Tendulkar as an influence on his batting technique after producing a career-best 179 to rescue South Africa from a precarious position in the second Test against Australia at St George's Park....",
+    "title": "Why is Vaibhav Sooryavanshi not playing for India in first T20I against New Zealand in Christchurch?",
+    "desc": "Vaibhav Sooryavanshi failed to break into the playing XI in the first T20I against New Zealand at Hagley Oval in Christchurch. Captain Shreyas Iyer had confirmed the development on the matchday eve itself, stating that...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/temba-bavuma-credits-sachin-tendulkar-after-career-best-score-in-second-test-against-australia-2026-10-21-1057550",
-    "time": "2026-10-21T11:52:07.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-vaibhav-sooryavanshi-not-playing-for-india-in-first-t20i-against-new-zealand-in-christchurch-2026-10-22-1057609",
+    "time": "2026-10-22T06:52:29.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Marco Jansen stuns Australia, leaves them 69/6 at lunch on Day 4 as South Africa smell comeback",
-    "desc": "Marco Jansen ripped through Australia’s batting order with four wickets for 16 runs in his seven overs until Lunch on Day 4. His exceptional spell left the visitors struggling at 69 for six as South...",
+    "title": "Why is Hardik Pandya not playing in India's 1st T20I vs New Zealand in Christchurch?",
+    "desc": "Team India kicks off their multi-format series against New Zealand. The two sides take on each other in the first of five T20Is at the Hagley Oval in Christchurch on October 22nd. Both sides would...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/marco-jansen-stuns-australia-leaves-them-69-6-at-lunch-on-day-4-as-south-africa-smell-comeback-2026-10-21-1057542",
-    "time": "2026-10-21T10:51:32.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-in-india-s-1st-t20i-vs-new-zealand-in-christchurch-2026-10-22-1057607",
+    "time": "2026-10-22T06:45:03.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Ayush Verma, Praveen Kumar, Sachin Khilari add three more golds to India's para Asian Games campaign",
-    "desc": "India added 10 medals, including three gold, to their para-athletics haul on Wednesday at the Asian Para Games, with Ayush Verma, Praveen Kumar and Sachin Khilari winning their respective events. With that, India’s overall para-athletics...",
+    "title": "Can Bhuvneshwar Kumar help India against New Zealand in upcoming series? Former cricketer opines",
+    "desc": "India and New Zealand are all set to take on each other in a multi-format series. The two sides will take on each other across five T20Is to kick off the T20I of the series,...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/ayush-verma-praveen-kumar-sachin-khilari-add-three-more-golds-to-india-s-para-asian-games-campaign-2026-10-21-1057535",
-    "time": "2026-10-21T09:41:16.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/can-bhuvneshwar-kumar-help-india-against-new-zealand-in-upcoming-series-former-cricketer-opines-2026-10-22-1057604",
+    "time": "2026-10-22T06:20:15.000Z"
   },
   {
     "cat": "Sports",
-    "title": "India, Pakistan drafted into separate groups in ICC Women's U19 T20 World Cup, check schedule",
-    "desc": "The International Cricket Council has unveiled the schedule for the upcoming U19 Women’s T20 World Cup, starting January 21. The final will be hosted on February 6. Meanwhile, India will begin their campaign against West...",
+    "title": "Twist in the tale? Shreyas Iyer departs for 42 as India chase 226",
+    "desc": "After a 2-2 draw against West Indies at home, India have travelled to New Zealand for a five-match T20I series, starting October 22 in Christchurch. The players barely had time to get adjusted to the...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-pakistan-drafted-into-separate-groups-in-icc-women-s-u19-t20-world-cup-check-schedule-2026-10-21-1057523",
-    "time": "2026-10-21T08:23:09.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-1st-t20i-live-score-india-vs-new-zealand-latest-match-updates-scorecards-playing-xis-reactions-1057602",
+    "time": "2026-10-22T06:15:30.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Luis Enrique's system-first PSG dynasty defining future of modern football",
-    "desc": "There was a time when a mid-match hamstring pull to Ousmane Dembele, coupled with Khvicha Kvaratskhelia operating at less than 100%, would have triggered panic inside the Parc des Princes. Paris Saint-Germain had a fragile...",
+    "title": "Andrew McDonald disappointed with Australia's batting performance, says 'can't defend that'",
+    "desc": "Australia head coach Andrew McDonald has acknowledged his side’s batting failures after a dramatic collapse against South Africa in the second Test in Gqeberha. The visitors defeated the Proteas by 214 runs in the first...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/luis-enrique-s-system-first-psg-dynasty-defining-future-of-modern-football-2026-10-21-1057517",
-    "time": "2026-10-21T07:48:18.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/andrew-mcdonald-disappointed-with-australia-s-batting-performance-says-can-t-defend-that-2026-10-22-1057598",
+    "time": "2026-10-22T05:44:26.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Door shut for Vaibhav Sooryavanshi? Shreyas Iyer backs Abhishek Sharma, Sanju Samson to open in New Zealand",
-    "desc": "India captain Shreyas Iyer has urged Vaibhav Sooryavanshi to remain patient as the 15-year-old continues to compete for a place in the playing XI. Currently, both Abhishek Sharma and Sanju Samson have proved their mettle...",
+    "title": "Where to watch India vs New Zealand, 1st T20I live on TV and stream online in India?",
+    "desc": "The stage is set for the upcoming multi-format series between India and New Zealand. The two sides will be taking on each other across five T20Is, five ODis, and two Test matches. The series will...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/door-shut-for-vaibhav-sooryavanshi-shreyas-iyer-backs-abhishek-sharma-sanju-samson-to-open-in-new-zealand-2026-10-21-1057507",
-    "time": "2026-10-21T06:02:57.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-new-zealand-1st-t20i-live-on-tv-and-stream-online-in-india-2026-10-22-1057592",
+    "time": "2026-10-22T05:04:09.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Mitchell Santner names one Indian bowler New Zealand batters should be careful of in upcoming T20I series",
-    "desc": "After a four-year wait, Bhuvneshwar Kumar is back again in the T20I scheme of things. He returned to action in the fifth T20I against West Indies in Bengaluru, but since the match got called off...",
+    "title": "Bruno Fernandes calls out Michael Carrick's tactics after Manchester United's embarassing 4-1 loss to Como",
+    "desc": "Manchester United’s horrible form just refuses to stop as the three-time Champions League winners lost their group stage clash against Italy’s Como. The two sides took on each other on October 22nd, and while many...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-santner-names-one-indian-bowler-new-zealand-batters-should-be-careful-of-in-upcoming-t20i-series-2026-10-21-1057502",
-    "time": "2026-10-21T05:18:24.000Z"
+    "url": "https://www.indiatvnews.com/sports/football/bruno-fernandes-calls-out-michael-carrick-s-tactics-after-manchester-united-s-embarassing-4-1-loss-to-como-2026-10-22-1057585",
+    "time": "2026-10-22T04:09:36.000Z"
   }
 ];
