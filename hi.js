@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Who is Jintimani Kalita? 22-year-old Assam cricketer makes India debut vs Zimbabwe",
+    "desc": "India have handed a debut cap to youngster Jintimani Kalita in the first ODI against Zimbabwe in Vadodara. Former captain Harmanpreet Kaur handed the cap to the 22-year-old right-arm medium-fast bowler, who hails from Assam. Now,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-jintimani-kalita-22-year-old-assam-cricketer-makes-india-debut-vs-zimbabwe-2026-10-23-1057734",
+    "time": "2026-10-23T10:31:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He is too young': Sitanshu Kotak opens up on chatter around Vaibhav Sooryavanshi ahead of second NZ T20I",
+    "desc": "The stage is set for the second T20I of the ongoing multi-format series between India and New Zealand. The two sides are slated to take on each other at the Hagley Oval in Christchurch on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/he-is-too-young-sitanshu-kotak-opens-up-on-chatter-around-vaibhav-sooryavanshi-ahead-of-second-nz-t20i-2026-10-23-1057726",
+    "time": "2026-10-23T09:31:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former Chelsea star blames Bruno Fernandes for Manchester United's poor run of form",
+    "desc": "Manchester United continue to produce subpar results after their winless run in the Premier League; the side has been unable to produce results in the ongoing UEFA Champions League as well. The three-time Champions League...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/former-chelsea-star-blames-bruno-fernandes-for-manchester-united-s-poor-run-of-form-2026-10-23-1057716",
+    "time": "2026-10-23T07:52:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Robert Lewandowski names his Ballon d'Or favourite ahead of marquee event",
+    "desc": "The Ballon d’Or 2026 is right around the corner; the marquee event is all set to be held in Paris, and the best men’s and women’s footballers of the last season are all set to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/robert-lewandowski-names-his-ballon-d-or-favourite-ahead-of-marquee-event-2026-10-23-1057712",
+    "time": "2026-10-23T06:42:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan ruled out of upcoming second T20I against New Zealand due to injury; Check details",
+    "desc": "In a major blow to the Indian team, star India batter Ishan Kishan has been ruled out of the upcoming second T20I of the ongoing series against New Zealand. It is worth noting that Kishan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-ruled-out-of-upcoming-second-t20i-against-new-zealand-due-to-injury-check-details-2026-10-23-1057705",
+    "time": "2026-10-23T05:21:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sandeep Singh, Haney clinch gold medals at Para Asian Games 2026 with stunning world record efforts",
+    "desc": "The Indian contingent has been exceptional at the Para Asian Games 2026. Consistently bringing home gold medals, India’s Sandeep Singh Mann broke the world record while competing in the men’s 400m final. Competing at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/sandeep-singh-haney-clinch-gold-medals-at-para-asian-games-2026-with-stunning-world-record-efforts-2026-10-23-1057703",
+    "time": "2026-10-23T05:06:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nitesh Kumar and Naveen Sivakumar clinch gold in men's singles badminton at Para Asian Games 2026",
+    "desc": "In a major development, the Indian contingent continues to perform at the Para Asian Games 2026. Nitesh Kumar and Naveen Sivakumar clinched the gold medal for India in the men’s singles badminton final in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/nitesh-kumar-and-naveen-sivakumar-clinch-gold-in-men-s-singles-badminton-at-para-asian-games-2026-2026-10-23-1057695",
+    "time": "2026-10-23T03:19:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shreyas Iyer opens up after India pull off mammoth run chase against New Zealand in Christchurch",
     "desc": "The Indian team got off to a brilliant start to the ongoing multi-format series against New Zealand. Taking on the Black Caps in the first T20I of the series, the two sides met at the...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-rohit-sharma-s-world-record-in-first-t20i-against-new-zealand-in-christchurch-2026-10-22-1057663",
     "time": "2026-10-22T13:23:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shailesh Kumar sets Asian Para Games record as India sweep men's high jump T63 medals",
-    "desc": "India secured all three medals in the men’s high jump T63 final at the Asian Para Games 2026 on Thursday, October 22, with Shailesh Kumar leading the podium sweep alongside Varun Bhati and Rahul Saroha...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/shailesh-kumar-sets-asian-para-games-record-as-india-sweep-men-s-high-jump-t63-medals-2026-10-22-1057657",
-    "time": "2026-10-22T12:53:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Brook smashes fastest double century in ODI cricket history, breaks Shubman Gill's record",
-    "desc": "Harry Brook stole the show against Sri Lanka in the ODI tri-series at the Rawalpindi Cricket Stadium. The England captain went berserk, scoring a 114-ball double century, breaking Shubman Gill’s record in the process for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-smashes-fastest-double-century-in-odi-cricket-history-breaks-shubman-gill-s-record-2026-10-22-1057653",
-    "time": "2026-10-22T11:59:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma breaks Shafiqullah Shinwari's world record in first T20I against New Zealand in Christchurch",
-    "desc": "Abhishek Sharma broke Shafiqullah Shinwari’s world record as India register their highest successful chase in T20I cricket history. The feat was achieved in the first over of the chase itself when Abhishek launched a cracking...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-shafiqullah-shinwari-s-world-record-in-first-t20i-against-new-zealand-in-christchurch-2026-10-22-1057650",
-    "time": "2026-10-22T11:43:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India register their highest successful run chase in T20I history, beat New Zealand by four wickets",
-    "desc": "India have defeated New Zealand by four wickets in the opening of the five-match T20I series at the Hagley Oval in Christchurch. The Shreyas Iyer-led side hosted West Indies just five days ago in Bengaluru...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-register-their-highest-successful-run-chase-in-t20i-history-beat-new-zealand-by-four-wickets-2026-10-22-1057641",
-    "time": "2026-10-22T11:09:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'There is no end': Dinesh Karthik shares words of wisdom for Vaibhav Sooryavanshi amid limited playing time",
-    "desc": "Team India took on New Zealand in the first of five T20I of the ongoing series. The two sides met at the Hagley Oval in Christchurch for the game, and the game saw India win...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/there-is-no-end-dinesh-karthik-shares-words-of-wisdom-for-vaibhav-sooryavanshi-amid-limited-playing-time-2026-10-22-1057624",
-    "time": "2026-10-22T08:59:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cricket Australia issues a two-game suspension to Megan Schutt; Check details",
-    "desc": "In a major development, CA (Cricket Australia) has come forward and issued a two-game suspension to star seamer Megan Schutt. It is worth noting that Schutt has been suspended for not adhering to the strict...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cricket-australia-issues-a-two-game-suspension-to-megan-schutt-check-details-2026-10-22-1057619",
-    "time": "2026-10-22T08:16:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sheetal Devi wins gold again, beats Singapore's Nur Alim Syahidah in women's archery at Para Asian Games",
-    "desc": "Indian para-archer Sheetal Devi added another gold medal to her growing collection at the Para Asian Games 2026. She defeated Singapore’s Nur Alim Syahidah 142-139 in the women’s compound final on Thursday as her victory strengthened...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/sheetal-devi-wins-gold-again-beats-singapore-s-nur-alim-syahidah-in-women-s-archery-at-para-asian-games-2026-10-22-1057616",
-    "time": "2026-10-22T07:43:51.000Z"
   }
 ];
