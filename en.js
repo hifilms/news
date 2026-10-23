@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Australia face selection headaches after 'shambolic' South Africa defeat",
+    "desc": "Australia collapsed to 99 all out in their first innings and were then dismissed for 295, with a superb 121 from Travis Head and defiant 40 off 166 balls by nightwatchman Scott Boland the only highlights",
+    "img": "https://th-i.thgim.com/public/incoming/1ssl2m/article71617953.ece/alternates/LANDSCAPE_1200/South_Africa_Australia_Cricket_11621.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/australia-face-selection-headaches-after-shambolic-south-africa-defeat/article71617952.ece",
+    "time": "2026-10-23T22:01:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Asian football endorses Infantino re-election in apparent U-turn",
+    "desc": "The 56-year-old Swiss was present at a Tokyo meeting of the Asian Football Confederation (AFC) when president Sheikh Salman bin Ebrahim al-Khalifa gave his unequivocal backing, in a significant boost to Infantino’s prospects of extending his reign",
+    "img": "https://th-i.thgim.com/public/incoming/rqzn65/article71617951.ece/alternates/LANDSCAPE_1200/2026-10-23T214632Z_953935094_RC2Z6MAXLC31_RTRMADP_3_MOROCCO-ECONOMY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/asian-football-endorses-infantino-re-election-in-apparent-u-turn/article71617950.ece",
+    "time": "2026-10-23T21:55:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India wins historic first mixed doubles medal at Asian TT in 72 years",
+    "desc": "After taking the opening game 11-6, the Indians lost the next two, leaving themselves under enormous pressure. However, the duo responded impressively, winning the fourth game 11-9 before holding their nerve to clinch the decider by the same margin",
+    "img": "https://th-i.thgim.com/public/incoming/ee6a6e/article71617949.ece/alternates/LANDSCAPE_1200/2026-09-26T015002Z_1753039931_UP1EM9Q053CPB_RTRMADP_3_GAMES-ASIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/india-wins-historic-first-mixed-doubles-medal-at-asian-tt-in-72-years/article71617948.ece",
+    "time": "2026-10-23T21:49:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ake Loba's brace hand East Bengal easy 5-1 win over Inter Kashi in ISL",
+    "desc": "The defending champions made a dominant start, with in-form Ramírez scoring in the eighth minute. After receiving the ball on the right side of the penalty area, Ramírez lifted it over Albino Gomes to put East Bengal ahead",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/ake-lobas-brace-hand-east-bengal-easy-5-1-win-over-inter-kashi-in-isl/article71617805.ece",
+    "time": "2026-10-23T21:34:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI guv on Tatas; dispels doubts on Sept order",
+    "desc": "RBI governor Sanjay Malhotra’s comments also suggest Tata Sons is in breach of RBI rules. The consequences of continued noncompliance remain unclear. The governor declined to be drawn into the question of Noel Tata’s proposal to merge two Tata Sons subsidiaries with the holding company, a move that could help it sidestep a stock market listing.",
+    "img": "https://static.toiimg.com/photo/msid-135155646,imgsize-54234.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/upper-layer-nbfcs-have-to-list-rbi-governor-on-tatas-dispels-doubts-on-sept-order/articleshow/135155571.cms",
+    "time": "2026-10-23T21:27:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Piyush Goyal",
+    "desc": "Talking to reporters during his visit to Germany and The Netherlands with a delegation of Indian businesses and startups to explore opportunities in trade, investment and industrial cooperation, Goyal said German companies had publicly announced investments worth $7.4 billion in India with some of these already materialising. He said India could also emerge as an important export base for automobiles.",
+    "img": "https://static.toiimg.com/photo/msid-135155641,imgsize-39464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/german-companies-looking-for-business-opportunities-piyush-goyal/articleshow/135155573.cms",
+    "time": "2026-10-23T21:20:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Two critical PHP flaws trigger global alert; millions of services face cyber risk",
+    "desc": "PHP advised users on Oct 23 to temporarily disable its session upload progress feature until the next regular bugfix release. The warning followed an earlier advisory on Oct 21 about a related vulnerability. The latest issue affects applications only when specific session settings are changed while running and the upload progress feature remains enabled. Users who have already disabled the feature do not need to take further action.",
+    "img": "https://static.toiimg.com/photo/msid-135155638,imgsize-51790.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/two-critical-php-flaws-trigger-global-alert-millions-of-services-face-cyber-risk/articleshow/135155574.cms",
+    "time": "2026-10-23T21:15:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Igor Thiago’s journey from garbage collector, bricklayer to Brazil’s 2026 World Cup squad",
+    "desc": "Brazilian striker Igor Thiago’s journey from poverty in Brazil to Premier League stardom has been shaped by family sacrifice, personal loss and resilience. After a record-breaking season with Brentford earned him his first Brazil call-up, a difficult World Cup left him facing renewed scrutiny. Now, the 25-year-old is drawing strength from his wife and children as he looks to rebuild his form.",
+    "img": "https://static.toiimg.com/photo/msid-135155614,imgsize-100150.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/brazils-igor-thiago-lost-his-father-at-13-worked-as-a-garbage-collector-and-bricklayer-and-vowed-to-lift-his-family-out-of-poverty-before-earning-his-first-world-cup-call-up-in-2026/articleshow/135151112.cms",
+    "time": "2026-10-23T21:07:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Infosys ADRs tumble 6% as growth guidance cut to 1-2%",
+    "desc": "Infosys CEO Salil Parekh said the weakness was driven by specific client situations rather than a broad-based slowdown across industries. “We have seen different client-specific situations in both retail and high-tech. This is not happening across all industries. We continue to see strong growth and discretionary spending in financial services, energy and utilities, and manufacturing,” he said.",
+    "img": "https://static.toiimg.com/photo/msid-135155626,imgsize-38164.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/infosys-adrs-tumble-6-as-growth-guidance-cut-to-1-2/articleshow/135155576.cms",
+    "time": "2026-10-23T21:07:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Driven by travel, outward transfers jump 6% to $2.7 billion",
+    "desc": "Business travel surged 365.4% to $51 million from $11 million, while other travel, including leisure trips and international credit card settlements, fell 7.4% to $713.8 million. Spending on pilgrimage travel declined 46% to $5.5 million and remittances for travel-related medical treatment fell 17.7% to $4.5 million. Investments in foreign equity and debt instruments fell 6.7% from July to $321.5 million but were 111.3% higher than in Aug 2025.",
+    "img": "https://static.toiimg.com/photo/msid-135155621,imgsize-80426.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/driven-by-travel-outward-transfers-jump-6-to-2-7-billion/articleshow/135155566.cms",
+    "time": "2026-10-23T21:05:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "MS executive Nicholas Butts",
+    "desc": "Butts cited Storm 3168, also called Jadepuffer, which he described as a China-based ransomware operation using AI agents against customers worldwide. He also pointed to Russian and Chinese state-sponsored actors deploying agents for espionage, including a group Microsoft tracks as Storm 0940. AI was also lowering the barriers for smaller criminal operations, he said.",
+    "img": "https://static.toiimg.com/photo/msid-135155617,imgsize-144230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-seventh-most-targeted-by-cyberattacks-ms-executive-nicholas-butts/articleshow/135155567.cms",
+    "time": "2026-10-23T21:02:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "At $43 billion, RBI’s net dollar purchase hits new high",
+    "desc": "India’s foreign exchange reserves fell by $5.01 billion to $721.02 billion in the week ended Oct 16, down $64.7 billion from their all-time high of $785.71 billion in the week ended Sept 4, as pressure on the rupee continued. Foreign currency assets, the largest component of reserves, declined by $5.76 billion during the latest week. The fall was partly offset by a $706 million increase in the value of gold reserves.",
+    "img": "https://static.toiimg.com/photo/msid-135155608,imgsize-338414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/at-43-billion-rbis-net-dollar-purchase-hits-new-high/articleshow/135155568.cms",
+    "time": "2026-10-23T20:58:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Amid volatile trades, sensex falls for 4th day",
+    "desc": "The day’s slide came despite Rs 888-crore net buying by foreign funds and another Rs 3,235-crore net buying by domestic institutions, BSE data showed. Early on Friday, Brent crude had hit a nearly six-month high at $114 per barrel. As a result, the rupee also weakened and inched closer to the 95-to-a-dollar mark again and closed at 94.93.",
+    "img": "https://static.toiimg.com/photo/msid-135155594,imgsize-139930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/amid-volatile-trades-sensex-falls-for-4th-day/articleshow/135155569.cms",
+    "time": "2026-10-23T20:54:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Jio IPO collects Rs 7.5 lakh crore; nearly 1.3 crore investors make bids",
+    "desc": "In the unofficial market, speculators are betting that the company will be listing at about Rs 1,370, a mark-up (also called the grey market premium or GMP) of about Rs 250 over the upper limit of the IPO price band of Rs 1,065 to Rs 1,119. The current GMP is slightly off Rs 273, the highest level seen a day before the IPO opened.",
+    "img": "https://static.toiimg.com/photo/msid-135155591,imgsize-125924.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/record-haul-jio-ipo-collects-rs-7-5-lakh-crore-nearly-1-3-crore-investors-make-bids/articleshow/135155570.cms",
+    "time": "2026-10-23T20:52:52.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Anirudh-Kavya’s wedding reception: Sonia Gandhi, Nirmala Sitharaman invited",
     "desc": "Music composer Anirudh Ravichander and Sunrisers Hyderabad co-owner Kavya Maran are set to tie the knot, with their families inviting prominent political leaders to the Chennai wedding reception on November 21. Kavya’s parents, Kalanithi and Kavery Maran, have extended invitations to Sonia Gandhi and Nirmala Sitharaman, following invitations to Narendra Modi, Revanth Reddy, C Joseph Vijay and MK Stalin.",
@@ -7,6 +133,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anirudh-ravichander-and-kavya-marans-wedding-brides-parents-invite-sonia-gandhi-nirmala-sitharaman-to-chennai-reception-after-narendra-modi-revanth-reddy-c-joseph-vijay-and-mk-stalin/articleshow/135155501.cms",
     "time": "2026-10-23T20:40:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Legal action ordered against officials over irregularities in voter list in Pilibhit",
+    "desc": "Legal action will be taken against both the current and former election officials responsible for the discrepancies found in the voter list for constituency 127 – Pilibhit, reads an official statement by the State election commission",
+    "img": "https://th-i.thgim.com/public/incoming/8yuyth/article71613328.ece/alternates/LANDSCAPE_1200/TH30-nearby0_G6GTKGJQ13J.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/legal-action-ordered-against-officials-over-irregularities-in-voter-list-in-pilibhit/article71613043.ece",
+    "time": "2026-10-23T20:27:00.000Z"
   },
   {
     "cat": "Politics",
@@ -52,6 +187,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/northwest-india-turned-drier-south-wetter-over-70-years-finds-imd-study/articleshow/135154893.cms",
     "time": "2026-10-23T19:54:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI",
+    "desc": "The report said headline CPI inflation rose to a 23-month high of 5.5% in Sept from 4.8% in Aug, with price increases spreading across food, fuel and core items. Core inflation rose to 4.3%, while core inflation excluding precious metals reached 3.2%. WPI inflation climbed to 11.4% under the 2022-23 base series. The report highlighted early signs of inflation generalisation, with a rising share of CPI items recording inflation above 6%.",
+    "img": "https://static.toiimg.com/photo/msid-135155518,imgsize-70056.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/demand-at-home-supporting-growth-momentum-rbi/articleshow/135154655.cms",
+    "time": "2026-10-23T19:23:42.000Z"
   },
   {
     "cat": "Politics",
@@ -205,24 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/gujarat-titans-player-added-to-india-squad-as-cover-for-injured-ishan-kishan-for-second-new-zealand-t20i/articleshow/135150199.cms",
     "time": "2026-10-23T16:15:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Police permission sought for over 60 RSS marches across Bengaluru",
-    "desc": "The RSS march applications became a talking point after Home Minister Priyank Kharge took to social media to share two communications from the RSS that “informed” the police of the proposed marches in the city.",
-    "img": "https://th-i.thgim.com/public/incoming/yyyvxt/article71617371.ece/alternates/LANDSCAPE_1200/Kumaraswamy-canGIDGMDMUB.2.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/police-permission-sought-for-over-60-rss-marches-across-bengaluru/article71616847.ece",
-    "time": "2026-10-23T16:13:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Source of explosive materials being traced in Bengaluru’s suspected IED blast",
-    "desc": "While the police have questioned Suraj, one of the two accused, the other accused, Allauddin, is still recovering from the injuries he sustained. The police said both the injured men had been giving contradictory statements.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/source-of-explosive-materials-being-traced-in-bengalurus-suspected-ied-blast/article71617318.ece",
-    "time": "2026-10-23T16:07:27.000Z"
   },
   {
     "cat": "Sports",
@@ -513,15 +639,6 @@ const newsData_en = [
     "time": "2026-10-23T08:50:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'It doesn't work like that': Coach keeps suspense over Sooryavanshi's chances in XI",
-    "desc": "Ahead of the second T20I, Sitanshu Kotak highlighted the crucial role of management in player selection. With Ishan Kishan injured, Vaibhav Sooryavanshi could step in. Kotak praised openers Sanju Samson and Abhishek Sharma for their stellar performances in the opening match against New Zealand. He urged the team to prioritise unity over social media distractions as they strive for another win in Christchurch.",
-    "img": "https://static.toiimg.com/photo/msid-135139133,imgsize-96432.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/it-doesnt-work-like-that-india-coach-keeps-suspense-over-vaibhav-sooryavanshis-chances-in-playing-xi/articleshow/135139084.cms",
-    "time": "2026-10-23T07:28:38.000Z"
-  },
-  {
     "cat": "World",
     "title": "Tibet earthquake updates",
     "desc": "Search and rescue efforts continued following the collapse of at least 339 homes, the Nagqu media office said, citing city government officials. Among the injured, 11 people were in serious condition, and the other 21 sustained minor injuries, the media office said",
@@ -781,122 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/drone-revolution-and-modern-warfare-explained/article71104697.ece",
     "time": "2026-10-22T16:14:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "The reality behind falling net FDI",
-    "desc": "India’s net FDI has declined sharply despite strong gross inflows, underlining the impact of disinvestment/capital repatriation; an understanding of these trends requires looking beyond aggregate inflow, outflow figures; investor classes, modes of entry, and exit strategies can have important implications for technology transfer, industrial development, and external sustainability",
-    "img": "https://th-i.thgim.com/public/incoming/6sibpc/article71086348.ece/alternates/LANDSCAPE_1200/iStock-1826712198.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/the-reality-behind-falling-net-fdi/article71084799.ece",
-    "time": "2026-10-22T16:08:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-UK Social Security Agreement: DCC limits double contributions; five-year rule explained",
-    "desc": "Historically, the two countries did not have a bilateral social security agreement as against the other European countries with whom India has a Social Security Agreement (SSA) i.e. Belgium, Germany, France, Switzerland, the Netherlands, Denmark, Finland, Luxembourg, Portugal and Sweden. Against this backdrop, social security became an important part of the broader India-UK economic trade discussions.",
-    "img": "https://static.toiimg.com/photo/msid-135108055,imgsize-654881.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/explained-what-double-contributions-convention-means-for-social-security-benefits-of-indians-working-in-uk/articleshow/135086753.cms",
-    "time": "2026-10-22T11:33:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How the bank discovered the leak and what followed",
-    "desc": "In a stock exchange filing, SBI said it had experienced an incident involving the loss of certain data. It said on October 16, 2026, it received communications from its Threat Intelligence Service Provider, the Defence Cyber Agency, and CERT-In regarding an alert concerning the suspected exposure of it’s customer data on the dark web.",
-    "img": "https://th-i.thgim.com/public/incoming/3amz2t/article71610919.ece/alternates/LANDSCAPE_1200/2025-07-10T081648Z_533818807_RC20D0AQ0T47_RTRMADP_3_STATE-BANK-INDIA-SHARE-SALE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/sbi-data-breach-how-the-bank-discovered-the-leak-and-what-followed/article71610638.ece",
-    "time": "2026-10-22T10:08:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Barclays to slash 5,000 jobs by 2026-end as AI takes on bigger role in bank's operations",
-    "desc": "In a significant restructuring effort, Barclays is poised to cut about 5,000 jobs from its worldwide team by the year's conclusion. This initiative focuses on optimizing efficiency and increasing investment in innovative technologies, notably artificial intelligence. The reductions will largely target support functions, affecting numerous developers and operational staff. Following 1,000 closed roles, the anticipated cuts will drive Barclays' ongoing mission to enhance its services while reducing costs.",
-    "img": "https://static.toiimg.com/photo/msid-135115196,imgsize-55206.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/barclays-to-slash-5000-jobs-by-2026-end-as-ai-takes-on-bigger-role-in-banks-operations/articleshow/135114775.cms",
-    "time": "2026-10-22T09:59:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Net income jumps 264% to $9.86 bn, but legal charge limit profits",
-    "desc": "Meta Platforms reported a net income of $9.86 billion in Q3 2026, tripling from the previous year. Overall revenue increased to $64.60 billion, primarily driven by higher advertising earnings. However, operating income declined due to a significant legal charge linked to teen mental health litigation. The company plans to invest heavily in artificial intelligence infrastructure to support future revenue growth.",
-    "img": "https://static.toiimg.com/photo/msid-135113245,imgsize-47992.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/meta-q3-results-net-income-jumps-264-to-9-86-billion-but-legal-charge-hits-operating-income/articleshow/135113125.cms",
-    "time": "2026-10-22T08:51:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s private capex pipeline rises 39% to Rs 99.7 lakh crore, UBI flags risks",
-    "desc": "India's private sector investments have surged to Rs 99.7 lakh crore, marking a remarkable growth of 39% over the year. This significant uptick is largely driven by larger projects, indicating a trend toward consolidation in investment plans. Maharashtra leads as a primary destination for these investments, along with other states.",
-    "img": "https://static.toiimg.com/photo/msid-135112531,imgsize-52124.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-private-capex-pipeline-rises-39-to-rs-99-7-lakh-crore-ubi-flags-risks/articleshow/135112324.cms",
-    "time": "2026-10-22T08:25:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Both sides explore insurance cover as legal battle looms",
-    "desc": "Tata Sons and Tata Trusts are actively evaluating their insurance policies in light of recent legal disputes. This exploration aims to ascertain the level of protection they have against potential lawsuits and legal expenses. The tension rose significantly following a contentious board meeting held on September 17, which discussed the organization's strategic vision.",
-    "img": "https://static.toiimg.com/photo/msid-135111495,imgsize-28798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-vs-tata-trusts-both-sides-explore-insurance-cover-as-legal-battle-looms/articleshow/135111037.cms",
-    "time": "2026-10-22T07:28:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Queer voices find expression in a new documentary",
-    "desc": "What does it mean to tell your story in your own voice? Catch the screening of Quiet Reckoning, a documentary that brings the lives and experiences of people from the LGBTQ+ community to the forefront",
-    "img": "https://th-i.thgim.com/public/food/bfst6b/article71607224.ece/alternates/LANDSCAPE_1200/Still%20from%20the%20fillm%202%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/quiet-reckoning-queer-voices-find-expression-in-a-new-documentary/article71603603.ece",
-    "time": "2026-10-22T07:10:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Tesla reports $1.53 bn in free cash flow amid one-fifth cut to 2026 spending forecast",
-    "desc": "Tesla generated $1.53 billion in free cash flow in the third quarter, which exceeded market expectations. The company's capital expenditure forecast for 2026 was cut to approximately $20 billion from over $25 billion. Tesla's revenue was flat compared to the previous year but still surpassed estimates, while net income fell 43%. Demand for electric vehicles rose significantly as Tesla delivered 486,532 vehicles in the quarter.",
-    "img": "https://static.toiimg.com/photo/msid-135108883,imgsize-72030.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/tesla-reports-1-53-billion-in-free-cash-flow-amid-one-fifth-cut-to-2026-spending-forecast/articleshow/135107813.cms",
-    "time": "2026-10-22T05:52:56.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?",
-    "desc": "Elon Musk’s reported restrictions on satellite services to Ukraine show the risks of India’s dependence on foreign-controlled technology; from satellite navigation to cloud computing and military equipment, gaps in domestic capabilities can leave critical infrastructure exposed to external pressure",
-    "img": "https://th-i.thgim.com/public/incoming/55v76z/article71608768.ece/alternates/LANDSCAPE_1200/iStock-1558220804.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
-    "time": "2026-10-22T05:22:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Currency slips to 94.50 as oil rises, Dalal Street struggles in red",
-    "desc": "The Indian Rupee fell by 12 paise, settling at 94.50 against the US dollar, driven primarily by surging crude oil prices. However, the currency found some respite from a weaker dollar and declining US treasury yields. Local stock market volatility and climbing oil costs further pressured the rupee. Notably, foreign institutional investors recently bought Rs 1,022.32 crore in equities.",
-    "img": "https://static.toiimg.com/photo/msid-135107567,imgsize-67790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-under-pressure-currency-slips-to-94-50-as-oil-rises-dalal-street-struggles-in-red/articleshow/135107526.cms",
-    "time": "2026-10-22T04:56:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Wife’s father paid for joint house; Kerala HC orders husband to vacate",
-    "desc": "The dispute involved a couple who got married in 2012. The woman told the court that her father had paid Rs 30 lakh to purchase the house for her future security. Although the property was registered jointly, she maintained that her husband had contributed nothing towards the purchase and therefore had no independent entitlement to half of it.",
-    "img": "https://static.toiimg.com/photo/msid-135093991,imgsize-693148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/wifes-father-paid-to-buy-house-in-couples-joint-names-kerala-high-court-grants-her-exclusive-ownership-rules-husband-must-vacate-after-he-fails-to-prove-he-paid-anything/articleshow/135087533.cms",
-    "time": "2026-10-22T04:31:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Brent crude tops $110 as fresh attacks in Saudi raise concerns over oil supplies",
-    "desc": "Oil prices surged past $110 a barrel as Houthi attacks in Saudi Arabia raised alarms. The US took precautionary measures by evacuating diplomats' families from the kingdom amid escalating security issues. Simultaneously, US crude inventories dropped sharply, while distillate stocks showed an unexpected increase. Heightened threats to energy supplies from Iran have intensified concerns over shipping safety.",
-    "img": "https://static.toiimg.com/photo/msid-135104137,imgsize-63878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/brent-crude-tops-110-as-fresh-attacks-in-saudi-arabia-raise-concerns-over-oil-supplies/articleshow/135103962.cms",
-    "time": "2026-10-22T01:53:32.000Z"
   }
 ];
