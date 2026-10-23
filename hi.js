@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shreyas Iyer opens up after India pull off mammoth run chase against New Zealand in Christchurch",
+    "desc": "The Indian team got off to a brilliant start to the ongoing multi-format series against New Zealand. Taking on the Black Caps in the first T20I of the series, the two sides met at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-opens-up-after-india-pull-off-mammoth-run-chase-against-new-zealand-in-christchurch-2026-10-23-1057693",
+    "time": "2026-10-23T02:47:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harry Brook achieves massive feat despite England's heartbreaking loss to Sri Lanka in Rawalpindi",
+    "desc": "England and Sri Lanka continued their ongoing tri-series by taking on each other in Rawalpindi. The two sides met on October 22nd, and the game went on to be one of the biggest games of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-achieves-massive-feat-despite-england-s-heartbreaking-loss-to-sri-lanka-in-rawalpindi-2026-10-23-1057688",
+    "time": "2026-10-23T01:43:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhishek Sharma breaks Rohit Sharma's world record in first T20I against New Zealand in Christchurch",
     "desc": "India beat New Zealand by four wickets in the first of the five-match T20I series against New Zealand. They were asked to chase 226 runs in the middle, which needed a strong start from openers...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/sheetal-devi-wins-gold-again-beats-singapore-s-nur-alim-syahidah-in-women-s-archery-at-para-asian-games-2026-10-22-1057616",
     "time": "2026-10-22T07:43:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Vaibhav Sooryavanshi not playing for India in first T20I against New Zealand in Christchurch?",
-    "desc": "Vaibhav Sooryavanshi failed to break into the playing XI in the first T20I against New Zealand at Hagley Oval in Christchurch. Captain Shreyas Iyer had confirmed the development on the matchday eve itself, stating that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-vaibhav-sooryavanshi-not-playing-for-india-in-first-t20i-against-new-zealand-in-christchurch-2026-10-22-1057609",
-    "time": "2026-10-22T06:52:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Hardik Pandya not playing in India's 1st T20I vs New Zealand in Christchurch?",
-    "desc": "Team India kicks off their multi-format series against New Zealand. The two sides take on each other in the first of five T20Is at the Hagley Oval in Christchurch on October 22nd. Both sides would...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-in-india-s-1st-t20i-vs-new-zealand-in-christchurch-2026-10-22-1057607",
-    "time": "2026-10-22T06:45:03.000Z"
   }
 ];
