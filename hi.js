@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kumar Kushagra replaces Ishan Kishan in India squad for 2nd T20I vs NZ",
+    "desc": "India have added keeper-batter Kumar Kushagra for the second T20I against New Zealand. He replaced Ishan Kishan, who was ruled out with a right adductor strain, as BCCI confirmed in an earlier statement. Meanwhile, Kushagra is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kumar-kushagra-replaces-ishan-kishan-in-india-squad-for-2nd-t20i-vs-nz-why-bcci-made-late-change-2026-10-23-1057761",
+    "time": "2026-10-23T15:58:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India finishes Asian Para Games 2026 with record medal tally; check full list of winners",
+    "desc": "India have recorded their strongest-ever medal haul at the Asian Para Games. The contingent finished with 114 medals, comprising 30 gold, 35 silver and 49 bronze, in Aichi-Nagoya. The country sits fourth in the standings...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-finishes-asian-para-games-2026-with-record-medal-tally-check-full-list-of-winners-2026-10-23-1057759",
+    "time": "2026-10-23T15:20:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Vaibhav Sooryavanshi play 2nd T20I vs New Zealand after Ishan Kishan ruled out?",
+    "desc": "India keeper-batter Ishan Kishan has been ruled out of the second T20I against New Zealand at the Hagley Oval in Christchurch. BCCI has already confirmed the development, stating that the cricketer suffered a low-grade right...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-vaibhav-sooryavanshi-play-2nd-t20i-vs-new-zealand-after-ishan-kishan-ruled-out-2026-10-23-1057757",
+    "time": "2026-10-23T14:33:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India sweeps men's Javelin podium at Para Asian Games 2026; Sumit Antil wins gold",
+    "desc": "India secured all three medals in the men's javelin throw F42–F44/F61–F64 final at the Para Asian Games 2026. Sumit, who competes in the T64 category and receives support through the Target Olympic Podium Scheme (TOPS), produced...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-sweeps-men-s-javelin-podium-at-para-asian-games-2026-sumit-antil-wins-gold-2026-10-23-1057753",
+    "time": "2026-10-23T13:34:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Marc Guehi",
+    "desc": "Leading up to the new Premier League season, Manchester City had plenty of things to worry about. Their most successful coach, Pep Guardiola, had left the club, along with some of the key players, including...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/the-name-of-manchester-city-will-return-to-the-premier-league-summit-soon-marc-guehi-2026-10-23-1057745",
+    "time": "2026-10-23T11:54:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC revises Olympic cricket qualification rules, confirms T20 World Cup 2028, 2030 window",
+    "desc": "The International Cricket Council (ICC) has revised the qualification pathway for the women's cricket tournament at the 2028 Los Angeles Olympics. It has linked a potential additional berth to the inaugural Women's Champions Trophy in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-revises-olympic-cricket-qualification-rules-confirms-t20-world-cup-2028-2030-window-2026-10-23-1057738",
+    "time": "2026-10-23T11:14:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Who is Jintimani Kalita? 22-year-old Assam cricketer makes India debut vs Zimbabwe",
     "desc": "India have handed a debut cap to youngster Jintimani Kalita in the first ODI against Zimbabwe in Vadodara. Former captain Harmanpreet Kaur handed the cap to the 22-year-old right-arm medium-fast bowler, who hails from Assam. Now,...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/robert-lewandowski-names-his-ballon-d-or-favourite-ahead-of-marquee-event-2026-10-23-1057712",
     "time": "2026-10-23T06:42:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan ruled out of upcoming second T20I against New Zealand due to injury; Check details",
-    "desc": "In a major blow to the Indian team, star India batter Ishan Kishan has been ruled out of the upcoming second T20I of the ongoing series against New Zealand. It is worth noting that Kishan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-ruled-out-of-upcoming-second-t20i-against-new-zealand-due-to-injury-check-details-2026-10-23-1057705",
-    "time": "2026-10-23T05:21:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sandeep Singh, Haney clinch gold medals at Para Asian Games 2026 with stunning world record efforts",
-    "desc": "The Indian contingent has been exceptional at the Para Asian Games 2026. Consistently bringing home gold medals, India’s Sandeep Singh Mann broke the world record while competing in the men’s 400m final. Competing at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/sandeep-singh-haney-clinch-gold-medals-at-para-asian-games-2026-with-stunning-world-record-efforts-2026-10-23-1057703",
-    "time": "2026-10-23T05:06:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nitesh Kumar and Naveen Sivakumar clinch gold in men's singles badminton at Para Asian Games 2026",
-    "desc": "In a major development, the Indian contingent continues to perform at the Para Asian Games 2026. Nitesh Kumar and Naveen Sivakumar clinched the gold medal for India in the men’s singles badminton final in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/nitesh-kumar-and-naveen-sivakumar-clinch-gold-in-men-s-singles-badminton-at-para-asian-games-2026-2026-10-23-1057695",
-    "time": "2026-10-23T03:19:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer opens up after India pull off mammoth run chase against New Zealand in Christchurch",
-    "desc": "The Indian team got off to a brilliant start to the ongoing multi-format series against New Zealand. Taking on the Black Caps in the first T20I of the series, the two sides met at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-opens-up-after-india-pull-off-mammoth-run-chase-against-new-zealand-in-christchurch-2026-10-23-1057693",
-    "time": "2026-10-23T02:47:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Brook achieves massive feat despite England's heartbreaking loss to Sri Lanka in Rawalpindi",
-    "desc": "England and Sri Lanka continued their ongoing tri-series by taking on each other in Rawalpindi. The two sides met on October 22nd, and the game went on to be one of the biggest games of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-achieves-massive-feat-despite-england-s-heartbreaking-loss-to-sri-lanka-in-rawalpindi-2026-10-23-1057688",
-    "time": "2026-10-23T01:43:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma breaks Rohit Sharma's world record in first T20I against New Zealand in Christchurch",
-    "desc": "India beat New Zealand by four wickets in the first of the five-match T20I series against New Zealand. They were asked to chase 226 runs in the middle, which needed a strong start from openers...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-breaks-rohit-sharma-s-world-record-in-first-t20i-against-new-zealand-in-christchurch-2026-10-22-1057663",
-    "time": "2026-10-22T13:23:55.000Z"
   }
 ];
