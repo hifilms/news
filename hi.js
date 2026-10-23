@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pratika Rawal smashes century, Shree Charani claims four as India beat Zimbabwe to take a 1- 0 series lead",
+    "desc": "Pratika Rawal struck an unbeaten century and India's bowlers delivered a disciplined performance as the hosts defeated Zimbabwe by nine wickets in the first ODI at Kotambi Stadium in Vadodara. India completed the chase of 198...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pratika-rawal-smashes-century-shree-charani-claims-four-as-india-beat-zimbabwe-to-take-a-1-0-lead-2026-10-23-1057765",
+    "time": "2026-10-23T17:52:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bayern Munich head coach, Vincent Kompany, collapses during training, taken to hospital via air ambulance",
+    "desc": "Bayern Munich head coach Vincent Kompany was taken to a hospital in Munich on Friday after collapsing following a training session. An emergency doctor was reportedly present, while a helicopter was said to have landed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bayern-munich-head-coach-vincent-kompany-collapses-during-training-taken-to-hospital-via-air-ambulance-2026-10-23-1057763",
+    "time": "2026-10-23T16:34:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kumar Kushagra replaces Ishan Kishan in India squad for 2nd T20I vs NZ",
     "desc": "India have added keeper-batter Kumar Kushagra for the second T20I against New Zealand. He replaced Ishan Kishan, who was ruled out with a right adductor strain, as BCCI confirmed in an earlier statement. Meanwhile, Kushagra is...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/he-is-too-young-sitanshu-kotak-opens-up-on-chatter-around-vaibhav-sooryavanshi-ahead-of-second-nz-t20i-2026-10-23-1057726",
     "time": "2026-10-23T09:31:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former Chelsea star blames Bruno Fernandes for Manchester United's poor run of form",
-    "desc": "Manchester United continue to produce subpar results after their winless run in the Premier League; the side has been unable to produce results in the ongoing UEFA Champions League as well. The three-time Champions League...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/former-chelsea-star-blames-bruno-fernandes-for-manchester-united-s-poor-run-of-form-2026-10-23-1057716",
-    "time": "2026-10-23T07:52:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Robert Lewandowski names his Ballon d'Or favourite ahead of marquee event",
-    "desc": "The Ballon d’Or 2026 is right around the corner; the marquee event is all set to be held in Paris, and the best men’s and women’s footballers of the last season are all set to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/robert-lewandowski-names-his-ballon-d-or-favourite-ahead-of-marquee-event-2026-10-23-1057712",
-    "time": "2026-10-23T06:42:22.000Z"
   }
 ];

@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Anirudh-Kavya’s wedding reception: Sonia Gandhi, Nirmala Sitharaman invited",
+    "desc": "Music composer Anirudh Ravichander and Sunrisers Hyderabad co-owner Kavya Maran are set to tie the knot, with their families inviting prominent political leaders to the Chennai wedding reception on November 21. Kavya’s parents, Kalanithi and Kavery Maran, have extended invitations to Sonia Gandhi and Nirmala Sitharaman, following invitations to Narendra Modi, Revanth Reddy, C Joseph Vijay and MK Stalin.",
+    "img": "https://static.toiimg.com/photo/msid-135155515,imgsize-126036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anirudh-ravichander-and-kavya-marans-wedding-brides-parents-invite-sonia-gandhi-nirmala-sitharaman-to-chennai-reception-after-narendra-modi-revanth-reddy-c-joseph-vijay-and-mk-stalin/articleshow/135155501.cms",
+    "time": "2026-10-23T20:40:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After Operation Sindoor friction, Delhi &amp; Baku reset ties with EAM Jaishankar's visit",
+    "desc": "Ties between the two countries had been held back by geopolitical reasons for a while, mainly Azerbaijan’s ties with Pakistan — as evident from its support for Islamabad after Op Sindoor last year — and India’s defence ties with Armenia. While Bayramov spoke about taking the relationship to a higher level, setting aside past differences, Jaishankar underlined the significance of trade and energy cooperation. Terrorism was also discussed.",
+    "img": "https://static.toiimg.com/photo/msid-135155369,imgsize-48706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/after-operation-sindoor-friction-delhi-baku-reset-ties-with-eam-jaishankars-visit/articleshow/135155334.cms",
+    "time": "2026-10-23T20:06:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Study traces how an El Niño changed the pollution map",
+    "desc": "The baffling ENSO transition in India’, published in Atmospheric Pollution Research journal Thursday, found that La Niña/El Niño conditions altered atmospheric circulation, PM2.5 transport pathways and weather conditions that determine whether pollution disperses or gets trapped.",
+    "img": "https://static.toiimg.com/photo/msid-135155262,imgsize-1950721.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/study-traces-how-an-el-nio-changed-the-pollution-map/articleshow/135154890.cms",
+    "time": "2026-10-23T20:02:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cabinet Secretary didn’t act on Election Commissioners’ plaint as it was unofficial: RTI",
+    "desc": "According to documents shared as part of an RTI response, two ECs in their separate but near-identical letters to Somanathan on July 29 objected to Garg’s conduct and an order he issued revising allocation of work among senior officers. The two ECs alleged the changes were made without prior discussion with the commission or officers concerned.",
+    "img": "https://static.toiimg.com/photo/msid-135155199,imgsize-309298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cabinet-secretary-didnt-act-on-election-commissioners-plaint-as-it-was-unofficial-rti/articleshow/135154891.cms",
+    "time": "2026-10-23T19:58:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "China’s patrolling deviations disturb border: MEA on ITBP DG's LAC face-offs remark",
+    "desc": "The ministry of external affairs (MEA) on Friday did not go into the specifics of the latest face-off, choosing to refer the issue to the defence ministry, but said Chinese divergence from established patrolling patterns created disturbances at the border from time to time. The official said both sides continued to use existing diplomatic and military mechanisms to resolve outstanding issues and avoid misunderstanding and miscalculation along the LAC.",
+    "img": "https://static.toiimg.com/photo/msid-135155098,imgsize-45698.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/chinas-patrolling-deviations-disturb-border-mea-on-itbp-dgs-lac-face-offs-remark/articleshow/135155021.cms",
+    "time": "2026-10-23T19:55:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Northwest India turned drier, south wetter over 70 years, finds IMD study",
+    "desc": "In northwest India, the hot semi-arid zone grew from about a quarter of the region’s area in 1951-1980 to a third in 1991-2020, while the temperate zone shrank from about a quarter to less than a fifth, meaning that an area equal to roughly 7% of the region moved into the drier zone as temperatures rose and rainfall declined, said the study.",
+    "img": "https://static.toiimg.com/photo/msid-135155143,imgsize-294286.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/northwest-india-turned-drier-south-wetter-over-70-years-finds-imd-study/articleshow/135154893.cms",
+    "time": "2026-10-23T19:54:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Agriculture pumpset power load increases by 25-50%, other categories by 18% amidst rain deficit in Karnataka",
+    "desc": "According to sources in the Energy Department, Karnataka’s average daily electricity consumption rose to 349-362 Million Units (MU) in the first two weeks of October 2026, surpassing the record of 340 MU recorded in September.",
+    "img": "https://th-i.thgim.com/public/incoming/jbbnwr/article71616402.ece/alternates/LANDSCAPE_1200/MDMTS_2-8-2015_15-37-12_MANDYA_ILLEGAL_PUMPSETS_02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/agriculture-pumpset-power-load-increases-by-25-50-other-categories-by-18-amidst-rain-deficit-in-karnataka/article71606908.ece",
+    "time": "2026-10-23T19:23:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "US mercenary VanDyke, 6 Ukrainians to remain abroad till Feb 24",
+    "desc": "VanDyke attended the court hearing Friday and sought the release of his seized personal articles. The seven accused had earlier sought six weeks to meet their families and were allowed to stay abroad till Oct 23. They were arrested on March 13 for allegedly training the insurgent-linked groups in Myanmar.",
+    "img": "https://static.toiimg.com/photo/msid-135154643,imgsize-37086.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/arms-training-case-us-mercenary-vandyke-6-ukrainians-to-remain-abroad-till-feb-24/articleshow/135154247.cms",
+    "time": "2026-10-23T19:20:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition's 'mock Parliament' to step up fight against SIR &amp; CEC Gyanesh Kumar",
+    "desc": "Sources said a “mock” gathering depicting an assembly of MPs may take place in the national capital on Oct 28. The event will involve MPs and others, but is unlikely to be a large gathering, given that a massive show of strength to push for the CEC’s resignation is planned at Ramlila Maidan as a “Delhi chalo” rally.",
+    "img": "https://static.toiimg.com/photo/msid-135154589,imgsize-160956.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/oppositions-mock-parliament-to-step-up-fight-against-sir-cec-gyanesh-kumar/articleshow/135154248.cms",
+    "time": "2026-10-23T19:15:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Need to unite against divisive forces, tackle new challenges: PM Modi",
+    "desc": "Inaugurating the Chinmaya Amrit Mahotsav Global Sammelan, he said Swami Chinmayananda set his goals as per issues facing the country at the time and new challenges had emerged in the past few decades. “We must unite society against divisive forces. We must inspire citizens toward self-reliance, and we must connect every individual to vision of a developed India by 2047. For these objectives, we must become more proactive,” he said.",
+    "img": "https://static.toiimg.com/photo/msid-135154532,imgsize-67060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/need-to-unite-against-divisive-forces-tackle-new-challenges-pm-modi/articleshow/135154250.cms",
+    "time": "2026-10-23T19:12:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Taiwan says China using militia boats to expand 'battlefield preparation' in western Pacific",
+    "desc": "The coast guard confirmed details in the Reuters ‌report, identifying the suspected militia fishing boat as Minfudingyu 07902, and said it had come ‌as ⁠close as about 2.7 nautical miles outside Taiwan’s restricted waters on August 16",
+    "img": "https://th-i.thgim.com/public/incoming/xzz98z/article71617751.ece/alternates/LANDSCAPE_1200/2026-07-09T073648Z_295346332_RC22AMA0FXI8_RTRMADP_3_TAIWAN-CHINA-SECURITY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/taiwan-says-china-using-militia-boats-to-expand-battlefield-preparation-in-western-pacific/article71617717.ece",
+    "time": "2026-10-23T19:07:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre bans reuse of single-use medical devices across hospitals; flags recycling of disposables",
+    "desc": "In a letter dated Oct 16, the Directorate General of Health Services (DGHS) said it had come to its notice that some private and corporate hospitals were reusing single-use devices after sterilising them, including items used in cardiology, nephrology, oncology, cardiothoracic and vascular surgery (CTVS), neurosurgery and other clinical services. The DGHS said that reuse could expose patients to cross-infection, device malfunction, reduced performance and other complications.",
+    "img": "https://static.toiimg.com/photo/msid-135154373,imgsize-175138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/centre-bans-reuse-of-single-use-medical-devices-across-hospitals-flags-recycling-of-disposables/articleshow/135154254.cms",
+    "time": "2026-10-23T19:07:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lok Sabha Speaker Om Birla",
+    "desc": "Talking to reporters Friday, Birla said the forum in India would work towards consensus-based dialogue on the role of Parliament in strengthening institutions, promotion of human-centred innovation in AI and digital technologies through Parliament, more representative system of global governance and role of Parliament in ensuring a sustainable and inclusive future for Brics countries.",
+    "img": "https://static.toiimg.com/photo/msid-135154451,imgsize-195304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/brics-parliamentary-meet-should-end-with-joint-statement-lok-sabha-speaker-om-birla/articleshow/135154253.cms",
+    "time": "2026-10-23T19:07:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Steven McBee Sr. to pay $7.18 million in federal crop fraud settlement",
+    "desc": "‘McBee Dynasty’ star Steven McBee Sr. must pay $7.18 million in a federal crop fraud settlement after pleading guilty in 2024. The case involved a scheme to obtain federal crop insurance benefits he was not entitled to receive. McBee admitted selling more than 1.2 million bushels of corn and nearly 416,000 bushels of soybeans in 2018.",
+    "img": "https://static.toiimg.com/photo/msid-135153721,imgsize-59363.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/mcbee-dynasty-star-steven-mcbee-sr-must-pay-7-18-million-in-federal-crop-fraud-settlement-after-pleading-guilty-in-2024-over-selling-1-6-million-bushels-of-corn-and-soybeans-in-2018/articleshow/135153483.cms",
+    "time": "2026-10-23T18:34:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Punjab House passes resolution against electoral irregularities",
+    "desc": "Taking part in the discussion on the resolution on Day 2 of the Assembly session, Chief Minister Bhagwant Mann blamed the BJP for alleged vote ‘loot’, terming it dangerous for democracy, and demanded the scrapping of the Special Intensive Revision (SIR) of electoral rolls",
+    "img": "https://th-i.thgim.com/public/incoming/uctyhs/article71617116.ece/alternates/LANDSCAPE_1200/20261023192L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab-house-passes-resolution-against-electoral-irregularities/article71616678.ece",
+    "time": "2026-10-23T18:17:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jaishankar meets Azerbaijan President, Foreign Minister as India attempts reset of ties",
+    "desc": "Bilateral ties had soured with Azerbaijan’s condemnation of Operation Sindoor and calls for ‘resolution’ of the Kashmir issue; but on Friday, Azerbaijani Foreign Minister Bayramov highlighted trade, tourism, and energy ties after a ‘fruitful discussion’ with his Indian counterpart",
+    "img": "https://th-i.thgim.com/public/incoming/ciw8oz/article71617616.ece/alternates/LANDSCAPE_1200/20261023256L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jaishankar-meets-azerbaijan-president-foreign-minister-as-india-attempts-reset-of-ties/article71617306.ece",
+    "time": "2026-10-23T17:31:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Teaching on the back burner",
+    "desc": "Children in government and aided schools across Karnataka have not seen several of their teachers for months, for most of them have been assigned as Booth Level Officers for the Special Intensive Revision of electoral rolls. Students tell Rishita Khanna that what initially seemed like fun with many free hours, is now making them anxious...",
+    "img": "https://th-i.thgim.com/public/incoming/ar0wxa/article71612060.ece/alternates/LANDSCAPE_1200/31c34eff-a871-431d-8eb3-16b9169fe761.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-sir-teaching-on-the-back-burner/article71606292.ece",
+    "time": "2026-10-23T17:19:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I would have never done it'",
+    "desc": "Avantika Malik revealed that her estranged husband, Imran Khan, initiated their separation before their divorce. They experienced significant changes during their 18-year relationship as they matured from teenagers to adults. Despite feeling disappointed with the outcome, Avantika finds value in their shared experiences and family. She expressed that they made numerous attempts to save their marriage before deciding to part ways.",
+    "img": "https://static.toiimg.com/photo/msid-135151236,imgsize-795234.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/avantika-malik-says-imran-khan-first-suggested-separation-calls-their-18-year-marriage-a-success-it-was-him-actually-i-would-have-never-done-it/articleshow/135151156.cms",
+    "time": "2026-10-23T16:59:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gurjar Mahasabha flags lack of political representation, seeks greater share in legislatures, institutions",
+    "desc": "Scheduled for October 27, the Akhil Bharatiya Gurjar Mahasabha's national convention aims to tackle pressing representation issues faced by the Gurjar community, evidenced by just 20 MLAs in a pool of approximately 4,600 across India. Key demands include the formation of a Gurjar Regiment and reserved positions, as well as initiatives focused on youth development and substance abuse awareness.",
+    "img": "https://static.toiimg.com/photo/msid-135151240,imgsize-125944.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/gurjar-mahasabha-flags-lack-of-political-representation-seeks-greater-share-in-legislatures-institutions/articleshow/135151131.cms",
+    "time": "2026-10-23T16:58:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dolly Parton’s sister alleges death threats over Tennessee voting machines row",
+    "desc": "Dolly Parton’s sister Stella Parton claims she has received death threats and hate mail after raising concerns about a Tennessee voting machine allegedly selecting Republican candidate Marsha Blackburn. She says her late sister would have been concerned about her safety and denies being paid by Democrats. State election officials have disputed claims of deliberate vote manipulation.",
+    "img": "https://static.toiimg.com/photo/msid-135151016,imgsize-99067.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-partons-sister-stella-parton-claims-she-received-death-threats-and-hate-mail-after-raising-tennessee-voting-machine-concerns-says-she-would-be-concerned-about-me-today-denies-being-paid-by-democrats/articleshow/135150954.cms",
+    "time": "2026-10-23T16:56:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Lionel Messi just won Spain’s 'Nobel Prize'",
+    "desc": "Lionel Messi received Spain’s 2026 Princess of Asturias Award for Sports in Oviedo, recognising his extraordinary football career and charitable contributions to children’s welfare. The Inter Miami forward becomes the first footballer to win the distinction individually, joining a prestigious list of sporting greats. The honour also reflects his enduring connection with Spain, where he rose to global prominence with Barcelona.",
+    "img": "https://static.toiimg.com/photo/msid-135150969,imgsize-78628.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/why-did-spain-award-lionel-messi-its-nobel-prize-inside-his-historic-win-as-the-first-individual-footballer/articleshow/135150096.cms",
+    "time": "2026-10-23T16:49:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ravi Kishan, Divya Dutta and more attend ceremony",
+    "desc": "The Power Creator Awards 2026 celebrated the vibrant digital creator community in Mumbai. Hosted by Aparshakti Khurrana, the event attracted a dazzling lineup of stars including Divya Dutta and Ravi Kishan. Highlighting the breadth of talent, Ravi Kishan was honored as Icon of the Year, while Dolly Singh took home the title of Global Digital Storyteller of the Year.",
+    "img": "https://static.toiimg.com/photo/msid-135150884,imgsize-774913.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/power-creator-awards-2026-ravi-kishan-divya-dutta-aparshakti-khurana-kubbra-sait-saurabh-sachdeva-and-more-attend-the-ceremony-celebrating-indias-digital-creators/articleshow/135150784.cms",
+    "time": "2026-10-23T16:41:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "GT player added to India squad as cover for injured Ishan Kishan for second T20I",
+    "desc": "Kushagra was part of the India A squad set to face New Zealand A in a three-match unofficial Test series beginning on Saturday in Lincoln. He will now join the senior team for the second T20I at Hagley Oval in Christchurch.",
+    "img": "https://static.toiimg.com/photo/msid-135150290,imgsize-107485.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/gujarat-titans-player-added-to-india-squad-as-cover-for-injured-ishan-kishan-for-second-new-zealand-t20i/articleshow/135150199.cms",
+    "time": "2026-10-23T16:15:07.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Police permission sought for over 60 RSS marches across Bengaluru",
     "desc": "The RSS march applications became a talking point after Home Minister Priyank Kharge took to social media to share two communications from the RSS that “informed” the police of the proposed marches in the city.",
@@ -27,15 +234,6 @@ const newsData_en = [
     "time": "2026-10-23T15:47:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rail Jan Samvaad, cleanliness drives held at 31 stations in Palakkad division",
-    "desc": "Special Campaign 6.0 is being observed from October 2 to 31, 2026. Railway officers and supervisors interacted with passengers, students and members of the public, listened to their suggestions and grievances, and addressed their queries at the participating stations.",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/54oe48/article71615987.ece/alternates/LANDSCAPE_1200/24tvkz1-%20railway.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/rail-jan-samvaad-cleanliness-drives-held-at-31-stations-in-palakkad-division/article71615989.ece",
-    "time": "2026-10-23T15:31:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Orijinal’ movie review: A time travel film in which the human story is more intriguing than the time travel",
     "desc": "In Orijinal , the time travel trope becomes an excuse for the portrayal of a man introspecting his life choices and then using the accidental gift of time travel to make amends, not always in the right way",
@@ -61,33 +259,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump-white-house-says/article71616736.ece",
     "time": "2026-10-23T15:19:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rail Jan Samvaad organised at stations to promote passenger-focused service improvements",
-    "desc": "As part of the programme, Rail Jan Samvaad was organised at stations, bringing together passengers, students, public representatives, passenger associations, rail enthusiasts and other stakeholders to share their views and suggest improvements to railway services",
-    "img": "https://th-i.thgim.com/public/incoming/57eqvq/article71617054.ece/alternates/LANDSCAPE_1200/Thiruvananthapuram%20Central%20Railway%20Station.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/rail-jan-samvaad-organised-at-stations-to-promote-passenger-focused-service-improvements/article71616574.ece",
-    "time": "2026-10-23T15:12:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Weather system over Bay of Bengal may intensify into cyclone, cross Odisha-Andhra coasts by October 28",
-    "desc": "Red alert for heavy rain issued for Puri, Ganjam, and Gajapati districts on October 27; several districts likely to witness very heavy rainfall from October 26, says Minister; State government cancels leaves of government employees",
-    "img": "https://th-i.thgim.com/public/news/national/qno8rs/article71615078.ece/alternates/LANDSCAPE_1200/iStock-1260341258.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/odisha/low-pressure-near-bay-of-bengal-expected-to-become-a-cyclonic-storm/article71615056.ece",
-    "time": "2026-10-23T15:11:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Punjab CM alleges he was made to sit at Delhi airport, officials told him they were ‘under pressure from above’",
-    "desc": "“Who is the head of Customs at Delhi airport? Manish, the brother of Chief Election Commissioner Gyanesh Kumar. This is how these people take revenge, targeting individuals anywhere,” CM Mann said in the Punjab Assembly; the House passed a resolution for an independent probe into the functioning of the Election Commission",
-    "img": "https://th-i.thgim.com/public/news/national/gu0xs4/article71616802.ece/alternates/LANDSCAPE_1200/20260502449L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/punjab/punjab-cm-alleges-he-was-made-to-sit-at-delhi-airport-officials-told-him-they-were-under-pressure-from-above/article71616633.ece",
-    "time": "2026-10-23T15:07:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -288,15 +459,6 @@ const newsData_en = [
     "time": "2026-10-23T10:08:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Badal praises SAD-BJP rule as Amit Shah’s NDA pitch fuels reunion buzz",
-    "desc": "Indicating a readiness for alliances, Sukhbir Singh Badal has echoed the sentiments of the Shiromani Akali Dal in seeking partnerships with similar-minded political entities. Recently, Amit Shah hinted at a future NDA governance in Punjab, fueling rumors of a SAD-BJP reunion. However, the Punjab BJP president emphasized that a formal alliance is not yet in place.",
-    "img": "https://static.toiimg.com/photo/msid-135142239,imgsize-120794.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-polls-badal-praises-sad-bjp-rule-as-amit-shahs-nda-pitch-fuels-reunion-buzz/articleshow/135142130.cms",
-    "time": "2026-10-23T10:00:12.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Samantha calls Tamil Nadu CM Vijay her 'lucky charm': 'Worked with him in three superhits'",
     "desc": "Samantha Ruth Prabhu has dubbed Tamil Nadu Chief Minister C Joseph Vijay as her lucky charm amidst their successful collaboration, resulting in three blockbuster films that dominated the box office. Praising his bold transition to politics during his film heyday, she noted its challenges. As the pioneer non-Dravidian leader to govern Tamil Nadu with the Tamilaga Vettri Kazhagam, Vijay's journey is commendable.",
@@ -322,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/mma/news/with-brandon-royval-setback-behind-him-loneer-kavanagh-braces-for-ramazan-temirovs-knockout-threat-at-ufc-333/articleshow/135141370.cms",
     "time": "2026-10-23T09:16:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Chai, samosa, rasmalai’: Hoardings target Akhilesh Yadav over 'mafia links' in Lucknow",
-    "desc": "In a striking development in Lucknow, hoardings targeting Samajwadi Party leader Akhilesh Yadav have emerged, linking him to controversial gangster-politicians. This controversial move followed Yadav's visit to convicted politician Mohammad Azam Khan, raising eyebrows and criticism from the BJP. Yadav claims the ruling party is fabricating charges against Khan and his kin, citing a harsh political onslaught by the BJP as the motive.",
-    "img": "https://static.toiimg.com/photo/msid-135141298,imgsize-74626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/chai-samosa-rasmalai-hoardings-target-akhilesh-yadav-over-mafia-links-in-lucknow/articleshow/135141243.cms",
-    "time": "2026-10-23T09:08:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -360,42 +513,6 @@ const newsData_en = [
     "time": "2026-10-23T08:50:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Varun and Salman vow focus on films; technicians get due",
-    "desc": "Varun Dhawan said at the IIFA 2027 press conference in Mumbai that award shows should celebrate cinema and give technicians more recognition, noting he is a technician’s son. Salman Khan said things are changing. The awards are set for January 22-23, 2027, in Abu Dhabi, with Varun among the hosts.",
-    "img": "https://static.toiimg.com/photo/msid-135140583,imgsize-147181.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/everything-is-not-about-films-varun-dhawan-calls-for-greater-recognition-for-technicians-says-award-shows-must-celebrate-cinema-as-salman-khan-says-things-are-changing/articleshow/135140567.cms",
-    "time": "2026-10-23T08:37:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "93 fours, 552 boundary runs! All the records as SL pull off historic ODI chase vs ENG",
-    "desc": "Sri Lanka pulled off an incredible chase against England, finishing with a two-wicket victory after amassing 430 runs in Rawalpindi. Avishka Fernando's 97 and Pavan Rathnayake's impressive 130 were key to their success. Meanwhile, Harry Brook shined for England with an outstanding double century of 202 runs. This exhilarating match recorded a total of 859 runs, becoming the second-highest aggregate in ODI history, showcasing exceptional talent from both sides.",
-    "img": "https://static.toiimg.com/photo/msid-135140196,imgsize-237548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/93-fours-552-boundary-runs-all-the-major-records-as-sri-lanka-pull-off-historic-odi-chase-against-england/articleshow/135140016.cms",
-    "time": "2026-10-23T08:22:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Jailer 2’ BO Day 9 [Live]: Rajinikanth starrer nears Rs 400 crore India gross",
-    "desc": "Rajinikanth's latest venture, 'Jailer 2', continues to impress at the box office in its second week, having earned approximately Rs 317.20 crore in its debut week. While weekdays saw a drop in earnings, the film bounced back with Rs 2.02 crore on Day 9. Released in Tamil, Telugu, and Hindi, it features the star power of Mohanlal and Shivarajkumar, catering to a diverse audience.",
-    "img": "https://static.toiimg.com/photo/msid-135140003,imgsize-166173.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-box-office-collection-day-9-live-rajinikanth-starrer-nears-rs-400-crore-india-gross-amid-slowdown/articleshow/135139924.cms",
-    "time": "2026-10-23T08:09:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kayadu Lohar shares BTS pic as ‘Manjanathi’ wraps first schedule",
-    "desc": "Director Mari Selvaraj's upcoming film 'Manjanathi' has finished its initial shooting schedule, and actress Kayadu Lohar shared updates. Through social media, Lohar expressed her transformative experience working with Selvaraj, emphasizing the film's emotional depth. The cast includes Priyanka Mohan and Kathir, with music by legendary composer Ilaiyaraaja. Further story details and the film's release date remain undisclosed at this time.",
-    "img": "https://static.toiimg.com/photo/msid-135139658,imgsize-120599.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/kayadu-lohar-shares-bts-picture-as-mari-selvarajs-manjanathi-wraps-first-shooting-schedule-says-the-film-offered-her-a-different-world/articleshow/135139518.cms",
-    "time": "2026-10-23T07:55:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'It doesn't work like that': Coach keeps suspense over Sooryavanshi's chances in XI",
     "desc": "Ahead of the second T20I, Sitanshu Kotak highlighted the crucial role of management in player selection. With Ishan Kishan injured, Vaibhav Sooryavanshi could step in. Kotak praised openers Sanju Samson and Abhishek Sharma for their stellar performances in the opening match against New Zealand. He urged the team to prioritise unity over social media distractions as they strive for another win in Christchurch.",
@@ -403,24 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/it-doesnt-work-like-that-india-coach-keeps-suspense-over-vaibhav-sooryavanshis-chances-in-playing-xi/articleshow/135139084.cms",
     "time": "2026-10-23T07:28:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman's playful dig at Shahid leaves Kareena in splits",
-    "desc": "Salman Khan teased Shahid Kapoor at the IIFA 2027 press conference in Mumbai on October 22 for touching the stage, joking, “Inhone mere pair nahi choohe, stage ko chooa inhone.” Kareena Kapoor Khan was present. The event is set for January 22-23 in Abu Dhabi. Salman’s next films are “Battle of Galwan” and “Monster.”",
-    "img": "https://static.toiimg.com/photo/msid-135139012,imgsize-310983.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inhone-mere-pair-nahi-choohe-salman-khans-playful-dig-at-shahid-kapoor-leaves-kareena-kapoor-khan-in-splits/articleshow/135138989.cms",
-    "time": "2026-10-23T07:21:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'King': SRK and Deepika to reunite for October 26 song shoot",
-    "desc": "Shah Rukh Khan and Deepika Padukone are gearing up to shoot an extravagant song for their upcoming project 'King'. The grand shooting is set to kick off in Mumbai on October 26, led by the talented choreographer Vaibhavi Merchant. With a star-studded cast including Suhana Khan and Abhishek Bachchan, this collaboration promises to add another chapter to the iconic duo's successful cinematic journey.",
-    "img": "https://static.toiimg.com/photo/msid-135138965,imgsize-229541.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/king-shah-rukh-khan-and-deepika-padukone-to-reunite-for-october-26-song-shoot-vaibhavi-merchant-to-choreograph-report/articleshow/135138865.cms",
-    "time": "2026-10-23T07:18:21.000Z"
   },
   {
     "cat": "World",
@@ -502,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/estonia-on-the-edge-as-russia-nato-tensions-rise/article71612139.ece",
     "time": "2026-10-23T04:29:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Kimi Antonelli win the title at the US Grand Prix?",
-    "desc": "Kimi Antonelli heads to the United States Grand Prix in Austin with a 102-point lead in the 2026 Formula 1 championship. With six races remaining, the Mercedes youngster could move closer to becoming the youngest world champion in F1 history. George Russell, Lewis Hamilton and Max Verstappen remain mathematically in contention, but Antonelli's title hopes could receive a decisive boost if results go his way in Texas.",
-    "img": "https://static.toiimg.com/photo/msid-135134210,imgsize-45932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/racing/top-stories/can-kimi-antonelli-clinch-the-f1-2026-title-in-austin-how-does-the-championship-race-stand-with-russell-hamilton-and-verstappen-still-in-contention/articleshow/135134073.cms",
-    "time": "2026-10-23T04:28:28.000Z"
   },
   {
     "cat": "Sports",
@@ -801,15 +891,6 @@ const newsData_en = [
     "time": "2026-10-22T04:31:11.000Z"
   },
   {
-    "cat": "World",
-    "title": "Missiles strike Ukraine's capital after U.S. envoy visits Russia",
-    "desc": "Mr. Witkoff praised Mr. Putin as a \"humanitarian\" for freeing U.S. citizen Stephen Hubbard, but the Kremlin warned after the meeting in Saint Petersburg that while Moscow was \"in principle\" willing to restart talks there was little \"substance\" in Ukrainian and European peace proposals the U.S. diplomat had delivered",
-    "img": "https://th-i.thgim.com/public/incoming/ot8l50/article71609903.ece/alternates/LANDSCAPE_1200/AFP__20261022__D4292ZR__v1__HighRes__UkraineRussiaConflictWar.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/missiles-strike-ukraines-capital-after-us-envoy-visits-russia/article71609868.ece",
-    "time": "2026-10-22T02:06:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Brent crude tops $110 as fresh attacks in Saudi raise concerns over oil supplies",
     "desc": "Oil prices surged past $110 a barrel as Houthi attacks in Saudi Arabia raised alarms. The US took precautionary measures by evacuating diplomats' families from the kingdom amid escalating security issues. Simultaneously, US crude inventories dropped sharply, while distillate stocks showed an unexpected increase. Heightened threats to energy supplies from Iran have intensified concerns over shipping safety.",
@@ -817,86 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/brent-crude-tops-110-as-fresh-attacks-in-saudi-arabia-raise-concerns-over-oil-supplies/articleshow/135103962.cms",
     "time": "2026-10-22T01:53:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "SBI confirms data leak, says 4,000 customer records identified on dark web",
-    "desc": "The disclosure follows a claim by cybersecurity monitoring account CyberPulse that a threat actor using the name Siriusim had leaked documents and personal data allegedly linked to SBI. The post claimed the dataset contained 3,75,000 rows in CSV files and 2,722 PDF documents, including customer information, loan applications, supporting documents, account-opening forms and addresses.",
-    "img": "https://static.toiimg.com/photo/msid-135103380,imgsize-93322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/sbi-confirms-data-leak-says-4000-customer-records-identified-on-dark-web/articleshow/135103369.cms",
-    "time": "2026-10-22T00:10:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days",
-    "desc": "In a statement carried by state media KCNA, Ms. Kim ​said she was responding to ‌a special adviser to President Lee on defence policy, who accused North Korea of planting mines that wounded South Korean soldiers and told it not ‌to escalate tensions with loudspeaker broadcasts",
-    "img": "https://th-i.thgim.com/public/incoming/1yfq6b/article71609152.ece/alternates/LANDSCAPE_1200/North_Korea_Koreas_Tensions_6_542.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/north-koreas-kim-yo-jong-warns-south-korea-says-border-loudspeakers-to-be-ready-within-days/article71609150.ece",
-    "time": "2026-10-21T22:00:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Captain Iyer says Vaibhav Sooryavanshi must be patient for national opportunities",
-    "desc": "It's important that a talent like him is always happy around the dressing room. And he is very young. He has more years to get opportunities. It's not like he can walk in straight away. Because our openers are also scoring consistently. And they also won the World Cup,\" Iyer said during the press conference ahead of the first T20I in Hagley Oval",
-    "img": "https://th-i.thgim.com/public/incoming/igv1r4/article71608911.ece/alternates/LANDSCAPE_1200/PTI10_17_2026_000380A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/captain-iyer-says-vaibhav-sooryavanshi-must-be-patient-for-national-opportunities/article71608904.ece",
-    "time": "2026-10-21T18:59:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "The broken promise of the right to work",
-    "desc": "The replacement of MGNREGA with the VB-GRAM G Act has weakened the rural right-to-work framework; restoring a meaningful right to work through adequate funding, living wages and stronger local institutions would advance constitutional aims while also supporting rural demand and economic growth",
-    "img": "https://th-i.thgim.com/public/incoming/swndpq/article71412287.ece/alternates/LANDSCAPE_1200/10217_27_2_2023_17_20_15_1_DSC_7195.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/the-broken-promise-of-the-right-to-work/article71410754.ece",
-    "time": "2026-10-21T16:34:36.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Eight web security keys of eMudhra firm used by Govt. and PSUs leaked",
-    "desc": "Many government websites, including the Aadhaar issuer UIDAI and the income tax filing portal, use digital certificates or other technology from the Bengaluru-headquartered firm; no indication that the firm’s root certificates itself — which sit above the tier that was leaked — have been compromised",
-    "img": "https://th-i.thgim.com/public/incoming/dbz818/article71606409.ece/alternates/LANDSCAPE_1200/IMG_BL_-_24_04_2019_-_90_2_1_32AMRDIU.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/eight-web-security-keys-of-firm-used-by-govt-and-psus-leaked/article71606342.ece",
-    "time": "2026-10-21T14:59:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Thota Tharrani retrospective in Chennai brings together six decades of art",
-    "desc": "Featuring around 280 paintings and drawings from 1969 onwards, the exhibition at Lalit Kala Akademi traces six decades of Thota Tharrani’s work across watercolours, oils and acrylics. He likes it best when the gallery is empty.",
-    "img": "https://th-i.thgim.com/public/incoming/lqebus/article71604056.ece/alternates/LANDSCAPE_1200/5.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/art/thota-tharrani-retrospective-in-chennai-brings-together-six-decades-of-art/article71604009.ece",
-    "time": "2026-10-21T11:13:20.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "SBI admits exposure of its customer data on the Dark Web",
-    "desc": "“Impacted customers are the most likely to receive calls from persons posing as SBI officials who can recite their account details back to them” the Internet Freedom Foundation said asking SBI to alert the said customers",
-    "img": "https://th-i.thgim.com/public/incoming/bs1wph/article71592578.ece/alternates/LANDSCAPE_1200/2026-10-08T063954Z_1388351974_RC2YG0ATVYWR_RTRMADP_3_INDIA-EARNINGS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/state-bank-of-india-investigates-exposure-customer-records-dark-web-october-21/article71606599.ece",
-    "time": "2026-10-21T08:51:45.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows",
-    "desc": "U.S. prosecutors allege that the defendant, Abdulrahman Alfozan, 35, was in ​frequent communication ‌with an unnamed member of the Saudi Royal family and that a ‌member of the ​Saudi military paid for a one-way plane ⁠ticket for Mr. Alfozan’s wife and son to return to ‌Saudi Arabia, according to the court document",
-    "img": "https://th-i.thgim.com/public/incoming/v60ojr/article71602975.ece/alternates/LANDSCAPE_1200/2026-10-19T152058Z_1186120503_RC2F2OAHBK9X_RTRMADP_3_OPENAI-SPYING-SAUDI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-court-filing-shows/article71602972.ece",
-    "time": "2026-10-19T15:51:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Turtle Walker’: Zoya Akhtar-backed documentary pays tribute to Satish Bhaskar’s life and legacy",
-    "desc": "The film is a stunning deep dive into the life of turtle conservationist Satish Bhaskar, who walked nearly every inch of India’s coastline to discover the nesting beaches of sea turtles so that they could be protected",
-    "img": "https://th-i.thgim.com/public/life-and-style/ai4fxk/article71599776.ece/alternates/LANDSCAPE_1200/TW_02.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/turtle-walker-zoya-akhtar-taira-malaney-satish-bhaskar-animal-planet-documentary-india-epic-wild-stories/article71599741.ece",
-    "time": "2026-10-19T12:15:15.000Z"
   }
 ];
