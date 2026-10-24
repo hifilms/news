@@ -1,12 +1,174 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Kerala Police indict social media influencer Darren for ‘communally divisive hate speech’ on Instagram",
-    "desc": "Social media influencer Diya Krishna, daughter of BJP leader and NTDFC chairperson G. Krishnan Kumar, says she seconded Darren’s post as a ‘sad reality’ without watching the full video; Darren also criticised UDF govt. for ‘accepting funding from Arab countries to aid promote Islam’ in Keralam",
+    "title": "Kerala Police book social media influencer Darren for ‘communally divisive hate speech’ on Instagram",
+    "desc": "Social media influencer Diya Krishna, daughter of BJP leader and NTDFC chairperson G. Krishnan Kumar, says she seconded Darren’s post as a ‘sad reality’ without watching the full video; Darren also criticised UDF govt. for ‘accepting funding from Arab countries to aid promote Islam’ in Keralam; Satheesan, Pinarayi slam the video",
     "img": "https://th-i.thgim.com/public/incoming/m9qwnp/article71620122.ece/alternates/LANDSCAPE_1200/2019-05-20T161221Z_724302619_RC1582C590C0_RTRMADP_3_USA-TRUMP-INSTAGRAM.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece",
-    "time": "2026-10-24T14:56:26.000Z"
+    "time": "2026-10-24T19:38:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Heavy rain to hit Chennai, northern, delta and western districts on Sunday",
+    "desc": "Isolated places in Theni, Dindigul and Madurai districts are likely to get extremely heavy rainfall and have been issued red alert; Till 8.30 a.m. on Saturday, rainfall occurred at around 80% places over Tamil Nadu",
+    "img": "https://th-i.thgim.com/public/incoming/a1f32b/article71620951.ece/alternates/LANDSCAPE_1200/BVR_8828.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/heavy-rain-to-hit-chennai-northern-delta-and-western-districts-on-sunday/article71620782.ece",
+    "time": "2026-10-24T19:18:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Farooq Abdullah's comments on Pakistan and Kashmir draw flak",
+    "desc": "Farooq urged NC workers and legislators to remain loyal to the party, whether in power or not, as he touched on a range of issues in his speech. “Hold on to the truth. Speaking the truth is not easy, but unless you remain truthful and stand up for what is right, your future will never be secure,” the veteran said.",
+    "img": "https://static.toiimg.com/photo/msid-135177116,imgsize-140014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/farooq-abdullahs-comments-on-pakistan-and-kashmir-draw-flak/articleshow/135176756.cms",
+    "time": "2026-10-24T19:04:45.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran vows ‘apocalyptic war’ if U.S. strikes again",
+    "desc": "Iranian officials have warned in recent days that they would retaliate by targeting Persian Gulf countries in the event of renewed U.S. attacks; in the first and second phases of the war, Iran had retaliated by striking U.S. bases and energy facilities in Gulf kingdoms.",
+    "img": "https://th-i.thgim.com/public/incoming/g9i6fm/article71621250.ece/alternates/LANDSCAPE_1200/APTOPIX_Iran_War_87885.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-warns-of-apocalyptic-war-if-attacked-again/article71620849.ece",
+    "time": "2026-10-24T19:02:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Daughter’s inheritance rights can’t be defeated by limitation: J&amp;K and Ladakh high court",
+    "desc": "The dispute dates back to Sept 14, 1982, when Themu, daughter of late Sonu, filed a civil suit claiming half share in land measuring 58 kanals and 11 marlas left behind by her father. She challenged mutation no. 43 dated Oct 15, 1966, which had been entered exclusively in favour of one Shib Devi and sought declaration of her inheritance rights along with consequential possession.",
+    "img": "https://static.toiimg.com/photo/msid-135177024,imgsize-60023.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/daughters-inheritance-rights-cant-be-defeated-by-limitation-jk-and-ladakh-high-court/articleshow/135176758.cms",
+    "time": "2026-10-24T19:00:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Set to expand cabinet, J&amp;K CM Omar Abdullah asks hopefuls not to ‘mob or spam’ him",
+    "desc": "J&K CM Omar Abdullah advised them against knocking on his doors or that of his father and National Conference president, Dr Farooq Abdullah, to lobby for ministerial positions. After meeting Sinha, Omar told reporters he sought an appointment with him for next week so that he can make changes and expand his council of ministers.",
+    "img": "https://static.toiimg.com/photo/msid-135176936,imgsize-120374.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/set-to-expand-cabinet-omar-asks-hopefuls-not-to-mob-or-spam-him/articleshow/135176761.cms",
+    "time": "2026-10-24T18:57:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Women entrepreneurs urged to focus on attractive, quality packaging at SARAS Mela",
+    "desc": "Interacting with women entrepreneurs, Minister of State for Consumer Affairs, Food and Public Distribution highlights the vision of Prime Minister Narendra Modi in empowering Lakhpati Didis and enabling rural women to become financially independent and self-reliant",
+    "img": "https://th-i.thgim.com/public/incoming/segycd/article71621288.ece/alternates/LANDSCAPE_1200/DSC_7281.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/women-entrepreneurs-urged-to-focus-on-attractive-quality-packaging-at-saras-mela/article71620789.ece",
+    "time": "2026-10-24T18:15:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IDFC First Bank Q2 profit nearly triples to Rs 1,045 crore; loan assets rise 30%",
+    "desc": "In Q2 FY27, IDFC First Bank showcased an impressive profit surge of 196.5 percent year-on-year, reaching Rs 1,045 crore. The bank's robust core operating performance is highlighted by a 21 percent rise in net interest income. Additionally, total loan assets expanded by 30.1 percent, showcasing substantial business growth. With gross non-performing assets reduced to 1.32 percent, management credits this achievement to effective deposit strategies and anticipated liquidity advantages.",
+    "img": "https://static.toiimg.com/photo/msid-135175242,imgsize-92998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/idfc-first-bank-q2-profit-nearly-triples-to-rs-1045-crore-loan-assets-rise-30/articleshow/135175146.cms",
+    "time": "2026-10-24T17:38:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran Speaker to skip BRICS meet, as Iran seeks bilateral air route for ‘humanitarian aid’ from India",
+    "desc": "Iran Air not allowed to fly medicines directly from India to Tehran, due to fear of U.S. sanctions; India says medicines can be taken through a third country; Tehran says humanitarian aid is exempted from sanctions",
+    "img": "https://th-i.thgim.com/public/incoming/wir7cd/article71619994.ece/alternates/LANDSCAPE_1200/2026-06-21T100721Z_7779319_RC2WXLAGFUXI_RTRMADP_3_IRAN-CRISIS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/irans-ghalibaf-will-not-attend-brics-parliamentary-forum-in-delhi-embassy/article71619999.ece",
+    "time": "2026-10-24T17:09:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MHA employing tools of fear, intimidation and threats in Ladakh: Kargil Democratic Alliance",
+    "desc": "If the MHA does not return to the May 22 agenda, we will be forced to hit the streets, agitate and prepare to go to jail for our legitimate demands within the Constitution, says co-chairperson Asgar Karbalai",
+    "img": "https://th-i.thgim.com/public/incoming/f53p4i/article71621209.ece/alternates/LANDSCAPE_1200/TH20-Vijaita-L-GINGMHT9O.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ladakh/mha-employing-tools-of-fear-intimidation-and-threats-in-ladakh-kargil-democratic-alliance/article71620954.ece",
+    "time": "2026-10-24T17:09:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A distant Pacific phenomenon may be drying India’s north, says study",
+    "desc": "Semi-arid areas are expanding in north-west India as oceanic cycle ‘Victoria Mode’ affects flow of moisture; this can dent food supply and cause displacement of people, say scientists from IMD and Indian Institute of Tropical Meteorology",
+    "img": "https://th-i.thgim.com/public/incoming/po6ep8/article71620922.ece/alternates/LANDSCAPE_1200/Water_Shortage_at_Latur_City_Marathwada_Region_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-distant-pacific-phenomenon-may-be-drying-indias-north-says-study/article71620192.ece",
+    "time": "2026-10-24T17:06:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ayushmann-Tahira host Diwali bash: KJo, Sara, Rajkummar, Arjun, more attend celebration",
+    "desc": "With Diwali just around the corner, festive celebrations have taken over the country. From intimate gatherings to grand star-studded parties, people are embracing the festive spirit, and Bollywood celebrities are no exception. Recently, actors Ayushmann Khurrana and Tahira Kashyap hosted a grand Diwali bash for their friends and colleagues from the film industry at their residence in Mumbai.",
+    "img": "https://static.toiimg.com/photo/msid-135174464,imgsize-804614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayushmann-khurrana-and-tahira-kashyap-host-star-studded-diwali-bash-karan-johar-sara-ali-khan-rajkummar-rao-arjun-kapoor-and-more-attend-the-celebration/articleshow/135174126.cms",
+    "time": "2026-10-24T17:00:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taiwan ambassador praises Ranveer's 'Dhurandhar' at Taiwan Film Festival in New Delhi",
+    "desc": "Mumin Chen, representing Taipei Economic and Cultural Centre in India, spoke at the Taiwan Film Festival. He named ‘Dhurandhar’ as the most impressive film he watched last year. Chen highlighted his admiration for actors Aamir Khan and Shah Rukh Khan for their impactful work. Directed by Aditya Dhar, ‘Dhurandhar’ features Ranveer Singh as an Indian spy in Pakistan. The film has achieved significant box office success both domestically and internationally.",
+    "img": "https://static.toiimg.com/photo/msid-135174032,imgsize-714903.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/taiwan-ambassador-mumin-chen-praises-ranveer-singhs-dhurandhar-at-taiwan-film-festival-in-new-delhi-also-calls-aamir-khan-very-impressive-as-an-actor-and-producer/articleshow/135173925.cms",
+    "time": "2026-10-24T16:35:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Helen Mirren fights to save Italy’s 1,500-year-old olive trees from deadly bacteria",
+    "desc": "Helen Mirren, 81, is fighting to save Italy’s ancient olive trees from Xylella fastidiosa, a deadly bacterium that has reportedly destroyed around 22 million trees since 2013. Through her initiative, Save the Olives, the Oscar winner is supporting conservation efforts and developing resistant varieties. “We have to save these trees,” she says.",
+    "img": "https://static.toiimg.com/photo/msid-135173926,imgsize-106349.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/europe/helen-mirren-81-is-on-a-mission-to-save-italys-1500-year-old-olive-trees-deadly-xylella-fastidiosa-bacteria-has-wiped-out-22-million-trees-since-2013-we-have-to-save-these-trees-she-says/articleshow/135173886.cms",
+    "time": "2026-10-24T16:32:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "RG Kar victim's parents question ex-principal Sandip Ghosh's bail; citizens' groups plan CBI office march",
+    "desc": "The parents of the RG Kar victim are expressing their outrage over the bail granted to Sandip Ghosh, insisting that the investigation into their daughter's tragic death must be held accountable. Plans are underway for a protest organized by citizens' groups, pressing the Central Bureau of Investigation for urgent action. Family members and medical professionals alike have raised serious concerns regarding the efficacy and integrity of the ongoing investigation.",
+    "img": "https://static.toiimg.com/photo/msid-135173895,imgsize-85028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rg-kar-victims-parents-question-ex-principal-sandip-ghoshs-bail-citizens-groups-plan-cbi-office-march/articleshow/135173539.cms",
+    "time": "2026-10-24T16:27:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Daler Mehndi’s son breaks silence on Uttarakhand minister row: 'God takes care of the rest'",
+    "desc": "In light of the recent on-stage incident involving Daler Mehndi and Minister Subodh Uniyal, Gurdeep Mehndi took a moment to share his thoughts. During the performance, the minister reprimanded Daler for alleged intoxication and a lack of live singing. Expressing gratitude, Gurdeep urged fans to continue their love and support. Mika Singh also came to Daler's defense, asserting that the claims were baseless.",
+    "img": "https://static.toiimg.com/photo/msid-135173735,imgsize-841027.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/daler-mehndis-son-gurdeep-mehndi-breaks-silence-on-uttarakhand-minister-row-like-papa-says-god-takes-care-of-the-rest/articleshow/135173661.cms",
+    "time": "2026-10-24T16:14:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Act of treason’: BJP slams Farooq Abdullah over claim 'Pakistan is protecting Kashmiris'",
+    "desc": "In recent developments, BJP leaders have taken strong issue with Farooq Abdullah's comments regarding Pakistan's alleged support for Kashmiris. Abdullah, speaking at a workers' gathering, cast doubt on the central government's approach to Jammu and Kashmir, raising questions about India's commitment to justice. In response, BJP representatives charged him with treason, claiming his remarks weaken India's stance on the issue.",
+    "img": "https://static.toiimg.com/photo/msid-135173544,imgsize-140014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/act-of-treason-bjp-slams-farooq-abdullah-over-claim-pakistan-is-protecting-kashmiris/articleshow/135173056.cms",
+    "time": "2026-10-24T15:47:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aaradhya looks taller than Aishwarya, flaunts long locks in new family photos",
+    "desc": "Aaradhya Bachchan grabbed attention in new family photos shared by Shrima Rai from nephew Shivansh Rai’s birthday celebration. The 14-year-old appeared taller than her mother, Aishwarya Rai Bachchan, while her long locks also caught fans’ attention. The pictures offered a glimpse of the intimate gathering attended by Aishwarya, Aaradhya and other Rai family members.",
+    "img": "https://static.toiimg.com/photo/msid-135173194,imgsize-105238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aaradhya-bachchan-looks-taller-than-aishwarya-rai-bachchan-flaunts-long-locks-in-new-family-photos-as-shrima-rai-shares-glimpses-of-nephew-shivanshs-birthday-celebration/articleshow/135173141.cms",
+    "time": "2026-10-24T15:32:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Consolidated net profit jumps 26% to Rs 5,645 crore",
+    "desc": "Kotak Mahindra Bank reported an impressive 26% growth in its consolidated net profit for the September quarter of FY27. Standalone profit surged by 29%, reaching Rs 4,212 crore. The bank's asset quality improved, as evidenced by the notable decrease in gross non-performing assets. Moreover, the net interest income increased by 16%, with a robust capital adequacy ratio of 21.9%. Nevertheless, the net interest margin dipped to 4.",
+    "img": "https://static.toiimg.com/photo/msid-135172863,imgsize-87938.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/kotak-mahindra-bank-q2-results-consolidated-net-profit-jumps-26-to-rs-5645-crore-margins-narrow/articleshow/135172680.cms",
+    "time": "2026-10-24T15:05:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -36,15 +198,6 @@ const newsData_en = [
     "time": "2026-10-24T14:45:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Wild elephant electrocuted in Chittoor district; Pawan Kalyan orders inquiry",
-    "desc": "Incident sparks fresh concerns over the dangers faced by wild animals near agricultural fields; Deputy Chief Minister says strict action should be taken if the wires were found to have been deliberately laid to harm wildlife",
-    "img": "https://th-i.thgim.com/public/incoming/pqhti5/article71620632.ece/alternates/LANDSCAPE_1200/10215_24_10_2026_18_41_25_1_WHATSAPPIMAGE2026_10_24AT63535PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/wild-elephant-electrocuted-in-chittoor-district-pawan-kalyan-orders-inquiry/article71620217.ece",
-    "time": "2026-10-24T14:43:24.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sai Pallavi asks Yash about returning to romantic films; here’s his reply",
     "desc": "During a promotional event, actress Sai Pallavi shared a conversation with actor Yash about his career choices. Yash expressed his desire to focus on bigger films that represent Indian cinema on a global scale. He gained fame through the KGF franchise after starting in romantic Kannada films. The upcoming film Ramayana features a star-studded cast, including Ranbir Kapoor and Ravi Dubey.",
@@ -54,15 +207,6 @@ const newsData_en = [
     "time": "2026-10-24T14:40:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Pinarayi Vijayan steps up attack against Keralam govt. over SMA drug controversy",
-    "desc": "Pinarayi claims the controversy arose from lapses of the Keralam government and its failure to maintain transparency at all levels; he says the government did not adequately address concerns of the parents of SMA-afflicted children",
-    "img": "https://th-i.thgim.com/public/incoming/9qkgrj/article71620636.ece/alternates/LANDSCAPE_1200/CMRL-pay-off-caGBIGMQ7BJ.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-steps-up-attack-against-keralam-govt-over-sma-drug-controversy/article71620527.ece",
-    "time": "2026-10-24T14:38:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Lamine Yamal’s childhood coach recalls driving him to training when his father couldn’t",
     "desc": "Long before Lamine Yamal became a global football sensation, his journey was shaped by childhood coaches who recognised his extraordinary talent and helped him reach training when his father could not. From Inocente Diez’s memorable car rides to Leo Giordanella’s early lessons in teamwork, discover the humble beginnings behind Barcelona’s superstar and the emotional Argentina connection linking his first coach, Lionel Messi and the World Cup final.",
@@ -70,42 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/before-barcelona-fame-lamine-yamals-childhood-coach-identified-him-as-a-one-in-a-million-talent-and-drove-him-to-training-whenever-his-father-couldnt/articleshow/135168882.cms",
     "time": "2026-10-24T14:30:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In the 1980s, Sylvester Stallone sold his Monet for USD 3 million; 12 years later it was offered up for USD 130 million",
-    "desc": "In a candid moment, Sylvester Stallone shared his remorse about parting with Claude Monet's 'Haystacks' for USD 3 million. Having initially acquired the masterpiece for roughly USD 110,000, he later learned it could have been reacquired for an astonishing USD 130 million. Still passionate about art, Stallone maintains a notable collection of contemporary pieces and is keen on investing in vintage luxury watches to diversify his interests.",
-    "img": "https://static.toiimg.com/photo/msid-135168770,imgsize-77079.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-the-1980s-sylvester-stallone-bought-monet-for-usd-110000-and-sold-it-for-usd-3m-years-later-it-made-its-way-back-to-him-now-worth-usd-130-million/articleshow/135168724.cms",
-    "time": "2026-10-24T14:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Telangana government to set up CFC in Gachibowli,  tanneries in Karimnagar to bolster leather industry",
-    "desc": "CFC to extend support in design, product development and branding, the tanneries in Choppadandi mandal of Karimnagar will be eco-friendly and generate 1,000 jobs, says Minister Sridhar Babu after a review meet with TGLIPC officials",
-    "img": "https://th-i.thgim.com/public/news/national/telangana/c7s4qw/article71620189.ece/alternates/LANDSCAPE_1200/24.10.2026%20Sridhar%20Babu.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-government-to-set-up-cfc-in-gachibowli-tanneries-in-karimnagar-to-bolster-leather-industry/article71620193.ece",
-    "time": "2026-10-24T14:27:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu-Keralam meet finalises route plan, safety measures",
-    "desc": "The TDB’s online booking counter will move to Walardie near Vandiperiyar, with pilgrims allowed to use the forest route via Sathram only after health screenings; those with cardiac or serious conditions will be guided to the conventional Pampa route.",
-    "img": "https://th-i.thgim.com/public/incoming/p0udj8/article71620531.ece/alternates/LANDSCAPE_1200/80759_24_10_2026_19_20_17_1_SABARI.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/sabarimala-pilgrimage-tamil-nadu-keralam-meet-finalises-route-plan-safety-measures/article71620418.ece",
-    "time": "2026-10-24T14:26:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Schools can restrict mobile phones, long hair, says Kerala State Commission for Protection of Child Rights",
-    "desc": "Students must follow school rules on hair grooming and called for uniform guidelines. Teachers may check students’ bags to prevent them from carrying harmful items, including intoxicating substances, but must respect their dignity, says the panel",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/schools-can-restrict-mobile-phones-long-hair-says-kerala-state-commission-for-protection-of-child-rights/article71620311.ece",
-    "time": "2026-10-24T14:26:04.000Z"
   },
   {
     "cat": "Sports",
@@ -136,48 +244,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Kanneri Mutt seer to launch Basavadhama Centre of Excellence in 2027",
-    "desc": "Adrushya Kadasiddheshwar Swami of Kanneri Mutt has proposed establishing the Basavadhama Centre of Excellence, an initiative to provide coaching for competitive examinations and career development opportunities for young people. The centre is expected to commence operations by June 2027.",
-    "img": "https://th-i.thgim.com/public/incoming/glxi1x/article71620506.ece/alternates/LANDSCAPE_1200/10258_24_10_2026_19_3_44_2_KLB_BASAVADHAMA_KANNERI_MUTT_1.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/kanneri-mutt-seer-to-launch-basavadhama-centre-of-excellence-in-2027/article71620382.ece",
-    "time": "2026-10-24T14:12:06.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "RML’s 666-bed super speciality block gets fire safety clearance, set to boost critical care",
     "desc": "Dr Ram Manohar Lohia Hospital's new 666-bed super speciality block has successfully secured fire safety clearance, allowing the hospital's capacity to soar past 2,200 beds. This cutting-edge facility will house numerous operation theatres along with specialized units for intensive and high dependency care, focusing on enhancing treatment, particularly in oncology. The timeline for when services will start is still pending.",
     "img": "https://static.toiimg.com/photo/msid-135172041,imgsize-101846.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/rmls-666-bed-super-speciality-block-gets-fire-safety-clearance-set-to-boost-critical-care/articleshow/135171939.cms",
     "time": "2026-10-24T13:58:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Samiti threatens indefinite hunger strike over irregular power supply",
-    "desc": "The Karnataka Rajya Shoshitara Seva Samiti has threatened to launch an indefinite hunger strike in front of the Gulbarga Electricity Supply Company (Gescom) office in Yadgir from October 26, demanding seven hours of uninterrupted power supply daily to agricultural pump sets",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/samiti-threatens-indefinite-hunger-strike-over-irregular-power-supply/article71620100.ece",
-    "time": "2026-10-24T13:58:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Farmers block national highway demanding withdrawal of Warabandhi system",
-    "desc": "Several hundreds of farmers, led by former Minister Narasimha Naik (Raju Gowda), staged a protest at Devapur Cross in Shorapur taluk on Saturday and blocked the Bidar-Srirangapatna National Highway (NH-150A) for hours, demanding the withdrawal of the Warabandhi (rotational water supply) system and the release of water from the Basavasagar Reservoir into canals until the end of November",
-    "img": "https://th-i.thgim.com/public/incoming/tjqfk4/article71620368.ece/alternates/LANDSCAPE_1200/YDRKN_24_10_2026_18_53_9_3_IMG_20261024_WA0090.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/farmers-block-national-highway-demanding-withdrawal-of-warabandhi-system/article71620276.ece",
-    "time": "2026-10-24T13:52:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Current struggle not merely limited to resignation of Gyanesh Kumar, it is also a fight to regain democratic space: CPI(M) MP John Brittas",
-    "desc": "The Union government resorted to more repressive tactics against the second round of protests because the BJP leaders feel that if they buckle once more, it would be a disaster with far reaching consequences, Mr. Brittas said",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/lv0j1z/article71619245.ece/alternates/LANDSCAPE_1200/NH23JohnBrittas004.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/current-struggle-not-merely-limited-to-resignation-gyanesh-kumar-it-is-also-a-fight-to-regain-democratic-space-cpim-mp-john-brittas/article71619246.ece",
-    "time": "2026-10-24T13:48:08.000Z"
   },
   {
     "cat": "Sports",
@@ -298,15 +370,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Since 1988, Stevie Wonder’s former fiancée has lived in his LA space; now he is looking to evict her",
-    "desc": "Stevie Wonder has initiated legal action against Carmen Efferson, who has occupied his Los Angeles estate without paying rent since 1988, following their past relationship. Tensions escalated when Wonder's lawyers sought access for an insurance inspection, which Efferson declined. After providing her with a 30-day eviction notice, Wonder has resorted to further legal measures as she continues to stay on the property.",
-    "img": "https://static.toiimg.com/photo/msid-135168704,imgsize-133393.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/in-1988-woman-started-living-in-stevie-wonders-los-angeles-property-40-years-later-the-woman-still-hasnt-left-and-the-singer-is-now-filing-aawsuit-to-get-her-evicted/articleshow/135168529.cms",
-    "time": "2026-10-24T11:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Actor shares festive montage with family",
     "desc": "Kajol shared a montage from her family’s Durga Puja celebrations at Mumbai’s North Bombay Sarbojanin pandal, calling the festival a blur of “love, family chaos, and bhog.” The clips feature Nysa and Yug serving bhog, mother Tanuja, sister Tanishaa Mukerji, and a tight hug with Jaya Bachchan.",
     "img": "https://static.toiimg.com/photo/msid-135169208,imgsize-203808.cms",
@@ -351,24 +414,6 @@ const newsData_en = [
     "time": "2026-10-24T10:57:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Manoj says nameless trolls hurt him",
-    "desc": "Manoj Bajpayee says he has a thick skin, but was offended when trolls dragged his wife and daughter into the row over his film’s earlier title, Ghooskhor Pandat. He said he felt helpless as the abusers were “nameless.” Retitled Gajab Raat, the film premiered on Netflix on October 23.",
-    "img": "https://static.toiimg.com/photo/msid-135168736,imgsize-239951.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-could-i-confront-manoj-bajpayee-on-trolls-targeting-his-family-over-ghooskhor-pandat-row/articleshow/135168680.cms",
-    "time": "2026-10-24T10:55:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajinikanth watches ‘Jailer 2’ with fans in theatre after 40 years",
-    "desc": "Rajinikanth enjoyed a special moment by watching 'Jailer 2' with fans at a Chennai theatre. He celebrated the film's success after its release on October 15 and this was his first such experience in four decades. Directed by Nelson Dilipkumar, the film continues the story of Tiger Muthuvel Pandian facing new threats. The film achieved significant box office success, grossing over Rs 628 crore worldwide.",
-    "img": "https://static.toiimg.com/photo/msid-135168626,imgsize-85346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-watches-jailer-2-with-fans-in-theatre-for-first-time-in-40-years-anirudh-ravichander-welcomes-superstar/articleshow/135168496.cms",
-    "time": "2026-10-24T10:50:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pollard doesn't want to see 'yellows and reds', urges MI to put 'team above self'",
     "desc": "Pollard, who was Mumbai Indians' batting coach for the last four IPL seasons, takes over from Mahela Jayawardene, who parted ways with the franchise last week. The former West Indies all-rounder has been associated with MI since IPL 2010, when he was signed as a player.",
@@ -376,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/kieron-pollard-doesnt-want-to-see-yellows-and-reds-at-wankhede-in-ipl-urges-mi-players-to-put-team-above-self/articleshow/135168237.cms",
     "time": "2026-10-24T10:45:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘No hesitation in detaining youth’: Congress targets government over US national VanDyke’s release in Myanmar arms case",
-    "desc": "Congress has raised concerns over the release of US national Matthew VanDyke, who is accused of terrorism. VanDyke was permitted to return home while protests against electoral irregularities continue. The National Investigation Agency is still investigating the Myanmar arms training case involving VanDyke and six Ukrainian nationals. The Congress leader criticized the government's approach to detaining Indian youth activists.",
-    "img": "https://static.toiimg.com/photo/msid-135167814,imgsize-1596852.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-hesitation-in-detaining-youth-congress-targets-government-over-us-national-vandykes-release-in-myanmar-arms-case/articleshow/135166874.cms",
-    "time": "2026-10-24T10:13:28.000Z"
   },
   {
     "cat": "Sports",
@@ -396,31 +432,13 @@ const newsData_en = [
     "time": "2026-10-24T10:11:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Indian Physicist honoured with 2026 Oskar Klein Medal for string theory work",
-    "desc": "Ashoke Sen, a distinguished physicist from ICTS, is honored with the prestigious 2026 Oskar Klein Medal, celebrating his groundbreaking work in modern string theory and its far-reaching effects. In a captivating lecture in Stockholm, he explored the complexities of gravity and black holes while shedding light on string theory's promise.",
-    "img": "https://static.toiimg.com/photo/msid-135167390,imgsize-89488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ashoke-sen-indian-physicist-honoured-with-2026-oskar-klein-medal-for-string-theory-work/articleshow/135167035.cms",
-    "time": "2026-10-24T09:50:04.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "'Udta Teer' box office Day 2 [LIVE]: Ayushmann starrer set to cross Rs 10 cr net today",
+    "title": "'Udta Teer' box office Day 2: Ayushmann 's film crosses Rs 15 cr worldwide",
     "desc": "Ayushmann Khurrana and Sara Ali Khan's latest film, 'Udta Teer,' hit theaters on October 23, 2026. Although the film received a mix of reviews, with some applauding its creativity while others criticized its execution, box office results reflect modest success. It opened with Rs 4.10 crore, followed by Rs 1.55 crore on day two, bringing the total to Rs 6.66 crore.",
     "img": "https://static.toiimg.com/photo/msid-135167135,imgsize-657554.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/udta-teer-box-office-collection-day-2-live-ayushmann-khurrana-and-sara-ali-khan-starrer-is-set-to-cross-rs-10-crore-net-today/articleshow/135167054.cms",
     "time": "2026-10-24T09:32:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Players exit before US anthem; league yet to respond",
-    "desc": "The WNBA Finals have sparked a political controversy after Atlanta Dream and Golden State Valkyries players left the court during the US national anthem before their first three games. President Donald Trump has urged fans to boycott women’s basketball, while Vice President JD Vance criticised the move. With Game 4 approaching, the teams and league have yet to publicly address the backlash.",
-    "img": "https://static.toiimg.com/photo/msid-135167009,imgsize-84686.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/trump-calls-for-wnba-boycott-over-anthem-walkouts-warning-teams-they-will-destroy-themselves/articleshow/135165773.cms",
-    "time": "2026-10-24T09:25:03.000Z"
   },
   {
     "cat": "Sports",
@@ -439,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tilak-varma-breaks-world-record-during-india-vs-new-zealand-2nd-t20i/articleshow/135165617.cms",
     "time": "2026-10-24T08:07:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Naqvi-led PCB plans new Hong Kong Sixes-style tournament to expand cricket's reach",
-    "desc": "The PCB is exploring plans to launch PSL Sixes, a six-a-side tournament during the Pakistan Super League off-season. CEO Salman Naseer said the proposal aims to entertain fans and bring cricket to smaller cities. Unlike the international Hong Kong Sixes, it may feature franchise-based teams. Meanwhile, Pakistan’s over-50s team has reportedly been denied permission to compete in India next year.",
-    "img": "https://static.toiimg.com/photo/msid-135165279,imgsize-71465.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mohsin-naqvi-led-pcb-plans-new-hong-kong-sixes-style-tournament-to-expand-crickets-reach/articleshow/135164830.cms",
-    "time": "2026-10-24T07:42:31.000Z"
   },
   {
     "cat": "Sports",
@@ -475,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-2nd-t20i-vaibhav-sooryavanshi-in-playing-xi-but-theres-a-twist/articleshow/135164552.cms",
     "time": "2026-10-24T07:02:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australian umpire's Ranji sojourn: Planes overhead at Palam, BKC's red soil pitch",
-    "desc": "Australian umpire Ben Treloar is experiencing Indian domestic cricket for the first time as part of the BCCI-Cricket Australia exchange programme. From aeroplanes flying overhead at Delhi's Palam ground to Mumbai's red-soil pitch at BKC, the 44-year-old shares his impressions of Indian first-class cricket, the warmth of its people and his growing love for local cuisine, including garlic naan and vada pav.",
-    "img": "https://static.toiimg.com/photo/msid-135164486,imgsize-126629.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australian-umpires-ranji-trophy-sojourn-aeroplanes-overhead-at-palam-bkcs-red-soil-pitch-love-for-garlic-naan-and-vada-pav/articleshow/135164369.cms",
-    "time": "2026-10-24T06:59:02.000Z"
   },
   {
     "cat": "Business",
@@ -693,24 +693,6 @@ const newsData_en = [
     "time": "2026-10-23T12:43:00.000Z"
   },
   {
-    "cat": "World",
-    "title": "Tibet earthquake updates",
-    "desc": "Search and rescue efforts continued following the collapse of at least 339 homes, the Nagqu media office said, citing city government officials. Among the injured, 11 people were in serious condition, and the other 21 sustained minor injuries, the media office said",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/70-magnitude-earthquake-hit-chinas-tibet-region-killing-many/article71613335.ece",
-    "time": "2026-10-23T07:02:34.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "What is Romanch’s Law? New York City’s historic horse carriage ban after Indian tourist’s death",
-    "desc": "The New York City Council voted to pass Romanch’s Law, a landmark measure that bans horse-drawn carriages from city streets and Central Park by June 1, 2028, in a move championed by Mayor Mamdani after an Indian tourist died following a carriage accident in Central Park",
-    "img": "https://th-i.thgim.com/public/incoming/h4t2cm/article71585394.ece/alternates/LANDSCAPE_1200/NYC_Horse_Carriages_53311.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/what-is-romanchs-law-new-york-city-historic-horse-carriage-ban-explained/article71614635.ece",
-    "time": "2026-10-23T06:55:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Record growth, rising risks: What’s really driving India’s core industries?",
     "desc": "India’s core industrial sectors recorded a series-high growth rate of 7.9% in September, driven by strong performances in coal, electricity, steel and refinery products. While the data points to a welcome industrial uptick, concerns remain about how sustainable the momentum will be. Much of the growth appears linked to temporary factors such as increased power demand during the heat wave and higher refining activity driven by imported oil. With global crude prices rising, foreign exchange pressures mounting and infrastructure spending continuing to shoulder much of the growth burden, economists are questioning whether the current surge can be sustained in the coming months.",
@@ -745,15 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/sebi-cautions-investors-against-fraudulent-stock-tip-whatsapp-groups/article71613503.ece",
     "time": "2026-10-22T23:14:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PHP security flaws trigger global scramble; CERT-In flags vulnerabilities",
-    "desc": "Google Cloud executives Chris Betz, chief information security officer, and Raluca Ada Popa, head of Gemini Security at Google DeepMind, said PHP and cybersecurity firm Wiz Research disclosed the two vulnerabilities after research that used multiple AI models to identify and help remediate them. Google Cloud said its own infrastructure was not vulnerable, but warned that customers running PHP applications on the platform could be exposed",
-    "img": "https://static.toiimg.com/photo/msid-135128859,imgsize-90764.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/php-security-flaws-trigger-global-scramble/articleshow/135127762.cms",
-    "time": "2026-10-22T22:17:02.000Z"
   },
   {
     "cat": "Business",
@@ -855,15 +828,6 @@ const newsData_en = [
     "time": "2026-10-22T16:08:41.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India-UK Social Security Agreement: DCC limits double contributions; five-year rule explained",
-    "desc": "Historically, the two countries did not have a bilateral social security agreement as against the other European countries with whom India has a Social Security Agreement (SSA) i.e. Belgium, Germany, France, Switzerland, the Netherlands, Denmark, Finland, Luxembourg, Portugal and Sweden. Against this backdrop, social security became an important part of the broader India-UK economic trade discussions.",
-    "img": "https://static.toiimg.com/photo/msid-135108055,imgsize-654881.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/explained-what-double-contributions-convention-means-for-social-security-benefits-of-indians-working-in-uk/articleshow/135086753.cms",
-    "time": "2026-10-22T11:33:43.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Queer voices find expression in a new documentary",
     "desc": "What does it mean to tell your story in your own voice? Catch the screening of Quiet Reckoning, a documentary that brings the lives and experiences of people from the LGBTQ+ community to the forefront",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/art/thota-tharrani-retrospective-in-chennai-brings-together-six-decades-of-art/article71604009.ece",
     "time": "2026-10-21T11:13:20.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "SBI admits exposure of its customer data on the Dark Web",
+    "desc": "“Impacted customers are the most likely to receive calls from persons posing as SBI officials who can recite their account details back to them” the Internet Freedom Foundation said asking SBI to alert the said customers",
+    "img": "https://th-i.thgim.com/public/incoming/bs1wph/article71592578.ece/alternates/LANDSCAPE_1200/2026-10-08T063954Z_1388351974_RC2YG0ATVYWR_RTRMADP_3_INDIA-EARNINGS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/state-bank-of-india-investigates-exposure-customer-records-dark-web-october-21/article71606599.ece",
+    "time": "2026-10-21T08:51:45.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows",
+    "desc": "U.S. prosecutors allege that the defendant, Abdulrahman Alfozan, 35, was in ​frequent communication ‌with an unnamed member of the Saudi Royal family and that a ‌member of the ​Saudi military paid for a one-way plane ⁠ticket for Mr. Alfozan’s wife and son to return to ‌Saudi Arabia, according to the court document",
+    "img": "https://th-i.thgim.com/public/incoming/v60ojr/article71602975.ece/alternates/LANDSCAPE_1200/2026-10-19T152058Z_1186120503_RC2F2OAHBK9X_RTRMADP_3_OPENAI-SPYING-SAUDI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-court-filing-shows/article71602972.ece",
+    "time": "2026-10-19T15:51:27.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "China considers new export curbs on solar, AI, biotech",
+    "desc": "The draft plan, “Announcement No. 48”, proposes a complete export ban on 14 technologies and restrictions on 26 more, including next-generation solar technologies that could affect countries such as India seeking to reduce dependence on China",
+    "img": "https://th-i.thgim.com/public/news/national/uzyxwz/article71591945.ece/alternates/LANDSCAPE_1200/2026-06-08T083940Z_683439900_RC2GPLAIKHDA_RTRMADP_3_NORTHKOREA-CHINA.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/china-considers-new-export-curbs-on-solar-ai-biotech/article71591880.ece",
+    "time": "2026-10-18T02:57:39.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Indian, German firms to collaborate on immunoglobulin products: Indian Embassy",
+    "desc": "The Indian mission facilitated the exchange of a non-disclosure agreement (NDA) between Germany's Neovii Biotech GmbH and India's VINS Bioproducts Ltd. on the sidelines of the Indo-German Health Leadership Dialogue on October 13, says Embassy of India in Berlin",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/indian-german-firms-to-collaborate-on-immunoglobulin-products-indian-embassy/article71591495.ece",
+    "time": "2026-10-18T00:30:50.000Z"
   }
 ];

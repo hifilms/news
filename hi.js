@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Afghanistan overtake England in ICC ODI rankings, reclaim their all-time high position",
+    "desc": "Afghanistan have overtaken England in the latest ICC Men's ODI team rankings, the Afghanistan team has climbed to seventh position after defeating Zimbabwe in the tri-series final. This is Afghanistan's all-time highest ranking first achieved...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-overtake-england-in-icc-odi-rankings-reclaim-their-all-time-high-position-2026-10-24-1057838",
+    "time": "2026-10-24T17:49:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan announce Test squad for Sri Lanka series; Salman Agha returns, Mohammad Rizwan dropped",
     "desc": "Former captain Salman Ali Agha and Ali Usman have returned to Pakistan squad for the upcoming two-match series against Sri Lanka. Three uncapped cricketers have also earned their maiden call-ups, while Mohammad Rizwan and Imam-ul-Haq...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-among-5-batters-score-ducks-jaiswal-dhruv-flop-too-as-india-a-bundled-for-113-in-first-innings-2026-10-24-1057795",
     "time": "2026-10-24T07:43:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Ishan Kishan not playing in India's 2nd T20I vs New Zealand in Christchurch?",
-    "desc": "India and New Zealand take on each other in the second T20I of the ongoing series between them. The teams meet at Hagley Oval in Christchurch for the game, and both teams will look to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ishan-kishan-not-playing-in-india-s-2nd-t20i-vs-new-zealand-in-christchurch-2026-10-24-1057792",
-    "time": "2026-10-24T07:07:55.000Z"
   }
 ];
