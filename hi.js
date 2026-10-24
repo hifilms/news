@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Smriti Mandhana opens up as India women get off to stellar start to ODI series against Zimbabwe",
+    "desc": "The Indian women’s team got off to a brilliant start to the ongoing ODI series against Zimbabwe women. The two sides met at the Kotambi Stadium, Vadodara, on October 23rd, and India came out on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-opens-up-as-india-women-get-off-to-stellar-start-to-odi-series-against-zimbabwe-2026-10-24-1057777",
+    "time": "2026-10-24T03:03:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs New Zealand, 2nd T20I Pitch Report, how will surface in Christchurch play?",
+    "desc": "India and New Zealand are all set to continue their ongoing series against each other. The two sides are slated to meet each other in the second T20I of the series at the Hagley Oval...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-2nd-t20i-pitch-report-how-will-surface-in-christchurch-play-2026-10-24-1057772",
+    "time": "2026-10-24T01:45:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pratika Rawal smashes century, Shree Charani claims four as India beat Zimbabwe to take a 1- 0 series lead",
     "desc": "Pratika Rawal struck an unbeaten century and India's bowlers delivered a disciplined performance as the hosts defeated Zimbabwe by nine wickets in the first ODI at Kotambi Stadium in Vadodara. India completed the chase of 198...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/icc-revises-olympic-cricket-qualification-rules-confirms-t20-world-cup-2028-2030-window-2026-10-23-1057738",
     "time": "2026-10-23T11:14:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Jintimani Kalita? 22-year-old Assam cricketer makes India debut vs Zimbabwe",
-    "desc": "India have handed a debut cap to youngster Jintimani Kalita in the first ODI against Zimbabwe in Vadodara. Former captain Harmanpreet Kaur handed the cap to the 22-year-old right-arm medium-fast bowler, who hails from Assam. Now,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-jintimani-kalita-22-year-old-assam-cricketer-makes-india-debut-vs-zimbabwe-2026-10-23-1057734",
-    "time": "2026-10-23T10:31:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'He is too young': Sitanshu Kotak opens up on chatter around Vaibhav Sooryavanshi ahead of second NZ T20I",
-    "desc": "The stage is set for the second T20I of the ongoing multi-format series between India and New Zealand. The two sides are slated to take on each other at the Hagley Oval in Christchurch on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/he-is-too-young-sitanshu-kotak-opens-up-on-chatter-around-vaibhav-sooryavanshi-ahead-of-second-nz-t20i-2026-10-23-1057726",
-    "time": "2026-10-23T09:31:15.000Z"
   }
 ];
