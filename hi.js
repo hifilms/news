@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan announce Test squad for Sri Lanka series; Salman Agha returns, Mohammad Rizwan dropped",
+    "desc": "Former captain Salman Ali Agha and Ali Usman have returned to Pakistan squad for the upcoming two-match series against Sri Lanka. Three uncapped cricketers have also earned their maiden call-ups, while Mohammad Rizwan and Imam-ul-Haq...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announce-test-squad-for-sri-lanka-series-salman-agha-returns-mohammad-rizwan-dropped-2026-10-24-1057829",
+    "time": "2026-10-24T14:53:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma becomes first Indian opener to achieve major feat in T20I cricket",
+    "desc": "Abhishek Sharma created history by becoming the first Indian cricketer to score 1000 or more T20I runs in a single calendar year. Overall, he is the third Indian player after Suryakumar Yadav and Ishan Kishan,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-becomes-first-indian-opener-to-achieve-major-feat-in-t20i-cricket-2026-10-24-1057825",
+    "time": "2026-10-24T13:56:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arshdeep Singh creates history, breaks Bhuvneshwar Kumar's record in second T20I vs New Zealand",
+    "desc": "Arshdeep Singh surpassed Bhuvneshwar Kumar to become the Indian cricketer with the most T20I wickets in a single calendar year. He achieved the feat in India’s second T20I against New Zealand at Hagley Oval in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-creates-history-breaks-bhuvneshwar-kumar-s-record-in-second-t20i-vs-new-zealand-2026-10-24-1057819",
+    "time": "2026-10-24T12:30:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PV Sindhu beats Japan's Hina Akechi in three-game battle to reach French Open final",
+    "desc": "PV Sindhu booked her place in the French Open final on Saturday after overcoming Japan’s Hina Akechi in a gruelling three-game semifinal. The two-time Olympic medallist prevailed 21-10, 20-22, 21-16 in a contest lasting one...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pv-sindhu-beats-japan-s-hina-akechi-in-three-game-battle-to-reach-french-open-final-2026-10-24-1057813",
+    "time": "2026-10-24T11:33:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tilak Varma's blitzkrieg helps India snatch victory from New Zealand's hands, beat them by four wickets",
+    "desc": "New Zealand looked to have bounced back in the second T20I at the Hagley Oval in Christchurch, but India kept it late as a dramatic knock from Tilak Varma helped India chase 181 runs in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-s-blitzkrieg-helps-india-snatch-victory-from-new-zealand-s-hands-beat-them-by-four-wickets-2026-10-24-1057810",
+    "time": "2026-10-24T10:49:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Sooryavanshi flops on India return, Sanju Samson fails to make impact as well",
     "desc": "Chasing 181 runs in the second T20I at Hagley Oval in Christchurch, India lost two early wickets of Sanju Samson and Vaibhav Sooryavanshi. The conditions weren’t ideal for batters, particularly against the new ball, and...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-ishan-kishan-not-playing-in-india-s-2nd-t20i-vs-new-zealand-in-christchurch-2026-10-24-1057792",
     "time": "2026-10-24T07:07:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India in trouble, losing wickets at quick intervals in Chirstchurch",
-    "desc": "India and New Zealand are all set to take on each other in the second of five T20Is. The two teams meet at Hagley Oval in Christchurch for the clash, and both sides will look...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-2nd-t20i-live-score-india-look-to-extend-lead-against-black-caps-in-christchurch-1057789",
-    "time": "2026-10-24T06:16:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Kuldeep Yadav get a chance in India's playing XI ahead of second NZ T20I? Former cricketer opines",
-    "desc": "India and New Zealand are all set to take on each other in the second T20I of the ongoing series between the two sides. The teams are slated to meet at Hagley Oval in Christchurch...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/can-kuldeep-yadav-get-a-chance-in-india-s-playing-xi-ahead-of-second-nz-t20i-former-cricketer-opines-2026-10-24-1057787",
-    "time": "2026-10-24T06:01:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mumbai Indians name Kieron Pollard as head coach ahead of IPL 2027",
-    "desc": "In a major development, five-time IPL (Indian Premier League) champions Mumbai Indians took centre stage and announced former West Indies international cricketer Kieron Pollard as their new head coach ahead of the upcoming IPL 2027...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-name-kieron-pollard-as-head-coach-ahead-of-ipl-2027-2026-10-24-1057784",
-    "time": "2026-10-24T05:33:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer on the verge of breaking Rohit Sharma's elite record ahead of second NZ T20I",
-    "desc": "The stage is set for the second T20I of the ongoing multi-format series between India and New Zealand. The two sides will meet at Hagley Oval in Christchurch for the clash on October 24th. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-on-the-verge-of-breaking-rohit-sharma-s-elite-record-ahead-of-second-nz-t20i-2026-10-24-1057779",
-    "time": "2026-10-24T03:55:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana opens up as India women get off to stellar start to ODI series against Zimbabwe",
-    "desc": "The Indian women’s team got off to a brilliant start to the ongoing ODI series against Zimbabwe women. The two sides met at the Kotambi Stadium, Vadodara, on October 23rd, and India came out on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-opens-up-as-india-women-get-off-to-stellar-start-to-odi-series-against-zimbabwe-2026-10-24-1057777",
-    "time": "2026-10-24T03:03:43.000Z"
   }
 ];
