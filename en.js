@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘Ramayana’: Early review of Ranbir Kapoor starrer goes VIRAL",
+    "desc": "Part 1’ is set to premiere on November 5, 2026, featuring Ranbir Kapoor and Yash in key roles. Early reviews indicated that the film includes emotional storytelling and impressive visual effects. The English version is reportedly shorter than the Hindi version, adding to viewer intrigue. Comparisons to other blockbuster films like ‘RRR’ and ‘The Lord of the Rings’ have emerged, fueling online discussion.",
+    "img": "https://static.toiimg.com/photo/msid-135179001,imgsize-436341.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-early-review-of-ranbir-kapoor-and-yash-starrer-goes-viral-film-earns-praise-for-emotional-story-and-stunning-visuals/articleshow/135177820.cms",
+    "time": "2026-10-24T22:16:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Suspicious pigeon with coded ring, Pak currency causes a flutter in Jammu",
+    "desc": "An official pointed out that such episodes are not uncommon in border areas of J&K and Punjab, where pigeons have been used for smuggling or for sending messages across the frontier. On Saturday, the pigeon was found near a temple in Samba’s border area of Mawa around 6.40am and was immediately captured by locals after they spotted a ring tied to its leg.",
+    "img": "https://static.toiimg.com/photo/msid-135176811,imgsize-155804.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/suspicious-pigeon-with-coded-ring-pak-currency-causes-a-flutter-in-jammu/articleshow/135176763.cms",
+    "time": "2026-10-24T22:09:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Danielle recalls Dolly Parton's reaction to stage zero cancer diagnosis",
+    "desc": "Dolly Parton’s niece Danielle Parton has revealed she is battling stage zero cancer, saying she caught it early. She told her aunt about her diagnosis weeks before the singer’s death at 80. Danielle recalled Dolly being “devastated” by the news and said her aunt often worried about others before revealing her own health struggles.",
+    "img": "https://static.toiimg.com/photo/msid-135177786,imgsize-69626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-partons-niece-danielle-parton-reveals-stage-zero-cancer-diagnosis-says-late-aunt-was-devastated-after-learning-about-her-health-battle-weeks-before-her-death-at-80/articleshow/135177781.cms",
+    "time": "2026-10-24T20:55:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Counter rail ticket buyers get insurance option",
+    "desc": "The scheme has provision for payment of Rs 7.5 lakh for permanent partial disability and up to Rs 2 lakh for hospitalisation expenses arising from injuries, as well as Rs 10,000 towards transportation of mortal remains of deceased passengers. The Railway Board has directed all its zones to implement the facility.",
+    "img": "https://static.toiimg.com/photo/msid-135177758,imgsize-184456.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rs-10-lakh-cover-for-45-paise-counter-rail-ticket-buyers-get-insurance-option/articleshow/135177585.cms",
+    "time": "2026-10-24T20:44:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBI files FIR against IL&amp;FS Energy, top execs in Rs 212cr Canara Bank loan fraud case",
+    "desc": "CBI has named M/s IL&FS Energy Development Company Ltd, its MD and directors — Sunil Wadhwa, Anoop Seth, Hari Sankaran, Ramesh Chandra Bawa and Arun Kumar Saha — and unknown public servants and private individuals as accused. The case was registered on Oct 21 following a complaint by Canara Bank’s circle office in Bandra.",
+    "img": "https://static.toiimg.com/photo/msid-135177742,imgsize-95086.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cbi-files-fir-against-ilfs-energy-top-execs-in-rs-212cr-canara-bank-loan-fraud-case/articleshow/135177586.cms",
+    "time": "2026-10-24T20:37:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED moves Supreme Court against HC order to quash case against portal, founder",
+    "desc": "The directorate, which filed an appeal almost five months after the HC pronounced the order on May 29, also took the ground that the HC passed the order five months and 26 days after the judgement was reserved and it was in violation of SC’s guidelines that the verdict should be delivered within three months.",
+    "img": "https://static.toiimg.com/photo/msid-135177711,imgsize-148868.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ed-moves-supreme-court-against-hc-order-to-quash-case-against-portal-founder/articleshow/135177481.cms",
+    "time": "2026-10-24T20:23:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Defer Nov 1 rally, will hit festive business, traders urge Rahul; BJP raps Congress",
+    "desc": "CTI chairman Brijesh Goyal said Delhi records Rs 25,000 crore in business on Dhanteras across major sectors. CTI claimed that traders suffered losses of Rs 3,000 crore in Oct due to rallies and road closures in Connaught Place, India Gate and central Delhi. BJP claimed some Congress allies have disagreed with Rahul Gandhi’s decision to hold the rally on Nov 1.",
+    "img": "https://static.toiimg.com/photo/msid-135177705,imgsize-57824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/defer-nov-1-rally-will-hit-festive-business-traders-urge-rahul-bjp-raps-congress/articleshow/135177587.cms",
+    "time": "2026-10-24T20:19:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Interview",
+    "desc": "\"BJP has no strong footing in Punjab and has survived on the back of SAD support. But SAD has also split and is facing internal issues. It is not the force like they were under Badal Senior. It will be a bipolar contest over who can lead Punjab better. There will be other players like Amritpal Singh’s party, but people of Punjab don’t give a fractured mandate,\" Sachin Pilot said.",
+    "img": "https://static.toiimg.com/photo/msid-135177685,imgsize-174090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/interview-aap-had-4-5-years-to-end-drug-menace-gangsterism-in-punjab-sachin-pilot/articleshow/135177589.cms",
+    "time": "2026-10-24T20:12:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court",
+    "desc": "A bench of Justices Dipankar Datta and Sheel Nagu quashed the Karnataka HC order which had held that “right given to the voter is only to file an election petition, and not to register a private complaint of crime which is the duty of the Election Commission, if it wants to do so”.",
+    "img": "https://static.toiimg.com/photo/msid-135177669,imgsize-136290.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-ec-nod-needed-for-voter-to-sue-candidate-over-false-information-supreme-court/articleshow/135177591.cms",
+    "time": "2026-10-24T20:03:20.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Kerala Police book social media influencer Darren for ‘communally divisive hate speech’ on Instagram",
     "desc": "Social media influencer Diya Krishna, daughter of BJP leader and NTDFC chairperson G. Krishnan Kumar, says she seconded Darren’s post as a ‘sad reality’ without watching the full video; Darren also criticised UDF govt. for ‘accepting funding from Arab countries to aid promote Islam’ in Keralam; Satheesan, Pinarayi slam the video",
@@ -243,15 +324,6 @@ const newsData_en = [
     "time": "2026-10-24T14:13:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "RML’s 666-bed super speciality block gets fire safety clearance, set to boost critical care",
-    "desc": "Dr Ram Manohar Lohia Hospital's new 666-bed super speciality block has successfully secured fire safety clearance, allowing the hospital's capacity to soar past 2,200 beds. This cutting-edge facility will house numerous operation theatres along with specialized units for intensive and high dependency care, focusing on enhancing treatment, particularly in oncology. The timeline for when services will start is still pending.",
-    "img": "https://static.toiimg.com/photo/msid-135172041,imgsize-101846.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rmls-666-bed-super-speciality-block-gets-fire-safety-clearance-set-to-boost-critical-care/articleshow/135171939.cms",
-    "time": "2026-10-24T13:58:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections",
     "desc": "‘Well you know I was elected by 211 member associations from all over the world, I think what is important is that in an organization like FIFA, there can be different views, different points of view,’ said Gianni Infantino",
@@ -268,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-on-tiger-shroff-firing-case-arrests-capturing-the-shooters-is-neither-the-polices-gain-nor-the-underworlds-loss-people-who-assign-the-job-are-the-architects/articleshow/135171691.cms",
     "time": "2026-10-24T13:37:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Railways extends insurance to counter tickets from October 27",
-    "desc": "Starting October 27, Indian Railways will provide travelers the option to include an Optional Travel Insurance Scheme with their reservation ticket purchases. For a nominal fee of just 45 paise, passengers gain crucial coverage for accident-related incidents. The insurance offers various payout options tailored to medical and logistical emergencies. Reservation staff will be responsible for informing ticket buyers about this crucial add-on before finalizing bookings.",
-    "img": "https://static.toiimg.com/photo/msid-135171751,imgsize-233184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/45-paise-for-rs-10-lakh-cover-railways-extends-insurance-to-counter-tickets-from-october-27/articleshow/135171650.cms",
-    "time": "2026-10-24T13:35:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -369,15 +432,6 @@ const newsData_en = [
     "time": "2026-10-24T11:48:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Actor shares festive montage with family",
-    "desc": "Kajol shared a montage from her family’s Durga Puja celebrations at Mumbai’s North Bombay Sarbojanin pandal, calling the festival a blur of “love, family chaos, and bhog.” The clips feature Nysa and Yug serving bhog, mother Tanuja, sister Tanishaa Mukerji, and a tight hug with Jaya Bachchan.",
-    "img": "https://static.toiimg.com/photo/msid-135169208,imgsize-203808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/love-family-chaos-and-bhog-kajol-shares-glimpses-of-her-durga-puja-celebrations-with-jaya-bachchan-mom-tanuja-kids-nysa-and-yug-devgn-video/articleshow/135169176.cms",
-    "time": "2026-10-24T11:14:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Arshdeep Singh scripts history, breaks Bhuvneshwar’s record to set new India mark",
     "desc": "Arshdeep Singh achieved a significant milestone by becoming India's leading wicket-taker in T20Is in a calendar year, taking his tally to 38 wickets in 2026 to surpass Bhuvneshwar Kumar's previous record of 37. In the second T20I against New Zealand, Arshdeep dismissed Tim Seifert early and later claimed the crucial wicket of Glenn Phillips. Despite India's struggles during the chase, Tilak Varma's unbeaten 51 kept the visitors in contention. Arshdeep's consistent performances further underline his importance to India's bowling attack in the shortest format.",
@@ -394,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/2nd-t20i-tilak-varma-nitish-kumar-reddy-rescue-india-from-112/6-to-seal-a-thrilling-4-wicket-win-against-new-zealand/articleshow/135168697.cms",
     "time": "2026-10-24T11:04:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nurse identifies Mohammed Shariful in court",
-    "desc": "The court has initiated the trial against Mohammed Shariful, alleged to have assaulted actor Saif Ali Khan. A nurse who was present during the robbery attempt identified him as the assailant, stating he threatened her with a blade while demanding money. Saif intervened, sustaining injuries before Shariful fled. The court dismissed Shariful's plea for a guilty admission, and proceedings are ongoing.",
-    "img": "https://static.toiimg.com/photo/msid-135168855,imgsize-391790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-attack-case-nurse-identifies-mohammed-shariful-in-court-says-intruder-demanded-rs-1-crore/articleshow/135168717.cms",
-    "time": "2026-10-24T11:02:52.000Z"
   },
   {
     "cat": "Sports",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/eight-web-security-keys-of-firm-used-by-govt-and-psus-leaked/article71606342.ece",
     "time": "2026-10-21T14:59:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Thota Tharrani retrospective in Chennai brings together six decades of art",
-    "desc": "Featuring around 280 paintings and drawings from 1969 onwards, the exhibition at Lalit Kala Akademi traces six decades of Thota Tharrani’s work across watercolours, oils and acrylics. He likes it best when the gallery is empty.",
-    "img": "https://th-i.thgim.com/public/incoming/lqebus/article71604056.ece/alternates/LANDSCAPE_1200/5.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/art/thota-tharrani-retrospective-in-chennai-brings-together-six-decades-of-art/article71604009.ece",
-    "time": "2026-10-21T11:13:20.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "SBI admits exposure of its customer data on the Dark Web",
-    "desc": "“Impacted customers are the most likely to receive calls from persons posing as SBI officials who can recite their account details back to them” the Internet Freedom Foundation said asking SBI to alert the said customers",
-    "img": "https://th-i.thgim.com/public/incoming/bs1wph/article71592578.ece/alternates/LANDSCAPE_1200/2026-10-08T063954Z_1388351974_RC2YG0ATVYWR_RTRMADP_3_INDIA-EARNINGS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/state-bank-of-india-investigates-exposure-customer-records-dark-web-october-21/article71606599.ece",
-    "time": "2026-10-21T08:51:45.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows",
-    "desc": "U.S. prosecutors allege that the defendant, Abdulrahman Alfozan, 35, was in ​frequent communication ‌with an unnamed member of the Saudi Royal family and that a ‌member of the ​Saudi military paid for a one-way plane ⁠ticket for Mr. Alfozan’s wife and son to return to ‌Saudi Arabia, according to the court document",
-    "img": "https://th-i.thgim.com/public/incoming/v60ojr/article71602975.ece/alternates/LANDSCAPE_1200/2026-10-19T152058Z_1186120503_RC2F2OAHBK9X_RTRMADP_3_OPENAI-SPYING-SAUDI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-court-filing-shows/article71602972.ece",
-    "time": "2026-10-19T15:51:27.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "China considers new export curbs on solar, AI, biotech",
-    "desc": "The draft plan, “Announcement No. 48”, proposes a complete export ban on 14 technologies and restrictions on 26 more, including next-generation solar technologies that could affect countries such as India seeking to reduce dependence on China",
-    "img": "https://th-i.thgim.com/public/news/national/uzyxwz/article71591945.ece/alternates/LANDSCAPE_1200/2026-06-08T083940Z_683439900_RC2GPLAIKHDA_RTRMADP_3_NORTHKOREA-CHINA.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/china-considers-new-export-curbs-on-solar-ai-biotech/article71591880.ece",
-    "time": "2026-10-18T02:57:39.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Indian, German firms to collaborate on immunoglobulin products: Indian Embassy",
-    "desc": "The Indian mission facilitated the exchange of a non-disclosure agreement (NDA) between Germany's Neovii Biotech GmbH and India's VINS Bioproducts Ltd. on the sidelines of the Indo-German Health Leadership Dialogue on October 13, says Embassy of India in Berlin",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/indian-german-firms-to-collaborate-on-immunoglobulin-products-indian-embassy/article71591495.ece",
-    "time": "2026-10-18T00:30:50.000Z"
   }
 ];
