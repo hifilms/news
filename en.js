@@ -1,39 +1,228 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Traffic ban continue in Munnar after another landslip on  Kochi–Dhanushkodi National Highway",
+    "title": "Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
+    "desc": "IMD says the cyclone is likely to cross the Andhra Pradesh and Yanam coasts on Wednesday morning, with winds of 115 kmph to 125 kmph, gusting to 140 kmph; set to have worse impact than last year’s Montha cyclone",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
+    "time": "2026-10-25T19:34:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pulakeshinagar IED blast case cracked, personal rivalry behind the plot",
+    "desc": "The Bengaluru police have cracked the case of the recent blast at an under-construction building on Jeremiah Road, injuring two, and arrested a 27-year-old bakery salesman, who allegedly conspired with two childhood friends to murder his uncle by assembling an improvised explosive device (IED) concealed inside a parcel",
+    "img": "https://th-i.thgim.com/public/incoming/xacr3p/article71624599.ece/alternates/LANDSCAPE_1200/Two-more-on-polGNOGMSOKU.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/pulakeshinagar-ied-blast-case-cracked-personal-rivalry-behind-the-plot/article71623321.ece",
+    "time": "2026-10-25T19:11:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tiger Shroff's 1,291 sq ft Khar apartment sold for Rs 9 crore: Report",
+    "desc": "Actor Tiger Shroff has sold his apartment in Khar West, Mumbai, for Rs 9 crore recently. This transaction follows a shooting incident involving him on October 18, which left his driver and a passerby injured. The apartment, located on the ninth floor, was acquired by Shroff in July 2018 for Rs 7.61 crore. Following the incident, Mumbai Police arrested the alleged shooters linked to the Lawrence Bishnoi gang.",
+    "img": "https://static.toiimg.com/photo/msid-135196839,imgsize-178513.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroffs-1291-sq-ft-khar-apartment-sold-for-rs-9-crore-after-gun-fire-incident-report/articleshow/135196618.cms",
+    "time": "2026-10-25T18:37:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bengal look for hat-trick of wins as Kerala host table-toppers",
+    "desc": "Fresh from their innings victory against Odisha in their last match, Kerala will have a job in hand to stop an upbeat Bengal who will be looking for a hat-trick of wins after beating Delhi and Services to lie at the top of the table with 12 points in their group.",
+    "img": "https://static.toiimg.com/photo/msid-135196205,imgsize-100201.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-domestic/ranji-trophy/ranji-trophy-bengal-look-for-hat-trick-of-wins/articleshow/135196175.cms",
+    "time": "2026-10-25T18:03:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former NFL star backs Nigeria clinic; $100,000 helped build it",
+    "desc": "Since 1989, Sam Acho's family has been dedicated to providing free medical care to underserved populations in Nigeria. In June 2017, they established the Living Hope Medical Center, significantly funded by Acho's NFL award nominations, which raised $100,000. This funding facilitated a shift from temporary medical missions to a permanent facility, ensuring consistent healthcare access throughout the year.",
+    "img": "https://static.toiimg.com/photo/msid-135167912,imgsize-97514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/nfl/news/in-1989-nfl-star-sam-achos-family-began-a-medical-mission-in-nigeria-years-later-his-two-walter-payton-nfl-man-of-the-year-nominations-brought-100000-toward-a-permanent-hospital/articleshow/135167597.cms",
+    "time": "2026-10-25T17:12:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The missing ‘reuse’ principle in India’s EV journey",
+    "desc": "As transport electrification gathers pace in India, there is a need to incorporate existing vehicles into the transition in a resource-efficient manner. Along with an effective scrappage policy, vehicle retrofitment can extend the life of structurally sound vehicles by integrating an electric powertrain",
+    "img": "https://th-i.thgim.com/public/incoming/ybfmxl/article71333752.ece/alternates/LANDSCAPE_1200/ALL_9573.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/the-missing-reuse-principle-in-indias-ev-journey/article71333751.ece",
+    "time": "2026-10-25T17:12:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Muizzu could stir up anti-India campaign again: Former Maldives Minister Abdullah Shahid",
+    "desc": "Following Maldivian President Mohamed Muizzu’s Pakistan visit, Abdulla Shahid, running to be a presidential contender in 2028, hits out at Mr. Muizzu, saying the President will ‘try to create some narrative on hate’ before the elections",
+    "img": "https://th-i.thgim.com/public/incoming/5ayk6s/article71624395.ece/alternates/LANDSCAPE_1200/2021-09-22T134638Z_751706329_RC21VP9BDCYZ_RTRMADP_3_UN-ASSEMBLY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/muizzu-could-stir-up-anti-india-campaign-again-former-maldives-minister-abdullah-shahid/article71624124.ece",
+    "time": "2026-10-25T17:10:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shadab, Rauf pull off miracle with record 89-run stand for last wicket as PAK stun ENG",
+    "desc": "Shadab Khan, who came in at number eight, did the unthinkable, stitching together an unbeaten 89-run partnership for the last wicket with Rauf to take Pakistan home in the fourth ODI of the tri-series, which also features Sri Lanka.",
+    "img": "https://static.toiimg.com/photo/msid-135195074,imgsize-122364.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shadab-khan-and-haris-rauf-pull-off-miracle-with-record-89-run-partnership-for-last-wicket-as-pakistan-stun-england-in-lahore/articleshow/135194965.cms",
+    "time": "2026-10-25T17:04:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The road ahead for the Asiatic lion",
+    "desc": "Six decades of conservation have increased the Asiatic lion population from about 100-150 to over 1,000, with nearly half now living outside the protected area; however, the species remains confined to single forested landscape, while habitat fragmentation, disease threats continue to pose major conservation challenges",
+    "img": "https://th-i.thgim.com/public/incoming/nqqoii/article71310823.ece/alternates/LANDSCAPE_1200/VIS_9182.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/the-road-ahead-for-the-asiatic-lion/article71309290.ece",
+    "time": "2026-10-25T17:03:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Traffic ban to continue in Munnar after another landslip on  Kochi–Dhanushkodi National Highway",
     "desc": "Traffic was suspended on the Adimaly–Munnar stretch of the Kochi–Dhanushkodi National Highway last Monday after a landslip occurred during highway-widening work. During the clearing works, another landslip hit the region, forcing authorities to extend the ban for another two weeks",
     "img": "https://th-i.thgim.com/public/incoming/dkbf9n/article71623856.ece/alternates/LANDSCAPE_1200/80759_25_10_2026_19_33_32_1_LANDSLIPNEW.JPEG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/traffic-ban-continue-in-munnar-after-another-landslip-on-kochidhanushkodi-national-highway/article71623815.ece",
-    "time": "2026-10-25T15:15:39.000Z"
+    "time": "2026-10-25T17:00:45.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "local authorities",
+    "desc": "Al Shifa hospital said it received three bodies and treated eight people who were wounded in the Gaza City drone strike, with two sources at the Islamic University saying those killed were administrative staff and the injured were students",
+    "img": "https://th-i.thgim.com/public/incoming/3sv516/article71624402.ece/alternates/LANDSCAPE_1200/AFP_D4D87CC.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israeli-air-strikes-kill-several-across-gaza-strip-local-authorities/article71624332.ece",
+    "time": "2026-10-25T16:57:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "role of ethics and emotions in world politics",
+    "desc": "History offers numerous examples of ethics shaping international politics. Foreign policy is not merely an exercise in strategic calculation; it is also shaped by moral perceptions and collective emotions, as illustrated by the change in public perception towards the Israel-Palestine conflict",
+    "img": "https://th-i.thgim.com/public/incoming/7w603w/article71278488.ece/alternates/LANDSCAPE_1200/_DSC8206.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/beyond-national-interest-role-of-ethics-and-emotions-in-world-politics/article71278490.ece",
+    "time": "2026-10-25T16:55:15.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Behind China’s AI gift, a constraint",
+    "desc": "China’s embrace of open-weight AI models is driven as much by compute constraints as by a bid to project itself as a responsible global AI power; until it overcomes chip and inference bottlenecks, Beijing is likely to keep sharing its models with the world",
+    "img": "https://th-i.thgim.com/public/news/national/ab2o40/article71283025.ece/alternates/LANDSCAPE_1200/iStock-2252678503.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/behind-chinas-ai-gift-a-constraint/article71281433.ece",
+    "time": "2026-10-25T16:50:27.000Z"
   },
   {
     "cat": "Politics",
-    "title": "INDIA bloc will continue protests until Gyanesh Kumar resigns, says Praveen Chakravarty",
-    "desc": "The protest is not about the Special Intensive Revision, not about a State or a party, or who won or who lost. It is about the invaluable voting right of every Indian, which has been taken away, says the Congress Rajya Sabha Member",
-    "img": "https://th-i.thgim.com/public/incoming/gq8yty/article71623817.ece/alternates/LANDSCAPE_1200/1.jpg",
+    "title": "Is Yashwant Varma still a judge?",
+    "desc": "The power to resign at will protects judicial independence; when misused, it helps evade accountability; the report by the committee tasked with investigating charges of misbehaviour against former judge Varma is set to come up in Parliament; what will become of Varma now that he has resigned?",
+    "img": "https://th-i.thgim.com/public/incoming/kdreoq/article71250964.ece/alternates/LANDSCAPE_1200/TH26-Sobhana-PrGPTFL3MHV.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/india-bloc-will-continue-protests-until-gyanesh-kumar-resigns-says-praveen-chakravarty/article71623557.ece",
-    "time": "2026-10-25T15:06:33.000Z"
+    "url": "https://www.thehindu.com/news/national/is-yashwant-varma-still-a-judge/article71249134.ece",
+    "time": "2026-10-25T16:46:20.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Visakhapatnam’s air quality dips to ‘Poor’ category, AQI touches 254",
-    "desc": "The reading is the highest among the 15 cities in Andhra Pradesh listed in the bulletin of the Central Pollution Control Board; PM2.5 — a fine particulate matter less than 2.5 microns in diameter — has been identified as the main pollutant",
-    "img": "https://th-i.thgim.com/public/incoming/u89ypj/article71623995.ece/alternates/LANDSCAPE_1200/9604_25_10_2026_20_3_15_2_VSP26_AIR_POLLUTION2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnams-air-quality-dips-to-poor-category-aqi-touches-254/article71623259.ece",
-    "time": "2026-10-25T14:57:22.000Z"
+    "title": "Delhi Police file FIR against opposition MPs over alleged trespassing at Jamia during student protest",
+    "desc": "The Delhi Police has launched an FIR targeting Congress MPs who attended the student protests at Jamia Millia Islamia. The MPs are accused of entering the university without permission amid ongoing demands for reinstating the students' union. Protesters are also calling for a halt to disciplinary measures against students and improved campus facilities, while university officials draft guidelines for upcoming union elections, adding to the complexity of the situation.",
+    "img": "https://static.toiimg.com/photo/msid-135194790,imgsize-203362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-police-file-fir-against-congress-3-mps-over-alleged-trespassing-at-jamia-during-student-protest/articleshow/135194757.cms",
+    "time": "2026-10-25T16:41:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Some Devaswom officials involved in ghee scam, claims Keralam Minister Muraleedharan",
-    "desc": "The Vigilance and Anti-Corruption Bureau’s Special Investigation Unit recently arrested a transport contractor for allegedly diverting 11,000 litres of Milma ghee meant for the Sabarimala temple and replacing it with a cheaper product, causing an estimated loss of ₹2.5 crore to the TDB",
-    "img": "https://th-i.thgim.com/public/incoming/aqvbx2/article71623933.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_TheHindu_UDT9J387P_R1414597719_0_610.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/some-devaswom-officials-involved-in-ghee-scam-claims-keralam-minister-muraleedharan/article71623896.ece",
-    "time": "2026-10-25T14:49:47.000Z"
+    "cat": "Entertainment",
+    "title": "Netaji’s grandnephew Chandra Kumar Bose demands apology from director of Prabhas starrer 'Fauzi'",
+    "desc": "Chandra Kumar Bose has voiced strong objections against the upcoming film 'Fauzi', claiming it distorts important historical truths about Netaji Subhas Chandra Bose's engagement with Adolf Hitler. He argues that the film sensationalizes their meeting and calls for an apology from its creators to the citizens of India. Despite seeking help for India’s independence, Netaji stood against fascism, prompting criticism that the film undermines his historical significance.",
+    "img": "https://static.toiimg.com/photo/msid-135194754,imgsize-319941.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/netajis-grandnephew-chandra-kumar-bose-demands-apology-from-director-of-prabhas-starrer-fauzi-distorting-facts-while-dealing-with-national-icons-is-a-crime/articleshow/135194670.cms",
+    "time": "2026-10-25T16:39:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda breaks silence on wife Sunita Ahuja's cheating allegations: 'She's been lucky for me'",
+    "desc": "In a recent statement, Govinda has responded to claims of infidelity brought forth by his wife, Sunita Ahuja. He suggests that outside influences are distorting her understanding of their relationship. Govinda expresses gratitude for Sunita's contributions to his journey, asserting that he intends to handle the accusations with dignity and will not engage in any public dispute, prioritizing a thoughtful approach during this tumultuous time.",
+    "img": "https://static.toiimg.com/photo/msid-135194745,imgsize-227450.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-breaks-silence-on-wife-sunita-ahujas-cheating-allegations-talks-about-her-contribution-to-his-life-shes-been-lucky-for-me-ill-keep-dodging-her-claims/articleshow/135194570.cms",
+    "time": "2026-10-25T16:38:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2019, Lucy Hale bought her LA estate for USD 2.95M; in 2022, she started renovating it after getting sober",
+    "desc": "In 2019, Lucy Hale purchased a charming Spanish-style residence in Los Angeles for USD 2.95 million. Following her commitment to sobriety, she initiated extensive renovations in 2022 aimed at embodying her personal evolution. The revamped home now bursts with vibrant colors and whimsical art, creating a nurturing space that has supported her healing journey. Hale candidly shares her battles with substance abuse, honoring her recovery milestones each year.",
+    "img": "https://static.toiimg.com/photo/msid-135189465,imgsize-30556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2019-lucy-hale-bought-usd-2-95-million-1940s-spanish-style-home-in-la-in-2022-she-got-sober-and-spent-three-years-transforming-it-from-mute-and-simple-to-colorful-and-eccentric/articleshow/135189279.cms",
+    "time": "2026-10-25T16:15:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India dominate Zimbabwe as Harmanpreet, Deepti and Vaishnavi headline 121-run win",
+    "desc": "In a dominant performance, India Women triumphed over Zimbabwe in the second ODI match, with both Harmanpreet Kaur and Deepti Sharma shining through with impressive centuries. Pratika Rawal added stability with a crucial innings, helping set a significant total. Zimbabwe struggled to chase, losing wickets consistently, ultimately bowled out for 207 and handing India a resounding 121-run victory.",
+    "img": "https://static.toiimg.com/photo/msid-135194185,imgsize-1827977.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-dominate-zimbabwe-in-vadodara-as-harmanpreet-deepti-and-vaishnavi-headline-121-run-win/articleshow/135194005.cms",
+    "time": "2026-10-25T16:10:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Asin's husband reveals how she's raising their 7-year old daughter: 'No phones, No TV'",
+    "desc": "Once a shining star in Indian cinema, Asin Thottumkal left her acting career behind following her marriage. Rahul Sharma has lauded Asin's relentless encouragement, attributing their daughter Arin Rayn Sharma's remarkable ability to speak several languages to her influence. The couple is keen on prioritizing education over screen time, fostering a reading culture in their home.",
+    "img": "https://static.toiimg.com/photo/msid-135193806,imgsize-258012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/what-is-ghajini-actor-asin-doing-after-quitting-movies-her-husband-rahul-sharma-reveals-how-shes-raising-their-daughter-arin-rayn-sharma-no-tv-no-phones-she-can-understand-and-speak-about-12-languages/articleshow/135193709.cms",
+    "time": "2026-10-25T15:50:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Cristiano Ronaldo own two Saudi mansions worth $9 million without citizenship",
+    "desc": "Cristiano Ronaldo’s $9 million Red Sea property purchase highlights how foreign nationals can own homes in Saudi Arabia without citizenship. Through its Premium Residency programme, the kingdom is opening new pathways for global talent to live, invest and build lasting ties. From Gifted Residency to specialised property rules, Ronaldo’s case reveals the changing relationship between wealth, residency and ownership.",
+    "img": "https://static.toiimg.com/photo/msid-135188647,imgsize-149942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/how-cristiano-ronaldo-can-own-two-saudi-mansions-worth-9-million-without-citizenship-inside-his-unique-gifted-residency-arrangement/articleshow/135187273.cms",
+    "time": "2026-10-25T15:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2007, Denzel Washington donated USD 1 million to Wiley College to revive the debate team; 7 years later, the team beat 80 other colleges",
+    "desc": "In 2007, Denzel Washington made a generous donation of USD 1 million to Wiley College, breathing life back into its previously dormant debate program. This remarkable contribution paved the way for unprecedented success, leading the team to a national championship in 2014 after competing against over 80 schools. The accolades achieved during the 2013-2014 academic year showcased how philanthropy can profoundly enhance educational opportunities.",
+    "img": "https://static.toiimg.com/photo/msid-135189165,imgsize-316206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2007-denzel-washington-starred-in-the-great-debater-donating-usd-1-million-to-wiley-college-which-inspired-the-movie-and-7-years-later-the-debate-team-emerged-victorious-at-the-pi-kappa-delta-tournament/articleshow/135189059.cms",
+    "time": "2026-10-25T15:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Javed Akhtar says 'I stand corrected' after netizens question him for calling Rashmika a Tamil actor",
+    "desc": "Javed Akhtar came to the defense of Rashmika Mandanna amidst harsh online criticism regarding her Hindi accent. He playfully challenged users to pronounce Tamil words themselves, emphasizing the issue at hand. Despite Akhtar's support, several users corrected him, pointing out that Rashmika is a Kannada actress primarily known for her work in Telugu films.",
+    "img": "https://static.toiimg.com/photo/msid-135193550,imgsize-842877.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/javed-akhtar-says-i-stand-corrected-after-netizens-question-him-for-calling-rashmika-mandanna-a-tamil-actor-she-is-a-kannadiga-and-acts-in-telugu-and-hindi/articleshow/135193420.cms",
+    "time": "2026-10-25T15:28:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cabinet minister Subodh Uniyal has apologised to Daler Mehndi, reveals Mika's team",
+    "desc": "After a contentious incident at a religious event in Uttarakhand, Minister Subodh Uniyal has reached out with an apology to Daler Mehndi. The minister had accused Mehndi of performing while intoxicated and lip-syncing. However, a productive dialogue ensued, leading to the Chief Minister inviting the Singh brothers, fostering a message of respect for artists and their vital contributions to the entertainment landscape.",
+    "img": "https://static.toiimg.com/photo/msid-135193539,imgsize-210216.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cabinet-minister-subodh-uniyal-has-apologised-to-daler-mehndi-after-uttarakhand-event-reveals-mika-singhs-team-we-hope-this-matter-can-now-be-put-behind-us/articleshow/135193448.cms",
+    "time": "2026-10-25T15:25:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Two ex-India cricketers in race for assistant coach job; T Dilip likely as fielding coach",
+    "desc": "The Mumbai Indians are currently in talks to secure an assistant coach for the new season, considering notable candidates like Aaron Finch and other former Indian cricketers. Pollard, freshly appointed as head coach, is playing a crucial role in the selection process. T Dilip is the frontrunner for the fielding coach position, pending any last-minute changes.",
+    "img": "https://static.toiimg.com/photo/msid-135193592,imgsize-1424778.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mumbai-indians-reset-two-ex-india-cricketers-in-race-for-assistant-coach-job-t-dilip-likely-as-fielding-coach/articleshow/135193485.cms",
+    "time": "2026-10-25T15:24:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -52,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroffs-team-denies-the-actor-giving-any-statement-on-the-firing-incident-this-news-is-completely-untrue/articleshow/135192968.cms",
     "time": "2026-10-25T14:41:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Alliance leaders campaign for ‘triple-engine government’ in Anantapur Municipal elections",
-    "desc": "JSP district president T.C. Varun, NDA Mayoral candidate Ajesh Yadav of the BJP, 44th Division Corporator candidate Podili Babu Rao, and TDP leader Arun Chowdary engage with the local residents and assure them of the city’s overall development if the alliance Mayoral candidate is voted to power",
-    "img": "https://th-i.thgim.com/public/incoming/u8044l/article71623873.ece/alternates/LANDSCAPE_1200/10215_25_10_2026_19_39_50_1_WHATSAPPIMAGE2026_10_25AT70322PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/alliance-leaders-campaign-for-triple-engine-government-in-anantapur-municipal-elections/article71623541.ece",
-    "time": "2026-10-25T14:34:34.000Z"
   },
   {
     "cat": "World",
@@ -124,15 +304,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/french-protest-groups-demand-more-rallies-as-macron-faces-tough-choices/article71623327.ece",
     "time": "2026-10-25T13:20:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All about Drake’s lavish 40th birthday party",
-    "desc": "Celebrating a milestone age, Drake's extravagant 40th birthday at Cipriani 42nd Street in New York City was one for the books. With 400 loved ones in attendance, the evening was highlighted by special guests, the Backstreet Boys, who set the stage ablaze with their classic hits. Guests had exciting opportunities to win up to USD 1 million in cash and walked away adorned with luxurious designer giveaways.",
-    "img": "https://static.toiimg.com/photo/msid-135188363,imgsize-84240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/from-more-than-400-guests-to-a-usd-1-million-cash-prize-all-you-need-to-know-about-drakes-all-out-40th-birthday-bash/articleshow/135188225.cms",
-    "time": "2026-10-25T13:15:00.000Z"
   },
   {
     "cat": "Sports",
@@ -208,15 +379,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "In 2018 Adam Levine spent USD 31.95M on Ben Affleck and Jennifer Garner’s property; years later, he sold it for USD 51M",
-    "desc": "In 2018, Adam Levine invested in the former residence of Ben Affleck and Jennifer Garner, paying a hefty USD 31.95 million. Tucked away in Los Angeles, this expansive property sprawls across 3 acres and includes several buildings. After completing significant renovations, Levine flipped the house for USD 51 million in 2022, reaping a commendable profit of approximately USD 19.",
-    "img": "https://static.toiimg.com/photo/msid-135187216,imgsize-184273.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2018-adam-levine-bought-ben-affleck-and-jennifer-garners-former-los-angeles-estate-for-usd-31-95-million-redesigned-the-former-gregory-peck-property-and-sold-it-for-usd-51m-in-2022/articleshow/135187079.cms",
-    "time": "2026-10-25T11:45:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'This is not acceptable'",
     "desc": "Javed Akhtar came to the defense of Rashmika Mandanna amidst backlash over her Hindi pronunciation, urging critics to attempt speaking Tamil to appreciate the nuances involved. Rashmika herself acknowledged her South Indian accent as a natural aspect of her identity, expressing her pride in dubbing for her own films across languages. Akhtar's comments highlight the ongoing conversation around linguistic diversity in Indian cinema.",
     "img": "https://static.toiimg.com/photo/msid-135190046,imgsize-604149.cms",
@@ -288,15 +450,6 @@ const newsData_en = [
     "time": "2026-10-25T10:12:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Minister refuses to back down; says, 'We didn’t even start it'",
-    "desc": "In a dramatic live performance in Tehri, a confrontation unfolded between Punjabi singer Daler Mehndi and Minister Subodh Uniyal. Uniyal accused Mehndi of lip-syncing and alleged he was under the influence, igniting outrage among the music community who rallied behind Mehndi. Following the escalating dispute, Uttarakhand Chief Minister Pushkar Singh Dhami stepped in to mediate, while Mehndi has remained notably silent amid the uproar.",
-    "img": "https://static.toiimg.com/photo/msid-135188593,imgsize-591834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/daler-mehndi-row-minister-subodh-uniyal-refuses-to-back-down-says-look-we-didnt-even-start-it-despite-efforts-to-calm-tensions/articleshow/135188490.cms",
-    "time": "2026-10-25T10:11:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Industrial growth may ease to 6% in September as capital goods, mining lose steam",
     "desc": "In September 2026, India's industrial production growth is anticipated to decline to 6%, down from 8% in August. Notably, capital goods production is projected to drop significantly to 2.2%, from an impressive 16.9% the previous month. Additionally, mining output is expected to contract by 8%, indicating a cooling growth trend, although vehicle sales and infrastructure goods remain robust.",
@@ -304,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/industrial-growth-may-ease-to-6-in-september-as-capital-goods-mining-lose-steam/articleshow/135188371.cms",
     "time": "2026-10-25T10:04:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actor Black Pandi reacts to Sivakarthikeyan controversy",
-    "desc": "Actor Black Pandi recently confronted a controversy surrounding Sivakarthikeyan, stating that the misunderstanding stems from events that transpired eight years ago. He acknowledged that, while Sivakarthikeyan had offered him financial support during tough times, he was more focused on pursuing acting roles. After realizing the situation was misinterpreted, he reached out to Sivakarthikeyan to clarify his original comments.",
-    "img": "https://static.toiimg.com/photo/msid-135187728,imgsize-117345.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/this-issue-was-settled-long-ago-black-pandi-reacts-to-sivakarthikeyan-controversy/articleshow/135187718.cms",
-    "time": "2026-10-25T09:59:46.000Z"
   },
   {
     "cat": "Sports",
@@ -352,24 +496,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Mawra Hocane welcomes son; actor shares hospital video",
-    "desc": "Pakistani actress Mawra Hocane and husband Ameer Gilani have welcomed their first child, a boy named Syed Azmar Hussain Kamal Gilani. Sharing a hospital video on X, she explained that Azmar means lion, calling him “the king of our jungle.” The couple married last year. Mawra debuted in Bollywood with Sanam Teri Kasam.",
-    "img": "https://static.toiimg.com/photo/msid-135187878,imgsize-185463.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pakistani-actress-mawra-hocane-and-husband-ameer-gilani-welcome-baby-boy-sanam-teri-kasam-star-reveals-newborns-name/articleshow/135187870.cms",
-    "time": "2026-10-25T09:28:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karthik Subbaraj explains his storytelling style in 'Dorothy'",
-    "desc": "Director Karthik Subbaraj shared compelling insights about the audience's favorable reception of his film 'Dorothy', noting that viewers reacted with enthusiasm, reminiscent of their responses to his earlier projects. He discussed his choice of a straightforward climax, highlighted by a pivotal kiss, and underscored the significance of authentically portraying human emotions. Now streaming on Netflix, 'Dorothy' captivates audiences with its engaging narrative.",
-    "img": "https://static.toiimg.com/photo/msid-135187707,imgsize-102306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karthik-subbaraj-explains-his-storytelling-style-in-dorothy-i-couldnt-give-better-climax-than-the-kiss/articleshow/135187695.cms",
-    "time": "2026-10-25T09:23:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Udta Teer' box office Day 3 [LIVE]: Ayushmann starrer is eyeing 20 cr net today",
     "desc": "Ayushmann Khurrana and Sara Ali Khan star in 'Udta Teer,' which premiered on October 23, 2026, garnering a mix of audience reactions. The film banked Rs 4.10 crore on its opening day, rising to Rs 7 crore the following day. By day three, the totals reached Rs 12.98 crore, including an overseas collection of Rs 2.75 crore by end of Day 2.",
     "img": "https://static.toiimg.com/photo/msid-135187761,imgsize-476498.cms",
@@ -396,24 +522,6 @@ const newsData_en = [
     "time": "2026-10-25T08:39:31.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Why Pakistan are wearing pink jerseys against England in ODI Tri-series",
-    "desc": "Pakistan will wear pink jerseys against England in Sunday’s ODI Tri-series match in Lahore to raise breast cancer awareness. The PCB has partnered with Pink Ribbon Breast Cancer Trust Hospital, offering free screenings and supporting treatment for patients in need. England players will wear pink ribbons. Meanwhile, Pakistan aim to secure a final spot, while England seek their first win.",
-    "img": "https://static.toiimg.com/photo/msid-135186883,imgsize-69578.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-pakistan-are-wearing-pink-jerseys-against-england-in-odi-tri-series/articleshow/135186471.cms",
-    "time": "2026-10-25T08:33:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Netizens call Ranbir-Sai cute",
-    "desc": "The makers of Ramayana released the song Mangal Rang, sung by Arijit Singh and Shreya Ghoshal, featuring Ranbir Kapoor and Sai Pallavi as Rama and Sita. Netizens praised the couple’s sweet chemistry and grand visuals. The Nitesh Tiwari film, also starring Yash, releases in 3D and IMAX 3D on November 5.",
-    "img": "https://static.toiimg.com/photo/msid-135186819,imgsize-371136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-song-mangal-rang-netizens-call-ranbir-kapoor-sai-pallavis-chemistry-cute-laud-grand-visuals/articleshow/135186802.cms",
-    "time": "2026-10-25T08:33:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Five IPOs to hit Dalal Street next week, targeting nearly Rs 2,600 cr from investors",
     "desc": "Between October 26 and October 29, five companies will debut their initial public offerings, aiming to raise an impressive Rs 2,600 crore from the primary market. These firms—EAAA India Alternatives, SFC Environmental Technologies, M K Sons Fine Jewels, BLS Polymers, and Bombay Coated and Special Steels—will utilize the capital for business expansion, working capital augmentation, and settling debts. More companies are gearing up for IPO launches set for November 5.",
@@ -421,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/five-ipos-to-hit-dalal-street-next-week-targeting-nearly-rs-2600-crore-from-investors/articleshow/135186247.cms",
     "time": "2026-10-25T08:32:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Sethupathi's 'Baththa' OTT release date OUT",
-    "desc": "Vijay Sethupathi's much-anticipated film 'Baththa' is set to unveil on Netflix starting October 29, 2026. Under the direction of Balaji Tharaneetharan, this beautifully crafted film intertwines comedy with profound emotional undertones. It narratively explores a young boy's unpredictable encounter with a gangster in a school restroom, delving into themes of masculinity and fear.",
-    "img": "https://static.toiimg.com/photo/msid-135186791,imgsize-135543.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/baththa-ott-release-date-out-when-and-where-to-stream-vijay-sethupathi-and-lijomol-joses-gangster-drama-helmed-by-balaji-tharaneetharan/articleshow/135186783.cms",
-    "time": "2026-10-25T08:31:20.000Z"
   },
   {
     "cat": "Sports",
@@ -450,24 +549,6 @@ const newsData_en = [
     "time": "2026-10-25T07:23:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Don't be spectator, show leadership': EAM Jaishankar to UN on terrorism, global crises",
-    "desc": "In his latest statements, external affairs minister S Jaishankar called for a more robust leadership from the UN to confront pressing world issues. He highlighted a significant gap in global decision-making that leaves many regions, particularly in the Global South, behind in critical areas like finance, fuel, food, and fertilizer. Emphasizing the importance of fair AI development, Jaishankar encourages strategies that ensure widespread access to its benefits, fostering international cooperation.",
-    "img": "https://static.toiimg.com/photo/msid-135185916,imgsize-91824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dont-be-spectator-show-leadership-eam-jaishankar-to-un-on-terrorism-global-crises/articleshow/135185782.cms",
-    "time": "2026-10-25T07:23:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Not once have people really mentioned Kuhnemann': Khawaja",
-    "desc": "Usman Khawaja has urged Australia to consider left-arm spinner Matt Kuhnemann for the final Test against South Africa, citing the hosts’ right-handed batting lineup. Australia lost the previous match by an innings and 31 runs after omitting Nathan Lyon. Khawaja also suggested moving Nic Maddinson to the middle order as selectors consider batting changes and Cam Green’s return from injury.",
-    "img": "https://static.toiimg.com/photo/msid-135185747,imgsize-232007.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-once-have-people-really-mentioned-matt-kuhnemann-usman-khawaja-on-australias-test-selection-dilemma/articleshow/135185347.cms",
-    "time": "2026-10-25T07:19:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How India achieved more with fewer athletes at Asian Para Games",
     "desc": "India fielded 167 athletes — 111 men and 56 women — across 11 sports at Aichi-Nagoya. That was considerably fewer than the 309 athletes listed for the Hangzhou campaign in 2023, yet the team surpassed its previous best by six medals.",
@@ -475,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/best-ever-from-14-medals-to-114-how-india-achieved-more-with-fewer-athletes-at-the-asian-para-games/articleshow/135185621.cms",
     "time": "2026-10-25T07:17:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre rushes 250 RAF personnel to Arunachal after violent protests over hydropower project",
-    "desc": "The Centre has deployed two Rapid Action Force companies comprising around 250 CRPF personnel to Arunachal Pradesh following violent protests against the proposed 11,200-MW Siang Upper Multipurpose Project. A mob torched an NHPC office and a police station in Pasighat, injuring over 40 police personnel. The project, seen as a strategic counter to China’s mega dam, faces opposition from indigenous tribes fearing displacement and submergence of villages.",
-    "img": "https://static.toiimg.com/photo/msid-135185738,imgsize-997927.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/centre-rushes-250-raf-personnel-to-arunachal-after-violent-protests-over-hydropower-project/articleshow/135185576.cms",
-    "time": "2026-10-25T07:11:36.000Z"
   },
   {
     "cat": "Sports",
@@ -502,24 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/israel-to-close-all-land-crossings-with-west-bank-on-election-day/article71622494.ece",
     "time": "2026-10-25T06:04:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni has a message for GenZ, Gen Alpha",
-    "desc": "MS Dhoni has urged Gen Z and Gen Alpha to stay physically active, play sports and make healthier food choices. Speaking alongside Javed Akhtar, Dhoni warned that sedentary lifestyles, sugary foods and fast food could cause health problems later in life. While Akhtar praised the younger generation’s moral values, Dhoni emphasised the importance of long-term physical well-being.",
-    "img": "https://static.toiimg.com/photo/msid-135184573,imgsize-578773.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-ms-dhoni-has-a-message-for-younger-generations-like-genz-and-gen-alpha/articleshow/135184517.cms",
-    "time": "2026-10-25T05:53:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are New Zealand making multiple changes to their squad after India defeat?",
-    "desc": "New Zealand have announced changes to their T20I squad for the remaining matches against India. Fast bowlers Lockie Ferguson and Matt Henry will be managed during this busy cricket season. Ferguson will return for the last two T20Is, while Henry prepares for the upcoming ODI series. Blair Tickner and Josh Clarkson will join the squad to provide more options.",
-    "img": "https://static.toiimg.com/photo/msid-135183598,imgsize-59260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/why-are-new-zealand-making-multiple-changes-to-their-squad-after-india-defeat/articleshow/135183513.cms",
-    "time": "2026-10-25T04:59:12.000Z"
   },
   {
     "cat": "Business",
@@ -655,15 +709,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/from-fuel-price-hikes-to-cost-of-living-concerns-us-consumer-sentiment-nears-record-low/articleshow/135164123.cms",
     "time": "2026-10-24T06:45:16.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Fire breaks out at Hitler's mountain retreat, suspect arrested",
-    "desc": "Built between 1937 and 1938, the Eagle's Nest forms part of the toxic legacy of Hitler's Third Reich, which was responsible for the deaths of millions of Jews along with Roma, LGBTQ people and Communists in the Holocaust",
-    "img": "https://th-i.thgim.com/public/incoming/xik5jj/article71619262.ece/alternates/LANDSCAPE_1200/AFP__20261024__D4AB46N__v2__HighRes__TopshotGermanyHistoryPoliceFireHitler.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/fire-breaks-out-at-hitlers-mountain-retreat-suspect-arrested/article71619208.ece",
-    "time": "2026-10-24T06:27:00.000Z"
   },
   {
     "cat": "Sports",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/the-reality-behind-falling-net-fdi/article71084799.ece",
     "time": "2026-10-22T16:08:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Queer voices find expression in a new documentary",
-    "desc": "What does it mean to tell your story in your own voice? Catch the screening of Quiet Reckoning, a documentary that brings the lives and experiences of people from the LGBTQ+ community to the forefront",
-    "img": "https://th-i.thgim.com/public/food/bfst6b/article71607224.ece/alternates/LANDSCAPE_1200/Still%20from%20the%20fillm%202%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/quiet-reckoning-queer-voices-find-expression-in-a-new-documentary/article71603603.ece",
-    "time": "2026-10-22T07:10:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?",
-    "desc": "Elon Musk’s reported restrictions on satellite services to Ukraine show the risks of India’s dependence on foreign-controlled technology; from satellite navigation to cloud computing and military equipment, gaps in domestic capabilities can leave critical infrastructure exposed to external pressure",
-    "img": "https://th-i.thgim.com/public/incoming/55v76z/article71608768.ece/alternates/LANDSCAPE_1200/iStock-1558220804.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
-    "time": "2026-10-22T05:22:49.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Eight web security keys of eMudhra firm used by Govt. and PSUs leaked",
-    "desc": "Many government websites, including the Aadhaar issuer UIDAI and the income tax filing portal, use digital certificates or other technology from the Bengaluru-headquartered firm; no indication that the firm’s root certificates itself — which sit above the tier that was leaked — have been compromised",
-    "img": "https://th-i.thgim.com/public/incoming/dbz818/article71606409.ece/alternates/LANDSCAPE_1200/IMG_BL_-_24_04_2019_-_90_2_1_32AMRDIU.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/eight-web-security-keys-of-firm-used-by-govt-and-psus-leaked/article71606342.ece",
-    "time": "2026-10-21T14:59:04.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "SBI admits exposure of its customer data on the Dark Web",
-    "desc": "“Impacted customers are the most likely to receive calls from persons posing as SBI officials who can recite their account details back to them” the Internet Freedom Foundation said asking SBI to alert the said customers",
-    "img": "https://th-i.thgim.com/public/incoming/bs1wph/article71592578.ece/alternates/LANDSCAPE_1200/2026-10-08T063954Z_1388351974_RC2YG0ATVYWR_RTRMADP_3_INDIA-EARNINGS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/state-bank-of-india-investigates-exposure-customer-records-dark-web-october-21/article71606599.ece",
-    "time": "2026-10-21T08:51:45.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows",
-    "desc": "U.S. prosecutors allege that the defendant, Abdulrahman Alfozan, 35, was in ​frequent communication ‌with an unnamed member of the Saudi Royal family and that a ‌member of the ​Saudi military paid for a one-way plane ⁠ticket for Mr. Alfozan’s wife and son to return to ‌Saudi Arabia, according to the court document",
-    "img": "https://th-i.thgim.com/public/incoming/v60ojr/article71602975.ece/alternates/LANDSCAPE_1200/2026-10-19T152058Z_1186120503_RC2F2OAHBK9X_RTRMADP_3_OPENAI-SPYING-SAUDI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-court-filing-shows/article71602972.ece",
-    "time": "2026-10-19T15:51:27.000Z"
   }
 ];
