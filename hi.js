@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India set to play Pakistan on November 22 as ACC unveils schedule for Rising Asia Cup 2026",
+    "desc": "India A will play Pakistan A on November 22 at the Rising Asia Cup 2026 clash in Doha. The Asian Cricket Council (ACC) has confirmed the two groups for the tournament, along with the schedule,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-set-to-play-pakistan-on-november-22-as-acc-unveils-schedule-for-rising-asia-cup-2026-2026-10-25-1057874",
+    "time": "2026-10-25T10:19:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are Pakistan players wearing pink jerseys in tri-series clash against England in Lahore?",
+    "desc": "Pakistan players wore pink jerseys against England in the fourth match of the ongoing ODI tri-series, which also features Sri Lanka. Pakistan Cricket Board (PCB) had earlier confirmed that they would be dedicating the fixture...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-pakistan-players-wearing-pink-jerseys-in-tri-series-clash-against-england-in-lahore-2026-10-25-1057871",
+    "time": "2026-10-25T08:50:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul, Yashasvi Jaiswal flop again; Padikkal, Sudharsan stabilise India A in second innings",
+    "desc": "Indian opening duo of KL Rahul and Yashasvi Jaiswal once again failed to make an impact in the ongoing first unofficial Test between India A and New Zealand A in Lincoln. The duo struggled in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-yashasvi-jaiswal-flop-again-padikkal-sudharsan-stabilise-india-a-in-second-innings-2026-10-25-1057867",
+    "time": "2026-10-25T07:51:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand reshuffle pace attack for remaining three T20Is vs India, shares reason",
+    "desc": "New Zealand have adjusted their fast-bowling resources for the remainder of the T20I series against India. Several star players are now set to miss the entire series or join the squad at a different stage...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-reshuffle-pace-attack-for-remaining-three-t20is-vs-india-shares-reason-2026-10-25-1057863",
+    "time": "2026-10-25T07:09:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MS Dhoni shares update on IPL 2027 availability after missing out entire 2026 season due to injury",
+    "desc": "Former Chennai Super Kings captain and star cricketer MS Dhoni hasn’t quite decided on his availability for the IPL 2027 season. The keeper-batter, however, has kept the door open, indicating that his chances of returning...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-shares-update-on-ipl-2027-availability-after-missing-out-entire-2026-season-due-to-injury-2026-10-25-1057860",
+    "time": "2026-10-25T06:33:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Afghanistan overtake England in ICC ODI rankings, reclaim their all-time high position",
     "desc": "Afghanistan have overtaken England in the latest ICC Men's ODI team rankings, the Afghanistan team has climbed to seventh position after defeating Zimbabwe in the tri-series final. This is Afghanistan's all-time highest ranking first achieved...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pv-sindhu-beats-japan-s-hina-akechi-in-three-game-battle-to-reach-french-open-final-2026-10-24-1057813",
     "time": "2026-10-24T11:33:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tilak Varma's blitzkrieg helps India snatch victory from New Zealand's hands, beat them by four wickets",
-    "desc": "New Zealand looked to have bounced back in the second T20I at the Hagley Oval in Christchurch, but India kept it late as a dramatic knock from Tilak Varma helped India chase 181 runs in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-s-blitzkrieg-helps-india-snatch-victory-from-new-zealand-s-hands-beat-them-by-four-wickets-2026-10-24-1057810",
-    "time": "2026-10-24T10:49:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi flops on India return, Sanju Samson fails to make impact as well",
-    "desc": "Chasing 181 runs in the second T20I at Hagley Oval in Christchurch, India lost two early wickets of Sanju Samson and Vaibhav Sooryavanshi. The conditions weren’t ideal for batters, particularly against the new ball, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-flops-on-india-return-sanju-samson-fails-to-make-impact-as-well-2026-10-24-1057805",
-    "time": "2026-10-24T09:56:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tilak Varma achieves massive feat as India pile on the pressure against New Zealand in second T20I",
-    "desc": "The Indian team took on New Zealand in the second T20I of the ongoing series. The two sides met at Hagley Oval in Christchurch on October 24th. The clash began on a positive note for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-achieves-massive-feat-as-india-pile-on-the-pressure-against-new-zealand-in-second-t20i-2026-10-24-1057803",
-    "time": "2026-10-24T09:31:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anrich Nortje ruled out of third Test vs Australia, South Africa announce updated squad",
-    "desc": "Ace pacer Anrich Nortje has been ruled out of the third Test against Australia at Newlands in Cape Town. Cricket South Africa (CSA) has confirmed the development, announcing an updated squad for the series finale,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/anrich-nortje-ruled-out-of-third-test-vs-australia-south-africa-announce-updated-squad-2026-10-24-1057799",
-    "time": "2026-10-24T08:36:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul among 5 batters score ducks; Jaiswal, Dhruv flop too as India A bundled for 113 in first innings",
-    "desc": "India A had a rough start to their two-match unofficial Test series against New Zealand A at the Bert Sutcliffe Oval in Lincoln. Multiple senior team cricketers, including KL Rahul, Yashasvi Jaiswal, Sai Sudharsan and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-among-5-batters-score-ducks-jaiswal-dhruv-flop-too-as-india-a-bundled-for-113-in-first-innings-2026-10-24-1057795",
-    "time": "2026-10-24T07:43:05.000Z"
   }
 ];
