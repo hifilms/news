@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Clayface' tops box office; 'You Can See Everything' among highest grossing docus of all time",
+    "desc": "DC Studios released 'Clayface', a Gotham City villain film that opened with $24 million during its debut weekend. A24's documentary, 'You Can See Everything', achieved impressive earnings of $19.5 million in its first wide release. Both films received positive audience feedback, contributing to their respective success at the box office. Other notable releases included 'Wildwood', which garnered $11.8 million, along with 'Wicker', earning $5.8 million.",
+    "img": "https://static.toiimg.com/photo/msid-135197593,imgsize-296215.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/clayface-tops-box-office-with-usd-43-million-debut-you-can-see-everything-ranks-among-highest-grossing-documentaries-of-all-time/articleshow/135197559.cms",
+    "time": "2026-10-25T21:53:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EC refuses to give details of SIR software, cites ‘trade secrets, IPR'",
+    "desc": "Election Commission of India declined to share the name of the software used for identifying electoral roll errors. The request for information was made under the Right to Information Act. A social activist from Telangana sought details about the software and algorithms used in the process. The Commission stated that no new software was developed for the exercise conducted.",
+    "img": "https://static.toiimg.com/photo/msid-135197584,imgsize-98916.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ec-refuses-to-give-details-of-sir-software-cites-trade-secrets-ipr/articleshow/135197575.cms",
+    "time": "2026-10-25T21:34:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Banks pass on rate hikes, but go slow when rates fall; RBI study finds",
+    "desc": "A recent study by the RBI indicates that banks are more responsive to interest rate hikes than to cuts. Specifically, banks relayed 76.4% of repo rate increases, while only 64% of reductions were passed on. Amid periods of tightening, lending rates surged significantly, in contrast to the minimal decreases observed during easing. This research highlights the intricate dynamics of interest rate adjustments, particularly affecting sectors like MSMEs.",
+    "img": "https://static.toiimg.com/photo/msid-135197548,imgsize-70056.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/banks-pass-on-rate-hikes-but-go-slow-when-rates-fall/articleshow/135197546.cms",
+    "time": "2026-10-25T21:08:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Former CJI D Y Chandrachud was more deferential to government than needed, says Justice Kaul",
+    "desc": "Justice Sanjay Kishan Kaul has expressed concerns about how former Chief Justice D Y Chandrachud dealt with the government. He believes Chandrachud was too lenient during the process of judicial appointments, which raises worries about the independence of the judiciary. This could potentially undermine the separation between the courts and the government, according to Kaul.",
+    "img": "https://static.toiimg.com/photo/msid-135197540,imgsize-235466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/former-cji-d-y-chandrachud-was-more-deferential-to-government-than-needed-says-justice-kaul/articleshow/135197538.cms",
+    "time": "2026-10-25T20:58:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EPFO considers Rs 25,000cr war chest to stabilise interest payouts",
+    "desc": "Employees’ Provident Fund Organisation is exploring the establishment of a Rs 25,000-crore Interest Stabilisation Reserve. This reserve aims to protect members’ interest payouts from corporate bond defaults and other market fluctuations. A report suggested that the fund should be built via surplus ETF gains and will invest in government securities. Historical performance indicates that this reserve can effectively manage interest rate stability.",
+    "img": "https://static.toiimg.com/photo/msid-135197536,imgsize-48170.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/epfo-considers-rs-25000cr-war-chest-to-stabilise-interest-payouts/articleshow/135197531.cms",
+    "time": "2026-10-25T20:48:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP calls protest over Kharge’s ‘baap’ remark",
+    "desc": "Congress president Mallikarjun Kharge's comment about Prime Minister Narendra Modi's father sparked widespread outrage among BJP members. Following the incident, the BJP announced nationwide protests against Kharge's remarks, labeling them indecent and offensive. Union home minister Amit Shah criticized Congress for personal attacks and blamed it on their electoral disappointments. Kharge also condemned the ongoing Special Intensive Revision of electoral rolls, describing it as a threat to democracy.",
+    "img": "https://static.toiimg.com/photo/msid-135197501,imgsize-104164.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-calls-protest-over-kharges-baap-remark/articleshow/135197490.cms",
+    "time": "2026-10-25T20:22:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat-Anushka attend Krishndas concert in Mumbai, chant harinam, groove: VIDEOS",
+    "desc": "Anushka Sharma and Virat Kohli were spotted enjoying a captivating kirtan performance by Krishna Das in Mumbai. Their demeanor was relaxed as they immersively engaged with the melodic devotion surrounding them. Their presence at this event keeps up with their tradition of joining such gatherings together, similar to their previous visit to a service at Union Chapel in London in July 2026.",
+    "img": "https://static.toiimg.com/photo/msid-135197482,imgsize-221601.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-and-anushka-sharma-make-rare-appearance-at-krishnadas-kirtan-concert-in-mumbai-chant-hari-naam-and-groove-netizens-react-as-videos-go-viral/articleshow/135197072.cms",
+    "time": "2026-10-25T20:14:19.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
     "desc": "IMD says the cyclone is likely to cross the Andhra Pradesh and Yanam coasts on Wednesday morning, with winds of 115 kmph to 125 kmph, gusting to 140 kmph; set to have worse impact than last year’s Montha cyclone",
@@ -186,15 +249,6 @@ const newsData_en = [
     "img": "https://static.toiimg.com/photo/msid-135188647,imgsize-149942.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/how-cristiano-ronaldo-can-own-two-saudi-mansions-worth-9-million-without-citizenship-inside-his-unique-gifted-residency-arrangement/articleshow/135187273.cms",
-    "time": "2026-10-25T15:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 2007, Denzel Washington donated USD 1 million to Wiley College to revive the debate team; 7 years later, the team beat 80 other colleges",
-    "desc": "In 2007, Denzel Washington made a generous donation of USD 1 million to Wiley College, breathing life back into its previously dormant debate program. This remarkable contribution paved the way for unprecedented success, leading the team to a national championship in 2014 after competing against over 80 schools. The accolades achieved during the 2013-2014 academic year showcased how philanthropy can profoundly enhance educational opportunities.",
-    "img": "https://static.toiimg.com/photo/msid-135189165,imgsize-316206.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2007-denzel-washington-starred-in-the-great-debater-donating-usd-1-million-to-wiley-college-which-inspired-the-movie-and-7-years-later-the-debate-team-emerged-victorious-at-the-pi-kappa-delta-tournament/articleshow/135189059.cms",
     "time": "2026-10-25T15:30:00.000Z"
   },
   {
@@ -406,15 +460,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Anirudh Ravichander’s special moment with AR Rahman goes viral",
-    "desc": "The playful photo shared by Anirudh Ravichander alongside the acclaimed composer AR Rahman has captured the attention of avid music enthusiasts, sparking speculation about a potential collaboration. Adding to the excitement, Rahman's son, AR Ameen, reposted the image, drawing a connection to the forthcoming film Ramayana. This meeting has ignited fan hopes for future projects featuring both musical talents, showcasing the vibrant anticipation surrounding their creative journeys.",
-    "img": "https://static.toiimg.com/photo/msid-135189316,imgsize-161592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/frame-eh-paarunga-ji-jailer-2-composer-anirudh-ravichanders-special-moment-with-ramayana-composer-ar-rahman-goes-viral/articleshow/135189300.cms",
-    "time": "2026-10-25T11:03:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "‘Cyberpunk: Edgerunners 2’ series review: Love and art in the time of technofascism",
     "desc": "That ‘Edgerunners 2’ can wring such tenderness, such an unembarrassed belief in art and human connection, from a world so thoroughly committed to grinding both into dust is precisely what makes it one of the finest things television has given us this year",
     "img": "https://th-i.thgim.com/public/entertainment/movies/333cn3/article71622955.ece/alternates/LANDSCAPE_1200/photo_2026-10-15_10-23-19-1280x720.jpg",
@@ -511,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/foreign-investors-withdraw-rs-48056-crore-in-october-as-market-selling-continues/articleshow/135187012.cms",
     "time": "2026-10-25T09:03:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Give priority to local artisans’: PM Modi’s festive shopping appeal as Diwali approaches",
-    "desc": "Prime Minister Narendra Modi urged citizens to support local artisans by prioritizing their products while shopping for festivals. He emphasized that doing so would strengthen the 'Vocal for Local' campaign and promote a self-reliant India. Modi highlighted successful local exports such as makhana and arhar dal to various international markets. Additionally, he discussed efforts aimed at reviving traditional skills and farming practices, including natural cotton cultivation.",
-    "img": "https://static.toiimg.com/photo/msid-135186874,imgsize-78812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/give-priority-to-local-artisans-pm-modis-festive-shopping-appeal-as-diwali-approaches/articleshow/135186794.cms",
-    "time": "2026-10-25T08:39:31.000Z"
   },
   {
     "cat": "Business",
@@ -757,15 +793,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Driven by travel, outward transfers jump 6% to $2.7 billion",
-    "desc": "Business travel surged 365.4% to $51 million from $11 million, while other travel, including leisure trips and international credit card settlements, fell 7.4% to $713.8 million. Spending on pilgrimage travel declined 46% to $5.5 million and remittances for travel-related medical treatment fell 17.7% to $4.5 million. Investments in foreign equity and debt instruments fell 6.7% from July to $321.5 million but were 111.3% higher than in Aug 2025.",
-    "img": "https://static.toiimg.com/photo/msid-135155621,imgsize-80426.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/driven-by-travel-outward-transfers-jump-6-to-2-7-billion/articleshow/135155566.cms",
-    "time": "2026-10-23T21:05:36.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "MS executive Nicholas Butts",
     "desc": "Butts cited Storm 3168, also called Jadepuffer, which he described as a China-based ransomware operation using AI agents against customers worldwide. He also pointed to Russian and Chinese state-sponsored actors deploying agents for espionage, including a group Microsoft tracks as Storm 0940. AI was also lowering the barriers for smaller criminal operations, he said.",
     "img": "https://static.toiimg.com/photo/msid-135155617,imgsize-144230.cms",
@@ -799,15 +826,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/record-haul-jio-ipo-collects-rs-7-5-lakh-crore-nearly-1-3-crore-investors-make-bids/articleshow/135155570.cms",
     "time": "2026-10-23T20:52:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "RBI",
-    "desc": "The report said headline CPI inflation rose to a 23-month high of 5.5% in Sept from 4.8% in Aug, with price increases spreading across food, fuel and core items. Core inflation rose to 4.3%, while core inflation excluding precious metals reached 3.2%. WPI inflation climbed to 11.4% under the 2022-23 base series. The report highlighted early signs of inflation generalisation, with a rising share of CPI items recording inflation above 6%.",
-    "img": "https://static.toiimg.com/photo/msid-135155518,imgsize-70056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/demand-at-home-supporting-growth-momentum-rbi/articleshow/135154655.cms",
-    "time": "2026-10-23T19:23:42.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/the-fiscal-tightrope-for-state-governments/article71167296.ece",
     "time": "2026-10-22T16:50:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "The RBI and its growing fiscal role",
-    "desc": "RBI’s record ₹2.87 lakh crore surplus transfer to the Centre shows its growing fiscal significance, as earnings from reserve management and foreign assets support govt. finances; the trend raises questions about central bank independence, fiscal centralisation, and exclusion of such transfers from fiscal devolution to States",
-    "img": "https://th-i.thgim.com/public/incoming/4cfiid/article71114984.ece/alternates/LANDSCAPE_1200/2026-06-04T051343Z_1888669078_RC2JPCAERN8K_RTRMADP_3_INDIA-ECONOMY-RATES.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/the-rbi-and-its-growing-fiscal-role/article71113535.ece",
-    "time": "2026-10-22T16:23:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "The reality behind falling net FDI",
-    "desc": "India’s net FDI has declined sharply despite strong gross inflows, underlining the impact of disinvestment/capital repatriation; an understanding of these trends requires looking beyond aggregate inflow, outflow figures; investor classes, modes of entry, and exit strategies can have important implications for technology transfer, industrial development, and external sustainability",
-    "img": "https://th-i.thgim.com/public/incoming/6sibpc/article71086348.ece/alternates/LANDSCAPE_1200/iStock-1826712198.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/the-reality-behind-falling-net-fdi/article71084799.ece",
-    "time": "2026-10-22T16:08:41.000Z"
   }
 ];
