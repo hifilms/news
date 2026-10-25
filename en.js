@@ -1,12 +1,246 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
-    "title": "‘Ramayana’: Early review of Ranbir Kapoor starrer goes VIRAL",
-    "desc": "Part 1’ is set to premiere on November 5, 2026, featuring Ranbir Kapoor and Yash in key roles. Early reviews indicated that the film includes emotional storytelling and impressive visual effects. The English version is reportedly shorter than the Hindi version, adding to viewer intrigue. Comparisons to other blockbuster films like ‘RRR’ and ‘The Lord of the Rings’ have emerged, fueling online discussion.",
-    "img": "https://static.toiimg.com/photo/msid-135179001,imgsize-436341.cms",
+    "title": "Fahadh Faasil’s ‘Karate Chandran’ begins filming in Kottayam",
+    "desc": "Filming for 'Karate Chandran' has officially launched in Kottayam, with a production schedule set for 140 days. Not only is Fahadh Faasil taking on the lead role, but he is also co-producing the film alongside Dileesh Pothan and Syam Pushkaran. This project marks Roy's debut as a director, having previously collaborated as a co-director with Dileesh Pothan. The story and screenplay, crafted by S.",
+    "img": "https://static.toiimg.com/photo/msid-135182095,imgsize-298041.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-early-review-of-ranbir-kapoor-and-yash-starrer-goes-viral-film-earns-praise-for-emotional-story-and-stunning-visuals/articleshow/135177820.cms",
-    "time": "2026-10-24T22:16:51.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/fahadh-faasils-karate-chandran-begins-filming-in-kottayam-140-day-shoot-planned/articleshow/135182083.cms",
+    "time": "2026-10-25T02:51:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shiamak Davar to choreograph ‘Jai Jai Ram’",
+    "desc": "The buzz around Nitesh Tiwari's dual-part rendition of 'Ramayana' is palpable, particularly due to its fresh approach to music. As work continues on 'Ramayana Part 2', much of it has been wrapped up ahead of the first film's premiere. Sunny Deol, taking on the iconic role of Hanuman, necessitates some shifts in the filming timeline. The production team has responded to casting speculations, including those about Amitabh Bachchan.",
+    "img": "https://static.toiimg.com/photo/msid-135182046,imgsize-117947.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-update-shiamak-davar-to-choreograph-jai-jai-ram-part-2-of-ranbir-kapoor-and-sai-pallavis-film-already-underway/articleshow/135182010.cms",
+    "time": "2026-10-25T02:45:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sebi plans curbs on terminal misuse, graded compliance for market intermediaries",
+    "desc": "In a proactive move, market regulator Sebi is rolling out initiatives to curb the misuse of brokers' trading terminals and bolster compliance efforts. The focus is also on enhancing cybersecurity while safely testing AI tools. Sebi's vision encompasses streamlining regulations, promoting responsible technology, fostering deeper market engagement, and ensuring broader access for investors, particularly in underrepresented smaller towns and villages, while urging brokers to assess client risks more comprehensively.",
+    "img": "https://static.toiimg.com/photo/msid-135181927,imgsize-72810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-plans-curbs-on-terminal-misuse-graded-compliance-norms-for-stock-market-intermediaries/articleshow/135181895.cms",
+    "time": "2026-10-25T02:39:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Man threatens 'Miami Vice '85' crew with butcher’s knife",
+    "desc": "An incident occurred on the set of 'Miami Vice '85' when a man threatened crew members. The individual, Alex Perez, brandished a butcher knife, prompting a police response. After the threat was made at around 11 pm, police arrested him. Perez has a criminal history with prior arrests for burglary and assault involving a firearm. The film stars Michael B. Jordan and Austin Butler and will be released in 2028.",
+    "img": "https://static.toiimg.com/photo/msid-135181939,imgsize-348094.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/man-arrested-on-michael-b-jordans-miami-vice-85-sets-threatened-crew-with-butchers-knife/articleshow/135181670.cms",
+    "time": "2026-10-25T02:37:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suriya says ‘Scene’ is not comparable to ‘Singam’, ‘Kaakha Kaakha’",
+    "desc": "Suriya's highly anticipated film 'Scene' is slated for release on November 6, 2026. Directed by Jithu Madhavan, this marks his debut in Tamil cinema. Suriya highlights that 'Scene' provides a fresh viewpoint within the police genre. Featuring stars like Nazriya Nazim and Naslen, the film is set to face competition at the box office against 'Mookuthi Amman 2', which stars Nayanthara.",
+    "img": "https://static.toiimg.com/photo/msid-135181937,imgsize-515217.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suriya-explains-how-scene-differs-from-his-cop-dramas-kaakha-kaakha-and-singam-calls-it-a-family-entertainer/articleshow/135181918.cms",
+    "time": "2026-10-25T02:37:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Joe Keery reveals who keeps the ‘Stranger Things’ group chat going even now",
+    "desc": "In a recent discussion, Joe Keery shared some fun insights into the ongoing group chat that the Stranger Things cast enjoys. He highlighted how Finn Wolfhard is the life of the chat, always sparking engaging conversations. During his debut on Broadway, Keery appreciated the guidance from Sadie Sink. As the cast's camaraderie deepens, Keery's career is also thriving with new and diverse opportunities ahead.",
+    "img": "https://static.toiimg.com/photo/msid-135181914,imgsize-205234.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/joe-keery-says-this-stranger-things-cast-member-is-keeping-the-group-chat-alive-were-keeping-in-touch/articleshow/135181873.cms",
+    "time": "2026-10-25T02:36:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US Fed expected to hold rates as inflation, energy costs weigh ahead of midterms",
+    "desc": "The US Federal Reserve is expected to keep interest rates unchanged in its upcoming meeting next week. Analysts suggest this decision comes despite ongoing inflation pressures and looming midterm elections. The Federal Reserve has struggled to meet its long-term inflation target due to rising prices affecting multiple sectors. Heightened energy costs after global conflicts are contributing significantly to inflation pressures.",
+    "img": "https://static.toiimg.com/photo/msid-135181864,imgsize-48096.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-fed-expected-to-hold-rates-as-inflation-energy-costs-weigh-ahead-of-midterms/articleshow/135181691.cms",
+    "time": "2026-10-25T02:28:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Asian Para Games bronze leaves Suhas Yathiraj hungry for gold amid IAS duties and badminton",
+    "desc": "Suhas Yathiraj's bronze medal at the Asian Para Games in Nagoya left him disappointed after missing out on a chance to fight for gold. The 43-year-old Indian shuttler, who has won silver medals at the Tokyo and Paris Paralympics, continues to juggle his responsibilities as an IAS officer with the demands of professional badminton. With the Los Angeles 2028 Paralympics on the horizon, he remains determined to go one better and win gold.",
+    "img": "https://static.toiimg.com/photo/msid-135181556,imgsize-53179.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-bronze-leaves-suhas-yathiraj-hungry-for-gold-amid-ias-duties-and-badminton/articleshow/135181520.cms",
+    "time": "2026-10-25T01:57:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka and Nick turn up the heat in loved-up pic",
+    "desc": "Nick Jonas celebrated sold-out shows for the Jonas Brothers' tour, sharing photos on social media. He posted an affectionate image with Priyanka Chopra and daughter Malti backstage at the event. Priyanka sported a 'Burnin Up' cap while they both wore matching outfits. Alongside his pictures, Nick expressed gratitude for sharing the tour experience with fans across different years. Meanwhile, Priyanka has continued filming despite recent project changes involving other actors.",
+    "img": "https://static.toiimg.com/photo/msid-135181391,imgsize-361728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/priyanka-chopra-and-nick-jonas-pose-for-loved-up-picture-together-couple-share-an-intimate-moment-backstage-at-burning-up-tour/articleshow/135181269.cms",
+    "time": "2026-10-25T01:45:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Haiku’ OTT: Where to watch Aegan, Sridevi Apalla’s Tamil romance",
+    "desc": "Tamil romantic drama 'Haiku' was released in theaters on October 23, 2026, starring Aegan and Sridevi Apalla. The film follows a young man, Mano, navigating complicated relationships and career struggles. Mano's college experience changes dramatically after a viral incident, leading him to a women's college. His romance with Pavalakodi is tested by jealousy and personal challenges, which affect their relationship. The film highlights themes of love, insecurity, and self-respect.",
+    "img": "https://static.toiimg.com/photo/msid-135181496,imgsize-361219.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/haiku-ott-release-date-where-to-watch-aegan-sridevi-apallas-tamil-romance-after-theatrical-run-reports/articleshow/135181491.cms",
+    "time": "2026-10-25T01:45:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Nayyi Navelli' day 9: Yami's film's India net reaches Rs 23.70 cr",
+    "desc": "Yami Gautam's film 'Nayyi Navelli' saw a surge in box office figures as it recovered notably on its second Saturday, October 24. The movie collected Rs 95 lakhs, a remarkable jump from Rs 60 lakhs on Friday. With a domestic net revenue of Rs 23.70 cr since its October 16 release, it also secured an international gross of Rs 3 cr, tallying a worldwide total of Rs 31.15 cr.",
+    "img": "https://static.toiimg.com/photo/msid-135181481,imgsize-384322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/nayyi-navelli-box-office-collection-day-9-yami-gautams-films-india-net-reaches-rs-23-70-cr-worldwide-gross-hits-rs-31-15-cr/articleshow/135181479.cms",
+    "time": "2026-10-25T01:42:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Team India's massive T20I record goes unnoticed; team miles ahead of Pakistan",
+    "desc": "India became the first team to play 300 men's T20 Internationals and also recorded their 200th win in the format. They reached the milestone in style, chasing down New Zealand's 180/5 with one ball to spare after losing five wickets for just 70 runs.",
+    "img": "https://static.toiimg.com/photo/msid-135181447,imgsize-56695.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/team-indias-massive-t20i-record-goes-unnoticed-team-miles-ahead-of-pakistan/articleshow/135181416.cms",
+    "time": "2026-10-25T01:30:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Prahaar",
+    "desc": "Rajkummar Rao's film 'Prahaar - The Ujjwal Nikam Story' recovered at the box office on its second Saturday. It collected Rs 1.15 crore, marking a significant increase from the previous day's earnings. The film's total net earnings in India reached approximately Rs 18.90 crore after nine days in theaters. Audience turnout showed improvement, particularly during evening and night screenings on Saturday.",
+    "img": "https://static.toiimg.com/photo/msid-135181377,imgsize-139151.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/prahaar-the-ujjwal-nikam-story-box-office-collection-day-9-rajkummar-raos-courtroom-drama-witnesses-growth-on-saturday-india-gross-reaches-rs-22-51-cr/articleshow/135181331.cms",
+    "time": "2026-10-25T01:20:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How India established its first scientific base in the frozen continent",
+    "desc": "An interview with Sourabha Rao, the producer of Miracle in Antarctica, which tells the story of Dakshin Gangotri, on covering how it was built, the challenges encountered, and why the expedition remains relevant more than four decades later",
+    "img": "https://th-i.thgim.com/public/life-and-style/40chgb/article71618918.ece/alternates/LANDSCAPE_1200/Miracle%20in%20Antarctica%203%20lead%20pic.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/antarctica-miracle-how-india-established-its-first-scientific-base-in-the-frozen-continent/article71618910.ece",
+    "time": "2026-10-25T01:16:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Man arrested after threatening staff on the sets of ‘Miami Vice 85’",
+    "desc": "Late one night on the set of 'Miami Vice 85', chaos erupted as 23-year-old Alex Perez was detained for brandishing a butcher's knife at crew members. After a confrontation, police swiftly intervened to arrest him in Brooklyn. Known for his prior criminal history—including five arrests for weapons and gang-related issues—Perez now confronts menacing and illegal possession charges.",
+    "img": "https://static.toiimg.com/photo/msid-135181351,imgsize-31914.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/man-threatens-staff-on-michael-b-jordans-miami-vice-85-set-in-brooklyn-arrested-after-an-altercation/articleshow/135181327.cms",
+    "time": "2026-10-25T01:14:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kamal Haasan",
+    "desc": "Kamal Haasan is set to join forces with director SU Arun Kumar for an exciting project currently titled 'Sandiyar.' This film promises to deliver a raw and intense action experience, grounded in the vibrant backdrop of Madurai, Tamil Nadu. Filming is anticipated to kick off in November, with the first-look poster potentially debuting on Haasan's birthday.",
+    "img": "https://static.toiimg.com/photo/msid-135181282,imgsize-191661.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kamal-haasan-su-arun-kumar-film-to-be-titled-sandiyar-first-look-planned-for-actors-birthday-reports/articleshow/135181262.cms",
+    "time": "2026-10-25T01:07:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Drishyam 3: The Conclusion' day 23: Ajay and Tabu's mystery drama crosses Rs 360 cr",
+    "desc": "The Conclusion' has experienced a remarkable surge at the box office as it recorded Rs 2.65 crore on its fourth Saturday. This noteworthy 89.3% rise from the prior day boosted its cumulative net earnings in India to Rs 365.90 crore and worldwide gross collections to an impressive Rs 568.60 crore, showcasing exceptional audience interest.",
+    "img": "https://static.toiimg.com/photo/msid-135181078,imgsize-374012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/drishyam-3-the-conclusion-box-office-collection-day-23-ajay-devgn-and-tabus-mystery-drama-crosses-rs-360-cr-mark-in-india-net-earnings/articleshow/135181045.cms",
+    "time": "2026-10-25T00:50:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ramayana' wedding song ‘Mangal Rang’ premieres today",
+    "desc": "The wedding song ‘Mangal Rang’ from the upcoming film ‘Ramayana’ is set to debut online today. Featuring vocals by Arijit Singh and Shreya Ghoshal, it represents the wedding of Lord Ram and Sita. The film is directed by Nitesh Tiwari and stars a notable cast including Ranbir Kapoor and Sai Pallavi. ‘Ramayana’ will also release a five-track soundtrack EP composed by A.R. Rahman and Hans Zimmer.",
+    "img": "https://static.toiimg.com/photo/msid-135180887,imgsize-561481.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-wedding-song-mangal-rang-featuring-arijit-singh-and-shreya-ghoshal-premieres-today-fans-go-gaga-over-ranbir-kapoor-and-sai-pallavis-ram-and-sita-avatar/articleshow/135180863.cms",
+    "time": "2026-10-25T00:47:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How is Kerala planning to prevent child deaths linked to malnutrition and neglect?",
+    "desc": "A State-wide vulnerability mapping will be held to identity children living in vulnerable conditions that pose a risk to their health, education, and safety. Once the vulnerable children are identified and their details collected, regular follow-ups will be held",
+    "img": "https://th-i.thgim.com/public/incoming/8fzim8/article71618986.ece/alternates/LANDSCAPE_1200/6678_24-9-2017_19-31-35_TRIBAL_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/how-is-kerala-planning-to-prevent-child-deaths-linked-to-malnutrition-and-neglect-explained/article71618979.ece",
+    "time": "2026-10-25T00:46:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Udta Teer' Box Office Day 2: Ayushmann's film touches Rs 11.35 cr",
+    "desc": "The cinematic journey of 'Udta Teer' featuring Ayushmann Khurrana has taken flight, showing a notable box office rise by achieving Rs 7.25 crore on its second day—a staggering 76.8% growth from its debut. The film's overall domestic earnings have climbed to Rs 11.35 crore, while its global collection stands at Rs 16.28 crore.",
+    "img": "https://static.toiimg.com/photo/msid-135180950,imgsize-181766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/udta-teer-box-office-collection-day-2-ayushmann-khurranas-film-touches-rs-11-35-cr-mark-in-india-net-earnings-saturday-occupancy-improves-to-21/articleshow/135180931.cms",
+    "time": "2026-10-25T00:42:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Derrick Harriott passes away at 87 years old",
+    "desc": "Derrick Harriott, an iconic figure in the reggae music landscape, has sadly passed away at the age of 87. Starting in the vibrant 1960s with The Jiving Juniors, he later carved out a notable solo career filled with chart-topping hits. Harriott's influence extended globally, enhancing Jamaica's musical identity and earning him prestigious accolades, including the Order of Distinction and JaRIA's Lifetime Achievement Award.",
+    "img": "https://static.toiimg.com/photo/msid-135180891,imgsize-27400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/reggae-icon-derrick-harriott-passes-away-at-age-87-tributes-pour-in-for-born-to-love-you-singer/articleshow/135180826.cms",
+    "time": "2026-10-25T00:39:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Titans' BO day 3: Jayasurya and Vinayakan's film rises 20%",
+    "desc": "The Malayalam film 'Titans' has made a significant leap in box office collections, raking in Rs 42 lakhs on Saturday. With a total domestic net of Rs 1.42 crore over its initial three days, the movie rebounded from a Friday dip. Showcasing a 20% growth in earnings, its average revenue per screening reached Rs 5,866, reflecting strong audience interest, especially during evening and night screenings.",
+    "img": "https://static.toiimg.com/photo/msid-135180892,imgsize-206368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/titans-box-office-collection-day-3-jayasurya-and-vinayakans-film-rises-20-india-net-reaches-rs-1-42-cr/articleshow/135180883.cms",
+    "time": "2026-10-25T00:39:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ranabaali' BO day 9: Vijay Deverakonda's film crosses Rs 50 cr India",
+    "desc": "The film 'Ranabaali', featuring Vijay Deverakonda and Rashmika Mandanna, has celebrated a remarkable achievement, amassing over Rs 50 crore in net collections. With a notable collection of Rs 2.80 crores on its second Saturday, reflecting a 33.3% increase from Friday, the movie's domestic gross now stands at Rs 58.25 crores, alongside Rs 11.85 crores from overseas markets.",
+    "img": "https://static.toiimg.com/photo/msid-135180668,imgsize-209813.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ranabaali-box-office-collection-day-9-vijay-deverakonda-and-rashmika-mandannas-film-crosses-rs-50-cr-india-net-saturday-earnings-rise-33-3/articleshow/135180635.cms",
+    "time": "2026-10-25T00:23:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jailer 2' BO day 10: Rajinikanth's film rises 66.66 %",
+    "desc": "'Jailer 2', featuring the iconic Rajinikanth, showcased an impressive resurgence in box office earnings on its second Saturday, earning Rs 24.15 crores in India, which is a 66.6% increase from the prior day. With an additional Rs 10 crore internationally, its overseas haul now stands at Rs 229.50 crore. Notably, the Tamil version led with Rs 16.25 crore and 46.2% in occupancy, enthralling an astounding 24,676,150 viewers overall.",
+    "img": "https://static.toiimg.com/photo/msid-135180299,imgsize-175474.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-box-office-collection-day-10-rajinikanths-film-rises-66-6-india-net-reaches-rs-373-cr-worldwide-gross-hits-rs-666-30-cr/articleshow/135180278.cms",
+    "time": "2026-10-25T00:05:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Prioritise welfare over military directives’: India raps Pak on minority rights at UN",
+    "desc": "Speaking at an interactive dialogue with the Special Rapporteur on Minority Issues at the UN General Assembly's Third Committee, India's First Secretary at the Permanent Mission to the UN, Raghoo Puri, called out Pakistan's conduct and said its representatives should focus on the welfare of their own people instead of taking directions from the military.",
+    "img": "https://static.toiimg.com/photo/msid-135180216,imgsize-725374.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/prioritise-welfare-over-military-directives-india-raps-pak-on-minority-rights-at-un/articleshow/135180093.cms",
+    "time": "2026-10-25T00:02:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Stallone on daughter's 'Tulsa King' casting: 'Of course it's nepotism'",
+    "desc": "Sylvester Stallone defends nepotism in Hollywood while discussing his daughter Scarlet Rose Stallone's role in 'Tulsa King'. He emphasizes that parents should help their children seize opportunities and advocates for giving them advantages. Stallone acknowledges the challenges of maintaining success despite having famous parents and suggests that talent ultimately matters. 'Tulsa King' has been renewed for a fifth season, with production resuming in New York City.",
+    "img": "https://static.toiimg.com/photo/msid-135180053,imgsize-243174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sylvester-stallone-defends-daughter-scarlets-casting-in-tulsa-king-of-course-its-nepotism-thats-why-were-parents/articleshow/135180016.cms",
+    "time": "2026-10-24T23:35:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Game of Thrones’ cast REUNITE at Emilia Clarke’s 40th b'day bash",
+    "desc": "Emilia Clarke celebrated her 40th birthday on October 23 with a reunion of her Game of Thrones co-stars. Notable guests included Kit Harington, Nathalie Emmanuel, and Alfie Allen, among others. The reunion provided a nostalgic experience for fans of the series, which concluded in 2019 after eight seasons. As the franchise expands, new content like House of the Dragon is being developed.",
+    "img": "https://static.toiimg.com/photo/msid-135179987,imgsize-295580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/game-of-thrones-stars-reunite-at-emilia-clarkes-40th-birthday-bash-kit-harington-nathalie-emmanuel-alfie-allen-among-guests-pics/articleshow/135179893.cms",
+    "time": "2026-10-24T22:47:32.000Z"
   },
   {
     "cat": "Politics",
@@ -16,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/suspicious-pigeon-with-coded-ring-pak-currency-causes-a-flutter-in-jammu/articleshow/135176763.cms",
     "time": "2026-10-24T22:09:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Danielle recalls Dolly Parton's reaction to stage zero cancer diagnosis",
-    "desc": "Dolly Parton’s niece Danielle Parton has revealed she is battling stage zero cancer, saying she caught it early. She told her aunt about her diagnosis weeks before the singer’s death at 80. Danielle recalled Dolly being “devastated” by the news and said her aunt often worried about others before revealing her own health struggles.",
-    "img": "https://static.toiimg.com/photo/msid-135177786,imgsize-69626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-partons-niece-danielle-parton-reveals-stage-zero-cancer-diagnosis-says-late-aunt-was-devastated-after-learning-about-her-health-battle-weeks-before-her-death-at-80/articleshow/135177781.cms",
-    "time": "2026-10-24T20:55:20.000Z"
   },
   {
     "cat": "Politics",
@@ -82,12 +307,30 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "A development dream linked to Ravana’s birthplace",
+    "desc": "In Greater Noida’s Bisrakh, where Dasara passes without the burning of Ravana’s effigy, the priests of two temples that are barely 300 metres apart claim that their temple stands at the exact spot where the Ramayana’s demon-king was born. Ishita Mishra finds that as the priests vie for Ravana’s legacy, residents hope that a story passed down through generations will bring their village recognition, roads, footfall, and funds",
+    "img": "https://th-i.thgim.com/public/incoming/tm9mx1/article71616210.ece/alternates/LANDSCAPE_1200/RAVAN%20VILLAGE%20BISHRAKH%20VILLAGE%20GREATER%20NOIDA%20SPOTLIGHT%20ISHITA%204.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/a-development-dream-linked-to-ravanas-birthplace/article71616208.ece",
+    "time": "2026-10-24T19:49:24.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Kerala Police book social media influencer Darren for ‘communally divisive hate speech’ on Instagram",
     "desc": "Social media influencer Diya Krishna, daughter of BJP leader and NTDFC chairperson G. Krishnan Kumar, says she seconded Darren’s post as a ‘sad reality’ without watching the full video; Darren also criticised UDF govt. for ‘accepting funding from Arab countries to aid promote Islam’ in Keralam; Satheesan, Pinarayi slam the video",
     "img": "https://th-i.thgim.com/public/incoming/m9qwnp/article71620122.ece/alternates/LANDSCAPE_1200/2019-05-20T161221Z_724302619_RC1582C590C0_RTRMADP_3_USA-TRUMP-INSTAGRAM.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece",
     "time": "2026-10-24T19:38:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Now, one more road proposed alongside Bengaluru’s Hebbal Lake",
+    "desc": "The GBA has published a circulation plan for the Greater Bengaluru Local Planning Area, inviting objections and suggestions from the public. The exercise aims to expand the road network to improve traffic flow across the city.",
+    "img": "https://th-i.thgim.com/public/news/national/karnataka/cml0sl/article71621360.ece/alternates/LANDSCAPE_1200/hebbal.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/now-one-more-road-proposed-alongside-bengalurus-hebbal-lake/article71620417.ece",
+    "time": "2026-10-24T19:28:11.000Z"
   },
   {
     "cat": "Politics",
@@ -153,6 +396,15 @@ const newsData_en = [
     "time": "2026-10-24T17:38:56.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "When safety slips through a gaping hole",
+    "desc": "A recent fatal accident at the Thirumayilai MRTS railway station has once again highlighted the huge gaps in the maintenance and safety of MRTS stations in Chennai. With the Railway Board giving the go-ahead for handing over the service to CMRL, this report throws light on what needs to be done",
+    "img": "https://th-i.thgim.com/public/incoming/rzfqef/article71620996.ece/alternates/LANDSCAPE_1200/PERUNGUDI_BVR.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/when-safety-slips-through-a-gaping-hole/article71620990.ece",
+    "time": "2026-10-24T17:34:41.000Z"
+  },
+  {
     "cat": "World",
     "title": "Iran Speaker to skip BRICS meet, as Iran seeks bilateral air route for ‘humanitarian aid’ from India",
     "desc": "Iran Air not allowed to fly medicines directly from India to Tehran, due to fear of U.S. sanctions; India says medicines can be taken through a third country; Tehran says humanitarian aid is exempted from sanctions",
@@ -180,33 +432,6 @@ const newsData_en = [
     "time": "2026-10-24T17:06:06.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ayushmann-Tahira host Diwali bash: KJo, Sara, Rajkummar, Arjun, more attend celebration",
-    "desc": "With Diwali just around the corner, festive celebrations have taken over the country. From intimate gatherings to grand star-studded parties, people are embracing the festive spirit, and Bollywood celebrities are no exception. Recently, actors Ayushmann Khurrana and Tahira Kashyap hosted a grand Diwali bash for their friends and colleagues from the film industry at their residence in Mumbai.",
-    "img": "https://static.toiimg.com/photo/msid-135174464,imgsize-804614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayushmann-khurrana-and-tahira-kashyap-host-star-studded-diwali-bash-karan-johar-sara-ali-khan-rajkummar-rao-arjun-kapoor-and-more-attend-the-celebration/articleshow/135174126.cms",
-    "time": "2026-10-24T17:00:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taiwan ambassador praises Ranveer's 'Dhurandhar' at Taiwan Film Festival in New Delhi",
-    "desc": "Mumin Chen, representing Taipei Economic and Cultural Centre in India, spoke at the Taiwan Film Festival. He named ‘Dhurandhar’ as the most impressive film he watched last year. Chen highlighted his admiration for actors Aamir Khan and Shah Rukh Khan for their impactful work. Directed by Aditya Dhar, ‘Dhurandhar’ features Ranveer Singh as an Indian spy in Pakistan. The film has achieved significant box office success both domestically and internationally.",
-    "img": "https://static.toiimg.com/photo/msid-135174032,imgsize-714903.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/taiwan-ambassador-mumin-chen-praises-ranveer-singhs-dhurandhar-at-taiwan-film-festival-in-new-delhi-also-calls-aamir-khan-very-impressive-as-an-actor-and-producer/articleshow/135173925.cms",
-    "time": "2026-10-24T16:35:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Helen Mirren fights to save Italy’s 1,500-year-old olive trees from deadly bacteria",
-    "desc": "Helen Mirren, 81, is fighting to save Italy’s ancient olive trees from Xylella fastidiosa, a deadly bacterium that has reportedly destroyed around 22 million trees since 2013. Through her initiative, Save the Olives, the Oscar winner is supporting conservation efforts and developing resistant varieties. “We have to save these trees,” she says.",
-    "img": "https://static.toiimg.com/photo/msid-135173926,imgsize-106349.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/europe/helen-mirren-81-is-on-a-mission-to-save-italys-1500-year-old-olive-trees-deadly-xylella-fastidiosa-bacteria-has-wiped-out-22-million-trees-since-2013-we-have-to-save-these-trees-she-says/articleshow/135173886.cms",
-    "time": "2026-10-24T16:32:21.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "RG Kar victim's parents question ex-principal Sandip Ghosh's bail; citizens' groups plan CBI office march",
     "desc": "The parents of the RG Kar victim are expressing their outrage over the bail granted to Sandip Ghosh, insisting that the investigation into their daughter's tragic death must be held accountable. Plans are underway for a protest organized by citizens' groups, pressing the Central Bureau of Investigation for urgent action. Family members and medical professionals alike have raised serious concerns regarding the efficacy and integrity of the ongoing investigation.",
@@ -214,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/rg-kar-victims-parents-question-ex-principal-sandip-ghoshs-bail-citizens-groups-plan-cbi-office-march/articleshow/135173539.cms",
     "time": "2026-10-24T16:27:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Daler Mehndi’s son breaks silence on Uttarakhand minister row: 'God takes care of the rest'",
-    "desc": "In light of the recent on-stage incident involving Daler Mehndi and Minister Subodh Uniyal, Gurdeep Mehndi took a moment to share his thoughts. During the performance, the minister reprimanded Daler for alleged intoxication and a lack of live singing. Expressing gratitude, Gurdeep urged fans to continue their love and support. Mika Singh also came to Daler's defense, asserting that the claims were baseless.",
-    "img": "https://static.toiimg.com/photo/msid-135173735,imgsize-841027.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/daler-mehndis-son-gurdeep-mehndi-breaks-silence-on-uttarakhand-minister-row-like-papa-says-god-takes-care-of-the-rest/articleshow/135173661.cms",
-    "time": "2026-10-24T16:14:45.000Z"
   },
   {
     "cat": "Politics",
@@ -234,15 +450,6 @@ const newsData_en = [
     "time": "2026-10-24T15:47:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aaradhya looks taller than Aishwarya, flaunts long locks in new family photos",
-    "desc": "Aaradhya Bachchan grabbed attention in new family photos shared by Shrima Rai from nephew Shivansh Rai’s birthday celebration. The 14-year-old appeared taller than her mother, Aishwarya Rai Bachchan, while her long locks also caught fans’ attention. The pictures offered a glimpse of the intimate gathering attended by Aishwarya, Aaradhya and other Rai family members.",
-    "img": "https://static.toiimg.com/photo/msid-135173194,imgsize-105238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aaradhya-bachchan-looks-taller-than-aishwarya-rai-bachchan-flaunts-long-locks-in-new-family-photos-as-shrima-rai-shares-glimpses-of-nephew-shivanshs-birthday-celebration/articleshow/135173141.cms",
-    "time": "2026-10-24T15:32:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Consolidated net profit jumps 26% to Rs 5,645 crore",
     "desc": "Kotak Mahindra Bank reported an impressive 26% growth in its consolidated net profit for the September quarter of FY27. Standalone profit surged by 29%, reaching Rs 4,212 crore. The bank's asset quality improved, as evidenced by the notable decrease in gross non-performing assets. Moreover, the net interest income increased by 16%, with a robust capital adequacy ratio of 21.9%. Nevertheless, the net interest margin dipped to 4.",
@@ -252,24 +459,6 @@ const newsData_en = [
     "time": "2026-10-24T15:05:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Pinky Cole's Georgia rental home faces foreclosure over $164K mortgage debt",
-    "desc": "‘RHOA’ star Pinky Cole is facing another financial setback as a Georgia rental property faces possible foreclosure over $164,000 in mortgage debt. Finance company Selene Finance LP alleges that payments have been missed since December 2025. Cole’s legal team has disputed the lender’s move, saying the property is a rental and is addressed in her bankruptcy plan.",
-    "img": "https://static.toiimg.com/photo/msid-135172718,imgsize-78085.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/english/rhoa-star-pinky-cole-faces-major-financial-setback-as-georgia-rental-home-faces-possible-foreclosure-over-164000-mortgage-debt-amid-bankruptcy-battle-finance-company-alleges-missed-payments-since-december-2025/articleshow/135172658.cms",
-    "time": "2026-10-24T14:55:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir tipped off about ‘Ramayana 2’ delay, helping ‘Spirit’ lock Diwali 2027 release",
-    "desc": "Director Sandeep Reddy Vanga's action thriller 'Spirit' will be released on Diwali 2027. This release date was chosen after consultations, as Ranbir Kapoor confirmed potential delays for 'Ramayana 2'. Vanga made this decision promptly, ensuring no scheduling conflicts arose with his friend's project. The announcement highlights their friendship, dispelling rumors of rivalry in the industry. The new release date for 'Ramayana 2' will be announced soon, likely around Diwali.",
-    "img": "https://static.toiimg.com/photo/msid-135172617,imgsize-620206.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-tipped-off-sandeep-reddy-vanga-about-ramayana-2-delay-helping-prabhas-spirit-lock-diwali-2027-release-report/articleshow/135172493.cms",
-    "time": "2026-10-24T14:46:42.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Congress to launch door-to-door campaign, hold marches over voter list 'discrepancies'",
     "desc": "Congress aims to register all eligible citizens by the end of December through an extensive campaign. The campaign will include marches, pamphlet distribution, and awareness meetings in both urban and rural areas. Booth-level agents will be appointed to help verify the accuracy of voter lists and report discrepancies. Allegations have arisen regarding significant irregularities affecting millions of voters across the country.",
@@ -277,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/congress-to-launch-door-to-door-campaign-hold-marches-over-voter-list-discrepancies/articleshow/135172497.cms",
     "time": "2026-10-24T14:45:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sai Pallavi asks Yash about returning to romantic films; here’s his reply",
-    "desc": "During a promotional event, actress Sai Pallavi shared a conversation with actor Yash about his career choices. Yash expressed his desire to focus on bigger films that represent Indian cinema on a global scale. He gained fame through the KGF franchise after starting in romantic Kannada films. The upcoming film Ramayana features a star-studded cast, including Ranbir Kapoor and Ravi Dubey.",
-    "img": "https://static.toiimg.com/photo/msid-135172555,imgsize-131271.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/sai-pallavi-asks-yash-if-he-will-return-to-making-romantic-films-find-out-what-the-ramayana-actor-said/articleshow/135172544.cms",
-    "time": "2026-10-24T14:40:18.000Z"
   },
   {
     "cat": "Sports",
@@ -306,24 +486,6 @@ const newsData_en = [
     "time": "2026-10-24T14:23:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NMC weighs five-year rotation of HoDs after stakeholder feedback",
-    "desc": "The National Medical Commission is considering an update to the rotation period for heads of departments in medical colleges. This revision aims to change the tenure from three years to five years based on stakeholder feedback. The original proposal also included both professors and eligible associate professors, which will now be restricted. A detailed response to an RTI application has confirmed that the proposal is still under consideration.",
-    "img": "https://static.toiimg.com/photo/msid-135172238,imgsize-99950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nmc-weighs-five-year-rotation-of-hods-after-stakeholder-feedback/articleshow/135172062.cms",
-    "time": "2026-10-24T14:13:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tara Sutaria to star with Aditya in musical romance",
-    "desc": "Aditya Roy Kapur’s upcoming intense musical love story, directed by Milap Milan Zaveri and produced by Bhushan Kumar, has found its leading lady in Tara Sutaria, the makers announced Saturday. Described as raw, passionate and violent, the film marks the pair’s first on-screen pairing. Filming begins later this year, with a 2027 release planned.",
-    "img": "https://static.toiimg.com/photo/msid-135172252,imgsize-258954.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tara-sutaria-joins-aditya-roy-kapur-in-milap-milan-zaveris-musical-romance-described-as-a-raw-passionate-and-violent-love-story/articleshow/135172201.cms",
-    "time": "2026-10-24T14:13:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections",
     "desc": "‘Well you know I was elected by 211 member associations from all over the world, I think what is important is that in an organization like FIFA, there can be different views, different points of view,’ said Gianni Infantino",
@@ -331,24 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/infantino-says-hes-supported-by-vast-vast-majority-of-football-ahead-of-fifa-elections/article71620231.ece",
     "time": "2026-10-24T13:41:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Capturing shooters is neither...'",
-    "desc": "Filmmaker Ram Gopal Varma expressed views on the arrest of shooters linked to a crime incident. He highlighted that shooters are easily replaceable within criminal networks, emphasizing their low value. Varma compared their roles to construction laborers who execute tasks without strategic input. He argued that the real power lies with those who orchestrate violent operations. As a result, capturing shooters does not dismantle the overarching criminal organization.",
-    "img": "https://static.toiimg.com/photo/msid-135171782,imgsize-514183.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-on-tiger-shroff-firing-case-arrests-capturing-the-shooters-is-neither-the-polices-gain-nor-the-underworlds-loss-people-who-assign-the-job-are-the-architects/articleshow/135171691.cms",
-    "time": "2026-10-24T13:37:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 1999, Sam Neill acquired his New Zealand estate; now Jason Momoa has bought it for NZD 15 million",
-    "desc": "In an exciting acquisition, Jason Momoa has taken over the luxurious estate once owned by Sam Neill, paying NZD 15 million for this remarkable property in Dalefield, New Zealand. Surrounded by scenic views near Queenstown, the estate showcases the brilliance of architect Richard Naish with its spacious living areas and an inviting clubhouse. Additionally, the land—previously utilized for horticultural research—is adorned with thriving vineyards and beautiful gardens.",
-    "img": "https://static.toiimg.com/photo/msid-135169246,imgsize-52150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1999-sam-neill-bought-this-12-15-acre-estate-in-new-zealand-following-his-death-the-house-was-sold-off-to-aquaman-star-jason-momoa-for-nzd-15-million/articleshow/135169193.cms",
-    "time": "2026-10-24T13:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -396,42 +540,6 @@ const newsData_en = [
     "time": "2026-10-24T12:07:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Prabhas' 'Fauzi' teaser faces backlash over Subhas Chandra Bose’s portrayal: 'The audacity...'",
-    "desc": "Prabhas' film 'Fauzi' is under fire due to its controversial teaser, specifically for depicting historical figures like Netaji Subhas Chandra Bose alongside Adolf Hitler. Viewers are voicing their displeasure online and calling for an apology, fearing the film undermines Netaji's legacy. Conversely, some fans consider it a fictional take on real events. Directed by Hanu Raghavapudi, 'Fauzi' is scheduled for release on March 19, 2027.",
-    "img": "https://static.toiimg.com/photo/msid-135170146,imgsize-316793.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prabhass-fauzi-teaser-faces-backlash-over-subhas-chandra-boses-portrayal-the-audacity-to-insult-netaji-by-making-him-portray-as-cheerleader-just-for-the-sake-of-aura-farming/articleshow/135169751.cms",
-    "time": "2026-10-24T12:04:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actor links Raksha Bandhan ad trolling to misogyny",
-    "desc": "Kriti Sanon, trolled in August over her “revealing” outfit in a GIVA Raksha Bandhan ad, says her choli became a “national debate.” Speaking to Kareena Kapoor Khan, she said women are scrutinised for everything, criticised those preaching culture while abusing her family online, and added women simply want to not be judged.",
-    "img": "https://static.toiimg.com/photo/msid-135170116,imgsize-422035.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/whats-with-the-hate-kriti-sanon-reacts-to-backlash-over-her-raksha-bandhan-ad-outfit-on-kareena-kapoors-talk-show/articleshow/135170028.cms",
-    "time": "2026-10-24T12:01:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Director marks 50 years with Talpade reunion",
-    "desc": "Subhash Ghai, marking 50 years in cinema, unveiled a new poster of Manya, starring Shreyas Talpade, on Mukta Arts’ 48th anniversary. Directed by Sameer Joshi, the film reunites Ghai and Talpade after Iqbal. Ghai is also working on Khalnayak Returns with Sanjay Dutt and a courtroom drama with Anil Kapoor.",
-    "img": "https://static.toiimg.com/photo/msid-135169974,imgsize-165257.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/subhash-ghai-marks-50-years-in-cinema-unveils-new-poster-of-manya-with-shreyas-talpade/articleshow/135169961.cms",
-    "time": "2026-10-24T11:55:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SS Rajamouli says ‘Varanasi’ is 5–6 times bigger than ‘RRR’",
-    "desc": "Director SS Rajamouli is preparing for the release of his new film 'Varanasi', which features Mahesh Babu and Priyanka Chopra. The filmmaker states that this upcoming project is significantly larger than his blockbuster 'RRR'. He managed to complete filming in 275 days, saving 40 days compared to 'RRR' due to extensive planning. 'Varanasi' will reportedly explore themes of time travel and asteroids, involving various international locations.",
-    "img": "https://static.toiimg.com/photo/msid-135169845,imgsize-155353.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ss-rajamouli-says-varanasi-is-five-to-six-times-bigger-than-rrr-reveals-how-he-saved-40-days-in-shooting/articleshow/135169770.cms",
-    "time": "2026-10-24T11:48:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Arshdeep Singh scripts history, breaks Bhuvneshwar’s record to set new India mark",
     "desc": "Arshdeep Singh achieved a significant milestone by becoming India's leading wicket-taker in T20Is in a calendar year, taking his tally to 38 wickets in 2026 to surpass Bhuvneshwar Kumar's previous record of 37. In the second T20I against New Zealand, Arshdeep dismissed Tim Seifert early and later claimed the crucial wicket of Glenn Phillips. Despite India's struggles during the chase, Tilak Varma's unbeaten 51 kept the visitors in contention. Arshdeep's consistent performances further underline his importance to India's bowling attack in the shortest format.",
@@ -448,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/2nd-t20i-tilak-varma-nitish-kumar-reddy-rescue-india-from-112/6-to-seal-a-thrilling-4-wicket-win-against-new-zealand/articleshow/135168697.cms",
     "time": "2026-10-24T11:04:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Did Ronaldo score his 982nd goal or was it an own goal? league settles the dispute",
-    "desc": "Cristiano Ronaldo moved closer to 1,000 career goals after scoring in Al Nassr’s 3-1 victory over Al Faisaly, taking his official tally to 982. However, the goal sparked controversy after a deflection raised questions about an own goal. While the Saudi Pro League credited Ronaldo, Opta and other platforms disagreed, leaving him 18 goals away from the historic milestone.",
-    "img": "https://static.toiimg.com/photo/msid-135168489,imgsize-2598600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/did-cristiano-ronaldo-score-his-982nd-career-goal-against-al-faisaly-or-was-it-an-own-goal-league-settles-dispute/articleshow/135168288.cms",
-    "time": "2026-10-24T10:57:07.000Z"
   },
   {
     "cat": "Sports",
@@ -477,24 +576,6 @@ const newsData_en = [
     "time": "2026-10-24T10:11:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Udta Teer' box office Day 2: Ayushmann 's film crosses Rs 15 cr worldwide",
-    "desc": "Ayushmann Khurrana and Sara Ali Khan's latest film, 'Udta Teer,' hit theaters on October 23, 2026. Although the film received a mix of reviews, with some applauding its creativity while others criticized its execution, box office results reflect modest success. It opened with Rs 4.10 crore, followed by Rs 1.55 crore on day two, bringing the total to Rs 6.66 crore.",
-    "img": "https://static.toiimg.com/photo/msid-135167135,imgsize-657554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/udta-teer-box-office-collection-day-2-live-ayushmann-khurrana-and-sara-ali-khan-starrer-is-set-to-cross-rs-10-crore-net-today/articleshow/135167054.cms",
-    "time": "2026-10-24T09:32:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘You did nothing wrong’: Faf reveals message to Steve Smith during Sandpapergate",
-    "desc": "During the 2018 ball-tampering scandal, Faf du Plessis reached out to Steve Smith to offer his support. He questioned why Smith accepted blame for the incident despite not being culpable. Drawing from his own experience with a similar charge in 2016, du Plessis expressed empathy for Smith's situation under intense media criticism. Their mutual respect, evident from past support, solidified a bond that resonated within both teams.",
-    "img": "https://static.toiimg.com/photo/msid-135165979,imgsize-54744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-did-nothing-wrong-faf-du-plessis-reveals-message-to-steve-smith-during-sandpapergate/articleshow/135165907.cms",
-    "time": "2026-10-24T08:25:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Tilak Varma breaks world record during India vs New Zealand 2nd T20I",
     "desc": "Tilak Varma achieved a historic milestone by taking the most catches in T20 Internationals during 2026. His remarkable performance included two catches in the second T20I against New Zealand. Varma surpassed the previous record held by Danilson Hawoe with a total of 26 catches this year. India won the toss and opted to bowl, making two changes to their playing XI.",
@@ -504,15 +585,6 @@ const newsData_en = [
     "time": "2026-10-24T08:07:17.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Steffan Jones joins Mumbai Indians as bowling consultant",
-    "desc": "Mumbai Indians (MI) have roped in former Rajasthan Royals high-performance coach Steffan Jones as a bowling consultant for their development squad. Jones will work with MI's development squad alongside director of performance Zubin Bharucha, with the duo tasked with helping Indian players improve their skillsets.",
-    "img": "https://static.toiimg.com/photo/msid-135164832,imgsize-30002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2027-steffan-jones-joins-mumbai-indians-as-bowling-consultant/articleshow/135164826.cms",
-    "time": "2026-10-24T07:17:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Commerce Ministry identifying AI-proof professions, sectors where India can take global lead: Goyal",
     "desc": "The Commerce and Industry Minister said that the focus would be on sectors where AI could improve efficiency without necessarily replacing human workers, while leveraging India’s large pool of skilled talent, youthful population and traditional strengths",
@@ -520,15 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/commerce-ministry-identifying-ai-proof-professions-sectors-where-india-can-take-global-lead-goyal/article71619298.ece",
     "time": "2026-10-24T07:06:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi in playing XI, but there's a twist",
-    "desc": "India captain Shreyas Iyer won the toss and elected to bowl first against New Zealand in the second T20. The team made two changes, with 15-year-old Vaibhav Sooryavanshi replacing Ishan Kishan and Prince Yadav coming in for Mayank Yadav. Iyer emphasized the importance of maintaining their aggressive approach while addressing fielding improvements. New Zealand also made a change, bringing in Jacob Duffy for Adam Milne.",
-    "img": "https://static.toiimg.com/photo/msid-135164678,imgsize-36465.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-2nd-t20i-vaibhav-sooryavanshi-in-playing-xi-but-theres-a-twist/articleshow/135164552.cms",
-    "time": "2026-10-24T07:02:49.000Z"
   },
   {
     "cat": "Business",
@@ -775,24 +838,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "At €310 billion, Union minister Piyush Goyal eyes 10x rise in Indo-German trade",
-    "desc": "At the inauguration of the India Centre and Indo-German Business Forum in Berlin, Goyal said the FTA could be signed by Dec and implemented within four to five months. “We had 31.5 billion euros (in 2025) and (if) we were to be able to add a zero to that, make it 310 billion euros. How would that sound? Now, we can certainly make that happen,” he said, emphasising the need to draw up concrete plans to realise the ambition.",
-    "img": "https://static.toiimg.com/photo/msid-135128042,imgsize-39894.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/at-310-billion-union-minister-piyush-goyal-eyes-10x-rise-in-indo-german-trade/articleshow/135127763.cms",
-    "time": "2026-10-22T22:12:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "eMudhra to exit global SSL/TLS business, shares tank",
-    "desc": "The company’s board decided to withdraw from the business after reviewing its commercial prospects and the scrutiny triggered by the incident. The global SSL/TLS business contributes about 1% of eMudhra’s revenue, but rising compliance requirements, increasing costs and competition from free certificate providers have reduced its potential returns, the company said.",
-    "img": "https://static.toiimg.com/photo/msid-135127837,imgsize-27046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/emudhra-to-exit-global-ssl/tls-business-shares-tank/articleshow/135127748.cms",
-    "time": "2026-10-22T22:10:27.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Yes Bank Additional Tier 1 bondholders seek interest payment",
     "desc": "The YES Bank AT1 Retail Bond Holders Association cited Companies Act and Sebi obligations in seeking an explanation for non-payment of the 9% bond coupon due Oct 18, three days after the Oct 15 court order restoring the bonds. It also demanded payment of coupons skipped in 2020-25 and arrangements for the forthcoming Dec 23 coupon on 9.5% bonds.",
     "img": "https://static.toiimg.com/photo/msid-135127835,imgsize-61946.cms",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/the-fiscal-tightrope-for-state-governments/article71167296.ece",
     "time": "2026-10-22T16:50:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "The RBI and its growing fiscal role",
-    "desc": "RBI’s record ₹2.87 lakh crore surplus transfer to the Centre shows its growing fiscal significance, as earnings from reserve management and foreign assets support govt. finances; the trend raises questions about central bank independence, fiscal centralisation, and exclusion of such transfers from fiscal devolution to States",
-    "img": "https://th-i.thgim.com/public/incoming/4cfiid/article71114984.ece/alternates/LANDSCAPE_1200/2026-06-04T051343Z_1888669078_RC2JPCAERN8K_RTRMADP_3_INDIA-ECONOMY-RATES.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/the-rbi-and-its-growing-fiscal-role/article71113535.ece",
-    "time": "2026-10-22T16:23:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "The reality behind falling net FDI",
-    "desc": "India’s net FDI has declined sharply despite strong gross inflows, underlining the impact of disinvestment/capital repatriation; an understanding of these trends requires looking beyond aggregate inflow, outflow figures; investor classes, modes of entry, and exit strategies can have important implications for technology transfer, industrial development, and external sustainability",
-    "img": "https://th-i.thgim.com/public/incoming/6sibpc/article71086348.ece/alternates/LANDSCAPE_1200/iStock-1826712198.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/the-reality-behind-falling-net-fdi/article71084799.ece",
-    "time": "2026-10-22T16:08:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Queer voices find expression in a new documentary",
-    "desc": "What does it mean to tell your story in your own voice? Catch the screening of Quiet Reckoning, a documentary that brings the lives and experiences of people from the LGBTQ+ community to the forefront",
-    "img": "https://th-i.thgim.com/public/food/bfst6b/article71607224.ece/alternates/LANDSCAPE_1200/Still%20from%20the%20fillm%202%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/quiet-reckoning-queer-voices-find-expression-in-a-new-documentary/article71603603.ece",
-    "time": "2026-10-22T07:10:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?",
-    "desc": "Elon Musk’s reported restrictions on satellite services to Ukraine show the risks of India’s dependence on foreign-controlled technology; from satellite navigation to cloud computing and military equipment, gaps in domestic capabilities can leave critical infrastructure exposed to external pressure",
-    "img": "https://th-i.thgim.com/public/incoming/55v76z/article71608768.ece/alternates/LANDSCAPE_1200/iStock-1558220804.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
-    "time": "2026-10-22T05:22:49.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Eight web security keys of eMudhra firm used by Govt. and PSUs leaked",
-    "desc": "Many government websites, including the Aadhaar issuer UIDAI and the income tax filing portal, use digital certificates or other technology from the Bengaluru-headquartered firm; no indication that the firm’s root certificates itself — which sit above the tier that was leaked — have been compromised",
-    "img": "https://th-i.thgim.com/public/incoming/dbz818/article71606409.ece/alternates/LANDSCAPE_1200/IMG_BL_-_24_04_2019_-_90_2_1_32AMRDIU.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/eight-web-security-keys-of-firm-used-by-govt-and-psus-leaked/article71606342.ece",
-    "time": "2026-10-21T14:59:04.000Z"
   }
 ];
