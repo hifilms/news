@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Where to watch Barcelona vs Real Madrid live on TV and stream online in India?",
+    "desc": "La Liga leaders Barcelona welcome arch-rivals Real Madrid to the Spotify Camp Nou for the 265th competitive El Classico, with Hansi Flick’s side aiming to stretch an unprecedented domestic start. The Catalan giants enter the fixture...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/where-to-watch-barcelona-vs-real-madrid-live-on-tv-and-stream-online-in-india-2026-10-25-1057893",
+    "time": "2026-10-25T14:25:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "James Anderson leaves Lancashire after 25 years, says 'if it was up to me it wouldn't have ended like this'",
+    "desc": "James Anderson is set to leave Lancashire after his current contract expires. The county side hasn’t offered him a new contract, while the current deal will expire soon. The 44-year-old pacer confirmed the development on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/james-anderson-leaves-lancashire-after-25-years-says-if-it-was-up-to-me-it-wouldn-t-have-ended-like-this-2026-10-25-1057891",
+    "time": "2026-10-25T13:40:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PV Sindhu suffers in French Open final, loses to An Se Young in three-set clash",
+    "desc": "PV Sindhu suffered a three-set defeat to South Korea's An Se Young at the French Open 2026 on Sunday. She started the game strong, winning the first set, but Young recovered from a game down...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-suffers-in-french-open-final-loses-to-an-se-young-in-three-set-clash-2026-10-25-1057886",
+    "time": "2026-10-25T12:28:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur surpasses Mithali Raj in elite record list after century against Zimbabwe in second ODI",
+    "desc": "Former India captain Harmanpreet Kaur once again stole the show with a commanding century against Zimbabwe at the BCA Stadium in Vadodara. Ahead of the series, the BCCI officials held a meeting with Harmanpreet and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-surpasses-mithali-raj-in-elite-record-list-after-century-against-zimbabwe-in-second-odi-2026-10-25-1057883",
+    "time": "2026-10-25T11:53:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Thibaut Courtois ruled out of El Classico; Real Madrid confirm development just hours before playing Barcelona",
+    "desc": "Real Madrid have been dealt a late blow ahead of their El Clasico meeting with Barcelona, as goalkeeper Thibaut Courtois is ruled out of Sunday's fixture after falling ill with flu. The club confirmed the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/thibaut-courtois-ruled-out-of-el-classico-real-madrid-confirm-development-just-hours-before-playing-barcelona-2026-10-25-1057877",
+    "time": "2026-10-25T10:49:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India set to play Pakistan on November 22 as ACC unveils schedule for Rising Asia Cup 2026",
     "desc": "India A will play Pakistan A on November 22 at the Rising Asia Cup 2026 clash in Doha. The Asian Cricket Council (ACC) has confirmed the two groups for the tournament, along with the schedule,...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-shares-update-on-ipl-2027-availability-after-missing-out-entire-2026-season-due-to-injury-2026-10-25-1057860",
     "time": "2026-10-25T06:33:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Afghanistan overtake England in ICC ODI rankings, reclaim their all-time high position",
-    "desc": "Afghanistan have overtaken England in the latest ICC Men's ODI team rankings, the Afghanistan team has climbed to seventh position after defeating Zimbabwe in the tri-series final. This is Afghanistan's all-time highest ranking first achieved...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-overtake-england-in-icc-odi-rankings-reclaim-their-all-time-high-position-2026-10-24-1057838",
-    "time": "2026-10-24T17:49:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan announce Test squad for Sri Lanka series; Salman Agha returns, Mohammad Rizwan dropped",
-    "desc": "Former captain Salman Ali Agha and Ali Usman have returned to Pakistan squad for the upcoming two-match series against Sri Lanka. Three uncapped cricketers have also earned their maiden call-ups, while Mohammad Rizwan and Imam-ul-Haq...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announce-test-squad-for-sri-lanka-series-salman-agha-returns-mohammad-rizwan-dropped-2026-10-24-1057829",
-    "time": "2026-10-24T14:53:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma becomes first Indian opener to achieve major feat in T20I cricket",
-    "desc": "Abhishek Sharma created history by becoming the first Indian cricketer to score 1000 or more T20I runs in a single calendar year. Overall, he is the third Indian player after Suryakumar Yadav and Ishan Kishan,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-becomes-first-indian-opener-to-achieve-major-feat-in-t20i-cricket-2026-10-24-1057825",
-    "time": "2026-10-24T13:56:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arshdeep Singh creates history, breaks Bhuvneshwar Kumar's record in second T20I vs New Zealand",
-    "desc": "Arshdeep Singh surpassed Bhuvneshwar Kumar to become the Indian cricketer with the most T20I wickets in a single calendar year. He achieved the feat in India’s second T20I against New Zealand at Hagley Oval in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-creates-history-breaks-bhuvneshwar-kumar-s-record-in-second-t20i-vs-new-zealand-2026-10-24-1057819",
-    "time": "2026-10-24T12:30:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PV Sindhu beats Japan's Hina Akechi in three-game battle to reach French Open final",
-    "desc": "PV Sindhu booked her place in the French Open final on Saturday after overcoming Japan’s Hina Akechi in a gruelling three-game semifinal. The two-time Olympic medallist prevailed 21-10, 20-22, 21-16 in a contest lasting one...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pv-sindhu-beats-japan-s-hina-akechi-in-three-game-battle-to-reach-french-open-final-2026-10-24-1057813",
-    "time": "2026-10-24T11:33:00.000Z"
   }
 ];
