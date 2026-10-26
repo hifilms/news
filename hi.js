@@ -1,6 +1,78 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Saim Ayub dropped from ODI squad; Pakistan announce replacement for remainder of tri-series",
+    "desc": "Pakistan have dropped Saim Ayub from their squad for the remainder of the ongoing ODI tri-series involving England and Sri Lanka. They have announced Sahibzada Farhan as his replacement amid concerns over the team’s struggling...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/saim-ayub-dropped-from-odi-squad-pakistan-announce-replacement-for-remainder-of-tri-series-2026-10-26-1057966",
+    "time": "2026-10-26T11:47:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2027 mini-auction set to clash with India vs Sri Lanka ODI, trading window closes on November 15",
+    "desc": "The Indian Premier League’s 2027 mini-auction will be held in Goa on December 16. That leaves the franchises a month to prepare after the November 15 deadline for retaining players. Meanwhile, the auction will coincide...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2027-mini-auction-set-to-clash-with-india-vs-sri-lanka-odi-trading-window-closes-on-november-15-2026-10-26-1057960",
+    "time": "2026-10-26T11:14:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Steven Smith availability in doubt for third Test vs South Africa; Australia release opener Nic Maddinson",
+    "desc": "Senior Australia batter Steven Smith is not confirmed to be in the playing XI for the decisive Test against South Africa in Cape Town. He is required to complete a full net session on Monday...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/steven-smith-availability-in-doubt-for-third-test-vs-south-africa-australia-release-opener-nic-maddinson-2026-10-26-1057955",
+    "time": "2026-10-26T10:22:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Michael Carrick's future uncertain after 3-0 defeat to Bournemouth; Man Utd fans don't blame him though",
+    "desc": "Michael Carrick’s position as Manchester United head coach is under growing threat after a 3-0 home defeat to Bournemouth. It extended the club’s winless run to eight matches across all competitions, prompting renewed discussions among...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/michael-carrick-s-future-uncertain-after-3-0-defeat-to-bournemouth-manchester-united-fans-don-t-blame-him-though-2026-10-26-1057945",
+    "time": "2026-10-26T08:47:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arshdeep Singh in contention for Test call-up as India plan pace-bowling cover for New Zealand tour",
+    "desc": "India bowling coach Morne Morkel confirmed that ace pacer Arshdeep Singh is in contention for red-ball duties during the ongoing New Zealand tour. The southpaw proved his mettle in the shortest format of the game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-in-contention-for-test-call-up-as-india-plan-pace-bowling-cover-for-new-zealand-tour-2026-10-26-1057940",
+    "time": "2026-10-26T08:10:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jose Mourinho finally finds right balance as Kylian Mbappe's brace helps Real Madrid stun Barcelona in La Liga",
+    "desc": "Kylian Mbappe scored twice as Real Madrid defeated Barcelona 2-1 at Spotify Camp Nou on Sunday, which ended the hosts’ nine-game winning streak in LaLiga. With the win, the Los Blancos also moved within three...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/jose-mourinho-finally-finds-right-balance-as-kylian-mbappe-s-brace-helps-real-madrid-stun-barcelona-in-la-liga-2026-10-26-1057936",
+    "time": "2026-10-26T07:11:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Devdutt Padikkal strengthens No. 3 debate with 199 vs NZ A; controversial umpire call ends double-century bid",
+    "desc": "Devdutt Padikkal’s bid for a double century ended at 199 on Day 3 of the first unofficial Test between India A and New Zealand A at Bert Sutcliffe Oval in Lincoln. The southpaw was dismissed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-strengthens-no-3-debate-with-199-vs-new-zealand-a-controversial-umpire-call-ends-double-century-bid-2026-10-26-1057932",
+    "time": "2026-10-26T06:15:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Star India cricketer ruled out of third T20I vs New Zealand; Kumar Kushagra travels with squad",
+    "desc": "India keeper-batter Ishan Kishan has been ruled out of the third T20I against New Zealand, which will be played in Wellington on October 27. The southpaw failed to achieve the fitness required to return to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/star-india-cricketer-ruled-out-of-third-t20i-vs-new-zealand-kumar-kushagra-travels-with-squad-2026-10-26-1057926",
+    "time": "2026-10-26T05:29:55.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Where to watch Barcelona vs Real Madrid live on TV and stream online in India?",
     "desc": "La Liga leaders Barcelona welcome arch-rivals Real Madrid to the Spotify Camp Nou for the 265th competitive El Classico, with Hansi Flick’s side aiming to stretch an unprecedented domestic start. The Catalan giants enter the fixture...",
     "img": "",
@@ -16,77 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/james-anderson-leaves-lancashire-after-25-years-says-if-it-was-up-to-me-it-wouldn-t-have-ended-like-this-2026-10-25-1057891",
     "time": "2026-10-25T13:40:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PV Sindhu suffers in French Open final, loses to An Se Young in three-set clash",
-    "desc": "PV Sindhu suffered a three-set defeat to South Korea's An Se Young at the French Open 2026 on Sunday. She started the game strong, winning the first set, but Young recovered from a game down...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-suffers-in-french-open-final-loses-to-an-se-young-in-three-set-clash-2026-10-25-1057886",
-    "time": "2026-10-25T12:28:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur surpasses Mithali Raj in elite record list after century against Zimbabwe in second ODI",
-    "desc": "Former India captain Harmanpreet Kaur once again stole the show with a commanding century against Zimbabwe at the BCA Stadium in Vadodara. Ahead of the series, the BCCI officials held a meeting with Harmanpreet and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-surpasses-mithali-raj-in-elite-record-list-after-century-against-zimbabwe-in-second-odi-2026-10-25-1057883",
-    "time": "2026-10-25T11:53:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Thibaut Courtois ruled out of El Classico; Real Madrid confirm development just hours before playing Barcelona",
-    "desc": "Real Madrid have been dealt a late blow ahead of their El Clasico meeting with Barcelona, as goalkeeper Thibaut Courtois is ruled out of Sunday's fixture after falling ill with flu. The club confirmed the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/thibaut-courtois-ruled-out-of-el-classico-real-madrid-confirm-development-just-hours-before-playing-barcelona-2026-10-25-1057877",
-    "time": "2026-10-25T10:49:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India set to play Pakistan on November 22 as ACC unveils schedule for Rising Asia Cup 2026",
-    "desc": "India A will play Pakistan A on November 22 at the Rising Asia Cup 2026 clash in Doha. The Asian Cricket Council (ACC) has confirmed the two groups for the tournament, along with the schedule,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-set-to-play-pakistan-on-november-22-as-acc-unveils-schedule-for-rising-asia-cup-2026-2026-10-25-1057874",
-    "time": "2026-10-25T10:19:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are Pakistan players wearing pink jerseys in tri-series clash against England in Lahore?",
-    "desc": "Pakistan players wore pink jerseys against England in the fourth match of the ongoing ODI tri-series, which also features Sri Lanka. Pakistan Cricket Board (PCB) had earlier confirmed that they would be dedicating the fixture...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-pakistan-players-wearing-pink-jerseys-in-tri-series-clash-against-england-in-lahore-2026-10-25-1057871",
-    "time": "2026-10-25T08:50:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul, Yashasvi Jaiswal flop again; Padikkal, Sudharsan stabilise India A in second innings",
-    "desc": "Indian opening duo of KL Rahul and Yashasvi Jaiswal once again failed to make an impact in the ongoing first unofficial Test between India A and New Zealand A in Lincoln. The duo struggled in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-yashasvi-jaiswal-flop-again-padikkal-sudharsan-stabilise-india-a-in-second-innings-2026-10-25-1057867",
-    "time": "2026-10-25T07:51:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand reshuffle pace attack for remaining three T20Is vs India, shares reason",
-    "desc": "New Zealand have adjusted their fast-bowling resources for the remainder of the T20I series against India. Several star players are now set to miss the entire series or join the squad at a different stage...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-reshuffle-pace-attack-for-remaining-three-t20is-vs-india-shares-reason-2026-10-25-1057863",
-    "time": "2026-10-25T07:09:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni shares update on IPL 2027 availability after missing out entire 2026 season due to injury",
-    "desc": "Former Chennai Super Kings captain and star cricketer MS Dhoni hasn’t quite decided on his availability for the IPL 2027 season. The keeper-batter, however, has kept the door open, indicating that his chances of returning...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-shares-update-on-ipl-2027-availability-after-missing-out-entire-2026-season-due-to-injury-2026-10-25-1057860",
-    "time": "2026-10-25T06:33:19.000Z"
   }
 ];
