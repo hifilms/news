@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch Ballon d'Or 2026 live on TV and stream online for free in India?",
+    "desc": "The Ballon d’Or 2026 ceremony will take place at London’s Palladium Theatre on Monday, October 26, bringing together the leading names in world football to compete for one of the sport’s most prestigious individual honours....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/when-and-where-to-watch-ballon-d-or-2026-live-on-tv-and-stream-online-for-free-in-india-2026-10-26-1057975",
+    "time": "2026-10-26T13:22:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah, Rishabh Pant likely to feature for India A in unofficial Test vs New Zealand A",
+    "desc": "Jasprit Bumrah is expected to return to competitive action in the third unofficial Test between India A and New Zealand A, scheduled to take place in Lincoln from November 7 to 10. Rishabh Pant could...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-rishabh-pant-likely-to-feature-for-india-a-in-unofficial-test-vs-new-zealand-a-2026-10-26-1057970",
+    "time": "2026-10-26T12:15:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Saim Ayub dropped from ODI squad; Pakistan announce replacement for remainder of tri-series",
     "desc": "Pakistan have dropped Saim Ayub from their squad for the remainder of the ongoing ODI tri-series involving England and Sri Lanka. They have announced Sahibzada Farhan as his replacement amid concerns over the team’s struggling...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/star-india-cricketer-ruled-out-of-third-t20i-vs-new-zealand-kumar-kushagra-travels-with-squad-2026-10-26-1057926",
     "time": "2026-10-26T05:29:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch Barcelona vs Real Madrid live on TV and stream online in India?",
-    "desc": "La Liga leaders Barcelona welcome arch-rivals Real Madrid to the Spotify Camp Nou for the 265th competitive El Classico, with Hansi Flick’s side aiming to stretch an unprecedented domestic start. The Catalan giants enter the fixture...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/where-to-watch-barcelona-vs-real-madrid-live-on-tv-and-stream-online-in-india-2026-10-25-1057893",
-    "time": "2026-10-25T14:25:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "James Anderson leaves Lancashire after 25 years, says 'if it was up to me it wouldn't have ended like this'",
-    "desc": "James Anderson is set to leave Lancashire after his current contract expires. The county side hasn’t offered him a new contract, while the current deal will expire soon. The 44-year-old pacer confirmed the development on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/james-anderson-leaves-lancashire-after-25-years-says-if-it-was-up-to-me-it-wouldn-t-have-ended-like-this-2026-10-25-1057891",
-    "time": "2026-10-25T13:40:10.000Z"
   }
 ];
