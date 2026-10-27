@@ -1,21 +1,201 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Harry Potter' series casts Jasper Talbot and Hannah Chinn as James and Lily Potter",
+    "desc": "The upcoming HBO series 'Harry Potter' has announced the cast for significant characters, including James and Lily Potter. Actors Jasper Talbot and Hannah Chinn will portray the famous parents of Harry Potter. Additionally, Harry Gilby is set to play Charlie Weasley, a minor character in the series. The first season is scheduled to premiere on December 25, featuring a talented ensemble cast.",
+    "img": "https://static.toiimg.com/photo/msid-135245743,imgsize-452501.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harry-potter-jasper-talbot-and-hannah-chinn-join-series-as-james-and-lily-potter-harry-gilby-joins-cast-as-charlie-weasley/articleshow/135245639.cms",
+    "time": "2026-10-27T21:34:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jeremy Clarkson slams council delays over The Farmer’s Dog’s car park plans",
+    "desc": "Jeremy Clarkson has criticised council delays over car park plans at his Oxfordshire pub, The Farmer’s Dog. He is seeking permission to lay hardcore before winter rains make the work more difficult. The delays have raised concerns about the impact on his businesses, which support nearly 300 people, as the pub relies on visitors.",
+    "img": "https://static.toiimg.com/photo/msid-135245552,imgsize-112449.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/jeremy-clarkson-hits-out-at-council-delays-over-his-oxfordshire-pub-the-farmers-dogs-car-park-plans-seeks-permission-to-lay-hardcore-before-winter-rains-as-nearly-300-jobs-face-uncertainty/articleshow/135245520.cms",
+    "time": "2026-10-27T20:50:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Russell Brand says all sexual encounters were consensual; cleared of 1 count",
+    "desc": "Russell Brand told police that all his past sexual encounters were consensual, a London court heard during his trial over alleged sexual offences involving six women. A judge directed a not-guilty verdict on one indecent assault count, but Brand now faces a charge of attempted indecent assault. He denies the allegations against him.",
+    "img": "https://static.toiimg.com/photo/msid-135245094,imgsize-86116.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/russell-brand-told-police-all-sexual-encounters-were-consensual-court-hears-cleared-of-one-indecent-assault-count-he-faces-a-new-attempted-indecent-assault-charge-in-trial-involving-six-women/articleshow/135245052.cms",
+    "time": "2026-10-27T19:30:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Women protests force Ladakh administration to discuss ‘declaring region a dry UT'",
+    "desc": "Officials disclosed that this year, only one retail vendor was functional and the number of functional bars attached to restaurants offering retail sale of liquor had increased by 17 newly issued licences, taking the total to 40",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/women-protests-force-ladakh-administration-to-discuss-declaring-region-a-dry-ut/article71632294.ece",
+    "time": "2026-10-27T19:16:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "very heavy rainfall batters northern districts of A.P., one dead",
+    "desc": "Chief Minister N. Chandrababu Naidu says 290 cyclone shelters set up and 84,396 people evacuated to safer locations; 65-year-old man dies at Mangalapalem after coming in contact with snapped live electrical wires; landfall likely near Yanam-Kakinada region between 2 a.m. to 4 a.m.",
+    "img": "https://th-i.thgim.com/public/incoming/a4k2ym/article71632777.ece/alternates/LANDSCAPE_1200/Rainfall.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-very-heavy-rainfall-batters-northern-districts-of-ap-one-dead/article71632422.ece",
+    "time": "2026-10-27T18:01:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK's 'King' poster draws comparisons with 'Dhurandhar 2' on social media",
+    "desc": "With the anticipation building for Shah Rukh Khan's new film 'King', discussions have erupted about its poster ostensibly mirroring that of 'Dhurandhar 2'. Detractors are taking aim, suggesting that the storyline and visual aesthetics have been borrowed from existing works. Many fans have shared their discontent, deeming the poster a lackluster replica. In a public engagement, Khan shared insights about his character’s ruthless and layered personality.",
+    "img": "https://static.toiimg.com/photo/msid-135243025,imgsize-627030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-king-poster-draws-comparisons-with-dhurandhar-2-on-social-media-every-masterpiece-has-its-cheap-copy/articleshow/135242784.cms",
+    "time": "2026-10-27T18:00:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Netaji Subhas Chandra Bose's grandnephew says 'Fauzi' teaser 'ought to be pulled down'",
+    "desc": "Chandra Kumar Bose expressed his discontent with how historical figures are depicted in the teaser for 'Fauzi.' He insists on the need for a revised version from the filmmakers to ensure historical integrity. Suparno Satpathy, a socio-political leader, earlier voiced apprehensions about blurring the lines between fiction and actual events. Directed by Hanu Raghavapudi, the film is slated for release in March 2027.",
+    "img": "https://static.toiimg.com/photo/msid-135242007,imgsize-341896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/netaji-subhas-chandra-boses-grandnephew-says-fauzi-teaser-ought-to-be-pulled-down-corrected-and-released-again-and-extends-best-wishes-to-prabhas/articleshow/135241843.cms",
+    "time": "2026-10-27T17:28:48.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Norway, Finland leaders hold 'frank and substantive' talk with Putin",
+    "desc": "\"The outcome of this war will have a direct impact on our and the broader European security. Ending the war requires direct discussions,\" President Alexander Stubb said in a joint statement with Norwegian Prime Minister Jonas Gahr Store",
+    "img": "https://th-i.thgim.com/public/incoming/6vejjq/article71633094.ece/alternates/LANDSCAPE_1200/2026-10-27T170538Z_91220075_RC2SBOA6KZW2_RTRMADP_3_RUSSIA-ENERGY-SUMMIT-BILATS-IRAN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/norway-finland-leaders-hold-frank-and-substantive-talk-with-putin/article71632960.ece",
+    "time": "2026-10-27T17:27:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "U.P. Chief Electoral Officer apologises for ‘tone, language and sharpness’ of social media posts",
+    "desc": "When AAP leader Sanjay Singh questioned CEC Gyanesh Kumar on how ‘Ramhit Yadav’ became ‘Ram ne Yadav ko Maara’ in the U.P. Legislative Council election voter list, the Chief Electoral Officer admitted his responses had not been ‘the kind of communication expected from an official handle’",
+    "img": "https://th-i.thgim.com/public/incoming/andwnr/article71633088.ece/alternates/LANDSCAPE_1200/PTI01_06_2026_000202A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-chief-electoral-officer-apologises-for-tone-language-and-sharpness-of-social-media-posts/article71632474.ece",
+    "time": "2026-10-27T17:24:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Record turnout as Israeli voters deliver verdict on Netanyahu",
+    "desc": "Israelis are casting their ballots in the shadow of October 7 and the multi-front regional wars that it sparked, with the trauma from the attack still fresh and questions over accountability and security central to the campaign",
+    "img": "https://th-i.thgim.com/public/incoming/yj26hv/article71633032.ece/alternates/LANDSCAPE_1200/2026-10-27T154608Z_1843233146_RC2NBOAG3Z5N_RTRMADP_3_ISRAEL-ELECTION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/record-turnout-as-israeli-voters-deliver-verdict-on-netanyahu/article71632993.ece",
+    "time": "2026-10-27T17:06:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cyclone Arnab: What Andhra Pradesh needs to know",
+    "desc": "As Cyclone Arnab approaches the Andhra Pradesh coast, authorities have stepped up evacuations, cancelled train services and flights, and activated cyclone shelters across vulnerable districts. The Hindu’s Sumit Bhattacharjee explains the storm’s expected landfall, the threat of heavy rain and strong winds, and how Andhra Pradesh has strengthened its disaster preparedness since Cyclone Hudhud.",
+    "img": "https://th-i.thgim.com/public/incoming/jjjgg3/article71633002.ece/alternates/LANDSCAPE_1200/Cyclone%20Arnab_.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-cyclone-arnab-what-andhra-pradesh-needs-to-know/article71633014.ece",
+    "time": "2026-10-27T16:54:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK and Kareena Kapoor reunite for ‘King’ song shoot in Mumbai",
+    "desc": "In an exciting update, Shah Rukh Khan and Kareena Kapoor Khan are set to light up the screen with a dance number in their upcoming film 'King'. Filming kicked off in Mumbai on October 27, under the direction of choreographer Vaibhavi Merchant. The track is expected to deliver high energy, echoing the vibes of the classic 'Chammak Challo' from 'Ra.One'.",
+    "img": "https://static.toiimg.com/photo/msid-135240828,imgsize-490551.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-and-kareena-kapoor-khan-reunite-for-king-song-shoot-in-mumbai-marking-their-reunion-after-chammak-challo/articleshow/135240574.cms",
+    "time": "2026-10-27T16:43:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Fresh bad-loan generation may rise in FY27; private banks face greater pressure: Report",
+    "desc": "Ratings agency Icra expects the trend of relatively higher loan slippages at private sector banks to continue in the second half of FY27, even as credit costs are projected to remain favourable and significantly below historical levels",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/fresh-bad-loan-generation-may-rise-in-fy27-private-banks-face-greater-pressure-report/article71632935.ece",
+    "time": "2026-10-27T16:36:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Eminem’s ex-employee pleads guilty to copyright infringement over $50K leak",
+    "desc": "Eminem’s former employee Joseph Strange has pleaded guilty to criminal copyright infringement after copying and selling at least 10 unreleased audio files for approximately $50,000. The tracks later surfaced on public streaming platforms and were accessed more than eight million times by November 2025. The estimated infringement amount is at least $750,000. Strange faces up to five years in prison.",
+    "img": "https://static.toiimg.com/photo/msid-135240409,imgsize-67386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eminems-former-employee-pleads-guilty-to-copyright-infringement-after-selling-unreleased-music-for-50000-leaked-tracks-streamed-8-million-times-750000-in-losses-faces-5-years-in-prison/articleshow/135240214.cms",
+    "time": "2026-10-27T16:31:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "13-goal blitz! India show no mercy as Mandeep runs riot at ACT hockey tournament",
+    "desc": "India began their Asian Champions Trophy title defence with a crushing 13-0 victory over Bangladesh. Mandeep Singh scored a hat-trick, while Harmanpreet Singh, Dilpreet Singh and Hardik Singh netted twice each. India dominated from start to finish, leading 6-0 at half-time. The defending champions will next face China on Thursday, while Bangladesh prepare to take on Malaysia.",
+    "img": "https://static.toiimg.com/photo/msid-135240447,imgsize-38298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/13-goal-blitz-india-show-no-mercy-as-mandeep-singh-runs-riot-at-asian-champions-trophy-hockey-tournament/articleshow/135240396.cms",
+    "time": "2026-10-27T16:27:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Esha Deol chooses father Dharmendra when asked about the perfect husband in Bollywood",
+    "desc": "Esha Deol is preparing for her return to theatre with the film 'Pratap', set to be released on November 20. During the trailer launch, she expressed the significance of family support during difficult times. Esha highlighted her father, Dharmendra, as the ideal husband she has observed closely throughout her life. The film features a decorated encounter specialist navigating a challenging self-discovery journey connected to his past.",
+    "img": "https://static.toiimg.com/photo/msid-135240129,imgsize-345463.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/esha-deol-chooses-father-dharmendra-when-asked-about-the-perfect-husband-in-bollywood-maine-kareebi-se-sirf-papa-ko-dekha-hai-as-a-father/articleshow/135239976.cms",
+    "time": "2026-10-27T16:16:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salim Merchant buys commercial property in Mumbai’s Santacruz West for Rs 12.85 crore",
+    "desc": "In a notable real estate deal, composer Salim Merchant, along with four investors, secured a commercial property in Santacruz, Mumbai, for Rs 12.85 crore. The property boasts spacious ground and first floors in a well-known building close to Linking Road. Completed on October 7, 2026, the transaction included a stamp duty of Rs 77.10 lakh. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-135239898,imgsize-493163.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-merchant-buys-commercial-property-in-mumbais-santacruz-west-for-rs-12-85-crore-pays-rs-77-10-lakh-stamp-duty-report/articleshow/135239810.cms",
+    "time": "2026-10-27T16:06:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress alleges hurdles to INDIA bloc’s proposed ‘public impeachment’ of CEC Gyanesh Kumar on October 30",
+    "desc": "Congress leader K.C. Venugopal says permission for October 30 programme was denied after police intervention, threatens to conduct it outside PM and Home Minister’s residence; senior officials of Delhi Police tell The Hindu no specific request for mock impeachment has been sought",
+    "img": "https://th-i.thgim.com/public/incoming/hprs4t/article71632838.ece/alternates/LANDSCAPE_1200/VenuG_GDLGNE1JB.1GDLGNE25H.3.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-alleges-hurdles-to-india-blocs-proposed-public-impeachment-of-cec-gyanesh-kumar-on-october-30/article71632378.ece",
+    "time": "2026-10-27T16:05:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lingusamy recalls the trouble with Vishal's ‘Sandakozhi 2’",
+    "desc": "Lingusamy discussed the challenges of making sequels in Indian cinema, particularly in relation to his film 'Sandakozhi 2.' He explained that delays in creating a sequel can alter character connection and story dynamics. Successful sequels like 'Baahubali' and 'KGF' were mentioned, highlighting the benefits of timely follow-ups. A leading actor suggested a sequel to 'Run,' which Lingusamy finds risky due to potential audience expectations.",
+    "img": "https://static.toiimg.com/photo/msid-135238912,imgsize-140092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/lingusamy-recalls-the-trouble-with-sandakozhi-2-cites-dhurandhar-baahubali-kgf-and-jailer-to-explain-why-sequels-need-to-be-made-at-the-right-time/articleshow/135238901.cms",
+    "time": "2026-10-27T15:39:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Trisha to play Jayalalithaa in JM Bashir's 'Puratchi Thalaivar MGR'?",
+    "desc": "Actor JM Bashir is gearing up to bring the biopic 'Puratchi Thalaivar MGR' to life, focusing on the remarkable journey of MG Ramachandran. Talks are ongoing with Trisha for the part of J Jayalalithaa, although a final decision is yet to be made. The film will delve into MGR's formative years, filmography, and political ascent, featuring characters inspired by significant leaders like M Karunanidhi and C N Annadurai.",
+    "img": "https://static.toiimg.com/photo/msid-135238137,imgsize-157264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-to-play-jayalalithaa-jm-bashir-reveals-casting-plans-for-puratchi-thalaivar-mgr/articleshow/135238130.cms",
+    "time": "2026-10-27T15:11:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ramayana' actor Suhail Nayyar asks fans for blessings; backs film’s young Indian VFX artists",
+    "desc": "Suhail Nayyar highlighted the dedication of young Indian VFX artists working on 'Ramayana', urging that they deserve as much support as the Indian cricket team receives. Yash joined the conversation, encouraging audiences to cherish the hard work of filmmakers committed to uplifting Indian cinema. Directed by Nitesh Tiwari and featuring stars like Ranbir Kapoor and Sai Pallavi, 'Ramayana' is set to hit theaters on November 5, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-135238453,imgsize-672035.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-actor-suhail-nayyar-asks-fans-for-blessings-and-backs-the-films-young-indian-vfx-artists-you-dont-put-pressure-on-them-it-is-wrong/articleshow/135238412.cms",
+    "time": "2026-10-27T14:59:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Govinda's mother quit acting when his father told her people will ogle at her: 'Shaved her head'",
     "desc": "Govinda recounted his mother's remarkable transformation from a celebrated actress to a devoted family woman. Nirmala Devi experienced significant financial challenges that profoundly inspired Govinda's ambition to thrive. While initially hesitant, his father's encouragement drove him to embrace acting, leading to his eventual success. Govinda credits both familial support and adversity for shaping his resilience, declaring his mother's influence as pivotal to his approach to life's hurdles.",
     "img": "https://static.toiimg.com/photo/msid-135238175,imgsize-261807.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-reveals-his-mother-nirmala-devi-gave-up-acting-when-his-father-told-her-people-will-ogle-at-her-she-shaved-off-her-eyebrows-and-head-and-became-a-saint/articleshow/135237436.cms",
     "time": "2026-10-27T14:48:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Infant deaths in Keralam’s Attappady renew calls for health-care review",
-    "desc": "Three babies have died within a week and 10 deaths have been reported in the past four months; this has raised questions about access to nutrition and the timely detection and treatment of health problems among pregnant women and newborns",
-    "img": "https://th-i.thgim.com/public/incoming/ur0b1h/article71632299.ece/alternates/LANDSCAPE_1200/6678_28-2-2017_20-4-23_TRIBAL_5.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/infant-deaths-in-keralams-attappady-renew-calls-for-health-care-review/article71632203.ece",
-    "time": "2026-10-27T14:46:16.000Z"
   },
   {
     "cat": "Sports",
@@ -27,13 +207,13 @@ const newsData_en = [
     "time": "2026-10-27T14:45:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kolkata Police parade men arrested for stripping, abusing two teenagers in public",
-    "desc": "Police arrested two men and one woman in south Kolkata’s Sarsuna area for forcing three men — including two teenagers aged 18 and 19 — to march naked through the locality. The incident was reportedly triggered when the 18-year-old was seen meeting a 13-year-old girl from the arrested persons’ family",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "cat": "World",
+    "title": "Lula’s win gives Brazil an opportunity to cement its climate leadership, but challenges remain",
+    "desc": "In his fourth term, the President can potentially negotiate across the divides that currently frustrate climate agreements, given his country’s status as Latin America’s largest economy, host to most of the Amazon, and its diplomatic relationships with the EU, the U.S., China, the BRICS countries and other devel",
+    "img": "https://th-i.thgim.com/public/incoming/hlot6i/article71632014.ece/alternates/LANDSCAPE_1200/2026-10-09T161516Z_15004819_RC2OZNAN4ONM_RTRMADP_3_BRAZIL-ELECTION.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/kolkata-police-parade-men-arrested-for-stripping-abusing-two-teenagers-in-public/article71631713.ece",
-    "time": "2026-10-27T14:39:26.000Z"
+    "url": "https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece",
+    "time": "2026-10-27T14:39:05.000Z"
   },
   {
     "cat": "Sports",
@@ -54,60 +234,6 @@ const newsData_en = [
     "time": "2026-10-27T14:27:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SC says ‘will examine’ petitioners’ ‘innocuous’ plea to direct ECI to preserve or file in court ‘complete’ SIR records",
-    "desc": "Leader of the Opposition Rahul Gandhi is among the petitioners seeking to preserve SIR records, as the EC’s affidavit maintains that its decisions were in line with the law and that the CEC cannot be removed except through procedure applicable to a Supreme Court judge",
-    "img": "https://th-i.thgim.com/public/incoming/ufz5ys/article71630697.ece/alternates/LANDSCAPE_1200/6744_19_8_2025_16_9_6_4_18_08_2025_SUPREME_COURT01.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sc-says-will-examine-petitioners-innocuous-plea-to-direct-eci-to-preserve-or-file-in-court-complete-sir-records/article71630549.ece",
-    "time": "2026-10-27T14:18:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bharath urges Kurnool voters to back NDA for continued development",
-    "desc": "Industries Minister says issues that had remained unresolved for decades were addressed, and measures were being undertaken to alleviate traffic congestion at Bellary Chowrasta, while 900 new electricity poles will be installed throughout the city",
-    "img": "https://th-i.thgim.com/public/incoming/mvm6pb/article71632143.ece/alternates/LANDSCAPE_1200/10215_27_10_2026_18_45_45_1_USM_8213.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/bharath-urges-kurnool-voters-to-back-nda-for-continued-development/article71631030.ece",
-    "time": "2026-10-27T14:12:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi Police grants Congress rally at Ramlila Maidan with strict conditions, denies mock impeachment request",
-    "desc": "Police say no separate request was received for the proposed mock impeachment on October 30 and November 1; rally at Ramlila Maidan on November 1 cleared subject to conditions, including CCTV surveillance and a ban on marches outside the venue",
-    "img": "https://th-i.thgim.com/public/incoming/q14bz0/article71631879.ece/alternates/LANDSCAPE_1200/20261027327L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-grants-congress-rally-at-ramlila-maidan-with-strict-conditions-denies-mock-impeachment-request/article71631883.ece",
-    "time": "2026-10-27T14:00:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Lula’s win gives Brazil an opportunity to cement its climate leadership, but challenges remain",
-    "desc": "On a global level, Brazil has come to play a major role in climate negotiations because of its simultaneous status as a major oil producer and, especially under Lula, a strong advocate of international climate cooperation",
-    "img": "https://th-i.thgim.com/public/incoming/hlot6i/article71632014.ece/alternates/LANDSCAPE_1200/2026-10-09T161516Z_15004819_RC2OZNAN4ONM_RTRMADP_3_BRAZIL-ELECTION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece",
-    "time": "2026-10-27T13:58:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ADGP pledges prompt action on ‘genuine demands’ of victim’s family based on probe",
-    "desc": "ADGP P. Vijayan says team that accompanied him from Thiruvananthapuram, comprising an AIG and Circle Inspectors, will conduct a detailed probe, which includes examination of CCTV footage to verify allegations that officials at Cheranalloor police station misbehaved with the family",
-    "img": "https://th-i.thgim.com/public/incoming/5wabcx/article71630650.ece/alternates/LANDSCAPE_1200/accident_cheranellur_03.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/cheranalloor-car-crash-adgp-pledges-prompt-action-on-genuine-demands-of-victims-family-based-on-probe/article71630498.ece",
-    "time": "2026-10-27T13:57:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Srisailam introduces ‘Arjita Abhishekas’ at ‘Pancha Mathas’ during Kartika Masam",
-    "desc": "Temple officials say a nominal fee of ₹216 has been set for the ritual, specifically to make it accessible to the common devotees; Kartika Masam festivities to be held from November 10 to December 9",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/srisailam-introduces-arjita-abhishekas-at-pancha-mathas-during-kartika-masam/article71630281.ece",
-    "time": "2026-10-27T13:54:14.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vishal's injury on the sets of 'Purushan' EXPLAINED",
     "desc": "Actor Vishal is dedicating his time to recovering from a recent back injury sustained during a fight scene shoot in Goa. Following medical advice, he will take a three-week rest period to heal adequately. As he undergoes physiotherapy, the film's crew is reshuffling plans for future action sequences. Meanwhile, Vishal remains actively engaged in evaluating scripts for his upcoming projects.",
@@ -115,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishals-injury-on-the-sets-of-purushan-explained-heres-how-the-actor-hurt-his-back-during-an-action-scene-and-his-latest-health-update/articleshow/135236823.cms",
     "time": "2026-10-27T13:54:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Independent candidate A.B. Venkateswara Rao promises corruption and rowdism free Vijayawada",
-    "desc": "Backed by the Left parties and the Congress, the former IPS officer says he is confident of winning; also promises 24-hour municipal drinking water supply directly from the tap, plan solutions to mosquito menace and ever-growing traffic issues",
-    "img": "https://th-i.thgim.com/public/incoming/8y7cgx/article71631665.ece/alternates/LANDSCAPE_1200/25GNRAO-AB%20VENKAT-01%202.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ab-venkateswara-rao-promises-a-vijayawada-free-of-corruption-and-rowdism/article71631297.ece",
-    "time": "2026-10-27T13:47:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -162,15 +279,6 @@ const newsData_en = [
     "time": "2026-10-27T12:34:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "All you need to know about the docuseries ‘The One About Matthew Perry’",
-    "desc": "In ‘The One About Matthew Perry,’ a poignant three-part documentary, viewers are taken on a reflective journey through the life of the influential actor. Featuring intimate interviews and personal archives, the series honors Perry's legacy and addresses his ongoing battle with addiction. After his unfortunate passing in October 2023, later ruled an accident, five people faced legal repercussions relating to his untimely death, underscoring the serious ramifications of addiction.",
-    "img": "https://static.toiimg.com/photo/msid-135230151,imgsize-96520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/all-about-the-one-about-matthew-perry-when-and-where-to-watch-the-documentary-what-to-expect-and-more/articleshow/135230101.cms",
-    "time": "2026-10-27T12:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Abhishek overtakes Gayle after smashing 11 sixes against New Zealand",
     "desc": "In a stunning display of power hitting, Abhishek Sharma shattered Chris Gayle's record for the most T20I innings with 10 or more sixes. His explosive knock of 113 runs off just 38 balls propelled India to a smooth six-wicket triumph over New Zealand, achieving their target of 198 with 40 balls to spare.",
@@ -198,15 +306,6 @@ const newsData_en = [
     "time": "2026-10-27T12:19:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vignesh Shivan misses Dhanush, calls him father figure",
-    "desc": "In a recent YouTube chat with actor Gopinath, Vignesh Shivan shared his high regard for Dhanush, reminiscing about their collaborative efforts. He praised Dhanush for his relentless dedication and discipline, recalling long nights spent together. Despite the ongoing debates surrounding 'Naanum Rowdy Dhaan,' Shivan's admiration for him remains solid, likening Dhanush to a father figure, which underscores the depth of their relationship.",
-    "img": "https://static.toiimg.com/photo/msid-135233199,imgsize-173432.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vignesh-shivan-misses-dhanush-calls-him-father-figure-whatever-he-touches-turns-into-gold/articleshow/135233188.cms",
-    "time": "2026-10-27T11:52:57.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Better at communicating, worse at connecting?",
     "desc": "Artificial intelligence increasingly influences our daily conversations, providing quick responses and clarifications. While many appreciate its role in easing social interactions, a growing dependency raises concerns about the erosion of personal communication skills and genuine connections. Moreover, the subtleties and emotions that characterize human interaction could potentially be diminished, raising important debates regarding the implications of AI on our relationships.",
@@ -214,24 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/the-ai-social-paradox-better-at-communicating-worse-at-connecting/articleshow/135231202.cms",
     "time": "2026-10-27T11:40:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Obsession’ Hindi OTT release: Kriti, Varun lend their voices to Hindi version; where to watch",
-    "desc": "Kriti Sanon and Varun Dhawan lend their voices to characters in the Hindi version of 'Obsession', set to premiere uncut in both Hindi and English on October 30 at 7 pm. Kriti portrays Nikki, describing the opportunity as both thrilling and demanding, while Varun, as Bear, enjoys a fresh outlook on the storyline. The film has already seen impressive box office performance internationally.",
-    "img": "https://static.toiimg.com/photo/msid-135232917,imgsize-550101.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/obsession-hindi-ott-release-kriti-sanon-and-varun-dhawan-lend-their-voices-to-hindi-version-when-and-where-to-watch-the-blockbuster-hollywood-thriller-starring-inde-navarrette/articleshow/135232673.cms",
-    "time": "2026-10-27T11:40:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nancy Divya REACTS to Rajinikanth's 'Jailer 2' body-shaming criticism",
-    "desc": "Nancy Divya Vikram addresses the backlash over her portrayal of Sheela in 'Jailer 2,' clarifying that her character is intended to be enjoyable and not about body-shaming. She points out that editing choices significantly altered how audiences perceive her character's journey. Furthermore, she advocates for a shift in societal views on body image and emphasizes the importance of inclusivity.",
-    "img": "https://static.toiimg.com/photo/msid-135232904,imgsize-147835.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nancy-divya-reacts-to-rajinikanths-jailer-2-body-shaming-criticism-reveals-scenes-with-superstar-were-removed-i-see-sheela-as-character/articleshow/135232879.cms",
-    "time": "2026-10-27T11:39:06.000Z"
   },
   {
     "cat": "Sports",
@@ -261,24 +342,6 @@ const newsData_en = [
     "time": "2026-10-27T11:13:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CM Yogi highlights UP’s push on jobs, startups and MSMEs, says state now has 25,000 startups",
-    "desc": "Uttar Pradesh chief minister Yogi Adityanath highlighted the state's employment initiatives and youth empowerment at the TOI Youth Icons Summit. He emphasized the growth of the startup ecosystem and initiatives for sports-based employment. The chief minister noted the significant increase in MSME units and direct employment opportunities. Additionally, he mentioned plans for Agniveers and employment for young engineers in defense manufacturing.",
-    "img": "https://static.toiimg.com/photo/msid-135231857,imgsize-37340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/toi-youth-icons-summit-cm-yogi-highlights-ups-push-on-jobs-startups-and-msmes-says-state-now-has-25000-startups/articleshow/135231734.cms",
-    "time": "2026-10-27T11:00:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Is Jagan Reddy's 'regret' message a calculated alliance pitch for Congress?",
-    "desc": "YSRCP leader YS Jagan Mohan Reddy has publicly acknowledged his mistake of backing the BJP-led NDA government's law to appoint the CEC. Jagan, who was decimated in the 2024 assembly elections, is gearing up to navigate the complicated political landscape as the 2029 elections approach. Speculation abounds regarding a possible alliance with the Congress, creating formidable challenges, especially given the BJP's strong ties with Chandrababu Naidu.",
-    "img": "https://static.toiimg.com/photo/msid-135232889,imgsize-1937982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/is-jagan-reddys-regret-message-a-calculated-alliance-pitch-for-congress/articleshow/135229427.cms",
-    "time": "2026-10-27T10:55:55.000Z"
-  },
-  {
     "cat": "World",
     "title": "Mass outages in Sudan after RSF drones hit five power stations",
     "desc": "The drones hit two power stations each in the states of Al-Jazira and Gedaref, and one in White Nile state, \"resulting in power outages across large parts of these three states\", the official said on condition of anonymity",
@@ -304,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/abhishek-sharmas-35-ball-century-powers-india-to-series-clinching-win-over-new-zealand/articleshow/135230671.cms",
     "time": "2026-10-27T10:30:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vetrimaaran breaks silence on lip-sync criticism in his films",
-    "desc": "Vetrimaaran, renowned for his remarkable films such as 'Asuran' and 'Vada Chennai', passionately discusses the essence of storytelling in filmmaking. In a recent chat, he addressed audience queries regarding lip-sync issues, affirming that he prioritizes narrative quality over technical precision. Currently, he is immersed in the production of 'Arasan' and is excited about reuniting with Dhanush for 'Thamizh Murugan'.",
-    "img": "https://static.toiimg.com/photo/msid-135231079,imgsize-91297.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vetrimaaran-breaks-silence-on-lip-sync-criticism-in-his-films-do-you-want-sync-or-story-i-choose-story-arasan-director-opens-on-directing-hindi-film/articleshow/135231042.cms",
-    "time": "2026-10-27T10:29:09.000Z"
   },
   {
     "cat": "Sports",
@@ -343,33 +397,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "AR Rahman calls ‘Ramayana’ the biggest film of his career",
-    "desc": "Oscar-winning maestro AR Rahman has poured three years into crafting the mesmerizing score for 'Ramayana'. Joining forces with Hans Zimmer, they are experimenting with diverse musical styles to enhance the epic narrative. Rahman has praised the cutting-edge visual effects from DNEG. Boasting a stellar cast, Ranbir Kapoor portrays Lord Rama, while Sai Pallavi plays Sita.",
-    "img": "https://static.toiimg.com/photo/msid-135230053,imgsize-98301.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/i-was-blown-away-by-the-first-two-reels-ar-rahman-calls-ramayana-the-biggest-film-of-his-career-talks-about-working-with-hans-zimmer/articleshow/135230004.cms",
-    "time": "2026-10-27T09:45:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Malikappuram' director Vishnu Sasi’s next with Vaibhav titled ‘Manikandaa’",
-    "desc": "Vaibhav's highly anticipated film 'Manikandaa' has stirred excitement among fans with the release of its teaser poster by acclaimed director Venkat Prabhu. Helmed by Vishnu Sasi Shankar, who previously directed 'Malikappuram,' this film intriguingly hints at religious themes. While rumors swirl about Vaibhav possibly playing Lord Ayyappa, further details are yet to emerge.",
-    "img": "https://static.toiimg.com/photo/msid-135230012,imgsize-199762.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/malikappuram-director-vishnu-sasi-shankars-next-with-vaibhav-titled-manikandaa-venkat-prabhu-unveils-first-look-poster/articleshow/135229994.cms",
-    "time": "2026-10-27T09:43:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The man who almost killed Bachchan': Puneet didn't get work for 6 yrs after Coolie accident",
-    "desc": "Puneet Issar's life took a tumultuous turn after the infamous 1982 accident during the filming of 'Coolie.' For six long years, he faced a tough career drought, often being viewed as the actor linked to Amitabh Bachchan's injury. However, his fortunes shifted when he auditioned for the iconic role of Duryodhan in 'Mahabharat,' showcasing his determination and talent, turning a painful past into a remarkable comeback.",
-    "img": "https://static.toiimg.com/photo/msid-135229631,imgsize-335680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-man-who-almost-killed-amitabh-bachchan-puneet-issar-recalls-not-getting-work-for-six-years-after-coolie-accident-before-he-got-to-play-duryodhan-in-mahabharat/articleshow/135229527.cms",
-    "time": "2026-10-27T09:20:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "‘The Cat in the Hat’: Writer-directors Alessandro Carloni and Erica Rivinoja on Dr. Seuss’s legacy of lunacy",
     "desc": "He rhymed, he schemed, made nonsense routine, the feline menace with a flair for the obscene. With a tip of his hat and a flick of his tail, The Cat is back to let chaos prevail",
     "img": "https://th-i.thgim.com/public/entertainment/movies/swfxbs/article71627741.ece/alternates/LANDSCAPE_1200/CAH202A_088793_High_Res_JPEG_custom-proxy.jpeg",
@@ -385,15 +412,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/nobody-on-the-outside-can-judge-the-length-of-my-spells-shami/article71628647.ece",
     "time": "2026-10-27T09:01:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Janhvi reveals Shikhar Pahariya left studies in London to support her after Sridevi's death",
-    "desc": "During an intimate segment on Koffee With Karan, Janhvi Kapoor reveals her heartfelt connection with Shikhar Pahariya. She recounts how he stood by her side after the tragic loss of her mother, Sridevi, in 2018, even pausing his education to be a source of comfort. Their long-standing relationship, beginning in their youth, demonstrates the strength of Shikhar's support and understanding throughout her personal journey.",
-    "img": "https://static.toiimg.com/photo/msid-135229329,imgsize-252967.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoor-reveals-shikhar-pahariya-left-studies-in-london-to-support-her-after-sridevis-death-in-case-she-needs-me-i-just-want-to-be-around/articleshow/135229032.cms",
-    "time": "2026-10-27T09:00:36.000Z"
   },
   {
     "cat": "Sports",
@@ -432,15 +450,6 @@ const newsData_en = [
     "time": "2026-10-27T07:50:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rakul Preet Singh embraces luxe dopamine dressing in Rs 1.99 lakh saree",
-    "desc": "Rakul Preet Singh is making a strong case for dopamine dressing this festive season. At a Ramayana event, the actress embraced maximalist fashion in a vibrant pink, purple and mustard saree featuring traditional bandhani detailing, paisley motifs and intricate borders. ETimes has learnt that the statement creation, designed by Debyani Malhotra in collaboration with homegrown label, is priced at Rs. 1.99 lakh. Styled by Ami Patel, the look offers a colourful dose of festive inspiration ahead of Diwali.",
-    "img": "https://static.toiimg.com/photo/msid-135228000,imgsize-120049.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakul-preet-singh-embraces-dopamine-festive-fashion-in-a-maximalist-pink-purple-and-mustard-saree-worth-rs-1-99-lakh-just-in-time-for-diwali-and-ahead-of-ramayana-part-1-release-exclusive/articleshow/135227841.cms",
-    "time": "2026-10-27T07:50:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Devdutt Padikkal's 199 in vain as bad light forces draw in IND A vs NZ A match",
     "desc": "India A faced New Zealand A in the first unofficial Test that ended in a draw due to bad light. After being bowled out for 113 in their first innings, India A responded strongly with 516 in their second innings. Devdutt Padikkal was the standout player, scoring 199 runs and establishing a significant partnership. New Zealand A struggled but managed to reach 187/9 when play stopped.",
@@ -457,15 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/into-the-brain-rot-psyche/article71578351.ece",
     "time": "2026-10-27T07:30:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Who named Cyclone Arnab and why? Where it will hit, states on alert and preparedness",
-    "desc": "Cyclone Arnab is intensifying and is forecasted to hit the Andhra Pradesh coastline by Wednesday morning. The India Meteorological Department has issued alerts for severe winds and torrential rainfall affecting multiple states. Emergency shelters and control rooms are set up as beach access is prohibited to ensure public safety. Heavy rains are also impacting Odisha and Jharkhand. Residents are urged to stay updated and minimize travel during the cyclone's effects.",
-    "img": "https://static.toiimg.com/photo/msid-135227447,imgsize-66484.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/who-named-cyclone-arnab-and-why-where-it-will-hit-states-on-alert-and-preparedness/articleshow/135226544.cms",
-    "time": "2026-10-27T07:16:13.000Z"
   },
   {
     "cat": "Sports",
@@ -568,15 +568,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘I thought my career was over’: Padikkal on toughest phase ahead of NZ Tests",
-    "desc": "As he prepares for the Test series versus New Zealand, Devdutt Padikkal reflects on his journey in cricket. He stresses the need for adaptability in adverse weather conditions and the value of video analysis in refining his technique. Discussions with seasoned players have played a crucial role in his development. Despite facing health challenges, he is focused on capitalizing on the opportunities that lie ahead.",
-    "img": "https://static.toiimg.com/photo/msid-135222889,imgsize-77012.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/i-thought-my-cricketing-career-was-over-devdutt-padikkal-opens-up-on-toughest-phase-ahead-of-new-zealand-tests/articleshow/135222856.cms",
-    "time": "2026-10-27T02:33:13.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Exclusive",
     "desc": "Mumbai Indians missed the Women’s Premier League playoffs last season after injuries and illness disrupted their combinations and close games slipped away. New head coach Luke Williams believes the franchise can return to contention without making wholesale changes. With Harmanpreet Kaur continuing as captain, Williams wants to retain the core, fine-tune player roles and target the right additions at the October 28 auction as Mumbai look to bounce back.",
     "img": "https://static.toiimg.com/photo/msid-135207980,imgsize-179794.cms",
@@ -628,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/rupee-falls-29-paise-to-close-at-9522-against-us-dollar/article71626594.ece",
     "time": "2026-10-26T11:12:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Why Poland wants a stronger relationship with India",
-    "desc": "Why is Poland seeking a closer partnership with India? Polish Prime Minister Donald Tusk’s visit to India highlighted growing cooperation in trade, technology, defence, critical minerals, renewable energy and geopolitical coordination. With India and the European Union preparing to finalise a landmark Free Trade Agreement, Poland is positioning itself as a key European partner for New Delhi. This editorial explores what both countries stand to gain, the challenges that remain, and why the India-Poland relationship could become increasingly important in Europe’s engagement with India.",
-    "img": "https://th-i.thgim.com/public/incoming/6lcm4h/article71626186.ece/alternates/LANDSCAPE_1200/Trinamool%20Congress%20ECI%2014.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/why-poland-wants-a-stronger-relationship-with-india-the-hindu-editorial/article71626195.ece",
-    "time": "2026-10-26T09:34:41.000Z"
   },
   {
     "cat": "Business",
@@ -718,24 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece",
     "time": "2026-10-25T13:52:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Buoyant Kerala faces a formidable Bengal challenge",
-    "desc": "The host carries the momentum of securing an innings win against Odisha in its previous encounter; the form of batters Baby, Azharuddeen and spin trio of Jalaj, Sarvate and Vaisakh is a plus; the visitor’s deep batting line-up and potent multi-dimensional bowling attack is in fine nick this season",
-    "img": "https://th-i.thgim.com/public/incoming/tws0mn/article71623351.ece/alternates/LANDSCAPE_1200/Sachin-Babys-cGVKGMDNCG.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-buoyant-kerala-faces-a-formidable-bengal-challenge/article71623305.ece",
-    "time": "2026-10-25T12:56:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Haryana find a way to blunt Mumbai’s pace attack?",
-    "desc": "Both teams come into this contest on the back of two resounding wins each; this encounter presents itself as the first significant test of the season for visitor and much will depend on whether its pace attack, without Anshul Kamboj, can put the host’s formidable batting line-up under sustained pressure",
-    "img": "https://th-i.thgim.com/public/incoming/i92ybf/article71623248.ece/alternates/LANDSCAPE_1200/TH18-RANJI-SHAYG9OGM9LCJ.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-will-haryana-find-a-way-to-blunt-mumbais-pace-attack/article71622996.ece",
-    "time": "2026-10-25T12:26:05.000Z"
   },
   {
     "cat": "Entertainment",
