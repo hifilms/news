@@ -1,5 +1,59 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Harry Kane wins 2026 Ballon d’Or, becomes 1st player to claim two awards in one night",
+    "desc": "Harry Kane made history at the 2026 Ballon d’Or ceremony, becoming the first Englishman in 25 years to win football’s most prestigious individual honour. The Bayern Munich striker also claimed the Gerd Müller Trophy, completing a historic double after scoring 73 goals for club and country. His extraordinary campaign marks a defining moment in his career and English football history.",
+    "img": "https://static.toiimg.com/photo/msid-135221680,imgsize-4052975.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/harry-kane-wins-2026-ballon-dor-ends-englands-25-year-wait-and-makes-history-as-first-player-to-win-two-individual-awards-in-one-night/articleshow/135221643.cms",
+    "time": "2026-10-26T23:35:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘All My Children’ actor Alan Dysert passes away at 75",
+    "desc": "Alan Dysert, recognized for his role in the soap opera 'All My Children', has passed away at the age of 75. His wife Michele confirmed his death, noting he had struggled with cancer for over a decade. Dysert chronicled his health challenges in his memoir titled 'Lights, Camera, Cancer!'. He was not just an actor but also a producer, director, and educator in the acting community.",
+    "img": "https://static.toiimg.com/photo/msid-135220072,imgsize-230550.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/all-my-children-actor-alan-dysart-passes-away-at-75-after-a-decade-long-battle-with-cancer/articleshow/135219539.cms",
+    "time": "2026-10-26T22:14:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ben Affleck on Netflix’s $587 million AI deal, Hollywood job fears",
+    "desc": "Ben Affleck has opened up about selling his AI filmmaking company InterPositive to Netflix in a reported $587 million deal. The actor explains why Hollywood should not panic about artificial intelligence replacing jobs, sharing how his technology aims to help filmmakers retain creative control. He also dismisses fears of AI taking over humanity while cautioning against its unchecked use.",
+    "img": "https://static.toiimg.com/photo/msid-135219541,imgsize-48753.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ben-affleck-opens-up-about-selling-ai-filmmaking-company-interpositive-to-netflix-in-a-587-million-deal-explains-why-hollywood-should-not-panic-over-job-losses-says-ai-will-not-replace-filmmakers/articleshow/135219528.cms",
+    "time": "2026-10-26T22:12:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lamine Yamal sets Ballon d’Or record by completing historic Kopa Trophy hat-trick",
+    "desc": "Lamine Yamal made history at the 2026 Ballon d’Or ceremony in London, winning the Kopa Trophy for a third consecutive year. The 19-year-old Barcelona forward became the first player to achieve the feat since the award’s introduction in 2018. His latest triumph follows an impressive season with Barcelona and Spain, further cementing his status among football’s brightest young talents.",
+    "img": "https://static.toiimg.com/photo/msid-135219483,imgsize-3740957.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/lamine-yamal-makes-ballon-dor-history-achieves-feat-no-player-has-ever-done-before-with-3rd-straight-kopa-trophy-win/articleshow/135219468.cms",
+    "time": "2026-10-26T21:40:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "RJD MP Sanjay Yadav writes to ECI to ensure transparent counting",
+    "desc": "In the letter, Sanjay Yadav said that pens of the same type as the violet pens used for marking preferences on ballot papers during polling must not be available to any counting officer or election agent at the counting centre",
+    "img": "https://th-i.thgim.com/public/incoming/oxfhxx/article71628864.ece/alternates/LANDSCAPE_1200/20261023346L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-mlc-polls-rjd-mp-sanjay-yadav-writes-to-eci-to-ensure-transparent-counting/article71626827.ece",
+    "time": "2026-10-26T21:33:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Lionel Messi has decided not to attend the 2026 Ballon d’Or ceremony",
+    "desc": "Lionel Messi’s absence from the 2026 Ballon d’Or ceremony in London has raised questions as Kylian Mbappé, Harry Kane and Lamine Yamal await the results. Despite earning his 17th nomination, Messi reportedly skipped the event amid Inter Miami commitments and a demanding travel schedule. Speculation about him presenting the trophy also proved unfounded, with no official confirmation of the proposed role.",
+    "img": "https://static.toiimg.com/photo/msid-135219390,imgsize-53628.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/messi-makes-ballon-dor-2026-mens-top-10-finalists-on-his-record-17th-nomination-but-why-has-he-skipped-the-ceremony/articleshow/135219388.cms",
+    "time": "2026-10-26T20:48:27.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Chris Brown avoids jail in London over 2023 nightclub bottle attack",
     "desc": "Chris Brown has avoided immediate jail in London after admitting affray over a 2023 nightclub bottle attack on music producer Abraham Diaw. The singer received an eight-month suspended prison sentence, with the judge stressing the seriousness of the assault. Brown’s guilty plea, recent conduct and apology were considered during sentencing.",
@@ -162,15 +216,6 @@ const newsData_en = [
     "time": "2026-10-26T15:20:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Travesty of justice': SC flays UP Police for 'slipshod probe' in murder case, orders reparation for undertrial",
-    "desc": "The Supreme Court of India has ruled that the Uttar Pradesh government must compensate a man with Rs 6 lakh after he spent six years as an undertrial in a serious murder charge. The court condemned the shoddy investigative practices of the state police and prosecution, leading to his wrongful incarceration.",
-    "img": "https://static.toiimg.com/photo/msid-135214395,imgsize-829588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/travesty-of-justice-sc-flays-up-police-for-slipshod-probe-in-murder-case-orders-reparation-for-undertrial/articleshow/135214186.cms",
-    "time": "2026-10-26T14:58:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kriti, Varun, Amar Kaushik reunite in howling IG clip, fuelling buzz around 'Bhediya 2'",
     "desc": "Kriti Sanon recently dropped a thrilling video featuring Varun Dhawan and Amar Kaushik, igniting rumors about 'Bhediya 2'. The trio playfully howls, echoing their original film 'Bhediya' and teasing fans with hints of a sequel. Eager anticipation surrounds this potential project, which would also unite Kriti and Varun for the third time. Their previous individual projects added to the excitement for this cinematic reunion.",
@@ -216,15 +261,6 @@ const newsData_en = [
     "time": "2026-10-26T14:28:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "TRAI for mandatory authorisation for live TV streaming apps",
-    "desc": "Telecom Regulatory Authority of India has issued recommendations for a mandatory authorisation framework for TV distribution services. Stakeholders, including OEMs and broadcasters, will need to comply with new regulations for these applications. A one-time entry fee of Rs 1 lakh and an application processing fee of Rs 10,000 are proposed. These measures aim to protect consumers and ensure accurate TV viewership metrics.",
-    "img": "https://static.toiimg.com/photo/msid-135213637,imgsize-1013592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/trai-for-mandatory-authorisation-for-live-tv-streaming-apps/articleshow/135213226.cms",
-    "time": "2026-10-26T14:02:51.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sai Pallavi's first look as an IPS officer Dhanush's 'OM' revealed",
     "desc": "Sai Pallavi steps into the shoes of Nithya Reddy, a fierce IPS officer, in the upcoming action film 'OM'. As she delves into a significant investigation concerning environmental crimes, her chemistry with co-star Dhanush hints at a compelling subplot. Under the direction of Rajkumar Periasamy, the film is powered by an extraordinary cast, featuring talents like Mammootty and Sreeleela.",
@@ -241,15 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-advance-booking-the-ranbir-kapoor-starrer-crosses-rs-20-crore-in-worldwide-collection-the-hindi-version-leads-with-87-percent-sales/articleshow/135213019.cms",
     "time": "2026-10-26T13:26:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "\"Entirely unbecoming in a democracy\": Pushkar Dhami slams Kharge over remarks against PM Modi",
-    "desc": "Uttarakhand chief minister Pushkar Singh Dhami on Monday criticised Congress president Mallikarjun Kharge over his remarks concerning Prime Minister Narendra Modi’s father and targeted Samajwadi Party chief Akhilesh Yadav over his alleged use of the term “infiltrators” for the people of Uttarakhand. Dhami questioned the Congress party’s alliance with the Samajwadi Party, saying it must decide whether the alliance or the self-respect of Uttarakhand was more important to it.",
-    "img": "https://static.toiimg.com/photo/msid-135212891,imgsize-85064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/entirely-unbecoming-in-a-democracy-pushkar-dhami-slams-kharge-over-remarks-against-pm-modi/articleshow/135212892.cms",
-    "time": "2026-10-26T13:19:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -315,15 +342,6 @@ const newsData_en = [
     "time": "2026-10-26T12:24:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "AR Rahman reacts to criticism of 'Ramayana' songs: 'I've done my work sincerely'",
-    "desc": "Rise of a Legend’. He stated his focus remains on his craft, leaving no energy to track online feedback. Collaborating with Hans Zimmer has offered a fresh perspective for Rahman on this significant project. The film is set to release its first part on November 5, just before Diwali.",
-    "img": "https://static.toiimg.com/photo/msid-135211184,imgsize-554365.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ar-rahman-says-he-remains-unfazed-by-social-media-criticism-as-ramayana-rise-of-a-legend-soundtrack-sparks-debate-amid-backlash-for-ravana-tandav-and-mangal-rang-theres-no-energy-left-to-look-at-feedback/articleshow/135210965.cms",
-    "time": "2026-10-26T11:48:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ballon d'Or: Messi, Yamal and Mbappe among favourites; how the winners are decided",
     "desc": "At 39, Messi still remains in contention for football's biggest individual honour after his performances at the World Cup. While the focus is increasingly shifting towards a potential Yamal-Mbappé rivalry, Harry Kane's remarkable goalscoring form could delay the start of a new era by another year.",
@@ -342,15 +360,6 @@ const newsData_en = [
     "time": "2026-10-26T11:24:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside Tiger Shroff’s Rs 31.5 crore Mumbai home in Khar West",
-    "desc": "Inside Tiger Shroff’s luxurious Mumbai home at Rustomjee Paramount in Khar West, featuring contemporary interiors, a dedicated gym, a walk-in closet, a wellness-focused balcony and personal memorabilia. A home tour featuring his sister, Krishna Shroff, offers a glimpse of the family’s living spaces, while property reports trace the actor’s reported real estate investments in Mumbai.",
-    "img": "https://static.toiimg.com/photo/msid-135210384,imgsize-250332.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-tiger-shroffs-rs-31-5-crore-mumbai-home-in-khar-west-from-a-dedicated-gym-and-walk-in-closet-to-a-stylish-balcony-with-a-jacuzzi-and-cold-plunge-tub-statement-artwork-and-arabian-sea-views/articleshow/135209714.cms",
-    "time": "2026-10-26T11:17:40.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rupee falls 29 paise to close at 95.22 against U.S. dollar",
     "desc": "At the interbank foreign exchange market, the rupee opened at 94.92 against the dollar, then lost ground to touch an intra-day low of 95.26 and finally settled for the day at 95.22 (provisional), registering a decline of 29 paise over its previous close",
@@ -360,15 +369,6 @@ const newsData_en = [
     "time": "2026-10-26T11:12:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘I am fit as a rock’: Mottai Rajendran dismisses hospitalisation rumours",
-    "desc": "Mottai Rajendran has set the record straight about the unfounded speculations surrounding his recent hospitalization, asserting that he is in excellent health. Actor Sukumar recounted their joyful reunion during a birthday bash in Gummidipoondi. Rajendran voiced his annoyance at the baseless rumors that prompted inquiries into his condition. He maintains an energetic lifestyle, regularly exercises, and is actively involved in film projects.",
-    "img": "https://static.toiimg.com/photo/msid-135210049,imgsize-105787.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/no-thalaiva-i-am-fit-as-a-rock-naan-kadavul-actor-mottai-rajendran-dismisses-icu-hospitalisation-rumours-after-meeting-actor-sukumar/articleshow/135210034.cms",
-    "time": "2026-10-26T11:02:36.000Z"
-  },
-  {
     "cat": "World",
     "title": "Why Poland wants a stronger relationship with India",
     "desc": "Why is Poland seeking a closer partnership with India? Polish Prime Minister Donald Tusk’s visit to India highlighted growing cooperation in trade, technology, defence, critical minerals, renewable energy and geopolitical coordination. With India and the European Union preparing to finalise a landmark Free Trade Agreement, Poland is positioning itself as a key European partner for New Delhi. This editorial explores what both countries stand to gain, the challenges that remain, and why the India-Poland relationship could become increasingly important in Europe’s engagement with India.",
@@ -376,15 +376,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/why-poland-wants-a-stronger-relationship-with-india-the-hindu-editorial/article71626195.ece",
     "time": "2026-10-26T09:34:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan's Ayub released from squad in the middle of series, PCB explains why",
-    "desc": "Pakistan batter Saim Ayub has left the ODI tri-series squad to work on his batting after scoring three consecutive single-digit totals. Sahibzada Farhan has replaced him for the remaining matches. Pakistan have qualified for the final with three straight wins. Shadab Khan starred against England, scoring an unbeaten 113 to guide Pakistan to a thrilling one-wicket victory.",
-    "img": "https://static.toiimg.com/photo/msid-135207850,imgsize-179928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-batter-saim-ayub-released-from-squad-in-the-middle-of-odi-tri-series-pcb-explains-why/articleshow/135207616.cms",
-    "time": "2026-10-26T09:26:29.000Z"
   },
   {
     "cat": "Business",
@@ -430,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/middle-east-conflict-may-end-but-energy-crisis-will-drag-on-iea-chief-explains/articleshow/135205152.cms",
     "time": "2026-10-26T07:45:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "99 runs leaked in 2 T20Is! Bhuvneshwar Kumar gets a message from Morne Morkel",
-    "desc": "Bhuvneshwar Kumar's comeback has not gone as planned. The 36-year-old conceded 49 runs in the first T20I against New Zealand and 50 in the second, taking just one wicket across the two matches. His economy rate of 12.37 has been the highest among India's bowlers in the series.",
-    "img": "https://static.toiimg.com/photo/msid-135205772,imgsize-35614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/99-runs-leaked-in-2-t20is-bhuvneshwar-kumar-gets-a-message-from-morne-morkel/articleshow/135205561.cms",
-    "time": "2026-10-26T07:17:05.000Z"
   },
   {
     "cat": "Business",
@@ -520,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/crude-prices-fall-from-six-month-highs-wti-stands-at-101-per-barrel-brent-costs-115/articleshow/135200402.cms",
     "time": "2026-10-26T01:43:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Banks pass on rate hikes, but go slow when rates fall; RBI study finds",
-    "desc": "A recent study by the RBI indicates that banks are more responsive to interest rate hikes than to cuts. Specifically, banks relayed 76.4% of repo rate increases, while only 64% of reductions were passed on. Amid periods of tightening, lending rates surged significantly, in contrast to the minimal decreases observed during easing. This research highlights the intricate dynamics of interest rate adjustments, particularly affecting sectors like MSMEs.",
-    "img": "https://static.toiimg.com/photo/msid-135197548,imgsize-70056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/banks-pass-on-rate-hikes-but-go-slow-when-rates-fall/articleshow/135197546.cms",
-    "time": "2026-10-25T21:08:15.000Z"
   },
   {
     "cat": "Business",
@@ -639,33 +612,6 @@ const newsData_en = [
     "time": "2026-10-25T10:51:35.000Z"
   },
   {
-    "cat": "Business",
-    "title": "MSMEs remain upbeat despite rising input costs, manufacturing sentiment strongest: SIDBI",
-    "desc": "In the July-September 2026 quarter, India's micro, small, and medium enterprises showcased a notable surge in business optimism. The MSME Business Confidence Index rose from 59.3 to 60.4, signaling an encouraging outlook across various sectors. Notably, manufacturing, trading, and services surpassed the neutral mark of 50. The outlook for future quarters remains robust, with indices projected above 60, underscoring a resilient MSME landscape in India.",
-    "img": "https://static.toiimg.com/photo/msid-135188753,imgsize-25848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indian-msmes-remain-upbeat-despite-rising-input-costs-manufacturing-sentiment-strongest-sidbi/articleshow/135188666.cms",
-    "time": "2026-10-25T10:22:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Airlines can claim GST refunds if fare and tax are returned",
-    "desc": "The GST Appellate Tribunal ruled that airlines are eligible for GST refunds on cancelled flight tickets. Singapore Airlines was allowed to reclaim Rs 45.92 lakh after proving refunds were issued directly to passengers. The tribunal emphasized that airlines must provide ample documentation to establish the refund trail. This decision affects eight claims spanning from October 2019 to March 2021 amidst the Covid-19 pandemic.",
-    "img": "https://static.toiimg.com/photo/msid-135188633,imgsize-35092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/cancelled-flight-tickets-airlines-can-claim-gst-refunds-if-fare-and-tax-are-returned/articleshow/135187326.cms",
-    "time": "2026-10-25T10:12:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Industrial growth may ease to 6% in September as capital goods, mining lose steam",
-    "desc": "In September 2026, India's industrial production growth is anticipated to decline to 6%, down from 8% in August. Notably, capital goods production is projected to drop significantly to 2.2%, from an impressive 16.9% the previous month. Additionally, mining output is expected to contract by 8%, indicating a cooling growth trend, although vehicle sales and infrastructure goods remain robust.",
-    "img": "https://static.toiimg.com/photo/msid-135188423,imgsize-115088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/industrial-growth-may-ease-to-6-in-september-as-capital-goods-mining-lose-steam/articleshow/135188371.cms",
-    "time": "2026-10-25T10:04:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "How India established its first scientific base in the frozen continent",
     "desc": "Sourabha Rao, the producer of Miracle in Antarctica, which tells the story of Dakshin Gangotri, talks about how the movie was built, the challenges encountered, and why this expedition remains relevant more than four decades later",
@@ -673,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/bangalore/antarctica-miracle-how-india-established-its-first-scientific-base-in-the-frozen-continent/article71618910.ece",
     "time": "2026-10-25T04:34:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections",
-    "desc": "‘Well you know I was elected by 211 member associations from all over the world, I think what is important is that in an organization like FIFA, there can be different views, different points of view,’ said Gianni Infantino",
-    "img": "https://th-i.thgim.com/public/incoming/52mqsi/article71620280.ece/alternates/LANDSCAPE_1200/2026-10-24T113025Z_192948810_RC2S8OAOQFE4_RTRMADP_3_SOCCER-FIFA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/infantino-says-hes-supported-by-vast-vast-majority-of-football-ahead-of-fifa-elections/article71620231.ece",
-    "time": "2026-10-24T13:41:30.000Z"
   },
   {
     "cat": "Business",
