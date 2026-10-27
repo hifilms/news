@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jamie Carragher names next 'perfect' coach for Manchester United amid terrible form",
+    "desc": "20-time Premier League champions Manchester United are going through one of their most desperate times in recent years. The side has gotten off to a horrid start to their Premier League season; they currently sit...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/jamie-carragher-names-next-perfect-coach-for-manchester-united-amid-terrible-form-2026-10-27-1058057",
+    "time": "2026-10-27T13:36:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer hails India's opening stand as Abhishek Sharma blows away New Zealand to clinch T20I series",
+    "desc": "The Indian team registered a brilliant victory against New Zealand in the third T20I of the ongoing five-game series between the two sides. The teams met at the Hnry Stadium in Wellington on October 27,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-hails-india-s-opening-stand-as-abhishek-sharma-blows-away-new-zealand-to-clinch-t20i-series-2026-10-27-1058050",
+    "time": "2026-10-27T12:24:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Albie Morkel joins Chennai Super Kings as assistant coach ahead of IPL 2027",
+    "desc": "In a major development, five-time IPL (Indian Premier League) champions Chennai Super Kings have come forward and announced that former South Africa all-rounder Albie Morkel will be joining their ranks as the assistant coach ahead...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/albie-morkel-joins-chennai-super-kings-as-assistant-coach-ahead-of-ipl-2027-2026-10-27-1058043",
+    "time": "2026-10-27T11:13:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma's magnificent ton leads India to a win in Wellington, clinch T20I series with six-wicket win",
+    "desc": "The Indian team took on New Zealand in the third T20I of the ongoing series between the two sides. The teams met at the Hnry Stadium in Wellington for the clash on October 27th, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-s-magnificent-ton-leads-india-to-a-win-in-wellington-clinch-t20i-series-with-eight-wicket-win-2026-10-27-1058033",
+    "time": "2026-10-27T10:09:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Team India achieves massive feat with blazing start to the run chase in Wellington in third T20I",
+    "desc": "The Indian team took on New Zealand in the third T20I of the ongoing series. The two sides met at the Hnry Stadium in Wellington on October 27th, and the game saw India come in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/team-india-achieves-massive-feat-with-blazing-start-to-the-run-chase-in-wellington-in-third-t20i-2026-10-27-1058032",
+    "time": "2026-10-27T09:38:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jess Jonassen ruled out of WBBL due to hip injury",
     "desc": "In a major blow, star Brisbane Heat cricketer Jess Jonassen has been ruled out of the entirety of the upcoming WBBL (Women’s Big Bash League) season due to a hip complaint. It is worth noting...",
     "img": "",
@@ -10,8 +55,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Daryl Mitchell key for New Zealand, India looking for wickets",
-    "desc": "The stage is set for the third of five T20Is between India and New Zealand. The two sides meet at the Hnry Stadium in Wellington for the clash, and it is worth noting that the...",
+    "title": "India defeat New Zealand by six wickets, clinch T20I series",
+    "desc": "The Indian team dominated New Zealand in the third T20I of the ongoing series between the two sides. Winning the toss, the Men in Blue opted to bowl first and conceded 198 runs in the...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3rd-t20i-live-score-india-look-to-clinch-t20i-series-in-wellington-1058018",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/when-and-where-to-watch-ballon-d-or-2026-live-on-tv-and-stream-online-for-free-in-india-2026-10-26-1057975",
     "time": "2026-10-26T13:22:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah, Rishabh Pant likely to feature for India A in unofficial Test vs New Zealand A",
-    "desc": "Jasprit Bumrah is expected to return to competitive action in the third unofficial Test between India A and New Zealand A, scheduled to take place in Lincoln from November 7 to 10. Rishabh Pant could...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-rishabh-pant-likely-to-feature-for-india-a-in-unofficial-test-vs-new-zealand-a-2026-10-26-1057970",
-    "time": "2026-10-26T12:15:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Saim Ayub dropped from ODI squad; Pakistan announce replacement for remainder of tri-series",
-    "desc": "Pakistan have dropped Saim Ayub from their squad for the remainder of the ongoing ODI tri-series involving England and Sri Lanka. They have announced Sahibzada Farhan as his replacement amid concerns over the team’s struggling...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/saim-ayub-dropped-from-odi-squad-pakistan-announce-replacement-for-remainder-of-tri-series-2026-10-26-1057966",
-    "time": "2026-10-26T11:47:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL 2027 mini-auction set to clash with India vs Sri Lanka ODI, trading window closes on November 15",
-    "desc": "The Indian Premier League’s 2027 mini-auction will be held in Goa on December 16. That leaves the franchises a month to prepare after the November 15 deadline for retaining players. Meanwhile, the auction will coincide...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2027-mini-auction-set-to-clash-with-india-vs-sri-lanka-odi-trading-window-closes-on-november-15-2026-10-26-1057960",
-    "time": "2026-10-26T11:14:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Steven Smith availability in doubt for third Test vs South Africa; Australia release opener Nic Maddinson",
-    "desc": "Senior Australia batter Steven Smith is not confirmed to be in the playing XI for the decisive Test against South Africa in Cape Town. He is required to complete a full net session on Monday...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/steven-smith-availability-in-doubt-for-third-test-vs-south-africa-australia-release-opener-nic-maddinson-2026-10-26-1057955",
-    "time": "2026-10-26T10:22:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Michael Carrick's future uncertain after 3-0 defeat to Bournemouth; Man Utd fans don't blame him though",
-    "desc": "Michael Carrick’s position as Manchester United head coach is under growing threat after a 3-0 home defeat to Bournemouth. It extended the club’s winless run to eight matches across all competitions, prompting renewed discussions among...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/michael-carrick-s-future-uncertain-after-3-0-defeat-to-bournemouth-manchester-united-fans-don-t-blame-him-though-2026-10-26-1057945",
-    "time": "2026-10-26T08:47:30.000Z"
   }
 ];
