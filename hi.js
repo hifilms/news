@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Grace Harris, Sneh Rana to come under the hammer in marquee event",
+    "desc": "The mini auction of the WPL (Women's Premier League) 2027 is all set to commence. The marquee event will be held in Kochi on October 28th, and all the five franchises will look to put...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wpl-auction-2027-live-updates-womens-premier-league-team-squads-bidding-price-for-dc-cg-mi-rcb-upw-1058128",
+    "time": "2026-10-28T11:14:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma reclaims top spot in the ICC men's T20I batter ranking after sensational recent performances",
+    "desc": "Star India batter Abhishek Sharma has been in incredible form for the last few years for the Men in Blue; the star batter had all the limelight on him as he propelled the Indian team...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-reclaims-top-spot-in-the-icc-men-s-t20i-batter-ranking-after-sensational-recent-performances-2026-10-28-1058124",
+    "time": "2026-10-28T10:10:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It feels special': Romeo Lavia opens up on his time with Chelsea ahead of crucial Manchester United clash",
+    "desc": "The stage is set for a crucial clash in the ongoing season of the Premier League. Arch-rivals Chelsea and Manchester United will be locking horns. The two sides will take on each other at Stamford...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/it-feels-special-romeo-lavia-opens-up-on-his-time-with-chelsea-ahead-of-crucial-manchester-united-clash-2026-10-28-1058117",
+    "time": "2026-10-28T09:21:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "From live streaming info, slots available to purse; all you need to know",
+    "desc": "The stage is set for the upcoming edition of the WPL (Women’s Premier League) 2027 auction. The mini auction for the tournament is all set to be held on October 28th in Kochi, and all...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2027-auction-from-live-streaming-info-slots-available-to-purse-all-you-need-to-know-2026-10-28-1058114",
+    "time": "2026-10-28T08:45:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Star India women's batter named as Jess Jonassen's replacement at Brisbane Heat ahead of WBBL season",
+    "desc": "In a major development, Brisbane Heat women recently came forward and announced that South Africa’s Jess Jonassen has been ruled out of the entire WBBL (Women’s Big Bash League) season due to a hip complaint,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/star-india-women-s-batter-named-as-jess-jonassen-s-replacement-at-brisbane-heat-ahead-of-wbbl-season-2026-10-28-1058104",
+    "time": "2026-10-28T07:34:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Three-time para Asian Games gold medallist Neeraj Yadav dies by suicide, consumed poison",
+    "desc": "Indian para-athlete Neeraj Yadav, a three-time Asian Para Games gold medallist, has allegedly died by suicide after reportedly consuming poison at his residence. A postmortem examination was underway at a Delhi hospital on Wednesday, while...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/three-time-para-asian-games-gold-medallist-neeraj-yadav-dies-by-suicide-consumed-poison-police-2026-10-28-1058099",
+    "time": "2026-10-28T06:35:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jamie Carragher names next 'perfect' coach for Manchester United amid terrible form",
     "desc": "20-time Premier League champions Manchester United are going through one of their most desperate times in recent years. The side has gotten off to a horrid start to their Premier League season; they currently sit...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-s-magnificent-ton-leads-india-to-a-win-in-wellington-clinch-t20i-series-with-eight-wicket-win-2026-10-27-1058033",
     "time": "2026-10-27T10:09:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Team India achieves massive feat with blazing start to the run chase in Wellington in third T20I",
-    "desc": "The Indian team took on New Zealand in the third T20I of the ongoing series. The two sides met at the Hnry Stadium in Wellington on October 27th, and the game saw India come in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/team-india-achieves-massive-feat-with-blazing-start-to-the-run-chase-in-wellington-in-third-t20i-2026-10-27-1058032",
-    "time": "2026-10-27T09:38:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jess Jonassen ruled out of WBBL due to hip injury",
-    "desc": "In a major blow, star Brisbane Heat cricketer Jess Jonassen has been ruled out of the entirety of the upcoming WBBL (Women’s Big Bash League) season due to a hip complaint. It is worth noting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jess-jonassen-ruled-out-of-wbbl-due-to-hip-injury-2026-10-27-1058029",
-    "time": "2026-10-27T08:21:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India defeat New Zealand by six wickets, clinch T20I series",
-    "desc": "The Indian team dominated New Zealand in the third T20I of the ongoing series between the two sides. Winning the toss, the Men in Blue opted to bowl first and conceded 198 runs in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3rd-t20i-live-score-india-look-to-clinch-t20i-series-in-wellington-1058018",
-    "time": "2026-10-27T06:20:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ballon d'Or 2026: Full list of award winners as Harry Kane, Alexia Putellas win big",
-    "desc": "The Ballon d’Or 2026 ceremony concluded in London on October 27th, and Bayern Munich star Harry Kane won the men’s Ballon d’Or for his performances for the club and country throughout the season. There were...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/ballon-d-or-2026-full-list-of-award-winners-as-harry-kane-alexia-putellas-win-big-2026-10-27-1058017",
-    "time": "2026-10-27T06:09:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Kane wins Ballon d'Or 2026, defeats Mbappe, Yamal to grab prized award",
-    "desc": "Ace Bayern Munich striker Harry Kane is the official Ballon d’Or 2026 winner. The English football team’s skipper and the main man for the German champions edged past Real Madrid’s Kylian Mbappe and FC Barcelona’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/harry-kane-wins-ballon-d-or-2026-defeats-mbappe-yamal-to-grab-prized-award-2026-10-27-1058014",
-    "time": "2026-10-27T05:40:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch Ballon d'Or 2026 live on TV and stream online for free in India?",
-    "desc": "The Ballon d’Or 2026 ceremony will take place at London’s Palladium Theatre on Monday, October 26, bringing together the leading names in world football to compete for one of the sport’s most prestigious individual honours....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/when-and-where-to-watch-ballon-d-or-2026-live-on-tv-and-stream-online-for-free-in-india-2026-10-26-1057975",
-    "time": "2026-10-26T13:22:42.000Z"
   }
 ];
