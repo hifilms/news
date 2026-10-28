@@ -1,7 +1,34 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Grace Harris, Sneh Rana to come under the hammer in marquee event",
+    "title": "Full squads of all five teams after mini auction",
+    "desc": "The WPL (Women’s Premier League) 2027 mini auction came to an end, and the five franchises brought home some brilliant players into their ranks ahead of the upcoming edition of the WPL. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2027-full-squads-of-all-five-teams-after-mini-auction-2026-10-28-1058155",
+    "time": "2026-10-28T15:37:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Prasidh Krishna ruled out of upcoming New Zealand ODIs due to hamstring injury; Check details",
+    "desc": "In a major blow to the Indian team, star pacer Prasidh Krishna has been ruled out of the upcoming ODI matches against New Zealand after failing to recover in time from his hamstring injury. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/prasidh-krishna-ruled-out-of-upcoming-new-zealand-odis-due-to-hamstring-injury-check-details-2026-10-28-1058146",
+    "time": "2026-10-28T13:48:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Andrew McDonald in talks with Cricket Australia over potential extension as men's head coach",
+    "desc": "In a major development, CA (Cricket Australia) are in talks with Andrew McDonald over a potential contract extension as the head coach of the men’s senior team, which would extend his deal beyond the end...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/andrew-mcdonald-in-talks-with-cricket-australia-over-potential-extension-as-men-s-head-coach-2026-10-28-1058138",
+    "time": "2026-10-28T12:05:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sophie Molineux joins UP Warriorz for 1.1 crore, Grace Harris joins UPW as well",
     "desc": "The mini auction of the WPL (Women's Premier League) 2027 is all set to commence. The marquee event will be held in Kochi on October 28th, and all the five franchises will look to put...",
     "img": "",
     "src": "indiatvnews.com",
@@ -38,7 +65,7 @@ const newsData_hi = [
   {
     "cat": "Sports",
     "title": "Star India women's batter named as Jess Jonassen's replacement at Brisbane Heat ahead of WBBL season",
-    "desc": "In a major development, Brisbane Heat women recently came forward and announced that South Africa’s Jess Jonassen has been ruled out of the entire WBBL (Women’s Big Bash League) season due to a hip complaint,...",
+    "desc": "In a major development, Brisbane Heat women recently came forward and announced that Australia’s Jess Jonassen has been ruled out of the entire WBBL (Women’s Big Bash League) season due to a hip complaint, and...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/star-india-women-s-batter-named-as-jess-jonassen-s-replacement-at-brisbane-heat-ahead-of-wbbl-season-2026-10-28-1058104",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/jamie-carragher-names-next-perfect-coach-for-manchester-united-amid-terrible-form-2026-10-27-1058057",
     "time": "2026-10-27T13:36:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer hails India's opening stand as Abhishek Sharma blows away New Zealand to clinch T20I series",
-    "desc": "The Indian team registered a brilliant victory against New Zealand in the third T20I of the ongoing five-game series between the two sides. The teams met at the Hnry Stadium in Wellington on October 27,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-hails-india-s-opening-stand-as-abhishek-sharma-blows-away-new-zealand-to-clinch-t20i-series-2026-10-27-1058050",
-    "time": "2026-10-27T12:24:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Albie Morkel joins Chennai Super Kings as assistant coach ahead of IPL 2027",
-    "desc": "In a major development, five-time IPL (Indian Premier League) champions Chennai Super Kings have come forward and announced that former South Africa all-rounder Albie Morkel will be joining their ranks as the assistant coach ahead...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/albie-morkel-joins-chennai-super-kings-as-assistant-coach-ahead-of-ipl-2027-2026-10-27-1058043",
-    "time": "2026-10-27T11:13:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma's magnificent ton leads India to a win in Wellington, clinch T20I series with six-wicket win",
-    "desc": "The Indian team took on New Zealand in the third T20I of the ongoing series between the two sides. The teams met at the Hnry Stadium in Wellington for the clash on October 27th, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-s-magnificent-ton-leads-india-to-a-win-in-wellington-clinch-t20i-series-with-eight-wicket-win-2026-10-27-1058033",
-    "time": "2026-10-27T10:09:54.000Z"
   }
 ];
