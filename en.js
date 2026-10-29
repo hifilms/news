@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Marvel Studios honours 'X-Men' star Patrick Stewart",
+    "desc": "Patrick Stewart, the celebrated actor known for roles in 'Star Trek' and 'X-Men', has died aged 86. He died in his Los Angeles home after a brief struggle with Alzheimer's Disease. Stewart's family released a heartfelt statement announcing his passing and honoring his impactful career and personal life. He was admired for his dedication to arts, human rights, and various charitable causes.",
+    "img": "https://static.toiimg.com/photo/msid-135331871,imgsize-211482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sir-patrick-stewart-passes-away-marvel-studios-pays-tribute-to-its-professor-charles-xavier-x-men-star-to-make-final-mcu-appearance-in-avengers-doomsday/articleshow/135331430.cms",
+    "time": "2026-10-29T20:49:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Patrick Stewart dies at 86 after battle with Alzheimer’s and Lewy body dementia",
+    "desc": "The Next Generation and the X-Men franchise, has died at 86 at his Los Angeles home, according to a family statement. His death follows a battle with Alzheimer’s disease and Lewy body dementia. The acclaimed actor leaves behind a six-decade legacy across theatre, television and cinema.",
+    "img": "https://static.toiimg.com/photo/msid-135331565,imgsize-77510.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sir-patrick-stewart-dies-at-86-star-trek-and-x-men-star-passes-away-at-his-home-in-los-angeles-after-battle-with-alzheimers-and-lewy-body-dementia/articleshow/135331464.cms",
+    "time": "2026-10-29T20:33:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&K High Court declares imposition of water usage charges under 2010 Act in UT as ‘ultra vires’",
+    "desc": "The J&K government in 2010 passed the J&K Water Resources (Regulation and Management) Act “to generate revenue on water resources by charging for its usage from private and public units, which will include companies generating electricity in the State”",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-declares-imposition-of-water-usage-charges-under-2010-act-in-ut-as-ultra-vires/article71641708.ece",
+    "time": "2026-10-29T18:52:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "George Michael’s ‘Faith’ guitar sells for £234,000 amid family row auction",
+    "desc": "George Michael’s guitar from his 1987 ‘Faith’ music video has sold for £234,000 at auction. The sale has sparked a family dispute, with Siobhan Bailey’s brother Gerard objecting to the auction organised by her estranged husband, Ian Belcher. Gerard claims Bailey wanted the memorabilia to go to her nieces and nephews before her death in 2014.",
+    "img": "https://static.toiimg.com/photo/msid-135327139,imgsize-84894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/george-michaels-faith-guitar-sells-for-234000-siobhan-baileys-brother-gerard-objects-to-auction-by-estranged-husband-ian-belcher-claiming-she-wanted-the-memorabilia-left-to-her-nieces-and-nephews/articleshow/135326744.cms",
+    "time": "2026-10-29T18:37:01.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Lessons for the BJP from Uttar Pradesh MLC election",
     "desc": "The first big takeaway for the BJP is that the results of the MLC election demonstrate the 2024 Lok Sabha results may not be a fluke, when the SP, with 37 seats, brought down the BJP’s handsome tallies of 71 seats in 2014 and 62 seats in 2019 to 33 seats in 2024",
@@ -36,15 +72,6 @@ const newsData_en = [
     "time": "2026-10-29T16:40:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supreme Court strikes down Karnataka law validating ‘corrupt’ 2011 recruitment",
-    "desc": "Top court says cancellation of the recruitment process was upheld by both HC and SC, and that the 'power does not lie with the legislature to annul the cancellation, even by a legislation, and thus nullify the judgments of the Constitutional courts’",
-    "img": "https://th-i.thgim.com/public/news/national/lxrt66/article66353937.ece/alternates/LANDSCAPE_1200/IMG_thvli-supreme-court-_2_1_7IA6L7U0.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-strikes-down-karnataka-law-validating-corrupt-2011-recruitment/article71641638.ece",
-    "time": "2026-10-29T16:37:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Priyanka says Nick made sure to set up his tour to be home for 'Karwa Chauth': 'No one like my guy'",
     "desc": "Priyanka Chopra recently took a moment to express her heartfelt appreciation for Nick Jonas, who adjusted his tour plans to celebrate Karwa Chauth at home. The couple showcased their deep bond through festive traditions, with Priyanka revealing beautiful mehendi designs honoring Nick. Their daughter, Malti Marie, joined in the celebrations, highlighting their family's togetherness. Married since December 2018, they welcomed Malti via surrogacy in January 2022.",
@@ -70,24 +97,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/harmanpreet-sukhjeet-score-braces-as-india-beat-china-5-2-at-asian-champions-trophy/articleshow/135323193.cms",
     "time": "2026-10-29T16:23:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Census trainers flag queries on Aadhaar, caste, age and birthplace of parents as key challenges",
-    "desc": "At an enumerator training session attended by The Hindu, a trainer explains how to coax respondents to share Aadhaar data, including that it could be used as citizenship proof, though Census officials denied giving any instructions in this regard",
-    "img": "https://th-i.thgim.com/public/news/national/qqt1eo/article71641772.ece/alternates/LANDSCAPE_1200/ghazipur3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/census-trainers-flag-queries-on-aadhaar-caste-age-and-birthplace-of-parents-as-key-challenges/article71640896.ece",
-    "time": "2026-10-29T16:15:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NoRKA Care enrolment portal launched for Non-Resident Keralites",
-    "desc": "Existing members can renew their health and accident insurance policies, while new applicants can register for the scheme until November 30, 2026; the web portal and the updated mobile application allow NRKs from anywhere in the world to enrol in the scheme and access its services online",
-    "img": "https://th-i.thgim.com/public/incoming/ry810w/article71641970.ece/alternates/LANDSCAPE_1200/norka%20centre.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/norka-care-enrolment-portal-launched-for-non-resident-keralites/article71641087.ece",
-    "time": "2026-10-29T16:12:45.000Z"
   },
   {
     "cat": "Entertainment",
@@ -270,15 +279,6 @@ const newsData_en = [
     "time": "2026-10-29T12:37:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Ethan Hawke",
-    "desc": "Ethan Hawke offers profound insights on the importance of humility in navigating life and creativity. He encourages seeing others as collaborators rather than rivals, which can help eliminate jealousy. His philosophy embraces learning from mistakes, ultimately fostering artistic growth and happiness. Hawke’s journey from humble beginnings to fame showcases his dedication to genuine creative expression.",
-    "img": "https://static.toiimg.com/photo/msid-135300097,imgsize-70381.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-ethan-hawke-if-you-can-channel-the-best-part-of-you-that-is-bigger-than-yourselfyou-can-have-fun-and-you-arent-jealous-of-others-the-point-of-it-all-is-to-learn-before-sunrise-stars-words-on-enjoying-life-and-crafting-without-letting-your-ego-get-the-best-of-you/articleshow/135300022.cms",
-    "time": "2026-10-29T12:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Inglis becomes first Australian to achieve this rare feat in all three formats",
     "desc": "In a remarkable comeback to Test cricket, Josh Inglis achieved his second century, scoring 102 runs, as Australia triumphed with a total of 429 runs against South Africa. This impressive performance marked him as the first Australian player to secure multiple centuries across all formats. Alongside Inglis, Alex Carey shone brightly with an important contribution of 80 runs, leading Australia to a 100-run advantage after dismissing South Africa for 329.",
@@ -322,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/namo-narayanas-untold-story-how-brotherhood-of-the-bachelor-days-led-jailer-2-actor-to-films-lesser-known-facts-about-rajinikanths-co-star/articleshow/135304218.cms",
     "time": "2026-10-29T11:17:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How a small trigger can lead to a deadly stampede",
-    "desc": "On October 17, a tragic stampede in Kolkata claimed 19 lives during the Durga Puja celebrations. The incident was caused by overcrowding, panic, and a misleading announcement about structural failure. Experts emphasize the importance of effective crowd management to prevent similar tragedies in the future. Investigators are examining various factors contributing to the disaster, including narrow exits and inadequate safety measures.",
-    "img": "https://static.toiimg.com/photo/msid-135302559,imgsize-192876.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/it-only-takes-one-rumour-how-a-small-trigger-can-lead-to-a-deadly-stampede/articleshow/135302224.cms",
-    "time": "2026-10-29T11:00:28.000Z"
   },
   {
     "cat": "Sports",
@@ -378,24 +369,6 @@ const newsData_en = [
     "time": "2026-10-29T09:59:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "From Hitler’s rise to farmers’ misery in India: How the Great Depression changed lives far beyond America",
-    "desc": "The October 1929 stock market crash in the United States ignited a global economic disaster that resulted in widespread unemployment and business closures. In Germany and India, the crisis led to heightened political unrest and movements for independence. Falling agricultural prices devastated Indian farmers, pushing them closer to revolution against British oppression. Meanwhile, Britain faced significant industrial downturns and job losses, highlighting the urgent need for international economic collaboration.",
-    "img": "https://static.toiimg.com/photo/msid-135300476,imgsize-316570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-hitlers-rise-to-farmers-misery-in-india-how-the-great-depression-changed-lives-far-beyond-america/articleshow/135300062.cms",
-    "time": "2026-10-29T09:59:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Harish Kalyan and Sasi’s ‘Nooru Kodi Vaanavil’ opts for direct OTT release",
-    "desc": "Harish Kalyan's highly awaited film 'Nooru Kodi Vaanavil' is finally hitting ZEE5, with its premiere set for November 6, 2026, just in time for the Diwali celebrations. This romantic drama, directed by Sasi and co-starring Siddhi Idnani, will skip a traditional theatrical run, giving eager fans the chance to enjoy the film digitally after its completion in 2022.",
-    "img": "https://static.toiimg.com/photo/msid-135300422,imgsize-289508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nooru-kodi-vaanavil-ott-release-date-harish-kalyan-and-sasis-long-delayed-film-to-skip-theatrical-release-heres-when-and-where-to-watch-the-film/articleshow/135300359.cms",
-    "time": "2026-10-29T09:57:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Big shake-up! MI confirm exits of three coaches, including Malinga",
     "desc": "Mumbai Indians have parted ways with coaches Lasith Malinga, Paras Mhambrey and Carl Hopkinson ahead of IPL 2027. Malinga contributed to four IPL titles, while Mhambrey helped develop the team’s bowling talent and Hopkinson worked on fielding standards. The exits follow Mahela Jayawardene’s departure after mixed results in his second stint as head coach.",
@@ -403,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/big-shake-up-before-ipl-2027-mumbai-indians-confirm-exits-of-three-coaches-including-lasith-malinga/articleshow/135299897.cms",
     "time": "2026-10-29T09:53:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Varun Dhawan chooses Ranveer Singh in 'Dhurandhar' over Ranbir Kapoor in 'Animal'",
-    "desc": "On 'Koffee With Karan,' Varun Dhawan revealed his decision to select the role played by Ranveer Singh in 'Dhurandhar' over Ranbir Kapoor's in 'Animal.' He reflected on earlier comments he made, suggesting they might have jinxed his box office fortunes. Dhawan recognized the hurdles he encountered after a series of wins, as both Ranbir and Ranveer continue to thrive in their latest films.",
-    "img": "https://static.toiimg.com/photo/msid-135300065,imgsize-275169.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-dhawan-chooses-ranveer-singh-in-dhurandhar-over-ranbir-kapoor-in-animal-the-only-flex-that-one-should-do-is-with-your-work/articleshow/135299468.cms",
-    "time": "2026-10-29T09:48:17.000Z"
   },
   {
     "cat": "Sports",
@@ -450,15 +414,6 @@ const newsData_en = [
     "time": "2026-10-29T08:31:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "A vitamin clue to stroke in the young? Bengaluru study finds low B6 levels",
-    "desc": "A recent study from Bengaluru finds lower levels of vitamin B6 in young adults with ischaemic strokes compared to healthy individuals. This study involved comparing vitamin B6 levels in 171 stroke patients and 249 healthy controls. Researchers found that vitamin B6 insufficiency was more prevalent among stroke patients than in the control group. Although vitamin B6 is linked to stroke risk, further research is essential to understand the implications.",
-    "img": "https://static.toiimg.com/photo/msid-135296468,imgsize-63410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/a-vitamin-clue-to-stroke-in-the-young-bengaluru-study-finds-low-b6-levels/articleshow/135296468.cms",
-    "time": "2026-10-29T08:01:40.000Z"
-  },
-  {
     "cat": "World",
     "title": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
     "desc": "Poland and India seek to raise bilateral trade from $6 bn to $12 bn; PM Modi visited Poland in 2024, during which ties were elevated to ‘strategic partnership’; Warsaw is also trying to diversify partnerships as trade imbalance and Beijing’s support for Russia deepen disillusionment with China",
@@ -493,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sachin-tendulkar-over-inzamam-ul-haq-virat-kohli-over-babar-azam-ms-dhoni-over-javed-miandad-waqar-younis-makes-bold-picks-watch/articleshow/135295984.cms",
     "time": "2026-10-29T07:45:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Thousands of years of knowledge, struggle shaped India as cultural nation: Gajendra Singh Shekhawat",
-    "desc": "At the launch of 'Timeless India' held at Dharohar Bhawan, Union Culture Minister Gajendra Singh Shekhawat passionately articulated the essence of India's cultural heritage, which has been shaped through centuries of learning and trials. This book is a clarion call for the preservation of our historical sites and a deeper understanding of our cultural narrative.",
-    "img": "https://static.toiimg.com/photo/msid-135296037,imgsize-33528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/thousands-of-years-of-knowledge-struggle-shaped-india-as-cultural-nation-shekhawat/articleshow/135295818.cms",
-    "time": "2026-10-29T07:43:10.000Z"
   },
   {
     "cat": "World",
@@ -774,15 +720,6 @@ const newsData_en = [
     "time": "2026-10-28T08:18:53.000Z"
   },
   {
-    "cat": "World",
-    "title": "Record turnout as Israeli voters deliver verdict on Netanyahu",
-    "desc": "Israelis are casting their ballots in the shadow of October 7 and the multi-front regional wars that it sparked, with the trauma from the attack still fresh and questions over accountability and security central to the campaign",
-    "img": "https://th-i.thgim.com/public/incoming/yj26hv/article71633032.ece/alternates/LANDSCAPE_1200/2026-10-27T154608Z_1843233146_RC2NBOAG3Z5N_RTRMADP_3_ISRAEL-ELECTION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/record-turnout-as-israeli-voters-deliver-verdict-on-netanyahu/article71632993.ece",
-    "time": "2026-10-28T08:14:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Supreme Court agrees to hear challenge to definition of ‘industry’ in new Central law",
     "desc": "The All India Trade Union Congress Tamil Nadu’s petition challenged the definition of ‘industry’ under the Industrial Relations Code (IRC) 2020 as “deliciously vague”; The senior counsel Gopal Sankaranarayanan said the definition in the IRC Code did not meet the requirements of the ‘triple test’",
@@ -898,5 +835,68 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
     "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
