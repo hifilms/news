@@ -1,5 +1,59 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "On debut, Jio 2nd most valuable company, behind only parent Reliance Industries",
+    "desc": "Jio Platforms successfully listed its shares at a premium price of Rs 1,358 on debut day. The stock surged to Rs 1,419, resulting in a market capitalisation of Rs 13.1 lakh crore. The listing also elevated the RIL group to the top of India's most valued business houses. Jio’s IPO was oversubscribed more than 22 times, indicating strong investor interest.",
+    "img": "https://static.toiimg.com/photo/msid-135283632,imgsize-235782.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/on-debut-jio-2nd-most-valuable-company-behind-only-parent-reliance-industries/articleshow/135283604.cms",
+    "time": "2026-10-28T23:10:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Barbara Barrie passes away at 95 in medically assisted death",
+    "desc": "Veteran actress Barbara Barrie died at the age of 95 in New York City, confirmed by her daughter. She was best known for her Oscar-nominated role in 'Breaking Away' and her Broadway work in 'Company'. Barrie's leading role in 'One Potato, Two Potato' earned her a Cannes Best Actress award, highlighting her impactful film career. She also appeared in notable television series such as 'Barney Miller' and 'Nurse Jackie'.",
+    "img": "https://static.toiimg.com/photo/msid-135283449,imgsize-136567.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/barbara-barrie-passes-away-at-95-oscar-nominee-opts-for-medically-assisted-death-following-terminal-cancer-diagnosis/articleshow/135283386.cms",
+    "time": "2026-10-28T22:47:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Christopher Lloyd recalls childhood at Connecticut’s 400-acre Waveny estate",
+    "desc": "Back to the Future star Christopher Lloyd, 88, recalls growing up at Waveny, a sprawling 400-acre Connecticut estate his family moved into in 1944. His grandfather helped found Texaco Oil Company. Acquired by New Canaan in 1967, the estate is now a public park managed by Waveny Park Conservancy, welcoming over 250,000 visitors annually.",
+    "img": "https://static.toiimg.com/photo/msid-135283274,imgsize-151959.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/back-to-the-future-star-christopher-lloyd-88-recalls-childhood-at-connecticuts-400-acre-waveny-estate-inherited-from-texaco-co-founder-grandfather-in-1944-now-a-public-park-welcoming-250000-visitors-yearly/articleshow/135283211.cms",
+    "time": "2026-10-28T22:40:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Emma Corrin, Jack Lowden in ‘Pride and Prejudice’ trailer",
+    "desc": "The trailer for the limited series 'Pride and Prejudice' has recently been unveiled to audiences. Emma Corrin stars as Elizabeth Bennet while Jack Lowden plays Mr Darcy, showcasing their complex relationship. This adaptation of Jane Austen's famous novel will consist of six episodes exploring 19th-century England's social themes. Olivia Colman and Rufus Sewell are part of a diverse cast bringing iconic characters to life.",
+    "img": "https://static.toiimg.com/photo/msid-135280708,imgsize-224417.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/pride-and-prejudice-trailer-emma-corrin-debuts-as-elizabeth-bennet-jack-lowden-as-mr-darcy-amid-james-bond-buzz/articleshow/135280449.cms",
+    "time": "2026-10-28T21:47:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pakistan minister invites Punjab CM Mann",
+    "desc": "Punjab CM Bhagwant Mann had said that he wished to accept the invitation from the organisers of the Lahore International Punjabi Conference in Lahore from November 27 to 29 and would want to visit Sikh shrines in Pakistan",
+    "img": "https://th-i.thgim.com/public/incoming/mngua7/article71637877.ece/alternates/LANDSCAPE_1200/20260502449L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/pakistan-minister-invites-punjab-cm-mann/article71636711.ece",
+    "time": "2026-10-28T20:57:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Railways to turn off charging points in trains during night",
+    "desc": "The Railway Board’s renewed insistence on implementing the measure follows a recent incident in the South Eastern Railway zone. Railway staff reportedly failed to switch off charging points during the prescribed hours, leading to a power bank explosion while a mobile was being charged.",
+    "img": "https://th-i.thgim.com/public/incoming/f3xew7/article71637467.ece/alternates/LANDSCAPE_1200/Dena_Dayal_Coach18.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/railways-to-strictly-enforce-overnight-mobile-charging-ban-on-trains/article71637074.ece",
+    "time": "2026-10-28T20:41:32.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "MIDS professor alleges police harassment over fake Instagram account",
     "desc": "In a complaint to the DGP, Prof. Kalaiyarasan said the police told him he was required for an inquiry at T4 Sankar Nagar police station in Pammal over an allegedly abusive comment targeting Pallavaram TVK MLA J. Kamatchi.",
@@ -81,33 +135,6 @@ const newsData_en = [
     "time": "2026-10-28T16:20:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "DMK councillor arrested over controversial remark on Karur stampede",
-    "desc": "In a video that went viral on social media, the councillor was heard saying, “If we had finished him off at Karur on that day, we wouldn’t be in this situation today.” The remark was allegedly directed at Chief Minister C. Joseph Vijay, in an apparent reference to the stampede in Karur",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/sikvlm/article71637538.ece/alternates/LANDSCAPE_1200/DMK%20Councillor.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-councillor-arrested-over-controversial-remark-on-karur-stampede/article71635787.ece",
-    "time": "2026-10-28T16:19:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM questions Congress over party’s MLC election results",
-    "desc": "‘MLC elections in 28 seats across four big States — Uttar Pradesh, Maharashtra, Bihar and Karnataka. Elections held using ballot papers. Guess how many seats Congress won? said Narendra Modi in a post on X",
-    "img": "https://th-i.thgim.com/public/incoming/7anyfc/article71635922.ece/alternates/LANDSCAPE_1200/PM-Modi-to-inauGBHGNH1DC.5.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-taunts-congress-for-dismal-show-in-mlc-polls-despite-use-of-paper-ballots/article71635894.ece",
-    "time": "2026-10-28T16:17:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The concerns over the Census questions",
-    "desc": "The questionnaire for the population enumeration phase of the 2027 Census comprises 40 questions and seek details such as nationality, number of bank accounts and mobile, Aadhaar and voter ID numbers, if available, raising concerns over its potential digression from the purpose of collecting data for policy and planning",
-    "img": "https://th-i.thgim.com/public/incoming/f5ndkw/article71444360.ece/alternates/LANDSCAPE_1200/9712_1_8_2026_12_20_45_2__DSC0305.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/the-concerns-over-the-census-questions/article71444351.ece",
-    "time": "2026-10-28T16:17:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "WPL 2027 auction sold and unsold players full list",
     "desc": "The WPL 2027 auction list features 24 unique sold players and 28 unsold players, based on the supplied data. Sophie Molineux was the biggest buy, joining UP Warriorz for Rs 1.1 crore, followed by Kiran Navgire at Rs 75 lakh for Delhi Capitals Women. UP Warriorz led team signings, while several domestic and overseas players failed to attract bids.",
@@ -124,24 +151,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/the-gap-in-manufacturing-sector-gva/article71425499.ece",
     "time": "2026-10-28T16:10:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. government plans investment conversion conclave in Nov.; Minister to visit Germany to attract investment",
-    "desc": "Sources said that the event will be held in the presence of Chief Minister C. Joseph Vijay. Tamil Nadu Minister for Industries, Investment Promotion and Commerce S. Keerthana will visit Germany in the first week of November",
-    "img": "https://th-i.thgim.com/public/incoming/jlbrj9/article71637431.ece/alternates/LANDSCAPE_1200/BVR_0848.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-plans-investment-conversion-conclave-in-nov-minister-to-visit-germany-to-attract-investment/article71636325.ece",
-    "time": "2026-10-28T16:07:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sharp cuts in price of cancer drugs expose excessive pricing, say health experts",
-    "desc": "NPPA releases revised MRPs for 543 brands of anti-cancer medicines with the new prices effective from November 9; Jan Swasthya Abhiyan India (JSA India) says controlling trade margins alone is insufficient as life-saving cancer treatment must be affordable based on medical need, not a patient’s ability to pay",
-    "img": "https://th-i.thgim.com/public/incoming/ja3n29/article71637452.ece/alternates/LANDSCAPE_1200/iStock-479421892.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sharp-cuts-in-price-of-cancer-drugs-expose-excessive-pricing-say-health-experts/article71636827.ece",
-    "time": "2026-10-28T16:05:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -234,15 +243,6 @@ const newsData_en = [
     "time": "2026-10-28T13:51:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supreme Court says legality of EC's 'logical discrepancy' checks in SIR remains undecided",
-    "desc": "A bench comprising Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V Mohana said its earlier decision allowing the Election Commission to use the category in West Bengal was only an interim measure. It also clarified that the court’s ruling on the SIR exercise in Bihar had not settled every legal question surrounding the revision process.",
-    "img": "https://static.toiimg.com/photo/msid-135268319,imgsize-81710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/supreme-court-says-legality-of-ecs-logical-discrepancy-checks-in-sir-remains-undecided/articleshow/135268027.cms",
-    "time": "2026-10-28T13:47:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Vaishnavi Sharma's fifer powers India to 3-0 series sweep",
     "desc": "India completed a 3-0 women’s ODI series sweep against Zimbabwe with an eight-wicket victory. Young spinner Vaishnavi Sharma claimed five wickets for 39 runs to bowl Zimbabwe out for 131. Pratika Rawal scored an unbeaten 59, while Shafali Verma smashed 51 not out off 26 balls, helping India chase the target in just 17 overs.",
@@ -250,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-vs-zim-women-3rd-odi-vaishnavi-sharmas-fifer-powers-india-to-3-0-series-sweep/articleshow/135267858.cms",
     "time": "2026-10-28T13:46:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'India's businesses already hate all of you': Rahul Gandhi's 4-point reply to Nirmala Sitharaman's advice over Tata Group",
-    "desc": "Rahul Gandhi responded to Finance Minister Nirmala Sitharaman regarding the Tata Group's ongoing dispute. He questioned the motives behind hosting Tata representatives at Amit Shah's residence. The exchange followed Rahul's earlier post accusing the government of \"criminally destroying\" the Tata Group and questioning business leaders' silence over the matter.",
-    "img": "https://static.toiimg.com/photo/msid-135268267,imgsize-93309.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/already-hate-all-of-you-rahul-gandhis-4-point-reply-to-nirmala-sitharamans-advice/articleshow/135267268.cms",
-    "time": "2026-10-28T13:45:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -369,33 +360,6 @@ const newsData_en = [
     "time": "2026-10-28T11:59:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Incredible husband'",
-    "desc": "In a candid conversation, Katrina Kaif discusses the strong support system she shares with Vicky Kaushal and their little one Vihaan. She lauds Vicky for adeptly balancing his career with their family dynamics. Touching on the pressures mothers face concerning postpartum body image, Katrina stresses the importance of self-acceptance amidst online backlash. The couple continues to focus on nurturing their family during the beautiful but challenging phase of parenthood.",
-    "img": "https://static.toiimg.com/photo/msid-135264565,imgsize-214165.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-kaif-says-vicky-kaushal-has-a-superpower-of-being-100-percent-present-as-a-father-after-18-hours-of-work-an-indescribable-feeling-to-see-vihaans-face-and-know-that-four-years-of-a-journey-led-to-this/articleshow/135264113.cms",
-    "time": "2026-10-28T11:56:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Superstar Rajinikanth’s box office power: INDUSTRY HITS that SILENCED critics",
-    "desc": "Rajinikanth's illustrious film career is marked by numerous triumphs that have transformed box office expectations. He consistently counters skepticism about his popularity with blockbuster hits. Iconic films such as 'Padayappa' and 'Chandramukhi' remain touchstones in cinema history. His latest venture, 'Jailer 2,' has reportedly achieved remarkable box office success, showcasing Rajinikanth's timeless charm that resonates with audiences of all ages.",
-    "img": "https://static.toiimg.com/photo/msid-135264550,imgsize-118236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanths-box-office-power-padayappa-to-jailer-2-industry-hits-of-the-superstar-that-silenced-critics/articleshow/135264512.cms",
-    "time": "2026-10-28T11:55:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Adipurush' lyricist Manoj Muntashir reacts to 'Ramayana' song comparisons: 'Didn’t write qawwalis'",
-    "desc": "Lyricist Manoj Muntashir addressed negative feedback regarding the music in 'Adipurush', asserting that each song was crafted with heartfelt dedication. Despite the film's unfavorable reception, resulting in box-office disappointment, he remains proud of the songs' appeal. He also hinted at the upcoming 'Ramayana' film, featuring a promising cast, including Ranbir Kapoor, scheduled for release in November.",
-    "img": "https://static.toiimg.com/photo/msid-135264410,imgsize-637444.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/adipurush-lyricist-manoj-muntashir-reacts-to-ramayana-song-comparisons-says-i-didnt-write-nursery-rhymes-for-ram-nor-qawwalis/articleshow/135264100.cms",
-    "time": "2026-10-28T11:52:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No 50 in last three years! Labuschagne's lean patch lands in with unwanted record",
     "desc": "Marnus Labuschagne extended his unwanted record to 48 Test innings without a century, the longest drought for an Australian top-four batter. Simon Harmer dismissed Travis Head for 41 and Labuschagne for a duck in his first over as Australia reached 90-2 at lunch, trailing South Africa by 239 runs in the decisive third Test, with the series level at 1-1.",
@@ -403,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-50-in-last-three-years-marnus-labuschagnes-lean-patch-lands-in-with-unwanted-record/articleshow/135261880.cms",
     "time": "2026-10-28T11:47:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'DK, its done bro': BJP's dig at CM Shivakumar after sweeping Karnataka MLC polls",
-    "desc": "The Karnataka BJP used the viral phrase “DK, it’s done, bro!” to target the ruling Congress after the National Democratic Alliance (NDA) secured a clean sweep in the polls, winning two Graduates’ seats and two Teachers’ seats. In a post on X, the BJP wrote, “DK, it’s done, bro! NDA SWEEPS 4/4 Teachers’ and Graduates’ constituencies in the MLC elections!”",
-    "img": "https://static.toiimg.com/photo/msid-135264093,imgsize-142238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dk-its-done-bro-bjps-dig-at-cm-shivakumar-after-sweeping-karnataka-mla-polls/articleshow/135262921.cms",
-    "time": "2026-10-28T11:45:57.000Z"
   },
   {
     "cat": "Tech",
