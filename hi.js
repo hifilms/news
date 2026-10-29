@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bruno Fernandes clears the air with Michael Carrick after recent rift rumours",
+    "desc": "Manchester United are all set for a crucial clash in the ongoing Premier League season. The 20-time league champions will be taking on Chelsea in their upcoming clash. The two sides will meet at Stamford...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bruno-fernandes-clears-the-air-with-michael-carrick-after-recent-rift-rumours-2026-10-29-1058226",
+    "time": "2026-10-29T12:57:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jhulan Goswami weighs in on MI women's scouting strategy ahead of WPL 2027",
+    "desc": "The WPL (Women’s Premier League) 2027 mini auction concluded on October 28th, and the five franchises finalised their squads ahead of the WPL 2027, with the teams looking to put in their best performances in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jhulan-goswami-weighs-in-on-mi-women-s-scouting-strategy-ahead-of-wpl-2027-2026-10-29-1058218",
+    "time": "2026-10-29T11:26:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mumbai Indians part ways with Lasith Malinga, Paras Mhambrey, and Carl Hopkinson ahead of IPL 2027",
+    "desc": "In a major development, five-time IPL (Indian Premier League) champions Mumbai Indians recently came forward and announced that the franchise will be parting ways with Lasith Malinga, Paras Mhambrey and Carl Hopkinson, and the trio...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-part-ways-with-lasith-malinga-paras-mhambrey-and-carl-hopkinson-ahead-of-ipl-2027-2026-10-29-1058211",
+    "time": "2026-10-29T10:23:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cristiano Ronaldo beats Lionel Messi, wins best Ballon d'Or of all time award for the 2007/08 season",
+    "desc": "Cristiano Ronaldo has defeated arch-rival Lionel Messi and has won the Best Ballon d’Or of all time award. It is worth noting that France Football published the final BOAT (Ballon d’Or of all time) standings...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-beats-lionel-messi-wins-best-ballon-d-or-of-all-time-award-for-the-2007-08-season-2026-10-29-1058203",
+    "time": "2026-10-29T09:34:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Tilak Varma opens up on India's chances to defeat NZ 5-0 in the ongoing T20I series",
     "desc": "The Indian team is all set to take on New Zealand in the fourth T20I of the ongoing series. The two sides are all set to meet each other at Eden Park in Auckland for...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/prasidh-krishna-ruled-out-of-upcoming-new-zealand-odis-due-to-hamstring-injury-check-details-2026-10-28-1058146",
     "time": "2026-10-28T13:48:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Andrew McDonald in talks with Cricket Australia over potential extension as men's head coach",
-    "desc": "In a major development, CA (Cricket Australia) are in talks with Andrew McDonald over a potential contract extension as the head coach of the men’s senior team, which would extend his deal beyond the end...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/andrew-mcdonald-in-talks-with-cricket-australia-over-potential-extension-as-men-s-head-coach-2026-10-28-1058138",
-    "time": "2026-10-28T12:05:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sophie Molineux joins UP Warriorz for 1.1 crore, Grace Harris joins UPW as well",
-    "desc": "The mini auction of the WPL (Women's Premier League) 2027 is all set to commence. The marquee event will be held in Kochi on October 28th, and all the five franchises will look to put...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wpl-auction-2027-live-updates-womens-premier-league-team-squads-bidding-price-for-dc-cg-mi-rcb-upw-1058128",
-    "time": "2026-10-28T11:14:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma reclaims top spot in the ICC men's T20I batter ranking after sensational recent performances",
-    "desc": "Star India batter Abhishek Sharma has been in incredible form for the last few years for the Men in Blue; the star batter had all the limelight on him as he propelled the Indian team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-reclaims-top-spot-in-the-icc-men-s-t20i-batter-ranking-after-sensational-recent-performances-2026-10-28-1058124",
-    "time": "2026-10-28T10:10:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It feels special': Romeo Lavia opens up on his time with Chelsea ahead of crucial Manchester United clash",
-    "desc": "The stage is set for a crucial clash in the ongoing season of the Premier League. Arch-rivals Chelsea and Manchester United will be locking horns. The two sides will take on each other at Stamford...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/it-feels-special-romeo-lavia-opens-up-on-his-time-with-chelsea-ahead-of-crucial-manchester-united-clash-2026-10-28-1058117",
-    "time": "2026-10-28T09:21:14.000Z"
   }
 ];
