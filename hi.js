@@ -1,92 +1,92 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Jamie Carragher names the one player that Manchester United should have gone after in the transfer window",
-    "desc": "The stage is set for a crucial clash in the ongoing season of the Premier League. 20-time champions Manchester United will be taking on Chelsea. The two sides will meet at Stamford Bridge in London...",
+    "title": "Aaryavir Sehwag, Anvay Dravid named as India announce squad for U-19 Asia Cup 2026",
+    "desc": "India have unveiled a 15-member squad for the upcoming U19 Asia Cup, scheduled to take place in Muscat, Oman, from November 4 to 14. Lakshya Raichandani will lead the side, with Yashbardhan Chauhan continuing as...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/jamie-carragher-names-the-one-player-that-manchester-united-should-have-gone-after-in-the-transfer-window-2026-10-30-1058256",
-    "time": "2026-10-30T03:44:27.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/aaryavir-sehwag-anvay-dravid-named-as-india-announce-squad-for-u-19-asia-cup-2026-2026-10-30-1058302",
+    "time": "2026-10-30T11:42:10.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Beth Mooney takes over as Perth Scorchers' captain from Sophie Devine ahead of WBBL clash",
-    "desc": "In a major development, WBBL (Women’s Big Bash League) franchise, Perth Scorchers’ women came forward and announced that star batter Beth Mooney will be taking over as the side’s captain after Sophie Devine announced that...",
+    "title": "Glenn Phillips, Jacob Duffy decimate as New Zealand register second-biggest win over India in T20Is",
+    "desc": "New Zealand have blown India away in the fourth T20I at Eden Park in Auckland. Leading up to the match, the Mitchell Santner-led side was under tremendous pressure, having lost three matches on the trot....",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/beth-mooney-takes-over-as-perth-scorchers-captaincy-from-sophie-devine-ahead-of-wbbl-clash-2026-10-30-1058251",
-    "time": "2026-10-30T02:48:23.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-jacob-duffy-decimate-as-new-zealand-register-second-biggest-win-over-india-in-t20is-2026-10-30-1058298",
+    "time": "2026-10-30T10:56:07.000Z"
   },
   {
     "cat": "Sports",
-    "title": "India vs New Zealand, 4th T20I Pitch Report, how will surface in Auckland play?",
-    "desc": "The stage is set for the fourth T20I of the ongoing series between India and New Zealand. The two sides are slated to meet for the clash at Eden Park in Auckland on October 30th,...",
+    "title": "Report",
+    "desc": "Mumbai Indians are preparing to bring back Rohit Sharma as captain for IPL 2027. The team management wasn’t convinced by Hardik Pandya, who replaced Rohit as captain three years ago. During his tenure, Mumbai qualified...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-4th-t20i-pitch-report-how-will-surface-in-auckland-play-2026-10-30-1058247",
-    "time": "2026-10-30T01:49:34.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-set-to-replace-hardik-pandya-as-mumbai-indians-captain-for-ipl-2027-report-2026-10-30-1058292",
+    "time": "2026-10-30T10:02:59.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Bruno Fernandes clears the air with Michael Carrick after recent rift rumours",
-    "desc": "Manchester United are all set for a crucial clash in the ongoing Premier League season. The 20-time league champions will be taking on Chelsea in their upcoming clash. The two sides will meet at Stamford...",
+    "title": "Glenn Phillips-Michael Bracewell achieve huge feat with magnificent partnership against India in fourth T20I",
+    "desc": "The fourth T20I of the ongoing series between India and New Zealand saw the two teams take on each other at Eden Park in Auckland. The teams clashed on October 30th, and the game began...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/bruno-fernandes-clears-the-air-with-michael-carrick-after-recent-rift-rumours-2026-10-29-1058226",
-    "time": "2026-10-29T12:57:35.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-michael-bracewell-achieve-huge-feat-with-magnificent-partnership-against-india-in-fourth-t20i-2026-10-30-1058287",
+    "time": "2026-10-30T09:00:02.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Jhulan Goswami weighs in on MI women's scouting strategy ahead of WPL 2027",
-    "desc": "The WPL (Women’s Premier League) 2027 mini auction concluded on October 28th, and the five franchises finalised their squads ahead of the WPL 2027, with the teams looking to put in their best performances in...",
+    "title": "Glenn Phillips smacks joint second-fastest century against India in T20Is as New Zealand wreak havoc",
+    "desc": "New Zealand all-rounder Glenn Phillips produced a stunning show in the fourth T20I against India at Eden Park in Auckland. He arrived at the crease after the hosts were reduced to 93/3 at one point,...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jhulan-goswami-weighs-in-on-mi-women-s-scouting-strategy-ahead-of-wpl-2027-2026-10-29-1058218",
-    "time": "2026-10-29T11:26:27.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-smacks-joint-second-fastest-century-against-india-in-t20is-as-new-zealand-wreak-havoc-2026-10-30-1058286",
+    "time": "2026-10-30T08:56:00.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Mumbai Indians part ways with Lasith Malinga, Paras Mhambrey, and Carl Hopkinson ahead of IPL 2027",
-    "desc": "In a major development, five-time IPL (Indian Premier League) champions Mumbai Indians recently came forward and announced that the franchise will be parting ways with Lasith Malinga, Paras Mhambrey and Carl Hopkinson, and the trio...",
+    "title": "Brendon McCullum backs England to learn from Pakistan tri-series setback ahead of World Cup",
+    "desc": "England failed to impress in the ongoing Pakistan tri-series. The Harry Brook-led side ended their campaign on a positive note with a 55-run win over Sri Lanka in Lahore, but leading up to that, they...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-part-ways-with-lasith-malinga-paras-mhambrey-and-carl-hopkinson-ahead-of-ipl-2027-2026-10-29-1058211",
-    "time": "2026-10-29T10:23:48.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/brendon-mccullum-backs-england-to-learn-from-pakistan-tri-series-setback-ahead-of-world-cup-2026-10-30-1058281",
+    "time": "2026-10-30T08:13:23.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Cristiano Ronaldo beats Lionel Messi, wins best Ballon d'Or of all time award for the 2007/08 season",
-    "desc": "Cristiano Ronaldo has defeated arch-rival Lionel Messi and has won the Best Ballon d’Or of all time award. It is worth noting that France Football published the final BOAT (Ballon d’Or of all time) standings...",
+    "title": "Why is Bhuvneshwar Kumar not playing India's fourth T20I vs New Zealand at Eden Park in Auckland?",
+    "desc": "India have benched star pacer Bhuvneshwar Kumar from the playing XI for the fourth T20I against New Zealand at Eden Park in Auckland. He made his emphatic return after four years in the fifth T20I...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-beats-lionel-messi-wins-best-ballon-d-or-of-all-time-award-for-the-2007-08-season-2026-10-29-1058203",
-    "time": "2026-10-29T09:34:41.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-bhuvneshwar-kumar-not-playing-india-s-fourth-t20i-vs-new-zealand-at-eden-park-in-auckland-2026-10-30-1058274",
+    "time": "2026-10-30T07:16:38.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Tilak Varma opens up on India's chances to defeat NZ 5-0 in the ongoing T20I series",
-    "desc": "The Indian team is all set to take on New Zealand in the fourth T20I of the ongoing series. The two sides are all set to meet each other at Eden Park in Auckland for...",
+    "title": "Why is Vaibhav Sooryavanshi not playing in India's fourth T20I against New Zealand in Auckland?",
+    "desc": "The Indian team took on New Zealand in the fourth T20I of the ongoing series between the two sides. The teams met at Eden Park in Auckland on October 30th, and the game began on...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-opens-up-on-india-s-chances-to-defeat-nz-5-0-in-the-ongoing-t20i-series-2026-10-29-1058196",
-    "time": "2026-10-29T08:37:52.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-vaibhav-sooryavanshi-not-playing-in-india-s-fourth-t20i-against-new-zealand-in-auckland-2026-10-30-1058272",
+    "time": "2026-10-30T06:49:55.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Steve Smith cleared by Cricket Australia of any injury, set to play in first New Zealand Test",
-    "desc": "In a major boost for Australia, veteran batter Steve Smith is expected to be fit for the first Test of the upcoming Test series against New Zealand. It is interesting to note that Australia is...",
+    "title": "New Zealand beat India by 87 runs in fourth T20I",
+    "desc": "India and New Zealand take on each other in the fourth T20I of the ongoing series. The teams are slated to meet at Eden Park in Auckland, and with three wins in a row for...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-cleared-by-cricket-australia-of-any-injury-set-to-play-in-first-new-zealand-test-2026-10-29-1058192",
-    "time": "2026-10-29T07:47:03.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-4th-t20i-live-score-india-look-to-keep-winning-streak-alive-in-auckland-1058268",
+    "time": "2026-10-30T06:15:03.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Ben White announces retirement from representative cricket",
-    "desc": "Ireland leg spinner Ben White recently announced he will retire from representative cricket. At 28 years old, White made his debut for Ireland back in 2021 in Belfast against South Africa. His last appearance for...",
+    "title": "MI announces new coaching group ahead of IPL 2027, Robin Uthappa, T Dilip, among others join the ranks",
+    "desc": "The IPL (Indian Premier League) 2027 season is looming on the horizon; the 10 franchises are gearing up for the auction for the event before the start of the season. With the season around the...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-white-announces-retirement-from-representative-cricket-2026-10-29-1058187",
-    "time": "2026-10-29T06:44:34.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-announces-new-coaching-group-ahead-of-ipl-2027-robin-uthappa-t-dilip-among-others-join-the-ranks-2026-10-30-1058265",
+    "time": "2026-10-30T05:55:30.000Z"
   }
 ];
