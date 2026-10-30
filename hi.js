@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jamie Carragher names the one player that Manchester United should have gone after in the transfer window",
+    "desc": "The stage is set for a crucial clash in the ongoing season of the Premier League. 20-time champions Manchester United will be taking on Chelsea. The two sides will meet at Stamford Bridge in London...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/jamie-carragher-names-the-one-player-that-manchester-united-should-have-gone-after-in-the-transfer-window-2026-10-30-1058256",
+    "time": "2026-10-30T03:44:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Beth Mooney takes over as Perth Scorchers' captain from Sophie Devine ahead of WBBL clash",
+    "desc": "In a major development, WBBL (Women’s Big Bash League) franchise, Perth Scorchers’ women came forward and announced that star batter Beth Mooney will be taking over as the side’s captain after Sophie Devine announced that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/beth-mooney-takes-over-as-perth-scorchers-captaincy-from-sophie-devine-ahead-of-wbbl-clash-2026-10-30-1058251",
+    "time": "2026-10-30T02:48:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs New Zealand, 4th T20I Pitch Report, how will surface in Auckland play?",
+    "desc": "The stage is set for the fourth T20I of the ongoing series between India and New Zealand. The two sides are slated to meet for the clash at Eden Park in Auckland on October 30th,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-4th-t20i-pitch-report-how-will-surface-in-auckland-play-2026-10-30-1058247",
+    "time": "2026-10-30T01:49:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bruno Fernandes clears the air with Michael Carrick after recent rift rumours",
     "desc": "Manchester United are all set for a crucial clash in the ongoing Premier League season. The 20-time league champions will be taking on Chelsea in their upcoming clash. The two sides will meet at Stamford...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ben-white-announces-retirement-from-representative-cricket-2026-10-29-1058187",
     "time": "2026-10-29T06:44:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lockie Ferguson ruled out of last two T20Is against India, NZC name replacement ahead of fourth T20I",
-    "desc": "New Zealand and India are all set to take on each other in the fourth T20I of the ongoing series between the two sides. The two sides will take on each other at Eden Park...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lockie-ferguson-ruled-out-of-last-two-t20is-against-india-ncz-name-replacement-ahead-of-fourth-t20i-2026-10-29-1058182",
-    "time": "2026-10-29T05:36:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Full squads of all five teams after mini auction",
-    "desc": "The WPL (Women’s Premier League) 2027 mini auction came to an end, and the five franchises brought home some brilliant players into their ranks ahead of the upcoming edition of the WPL. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2027-full-squads-of-all-five-teams-after-mini-auction-2026-10-28-1058155",
-    "time": "2026-10-28T15:37:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Prasidh Krishna ruled out of upcoming New Zealand ODIs due to hamstring injury; Check details",
-    "desc": "In a major blow to the Indian team, star pacer Prasidh Krishna has been ruled out of the upcoming ODI matches against New Zealand after failing to recover in time from his hamstring injury. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/prasidh-krishna-ruled-out-of-upcoming-new-zealand-odis-due-to-hamstring-injury-check-details-2026-10-28-1058146",
-    "time": "2026-10-28T13:48:05.000Z"
   }
 ];
