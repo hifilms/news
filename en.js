@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Julia Roberts' 3 children: What we know about Hazel, Phinnaeus and Henry",
+    "desc": "Julia Roberts maintains a private family life while cherishing keepsakes for her children. She has preserved memorable outfits such as her Oscar dress and an Armani suit. Roberts also holds on to a heartfelt letter from her husband that she hopes Hazel will one day read. With her children currently attending college, their family dynamic has shifted to a quieter atmosphere.",
+    "img": "https://static.toiimg.com/photo/msid-135395051,imgsize-173264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/julia-roberts-3-children-all-about-hazel-phinnaeus-and-henry-and-the-iconic-outfits-the-caring-mother-is-saving-for-them/articleshow/135395015.cms",
+    "time": "2026-10-31T23:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In Punjab, the highway to 2027",
+    "desc": "The drug menace in Punjab has stayed at the centre of political and social attention over the past decade or more. With the killing of anti-drug crusader Parvinder Singh Jhota, public emotions are running high. Political parties are hoping to capitalise on this, with the Assembly election due in early 2027, finds Vikas Vasudeva",
+    "img": "https://th-i.thgim.com/public/incoming/77lhy6/article71649084.ece/alternates/LANDSCAPE_1200/SPOTLIGHT%20MANSA%20PUNJAB%20%2022.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/in-punjab-the-highway-to-2027/article71649073.ece",
+    "time": "2026-10-31T23:20:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sea link lights up for SRK's birthday; Mannat turns into giant screen",
+    "desc": "Shah Rukh Khan is making elaborate promotions for his new film 'King' as his birthday approaches. Fans are sharing videos of the Sea Link illuminated with the film's promotional material. Preparations outside his residence, Mannat, include projections of the teaser, though he will not be present. The film is set to be released on December 24, 2026, and stars multiple prominent actors.",
+    "img": "https://static.toiimg.com/photo/msid-135412949,imgsize-177897.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-birthday-mumbais-sea-link-lights-up-with-king-poster-mannat-to-turns-into-giant-screen-watch/articleshow/135412021.cms",
+    "time": "2026-10-31T22:22:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IOA’s election Code of Conduct bars criticism of ‘private life’ of candidates, publicity",
+    "desc": "The election to pick 10 members of the Athletes' Commission of the Indian Olympic Association (IOA) will be held on November 3, while the polls to choose eight SOMs will be held on November 9",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece",
+    "time": "2026-10-31T21:39:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shah Rukh Khan's 'King' sets new record with overseas rights sold for Rs 175 crore",
+    "desc": "The upcoming Shah Rukh Khan film 'King' has made headlines by securing a record overseas distribution deal valued at Rs 175 crore, approximately USD 18 million, with Phars Films. This transaction sets a new benchmark for Indian cinema. To recoup the significant investment, 'King' is projected to need overseas earnings in the range of Rs 350 crore to Rs 375 crore.",
+    "img": "https://static.toiimg.com/photo/msid-135411803,imgsize-115503.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-king-sets-new-record-with-overseas-rights-sold-for-rs-175-crore-ahead-of-the-christmas-release/articleshow/135410890.cms",
+    "time": "2026-10-31T21:16:08.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "INDIA bloc holds symbolic ‘public impeachment’ of CEC Gyanesh Kumar on six charges",
     "desc": "Move reflects the closure of institutional avenues, says LoP Rahul Gandhi; terms it a political weapon against all who colluded to destroy votes; warns ECI officials that they are first target; says CEC should be tried for treason",
@@ -100,15 +145,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "'Will deal with Modi, Shah': Rahul Gandhi explains why CEC Gyanesh Kumar is his first target",
-    "desc": "Explaining why the INDIA bloc has upped its attack on the election chief, Rahul Gandhi accused him of acting as an instrument of the ruling establishment and warned that those allegedly involved in undermining democratic institutions would be held accountable. The leader of opposition in the Lok Sabha warned the CEC and other officials against assuming that constitutional immunity would shield them from accountability.",
-    "img": "https://static.toiimg.com/photo/msid-135407219,imgsize-92907.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/will-deal-with-modi-shah-rahul-gandhi-explains-why-cec-gyanesh-kumar-his-first-target/articleshow/135406884.cms",
-    "time": "2026-10-31T16:57:54.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Understanding author’s thoughts, emotions crucial in translation, says former Chief Justice",
     "desc": "Taking part in the book release of Telugu translation of Rabindranath Tagore’s Gitanjali, N.V. Ramana says the hallmark of a good translator is the ability to present great literature in simple and accessible language without losing its literary essence",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -136,15 +172,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Ellen DeGeneres shares fitness goal, works towards her first pull-up at 68",
-    "desc": "At nearly 69, Ellen DeGeneres is determined to master unassisted pull-ups, using a resistance band as part of her fitness journey. In a captivating video she posted on Instagram, she showcased the workout challenge. During her appearance on 'The Graham Norton Show', she reflected on missing her television career and the camaraderie it brought.",
-    "img": "https://static.toiimg.com/photo/msid-135394719,imgsize-93461.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ellen-degeneres-68-attempts-pull-ups-in-new-workout-video-trust-me-its-hard/articleshow/135394638.cms",
-    "time": "2026-10-31T16:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Pony on marrying Prakash despite 12-year age gap, bonding with his daughters",
     "desc": "In a heartfelt conversation, Pony Verma shares her joyful journey with actor Prakash Raj, celebrating their 12-year age difference as a source of strength. She appreciates how Prakash's wisdom fosters a sense of calm in their lives. The involvement of Prakash's daughters from his prior marriage at their wedding signifies a beautiful family blend.",
     "img": "https://static.toiimg.com/photo/msid-135406413,imgsize-181038.cms",
@@ -160,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/updated-wtc-standings-australia-slip-after-series-defeat-in-south-africa-where-are-india/articleshow/135405840.cms",
     "time": "2026-10-31T16:14:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Internal democracy’, not ‘rebellion’, NC says of 17 MLAs meeting over party affairs",
-    "desc": "The list of demands sent to Dr. Abdullah urged “intensifying of struggle for restoration of Statehood, implementation of the promises made in the 2024 manifesto within six months, removing CM’s advisor Wani, and reconsidering portfolios assigned to Deputy Chief Minister Surinder Choudhary”.",
-    "img": "https://th-i.thgim.com/public/visual-story/6u2sam/article71650402.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-31%20212122.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/internal-democracy-not-rebellion-nc-says-of-17-mlas-meeting-over-party-affairs/article71650055.ece",
-    "time": "2026-10-31T15:57:55.000Z"
   },
   {
     "cat": "Business",
@@ -187,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/why-cristiano-ronaldo-41-refuses-to-drink-milk-inside-the-diet-and-discipline-behind-his-longevity-according-to-his-former-chef/articleshow/135403769.cms",
     "time": "2026-10-31T15:45:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Richard Simmons’ Los Angeles home sells for $3.8 million after lengthy wait",
-    "desc": "Richard Simmons' memorable Los Angeles home has officially changed hands for $3,827,500. Originally priced at close to $7 million, the historic residence drew attention from a buyer enchanted by its heritage. Despite experiencing a few price cuts and a temporary removal from the market, it eventually returned for sale at a reduced price.",
-    "img": "https://static.toiimg.com/photo/msid-135394834,imgsize-1681165.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/richard-simmons-hollywood-hills-home-finally-sells-for-3-8-million-lot-less-than-the-asking-price/articleshow/135394769.cms",
-    "time": "2026-10-31T15:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -223,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/gagan-narang-pt-usha-saina-nehwal-among-27-names-in-draft-list-for-ioa-som-elections/articleshow/135403579.cms",
     "time": "2026-10-31T14:30:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ben Affleck donates $100,000 to support children battling epilepsy at charity gala",
-    "desc": "At The Care & Cure Institute's 20th Anniversary Gala, Ben Affleck showcased his commitment to childhood epilepsy healthcare with a generous $100,000 donation. He highlighted the necessity for immediate access to specialized care, supporting families grappling with epilepsy. Celebrating its significant success, the gala raised almost $2 million aimed at enhancing training for healthcare professionals dedicated to pediatric patients, underscoring the ongoing hurdles faced by families dealing with such illnesses.",
-    "img": "https://static.toiimg.com/photo/msid-135394672,imgsize-677061.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ben-affleck-donates-100000-to-help-kids-with-epilepsy-at-a-charity-gala-for-healthcare-heroes/articleshow/135392015.cms",
-    "time": "2026-10-31T14:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -810,15 +810,6 @@ const newsData_en = [
     "time": "2026-10-29T15:51:33.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Leader Adrian Luna on his uncertain loan spell and the return of Blasters’ beloved Manjappada",
-    "desc": "In the time he’s been away from his KBFC, the State has added an ‘m’ to its name, the club has welcomed new owners from the UAE, and the Indian Super League — after a truncated and delayed season that led to Luna’s exit — is now run by its member clubs",
-    "img": "https://th-i.thgim.com/public/sport/grisu5/article71640743.ece/alternates/LANDSCAPE_1200/LUNA%202.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/adrian-luna-kerala-blasters-return-loan-spell-manjappada-interview-ownership-change/article71640683.ece",
-    "time": "2026-10-29T13:19:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Supreme Court refuses to order ‘full public disclosure’ of ultimate beneficiaries of AIFs, FPIs without ‘legal framework’",
     "desc": "Rapid expansion of Alternative Investment Funds and Foreign Portfolio Investors raises serious concerns over transparency, the petition says; the court asks why an MP wants to file a public interest petition under Article 32 when she could raise the issue in the Parliament",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
