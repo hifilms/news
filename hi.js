@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why was Bhuvneshwar Kumar not picked in India's fourth T20I against New Zealand? Former cricketer opines",
+    "desc": "The Indian team lost the fourth T20I of the ongoing series against New Zealand. The two sides met at Eden Park in Auckland for the clash on October 30th, batting first. New Zealand posted a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-was-bhuvneshwar-kumar-not-picked-in-india-s-fourth-t20i-against-new-zealand-former-cricketer-opines-2026-10-31-1058360",
+    "time": "2026-10-31T08:07:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Youri Tielemans comes to Michael Carrick's defence, backs him to continue as head coach amid subpar results",
+    "desc": "Manchester United are all set to take on Chelsea FC in the Premier League. The arch-rivals will take on each other at Stamford Bridge in London on October 31st, and both sides will look to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/youri-tielemans-comes-to-michael-carrick-s-defence-backs-him-to-continue-as-head-coach-amid-subpar-results-2026-10-31-1058357",
+    "time": "2026-10-31T07:41:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jemimah Rodrigues issues crucial injury update, set to return to action after setback; Check details",
+    "desc": "In a major development, star India women’s batter Jemimah Rodrigues took to social media and issued a crucial injury update, in which she revealed that she has been declared fit from the hamstring injury that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-issues-crucial-injury-update-set-to-return-to-action-after-setback-check-details-2026-10-31-1058353",
+    "time": "2026-10-31T06:24:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Auqib Nabi added to ODI squad for first three games against New Zealand after injury to Prasidh Krishna",
+    "desc": "The BCCI (Board of Control for Cricket in India) took centre stage and announced that pacer Auqib Nabi will be added to the Indian team’s ODI squad for the first three ODIs of the series...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-added-to-odi-squad-for-first-three-games-against-new-zealand-after-injury-to-prasidh-krishna-2026-10-31-1058347",
+    "time": "2026-10-31T05:03:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer heaps praise on NZ, credits them for their plan against Abhishek Sharma in fourth T20I",
+    "desc": "The Indian team lost the fourth T20I of the ongoing series against New Zealand. The teams met at Eden Park in Auckland for the clash, and the game saw the Black Caps bat first and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-heaps-praise-on-nz-credits-them-for-their-plan-against-abhishek-sharma-in-fourth-t20i-2026-10-31-1058344",
+    "time": "2026-10-31T04:23:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer reflects on what went wrong for India as New Zealand register dominant win in Auckland T20I",
+    "desc": "Team India continued its ongoing five-game series against New Zealand. The teams met in the fourth T20I of the series. The teams met at Eden Park in Auckland on October 30th, and New Zealand managed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-reflects-on-what-went-wrong-for-india-as-new-zealand-register-dominant-win-in-auckland-t20i-2026-10-31-1058341",
+    "time": "2026-10-31T03:03:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Glenn Phillips achieves massive feat as New Zealand breeze past India to win fourth T20I in Auckland",
+    "desc": "The Indian team took on New Zealand in the fourth T20I of the ongoing series. The two teams met at Eden Park in Auckland for the clash on October 30, and the game saw New...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-achieves-massive-feat-as-new-zealand-breeze-past-india-to-win-fourth-t20i-in-auckland-2026-10-31-1058337",
+    "time": "2026-10-31T02:12:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Manisha Bhanwala creates history, becomes first Indian woman to win wrestling world championship gold",
     "desc": "India's women's wrestling contingent has secured a historic achievement at the World Championships in Astana, with Manisha Bhanwala becoming the country's first female world champion after defeating American wrestler Elizabeth Nette 8-6 in the 59kg...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/james-anderson-not-sure-about-retirement-after-being-left-shocked-following-lancashire-exit-2026-10-30-1058317",
     "time": "2026-10-30T13:59:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra provides major injury update after missing Diamond League final, Asian Games",
-    "desc": "India's javelin star Neeraj Chopra is moving closer to returning to the training ground after receiving medical clearance to restart his preparations following an ankle ligament injury. The two-time Olympic medallist has indicated that he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/neeraj-chopra-provides-major-injury-update-after-missing-diamond-league-final-asian-games-2026-10-30-1058311",
-    "time": "2026-10-30T13:05:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aaryavir Sehwag, Anvay Dravid named as India announce squad for U-19 Asia Cup 2026",
-    "desc": "India have unveiled a 15-member squad for the upcoming U19 Asia Cup, scheduled to take place in Muscat, Oman, from November 4 to 14. Lakshya Raichandani will lead the side, with Yashbardhan Chauhan continuing as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aaryavir-sehwag-anvay-dravid-named-as-india-announce-squad-for-u-19-asia-cup-2026-2026-10-30-1058302",
-    "time": "2026-10-30T11:42:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Glenn Phillips, Jacob Duffy decimate as New Zealand register second-biggest win over India in T20Is",
-    "desc": "New Zealand have blown India away in the fourth T20I at Eden Park in Auckland. Leading up to the match, the Mitchell Santner-led side was under tremendous pressure, having lost three matches on the trot....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-jacob-duffy-decimate-as-new-zealand-register-second-biggest-win-over-india-in-t20is-2026-10-30-1058298",
-    "time": "2026-10-30T10:56:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Report",
-    "desc": "Mumbai Indians are preparing to bring back Rohit Sharma as captain for IPL 2027. The team management wasn’t convinced by Hardik Pandya, who replaced Rohit as captain three years ago. During his tenure, Mumbai qualified...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-set-to-replace-hardik-pandya-as-mumbai-indians-captain-for-ipl-2027-report-2026-10-30-1058292",
-    "time": "2026-10-30T10:02:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Glenn Phillips-Michael Bracewell achieve huge feat with magnificent partnership against India in fourth T20I",
-    "desc": "The fourth T20I of the ongoing series between India and New Zealand saw the two teams take on each other at Eden Park in Auckland. The teams clashed on October 30th, and the game began...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-michael-bracewell-achieve-huge-feat-with-magnificent-partnership-against-india-in-fourth-t20i-2026-10-30-1058287",
-    "time": "2026-10-30T09:00:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Glenn Phillips smacks joint second-fastest century against India in T20Is as New Zealand wreak havoc",
-    "desc": "New Zealand all-rounder Glenn Phillips produced a stunning show in the fourth T20I against India at Eden Park in Auckland. He arrived at the crease after the hosts were reduced to 93/3 at one point,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-smacks-joint-second-fastest-century-against-india-in-t20is-as-new-zealand-wreak-havoc-2026-10-30-1058286",
-    "time": "2026-10-30T08:56:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brendon McCullum backs England to learn from Pakistan tri-series setback ahead of World Cup",
-    "desc": "England failed to impress in the ongoing Pakistan tri-series. The Harry Brook-led side ended their campaign on a positive note with a 55-run win over Sri Lanka in Lahore, but leading up to that, they...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/brendon-mccullum-backs-england-to-learn-from-pakistan-tri-series-setback-ahead-of-world-cup-2026-10-30-1058281",
-    "time": "2026-10-30T08:13:23.000Z"
   }
 ];
