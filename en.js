@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Harry Potter' star Paapa Essiedu addresses backlash over Snape casting",
+    "desc": "Paapa Essiedu addressed the backlash regarding his casting as Professor Severus Snape in HBO's upcoming series. He shared insights about the support he has received from the team involved in the project. Essiedu emphasized his commitment to the work despite the hostility surrounding his casting announcement. The new adaptation will revisit Harry Potter's first year at Hogwarts with an entirely new cast.",
+    "img": "https://static.toiimg.com/photo/msid-135381421,imgsize-388700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harry-potter-star-paapa-essiedu-addresses-backlash-over-snape-casting-says-he-took-role-with-open-eyes/articleshow/135380621.cms",
+    "time": "2026-10-30T23:14:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jack Antonoff-Margaret Qualley file for divorce after 3 yrs of marriage",
+    "desc": "Jack Antonoff and Margaret Qualley have officially ended their three-year marriage by filing for divorce. The couple, who wed in August 2023, reportedly submitted a settlement agreement to the court. Rumors of a split surfaced after Antonoff attended events alone without Qualley, while she was busy filming. A representative for Qualley confirmed the separation while denying any trust issues or infidelity claims.",
+    "img": "https://static.toiimg.com/photo/msid-135379681,imgsize-124486.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jack-antonoff-and-margaret-qualley-file-for-divorce-after-three-years-of-marriage/articleshow/135379446.cms",
+    "time": "2026-10-30T22:22:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Election Commission’s appeals against 16.10 lakh cleared voters raise legal questions",
+    "desc": "The officials who filed appeals against the inclusion of the 16.10 lakh voters may not have had the authority to do so under the Representation of the People Act; according to the Act, the CEO/DEO/ERO/AERO are the authorities with respect to electoral rolls",
+    "img": "https://th-i.thgim.com/public/incoming/vn2a2x/article71646563.ece/alternates/LANDSCAPE_1200/IMG_PTI02_28_2026_000406_2_1_5IFSA8U6.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/authority-of-officials-who-appealed-against-inclusion-of-names-in-bengal-sir-under-lens/article71645404.ece",
+    "time": "2026-10-30T20:30:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "His three marriages, children, grandchildren",
+    "desc": "Patrick Stewart, who died at 86, was married three times, including to musician Sunny Ozell, and had two children and four grandchildren. While he found lasting companionship in his third marriage, the actor spoke candidly about his strained relationship with his children, admitting that his dedication to acting had often come before his responsibilities as a father.",
+    "img": "https://static.toiimg.com/photo/msid-135377323,imgsize-64388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/patrick-stewart-dies-at-86-a-look-at-his-three-marriages-wife-sunny-ozell-two-children-and-four-grandchildren-and-his-regret-over-strained-family-ties/articleshow/135377051.cms",
+    "time": "2026-10-30T20:25:04.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "U.P. CM prioritised his home turf over 2 Varanasi seats in MLC polls: Akhilesh",
     "desc": "As per the final tally, declared on Thursday afternoon, of the 11 U.P. Legislative Council seats that went to the polls on October 23, the BJP won six while the SP raised its tally from the previous MLC polls by two",
@@ -144,24 +180,6 @@ const newsData_en = [
     "time": "2026-10-30T16:58:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Helicopter sorties were allowed despite orange alert and CMO advice to regulate tourists, says activist",
-    "desc": "Activist Anoop Nautiyal said the tragedy was particularly disturbing as weather warnings had been issued in advance. An orange alert (for heavy to very heavy rainfall and snowfall) had been issued for five districts, including Chamoli, for October 30.",
-    "img": "https://th-i.thgim.com/public/incoming/iao05m/article71646609.ece/alternates/LANDSCAPE_1200/PTI10_30_2026_000343B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttarakhand/helicopter-sorties-were-allowed-despite-orange-alert-and-cmo-advice-to-regulate-tourists-says-activist/article71646191.ece",
-    "time": "2026-10-30T16:57:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Polluting vehicles remain unchecked despite strict PUC norms",
-    "desc": "Emissions containing pollutants such as carbon monoxide, nitrogen oxides and fine particulate matter, which can adversely affect human health, remain a concern despite initiatives by the State and Union governments to promote electric vehicles through attractive financing schemes and subsidies.",
-    "img": "https://th-i.thgim.com/public/incoming/squddi/article71646585.ece/alternates/LANDSCAPE_1200/80692_30_10_2026_19_58_45_1_31TVKZPOLUTION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/polluting-vehicles-remain-unchecked-despite-strict-puc-norms/article71644084.ece",
-    "time": "2026-10-30T16:49:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Abhishek's brace powers India to 4-1 win over Japan",
     "desc": "India secured their third consecutive victory in the men's Asian Champions Trophy against Japan. Striker Abhishek Nain scored two goals, while captain Harmanpreet Singh and Vishnukant Singh added the other goals. The game began with Japan equalizing soon after India took the lead. India increased their pressure in the final quarter, securing their victory comfortably. Next, India will face Malaysia on Sunday in the tournament.",
@@ -169,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/asian-champions-trophy-hockey-abhisheks-brace-powers-india-to-4-1-win-over-japan/articleshow/135369346.cms",
     "time": "2026-10-30T16:45:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Authority of officials who appealed against inclusion of names in Bengal SIR under lens",
-    "desc": "The officials who filed appeals against the inclusion of the 16.10 lakh voters may not have had the authority to do so under the Representation of the People Act; according to the Act, the CEO/DEO/ERO/AERO are the authorities with respect to electoral rolls",
-    "img": "https://th-i.thgim.com/public/incoming/vn2a2x/article71646563.ece/alternates/LANDSCAPE_1200/IMG_PTI02_28_2026_000406_2_1_5IFSA8U6.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/authority-of-officials-who-appealed-against-inclusion-of-names-in-bengal-sir-under-lens/article71645404.ece",
-    "time": "2026-10-30T16:41:34.000Z"
   },
   {
     "cat": "World",
@@ -297,6 +306,15 @@ const newsData_en = [
     "time": "2026-10-30T15:15:41.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "‘Love Always’ series review: A well-intentioned story and potent concept undone by juvenile treatment",
+    "desc": "In turning back the clock on an ageing couple, ‘Love Always’ stumbles upon a potent exploration of regret, desire and second chances, but Madhumitha’s series is too caught up in its own melodrama to make the most of its magical conceit",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/fwlf0x/article71644859.ece/alternates/LANDSCAPE_1200/love%20always%20review.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/love-always-series-review-madhumitha-jayaprakash-jayasudha-gouri-kishan-ramzan-muhammed/article71643936.ece",
+    "time": "2026-10-30T15:04:25.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Gold hits one-year low, silver slips below $50 as inflation fears bite",
     "desc": "Gold and silver prices have plummeted to their lowest in a year as energy costs surge and inflation remains a pressing concern. The decline in precious metals mirrors waning investor confidence, driven by fears over persistently high interest rates set by the US Federal Reserve. Furthermore, weak demand from major Asian markets is further stifling gold sales, contributing to the downturn seen in platinum and palladium as well.",
@@ -405,15 +423,6 @@ const newsData_en = [
     "time": "2026-10-30T13:37:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'No' to peace bond, 'yes' to INDIA bloc: Has Neha Bora outsmarted CJP leaders?",
-    "desc": "AISA leader Neha Bora's refusal to sign peace bonds led to obvious comparisions with the CJP leadership who opted to comply with conditions set for their release from detention during Jantar Mantar 2.0 protests. The CJP faced significant challenges in organizing Jantar Mantar 2.0 protests which was a contrast from their previous successful mobilization. Bora's determination to protest despite multiple detentions brought her to the centre stage of anti-SIR protests.",
-    "img": "https://static.toiimg.com/photo/msid-135365041,imgsize-1241901.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-to-peace-bond-yes-to-india-bloc-has-neha-bora-outsmarted-cjp-leaders/articleshow/135362530.cms",
-    "time": "2026-10-30T13:28:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Hello Kitty's spy drama lands in hot water: What went wrong with Sanrio in China",
     "desc": "Sanrio has come under fire in China for its collaboration with the Japanese drama VIVANT, which many viewers found offensive. The show's depiction of a fictional Chinese intelligence agency apprehending Japanese spies has ignited fierce online backlash. In response to the criticism from the public and state media, Sanrio's Chinese branch announced it would end the partnership, highlighting the hurdles international companies endure due to ongoing Sino-Japanese tensions.",
@@ -430,15 +439,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/infographics/2026-10-30/20-best-horror-films-of-the-21st-century/index.html#intro",
     "time": "2026-10-30T13:13:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "The hike mirage and why bigger salaries still feel smaller",
-    "desc": "In India, salary increases of approximately 9% are falling short against the backdrop of soaring living costs and inflation. Families are grappling with heightened expenses on essentials like food and fuel, resulting in diminished disposable incomes. This widening gap between income growth and the cost of living places a strain on households, particularly those with fixed financial obligations.",
-    "img": "https://static.toiimg.com/photo/msid-135363602,imgsize-270044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/payday-to-mayday-the-hike-mirage-and-why-bigger-salaries-still-feel-smaller/articleshow/135362323.cms",
-    "time": "2026-10-30T13:09:29.000Z"
   },
   {
     "cat": "Entertainment",
@@ -459,15 +459,6 @@ const newsData_en = [
     "time": "2026-10-30T13:01:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Paid to hire, paid to work: Inside India’s Rs 99,446 cr plan to reshape the formal workforce",
-    "desc": "Pradhan Mantri Viksit Bharat Rozgar Yojana (PMVBRY) is introduced to enhance formal employment across various sectors. The scheme includes financial incentives for both employers and first-time employees entering the formal job market. PMVBRY aims to create more than 3.5 crore jobs including 1.92 crore first-time workers by 2027. It targets an increase in manufacturing employment with unique incentives for the sector.",
-    "img": "https://static.toiimg.com/photo/msid-135362568,imgsize-85460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/paid-to-hire-paid-to-work-inside-indias-rs-99446-cr-plan-to-reshape-the-formal-workforce/articleshow/135360927.cms",
-    "time": "2026-10-30T12:44:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sania, Bhupathi's nominations ratified for AITA elections",
     "desc": "AITA has confirmed the nominations for the Sports Person of Outstanding Merit within its Executive Committee and General Body. Notable tennis stars, including Mahesh Bhupathi and Sania Mirza, have been nominated, marking noteworthy advancements as the AITA elections scheduled for November 27 approach.",
@@ -475,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/sania-mirza-mahesh-bhupathis-nominations-ratified-for-aita-som-executive-committee-elections/articleshow/135362112.cms",
     "time": "2026-10-30T12:42:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yash's children watch 'Ramayana' for their first big-screen experience",
-    "desc": "Yash and Radhika Pandit’s children, Ayra and Yatharv, attended the enchanting Los Angeles premiere of 'Ramayana', their first time experiencing a theatrical film. With Yash starring as Ravana and co-producing the film, the evening became a memorable family milestone. The film boasts a stellar cast, including Ranbir Kapoor as Lord Rama and Sai Pallavi as Sita, heightening excitement for its upcoming release.",
-    "img": "https://static.toiimg.com/photo/msid-135365859,imgsize-158191.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-and-radhika-pandits-children-ayra-and-yatharv-watch-ramayana-at-la-premiere-for-their-first-big-screen-experience/articleshow/135362143.cms",
-    "time": "2026-10-30T12:42:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -513,15 +495,6 @@ const newsData_en = [
     "time": "2026-10-30T12:22:23.000Z"
   },
   {
-    "cat": "Business",
-    "title": "gains 33 paise to 94.93 vs dollar; IMF backs FX flexibility",
-    "desc": "Closing at 94.93 against the US dollar, the rupee gained 33 paise in trading, buoyed by a soft dollar and positive domestic bond market conditions. Yet, high crude oil prices and escalating tensions in the Middle East limited its gains. Analysts caution that geopolitical factors may create hurdles ahead. The selling trend by foreign institutional investors also continues to shape the overall market environment.",
-    "img": "https://static.toiimg.com/photo/msid-135360723,imgsize-94064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-gains-33-paise-as-dollar-weakens-sensex-and-nifty-end-higher/articleshow/135359965.cms",
-    "time": "2026-10-30T12:05:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Dravid, Sehwag named in India squad for U19 Asia Cup",
     "desc": "Anvay Dravid and Aaryavir Sehwag have been named in India's squad for the upcoming ACC Men's U19 Asia Cup. The tournament will be held in Muscat, Oman, from November 5 to 14. The 17-year-old Anvay and 19-year-old Aaryavir earned their places after impressive performances in the recently concluded Vinoo Mankad Trophy.",
@@ -531,24 +504,6 @@ const newsData_en = [
     "time": "2026-10-30T11:49:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Love Always’ series review: A well-intentioned story and potent concept undone by juvenile treatment",
-    "desc": "In turning back the clock on an ageing couple, ‘Love Always’ stumbles upon a potent exploration of regret, desire and second chances, but Madhumitha’s series is too caught up in its own melodrama to make the most of its magical conceit",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/fwlf0x/article71644859.ece/alternates/LANDSCAPE_1200/love%20always%20review.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/love-always-series-review-madhumitha-jayaprakash-jayasudha-gouri-kishan-ramzan-muhammed/article71643936.ece",
-    "time": "2026-10-30T11:47:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Global LNG prices jump 6%: Is India's gas affordability under pressure",
-    "desc": "The global energy sector is currently undergoing major upheavals that have pushed LNG prices and transport expenses to new heights. Indian oil marketing firms are suffering marked losses on petrol and diesel due to the surge in crude procurement costs. Though there has been a rebound in Middle Eastern crude exports, lingering supply chain challenges remain.",
-    "img": "https://static.toiimg.com/photo/msid-135358622,imgsize-103106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/global-lng-prices-jump-6-is-indias-gas-affordability-under-pressure/articleshow/135358416.cms",
-    "time": "2026-10-30T11:25:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "From 3-0 to 87-run defeat! Phillips shatters India's clean sweep dream",
     "desc": "India had already taken an unassailable 3-0 lead in the five-match series and were looking for another win. However, a record-breaking batting performance from Glenn Phillips and Michael Bracewell helped New Zealand pull off a massive victory. After winning the toss, India decided to bowl first. But the decision proved costly as the hosts smashed 259/7 in 20 overs, their highest-ever total in T20Is. Chasing the mammoth target, India managed only 172/9 in their 20 overs.",
@@ -556,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-4th-t20i-from-3-0-lead-to-87-run-defeat-indias-clean-sweep-dream-shattered/articleshow/135357742.cms",
     "time": "2026-10-30T11:10:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Are banks cyber-ready? RBI seeks proof of compliance amid rising attacks",
-    "desc": "In light of increasing cyberattacks on financial institutions, the Reserve Bank of India has shifted its focus to enhancing cybersecurity protocols. Banks are now mandated to fortify their application programming interfaces to avert potential security breaches. Alarming recent incidents, such as data leaks and unauthorized transactions affecting leading banks, have raised concerns.",
-    "img": "https://static.toiimg.com/photo/msid-135356324,imgsize-90182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/are-banks-cyber-ready-rbi-seeks-proof-of-compliance-amid-rising-attacks/articleshow/135353767.cms",
-    "time": "2026-10-30T10:24:21.000Z"
   },
   {
     "cat": "Sports",
@@ -583,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/arshdeep-singh-scripts-history-becomes-first-indian-to-150-t20i-wickets/articleshow/135352618.cms",
     "time": "2026-10-30T09:03:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Trent shares jump 7% after strong Q2 results, Zudio's 1,000-store milestone",
-    "desc": "Trent's shares increased by 7% on the stock market after reporting a 25% increase in net profit. Revenue from operations also rose by 22%, contributing to significant financial growth. The company opened its 1,000th Zudio store as part of its ongoing expansion strategy. Trent's food and grocery segment, Star, also showed robust growth despite market competition. The chairman expressed optimism about the company's future potential and business trajectory.",
-    "img": "https://static.toiimg.com/photo/msid-135351192,imgsize-48800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/trent-shares-jump-7-after-strong-q2-results-zudios-1000-store-milestone/articleshow/135350714.cms",
-    "time": "2026-10-30T08:16:17.000Z"
   },
   {
     "cat": "World",
@@ -639,15 +576,6 @@ const newsData_en = [
     "time": "2026-10-30T06:48:44.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Amazon shares sink 7% as AI spending fuels cash-burn concerns, overshadow cloud growth",
-    "desc": "Amazon's shares dropped significantly in after-hours trading following disappointing earnings and substantial investments in artificial intelligence. The company reported a net income decline and lower-than-expected forecasting for the holiday season. Its cloud computing unit, Amazon Web Services, saw robust growth but raised concerns over cash burn from high capital expenditure. Additionally, Amazon's advertising revenue growth missed analysts' expectations for the first time in seven quarters.",
-    "img": "https://static.toiimg.com/photo/msid-135347771,imgsize-75124.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/amazon-shares-sink-7-as-ai-spending-fuels-cash-burn-concerns-overshadow-cloud-growth/articleshow/135347356.cms",
-    "time": "2026-10-30T06:31:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "How India established its first scientific base in the frozen continent",
     "desc": "Sourabha Rao, the producer of Miracle in Antarctica, which tells the story of Dakshin Gangotri, talks about how the movie was made, the challenges encountered, and why this expedition remains relevant more than four decades later",
@@ -684,15 +612,6 @@ const newsData_en = [
     "time": "2026-10-30T04:32:21.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Google parent Alphabet loses $500 billion in market value as AI spending spooks investors",
-    "desc": "In a surprising turn of events on Thursday, Alphabet saw a steep decline in its stock prices due to underwhelming earnings announcements. This downturn has sparked worries about rising costs associated with artificial intelligence and their impact on profit margins. As AI tools challenge Alphabet's search advertising dominance, investors remain anxious, especially with reports of unfavorable free cash flow suggesting potential challenges for future profits.",
-    "img": "https://static.toiimg.com/photo/msid-135343115,imgsize-31060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/google-parent-alphabet-loses-500-billion-in-market-value-as-ai-spending-spooks-investors/articleshow/135342212.cms",
-    "time": "2026-10-30T04:17:01.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Reddit puts logged in experience first as Google AI hits traffic",
     "desc": "“Google is crawling us as hard as ever, so the demand hasn’t changed from their point of view either. ​The reality is, the AI mode does ‌not drive traffic, not for us and not to anybody,” Huffman said",
@@ -727,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/republicans-defend-their-bastions-as-senate-comes-within-reach-of-democrats/article71641257.ece",
     "time": "2026-10-30T02:50:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil prices rise as Houthi attacks on Saudi Arabia stoke supply fears; Brent nears $116",
-    "desc": "Crude oil prices are increasing as Brent crude surpasses $115 per barrel amid escalating tensions. Attacks by Yemen’s Houthi group on Saudi oil sites raise fears of supply disruptions. Efforts for diplomatic negotiations between Washington and Tehran remain unyielding, contributing to market uncertainty. Meanwhile, Iranian reports of maritime incidents further heighten security concerns in the Gulf region.",
-    "img": "https://static.toiimg.com/photo/msid-135340187,imgsize-105286.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-rise-as-houthi-attacks-on-saudi-arabia-stoke-supply-fears-brent-nears-116/articleshow/135340021.cms",
-    "time": "2026-10-30T02:46:37.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +808,95 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/how-neoliberalism-turned-the-world-against-its-young/article71635741.ece",
     "time": "2026-10-28T17:56:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Molineux, Kiran top earners; Kashvi scripts history",
+    "desc": "UP Warriorz drafts in the T20 WC-winning captain for ₹1.10 crore; the Indian big-hitter to turn out for Capitals after being bought for ₹75 lakh; the 15-year-old is the youngest to make a WPL squad",
+    "img": "https://th-i.thgim.com/public/incoming/nobp89/article71637756.ece/alternates/LANDSCAPE_1200/GettyImages-2275912072.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/wpl-auction-molineux-kiran-top-earners-kashvi-scripts-history/article71637753.ece",
+    "time": "2026-10-28T17:48:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "The way out of the dangerous trap",
+    "desc": "India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work",
+    "img": "https://th-i.thgim.com/public/news/national/8ydzhq/article71453234.ece/alternates/LANDSCAPE_1200/iStock-2148257909.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/the-way-out-of-the-dangerous-trap/article71451541.ece",
+    "time": "2026-10-28T16:20:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "The gap in manufacturing sector GVA",
+    "desc": "According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a closer look at the official estimate",
+    "img": "https://th-i.thgim.com/public/incoming/i2pspz/article71425506.ece/alternates/LANDSCAPE_1200/Alstom%20Coimbatore%20plant%209.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/the-gap-in-manufacturing-sector-gva/article71425499.ece",
+    "time": "2026-10-28T16:10:40.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "South Korea fines Google and Apple over ‘unfair’ app market practices",
+    "desc": "The Commission fined Google 42.9 billion won ($32 million) and Apple 20.8 billion won ($15.5 million) and ordered both companies to let South Korean developers use external payment links within their apps and to improve their app review procedures",
+    "img": "https://th-i.thgim.com/public/incoming/606qdt/article71635697.ece/alternates/LANDSCAPE_1200/2025-07-23T150054Z_1053036354_RC2ESFAVKNAL_RTRMADP_3_BRITAIN-ANTITRUST-MOBILE-BROWSERS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/south-korea-fines-google-and-apple-for-forcing-own-payment-systems-and-delaying-reviews/article71635392.ece",
+    "time": "2026-10-28T11:41:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Keralam govt approves J.C. Daniel film city project at Kinfra’s Petrochemicals Park in Ambalamugal",
+    "desc": "Around 30 acres will be utilised for the project, which is estimated to cost about ₹100 crore. Tender proceedings for finalising design framework, to be implemented in a public-private partnership mode, will be initiated soon",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/1ukfuc/article71635395.ece/alternates/LANDSCAPE_1200/01tv%20movie%20sets.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/keralam-govt-approves-jc-daniel-film-city-project-at-kinfras-petrochemicals-park-in-ambalamugal/article71634590.ece",
+    "time": "2026-10-28T11:30:34.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Into the “brain rot” psyche",
+    "desc": "Bringing pop culture, internet, nonsense, and scientists together, the teenage slang word ‘brain rot’ is a phenomenon overall. Here’s an insightful look into what exactly it is and its implications in the ways of our life.",
+    "img": "https://th-i.thgim.com/public/children/r24kg6/article71587403.ece/alternates/LANDSCAPE_1200/Italian_brainrot_characters.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/into-the-brain-rot-psyche/article71578351.ece",
+    "time": "2026-10-27T07:30:52.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "India needs to train its clinical staff before erecting data shields",
+    "desc": "User data is routinely commoditised today, and passing a law assuming compliance and waiting for complaints or litigation will not suffice. As the DPDP Act comes into effect, the government must finance, build, and sustain an ecosystem that allows every health worker to comply and patients to be able to better access care",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/isa3jn/article71623149.ece/alternates/LANDSCAPE_1200/bermix-studio-SJwYvNVW1qY-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/dpdp-act-patient-data-protection-privacy-clinical-staff-training/article71623153.ece",
+    "time": "2026-10-26T05:42:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
