@@ -1,92 +1,92 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pat Cummins backs Australia despite series defeat to South Africa, says 'relatively happy' with progress",
+    "desc": "Despite a 176-run defeat in the third Test in Cape Town and a 2-1 series defeat to South Africa, Australia captain Pat Cummins has backed his team's overall performances. However, their recent run of form...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-backs-australia-despite-series-defeat-to-south-africa-says-relatively-happy-with-progress-2026-10-31-1058396",
+    "time": "2026-10-31T16:36:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PV Sindhu outclasses Anmol Kharb to enter second consecutive final at Hylo Open",
+    "desc": "PV Sindhu defeated compatriot Anmol Kharb 21-13, 21-16 to book her place in the women's singles final of the Hylo Open Super 500 tournament in Saarbrucken, Germany, on Saturday. The 32-minute victory also marked her...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-outclasses-anmol-kharb-to-enter-second-consecutive-final-at-hylo-open-2026-10-31-1058392",
+    "time": "2026-10-31T15:54:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manchester United's winless streak extends to 9 matches after 2-0 defeat to Chelsea, longest in 38 years",
+    "desc": "Manchester United's miserable run continued with a 2-0 defeat against Chelsea, leaving Michael Carrick facing fresh questions over his position as manager. The defeat at Stamford Bridge marked United's third consecutive loss and extended their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/manchester-united-s-winless-streak-extends-to-9-matches-after-2-0-defeat-to-chelsea-longest-in-38-years-2026-10-31-1058390",
+    "time": "2026-10-31T15:21:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa beat Australia to become number-one-ranked ICC Test team after 10 long years",
+    "desc": "South Africa returned to the top of the ICC Test rankings for the first time in more than a decade after defeating Australia by 176 runs in the series-deciding third Test at Newlands, Cape Town....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-beat-australia-to-become-number-one-ranked-icc-test-team-after-10-long-years-2026-10-31-1058387",
+    "time": "2026-10-31T14:22:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia dethroned, loses top spot in WTC points table as South Africa clinch 176-run win to seal Test series",
+    "desc": "South Africa defeated Australia by 176 runs in the third Test at Newlands in Cape Town to seal the three-match Test series 2-1. They suffered a crushing defeat in the opening game of the series,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-dethroned-loses-top-spot-in-wtc-points-table-as-south-africa-clinch-176-run-win-to-seal-test-series-2026-10-31-1058384",
+    "time": "2026-10-31T13:45:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How did India benefit as West Indies beat Bangladesh to take 1-0 lead in Test series?",
+    "desc": "West Indies defeated Bangladesh by eight wickets in the opening of the two-match Test series. A dominant batting display from John Campbell and Brandon King proved enough as West Indies chased 170 runs with ease...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-did-india-benefit-as-west-indies-beat-bangladesh-to-take-1-0-lead-in-test-series-2026-10-31-1058375",
+    "time": "2026-10-31T11:21:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhruv Jurel, Devdutt Padikkal star after Yashasvi Jaiswal flops again vs New Zealand A",
+    "desc": "India A captain Dhruv Jurel stood firm against a challenging New Zealand A bowling attack, guiding his team to 291 for seven on the opening day of the second tour match at Hagley Oval. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dhruv-jurel-devdutt-padikkal-star-after-yashasvi-jaiswal-flops-again-vs-new-zealand-a-2026-10-31-1058370",
+    "time": "2026-10-31T10:44:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kagiso Rabada breaks Dale Steyn's world record with early twin blows in third Test vs Australia",
+    "desc": "South Africa ace pacer Kagiso Rabada broke Dale Steyn’s world record in the fourth innings of the third Test against Australia at Newlands in Cape Town. Chasing 288 runs to win the match and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kagiso-rabada-breaks-dale-steyn-s-world-record-with-early-twin-blows-in-third-test-vs-australia-2026-10-31-1058367",
+    "time": "2026-10-31T10:09:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ajinkya Rahane points out potential changes in India's playing XI ahead of fifth NZ T20I",
+    "desc": "The stage is set for the fifth and final T20I of the ongoing series between India and New Zealand. The two sides will be taking on each other at Seddon Park in Hamilton on November...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-points-out-potential-changes-in-india-s-playing-xi-ahead-of-fifth-nz-t20i-2026-10-31-1058364",
+    "time": "2026-10-31T09:23:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why was Bhuvneshwar Kumar not picked in India's fourth T20I against New Zealand? Former cricketer opines",
     "desc": "The Indian team lost the fourth T20I of the ongoing series against New Zealand. The two sides met at Eden Park in Auckland for the clash on October 30th, batting first. New Zealand posted a...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-was-bhuvneshwar-kumar-not-picked-in-india-s-fourth-t20i-against-new-zealand-former-cricketer-opines-2026-10-31-1058360",
     "time": "2026-10-31T08:07:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Youri Tielemans comes to Michael Carrick's defence, backs him to continue as head coach amid subpar results",
-    "desc": "Manchester United are all set to take on Chelsea FC in the Premier League. The arch-rivals will take on each other at Stamford Bridge in London on October 31st, and both sides will look to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/youri-tielemans-comes-to-michael-carrick-s-defence-backs-him-to-continue-as-head-coach-amid-subpar-results-2026-10-31-1058357",
-    "time": "2026-10-31T07:41:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jemimah Rodrigues issues crucial injury update, set to return to action after setback; Check details",
-    "desc": "In a major development, star India women’s batter Jemimah Rodrigues took to social media and issued a crucial injury update, in which she revealed that she has been declared fit from the hamstring injury that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-issues-crucial-injury-update-set-to-return-to-action-after-setback-check-details-2026-10-31-1058353",
-    "time": "2026-10-31T06:24:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Auqib Nabi added to ODI squad for first three games against New Zealand after injury to Prasidh Krishna",
-    "desc": "The BCCI (Board of Control for Cricket in India) took centre stage and announced that pacer Auqib Nabi will be added to the Indian team’s ODI squad for the first three ODIs of the series...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-added-to-odi-squad-for-first-three-games-against-new-zealand-after-injury-to-prasidh-krishna-2026-10-31-1058347",
-    "time": "2026-10-31T05:03:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer heaps praise on NZ, credits them for their plan against Abhishek Sharma in fourth T20I",
-    "desc": "The Indian team lost the fourth T20I of the ongoing series against New Zealand. The teams met at Eden Park in Auckland for the clash, and the game saw the Black Caps bat first and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-heaps-praise-on-nz-credits-them-for-their-plan-against-abhishek-sharma-in-fourth-t20i-2026-10-31-1058344",
-    "time": "2026-10-31T04:23:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer reflects on what went wrong for India as New Zealand register dominant win in Auckland T20I",
-    "desc": "Team India continued its ongoing five-game series against New Zealand. The teams met in the fourth T20I of the series. The teams met at Eden Park in Auckland on October 30th, and New Zealand managed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-reflects-on-what-went-wrong-for-india-as-new-zealand-register-dominant-win-in-auckland-t20i-2026-10-31-1058341",
-    "time": "2026-10-31T03:03:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Glenn Phillips achieves massive feat as New Zealand breeze past India to win fourth T20I in Auckland",
-    "desc": "The Indian team took on New Zealand in the fourth T20I of the ongoing series. The two teams met at Eden Park in Auckland for the clash on October 30, and the game saw New...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-achieves-massive-feat-as-new-zealand-breeze-past-india-to-win-fourth-t20i-in-auckland-2026-10-31-1058337",
-    "time": "2026-10-31T02:12:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manisha Bhanwala creates history, becomes first Indian woman to win wrestling world championship gold",
-    "desc": "India's women's wrestling contingent has secured a historic achievement at the World Championships in Astana, with Manisha Bhanwala becoming the country's first female world champion after defeating American wrestler Elizabeth Nette 8-6 in the 59kg...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/manisha-bhanwala-creates-history-becomes-first-indian-woman-to-win-wrestling-world-championship-gold-2026-10-30-1058323",
-    "time": "2026-10-30T15:10:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Saina Nehwal, Rahul Dravid nominated to Commonwealth Games 2030 organising board: Report",
-    "desc": "Former Indian cricket captain Rahul Dravid and Olympic medallist Saina Nehwal are set to take up administrative responsibilities for the Commonwealth Games 2030 after being nominated to the event's Organising Company Board. The appointments, made...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/saina-nehwal-rahul-dravid-nominated-to-commonwealth-games-2030-organising-board-report-2026-10-30-1058320",
-    "time": "2026-10-30T14:47:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "James Anderson not sure about retirement after being left shocked following Lancashire exit",
-    "desc": "England's record wicket-taker James Anderson has admitted that Lancashire's decision not to renew his contract has left him deeply disappointed. Following which, the veteran fast bowler is considering his future, but is yet to determine...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/james-anderson-not-sure-about-retirement-after-being-left-shocked-following-lancashire-exit-2026-10-30-1058317",
-    "time": "2026-10-30T13:59:46.000Z"
   }
 ];
