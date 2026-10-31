@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India complete historic Commonwealth Kabaddi double with men's and women's gold in Ahmedabad",
+    "desc": "India made history at the inaugural Commonwealth Kabaddi Championship 2026 in Ahmedabad on October 31, with both the men's and women's teams capturing gold medals through convincing victories in their respective finals. The men's side...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-complete-historic-commonwealth-kabaddi-double-with-men-s-and-women-s-gold-in-ahmedabad-2026-10-31-1058399",
+    "time": "2026-10-31T17:49:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pat Cummins backs Australia despite series defeat to South Africa, says 'relatively happy' with progress",
     "desc": "Despite a 176-run defeat in the third Test in Cape Town and a 2-1 series defeat to South Africa, Australia captain Pat Cummins has backed his team's overall performances. However, their recent run of form...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-points-out-potential-changes-in-india-s-playing-xi-ahead-of-fifth-nz-t20i-2026-10-31-1058364",
     "time": "2026-10-31T09:23:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why was Bhuvneshwar Kumar not picked in India's fourth T20I against New Zealand? Former cricketer opines",
-    "desc": "The Indian team lost the fourth T20I of the ongoing series against New Zealand. The two sides met at Eden Park in Auckland for the clash on October 30th, batting first. New Zealand posted a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-was-bhuvneshwar-kumar-not-picked-in-india-s-fourth-t20i-against-new-zealand-former-cricketer-opines-2026-10-31-1058360",
-    "time": "2026-10-31T08:07:38.000Z"
   }
 ];

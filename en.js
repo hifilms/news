@@ -1,5 +1,140 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "INDIA bloc holds symbolic ‘public impeachment’ of CEC Gyanesh Kumar on six charges",
+    "desc": "Move reflects the closure of institutional avenues, says LoP Rahul Gandhi; terms it a political weapon against all who colluded to destroy votes; warns ECI officials that they are first target; says CEC should be tried for treason",
+    "img": "https://th-i.thgim.com/public/incoming/c1zixu/article71650669.ece/alternates/LANDSCAPE_1200/20261031534L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-bloc-holds-symbolic-public-impeachment-of-cec-gyanesh-kumar-on-six-charges/article71650457.ece",
+    "time": "2026-10-31T18:37:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kendall Jenner unveils cosy, colour-filled retreat; designer Heidi Caillier explains",
+    "desc": "Kendall Jenner's latest mountain retreat beautifully contrasts her glamorous image with an inviting vibe. The home’s interior boasts a mix of colorful patterns, vintage finds, and warm tones, echoing her vibrant personality. It includes cozy guest spaces, a charming kitchen, and a unique Airstream trailer. Created for hosting friends and relaxation, this sanctuary emphasizes a lived-in and welcoming atmosphere, representing her personal touch and comfort.",
+    "img": "https://static.toiimg.com/photo/msid-135395061,imgsize-1307429.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kendall-jenners-mountain-retreat-trades-hollywood-gloss-for-floral-sofas-and-colour-everywhere/articleshow/135394979.cms",
+    "time": "2026-10-31T18:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Administrative incompetence’ characterises TVK’s reign in the State, says Palaniswami",
+    "desc": "Addressing a meeting in Maraimalai Nagar amid the 55th formation day celebrations of the AIADMK, the leader says even schemes launched by it, such as the marriage assistance scheme for women, were originally implemented during his party’s regime",
+    "img": "https://th-i.thgim.com/public/incoming/oud7g/article71650556.ece/alternates/LANDSCAPE_1200/9868_15_8_2026_13_37_23_2_PRESSMEET_1.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/administrative-incompetence-characterises-tvks-reign-in-the-state-says-palaniswami/article71650235.ece",
+    "time": "2026-10-31T18:16:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hrithik pens note as he mourns Sanjay Gupta's demise: 'I'm heartbroken, this was too soon'",
+    "desc": "Sanjay Gupta, the renowned filmmaker, has died unexpectedly after a fall at his residence, striking his head. Hrithik Roshan took to social media to honor their work on 'Kaabil', capturing the immense talent Gupta brought to cinema. Authorities are investigating the details surrounding his passing and reviewing home surveillance footage.",
+    "img": "https://static.toiimg.com/photo/msid-135409086,imgsize-230250.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-mourns-the-demise-of-his-kaabil-director-sanjay-gupta-im-heartbroken-this-was-too-soon/articleshow/135407816.cms",
+    "time": "2026-10-31T17:58:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jamiat Governing Council passes resolutions on hate crimes, questions ‘demographic jihad’ narrative",
+    "desc": "Madani observed that hate speech could no longer be dismissed as a temporary instrument of electoral politics. Referring to figures that he claimed indicated more than 1,600 verified incidents of hate speeches and statements over the past year, with no FIR registered in 87% of those cases, Madani said that the situation raised serious questions about the responsibilities of law-enforcement agencies and the delivery of justice.",
+    "img": "https://static.toiimg.com/photo/msid-135409084,imgsize-53708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jamiat-governing-council-passes-resolutions-on-hate-crimes-questions-demographic-jihad-narrative/articleshow/135408932.cms",
+    "time": "2026-10-31T17:57:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Lula da Silva",
+    "desc": "The left-wing leader’s victory in Brazil, after finishing second in the first round, reflects the deep roots of the Workers’ Party, which built its support base through resistance to the military dictatorship in the early 1980s, as well as the declining appeal of Bolsonarismo",
+    "img": "https://th-i.thgim.com/public/news/national/bhfnnu/article71650592.ece/alternates/LANDSCAPE_1200/Brazil_lula_artx.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/lula-da-silva-the-pele-of-brazils-politics/article71650597.ece",
+    "time": "2026-10-31T17:40:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India complete historic double at Commonwealth Kabaddi Championship",
+    "desc": "India defeated Sri Lanka 54-20 to win the inaugural men’s Commonwealth Kabaddi Championship 2026 in Ahmedabad. Aditya Shinde led the attack with 10 raid points, while Yogesh Dahiya impressed in defence. India completed a historic double after the women’s team also won gold earlier. The men finished unbeaten, securing eight victories throughout the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-135408450,imgsize-176411.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/india-complete-historic-double-with-mens-and-womens-title-at-commonwealth-kabaddi-championship/articleshow/135408317.cms",
+    "time": "2026-10-31T17:37:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After ‘Arnab’, Andhra Pradesh may face another severe cyclonic storm",
+    "desc": "The depression over Bay of Bengal is likely to intensify into a severe cyclonic storm by November 2; landfall is expected between Narsapur and Nellore on November 3, with maximum wind speed of 120 kmph",
+    "img": "https://th-i.thgim.com/public/incoming/4u5hyb/article71649937.ece/alternates/LANDSCAPE_1200/VSP01_Fishing%20Boats%20%203.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-andhra-pradesh-may-face-another-severe-cyclonic-storm/article71649303.ece",
+    "time": "2026-10-31T17:34:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Angelina Jolie",
+    "desc": "Angelina Jolie points out that individuals hold the power to choose their responses to suffering and setbacks. She advocates for the acceptance of challenging experiences as a pathway to growth and learning. By recognizing past wounds without letting them define us, one can rise above negativity. Through her own life lessons, Jolie illustrates that maintaining self-awareness is crucial for true healing and rediscovering our humanity amidst trials.",
+    "img": "https://static.toiimg.com/photo/msid-135394914,imgsize-40063.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-angelina-jolie-we-have-a-choice-about-how-we-take-what-happens-to-us-reminder-that-pain-doesnt-have-to-define-us/articleshow/135394843.cms",
+    "time": "2026-10-31T17:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Fakhar Zaman's century powers Pakistan to ODI Tri-Series title",
+    "desc": "Pakistan beat Sri Lanka by three wickets to win the ODI tri-series final in Lahore. Fakhar Zaman led the chase with a brilliant 127 despite a knee injury and poor recent form. Saad Baig scored 74, while Arafat Minhas added a quick 61 to help Pakistan chase 326 and finish at 331-7 in 48.3 overs.",
+    "img": "https://static.toiimg.com/photo/msid-135408126,imgsize-107162.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/fakhar-zamans-century-powers-pakistan-to-odi-tri-series-title/articleshow/135407276.cms",
+    "time": "2026-10-31T17:22:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED arrests four more accused, including Myanmar national, in cross-border drug network",
+    "desc": "Chintuang was a Myanmar-based supplier of the 49.1 kg methamphetamine consignment seized in August 2025, while Lalrammuana was the main handler and Jabrul Haque its intended receiver at Damchhera-Kanhmun border; Abu Saleh was allegedly the operator whose account received ₹11.44 crore",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ed-arrests-four-more-accused-including-myanmar-national-in-cross-border-drug-network/article71650417.ece",
+    "time": "2026-10-31T17:16:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Will deal with Modi, Shah': Rahul Gandhi explains why CEC Gyanesh Kumar is his first target",
+    "desc": "Explaining why the INDIA bloc has upped its attack on the election chief, Rahul Gandhi accused him of acting as an instrument of the ruling establishment and warned that those allegedly involved in undermining democratic institutions would be held accountable. The leader of opposition in the Lok Sabha warned the CEC and other officials against assuming that constitutional immunity would shield them from accountability.",
+    "img": "https://static.toiimg.com/photo/msid-135407219,imgsize-92907.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/will-deal-with-modi-shah-rahul-gandhi-explains-why-cec-gyanesh-kumar-his-first-target/articleshow/135406884.cms",
+    "time": "2026-10-31T16:57:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Understanding author’s thoughts, emotions crucial in translation, says former Chief Justice",
+    "desc": "Taking part in the book release of Telugu translation of Rabindranath Tagore’s Gitanjali, N.V. Ramana says the hallmark of a good translator is the ability to present great literature in simple and accessible language without losing its literary essence",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/understanding-authors-thoughts-emotions-crucial-in-translation-says-former-chief-justice/article71650286.ece",
+    "time": "2026-10-31T16:53:15.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "UN ends its Somalia political mission after three decades",
+    "desc": "UNSOM was established by the UN Security Council in 2013 to support Somali authorities in the transition to democracy and the rule of law after more than two decades of conflict involving militias, Islamist groups and criminal gangs",
+    "img": "https://th-i.thgim.com/public/news/national/bj6mro/article71650552.ece/alternates/LANDSCAPE_1200/iStock-1404313318%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/un-ends-its-somalia-political-mission-after-three-decades/article71650522.ece",
+    "time": "2026-10-31T16:47:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India make history, beat Uganda to win inaugural Women’s Commonwealth Kabaddi title",
+    "desc": "India defeated Uganda 35-15 in the final to win the inaugural women’s Commonwealth Kabaddi Championship in Ahmedabad. Led by captain Nidhi Sharma, India completed an unbeaten campaign with six straight wins. Sakshi starred with nine raid points in the final and finished the tournament with 52 points, helping India create history by becoming the competition’s first women’s champions.",
+    "img": "https://static.toiimg.com/photo/msid-135406838,imgsize-101750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/india-make-history-beat-uganda-to-win-inaugural-womens-commonwealth-kabaddi-championship/articleshow/135406672.cms",
+    "time": "2026-10-31T16:39:38.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Ellen DeGeneres shares fitness goal, works towards her first pull-up at 68",
     "desc": "At nearly 69, Ellen DeGeneres is determined to master unassisted pull-ups, using a resistance band as part of her fitness journey. In a captivating video she posted on Instagram, she showcased the workout challenge. During her appearance on 'The Graham Norton Show', she reflected on missing her television career and the camaraderie it brought.",
@@ -63,51 +198,6 @@ const newsData_en = [
     "time": "2026-10-31T15:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sugarcane growers intensify agitation across Kittur Karnataka; bandh evokes mixed response; Road blockades disrupt transport in Belagavi, Vijayapura, Bagalkot, Dharwad and Haveri",
-    "desc": "The Karnataka bandh called by sugarcane growers demanding a remunerative price for their produce evoked a mixed response across the Kittur Karnataka region on Saturday, with road blockades disrupting transport and normal life in several parts of Belagavi, Vijayapura, Bagalkot, Dharwad and Haveri districts.",
-    "img": "https://th-i.thgim.com/public/incoming/3anrkn/article71650305.ece/alternates/LANDSCAPE_1200/PTI10_31_2026_000171A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/sugarcane-growers-intensify-agitation-across-kittur-karnataka-bandh-evokes-mixed-response-road-blockades-disrupt-transport-in-belagavi-vijayapura-bagalkot-dharwad-and-haveri/article71650247.ece",
-    "time": "2026-10-31T15:27:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "National SARAS Mela to remain open on November 1",
-    "desc": "Even though the meal came to a close on Saturday, organisers have decided to keep it open to the public for one more day; SERP Director (Livelihoods) says mela recorded sales of ₹12.11 crore over the past 19 days",
-    "img": "https://th-i.thgim.com/public/incoming/2o7awx/article71650270.ece/alternates/LANDSCAPE_1200/DSC_7288.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/national-saras-mela-to-remain-open-on-november-1/article71650049.ece",
-    "time": "2026-10-31T15:22:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Former SC development officer in Keralam’s Palakkad gets jail for misappropriation",
-    "desc": "The offence took place during 2002-03, when she was working as the SC development officer in Palakkad block; she reportedly falsified official records, including the cash book and acquittance register, to divert funds amounting to ₹8.96 lakh from three schemes",
-    "img": "https://th-i.thgim.com/public/incoming/4psibj/article71650228.ece/alternates/LANDSCAPE_1200/iStock-181874783.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/former-sc-development-officer-in-keralams-palakkad-gets-jail-for-misappropriation/article71650078.ece",
-    "time": "2026-10-31T15:04:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Backed by Naga bodies, Meitei groups hold rally in Imphal for abrogation of SoO truce pact",
-    "desc": "Naga civil bodies held marches in Chandel and Senapati districts, supporting the rally by the COCOMI in Imphal; rallies come days after militants ambushed 14 Meitei men and killed three of them, sparking protests in the State",
-    "img": "https://th-i.thgim.com/public/incoming/a0bsvy/article71648951.ece/alternates/LANDSCAPE_1200/PTI10_21_2026_000320B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/manipur/meitei-groups-hold-rally-in-imphal-manipur-cms-resignation-abrogation-of-soo-truce-pact-sought/article71648869.ece",
-    "time": "2026-10-31T15:03:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Solar power charging taking baby steps in A.P. despite better conditions",
-    "desc": "The State has the perfect sunny conditions to launch solar-powered EV charging stations, but the industry is still in its early stages. It is still facing challenges in the form of high upfront investment and uncertain returns; the State government is aggressively developing EV charging stations, but not the solar-powered ones, says Minister",
-    "img": "https://th-i.thgim.com/public/incoming/bysjz3/article71646562.ece/alternates/LANDSCAPE_1200/10745_30_10_2026_17_57_17_1_IMG_20261030_WA0042.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/solar-power-charging-taking-baby-steps-in-ap-despite-better-conditions/article71639620.ece",
-    "time": "2026-10-31T14:54:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Double Olympic medallist Sindhu enters her second final in two weeks",
     "desc": "PV Sindhu stormed into the Hylo Open Super 500 final after defeating compatriot Anmol Kharb 21-13, 21-16 in 32 minutes. The double Olympic medallist has now reached back-to-back finals, following her runner-up finish at the French Open last week. Sindhu's experience and attacking game proved too strong for the 19-year-old Anmol.",
@@ -115,24 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/double-olympic-medallist-pv-sindhu-enters-her-second-final-in-two-weeks-after-defeating-compatriot-anmol-kharb-at-hylo-open-badminton-tournament/articleshow/135404093.cms",
     "time": "2026-10-31T14:53:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Secret meets on foreign soil': PM Modi says opposition conspiring to divide nation",
-    "desc": "\"Social media is being weaponised to spread rumours and to malign India's image. The citizens of the country must handle this together. We have eliminated Naxalism in far-flung areas, but the threat of 'Dimagi Naxalism' has not yet been averted from the nation.\"",
-    "img": "https://static.toiimg.com/photo/msid-135404181,imgsize-75572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/secret-meets-on-foreign-soil-pm-modi-says-opposition-conspiring-to-divide-nation/articleshow/135403686.cms",
-    "time": "2026-10-31T14:48:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AI must be integrated into thinking and work, says NITK Director",
-    "desc": "Artificial intelligence should be integrated into one’s thinking and working practices, while ethics, compassion and a sense of responsibility towards society must remain central to technological advancement, says B. Ravi, Director of the National Institute of Technology, Surathkal",
-    "img": "https://th-i.thgim.com/public/incoming/jow1oz/article71650071.ece/alternates/LANDSCAPE_1200/2699_31_10_2026_19_37_11_1_01HUBLIKLSGRADUATION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/ai-must-be-integrated-into-thinking-and-work-says-nitk-director/article71649821.ece",
-    "time": "2026-10-31T14:41:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -226,24 +298,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Quote of the day by Ian McKellen",
-    "desc": "Ian McKellen shares his thoughts on his illustrious career, emphasizing the value of personal growth over seeking validation from others. He posits that the essence of good work lies in embracing new challenges and diverse roles. Additionally, McKellen underscores the importance of collaborating with those who foster creativity and support. His message transcends acting, inspiring individuals to cultivate self-worth independent of societal pressures.",
-    "img": "https://static.toiimg.com/photo/msid-135398429,imgsize-293592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-ian-mckellen-i-think-validation-will-come-if-your-work-is-good-work-with-people-who-are-going-to-encourage-you-and-support-you-and-get-the-best-out-of-you-words-of-wisdom-from-the-x-men-star-about-living-life-outside-of-the-social-constructs-that-often-bind-us/articleshow/135398358.cms",
-    "time": "2026-10-31T13:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Indira Gandhi's assassination cannot justify 1984 anti-Sikh riots': Hardeep Puri ahead of 42nd anniversary",
-    "desc": "Union minister Hardeep Singh Puri spoke out about the lasting impact of the 1984 anti-Sikh riots, firmly stating that no justification exists for the violence inflicted upon the Sikh community. He lamented the tragic toll and enduring pain endured by victims while commending HS Phoolka's tireless efforts for justice. The fight for accountability persists as the search for answers continues decades later.",
-    "img": "https://static.toiimg.com/photo/msid-135402444,imgsize-1303612.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indira-gandhis-assassination-cannot-justify-1984-anti-sikh-riots-hardeep-puri-ahead-of-42nd-anniversary/articleshow/135402398.cms",
-    "time": "2026-10-31T13:27:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Sanjay Gupta revealed he separated from his wife Anu due to underworld, remarried her",
     "desc": "Sanjay Gupta, a celebrated filmmaker known for works like 'Kaante' and 'Kaabil', died on October 30 due to a head injury at his residence in Mumbai. He was 57. Gupta’s marriage to Anuradha showcased a rollercoaster of emotions, having divorced in 2003 only to reunite and remarry in 2009. This enduring relationship reflected the challenges he faced in both personal matters and marital stability.",
     "img": "https://static.toiimg.com/photo/msid-135402199,imgsize-236936.cms",
@@ -315,15 +369,6 @@ const newsData_en = [
     "time": "2026-10-31T12:15:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Keep Rahul Gandhi mock PM for life': BJP's dig at INDIA bloc's 'public impeachment' of CEC",
-    "desc": "BJP national spokesperson Sambit Patra, who is MP from Puri Lok Sabha constituency, called the \"mock parliament\" a \"drama\", and highlighted that the Speical Intensive Revision (SIR) was ongoing and substantiated the claims around the \"13 crore delted voters\". Earlier, Amit Shah challenged the INDIA bloc to discuss the issue during a special session of Parliament.",
-    "img": "https://static.toiimg.com/photo/msid-135400732,imgsize-749030.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/keep-rahul-gandhi-mock-pm-for-life-bjps-dig-at-india-blocs-public-impeachment-of-cec/articleshow/135399919.cms",
-    "time": "2026-10-31T12:14:22.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sasi clarifies why 'Nooru Kodi Vaanavil' skipped theatrical release",
     "desc": "This Diwali, director Sasi's romantic film 'Nooru Kodi Vaanavil' will be unveiled on ZEE5, diverging from the traditional theatrical route due to various production challenges. Actor Harish Kalyan expressed his anticipation for audience feedback after what seemed like an endless wait. Sasi acknowledged that the film's release was hampered by the COVID-19 pandemic, but it has now overcome those hurdles and is ready for sharing with viewers.",
@@ -378,15 +423,6 @@ const newsData_en = [
     "time": "2026-10-31T11:38:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Guilty of centralising electoral rolls': Mallikarjun Kharge lists 6 charges against CEC Gyanesh Kumar, makes 3 demands",
-    "desc": "Mallikarjun Kharge has initiated a significant public impeachment against Chief Election Commissioner Gyanesh Kumar, charging him with vote theft through six detailed allegations, including the controversial deletion of voters and the centralization of electoral authority. The opposition also sought CEC Gyanesh Kumar's removal and an end to the SIR exercise.",
-    "img": "https://static.toiimg.com/photo/msid-135399904,imgsize-981507.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/guilty-of-centralising-electoral-rolls-mallikarjun-kharge-lists-6-charges-against-cec-gyanesh-kumar-makes-3-demands/articleshow/135398593.cms",
-    "time": "2026-10-31T11:38:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Swipe, shop, repeat: Online buyers splash out 7.5% more than offline shoppers",
     "desc": "Research indicates that households in India utilizing online shopping platforms incur a monthly expenditure that is 7.5 percent higher than those who do not shop online. Notably, the rise in spending for services and durable goods is strikingly high at 23.4 and 24.5 percent. Despite this, the majority of online purchases focus on groceries, with fresh food sales lagging due to entrenched traditional habits.",
@@ -394,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/swipe-shop-repeat-online-buyers-splash-out-7-5-more-than-offline-shoppers/articleshow/135399367.cms",
     "time": "2026-10-31T11:33:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 2021, Reese Witherspoon sold her firm; now, after buyback, 50% of employees are being laid off",
-    "desc": "In a bold restructuring move, Reese Witherspoon has laid off around 30 employees at Hello Sunshine, post-purchase. This change accounts for a drastic 50% reduction in workforce as the company seeks to pivot back to its roots in film and television, alongside the celebrated Reese’s Book Club. Witherspoon highlighted the team's successes and gratitude towards previous partners for their invaluable support during tougher times.",
-    "img": "https://static.toiimg.com/photo/msid-135397155,imgsize-616262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2021-reese-witherspoon-sold-her-company-for-usd-900-million-now-after-buying-back-100-shares-shes-downsizing-the-firm-by-50/articleshow/135397106.cms",
-    "time": "2026-10-31T11:30:00.000Z"
   },
   {
     "cat": "Business",
@@ -450,24 +477,6 @@ const newsData_en = [
     "time": "2026-10-31T10:09:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Already been uprooted': Akhilesh, Awadhesh target Amit Shah over 'Angad's foot' remark",
-    "desc": "Akhilesh Yadav condemned Amit Shah's claims about the BJP's stronghold in Uttar Pradesh, pointing out the alarming rise in violence against women and Dalits. Responding to Shah's confidence in the BJP's future following recent electoral defeats, MP Awadhesh Prasad underscored the party's vulnerabilities. Shah also emphasized the intent to implement the Uniform Civil Code as part of the BJP's agenda, highlighting the shifting political landscape in the state.",
-    "img": "https://static.toiimg.com/photo/msid-135397765,imgsize-114394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/already-been-uprooted-akhilesh-awadhesh-target-amit-shah-over-angads-foot-remark/articleshow/135397358.cms",
-    "time": "2026-10-31T10:07:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sanjay Gupta passes away – When Quentin Tarantino praised 'Kaante' despite ‘Reservoir Dogs’ comparisons",
-    "desc": "Sanjay Gupta, the visionary filmmaker behind iconic crime dramas, has passed away at the age of 57, leaving an indelible legacy in Hindi cinema. His celebrated works such as 'Kaante' and 'Shootout at Lokhandwala' have not only shaped his unique storytelling approach but also garnered admiration from figures like Quentin Tarantino. Tarantino commended 'Kaante' for its rich character exploration, countering claims of similarity to his own 'Reservoir Dogs.'",
-    "img": "https://static.toiimg.com/photo/msid-135397314,imgsize-716093.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-gupta-passes-away-at-57-how-kaante-faced-reservoir-dogs-comparisons-and-still-earned-a-fan-in-its-director-quentin-tarantino-i-think-it-was-fabulous/articleshow/135396947.cms",
-    "time": "2026-10-31T10:06:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "World record at 40! Raza smashes unbeaten ton against Afghanistan, enters elite list",
     "desc": "Sikandar Raza smashed an unbeaten 106 off 56 balls against Afghanistan in the second T20I, becoming the oldest Full Member nation batter to score a T20I century at 40 years and 188 days. Despite his historic knock and an unbeaten 120-run stand with Tafadzwa Tsiga, Zimbabwe lost by 19 runs. Afghanistan posted 221/7 to seal the series 2-0.",
@@ -502,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/nifty50-faces-worst-year-in-a-decade-will-november-help-dalal-street-to-bounce-back/articleshow/135396269.cms",
     "time": "2026-10-31T09:50:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India's roads kill quietly while crashes in the sky make headlines",
-    "desc": "A tragic helicopter crash in Uttarakhand resulted in six fatalities, reigniting urgent discussions on aviation safety. Daily road accidents claim over 500 lives, underscoring a critical transport issue. While train accidents have decreased, thousands still fall victim to railway incidents each year. The increase in smaller aircraft accidents highlights a concerning trend, although aviation remains statistically safer than road travel.",
-    "img": "https://static.toiimg.com/photo/msid-135396572,imgsize-1396481.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indias-roads-kill-quietly-while-crashes-in-the-sky-make-headlines/articleshow/135317171.cms",
-    "time": "2026-10-31T09:41:16.000Z"
   },
   {
     "cat": "Business",
@@ -556,24 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/nations-commit-to-get-nature-goals-back-on-track-at-un-nature-summit/article71648500.ece",
     "time": "2026-10-31T07:38:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dhruv Jurel's unbeaten 99 rescues India A after dramatic collapse against NZ A",
-    "desc": "Dhruv Jurel played a crucial role for India A by scoring an unbeaten 99 in tough conditions. After losing three wickets in quick succession, India A struggled at 160 for 6 during the match. Jurel built partnerships including a vital 62-run stand with Manav Suthar, who contributed 22 runs. He remained unbeaten as India A fought back to reach a competitive total by day's end.",
-    "img": "https://static.toiimg.com/photo/msid-135390917,imgsize-28909.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/dhruv-jurels-unbeaten-99-rescues-india-a-after-dramatic-collapse-against-new-zealand-a/articleshow/135390890.cms",
-    "time": "2026-10-31T06:11:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘If you want to fit Vaibhav’: Ex-cricketer's message to Gambhir on Sooryavanshi",
-    "desc": "Dinesh Karthik asserts that India should consider resting Abhishek Sharma if they wish to include Vaibhav Sooryavanshi in the lineup. This comes after Sooryavanshi missed the fourth T20I, allowing Ishan Kishan to recover. While Sanju Samson has shown promise, his recent form has dipped, making it crucial to balance team dynamics. With the series against New Zealand secured, the last T20I serves as a platform to experiment with combinations.",
-    "img": "https://static.toiimg.com/photo/msid-135389056,imgsize-118220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/if-you-want-to-fit-vaibhav-ex-india-cricketers-message-to-gautam-gambhir-led-management-on-accommodating-sooryavanshi/articleshow/135389048.cms",
-    "time": "2026-10-31T05:10:57.000Z"
   },
   {
     "cat": "World",
@@ -810,24 +792,6 @@ const newsData_en = [
     "time": "2026-10-30T04:09:20.000Z"
   },
   {
-    "cat": "World",
-    "title": "North Korea's Kim calls for rapid expansion of drone technology, observes testing of weapons",
-    "desc": "In a speech at the exhibition, Mr. Kim stressed the need to seize “the absolute superiority in the drone technology” and announced unspecified steps needed to “rapidly expand and strengthen the unmanned aeronautical technology,” says Korean Central News Agency",
-    "img": "https://th-i.thgim.com/public/incoming/khho3a/article71643523.ece/alternates/LANDSCAPE_1200/AP10_30_2026_000006B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/north-koreas-kim-calls-for-rapid-expansion-of-drone-technology-observes-testing-of-weapons/article71643492.ece",
-    "time": "2026-10-30T03:43:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Republicans defend their bastions, as senate comes within reach of Democrats",
-    "desc": "The GOP has a 53–47 majority in the Senate currently, with 35 seats being contested this year. Of these, seven are “toss ups”, according to a non-partisan election analyser. These seats are in Iowa, Arkansas, Kansas, Maine, Michigan, Ohio and Texas. All of these – except Michigan – are seats which are currently held by Republicans",
-    "img": "https://th-i.thgim.com/public/incoming/wn4hxf/article71642039.ece/alternates/LANDSCAPE_1200/2026-10-29T041300Z_856886983_RC2OCOAN1C2Q_RTRMADP_3_USA-ELECTION-TEXAS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/republicans-defend-their-bastions-as-senate-comes-within-reach-of-democrats/article71641257.ece",
-    "time": "2026-10-30T02:50:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Vaishnavi — India’s new orchestrator",
     "desc": "The left-arm spinner may not have burst onto the scene but is making a case for herself with stellar performances for the National team. Those who have followed her from close quarters believe that the 20-year-old is just getting started",
@@ -853,15 +817,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/adrian-luna-kerala-blasters-return-loan-spell-manjappada-interview-ownership-change/article71640683.ece",
     "time": "2026-10-29T13:19:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kotian’s career-best show fashions Mumbai’s thumping win",
-    "desc": "The offie claims eight for 81 to bowl out Haryana for 256; openers Saxena and Raghuvanshi overhaul the target of 97 inside 11 overs as the home team registers a bonus point victory for the third straight game",
-    "img": "https://th-i.thgim.com/public/incoming/vdv6x1/article71640644.ece/alternates/LANDSCAPE_1200/11908_29_10_2026_17_0_4_1_DSC_1918.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-kotian-fashions-mumbais-thumping-win-with-career-best-figures/article71640656.ece",
-    "time": "2026-10-29T12:48:44.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/south-korea-fines-google-and-apple-for-forcing-own-payment-systems-and-delaying-reviews/article71635392.ece",
     "time": "2026-10-28T11:41:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Keralam govt approves J.C. Daniel film city project at Kinfra’s Petrochemicals Park in Ambalamugal",
+    "desc": "Around 30 acres will be utilised for the project, which is estimated to cost about ₹100 crore. Tender proceedings for finalising design framework, to be implemented in a public-private partnership mode, will be initiated soon",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/1ukfuc/article71635395.ece/alternates/LANDSCAPE_1200/01tv%20movie%20sets.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/keralam-govt-approves-jc-daniel-film-city-project-at-kinfras-petrochemicals-park-in-ambalamugal/article71634590.ece",
+    "time": "2026-10-28T11:30:34.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Into the “brain rot” psyche",
+    "desc": "Bringing pop culture, internet, nonsense, and scientists together, the teenage slang word ‘brain rot’ is a phenomenon overall. Here’s an insightful look into what exactly it is and its implications in the ways of our life.",
+    "img": "https://th-i.thgim.com/public/children/r24kg6/article71587403.ece/alternates/LANDSCAPE_1200/Italian_brainrot_characters.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/into-the-brain-rot-psyche/article71578351.ece",
+    "time": "2026-10-27T07:30:52.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "India needs to train its clinical staff before erecting data shields",
+    "desc": "User data is routinely commoditised today, and passing a law assuming compliance and waiting for complaints or litigation will not suffice. As the DPDP Act comes into effect, the government must finance, build, and sustain an ecosystem that allows every health worker to comply and patients to be able to better access care",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/isa3jn/article71623149.ece/alternates/LANDSCAPE_1200/bermix-studio-SJwYvNVW1qY-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/dpdp-act-patient-data-protection-privacy-clinical-staff-training/article71623153.ece",
+    "time": "2026-10-26T05:42:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
