@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Glenn Phillips breaks Phil Salt's elite record, wins Player of the Series award after India T20Is",
+    "desc": "New Zealand performed exceptionally well in the fifth and final T20I of the ongoing series against India. The teams met at Seddon Park in Hamilton for the clash on November 1st, and the Black Caps...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-breaks-phil-salt-s-elite-record-wins-player-of-the-series-award-after-india-t20is-2026-11-01-1058442",
+    "time": "2026-11-01T13:35:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shreyas Iyer weighs in on India's performance as NZ register dominant seven wicket win in Hamilton",
     "desc": "New Zealand put forth a brilliant showing in the fifth and final T20I of the ongoing series against India. The two sides met at Seddon Park in Hamilton for the clash on November 1st, and...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-backs-australia-despite-series-defeat-to-south-africa-says-relatively-happy-with-progress-2026-10-31-1058396",
     "time": "2026-10-31T16:36:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PV Sindhu outclasses Anmol Kharb to enter second consecutive final at Hylo Open",
-    "desc": "PV Sindhu defeated compatriot Anmol Kharb 21-13, 21-16 to book her place in the women's singles final of the Hylo Open Super 500 tournament in Saarbrucken, Germany, on Saturday. The 32-minute victory also marked her...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-outclasses-anmol-kharb-to-enter-second-consecutive-final-at-hylo-open-2026-10-31-1058392",
-    "time": "2026-10-31T15:54:38.000Z"
   }
 ];
