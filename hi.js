@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Wasim Jaffer weighs in on Shreyas Iyer's performances as India clinch T20I series against NZ",
+    "desc": "The T20I series between India and New Zealand came to a conclusion with the Indian team clinching the five-game series with a score of 3-2. It is worth noting that the Men in Blue kicked...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wasim-jaffer-weighs-in-on-shreyas-iyer-s-performances-as-india-clinch-t20i-series-against-nz-2026-11-02-1058494",
+    "time": "2026-11-02T09:47:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Glenn Phillips surpasses Abhishek Sharma in an elite list as New Zealand defeat India in the fifth T20I",
+    "desc": "New Zealand registered a dominant win in the fifth and final T20I of the series against India. The two sides met at Seddon Park in Hamilton for the clash on November 1st, and the Black Caps...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-surpasses-abhishek-sharma-in-an-elite-list-as-new-zealand-defeat-india-in-the-fifth-t20i-2026-11-02-1058490",
+    "time": "2026-11-02T08:54:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Andrew McDonald opens up Marnus Labuschagne's future with Australia amid continued subpar form",
+    "desc": "Australia are coming into the back of a disappointing series loss against South Africa. The two sides met across three Test matches, where despite winning the first Test, Australia succumbed to losses in the second...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/andrew-mcdonald-opens-up-marnus-labuschagne-s-future-with-australia-amid-continued-subpar-form-2026-11-02-1058486",
+    "time": "2026-11-02T08:00:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cricket Australia name squads for white-ball series against England, Mahli Beardman set for ODI debut",
+    "desc": "In a major development, CA (Cricket Australia) came forward and named the squad for the upcoming white-ball series against England. The two arch-rivals will be taking on each other across three ODIs and three T20I...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cricket-australia-name-squads-for-white-ball-series-against-england-mahli-beardman-set-for-odi-debut-2026-11-02-1058478",
+    "time": "2026-11-02T06:46:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand dealt heavy blow ahead of India ODIs, two star players ruled out of upcoming series; Check details",
+    "desc": "The stage is set for the upcoming five-game ODI series between India and New Zealand. The two sides will meet across five ODI matches, with the first ODI slated to be held on November 4,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-dealt-heavy-blow-ahead-of-india-odis-two-star-players-ruled-out-of-upcoming-series-check-details-2026-11-02-1058476",
+    "time": "2026-11-02T06:03:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Glenn Phillips breaks Phil Salt's elite record, wins Player of the Series award after India T20Is",
     "desc": "New Zealand performed exceptionally well in the fifth and final T20I of the ongoing series against India. The teams met at Seddon Park in Hamilton for the clash on November 1st, and the Black Caps...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-surpasses-suryakumar-yadav-in-an-elite-list-with-spectacular-show-against-new-zealand-in-hamilton-2026-11-01-1058426",
     "time": "2026-11-01T09:17:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand defeat India by seven wickets, T20I series ends 3-2",
-    "desc": "The stage is set for the fifth T20I of the ongoing series between India and New Zealand. The teams meet at Seddon Park in Hamilton for the clash, and both sides will look to put in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-5th-t20i-live-score-india-look-to-bounce-back-in-hamilton-after-minor-hiccup-1058416",
-    "time": "2026-11-01T06:16:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jacob Duffy reflects on the prospect of facing Virat Kohli ahead of IND-NZ ODI series",
-    "desc": "India and New Zealand are all set to continue their ongoing multi-format series. After the conclusion of the T20I leg of the series, India and New Zealand will lock horns across five ODI matches. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jacob-duffy-reflects-on-the-prospect-of-facing-virat-kohli-ahead-of-ind-nz-odi-series-2026-11-01-1058415",
-    "time": "2026-11-01T06:05:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs New Zealand, 5th T20I Pitch Report, how will surface in Hamilton play?",
-    "desc": "The stage is set for the fifth and final T20I of the ongoing series between India and New Zealand. The two sides meet at Seddon Park in Hamilton for the clash on November 1st, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-5th-t20i-pitch-report-how-will-surface-in-hamilton-play-2026-11-01-1058414",
-    "time": "2026-11-01T05:39:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India complete historic Commonwealth Kabaddi double with men's and women's gold in Ahmedabad",
-    "desc": "India made history at the inaugural Commonwealth Kabaddi Championship 2026 in Ahmedabad on October 31, with both the men's and women's teams capturing gold medals through convincing victories in their respective finals. The men's side...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-complete-historic-commonwealth-kabaddi-double-with-men-s-and-women-s-gold-in-ahmedabad-2026-10-31-1058399",
-    "time": "2026-10-31T17:49:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pat Cummins backs Australia despite series defeat to South Africa, says 'relatively happy' with progress",
-    "desc": "Despite a 176-run defeat in the third Test in Cape Town and a 2-1 series defeat to South Africa, Australia captain Pat Cummins has backed his team's overall performances. However, their recent run of form...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-backs-australia-despite-series-defeat-to-south-africa-says-relatively-happy-with-progress-2026-10-31-1058396",
-    "time": "2026-10-31T16:36:18.000Z"
   }
 ];
