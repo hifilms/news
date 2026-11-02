@@ -1,12 +1,93 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Shah Rukh Khan makes first appearance after ringing in birthday with family",
+    "desc": "Shah Rukh Khan celebrated his birthday by heading to South Mumbai with family and friends at the Taj hotel. Fans gathered outside his residence, Mannat, to catch a glimpse of the actor. He acknowledged his fans before entering his car as they cheered and expressed their love. A special handwritten note was displayed, thanking fans while showcasing his upcoming film, King.",
+    "img": "https://static.toiimg.com/photo/msid-135440854,imgsize-127102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-makes-first-appearance-after-ringing-in-birthday-celebrations-with-family-and-friends-in-mumbai-waves-blows-kisses-to-fans-watch/articleshow/135440472.cms",
+    "time": "2026-11-02T00:01:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AMU’s wants women on campus, not at the ballot box",
+    "desc": "Around 4,000 women students at AMU’s Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections, raising concerns over gender discrimination and unequal representation. Their fight to be included in the university-wide electoral process has brought renewed scrutiny to the separate-union rules and the barriers women face in campus politics, finds A. M. Jigeesh",
+    "img": "https://th-i.thgim.com/public/incoming/h409vl/article71653241.ece/alternates/LANDSCAPE_1200/Aligarh%20Muslim%20University%20Election%20SPOTLIGHT%205.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/amus-wants-women-on-campus-not-at-the-ballot-box/article71653225.ece",
+    "time": "2026-11-01T23:10:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Director Michael Mann accidentally shoots himself at gun range",
+    "desc": "Filmmaker Michael Mann was injured at a gun range in Los Angeles when a weapon accidentally discharged. Following the incident, he was taken to a hospital for treatment and is expected to be released soon. The 83-year-old is known for directing classics such as 'Heat' and 'Collateral,' and has decades of target shooting experience. Mann recently directed the film 'Ferrari' and is working on a sequel to 'Heat.",
+    "img": "https://static.toiimg.com/photo/msid-135440371,imgsize-78058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/director-michael-mann-accidentally-shoots-himself-sustains-superficial-injury-at-gun-range/articleshow/135440211.cms",
+    "time": "2026-11-01T22:51:43.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Orange alert in six Telangana districts, yellow alert in five; holiday announced for schools, colleges in T.N., A.P. districts",
     "desc": "The cyclonic storm lay centred about 350 km east of Chennai, 400 km east-southeast of Nellore, 430 km southeast of Machilipatnam, 420 km east-southeast of Kavali, 450 km southeast of Ongole, and 520 km south of Visakhapatnam, according to IMD.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-    "time": "2026-11-01T19:08:22.000Z"
+    "time": "2026-11-01T22:51:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Security tightened outside Mannat on Shah Rukh Khan's birthday",
+    "desc": "Security has been tightened outside actor Shah Rukh Khan's residence, 'Mannat ', ahead of his birthday celebrations on Monday. The fans have also gathered outside his residence to sneak a glimpse of the actor on the special day.",
+    "img": "https://static.toiimg.com/photo/msid-135439740,imgsize-271127.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-61st-birthday-security-tightened-outside-mannat-police-check-cars-maintain-public-order-watch/articleshow/135438036.cms",
+    "time": "2026-11-01T22:24:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sindhu, Lakshya make it a double delight for India",
+    "desc": "The former world champion Sindhu adds the Hylo Open to the Japan Open triumph earlier in the year and boosts her hopes of making the World Tour Finals while the latter ends his title drought in style",
+    "img": "https://th-i.thgim.com/public/incoming/wcsrm7/article71654392.ece/alternates/LANDSCAPE_1200/52_BADMINTON_CHAMPIONSHIPS_20_08_DELHI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/sindhu-lakshya-make-it-a-double-delight-for-india/article71654391.ece",
+    "time": "2026-11-01T21:39:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘You Can See Everything’ edges ‘Clayface’ on Halloween weekend",
+    "desc": "This weekend, the North American box office faced a decline in ticket sales due to the Halloween holiday. The documentary 'You Can See Everything' topped the charts with USD 10.6 million, surpassing 'Clayface' by just USD 200,000. Laika's animated film 'Wildwood' continued to gain traction, earning USD 7.5 million in its second weekend. Other notable films included 'Wicker' and 'Street Fighter', which landed in the top five.",
+    "img": "https://static.toiimg.com/photo/msid-135438005,imgsize-195851.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/you-can-see-everything-takes-lead-over-clayface-on-sleepy-halloween-weekend-at-north-american-box-office/articleshow/135437746.cms",
+    "time": "2026-11-01T21:26:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Michael Jackson’s sons want Neverland Ranch to help underprivileged children again",
+    "desc": "Michael Jackson’s sons Prince and Bigi reportedly hope Neverland Ranch can once again bring joy to sick and underprivileged children, in keeping with their father’s charitable legacy. Businessman Ron Burkle, who purchased the property for $22 million in 2020, remains open to hosting charity events there, although the estate continues to be his private residence.",
+    "img": "https://static.toiimg.com/photo/msid-135437552,imgsize-162911.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-jacksons-sons-prince-and-bigi-want-neverland-ranch-to-help-sick-and-underprivileged-children-again-owner-ron-burkle-who-bought-the-property-for-22-million-in-2020-remains-open-to-hosting-charity-events/articleshow/135437434.cms",
+    "time": "2026-11-01T20:45:33.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel elections chief says inquiry into irregularities will not undermine result",
+    "desc": "The Shin Bet security agency launched the inquiry last week, at the elections chief’s request, to determine whether the Arab Israeli party Raam received money from Qatar — an accusation both the Gulf state and the party deny",
+    "img": "https://th-i.thgim.com/public/news/national/u5z6tp/article71654258.ece/alternates/LANDSCAPE_1200/AFP__20261031__D62D84U__v1__HighRes__IsraelPoliticsElectionGovernmentProtest.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israel-elections-chief-says-inquiry-into-irregularities-will-not-undermine-result/article71654256.ece",
+    "time": "2026-11-01T20:20:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chad Lowe lists $3.2 million home for sale weeks after daughter Fiona’s death",
+    "desc": "Actor Chad Lowe and wife Kim Painter have reportedly listed their 3,239-square-foot Mar Vista home for $3.249 million, weeks after the death of their 13-year-old daughter, Fiona. The couple purchased the four-bedroom property for $3.15 million in March 2025. According to TMZ, they have already accepted an offer, subject to certain conditions.",
+    "img": "https://static.toiimg.com/photo/msid-135436847,imgsize-125589.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/chad-lowe-and-wife-kim-painter-list-3-2-million-mar-vista-home-for-sale-weeks-after-13-year-old-daughter-fionas-death-the-couple-purchased-the-3239-square-foot-property-for-3-15-million-in-march-2025/articleshow/135436770.cms",
+    "time": "2026-11-01T19:27:15.000Z"
   },
   {
     "cat": "Politics",
@@ -163,15 +244,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Where does Mark Ruffalo live?",
-    "desc": "Mark Ruffalo's real estate portfolio showcases a variety of properties, including a charming farmhouse nestled in the scenic Catskills and a stylish residence in Hollywood Hills. He previously owned a quaint townhouse in Brooklyn's Carroll Gardens that he has since sold. The Catskills farmhouse holds deep sentimental value for Ruffalo and his family, reflecting their cherished memories.",
-    "img": "https://static.toiimg.com/photo/msid-135423293,imgsize-87128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mark-ruffalos-real-estate-portfolio-from-his-catskills-farmhouse-to-his-hollywood-hills-residence/articleshow/135423252.cms",
-    "time": "2026-11-01T14:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Ramayana' advance box office: Film crosses Rs 36 cr, falls behind Yash's Toxic",
     "desc": "Part 1' has accumulated Rs 23.87 crore in advance bookings prior to its release. The film has sold over 5.42 lakh tickets across 13,165 shows, leading to significant occupancy rates. Notably, the movie is performing well in international markets with pre-sales exceeding $3.5 million. However, it is currently lagging behind 'Toxic: A Fairy Tale for Grown-Ups' in advance bookings numbers.",
     "img": "https://static.toiimg.com/photo/msid-135429767,imgsize-347028.cms",
@@ -324,24 +396,6 @@ const newsData_en = [
     "time": "2026-11-01T11:36:58.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "In 2012, Patrick Stewart bought a Brooklyn converted home; it was sold off to the new owner for USD 3.89 million",
-    "desc": "Sir Patrick Stewart made headlines when he sold his charming Brooklyn carriage house for USD 3.9 million in July 2025, a property he purchased in 2012. With its private elevator, fireplace, and rooftop terrace, it was a delightful residence complemented by the kindness of the neighborhood. Sadly, Stewart passed away on October 28 after a courageous fight against Alzheimer's disease and Lewy body dementia.",
-    "img": "https://static.toiimg.com/photo/msid-135422759,imgsize-341105.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2012-patrick-stewart-spent-2-5m-on-a-brooklyn-duplex-years-later-he-quietly-sold-the-property-for-3-9-million/articleshow/135422506.cms",
-    "time": "2026-11-01T11:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul's Ramlila 'jalsa' to 'rub salt in wounds' of 1984 Sikh riot victims: Amit Shah",
-    "desc": "Union home minister Amit Shah said the \"jalsa\" would reopen painful memories for the victims and their families, accusing the Congress of showing little sensitivity towards the tragedy. Shah made the remarks in Chandigarh while addressing a gathering after inaugurating and laying the foundation stones for development projects worth Rs 258 crore.",
-    "img": "https://static.toiimg.com/photo/msid-135425486,imgsize-109382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rahuls-ramlila-jalsa-to-rub-salt-in-wounds-of-1984-sikh-riot-victims-amit-shah/articleshow/135423470.cms",
-    "time": "2026-11-01T11:15:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Glenn Phillips scripts history, breaks world record in stunning series vs India",
     "desc": "Glenn Phillips made headlines by setting the record for the most runs in a bilateral T20I series, scoring 341 runs against India. His series was marked by an impressive century and three half-centuries, showcasing his talent. Despite New Zealand's overall loss of 2-3, the team’s last match saw Tim Seifert shine with a fantastic 93, boosting morale as they look to build on this progress.",
@@ -376,24 +430,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/petrol-export-duty-cut-to-nil-diesel-levy-raised-by-3-a-litre/article71649004.ece",
     "time": "2026-11-01T10:48:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Gyanesh, when will you vanish?': Mamata mocks CEC; Akhilesh invokes Haldighati",
-    "desc": "During a rally at Ramlila Maidan on Sunday, senior leaders from the INDIA coalition raised alarms about electoral roll manipulation. They accused the BJP of endangering democracy through the Chief Election Commissioner. Opposition leaders like Rahul Gandhi and Mamata Banerjee demanded Gyanesh Kumar's removal and vowed to continue their campaign against him.",
-    "img": "https://static.toiimg.com/photo/msid-135425899,imgsize-100732.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-bloc-rally-mamata-mocks-gyanesh-kumar-akhilesh-says-parivartan-can-come-anytime-who-said-what/articleshow/135424656.cms",
-    "time": "2026-11-01T10:47:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Did they really have to choose this day?’ BJP targets Congress over INDIA bloc rally on anniversary of 1984 riots",
-    "desc": "BJP organized a protest march in West Delhi's Hari Nagar demanding an apology from Congress for the 1984 anti-Sikh violence. Union minister Hardeep Singh Puri described the killings as a well-planned genocide rather than a riot. Several leaders participated in the march, expressing concerns over Congress's perceived failure to acknowledge the tragedy. The protest coincided with the opposition's rally addressing electoral irregularities on the same day.",
-    "img": "https://static.toiimg.com/photo/msid-135424262,imgsize-1248694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/did-they-really-have-to-choose-this-day-bjp-targets-congress-over-india-bloc-rally-on-anniversary-of-1984-riots/articleshow/135423866.cms",
-    "time": "2026-11-01T10:26:18.000Z"
   },
   {
     "cat": "Sports",
@@ -477,33 +513,6 @@ const newsData_en = [
     "time": "2026-11-01T09:00:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Hrithik’s birthday note: Actor shares flight analogy for Saba",
-    "desc": "Hrithik Roshan wished girlfriend Saba Azad on her 40th birthday with a heartfelt Instagram note, saying he’d choose a long, eight-stop “layover” flight with her over a direct one every time. He looks forward to a “lifetime of long layovers.” Next, he will direct and star in ‘Krrish 4’.",
-    "img": "https://static.toiimg.com/photo/msid-135422196,imgsize-413167.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-wishes-saba-azad-on-her-40th-birthday-with-heartfelt-layover-note-id-pick-the-2nd-option-every-time/articleshow/135421864.cms",
-    "time": "2026-11-01T08:47:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Subodh Bhave praises Prabhas’ warm behaviour on ‘Fauzi’ sets",
-    "desc": "Subodh Bhave is making his Telugu film debut portraying Netaji Subhas Chandra Bose in the upcoming movie Fauzi. He shared his positive experience of working with Prabhas, despite limited interaction during their first day of shooting. Bhave noted Prabhas' friendly behavior and comfortable approach on set. Fauzi has faced criticism for its portrayal of historical events involving Netaji and Adolf Hitler.",
-    "img": "https://static.toiimg.com/photo/msid-135422040,imgsize-127260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/fauzis-subodh-bhave-calls-prabhas-fantastic-human-being-recalls-working-with-the-baahubali-actor-and-anupam-kher/articleshow/135421975.cms",
-    "time": "2026-11-01T08:42:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ram Gopal Varma receives legal notice seeking Rs. 29.67 crore over 2010 agreement",
-    "desc": "Filmmaker Ram Gopal Varma is facing legal action from Eclatant Films due to a contract breach. The production company is seeking Rs. 29.67 crore, which includes the principal amount and interest, as Varma reportedly failed to adhere to the terms of their agreement from April 10, 2010. The Bombay High Court backed this contract in 2013.",
-    "img": "https://static.toiimg.com/photo/msid-135421896,imgsize-56451.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ram-gopal-varma-gets-legal-notice-seeking-rs-29-67-crore-over-2010-agreement-production-house-warns-industry-players-against-business-with-rgv/articleshow/135421863.cms",
-    "time": "2026-11-01T08:31:09.000Z"
-  },
-  {
     "cat": "World",
     "title": "Israeli protesters demand opposition ally with Arab parties to oust Netanyahu",
     "desc": "Arab-majority parties made major gains in elections, fuelled by anger over rhetoric targeting the community from Mr. Netanyahu’s hard-right government, but opposition chief Gadi Eisenkot has not decided whether to seek a coalition with them",
@@ -511,15 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/israeli-protesters-demand-opposition-ally-with-arab-parties-to-oust-netanyahu/article71652323.ece",
     "time": "2026-11-01T08:09:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Honey mourns nephew's death in Jalandhar accident",
-    "desc": "Vidit Olak, nephew of singer Yo Yo Honey Singh, and his friend Aarav Talwar died on November 1 when their car hit a parked Municipal Corporation tractor-trolley on a Jalandhar flyover. Honey Singh called it a “dark decade” for him. Police handed the bodies to the families, who sought no legal action.",
-    "img": "https://static.toiimg.com/photo/msid-135421431,imgsize-212137.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dark-decade-for-me-yo-yo-honey-singh-mourns-nephew-vidit-olaks-death-in-jalandhar-accident/articleshow/135421416.cms",
-    "time": "2026-11-01T08:00:26.000Z"
   },
   {
     "cat": "Sports",
@@ -585,15 +585,6 @@ const newsData_en = [
     "time": "2026-11-01T05:39:55.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Binance to resume withdrawals after recovering 95% of $6.3 billion crypto theft",
-    "desc": "Binance has announced a phased resumption of cryptocurrency withdrawals following a significant heist of $6.3 billion. The exchange reported it has recovered 95% of the stolen digital assets, enabling this process. The remaining 5% consists of less liquid tokens, which may require additional time to source. The FBI is investigating the cyberattack, linking it to a North Korean hacking group named TraderTraitor.",
-    "img": "https://static.toiimg.com/photo/msid-135418476,imgsize-77002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/binance-to-resume-withdrawals-after-recovering-95-of-6-3-billion-crypto-theft/articleshow/135418376.cms",
-    "time": "2026-11-01T05:11:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Virat Kohli, Rohit Sharma's day out in Auckland: Booming drives, plenty of edges and high intensity",
     "desc": "Virat Kohli and Rohit Sharma stepped up their ODI preparations at Eden Park, but it was Auqib Nabi who grabbed attention with an impressive spell, troubling both senior batters with movement in the air and off the pitch. While Kohli focused on attacking intent and finished with high-intensity sprints, Rohit had a light-hearted Karan Aujla moment with local cricketers.",
@@ -601,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-rohit-sharmas-day-out-in-auckland-booming-drives-plenty-of-edges-and-high-intensity/articleshow/135416274.cms",
     "time": "2026-11-01T03:33:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Apple reclaims world's most valuable company title as Nvidia slips amid AI investment concerns",
-    "desc": "Apple has reclaimed the position of the world's most valuable company, surpassing Nvidia amid rising concerns. Both companies have seen their stock prices decline, with Apple falling 1.2 percent and Nvidia 4.2 percent. Significant investments in artificial intelligence by major firms have raised questions regarding long-term sustainability. Apple's limited capital expenditure on AI compared to rivals has attracted investor interest and boosted free cash flow projections.",
-    "img": "https://static.toiimg.com/photo/msid-135416595,imgsize-33892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/apple-reclaims-worlds-most-valuable-company-title-as-nvidia-slips-amid-ai-investment-concerns/articleshow/135416397.cms",
-    "time": "2026-11-01T03:31:53.000Z"
   },
   {
     "cat": "World",
@@ -640,15 +622,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Council clears simpler registration and faster refunds; small online sellers gain",
-    "desc": "Starting November 1, new Goods and Services Tax procedures will offer a streamlined experience for businesses. Small online sellers can enjoy simplified registration and access to e-commerce operators' warehouses. The GST portal's enhanced user-friendliness will minimize registration errors. Automated refunds will speed up processing, reducing manual oversight. Additionally, businesses will have more freedom to manage post-supply discounts without rigid stipulations.",
-    "img": "https://static.toiimg.com/photo/msid-135405405,imgsize-60118.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gst-changes-from-november-1-easier-registration-for-online-sellers-faster-refunds-and-simpler-discount-rules/articleshow/135405322.cms",
-    "time": "2026-10-31T15:54:28.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Towards recognising women farmers",
     "desc": "Maharashtra’s passage of the Women Farmers’ Empowerment Bill, granting women independent recognition as farmers irrespective of land ownership, brings into focus the structural bias against the female agricultural workforce, highlights the need for a database of women farmers and using it to ensure access to welfare schemes",
     "img": "https://th-i.thgim.com/public/incoming/hdhkhf/article71497034.ece/alternates/LANDSCAPE_1200/9712_4_9_2026_14_4_0_1__DSC5062_1.JPG",
@@ -664,15 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/why-investors-are-worried-despite-alphabets-25-revenue-growth-and-google-clouds-revenue-more-than-doubling-explained/article71648845.ece",
     "time": "2026-10-31T12:27:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Sebi monitoring all developments,’ says chairman Tuhin Kanta Pandey",
-    "desc": "Currently, SEBI is taking charge of governance issues within Tata Sons, the umbrella organization for Tata Group. While Tata Sons is not publicly traded, its subsidiary companies are required to follow SEBI regulations. The regulatory authority has confirmed its vigilant oversight of governance-related events within the group. Additionally, seven listed Tata Group firms have a stake in Tata Sons, and Tata Trusts holds the majority with approximately 66 percent shares.",
-    "img": "https://static.toiimg.com/photo/msid-135400318,imgsize-36662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-row-sebi-monitoring-all-developments-says-chairman-tuhin-kanta-pandey/articleshow/135400204.cms",
-    "time": "2026-10-31T11:59:03.000Z"
   },
   {
     "cat": "Tech",
@@ -718,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/flavio-bolsonaro-says-he-left-brazil-because-he-is-the-victim-of-persecution/article71648100.ece",
     "time": "2026-10-31T04:29:17.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S., South Korea, Japan vow ‘complete’ North Korea’s denuclearisation",
-    "desc": "Speculation is mounting over a potential meeting between U.S. President Donald Trump and North Korean leader Kim Jong Un at next month’s APEC summit in China, with Mr. Trump making repeated overtures to Pyongyang for nuclear talks",
-    "img": "https://th-i.thgim.com/public/incoming/njkv9v/article71648164.ece/alternates/LANDSCAPE_1200/2026-10-30T064256Z_417233320_RC29DOACZ2FD_RTRMADP_3_NORTHKOREA-ARMS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-south-korea-japan-vow-complete-north-korea-denuclearisation/article71648121.ece",
-    "time": "2026-10-31T03:28:23.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
