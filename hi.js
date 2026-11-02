@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Australian allrounder Glenn Maxwell announces retirement from international cricket",
+    "desc": "Australian allrounder Glenn Maxwell on Monday announced his retirement from international cricket, bringing an end to his over a decade-long career. Known for his aggressive style of play, the 38-year-old had represented Australia across all three...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australian-allrounder-glenn-maxwell-announces-retirement-from-international-cricket-2026-11-02-1058530",
+    "time": "2026-11-02T18:21:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India A squad for Rising Stars Asia Cup 2026 announced, Tilak Varma named captain",
+    "desc": "The BCCI (Board of Control for Cricket in India) came forward and announced India A’s squad for the upcoming edition of the ACC Men’s Rising Stars Asia Cup 2026. The tournament will be held in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-a-squad-for-rising-stars-asia-cup-2026-announced-tilak-varma-named-captain-2026-11-02-1058514",
+    "time": "2026-11-02T13:08:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kyle Verreynne, Ashwell Prince found in breach of ICC's Code of Conduct, handed one demerit point each",
+    "desc": "In a major blow for CSA (Cricket South Africa), the side’s star player, Kyle Verreynne, and batting coach, Ashwell Prince, have been found in breach of the ICC’s Code of Conduct and have been handed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kyle-verreynne-ashwell-prince-found-in-breach-of-icc-s-code-of-conduct-handed-one-demerit-point-each-2026-11-02-1058509",
+    "time": "2026-11-02T11:59:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Erik Ten Hag points out where he realised it was 'over' for Cristiano Ronaldo",
+    "desc": "Former Manchester United head coach Erik Ten Hag has been quite active in interviews of the late former coach of the Red Devils. He had an unfortunate exit from the club after he was sacked...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/erik-ten-hag-points-out-where-he-realised-it-was-over-for-cristiano-ronaldo-2026-11-02-1058504",
+    "time": "2026-11-02T10:58:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Wasim Jaffer weighs in on Shreyas Iyer's performances as India clinch T20I series against NZ",
     "desc": "The T20I series between India and New Zealand came to a conclusion with the Indian team clinching the five-game series with a score of 3-2. It is worth noting that the Men in Blue kicked...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-breaks-phil-salt-s-elite-record-wins-player-of-the-series-award-after-india-t20is-2026-11-01-1058442",
     "time": "2026-11-01T13:35:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer weighs in on India's performance as NZ register dominant seven wicket win in Hamilton",
-    "desc": "New Zealand put forth a brilliant showing in the fifth and final T20I of the ongoing series against India. The two sides met at Seddon Park in Hamilton for the clash on November 1st, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-weighs-in-on-india-s-performance-as-nz-register-dominant-seven-wicket-win-in-hamilton-2026-11-01-1058437",
-    "time": "2026-11-01T11:57:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tim Seifert's masterclass propels NZ to a win in Hamilton, defeat India by seven wickets in fifth T20I",
-    "desc": "The Indian team took on New Zealand in the fifth and final T20I of the ongoing series. The teams met at Seddon Park in Hamilton for the clash on November 1st, and it was New...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tim-seifert-s-masterclass-propels-nz-to-a-win-in-hamilton-defeat-india-by-seven-wickets-in-fifth-t20i-2026-11-01-1058433",
-    "time": "2026-11-01T10:56:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arshdeep Singh equals Tim Southee's record with stellar start against New Zealand in fifth T20I",
-    "desc": "The Indian team took on New Zealand in the fifth T20I of the ongoing series. The teams met at Seddon Park in Hamilton for the clash on November 1st. The clash began with India coming...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-equals-tim-southee-s-record-with-stellar-start-against-new-zealand-in-fifth-t20i-2026-11-01-1058428",
-    "time": "2026-11-01T10:16:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan surpasses Suryakumar Yadav in an elite list with spectacular show against New Zealand in Hamilton",
-    "desc": "The Indian team took on New Zealand in the fifth and final T20I of the ongoing series. The teams met at Seddon Park in Hamilton for the clash, and the game saw India come in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-surpasses-suryakumar-yadav-in-an-elite-list-with-spectacular-show-against-new-zealand-in-hamilton-2026-11-01-1058426",
-    "time": "2026-11-01T09:17:11.000Z"
   }
 ];
