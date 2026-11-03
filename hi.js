@@ -1,92 +1,92 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pratika Rawal opens up on her heartbreaking injury during ODI World Cup, reflects on her comeback",
+    "desc": "Star India batter Pratika Rawal has come forward and talked about the heartbreaking injury that she suffered at the ODI World Cup 2025. It is worth noting that Pratika Rawal injured herself during the clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pratika-rawal-opens-up-on-her-heartbreaking-injury-during-odi-world-cup-reflects-on-her-comeback-2026-11-03-1058599",
+    "time": "2026-11-03T12:45:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I'm sort of flabbergasted': Jamie Carragher names Arsenal star as the best player in the Premier League",
+    "desc": "Defending Premier League champions Arsenal FC are once again at the top of the league standings. After a magnificent season in 2025/26, the side has once again managed to clinch the top spot in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/i-m-sort-of-flabbergasted-jamie-carragher-names-arsenal-star-as-the-best-player-in-the-premier-league-2026-11-03-1058597",
+    "time": "2026-11-03T11:31:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "VETO brings the iconic India vs Pakistan rivalry to your screens",
+    "desc": "VETO, India’s family-first, subscription-free OTT platform, has secured the streaming rights to the SAFF Championship 2026, adding another international sporting tournament to its growing live sports portfolio. Scheduled to take place from November 5 to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/veto-secures-rights-to-saff-championship-2026-brings-ind-pak-rivalry-to-football-fans-in-india-2026-11-03-1058589",
+    "time": "2026-11-03T10:24:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Should Michael Carrick be blamed for Lisandro Martinez's blunder against Chelsea? Former footballer opines",
+    "desc": "Manchester United’s horrid form in the ongoing 2026/27 season refuses to change. The 20-time Premier League champions sit in 17th place in the league standings with just one victory in the nine games that they...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/should-michael-carrick-be-blamed-for-lisandro-martinez-s-blunder-against-chelsea-former-footballer-opines-2026-11-03-1058583",
+    "time": "2026-11-03T09:36:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill issues update on Hardik Pandya ahead of NZ ODIs, weighs in on India's squad composition",
+    "desc": "The stage is set for the ODI series between India and New Zealand. With the conclusion of the T20I series, the two sides will now take on each other across five ODI matches, with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-issues-update-on-hardik-pandya-ahead-of-nz-odis-weighs-in-on-india-s-squad-composition-2026-11-03-1058575",
+    "time": "2026-11-03T08:33:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ireland women's Rebecca Stokell admits to breaching the ICC's anti-doping code, enters voluntary suspension",
+    "desc": "In a major blow to Cricket Ireland, the women's team’s star batter Rebecca Stokell has admitted to breaching the ICC’s (International Cricket Council) anti-doping code. It is worth noting that Stokell provided a sample during...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ireland-women-s-rebecca-stokell-admits-to-breaching-the-icc-s-anti-doping-code-enters-voluntary-suspension-2026-11-03-1058569",
+    "time": "2026-11-03T07:33:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Brendon McCullum shifts focus onto ODI cricket as England gear up for Australia series",
+    "desc": "The stage is set for the upcoming multi-format white-ball series between archrivals Australia and England. The two sides are slated to take on each other across three ODI matches and will follow it up with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/brendon-mccullum-shifts-focus-onto-odi-cricket-as-england-gear-up-for-australia-series-2026-11-03-1058561",
+    "time": "2026-11-03T06:42:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Report",
+    "desc": "In a major development, the upcoming first ODI of the series between India and Sri Lanka is likely to be moved out of Delhi. After the conclusion of India’s series against New Zealand, the Men...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-sri-lanka-odi-clash-likely-to-be-moved-out-of-delhi-report-2026-11-03-1058557",
+    "time": "2026-11-03T05:45:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Devon Conway ruled out of upcoming ODI series against India due to collision with pacer in training",
+    "desc": "In a major blow to NZC (New Zealand Cricket), the board recently came forward and announced that star batter Devon Conway has been ruled out of the upcoming ODI series against the Indian team. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/devon-conway-ruled-out-of-upcoming-odi-series-against-india-due-to-collision-with-pacer-in-training-check-details-2026-11-03-1058554",
+    "time": "2026-11-03T05:12:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Australian allrounder Glenn Maxwell announces retirement from international cricket",
     "desc": "Australian allrounder Glenn Maxwell on Monday announced his retirement from international cricket, bringing an end to his over a decade-long career. Known for his aggressive style of play, the 38-year-old had represented Australia across all three...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/australian-allrounder-glenn-maxwell-announces-retirement-from-international-cricket-2026-11-02-1058530",
     "time": "2026-11-02T18:21:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India A squad for Rising Stars Asia Cup 2026 announced, Tilak Varma named captain",
-    "desc": "The BCCI (Board of Control for Cricket in India) came forward and announced India A’s squad for the upcoming edition of the ACC Men’s Rising Stars Asia Cup 2026. The tournament will be held in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-a-squad-for-rising-stars-asia-cup-2026-announced-tilak-varma-named-captain-2026-11-02-1058514",
-    "time": "2026-11-02T13:08:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kyle Verreynne, Ashwell Prince found in breach of ICC's Code of Conduct, handed one demerit point each",
-    "desc": "In a major blow for CSA (Cricket South Africa), the side’s star player, Kyle Verreynne, and batting coach, Ashwell Prince, have been found in breach of the ICC’s Code of Conduct and have been handed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kyle-verreynne-ashwell-prince-found-in-breach-of-icc-s-code-of-conduct-handed-one-demerit-point-each-2026-11-02-1058509",
-    "time": "2026-11-02T11:59:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Erik Ten Hag points out where he realised it was 'over' for Cristiano Ronaldo",
-    "desc": "Former Manchester United head coach Erik Ten Hag has been quite active in interviews of the late former coach of the Red Devils. He had an unfortunate exit from the club after he was sacked...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/erik-ten-hag-points-out-where-he-realised-it-was-over-for-cristiano-ronaldo-2026-11-02-1058504",
-    "time": "2026-11-02T10:58:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Wasim Jaffer weighs in on Shreyas Iyer's performances as India clinch T20I series against NZ",
-    "desc": "The T20I series between India and New Zealand came to a conclusion with the Indian team clinching the five-game series with a score of 3-2. It is worth noting that the Men in Blue kicked...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wasim-jaffer-weighs-in-on-shreyas-iyer-s-performances-as-india-clinch-t20i-series-against-nz-2026-11-02-1058494",
-    "time": "2026-11-02T09:47:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Glenn Phillips surpasses Abhishek Sharma in an elite list as New Zealand defeat India in the fifth T20I",
-    "desc": "New Zealand registered a dominant win in the fifth and final T20I of the series against India. The two sides met at Seddon Park in Hamilton for the clash on November 1st, and the Black Caps...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-surpasses-abhishek-sharma-in-an-elite-list-as-new-zealand-defeat-india-in-the-fifth-t20i-2026-11-02-1058490",
-    "time": "2026-11-02T08:54:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Andrew McDonald opens up Marnus Labuschagne's future with Australia amid continued subpar form",
-    "desc": "Australia are coming into the back of a disappointing series loss against South Africa. The two sides met across three Test matches, where despite winning the first Test, Australia succumbed to losses in the second...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/andrew-mcdonald-opens-up-marnus-labuschagne-s-future-with-australia-amid-continued-subpar-form-2026-11-02-1058486",
-    "time": "2026-11-02T08:00:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cricket Australia name squads for white-ball series against England, Mahli Beardman set for ODI debut",
-    "desc": "In a major development, CA (Cricket Australia) came forward and named the squad for the upcoming white-ball series against England. The two arch-rivals will be taking on each other across three ODIs and three T20I...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cricket-australia-name-squads-for-white-ball-series-against-england-mahli-beardman-set-for-odi-debut-2026-11-02-1058478",
-    "time": "2026-11-02T06:46:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand dealt heavy blow ahead of India ODIs, two star players ruled out of upcoming series; Check details",
-    "desc": "The stage is set for the upcoming five-game ODI series between India and New Zealand. The two sides will meet across five ODI matches, with the first ODI slated to be held on November 4,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-dealt-heavy-blow-ahead-of-india-odis-two-star-players-ruled-out-of-upcoming-series-check-details-2026-11-02-1058476",
-    "time": "2026-11-02T06:03:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Glenn Phillips breaks Phil Salt's elite record, wins Player of the Series award after India T20Is",
-    "desc": "New Zealand performed exceptionally well in the fifth and final T20I of the ongoing series against India. The teams met at Seddon Park in Hamilton for the clash on November 1st, and the Black Caps...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-breaks-phil-salt-s-elite-record-wins-player-of-the-series-award-after-india-t20is-2026-11-01-1058442",
-    "time": "2026-11-01T13:35:14.000Z"
   }
 ];
