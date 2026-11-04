@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Arsenal are favourites, but I am backing Manchester City to win Premier League title: David James",
+    "desc": "Former Premier League and Kerala Blasters goalkeeper David James expects Manchester City to go on and lift the title again. He highlighted that defending champions Arsenal are the favourites to do it again, but City...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/arsenal-are-favourites-but-i-am-backing-manchester-city-to-win-premier-league-title-david-james-2026-11-04-1058695",
+    "time": "2026-11-04T14:42:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "1980 Olympic gold medal stolen as former Hockey player M M Somaya lodges FIR in Bengaluru",
+    "desc": "Former Indian hockey player M M Somaya lodged an official police complaint after his 1980 Moscow Olympics gold medal, among several valuable possessions, was stolen from his residence in Bengaluru. He was away with his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/1980-olympic-gold-medal-stolen-as-former-hockey-player-m-m-somaya-lodges-fir-in-bengaluru-2026-11-04-1058693",
+    "time": "2026-11-04T14:12:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB to play MI in season opener as WPL announces schedule for 2027 season; check full details",
+    "desc": "Women’s Premier League has announced its schedule for the 2027 season. Defending champions Royal Challengers Bengaluru will host Mumbai Indians in the opening game on January 14 in Vadodara. The final will be held on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-to-play-mi-in-season-opener-as-wpl-announces-schedule-for-2027-season-check-full-details-2026-11-04-1058686",
+    "time": "2026-11-04T13:17:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mitchell Starc surpasses Marco Jansen, becomes number-one ranked ICC Test bowler",
+    "desc": "Mitchell Starc has once again become ICC’s number-one ranked Test bowler after an impressive performance in Australia's third Test against South Africa in Cape Town. He surpassed Marco Jansen for the spot, who had occupied...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-surpasses-marco-jansen-becomes-number-one-ranked-icc-test-bowler-2026-11-04-1058680",
+    "time": "2026-11-04T12:25:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli breaks Sachin Tendulkar's world record in first ODI vs New Zealand in Auckland",
+    "desc": "Virat Kohli broke Sachin Tendulkar's long-standing record for most ODI runs during chases. He reached the milestone during India's five-wicket victory over New Zealand in the opening match of the series in Auckland on Wednesday....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-sachin-tendulkar-s-world-record-in-first-odi-vs-new-zealand-in-auckland-2026-11-04-1058673",
+    "time": "2026-11-04T11:29:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Blair Tickner equals world record with charismatic batting show in first ODI vs India in Auckland",
+    "desc": "New Zealand ace pacer Blair Tickner produced a blistering show in the opening ODI against India at Eden Park in Auckland. The 33-year-old smacked 34 runs off 23 balls in the middle and during which...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/blair-tickner-equals-world-record-with-charismatic-batting-show-in-first-odi-vs-india-in-auckland-2026-11-04-1058665",
+    "time": "2026-11-04T10:27:07.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli smacks 74, secures win after India's pace attack demolishes New Zealand in first ODI",
     "desc": "India defeated New Zealand by five wickets in the first of the five-match ODI series at Eden Park in Auckland. The rain affected the play heavily in the second innings, but that didn’t spoil India’s...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-becomes-first-cricketer-to-register-major-milestone-in-first-odi-against-new-zealand-in-auckland-2026-11-04-1058649",
     "time": "2026-11-04T07:44:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bruno Fernandes weighs in on Michael Carrick and his time as coach after MUFC return to winning ways",
-    "desc": "After going nine games without a victory, Manchester United have managed to register a win as they defeated Roma with a brilliant score of 3-2 as Matheus Cunha scripted a comeback for the Red Devils...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/bruno-fernandes-weighs-in-on-michael-carrick-and-his-time-as-coach-after-mufc-return-to-winning-ways-2026-11-04-1058646",
-    "time": "2026-11-04T07:27:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli grabs one-handed stunner, celebrates with Diwali gesture in first ODI vs New Zealand: WATCH",
-    "desc": "Virat Kohli's spectacular effort at second slip grabbed the headlines in the opening of the five-match ODI series against New Zealand at Eden Park in Auckland. After grabbing a one-handed stunner to dismiss Nathan Smith,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-grabs-one-handed-stunner-celebrates-with-diwali-gesture-in-first-odi-vs-new-zealand-watch-2026-11-04-1058643",
-    "time": "2026-11-04T07:03:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arshdeep Singh joins Javagal Srinath and Mohammed Shami in an elite list with four-wicket haul against NZ",
-    "desc": "The Indian team took on New Zealand in the first ODI of the ongoing series. The two sides met at Eden Park in Auckland on November 4th, and the game began with the Men in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-joins-javagal-srinath-and-mohammed-shami-in-an-elite-list-with-four-wicket-haul-against-nz-2026-11-04-1058642",
-    "time": "2026-11-04T06:43:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma shows off exceptional reflexes to run out Daryl Mitchell in first ODI against NZ",
-    "desc": "The Indian team kicked off their ODI series against New Zealand by taking on the Black Caps in the first ODI of the series. The two sides met at Eden Park in Auckland on November...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-shows-off-exceptional-reflexes-to-run-out-daryl-mitchell-in-first-odi-against-nz-watch-2026-11-04-1058630",
-    "time": "2026-11-04T05:07:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shane Deitz steps down as West Indies women's head coach, Andre Coley to take up interim duties",
-    "desc": "In a major development for CWI (Cricket West Indies), the women’s team’s head coach, Shane Deitz, has stepped down from his role with immediate effect. After three years in the role, Deitz has departed as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shane-deitz-steps-down-as-west-indies-women-s-head-coach-andre-coley-to-take-up-interim-duties-2026-11-04-1058625",
-    "time": "2026-11-04T04:07:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Mohammed Siraj not playing India's first ODI against New Zealand in Auckland?",
-    "desc": "The Indian team takes on New Zealand in the first ODI of the ongoing series between the two sides. The teams meet at Eden Park in Auckland for the clash on November 4th, and the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-mohammed-siraj-not-playing-india-s-first-odi-against-new-zealand-in-auckland-2026-11-04-1058618",
-    "time": "2026-11-04T02:07:19.000Z"
   }
 ];
