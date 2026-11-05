@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Suhail Bhat scores brace, Kipgen another as India lead 3-0",
+    "desc": "India will face Pakistan in a high-stakes SAFF Championship 2026 encounter in Dhaka on Thursday, with the defending champions looking to overcome significant squad limitations and maintain their dominance over their arch-rivals. The Group B fixture,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/ind-vs-pak-saff-championship-live-india-vs-pakistan-score-tactical-analysis-commentary-highlight-reaction-1058746",
+    "time": "2026-11-05T09:02:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Liam Livingstone moves to CSK, as five-time champions engage in 4 trades with SRH",
+    "desc": "Chennai Super Kings and Sunrisers Hyderabad have completed a four-player trade ahead of IPL 2027, with Liam Livingstone and Jack Edwards moving to CSK. On the other hand. Khaleel Ahmed and Nathan Ellis join SRH....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/liam-livingstone-moves-to-csk-as-five-time-champions-engage-in-4-trades-with-srh-2026-11-05-1058744",
+    "time": "2026-11-05T08:46:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India set for blockbuster clash vs Pakistan in SAFF Championship 2026 opener",
+    "desc": "India will begin their SAFF Championship title defence against Pakistan in Dhaka on Thursday with a depleted squad, as club commitments and the timing of the fixture have prevented several players from joining the national...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/india-set-for-blockbuster-clash-vs-pakistan-in-saff-championship-2026-opener-2026-11-05-1058737",
+    "time": "2026-11-05T07:57:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli equals Ricky Ponting's world record in first ODI against New Zealand in Auckland",
+    "desc": "Virat Kohli once again delivered a match-winning performance as India defeated New Zealand by five wickets in the opening match of their five-game series at Eden Park, Auckland. Chasing a revised target of 143 under...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-equals-ricky-ponting-s-world-record-in-first-odi-against-new-zealand-in-auckland-2026-11-05-1058729",
+    "time": "2026-11-05T07:16:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Como become first team in UCL history to register extraordinary feat; Real Madrid, Man City survive scare",
+    "desc": "Como delivered one of the most extraordinary results in Champions League history. They scored nine goals against Lens in an away match, which established a new benchmark for the biggest away victory in the Champions...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/como-become-first-team-in-ucl-history-to-register-extraordinary-feat-real-madrid-man-city-survive-scare-2026-11-05-1058728",
+    "time": "2026-11-05T06:42:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India and Pakistan to lock horns today, watch LIVE match for free on VETO",
+    "desc": "India will begin their SAFF Championship 2026 campaign against Pakistan in Dhaka on Thursday, November 5. The defending champions will be put to the test early on, especially as many of the first squad members...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/saff-championship-india-and-pakistan-to-lock-horns-today-watch-live-match-for-free-on-veto-2026-11-05-1058723",
+    "time": "2026-11-05T05:44:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Arsenal are favourites, but I am backing Manchester City to win Premier League title: David James",
     "desc": "Former Premier League and Kerala Blasters goalkeeper David James expects Manchester City to go on and lift the title again. He highlighted that defending champions Arsenal are the favourites to do it again, but City...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-surpasses-marco-jansen-becomes-number-one-ranked-icc-test-bowler-2026-11-04-1058680",
     "time": "2026-11-04T12:25:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli breaks Sachin Tendulkar's world record in first ODI vs New Zealand in Auckland",
-    "desc": "Virat Kohli broke Sachin Tendulkar's long-standing record for most ODI runs during chases. He reached the milestone during India's five-wicket victory over New Zealand in the opening match of the series in Auckland on Wednesday....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-sachin-tendulkar-s-world-record-in-first-odi-vs-new-zealand-in-auckland-2026-11-04-1058673",
-    "time": "2026-11-04T11:29:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Blair Tickner equals world record with charismatic batting show in first ODI vs India in Auckland",
-    "desc": "New Zealand ace pacer Blair Tickner produced a blistering show in the opening ODI against India at Eden Park in Auckland. The 33-year-old smacked 34 runs off 23 balls in the middle and during which...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/blair-tickner-equals-world-record-with-charismatic-batting-show-in-first-odi-vs-india-in-auckland-2026-11-04-1058665",
-    "time": "2026-11-04T10:27:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli smacks 74, secures win after India's pace attack demolishes New Zealand in first ODI",
-    "desc": "India defeated New Zealand by five wickets in the first of the five-match ODI series at Eden Park in Auckland. The rain affected the play heavily in the second innings, but that didn’t spoil India’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-smacks-74-secures-win-after-india-s-pace-attack-demolishes-new-zealand-in-first-odi-2026-11-04-1058660",
-    "time": "2026-11-04T09:40:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer opens up on Hardik Pandya's trade rumours ahead of IPL 2027",
-    "desc": "The IPL (Indian Premier League) 2027 mini auction is looming on the horizon; ahead of the marquee event, there have been heavy rumours that star all-rounder Hardik Pandya could be traded from Mumbai Indians to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-hardik-pandya-s-trade-rumours-ahead-of-ipl-2027-2026-11-04-1058656",
-    "time": "2026-11-04T09:00:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mustafizur Rahman set for maiden BBL stint, signs for Melbourne Renegades ahead of new season",
-    "desc": "Veteran Bangladesh pacer Mustafizur Rahman is all set to play for the first time in the BBL (Big Bash League). Rahman has signed with Melbourne Renegades for the first time in his career and will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mustafizur-rahman-set-for-maiden-bbl-stint-signs-for-melbourne-renegades-ahead-of-new-season-2026-11-04-1058653",
-    "time": "2026-11-04T08:38:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli becomes first cricketer to register major milestone in first ODI against New Zealand in Auckland",
-    "desc": "Star India batter Virat Kohli became the first cricketer in ODI history to score 13,000 runs while batting at number three. He reached the milestone in the first ODI against New Zealand at Eden Park...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-becomes-first-cricketer-to-register-major-milestone-in-first-odi-against-new-zealand-in-auckland-2026-11-04-1058649",
-    "time": "2026-11-04T07:44:03.000Z"
   }
 ];
