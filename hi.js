@@ -1,7 +1,52 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Suhail Bhat scores brace, Kipgen another as India lead 3-0",
+    "title": "10 records he owns for Portugal and international football",
+    "desc": "Cristiano Ronaldo has announced his retirement from international football after a career that spans over 23 years. During his time, Portugal qualified for the Euro 2024 final, which Greece ended up winning 1-0. He avenged...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-retires-10-records-he-owns-for-portugal-and-international-football-2026-11-05-1058780",
+    "time": "2026-11-05T13:58:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's first ODI vs Sri Lanka shifted from Delhi, BCCI announces new venue",
+    "desc": "The first ODI between India and Sri Lanka, scheduled to be hosted on December 13, has been rescheduled from Delhi to Visakhapatnam. BCCI has confirmed the development, stating that the Delhi and District Cricket Association...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-s-first-odi-vs-sri-lanka-shifted-from-delhi-bcci-announces-new-venue-2026-11-05-1058776",
+    "time": "2026-11-05T13:10:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India weather Pakistan's late surge in SAFF Championship 2026 opener; Suhail Bhat's brace secures win",
+    "desc": "India have defeated Pakistan 3-2 in the SAFF Championship 2026 opener at the National Stadium in Dhaka. The Naushad Moosa-coached side was forced to play with a second-string squad as several of the players couldn’t...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-weather-pakistan-s-late-surge-in-saff-championship-2026-opener-suhail-bhat-s-brace-secures-win-2026-11-05-1058771",
+    "time": "2026-11-05T12:14:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When he moved aside two Coke bottles, triggering a $4 billion market-value drop",
+    "desc": "Cristiano Ronaldo has announced his retirement from international football, bringing an end to a 23-year career with Portugal. The 41-year-old leaves the national team as men's international football's record goalscorer, with 146 goals in 234...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-retirement-when-he-moved-aside-two-coke-bottles-triggering-a-4-billion-market-value-drop-2026-11-05-1058770",
+    "time": "2026-11-05T12:12:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cristiano Ronaldo announces shocking retirement from international football",
+    "desc": "Cristiano Ronaldo has officially announced his retirement from international football on Thursday, drawing the curtain on a monumental 23-year career with the Portugal national team. The 41-year-old superstar confirmed his decision in an emotional video...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-announces-international-retirement-from-portugal-2026-11-05-1058752",
+    "time": "2026-11-05T10:29:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India win 3-2 after dramatic end in Dhaka, Suhail scores brace",
     "desc": "India will face Pakistan in a high-stakes SAFF Championship 2026 encounter in Dhaka on Thursday, with the defending champions looking to overcome significant squad limitations and maintain their dominance over their arch-rivals. The Group B fixture,...",
     "img": "",
     "src": "indiatvnews.com",
@@ -11,7 +56,7 @@ const newsData_hi = [
   {
     "cat": "Sports",
     "title": "Liam Livingstone moves to CSK, as five-time champions engage in 4 trades with SRH",
-    "desc": "Chennai Super Kings and Sunrisers Hyderabad have completed a four-player trade ahead of IPL 2027, with Liam Livingstone and Jack Edwards moving to CSK. On the other hand. Khaleel Ahmed and Nathan Ellis join SRH....",
+    "desc": "Chennai Super Kings and Sunrisers Hyderabad have reshaped their squads ahead of IPL 2027 through a four-player exchange, with England all-rounder Liam Livingstone and Australian youngster Jack Edwards heading to Chennai, while Khaleel Ahmed and...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/liam-livingstone-moves-to-csk-as-five-time-champions-engage-in-4-trades-with-srh-2026-11-05-1058744",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/como-become-first-team-in-ucl-history-to-register-extraordinary-feat-real-madrid-man-city-survive-scare-2026-11-05-1058728",
     "time": "2026-11-05T06:42:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India and Pakistan to lock horns today, watch LIVE match for free on VETO",
-    "desc": "India will begin their SAFF Championship 2026 campaign against Pakistan in Dhaka on Thursday, November 5. The defending champions will be put to the test early on, especially as many of the first squad members...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/saff-championship-india-and-pakistan-to-lock-horns-today-watch-live-match-for-free-on-veto-2026-11-05-1058723",
-    "time": "2026-11-05T05:44:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arsenal are favourites, but I am backing Manchester City to win Premier League title: David James",
-    "desc": "Former Premier League and Kerala Blasters goalkeeper David James expects Manchester City to go on and lift the title again. He highlighted that defending champions Arsenal are the favourites to do it again, but City...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/arsenal-are-favourites-but-i-am-backing-manchester-city-to-win-premier-league-title-david-james-2026-11-04-1058695",
-    "time": "2026-11-04T14:42:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "1980 Olympic gold medal stolen as former Hockey player M M Somaya lodges FIR in Bengaluru",
-    "desc": "Former Indian hockey player M M Somaya lodged an official police complaint after his 1980 Moscow Olympics gold medal, among several valuable possessions, was stolen from his residence in Bengaluru. He was away with his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/1980-olympic-gold-medal-stolen-as-former-hockey-player-m-m-somaya-lodges-fir-in-bengaluru-2026-11-04-1058693",
-    "time": "2026-11-04T14:12:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB to play MI in season opener as WPL announces schedule for 2027 season; check full details",
-    "desc": "Women’s Premier League has announced its schedule for the 2027 season. Defending champions Royal Challengers Bengaluru will host Mumbai Indians in the opening game on January 14 in Vadodara. The final will be held on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-to-play-mi-in-season-opener-as-wpl-announces-schedule-for-2027-season-check-full-details-2026-11-04-1058686",
-    "time": "2026-11-04T13:17:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Starc surpasses Marco Jansen, becomes number-one ranked ICC Test bowler",
-    "desc": "Mitchell Starc has once again become ICC’s number-one ranked Test bowler after an impressive performance in Australia's third Test against South Africa in Cape Town. He surpassed Marco Jansen for the spot, who had occupied...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-surpasses-marco-jansen-becomes-number-one-ranked-icc-test-bowler-2026-11-04-1058680",
-    "time": "2026-11-04T12:25:57.000Z"
   }
 ];
