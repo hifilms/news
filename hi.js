@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mohammad Shami, ace Indian pacer, announces retirement from Test cricket",
+    "desc": "Indian fast bowler Mohammad Shami announced his retirement from Test cricket on Friday, bringing an end to a significant chapter in his international cricket career. The seasoned pacer shared the decision in an emotional social...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-shami-ace-indian-pacer-announces-retirement-from-test-cricket-2026-11-06-1058875",
+    "time": "2026-11-06T17:59:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harry Brook wants England to be 'fittest and strongest side in the world' ahead of ODI World Cup 2027",
+    "desc": "After a poor showing in the Pakistan tri-series, England will play Australia next in a three-match ODI series. Ahead of that, captain Harry Brook opened up on their recent struggles and the objectives to tick...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-wants-england-to-be-fittest-and-strongest-side-in-the-world-ahead-of-odi-world-cup-2027-2026-11-06-1058846",
+    "time": "2026-11-06T11:19:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aaryavir Sehwag blasts unbeaten 70, Lakshya hits half-century too as India thrash Nepal in U19 Asia Cup 2026",
+    "desc": "Aaryavir Sehwag, son of former cricketer Virender Sehwag, stole the show with his blistering batting in the India A’s opening clash against Nepal A in the U19 Asia Cup 2026. His opening partner and captain,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aaryavir-sehwag-blasts-unbeaten-70-lakshya-hits-half-century-too-as-india-thrash-nepal-in-u19-asia-cup-2026-2026-11-06-1058842",
+    "time": "2026-11-06T10:28:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 players Sunrisers Hyderabad (SRH) might release ahead of IPL 2027 retention deadline",
     "desc": "Despite retaining the likes of Abhishek Sharma, Heinrich Klaasen, Pat Cummins, Travis Head and Nitish Kumar Reddy ahead of the IPL mega auction in 2025, Sunrisers Hyderabad haven’t quite enjoyed success. They can gladly own...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-s-first-odi-vs-sri-lanka-shifted-from-delhi-bcci-announces-new-venue-2026-11-05-1058776",
     "time": "2026-11-05T13:10:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India weather Pakistan's late surge in SAFF Championship 2026 opener; Suhail Bhat's brace secures win",
-    "desc": "India have defeated Pakistan 3-2 in the SAFF Championship 2026 opener at the National Stadium in Dhaka. The Naushad Moosa-coached side was forced to play with a second-string squad as several of the players couldn’t...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-weather-pakistan-s-late-surge-in-saff-championship-2026-opener-suhail-bhat-s-brace-secures-win-2026-11-05-1058771",
-    "time": "2026-11-05T12:14:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When he moved aside two Coke bottles, triggering a $4 billion market-value drop",
-    "desc": "Cristiano Ronaldo has announced his retirement from international football, bringing an end to a 23-year career with Portugal. The 41-year-old leaves the national team as men's international football's record goalscorer, with 146 goals in 234...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-retirement-when-he-moved-aside-two-coke-bottles-triggering-a-4-billion-market-value-drop-2026-11-05-1058770",
-    "time": "2026-11-05T12:12:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo announces shocking retirement from international football",
-    "desc": "Cristiano Ronaldo has officially announced his retirement from international football on Thursday, drawing the curtain on a monumental 23-year career with the Portugal national team. The 41-year-old superstar confirmed his decision in an emotional video...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-announces-international-retirement-from-portugal-2026-11-05-1058752",
-    "time": "2026-11-05T10:29:47.000Z"
   }
 ];
