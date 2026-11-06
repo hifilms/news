@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 players Sunrisers Hyderabad (SRH) might release ahead of IPL 2027 retention deadline",
+    "desc": "Despite retaining the likes of Abhishek Sharma, Heinrich Klaasen, Pat Cummins, Travis Head and Nitish Kumar Reddy ahead of the IPL mega auction in 2025, Sunrisers Hyderabad haven’t quite enjoyed success. They can gladly own...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-players-sunrisers-hyderabad-srh-might-release-ahead-of-ipl-2027-retention-deadline-2026-11-06-1058831",
+    "time": "2026-11-06T08:32:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah, Ravindra Jadeja likely to feature for India A vs New Zealand; will Rishabh Pant play?",
+    "desc": "Rishabh Pant is unlikely to feature in the third India A match against New Zealand A as the keeper-batter is yet to recover from a side strain. He is still undergoing rehabilitation at the Centre...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-ravindra-jadeja-likely-to-feature-for-india-a-vs-new-zealand-will-rishabh-pant-play-2026-11-06-1058820",
+    "time": "2026-11-06T07:10:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "40 crore for one player? Marquee IPL players demand extraordinary fees for retention: Report",
+    "desc": "IPL franchises could be heading towards an expensive retention battle before the next mega auction, as some of the league's biggest names are reportedly seeking contracts worth INR 40 crore to continue with their current...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/40-crore-for-one-player-marquee-ipl-players-demand-extraordinary-fees-for-retention-report-2026-11-06-1058811",
+    "time": "2026-11-06T05:47:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia appoint Michael Hussey in expanded coaching role ahead of major cricketing events across formats",
+    "desc": "Cricket Australia has announced the appointment of Michael Hussey as consultant ahead of several marquee international events, including the 2027 Ashes, the ODI World Cup and the 2028 T20 events. The appointment will see Hussey...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-appoint-michael-hussey-in-expanded-coaching-role-ahead-of-major-cricketing-events-across-formats-2026-11-06-1058808",
+    "time": "2026-11-06T04:49:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Star New Zealand batter ruled out of remaining ODIs vs India; Matt Henry gets medical clearance",
+    "desc": "Star New Zealand batter Devon Conway has been ruled out of the ongoing ODI series against India after sustaining a concussion in a training-ground collision. New Zealand Cricket (NZC) has confirmed that he will no...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/star-new-zealand-batter-ruled-out-of-remaining-odis-vs-india-matt-henry-gets-medical-clearance-2026-11-06-1058805",
+    "time": "2026-11-06T04:12:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "10 records he owns for Portugal and international football",
     "desc": "Cristiano Ronaldo has announced his retirement from international football after a career that spans over 23 years. During his time, Portugal qualified for the Euro 2024 final, which Greece ended up winning 1-0. He avenged...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-announces-international-retirement-from-portugal-2026-11-05-1058752",
     "time": "2026-11-05T10:29:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India win 3-2 after dramatic end in Dhaka, Suhail scores brace",
-    "desc": "India will face Pakistan in a high-stakes SAFF Championship 2026 encounter in Dhaka on Thursday, with the defending champions looking to overcome significant squad limitations and maintain their dominance over their arch-rivals. The Group B fixture,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/ind-vs-pak-saff-championship-live-india-vs-pakistan-score-tactical-analysis-commentary-highlight-reaction-1058746",
-    "time": "2026-11-05T09:02:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Liam Livingstone moves to CSK, as five-time champions engage in 4 trades with SRH",
-    "desc": "Chennai Super Kings and Sunrisers Hyderabad have reshaped their squads ahead of IPL 2027 through a four-player exchange, with England all-rounder Liam Livingstone and Australian youngster Jack Edwards heading to Chennai, while Khaleel Ahmed and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/liam-livingstone-moves-to-csk-as-five-time-champions-engage-in-4-trades-with-srh-2026-11-05-1058744",
-    "time": "2026-11-05T08:46:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India set for blockbuster clash vs Pakistan in SAFF Championship 2026 opener",
-    "desc": "India will begin their SAFF Championship title defence against Pakistan in Dhaka on Thursday with a depleted squad, as club commitments and the timing of the fixture have prevented several players from joining the national...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/india-set-for-blockbuster-clash-vs-pakistan-in-saff-championship-2026-opener-2026-11-05-1058737",
-    "time": "2026-11-05T07:57:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli equals Ricky Ponting's world record in first ODI against New Zealand in Auckland",
-    "desc": "Virat Kohli once again delivered a match-winning performance as India defeated New Zealand by five wickets in the opening match of their five-game series at Eden Park, Auckland. Chasing a revised target of 143 under...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-equals-ricky-ponting-s-world-record-in-first-odi-against-new-zealand-in-auckland-2026-11-05-1058729",
-    "time": "2026-11-05T07:16:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Como become first team in UCL history to register extraordinary feat; Real Madrid, Man City survive scare",
-    "desc": "Como delivered one of the most extraordinary results in Champions League history. They scored nine goals against Lens in an away match, which established a new benchmark for the biggest away victory in the Champions...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/como-become-first-team-in-ucl-history-to-register-extraordinary-feat-real-madrid-man-city-survive-scare-2026-11-05-1058728",
-    "time": "2026-11-05T06:42:32.000Z"
   }
 ];
