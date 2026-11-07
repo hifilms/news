@@ -1,6 +1,96 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "NDA extends winning streak, set to crush YSRCP in ZPTC and MPTC elections as well",
+    "desc": "As of 9 p.m., the TDP wins 229 ZPTCs and 4,823 MPTCs, JSP 36 and 644, BJP eight and 130, and YSRCP 20 and 1,050; TDP upsets YSRCP by wresting Pulivendula ZPTC; fruit of good governance, says Lokesh",
+    "img": "https://th-i.thgim.com/public/incoming/1y18y3/article71678993.ece/alternates/LANDSCAPE_1200/DSC_9342.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-continues-its-winning-streak-set-to-crush-ysrcp-in-zptc-and-mptc-elections-as-well/article71678807.ece",
+    "time": "2026-11-07T20:50:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. may be heading towards a water crisis, unless northeast monsoon comes to the rescue",
+    "desc": "As of now, the aggregate storage in the major 15 irrigation reservoirs is about a third of the combined capacity of the reservoirs. In the corresponding period last year, the combined storage was around 92%",
+    "img": "https://th-i.thgim.com/public/incoming/5iodor/article71679454.ece/alternates/LANDSCAPE_1200/9868_24_10_2026_13_27_44_2_METTURDAM_2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-may-be-heading-towards-a-water-crisis-unless-northeast-monsoon-comes-to-the-rescue/article71678260.ece",
+    "time": "2026-11-07T19:22:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jaiswal smashes second ton of the A tour, hits top form ahead of Test series",
+    "desc": "Jaiswal (102 off 138), whose form became a matter of concern after the first red ball game of the tour, has regained his sublime touch ahead of the two Test series beginning on November 19",
+    "img": "https://th-i.thgim.com/public/incoming/zdd95t/article71679457.ece/alternates/LANDSCAPE_1200/th04-cric-indiaG4GGOINV2.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/jaiswal-smashes-second-ton-of-the-a-tour-hits-top-form-ahead-of-test-series/article71679447.ece",
+    "time": "2026-11-07T19:21:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Political leaders demand probe into irregularities in book procurement at Periyar Arivulagam",
+    "desc": "Palaniswami demands that a commission of inquiry be set up under the chairmanship of a former HC judge to probe the allegations. CPI(M) State secretary P. Shanmugam asserts that a regular police inquiry will not bring out the truth",
+    "img": "https://th-i.thgim.com/public/incoming/vtyxld/article71679441.ece/alternates/LANDSCAPE_1200/BVR_4379.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/political-leaders-demand-probe-into-irregularities-in-book-procurement-at-periyar-arivulagam/article71679143.ece",
+    "time": "2026-11-07T18:58:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2020, Keanu Reeves auctioned a 15-minute video call for USD 16,000 for a cancer non-profit amid the COVID pandemic",
+    "desc": "In a remarkable show of support, Keanu Reeves auctioned a 15-minute video call in 2020 to assist Camp Rainbow Gold, a cancer nonprofit facing funding issues. The event successfully raised USD 16,000, far exceeding its anticipated value. This charity auction also featured contributions from various celebrities, reflecting Reeves' ongoing commitment to philanthropy, influenced by his sister's struggle with leukemia.",
+    "img": "https://static.toiimg.com/photo/msid-135635941,imgsize-21656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2020-keanu-reeves-went-on-a-15-minute-online-date-with-a-stranger-during-the-covid-pandemic-to-support-a-nonprofit-helping-children-with-cancer-and-their-families-after-its-fundraising-event-was-cancelled/articleshow/135635904.cms",
+    "time": "2026-11-07T18:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhanush backs Sai Pallavi as Sita in 'Ramayana': 'Don’t understand noise around her casting'",
+    "desc": "At the pre-release event for 'Ramayana', Dhanush passionately supported Sai Pallavi's portrayal of Sita, praising her intense dedication and sincerity. He reflected on their previous work together, noting how much her confidence has blossomed. In 'OM', she embarks on the role of a CBI officer delving into illegal red sandalwood activities, promising to captivate audiences with a story steeped in the richness of Indian culture.",
+    "img": "https://static.toiimg.com/photo/msid-135644334,imgsize-689516.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhanush-backs-sai-pallavi-as-sita-in-ramayana-saying-i-dont-understand-the-noise-around-her-casting-no-one-else-could-have-done-justice-even-if-india-was-searched/articleshow/135644282.cms",
+    "time": "2026-11-07T18:08:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2025, Noel Gallagher bought his London mansion; a year later, he finally secured planning permits for construction",
+    "desc": "Noel Gallagher has received planning approval for an extensive renovation of his Grade II-listed mansion. The plans include a private cinema, gym, and sauna, among other luxury amenities. Structural issues such as roof leaks and damp are also being addressed during the renovation. Additionally, Gallagher aims to restore original historical features while using sustainable materials throughout the project. He owns other properties, including an 18th-century country mansion in Hampshire.",
+    "img": "https://static.toiimg.com/photo/msid-135635819,imgsize-47064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/in-2025-noel-gallagher-bought-his-mid-19th-century-london-mansion-applied-to-get-it-restored-and-renovated-and-has-now-finally-secured-a-legal-permit-for-planning-purposes/articleshow/135635747.cms",
+    "time": "2026-11-07T17:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Adkar, Bhosale become first Indian women's pair to reach final at main WTA Tour level",
+    "desc": "India’s Vaishnavi Adkar and Rutuja Bhosale made history at the Chennai Open, becoming the first all-Indian women’s pair to reach a main WTA Tour doubles final. They defeated second seeds Weronika Falkowska and Alana Smith 6-2, 2-6, 10-8 after a thrilling comeback in the super tie-break. They will face Swiss duo Naima Karamoko and Simona Waltert in the final.",
+    "img": "https://static.toiimg.com/photo/msid-135643222,imgsize-8678224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/vaishnavi-adkar-rutuja-bhosale-create-tennis-history-become-first-indian-womens-pair-to-reach-final-at-main-wta-tour-level/articleshow/135642890.cms",
+    "time": "2026-11-07T17:27:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Tough' stance on Kishau Dam project laid ground for victory in BBMB dues case: Himachal CM",
+    "desc": "Sukhvinder Singh Sukhu says he had consistently raised the issue of dues arising from BBMB projects and made it clear to the Centre that the rights of Himachal Pradesh in the matter must be resolved before any further progress was made on the Kishau Dam project",
+    "img": "https://th-i.thgim.com/public/incoming/dm4sdd/article71679375.ece/alternates/LANDSCAPE_1200/PTI10_16_2026_000341B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/himachal-pradesh/tough-stance-on-kishau-dam-project-laid-ground-for-victory-in-bbmb-dues-case-himachal-cm/article71679262.ece",
+    "time": "2026-11-07T17:26:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How much more can Carlos Alcaraz earn after securing €290,960 at Paris Masters 2026?",
+    "desc": "Carlos Alcaraz has reached his first Paris Masters semi-final after saving two match points to defeat Taylor Fritz in a dramatic comeback. The Spaniard now faces Casper Ruud for a place in Sunday's final, with €974,370 in prize money awaiting the champion. A victory would guarantee Alcaraz €532,120 and boost his ranking points ahead of the season's conclusion.",
+    "img": "https://static.toiimg.com/photo/msid-135642913,imgsize-172880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/paris-masters-2026-carlos-alcarazs-potential-eye-watering-prize-money-revealed-as-he-eyes-maiden-final-after-securing-290960-for-reaching-semis/articleshow/135641576.cms",
+    "time": "2026-11-07T17:22:51.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "CJP founder launches scathing attack on Central government",
     "desc": "Addressing a protest named ‘Jantar Mantar @ Kochi’ demanding the resignation of Chief Election Commissioner Gyanesh Kumar over the alleged irregularities in the Special Intensive Revision (SIR), Abhijeet Dipke stresses that “Modi will go out in 2029.”",
     "img": "https://th-i.thgim.com/public/incoming/nsdzzc/article71679315.ece/alternates/LANDSCAPE_1200/abhijeet_dipke_08.jpg",
@@ -81,42 +171,6 @@ const newsData_en = [
     "time": "2026-11-07T15:48:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "A half-century of rhythm: T.R. Chandran from Thrissur, a constant at Chembai Sangeetholsavam",
-    "desc": "As Chembai Sangeetholsavam celebrates its golden jubilee, T.R. Chandran has been a regular at the fete since 1977; his wife, Sathi, is also a dedicated music teacher. Music keeps the light alive for this visually couple",
-    "img": "https://th-i.thgim.com/public/incoming/bw5n3o/article71675441.ece/alternates/LANDSCAPE_1200/80688_6_11_2026_20_38_42_1_IMG_20261106_WA0008.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/a-half-century-of-rhythm-tr-chandran-from-thrissur-a-constant-at-chembai-sangeetholsavam/article71675096.ece",
-    "time": "2026-11-07T15:32:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 2012, Rihanna started her nonprofit; years later, she’s invested millions and is turning a school into a hurricane shelter",
-    "desc": "St. Elizabeth's Hopewell Primary School is about to receive a major facelift thanks to Rihanna's Clara Lionel Foundation. This initiative, with a budget of USD 1.44 million, is designed not just for educational enhancement but also to ensure safety during emergencies. Set to wrap up in December 2026, the project embodies a commitment to climate resilience and better infrastructure in the Caribbean region.",
-    "img": "https://static.toiimg.com/photo/msid-135635363,imgsize-50652.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/in-2012-rihanna-established-her-foundation-years-later-she-is-turning-a-jamaican-primary-school-into-a-hurricane-shelter-for-the-community-to-keep-them-safe-during-extreme-weather/articleshow/135635261.cms",
-    "time": "2026-11-07T15:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ex-Keralam Excise Commissioner Seeram Sambasiva Rao flags corruption, bribery in report to govt",
-    "desc": "Report names Joint Excise Commissioner S. Vinod and Deputy Commissioner Ajay and recommends their immediate removal from field postings and a Vigilance probe against them. It also mentions that Excise Minister M. Liju has a close acquaintance with a bar in Kayamkulam, although there are no details about what kind of relationship the Minister was maintaining with bar authorities",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/qpkfks/article71677434.ece/alternates/LANDSCAPE_1200/16ct_collector.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ex-keralam-excise-commissioner-flags-corruption-bribery-in-report-to-govt-cpim-alleges-ministers-involvement/article71677415.ece",
-    "time": "2026-11-07T15:22:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NDA continues its winning streak, set to crush YSRCP in ZPTC and MPTC elections as well",
-    "desc": "The TDP-led coalition is far ahead in the race, winning in over 320 ZPTCs, including 77 that have been declared as unanimously elected, and leading in nearly 100 others; a similar picture is unfolding in 7,767 MPTCs; in major setback to YSRCP chief Jagan, the TDP wins Pulivendula ZPTC too",
-    "img": "https://th-i.thgim.com/public/incoming/1y18y3/article71678993.ece/alternates/LANDSCAPE_1200/DSC_9342.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-continues-its-winning-streak-set-to-crush-ysrcp-in-zptc-and-mptc-elections-as-well/article71678807.ece",
-    "time": "2026-11-07T15:22:46.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "INSIDE Shreya Ghoshal's Mumbai home: Cosy cream walls, rehearsal piano and balcony with city view",
     "desc": "Singer Shreya Ghoshal invited director Farah Khan and her cook Dilip over for a cozy lunch at her stylish home. The open-plan living area afforded stunning city views, enhancing the intimate atmosphere. Shreya showcased her culinary flair with a delectable Bengali bhetki fish dish, complemented by Farah's mouth-watering roast chicken. The gathering wrapped up with a meaningful gift exchange, demonstrating the deep bond between the two talented women.",
@@ -124,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-shreya-ghoshals-mumbai-home-cosy-cream-walls-a-rehearsal-piano-and-a-balcony-offering-striking-city-views/articleshow/135640066.cms",
     "time": "2026-11-07T15:19:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Multiple Elector Photo Identity Cards generated for same person during SIR, admits Karnataka Chief Electoral Officer",
-    "desc": "Report highlights instances of people holding multiple voter IDs within Mahadevapura, as well as cases where the same Elector Photo Identity Card (EPIC) number appeared in the final electoral rolls of two different Assembly constituencies.",
-    "img": "https://th-i.thgim.com/public/incoming/k56ysd/article71678541.ece/alternates/LANDSCAPE_1200/_JAI9770.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/multiple-elector-photo-identity-cards-generated-for-same-person-during-sir-admits-karnataka-chief-electoral-officer/article71678303.ece",
-    "time": "2026-11-07T15:17:06.000Z"
   },
   {
     "cat": "Sports",
@@ -288,6 +333,15 @@ const newsData_en = [
     "time": "2026-11-07T12:00:20.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "$3.37m buy now pegged at $5.5m; true profit remains uncertain",
+    "desc": "In March 2020, Patrick Mahomes made headlines by acquiring a luxurious mansion in Westlake, Texas, for $3.37 million, notably less than its asking price. Current estimates place its value at around $5.5 million, showcasing a significant appreciation. This purchase aligned with his Super Bowl championship and lucrative contract extension with the Chiefs. The home boasts numerous upscale features in a prime location.",
+    "img": "https://static.toiimg.com/photo/msid-135626561,imgsize-90790.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/nfl/news/in-2020-patrick-mahomes-bought-a-3-37-million-texas-mansion-4-years-later-its-estimated-value-reached-5-5-million/articleshow/135626533.cms",
+    "time": "2026-11-07T12:00:00.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Ashok Selvan and Preity Mukhundhan's 'Anbil Avan' OTT release date confirmed",
     "desc": "In 'Anbil Avan', Ashok Selvan and Preity Mukhundhan deliver a captivating performance that weaves together romance, family dynamics, and thrilling suspense. Premiering on SonyLIV on November 13 in five different languages, the film explores the unexpected hurdles a couple faces after relocating to their new residence, showcasing an exhilarating 70-foot jump by Selvan in a standout action scene, making it an engaging experience for online viewers.",
@@ -334,15 +388,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Hansal Mehta on 'Pralay' shoot at Azad Maidan: 'Mumbai has become most unfriendly city to shoot'",
-    "desc": "Filmmaker Hansal Mehta confirmed that all required permissions were secured for the filming of 'Pralay' at Azad Maidan. However, the Mumbai Cricket Association objected as the shoot interrupted scheduled inter-school cricket matches, sparking controversy. Frustrated by the challenges filmmakers face in Mumbai, Mehta called for more support from local authorities. 'Pralay' is a post-apocalyptic thriller starring Ranveer Singh, with a budget of Rs 300 crore.",
-    "img": "https://static.toiimg.com/photo/msid-135635404,imgsize-580806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hansal-mehta-defends-ranveer-singhs-pralay-shoot-at-azad-maidan-says-mumbai-has-become-a-most-unfriendly-city-to-shoot-in/articleshow/135635004.cms",
-    "time": "2026-11-07T11:36:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "In 1985, Clive Davis moved into a Manhattan penthouse that has now hit the market for $11 million after his death",
     "desc": "Clive Davis, the renowned music executive, has put his luxurious Manhattan penthouse on the market for $11 million. Having resided in this duplex for more than 40 years, Davis turned it into a vibrant venue for industry gatherings. The penthouse boasts stunning skyline vistas and two kitchens designed for entertaining. Nestled in the Ritz Tower, this historic abode mirrors Davis' illustrious musical journey, including multiple Grammy Awards.",
     "img": "https://static.toiimg.com/photo/msid-135630239,imgsize-70625.cms",
@@ -376,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/got-a-lot-of-inputs-from-virat-kohli-rohit-sharma-and-shubman-gill-gurnoor-brar-after-indias-narrow-win-over-new-zealand/articleshow/135634188.cms",
     "time": "2026-11-07T10:49:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prabhas fans compare 'Adipurush' with 'Ramayana': 'Records are not made just by investing money'",
-    "desc": "Prabhas' fans are in a frenzy comparing the box office success of Adipurush and Ramayana. Adipurush kicked off with an impressive Rs 140 crore, while Ramayana garnered Rs 125 crore on its opening day. With a greater production budget for Ramayana, enthusiasts are debating which film's success is more remarkable. Adipurush is celebrated as the highest-grossing opening non-sequel Bollywood film, highlighting the immense star power of Prabhas amidst stiff competition.",
-    "img": "https://static.toiimg.com/photo/msid-135634113,imgsize-765440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prabhas-fans-compare-adipurush-with-ramayana-rise-of-a-legend-on-social-media-records-are-not-made-just-by-investing-money-sir/articleshow/135634068.cms",
-    "time": "2026-11-07T10:43:31.000Z"
   },
   {
     "cat": "Sports",
@@ -450,18 +486,9 @@ const newsData_en = [
     "time": "2026-11-07T09:45:31.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'God did not accept it': Ex-India cricketer on Shami's unfulfilled Test comeback",
-    "desc": "Mohammed Shami announced his retirement from Test cricket, concluding a notable 13-year career. Bengal coach Laxmi Ratan Shukla expressed disappointment over Shami's inability to return to the Indian side. Shami last represented India in the 2023 World Test Championship final against Australia. Despite retiring from Tests, Shami will continue to play white-ball cricket for Bengal in upcoming tournaments.",
-    "img": "https://static.toiimg.com/photo/msid-135632791,imgsize-38129.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/god-did-not-accept-it-ex-india-cricketer-on-mohammed-shamis-unfulfilled-test-comeback/articleshow/135632109.cms",
-    "time": "2026-11-07T09:38:46.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Ramayana' box office collection day 3 (LIVE)",
-    "desc": "Ramayana opened strongly at the box office, earning Rs 64.85 crore on its first day in India. The film experienced a slight decline on its second day, with Rs 48 crore net on Friday. Positive word of mouth is anticipated to boost the film's performance on Saturday and beyond. Early trends predict that the film could reach Rs 70 crore net by the end of Saturday.",
+    "desc": "Ramayana opened strongly at the box office, earning Rs 64.85 crore on its first day in India. The film experienced a slight decline on its second day, with Rs 48 crore net on Friday. Positive word of mouth has led to boost the film's performance on Saturday and beyond. The film has made Rs 182 crore net in India by the end of day 3.",
     "img": "https://static.toiimg.com/photo/msid-135631971,imgsize-394890.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-part-1-box-office-collection-day-3-live-ranbir-kapoor-yash-sai-pallavis-film-expected-to-see-growth-on-saturday-as-the-diwali-weekend-kicks-in-inches-towards-rs-150-crore/articleshow/135631688.cms",
@@ -567,15 +594,6 @@ const newsData_en = [
     "time": "2026-11-07T04:54:28.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Lifelong admirer': Abhinav Bindra's special message for 15-year-old Tanvi Patri",
-    "desc": "Tanvi Patri, a 15-year-old badminton player, won a silver medal at the Youth Olympic Games in Dakar. She faced China's Zhang Yi Xin in the final, where she displayed remarkable fighting spirit. Despite losing, notable athletes like Abhinav Bindra and PV Sindhu praised her perseverance and talent. Tanvi's efforts made her the first Indian woman to win an individual silver in badminton at this event.",
-    "img": "https://static.toiimg.com/photo/msid-135626933,imgsize-27220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/lifelong-admirer-abhinav-bindras-special-message-for-15-year-old-tanvi-patri/articleshow/135626871.cms",
-    "time": "2026-11-07T04:54:27.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why are flight tickets so expensive now? The truth behind rising airfares",
     "desc": "Have you noticed that domestic flight tickets in India have become significantly more expensive? According to the Consumer Price Index, domestic airfares were nearly 30% higher in September compared to a year earlier. But what is driving this surge? In this explainer, The Hindu’s aviation reporter Jagriti Chandra breaks down the factors behind rising airfares, including higher aviation fuel prices, the impact of global oil markets, rupee depreciation, airspace restrictions, geopolitical tensions, airline capacity constraints and dynamic pricing models.",
@@ -592,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/republicans-spent-more-democrats-won-more-inside-the-costliest-us-midterm-battle/articleshow/135626137.cms",
     "time": "2026-11-07T04:17:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Seven years later, India bowlers recreate New Zealand's World Cup nightmare",
-    "desc": "India captain Shubman Gill won the toss and elected to bowl first. Arshdeep Singh and Auqib Nabi made full use of the conditions and kept the New Zealand batters under pressure. India are leading the five-match ODI series 1-0.",
-    "img": "https://static.toiimg.com/photo/msid-135626199,imgsize-74057.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/seven-years-later-india-bowlers-recreate-new-zealands-2019-world-cup-semifinal-nightmare/articleshow/135626169.cms",
-    "time": "2026-11-07T04:08:20.000Z"
   },
   {
     "cat": "Business",
@@ -736,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
     "time": "2026-11-05T18:10:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India-Sri Lanka ODI moved from Delhi to Visakhapatnam",
-    "desc": "If not for the renovation of the outfield at the Arun Jaitley Stadium, a major issue with hosting the game in the national capital would have been the poor air quality in the month of December",
-    "img": "https://th-i.thgim.com/public/incoming/obt3p7/article71670462.ece/alternates/LANDSCAPE_1200/TH02-DELHI-STADGQ4GO9UN5.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-sri-lanka-odi-series-opener-shifted-to-visakhapatnam-from-delhi/article71670384.ece",
-    "time": "2026-11-05T17:07:16.000Z"
   },
   {
     "cat": "Tech",
