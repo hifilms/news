@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "No Hardik Pandya as Baroda announce squad for Syed Mushtaq Ali Trophy 2026",
+    "desc": "Hardik Pandya's wait for a return to competitive cricket will continue after the all-rounder was left out of Baroda's 15-member squad for the upcoming Syed Mushtaq Ali Trophy, which begins on November 14. Meanwhile, his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/no-hardik-pandya-as-baroda-announce-squad-for-syed-mushtaq-ali-trophy-2026-2026-11-07-1058897",
+    "time": "2026-11-07T08:20:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli breaks Ricky Ponting's record in second ODI against New Zealand in Wellington",
+    "desc": "Star India batter Virat Kohli surpassed Ricky Ponting to become the leading run-scorer against New Zealand in ODI history. Both batters were level on 1,971 runs before the second ODI in Wellington, but Kohli moved...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-ricky-ponting-s-record-in-second-odi-against-new-zealand-in-wellington-2026-11-07-1058893",
+    "time": "2026-11-07T07:28:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India bowling coach Morne Morkel reacts to Mohammed Shami's Test retirement",
+    "desc": "Ace India pacer Mohammed Shami announced his Test retirement on November 6. He announced the decision through a social media post late at night. On the following day, India bowling coach Morne Morkel shared his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-bowling-coach-morne-morkel-reacts-to-mohammed-shami-s-test-retirement-2026-11-07-1058889",
+    "time": "2026-11-07T05:57:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammed Shami, Ishant Sharma to play SMAT, Vaibhav Sooryavanshi named Bihar captain",
+    "desc": "Ishant Sharma and Mohammed Shami have been named in Delhi and Bengal squads, respectively, for the upcoming Syed Mushtaq Ali Trophy, scheduled to begin on November 14. On the other hand, young sensation Vaibhav Sooryavanshi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-shami-ishant-sharma-to-play-smat-vaibhav-sooryavanshi-named-bihar-captain-2026-11-07-1058886",
+    "time": "2026-11-07T04:06:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yashasvi Jaiswal hits back-to-back centuries against New Zealand A; Jasprit Bumrah returns to action",
+    "desc": "Yashasvi Jaiswal’s form was growing into a concern as the opener was struggling to get going in red-ball cricket off late. He had a tough outing against both Sri Lanka and Afghanistan and also failed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-hits-back-to-back-centuries-against-new-zealand-a-jasprit-bumrah-returns-to-action-2026-11-07-1058881",
+    "time": "2026-11-07T02:51:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Usman Khawaja makes shocking claim, says every Australia cricketer was involved in Sandpapergate saga",
+    "desc": "Former cricketer Usman Khawaja has reignited the controversy surrounding Australia's ball-tampering scandal in South Africa in 2018. He alleged that the usage of the sandpaper was known across the team before the infamous incident at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/usman-khawaja-makes-shocking-claim-says-every-australia-cricketer-was-involved-in-sandpapergate-saga-2026-11-07-1058880",
+    "time": "2026-11-07T02:16:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rain is back, India need 22 runs while New Zealand seek three wickets",
+    "desc": "India produced a dominating bowling show in the opening of the five-match ODI series against New Zealand. Later, Virat Kohli capped off a five-wicket win with another classy half-century at Eden Park in Auckland. India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-2nd-odi-live-score-india-eye-to-extend-series-lead-new-zealand-want-revenge-1058853",
+    "time": "2026-11-07T01:03:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mohammad Shami, ace Indian pacer, announces retirement from Test cricket",
     "desc": "Indian fast bowler Mohammad Shami announced his retirement from Test cricket on Friday, bringing an end to a significant chapter in his international cricket career. The seasoned pacer shared the decision in an emotional social...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/aaryavir-sehwag-blasts-unbeaten-70-lakshya-hits-half-century-too-as-india-thrash-nepal-in-u19-asia-cup-2026-2026-11-06-1058842",
     "time": "2026-11-06T10:28:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 players Sunrisers Hyderabad (SRH) might release ahead of IPL 2027 retention deadline",
-    "desc": "Despite retaining the likes of Abhishek Sharma, Heinrich Klaasen, Pat Cummins, Travis Head and Nitish Kumar Reddy ahead of the IPL mega auction in 2025, Sunrisers Hyderabad haven’t quite enjoyed success. They can gladly own...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/3-players-sunrisers-hyderabad-srh-might-release-ahead-of-ipl-2027-retention-deadline-2026-11-06-1058831",
-    "time": "2026-11-06T08:32:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah, Ravindra Jadeja likely to feature for India A vs New Zealand; will Rishabh Pant play?",
-    "desc": "Rishabh Pant is unlikely to feature in the third India A match against New Zealand A as the keeper-batter is yet to recover from a side strain. He is still undergoing rehabilitation at the Centre...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-ravindra-jadeja-likely-to-feature-for-india-a-vs-new-zealand-will-rishabh-pant-play-2026-11-06-1058820",
-    "time": "2026-11-06T07:10:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "40 crore for one player? Marquee IPL players demand extraordinary fees for retention: Report",
-    "desc": "IPL franchises could be heading towards an expensive retention battle before the next mega auction, as some of the league's biggest names are reportedly seeking contracts worth INR 40 crore to continue with their current...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/40-crore-for-one-player-marquee-ipl-players-demand-extraordinary-fees-for-retention-report-2026-11-06-1058811",
-    "time": "2026-11-06T05:47:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia appoint Michael Hussey in expanded coaching role ahead of major cricketing events across formats",
-    "desc": "Cricket Australia has announced the appointment of Michael Hussey as consultant ahead of several marquee international events, including the 2027 Ashes, the ODI World Cup and the 2028 T20 events. The appointment will see Hussey...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-appoint-michael-hussey-in-expanded-coaching-role-ahead-of-major-cricketing-events-across-formats-2026-11-06-1058808",
-    "time": "2026-11-06T04:49:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Star New Zealand batter ruled out of remaining ODIs vs India; Matt Henry gets medical clearance",
-    "desc": "Star New Zealand batter Devon Conway has been ruled out of the ongoing ODI series against India after sustaining a concussion in a training-ground collision. New Zealand Cricket (NZC) has confirmed that he will no...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/star-new-zealand-batter-ruled-out-of-remaining-odis-vs-india-matt-henry-gets-medical-clearance-2026-11-06-1058805",
-    "time": "2026-11-06T04:12:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "10 records he owns for Portugal and international football",
-    "desc": "Cristiano Ronaldo has announced his retirement from international football after a career that spans over 23 years. During his time, Portugal qualified for the Euro 2024 final, which Greece ended up winning 1-0. He avenged...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-retires-10-records-he-owns-for-portugal-and-international-football-2026-11-05-1058780",
-    "time": "2026-11-05T13:58:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's first ODI vs Sri Lanka shifted from Delhi, BCCI announces new venue",
-    "desc": "The first ODI between India and Sri Lanka, scheduled to be hosted on December 13, has been rescheduled from Delhi to Visakhapatnam. BCCI has confirmed the development, stating that the Delhi and District Cricket Association...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-s-first-odi-vs-sri-lanka-shifted-from-delhi-bcci-announces-new-venue-2026-11-05-1058776",
-    "time": "2026-11-05T13:10:01.000Z"
   }
 ];
