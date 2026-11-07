@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pacers shine again as India beat New Zealand in low-scoring thriller in Wellington",
+    "desc": "India beat New Zealand by four runs (DLS method) in the second ODI at Hnry Stadium in Wellington. It was a slow-scoring affair as the Kiwis were bundled out for just 134 runs in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pacers-shine-again-as-india-beat-new-zealand-in-low-scoring-thriller-in-wellington-2026-11-07-1058904",
+    "time": "2026-11-07T10:10:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "No Hardik Pandya as Baroda announce squad for Syed Mushtaq Ali Trophy 2026",
     "desc": "Hardik Pandya's wait for a return to competitive cricket will continue after the all-rounder was left out of Baroda's 15-member squad for the upcoming Syed Mushtaq Ali Trophy, which begins on November 14. Meanwhile, his...",
     "img": "",
@@ -55,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Rain is back, India need 22 runs while New Zealand seek three wickets",
+    "title": "India beat New Zealand by four runs (DLS method)",
     "desc": "India produced a dominating bowling show in the opening of the five-match ODI series against New Zealand. Later, Virat Kohli capped off a five-wicket win with another classy half-century at Eden Park in Auckland. India...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-wants-england-to-be-fittest-and-strongest-side-in-the-world-ahead-of-odi-world-cup-2027-2026-11-06-1058846",
     "time": "2026-11-06T11:19:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aaryavir Sehwag blasts unbeaten 70, Lakshya hits half-century too as India thrash Nepal in U19 Asia Cup 2026",
-    "desc": "Aaryavir Sehwag, son of former cricketer Virender Sehwag, stole the show with his blistering batting in the India A’s opening clash against Nepal A in the U19 Asia Cup 2026. His opening partner and captain,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aaryavir-sehwag-blasts-unbeaten-70-lakshya-hits-half-century-too-as-india-thrash-nepal-in-u19-asia-cup-2026-2026-11-06-1058842",
-    "time": "2026-11-06T10:28:56.000Z"
   }
 ];
