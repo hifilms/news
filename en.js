@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Scene' BO day 1: Suriya, Naslen film opens with Rs 34.25 cr",
+    "desc": "'Scene', the much-anticipated film from Suriya and Jithu Madhavan, has kicked off with a spectacular box office performance, amassing Rs 34.25 crore in total sales on its opening day, which includes Rs 19.15 crore net from Indian markets. The Tamil rendition has significantly boosted the film's local earnings, highlighting a keen viewer interest.",
+    "img": "https://static.toiimg.com/photo/msid-135623638,imgsize-380109.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/scene-box-office-collection-day-1-suriya-naslen-film-opens-with-rs-34-25-cr-worldwide-beats-vishwanath-and-sons-by-rs-2-51-cr/articleshow/135623629.cms",
+    "time": "2026-11-07T00:21:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Disallowed Friday prayers, under house detention for 6th day: Mirwaiz",
+    "desc": "On the previous Friday, the Mirwaiz mentioned in his sermon the findings of the International Crisis Group report on Jammu and Kashmir and highlighted the concerns over political prisoners, civil liberties and the need for meaningful political engagement and reconciliation",
+    "img": "https://th-i.thgim.com/public/incoming/3733pw/article71676240.ece/alternates/LANDSCAPE_1200/20260918252L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/disallowed-friday-prayers-under-house-detention-for-6thday-mirwaiz/article71675173.ece",
+    "time": "2026-11-06T22:03:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kris Jenner recalls hotel showdown with Khloe over Lamar Odom's scandal",
+    "desc": "Kris Jenner has recalled a shocking incident involving daughter Khloe Kardashian and her former husband Lamar Odom. During an episode of The Kardashians, she revealed how the two tracked Odom to a hotel after learning about his drug use and infidelity. Kris said they found around 20 people inside, while Khloe recalled confronting those present.",
+    "img": "https://static.toiimg.com/photo/msid-135620707,imgsize-70303.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/lamar-odom-was-caught-smoking-crack-and-cheating-during-marriage-to-khloe-kardashian-kris-jenner-recalls-storming-hotel-room-with-daughter-and-finding-20-people-inside-during-confrontation/articleshow/135620632.cms",
+    "time": "2026-11-06T21:50:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bamboo shelters, cool roofs to climate-proof Telangana cities",
+    "desc": "The State is drawing up a ₹20,000-crore project pipeline and a series of policy measures to prepare its cities for rising temperatures and erratic rainfall. The plan, which also includes waste reclamation, sewage treatment and digital monitoring of water supply, seeks to build climate resilience across urban local bodies",
+    "img": "https://th-i.thgim.com/public/incoming/5g1sz0/article71676068.ece/alternates/LANDSCAPE_1200/hy06bamboo_bus_shelter.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece",
+    "time": "2026-11-06T19:31:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "political leaders raise concern over allegations, call for action",
+    "desc": "Kamal Haasan demands the immediate withdrawal of the fake books from all libraries. M.H. Jawahirullah wants the formation of an independent committee to examine all books procured for the public library. Others, including Anbumani Ramadoss and K. Annamalai, want the government to take up a thorough investigation of the allegations",
+    "img": "https://th-i.thgim.com/public/incoming/ueb65i/article71676047.ece/alternates/LANDSCAPE_1200/DSC_1396.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/periyar-arivulagam-books-row-political-leaders-raise-concern-over-allegations-call-for-action/article71674446.ece",
+    "time": "2026-11-06T19:23:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. govt. enhances compensation for various categories of human-wildlife conflict",
+    "desc": "The compensation for major injuries or partial disability resulting in 20% to 60% incapacitation for humans, duly certified by the District Medical Officer or a constituted medical board, has been increased from ₹59,100 to a maximum of ₹5 lakh",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-enhances-compensation-for-various-categories-of-human-wildlife-conflict/article71675570.ece",
+    "time": "2026-11-06T19:17:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajnath Singh to celebrate Deepavali with troops at India-China border in Sikkim",
+    "desc": "The Defence Minister has made it a tradition to celebrate Vijayadashami (Dussehra) with frontline troops at key military stations across the country. However, he missed it this year because he was on an official visit abroad.",
+    "img": "https://th-i.thgim.com/public/incoming/k7ixyw/article71676056.ece/alternates/LANDSCAPE_1200/IMG_Rajnath_Singh_at_Sia_2_1_I3CN59U1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajnath-singh-to-celebrate-deepavali-with-troops-at-india-china-border-in-sikkim/article71675923.ece",
+    "time": "2026-11-06T19:16:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amitabh Bachchan wins personality rights case in Delhi High Court",
+    "desc": "The Delhi High Court has ruled in Amitabh Bachchan’s favour in his personality rights suit, restraining defendants from using his name, image, voice and likeness for commercial gain without permission. The decree covers parties who settled the dispute, those who failed to contest it, and unidentified persons allegedly exploiting the actor’s identity across digital platforms.",
+    "img": "https://static.toiimg.com/photo/msid-135618989,imgsize-72588.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-wins-personality-rights-case-in-delhi-high-court-court-bars-unauthorised-use-of-his-identity-for-commercial-purposes/articleshow/135618918.cms",
+    "time": "2026-11-06T19:08:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TVK MLA’s ‘horse trading’ claim: former Madurai Deputy Mayor P.M. Mannan arrested, released on bail",
+    "desc": "Based on Madurai Central TVK MLA Mustafa’s complaint of horse-trading bid, CCB registers case under Prevention of Corruption Act, 1988 and for criminal conspiracy and Mr. Mannan, now with the AIADMK, was picked up for inquiry.",
+    "img": "https://th-i.thgim.com/public/incoming/2zvpn6/article71675204.ece/alternates/LANDSCAPE_1200/9864_6_11_2026_19_45_26_1_IMG_20261106_192142.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-mlas-horse-trading-claim-former-madurai-deputy-mayor-pm-mannan-arrested-released-on-bail/article71673191.ece",
+    "time": "2026-11-06T18:43:39.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "‘Thank you, Test Cricket’: Shami retires from longest format of the game",
     "desc": "Mohammed Shami announced his retirement from Test cricket on Friday, exactly 13 years after making his debut against West Indies in 2013. The 36-year-old fast bowler signed off with 229 wickets from 64 Tests, including six five-wicket hauls. Shami last played a Test in June 2023 against Australia, sharing an emotional farewell message on Instagram.",
@@ -19,48 +100,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Motivational Quote of the day by Matthew Perry",
-    "desc": "Matthew Perry, renowned for portraying Chandler Bing in the iconic series Friends, was not only a gifted actor but also a vocal advocate for addiction recovery. His candid discussions about personal struggles aimed to inspire others grappling with similar issues. Perry's legacy, which culminated in his 2022 memoir, came to a tragic end on October 28, 2023, yet his impact endures through his influential work and support for recovery initiatives.",
-    "img": "https://static.toiimg.com/photo/msid-135601596,imgsize-71251.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/motivational-quote-of-the-day-by-matthew-perry-the-further-down-you-go-the-more-people-you-can-help-a-powerful-reminder-to-turn-lifes-struggles-into-strength/articleshow/135601479.cms",
-    "time": "2026-11-06T17:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Priyanka Chopra returns to Marathi cinema with 'Ventilator 2', set for a 2027 release",
     "desc": "Priyanka Chopra Jonas is set to return to Marathi cinema with 'Ventilator 2', which will release in 2027. The sequel follows the original 2016 film, which explored family dynamics during a crucial time. Her production house, Purple Pebble Pictures, celebrates ten years of telling meaningful stories through regional cinema. Priyanka has also confirmed her upcoming film 'Varanasi', set to release on April 7, 2027.",
     "img": "https://static.toiimg.com/photo/msid-135616068,imgsize-599063.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-jonas-returns-to-marathi-cinema-with-ventilator-2-set-for-a-2027-release-a-decade-later-were-coming-back-to-it-with-so-much-more-to-tell/articleshow/135615886.cms",
     "time": "2026-11-06T17:26:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala High Court grants bail to accused in Nedumbassery car accident",
-    "desc": "Bail granted considering that they are in their early twenties, the lack of criminal history, and the time already spent in custody. Suhail Sajeev, the first accused, will be released on November 16, to enable the investigating agency to wrap up procedures",
-    "img": "https://th-i.thgim.com/public/incoming/8bmj5q/article71675539.ece/alternates/LANDSCAPE_1200/Car01.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-grants-bail-to-accused-in-nedumbassery-car-accident/article71675376.ece",
-    "time": "2026-11-06T17:16:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Praful Patel calls on Sharad Pawar at hospital; meet triggers speculation in Maharashtra",
-    "desc": "Both NCPs would have been reunited had Ajit Pawar been alive, says NCP State president Sunil Tatkare; NCP SP MLA Rohit Pawar claims merger speculation is being planted by disgruntled elements within NCP to further their vested interests",
-    "img": "https://th-i.thgim.com/public/incoming/i2a5ty/article71675780.ece/alternates/LANDSCAPE_1200/PTI11_06_2026_000019B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/praful-patel-calls-on-sharad-pawar-at-hospital-meet-triggers-speculation-in-maharashtra/article71675536.ece",
-    "time": "2026-11-06T17:13:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Maharashtra CM hands over keys to 557 flats under MHADA’s redevelopment project",
-    "desc": "Mr. Fadnavis also directed MHADA to complete the rehabilitation of all BDD residents by 2030 at an event organised at Yashwantrao Chavan Centre in the presence of Deputy Chief Ministers Eknath Shinde and Sunetra Pawar",
-    "img": "https://th-i.thgim.com/public/incoming/ntjwa8/article71675460.ece/alternates/LANDSCAPE_1200/DSC_7702.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-cm-hands-over-keys-to-557-flats-under-mhadas-redevelopment-project/article71674501.ece",
-    "time": "2026-11-06T17:11:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -88,24 +133,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nora-fatehi-appears-before-court-in-rs-200-crore-extortion-case-says-she-was-not-paid-for-the-chennai-event-linked-to-sukesh-chandrashekhar/articleshow/135614995.cms",
     "time": "2026-11-06T16:58:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "When feed prices crack the egg market",
-    "desc": "Rising maize and soybean prices, the mainstays of poultry feed, are squeezing farmers even as El Niño threatens to disrupt grain supplies; with feed accounting for nearly 80% of production costs, the pressure is building on Telangana’s poultry sector, raising concerns over egg output and prices",
-    "img": "https://th-i.thgim.com/public/incoming/hlw656/article71674884.ece/alternates/LANDSCAPE_1200/IMG_BL_-_CHIKEN_2_1_048SE19J.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/when-feed-prices-crack-the-egg-market/article71673025.ece",
-    "time": "2026-11-06T16:55:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Counting of votes, declaration of results on November 7 for ZPTC, MPTC  elections in A.P.",
-    "desc": "About 11,000 counting supervisors and 28,692 assistants/staff to participate in the process at 365 centres across the State; counting of postal ballots to be taken up first; nearly 20,000 police personnel deployed as part of three-layer security",
-    "img": "https://th-i.thgim.com/public/incoming/hre9uu/article71675278.ece/alternates/LANDSCAPE_1200/DSC_9036.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/counting-of-votes-at-365-centres-on-november-7-for-zptc-mptc-elections-in-ap/article71675028.ece",
-    "time": "2026-11-06T16:55:15.000Z"
   },
   {
     "cat": "World",
@@ -306,15 +333,6 @@ const newsData_en = [
     "time": "2026-11-06T12:19:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'1,800 fake AI books, inflated prices': Periyar library pits CM Vijay against DMK",
-    "desc": "In a heated exchange, Tamil Nadu chief minister C Joseph Vijay pointed fingers at the former DMK administration for alleged corruption linked to library book purchases. It has come to light that almost 1,800 artificially generated books were bought at excessive prices. Author Perumal Murugan raised concerns, leading Congress's Manickam Tagore to insist on a full inquiry.",
-    "img": "https://static.toiimg.com/photo/msid-135607313,imgsize-79090.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/1800-fake-ai-books-inflated-prices-periyar-library-pits-cm-vijay-against-dmk/articleshow/135606488.cms",
-    "time": "2026-11-06T12:19:07.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Raghav Juyal's cameo as Meghnad in Ranbir's 'Ramayana' leaves fans buzzing",
     "desc": "In 'Ramayana Part 1', audiences are treated to standout performances by Ranbir Kapoor, Sai Pallavi, and Yash. Raghav Juyal's unexpected brief role as Meghnad has sparked excitement online. As Ravana's oldest son, Meghnad is poised to have a more prominent role in the anticipated sequel, directed by Nitesh Tiwari. This film captures the timeless battle of good versus evil, with the next installment expected to release in 2028.",
@@ -351,15 +369,6 @@ const newsData_en = [
     "time": "2026-11-06T11:38:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Inviting death': Jharkhand tribal leader dies by suicide after emotional Facebook Live post",
-    "desc": "Nisha Kumari Bhagat, a prominent tribal leader in Jharkhand, was tragically found dead at her home in Ranchi. Just hours prior, she had gone live on Facebook, voicing concerns about threats from governmental bodies and land brokers. While police have indicated a possible suicide, they are actively probing the details surrounding her untimely death.",
-    "img": "https://static.toiimg.com/photo/msid-135606035,imgsize-98434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jharkhand-tribal-leader-dies-by-suicide-after-facebook-live-on-alleged-threats/articleshow/135605914.cms",
-    "time": "2026-11-06T11:36:45.000Z"
-  },
-  {
     "cat": "World",
     "title": "Why Abdul El-Sayed’s victory matters beyond Michigan",
     "desc": "Abdul El-Sayed has made history by becoming the first Muslim elected to the United States Senate. The physician, epidemiologist and progressive Democrat defeated Republican Mike Rogers in one of the most closely watched races of the 2026 midterm elections. His victory comes despite record spending against his campaign and intense political attacks from opponents.",
@@ -369,15 +378,6 @@ const newsData_en = [
     "time": "2026-11-06T11:33:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CBI books Future Retail Ltd, key promoters in Rs 904-crore bank fraud case",
-    "desc": "CBI has registered a major bank fraud concerning Future Retail Ltd. and its top executives for bank fraud. This case, involving Rs 904 crore, follows a complaint from State Bank of India regarding fund misappropriation. Search operations were conducted at various locations linked to the firm's promoters, leading to the recovery of important documents. The company reportedly diverted bank funds through associated entities without using them for the intended purposes.",
-    "img": "https://static.toiimg.com/photo/msid-135605798,imgsize-44628.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cbi-books-future-retail-ltd-key-promoters-in-rs-904-crore-bank-fraud-case/articleshow/135605098.cms",
-    "time": "2026-11-06T11:29:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Jobe Bellingham earns maiden England call-up, joins brother Jude for Nations League",
     "desc": "Jobe Bellingham, the talented midfielder, has earned a spot in the England senior team for the upcoming fixtures. Joining his brother Jude, this unique family duo adds an interesting narrative to the matches against Croatia and Spain in the Nations League. After shining at Borussia Dortmund, Jobe's selection underscores his rapid ascent, while Cole Palmer and Phil Foden remain sidelined due to injuries.",
@@ -385,24 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/from-young-lions-to-three-lions-jobe-bellingham-earns-maiden-england-call-up-joins-brother-jude-for-nations-league/articleshow/135605100.cms",
     "time": "2026-11-06T11:16:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Renu Desai compares life after Pawan Kalyan divorce to Ram’s exile",
-    "desc": "Renu Desai has voiced her displeasure at being labeled merely as Pawan Kalyan's ex-wife, akin to Lord Ram's exile from his kingdom. Since their divorce in 2012, she has actively worked on her career, achieving success across numerous projects. Despite facing harsh criticism online, Renu's dedication to her animal rescue NGO highlights her unwavering commitment to uplifting animal welfare and carving her own identity.",
-    "img": "https://static.toiimg.com/photo/msid-135604890,imgsize-97528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/when-will-my-exile-end-renu-desai-opens-up-about-being-linked-to-pawan-kalyan-14-years-after-divorce-compares-it-to-lord-rams-exile/articleshow/135604845.cms",
-    "time": "2026-11-06T11:01:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yash reveals why he chose to play Ravana in ‘Ramayana’ making video",
-    "desc": "Rise of a Legend' has received positive audience feedback. In a behind-the-scenes video, Yash explains his motivation for taking on the complex role. Producer Namit Malhotra and director Nitesh Tiwari discuss the character's multidimensional nature. Ranbir Kapoor commended Yash's performance, highlighting the difficulty of representing Ravana accurately.",
-    "img": "https://static.toiimg.com/photo/msid-135604794,imgsize-99523.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-reveals-why-he-chose-to-play-ravana-in-ramayana-rise-of-a-legendnone-of-us-are-bigger-than-ramayana-as-ranbir-kapoor-praises-his-portrayal/articleshow/135604731.cms",
-    "time": "2026-11-06T10:58:21.000Z"
   },
   {
     "cat": "Sports",
@@ -441,15 +423,6 @@ const newsData_en = [
     "time": "2026-11-06T10:03:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Karmabhoomi Express coaches gutted in Punjab; short-circuit suspected",
-    "desc": "A fire erupted in three coaches of the Karmabhoomi Express in Patiala district, Punjab on Friday around 1pm. The sudden flames instilled fear in passengers as they spread quickly. Promptly, railway officials and emergency teams arrived to manage the situation, which was likely caused by a short circuit. Fortunately, all passengers were unharmed, and alternative transportation was arranged for their continued journey.",
-    "img": "https://static.toiimg.com/photo/msid-135602903,imgsize-14945861.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-karmabhoomi-express-coaches-gutted-in-punjab-short-circuit-suspected/articleshow/135602316.cms",
-    "time": "2026-11-06T10:02:17.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What can you buy if not gold?",
     "desc": "Fundamentally, what needs to be understood is that investors should first assess whether they require gold in their portfolio before investing in it. Although gold has outperformed equities recently, it has also corrected by around 22% from its January 2026 highs. What are the factors to consider when making that investment decision?",
@@ -477,15 +450,6 @@ const newsData_en = [
     "time": "2026-11-06T09:42:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SC protects past jobs, promotions but leaves pending cases open",
-    "desc": "The Supreme Court has clarified that its March ruling will not impact completed appointments or promotions. Cases still pending will be examined individually by the courts based on merit and eligibility. The government expressed concerns that retrospective application could unsettle established positions and admissions. It sought two years to establish a uniform creamy layer mechanism across various sectors.",
-    "img": "https://static.toiimg.com/photo/msid-135601825,imgsize-134338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/obc-creamy-layer-row-sc-protects-past-jobs-promotions-but-leaves-pending-cases-open/articleshow/135601416.cms",
-    "time": "2026-11-06T09:23:01.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What are buyers purchasing this festive season",
     "desc": "This year's Dhanteras shopping spree is anticipated to surpass Rs 1 lakh crore across the country. Gold and silver purchases alone may reach over Rs 60,000 crore, with consumers favoring lightweight jewellery and silver coins. Additionally, there's a noticeable surge in demand for traditional auspicious items. Later today, the All India Jewellers and Goldsmith Federation will evaluate the sales performance and provide insights into the market trends.",
@@ -511,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-why-bse-sensex-nifty50-have-rallied-on-november-06-2026-ltcg-foreign-investors-ai-stocks-dhanteras-diwali/articleshow/135600625.cms",
     "time": "2026-11-06T08:46:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IMA asks CBFC to deny certification to Sunny Deol-starrer, flags glorification of violence against doctors",
-    "desc": "The Indian Medical Association has raised concerns about the film Suryaa, which they claim glorifies violence against healthcare workers. They argue that certain scenes depict a father taking revenge on doctors, raising ethical issues. The IMA provided data on increased workplace violence against healthcare professionals in recent years. They have requested that the Central Board of Film Certification deny certification based on these representations.",
-    "img": "https://static.toiimg.com/photo/msid-135600120,imgsize-35454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ima-asks-cbfc-to-deny-certification-to-sunny-deol-starrer-flags-glorification-of-violence-against-doctors/articleshow/135600061.cms",
-    "time": "2026-11-06T08:24:38.000Z"
   },
   {
     "cat": "Business",
@@ -666,15 +621,6 @@ const newsData_en = [
     "time": "2026-11-06T02:51:00.000Z"
   },
   {
-    "cat": "Business",
-    "title": "$2.5 trillion wiped out as Nasdaq suffers worst crash in 18 months",
-    "desc": "Wall Street faced a dramatic selloff with technology stocks plummeting due to growing concerns about artificial intelligence spending. Investors reevaluated popular AI-related trades after midterm election results suggested potential tougher scrutiny in the industry. The Nasdaq dropped more than 5%, marking its worst session in 18 months and entering correction territory. The selloff spread to Asian markets, leading to declines in Japan's Nikkei and South Korea's Kospi.",
-    "img": "https://static.toiimg.com/photo/msid-135590113,imgsize-157616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/wall-street-bloodbath-2-5-trillion-wiped-out-as-nasdaq-suffers-worst-crash-in-18-months/articleshow/135590089.cms",
-    "time": "2026-11-06T01:38:40.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Aishwarya-Abhishek arrive hand in hand, Saif-Kareena, Akshay: Celebs at Diwali bash",
     "desc": "A star-studded gathering unfolded at Manish Malhotra's Diwali celebration, where Bollywood's finest showcased their vibrant festive styles. Saif Ali Khan and Kareena Kapoor Khan charmed in their elegant outfits, with Akshay Kumar's family in tow. Aishwarya Rai Bachchan illuminated the night in a stunning red saree beside her husband, Abhishek Bachchan, who looked dapper in a black sherwani.",
@@ -792,15 +738,6 @@ const newsData_en = [
     "time": "2026-11-05T00:58:18.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Kimi Antonelli",
-    "desc": "Mercedes team boss punted on the Italian and backed him through a bruising rookie year, a barrage of doubts and a few departing sponsors. But he never once wavered in his belief. The youngest champion in F1 history has repaid that faith, and silenced the critics along the way",
-    "img": "https://th-i.thgim.com/public/sport/btgiok/article71667300.ece/alternates/LANDSCAPE_1200/GettyImages-2302656102.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/a-new-face-for-a-new-era/article71667285.ece",
-    "time": "2026-11-04T18:37:23.000Z"
-  },
-  {
     "cat": "Business",
     "title": "U.S. midterm elections impact on India: Faster trade deal talks and higher tariffs likely",
     "desc": "Trade and geopolitical experts say that losing control of the U.S. Congress will push President Donald Trump to increase tariff pressure on India to seal a deal. Indian negotiators, for their part, will smell an opportunity",
@@ -898,5 +835,68 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
     "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
