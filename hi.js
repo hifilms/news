@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Hamza Zahoor's century propels Pakistan to beat India by three wickets in U19 Rising Stars Asia Cup",
+    "desc": "Pakistan have defeated India by three wickets in the U19 Rising Stars Asia Cup 2026 at Al Amerat Cricket Ground (Ministry Turf 2). Hamza Zahoor played a pivotal knock, scoring a century to get the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hamza-zahoor-s-century-propels-pakistan-to-beat-india-by-three-wickets-in-u19-rising-stars-asia-cup-2026-11-08-1058967",
+    "time": "2026-11-08T13:07:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Six players join India squad ahead of crucial Maldives clash in SAFF Championship 2026",
     "desc": "India head coach Naushad Moosa has received six additional players ahead of the team's final Group B encounter against the Maldives in the SAFF Championship on November 11. The fresh arrivals in Dhaka come after...",
     "img": "",
@@ -55,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India need three wickets, but Pakistan remain in comfortable position",
+    "title": "Pakistan beat India by three wickets following Hamza Zahoor's ton",
     "desc": "India are set to play Pakistan in the ongoing U19 Asia Cup at the Al Amerat Cricket Ground in Oman on November 8. Both teams enter the match with strong momentum, having registered dominant victories...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/no-hardik-pandya-as-baroda-announce-squad-for-syed-mushtaq-ali-trophy-2026-2026-11-07-1058897",
     "time": "2026-11-07T08:20:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli breaks Ricky Ponting's record in second ODI against New Zealand in Wellington",
-    "desc": "Star India batter Virat Kohli surpassed Ricky Ponting to become the leading run-scorer against New Zealand in ODI history. Both batters were level on 1,971 runs before the second ODI in Wellington, but Kohli moved...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-ricky-ponting-s-record-in-second-odi-against-new-zealand-in-wellington-2026-11-07-1058893",
-    "time": "2026-11-07T07:28:21.000Z"
   }
 ];
