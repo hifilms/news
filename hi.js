@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Six players join India squad ahead of crucial Maldives clash in SAFF Championship 2026",
+    "desc": "India head coach Naushad Moosa has received six additional players ahead of the team's final Group B encounter against the Maldives in the SAFF Championship on November 11. The fresh arrivals in Dhaka come after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/six-players-join-india-squad-ahead-of-crucial-maldives-clash-in-saff-championship-2026-2026-11-08-1058963",
+    "time": "2026-11-08T12:18:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Test captain Kusal Mendis confident of Sri Lanka's batting strength ahead of Pakistan series",
+    "desc": "Sri Lanka captain Kusal Mendis has expressed confidence in his team's ability to compete against Pakistan's pace attack ahead of the opening Test in Rawalpindi on Monday. As per reports, the visitors are preparing for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-test-captain-kusal-mendis-confident-of-sri-lanka-s-batting-strength-ahead-of-pakistan-series-2026-11-08-1058952",
+    "time": "2026-11-08T10:11:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Arjun Rajput? 19-year-old stuns Pakistan with counterattacking century in U19 Asia Cup",
+    "desc": "When India U19 found themselves in trouble against Pakistan’s new-ball attack, it wasn't one of the high-profile top-order names who steadied the ship, but 19-year-old Punjab all-rounder Arjun Rajput. His counter-attacking knock under intense pressure...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-arjun-rajput-19-year-old-stuns-pakistan-a-with-counterattacking-century-in-u19-asia-cup-2026-11-08-1058945",
+    "time": "2026-11-08T07:39:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajat Patidar pulls out of Rising Asia Cup; BCCI announces replacement and appoints Rinku Singh as VC",
+    "desc": "Rajat Patidar will not be available for selection in the 50-over format for the time being, after informing the Board of Control for Cricket in India (BCCI) that he needs to focus on managing his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajat-patidar-pulls-out-of-rising-asia-cup-bcci-announce-replacement-and-appoints-rinku-singh-as-vc-2026-11-08-1058944",
+    "time": "2026-11-08T07:12:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Usman Khawaja reveals reason behind opening up on Sandpapergate saga after retirement",
+    "desc": "Former Australia opener Usman Khawaja has explained the reason why he chose to speak publicly about the ball-tampering controversy in South Africa in 2018. He revealed that a personal commitment to David Warner played a significant...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/usman-khawaja-reveals-reason-behind-opening-up-on-sandpapergate-saga-after-retirement-2026-11-08-1058939",
+    "time": "2026-11-08T05:53:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi makes history with second straight Golden Boot in MLS",
+    "desc": "Legendary footballer Lionel Messi has added another milestone to his remarkable career, as he became the first player in Major League Soccer (MLS) history to win the Golden Boot in consecutive seasons. The Inter Miami...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-makes-history-with-second-straight-golden-boot-in-mls-2026-11-08-1058937",
+    "time": "2026-11-08T05:24:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India need three wickets, but Pakistan remain in comfortable position",
+    "desc": "India are set to play Pakistan in the ongoing U19 Asia Cup at the Al Amerat Cricket Ground in Oman on November 8. Both teams enter the match with strong momentum, having registered dominant victories...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-u19-asia-cup-live-score-india-vs-pakistan-latest-match-updates-scorecards-playing-xis-reactions-1058935",
+    "time": "2026-11-08T04:45:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pacers shine again as India beat New Zealand in low-scoring thriller in Wellington",
     "desc": "India beat New Zealand by four runs (DLS method) in the second ODI at Hnry Stadium in Wellington. It was a slow-scoring affair as the Kiwis were bundled out for just 134 runs in the...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-ricky-ponting-s-record-in-second-odi-against-new-zealand-in-wellington-2026-11-07-1058893",
     "time": "2026-11-07T07:28:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India bowling coach Morne Morkel reacts to Mohammed Shami's Test retirement",
-    "desc": "Ace India pacer Mohammed Shami announced his Test retirement on November 6. He announced the decision through a social media post late at night. On the following day, India bowling coach Morne Morkel shared his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-bowling-coach-morne-morkel-reacts-to-mohammed-shami-s-test-retirement-2026-11-07-1058889",
-    "time": "2026-11-07T05:57:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammed Shami, Ishant Sharma to play SMAT, Vaibhav Sooryavanshi named Bihar captain",
-    "desc": "Ishant Sharma and Mohammed Shami have been named in Delhi and Bengal squads, respectively, for the upcoming Syed Mushtaq Ali Trophy, scheduled to begin on November 14. On the other hand, young sensation Vaibhav Sooryavanshi...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-shami-ishant-sharma-to-play-smat-vaibhav-sooryavanshi-named-bihar-captain-2026-11-07-1058886",
-    "time": "2026-11-07T04:06:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yashasvi Jaiswal hits back-to-back centuries against New Zealand A; Jasprit Bumrah returns to action",
-    "desc": "Yashasvi Jaiswal’s form was growing into a concern as the opener was struggling to get going in red-ball cricket off late. He had a tough outing against both Sri Lanka and Afghanistan and also failed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-hits-back-to-back-centuries-against-new-zealand-a-jasprit-bumrah-returns-to-action-2026-11-07-1058881",
-    "time": "2026-11-07T02:51:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Usman Khawaja makes shocking claim, says every Australia cricketer was involved in Sandpapergate saga",
-    "desc": "Former cricketer Usman Khawaja has reignited the controversy surrounding Australia's ball-tampering scandal in South Africa in 2018. He alleged that the usage of the sandpaper was known across the team before the infamous incident at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/usman-khawaja-makes-shocking-claim-says-every-australia-cricketer-was-involved-in-sandpapergate-saga-2026-11-07-1058880",
-    "time": "2026-11-07T02:16:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India beat New Zealand by four runs (DLS method)",
-    "desc": "India produced a dominating bowling show in the opening of the five-match ODI series against New Zealand. Later, Virat Kohli capped off a five-wicket win with another classy half-century at Eden Park in Auckland. India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-2nd-odi-live-score-india-eye-to-extend-series-lead-new-zealand-want-revenge-1058853",
-    "time": "2026-11-07T01:03:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammad Shami, ace Indian pacer, announces retirement from Test cricket",
-    "desc": "Indian fast bowler Mohammad Shami announced his retirement from Test cricket on Friday, bringing an end to a significant chapter in his international cricket career. The seasoned pacer shared the decision in an emotional social...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-shami-ace-indian-pacer-announces-retirement-from-test-cricket-2026-11-06-1058875",
-    "time": "2026-11-06T17:59:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Brook wants England to be 'fittest and strongest side in the world' ahead of ODI World Cup 2027",
-    "desc": "After a poor showing in the Pakistan tri-series, England will play Australia next in a three-match ODI series. Ahead of that, captain Harry Brook opened up on their recent struggles and the objectives to tick...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-wants-england-to-be-fittest-and-strongest-side-in-the-world-ahead-of-odi-world-cup-2027-2026-11-06-1058846",
-    "time": "2026-11-06T11:19:00.000Z"
   }
 ];
