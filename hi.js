@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "David Warner backs Usman Khawaja's claims over sandpapergate saga, says 'it's 100% accurate'",
+    "desc": "Former cricketer David Warner has publicly backed Usman Khawaja’s account of the 2018 Australian ball-tampering scandal. He has also accused Cricket Australia (CA) of conducting a flawed investigation and demanded greater transparency over the findings. Warner,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/david-warner-backs-usman-khawaja-s-claims-over-sandpapergate-saga-says-it-s-100-accurate-2026-11-09-1059018",
+    "time": "2026-11-09T10:07:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mushfiqur Rahim becomes first Bangladesh cricketer to achieve legendary feat in Test cricket",
+    "desc": "Mushfiqur Rahim has added another landmark to his remarkable Test career, as he became the first Bangladesh cricketer to score 7,000 runs in the longest format during the ongoing Test against West Indies in Sylhet....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mushfiqur-rahim-becomes-first-bangladesh-cricketer-to-achieve-legendary-feat-in-test-cricket-2026-11-09-1059009",
+    "time": "2026-11-09T08:25:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harshit Rana, Mayank Yadav to feature as Delhi announce SMAT 2026 squad; Ayush Badoni named captain",
+    "desc": "The Delhi and District Cricket Association (DDCA) has officially announced a strong 16-member squad for the upcoming Syed Mushtaq Ali Trophy tournament. Ace pacer Harshit Rana, who has been out of action with injury since...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-mayank-yadav-to-feature-as-delhi-announce-smat-2026-squad-ayush-badoni-named-captain-2026-11-09-1059001",
+    "time": "2026-11-09T06:58:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manchester United in relegation zone after 4-4 draw vs Aston Villa, register just one win in 10 PL matches",
+    "desc": "Manchester United's struggles have reached a new low after an extraordinary 4-4 draw against Aston Villa at Old Trafford. Following which, there are once again questions raised over manager Michael Carrick’s future at the club. Now,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/manchester-united-in-relegation-zone-after-4-4-draw-vs-aston-villa-register-just-one-win-in-10-premier-league-matches-2026-11-09-1058999",
+    "time": "2026-11-09T06:36:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah, Ravindra Jadeja miss out on bowling as rain spoils Day 3 of unofficial Test vs New Zealand A",
+    "desc": "Rain washed out Day 3 of the unofficial third Test between India A and New Zealand A in Lincoln on Monday. Jasprit Bumrah and Ravindra Jadeja, among others, were expected to return to action, but...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-ravindra-jadeja-miss-out-on-bowling-as-rain-spoils-day-3-of-unofficial-test-vs-new-zealand-a-2026-11-09-1058993",
+    "time": "2026-11-09T05:44:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Marnus Labuschagne not in Australia's plans for New Zealand Test series, George Bailey explains reason",
+    "desc": "Marnus Labuschagne is not in Australia’s plans for the upcoming four-match Test series against New Zealand. The selectors, led by George Bailey, want the Queensland batter to instead focus on domestic cricket to rebuild his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/marnus-labuschagne-not-in-australia-s-plans-for-new-zealand-test-series-george-bailey-explains-reason-2026-11-09-1058990",
+    "time": "2026-11-09T04:56:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Hamza Zahoor's century propels Pakistan to beat India by three wickets in U19 Rising Stars Asia Cup",
     "desc": "Pakistan have defeated India by three wickets in the U19 Rising Stars Asia Cup 2026 at Al Amerat Cricket Ground (Ministry Turf 2). Hamza Zahoor played a pivotal knock, scoring a century to get the...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/who-is-arjun-rajput-19-year-old-stuns-pakistan-a-with-counterattacking-century-in-u19-asia-cup-2026-11-08-1058945",
     "time": "2026-11-08T07:39:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajat Patidar pulls out of Rising Asia Cup; BCCI announces replacement and appoints Rinku Singh as VC",
-    "desc": "Rajat Patidar will not be available for selection in the 50-over format for the time being, after informing the Board of Control for Cricket in India (BCCI) that he needs to focus on managing his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajat-patidar-pulls-out-of-rising-asia-cup-bcci-announce-replacement-and-appoints-rinku-singh-as-vc-2026-11-08-1058944",
-    "time": "2026-11-08T07:12:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Usman Khawaja reveals reason behind opening up on Sandpapergate saga after retirement",
-    "desc": "Former Australia opener Usman Khawaja has explained the reason why he chose to speak publicly about the ball-tampering controversy in South Africa in 2018. He revealed that a personal commitment to David Warner played a significant...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/usman-khawaja-reveals-reason-behind-opening-up-on-sandpapergate-saga-after-retirement-2026-11-08-1058939",
-    "time": "2026-11-08T05:53:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi makes history with second straight Golden Boot in MLS",
-    "desc": "Legendary footballer Lionel Messi has added another milestone to his remarkable career, as he became the first player in Major League Soccer (MLS) history to win the Golden Boot in consecutive seasons. The Inter Miami...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-makes-history-with-second-straight-golden-boot-in-mls-2026-11-08-1058937",
-    "time": "2026-11-08T05:24:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan beat India by three wickets following Hamza Zahoor's ton",
-    "desc": "India are set to play Pakistan in the ongoing U19 Asia Cup at the Al Amerat Cricket Ground in Oman on November 8. Both teams enter the match with strong momentum, having registered dominant victories...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-u19-asia-cup-live-score-india-vs-pakistan-latest-match-updates-scorecards-playing-xis-reactions-1058935",
-    "time": "2026-11-08T04:45:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pacers shine again as India beat New Zealand in low-scoring thriller in Wellington",
-    "desc": "India beat New Zealand by four runs (DLS method) in the second ODI at Hnry Stadium in Wellington. It was a slow-scoring affair as the Kiwis were bundled out for just 134 runs in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pacers-shine-again-as-india-beat-new-zealand-in-low-scoring-thriller-in-wellington-2026-11-07-1058904",
-    "time": "2026-11-07T10:10:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No Hardik Pandya as Baroda announce squad for Syed Mushtaq Ali Trophy 2026",
-    "desc": "Hardik Pandya's wait for a return to competitive cricket will continue after the all-rounder was left out of Baroda's 15-member squad for the upcoming Syed Mushtaq Ali Trophy, which begins on November 14. Meanwhile, his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/no-hardik-pandya-as-baroda-announce-squad-for-syed-mushtaq-ali-trophy-2026-2026-11-07-1058897",
-    "time": "2026-11-07T08:20:01.000Z"
   }
 ];
