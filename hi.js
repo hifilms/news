@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Suryakumar Yadav returns as captain, as Mumbai announce squad for SMAT 2026",
+    "desc": "Suryakumar Yadav has been named as Mumbai captain for the upcoming Syed Mushtaq Ali Trophy. The Mumbai Cricket Association (MCA) has confirmed the development on Monday. Now, the appointment marks a significant development for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-returns-as-captain-as-mumbai-announce-squad-for-smat-2026-2026-11-09-1059037",
+    "time": "2026-11-09T13:29:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England announce squad for Test series against South Africa; Liam Patterson-White earns maiden call-up",
+    "desc": "England have announced a 15-member squad for the upcoming three-match Test series against South Africa, starting December 17 at Wanderers Stadium. Uncapped cricketer Liam Patterson-White has earned his maiden Test call-up as new head coach...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-announce-squad-for-test-series-against-south-africa-liam-patterson-white-earns-maiden-call-up-2026-11-09-1059031",
+    "time": "2026-11-09T12:25:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India announce three-format squads for South Africa series; Jemimah and Amonjot return",
+    "desc": "The Board of Control for Cricket in India (BCCI) has unveiled the squads for the upcoming tour of South Africa, which will feature a one-off Test followed by three ODIs and three T20Is. The Test...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-announce-three-format-squads-for-south-africa-series-smriti-mandhana-to-lead-in-tests-for-first-time-2026-11-09-1059028",
+    "time": "2026-11-09T11:51:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch India vs New Zealand 3rd ODI live on TV for free and stream online?",
+    "desc": "New Zealand will host India for the third ODI on November 10 at Seddon Park in Hamilton. The hosts will be determined to bounce back after consecutive defeats, while a win for the Shubman Gill-led...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-india-vs-new-zealand-3rd-odi-live-on-tv-for-free-and-stream-online-2026-11-09-1059023",
+    "time": "2026-11-09T11:06:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "David Warner backs Usman Khawaja's claims over sandpapergate saga, says 'it's 100% accurate'",
     "desc": "Former cricketer David Warner has publicly backed Usman Khawaja’s account of the 2018 Australian ball-tampering scandal. He has also accused Cricket Australia (CA) of conducting a flawed investigation and demanded greater transparency over the findings. Warner,...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/marnus-labuschagne-not-in-australia-s-plans-for-new-zealand-test-series-george-bailey-explains-reason-2026-11-09-1058990",
     "time": "2026-11-09T04:56:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hamza Zahoor's century propels Pakistan to beat India by three wickets in U19 Rising Stars Asia Cup",
-    "desc": "Pakistan have defeated India by three wickets in the U19 Rising Stars Asia Cup 2026 at Al Amerat Cricket Ground (Ministry Turf 2). Hamza Zahoor played a pivotal knock, scoring a century to get the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hamza-zahoor-s-century-propels-pakistan-to-beat-india-by-three-wickets-in-u19-rising-stars-asia-cup-2026-11-08-1058967",
-    "time": "2026-11-08T13:07:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Six players join India squad ahead of crucial Maldives clash in SAFF Championship 2026",
-    "desc": "India head coach Naushad Moosa has received six additional players ahead of the team's final Group B encounter against the Maldives in the SAFF Championship on November 11. The fresh arrivals in Dhaka come after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/six-players-join-india-squad-ahead-of-crucial-maldives-clash-in-saff-championship-2026-2026-11-08-1058963",
-    "time": "2026-11-08T12:18:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Test captain Kusal Mendis confident of Sri Lanka's batting strength ahead of Pakistan series",
-    "desc": "Sri Lanka captain Kusal Mendis has expressed confidence in his team's ability to compete against Pakistan's pace attack ahead of the opening Test in Rawalpindi on Monday. As per reports, the visitors are preparing for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-test-captain-kusal-mendis-confident-of-sri-lanka-s-batting-strength-ahead-of-pakistan-series-2026-11-08-1058952",
-    "time": "2026-11-08T10:11:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Arjun Rajput? 19-year-old stuns Pakistan with counterattacking century in U19 Asia Cup",
-    "desc": "When India U19 found themselves in trouble against Pakistan’s new-ball attack, it wasn't one of the high-profile top-order names who steadied the ship, but 19-year-old Punjab all-rounder Arjun Rajput. His counter-attacking knock under intense pressure...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-arjun-rajput-19-year-old-stuns-pakistan-a-with-counterattacking-century-in-u19-asia-cup-2026-11-08-1058945",
-    "time": "2026-11-08T07:39:06.000Z"
   }
 ];
