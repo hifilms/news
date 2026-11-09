@@ -1,5 +1,14 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Pope Leo takes Milei to task as he visits divided Argentina",
+    "desc": "Pope Leo spoke out in defence of the poor and pensioners, insisting that “particular concern be shown for those affected by illness, dependency and disability” — a veiled reference to the government’s controversial cuts to disability assistance",
+    "img": "https://th-i.thgim.com/public/incoming/cqfw1m/article71681253.ece/alternates/LANDSCAPE_1200/2026-11-08T225659Z_799146947_RC2YJOABAI44_RTRMADP_3_POPE-LATAM-ARGENTINA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/pope-leo-takes-milei-to-task-as-he-visits-divided-argentina/article71681249.ece",
+    "time": "2026-11-08T23:38:32.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Ranbir, Alia Bhatt greet paps from balcony with Neetu",
     "desc": "Ranbir Kapoor and Alia Bhatt greeted paparazzi on Diwali from their Krishna Raj bungalow in Pali Hill, with Neetu Kapoor beside them. Alia recently praised Ranbir’s ‘Ramayana’ performance on Instagram. The couple will next reunite with Vicky Kaushal in ‘Love & War’, releasing January 21, 2027.",
@@ -325,7 +334,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Ramayana' box office collection day 4 (LIVE)",
+    "title": "'Ramayana' box office collection day 4",
     "desc": "Part I’ continues to shine at the box office with stellar collections on its first Sunday, amassing Rs. 194.39 crore in just four days. The film saw attendance grow from 35.9% in the morning to 39% in the afternoon. Key cities like Bengaluru and Mumbai in Karnataka and Maharashtra are propelling its success, with total earnings expected to rise due to Diwali celebrations and evening engagements.",
     "img": "https://static.toiimg.com/photo/msid-135655529,imgsize-358518.cms",
     "src": "indiatimes.com",
@@ -376,15 +385,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/why-are-the-us-midterm-elections-significant/article71679440.ece",
     "time": "2026-11-08T08:17:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP chief Nitin Nabin asks opposition to follow LK Advani's approach to national security",
-    "desc": "BJP president Nitin Nabin highlighted L K Advani's legacy during a special event for his 100th birthday. He urged opposition parties to unite during national security challenges, following Advani's example. Nabin credited Advani and Atal Bihari Vajpayee for the BJP's growth from its early years to its current prominence. The significance of Advani's contributions to the Ram Janmabhoomi movement was also recognized at the event.",
-    "img": "https://static.toiimg.com/photo/msid-135654602,imgsize-1012597.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-chief-nitin-nabin-asks-opposition-to-follow-lk-advanis-approach-to-national-security/articleshow/135654347.cms",
-    "time": "2026-11-08T08:15:30.000Z"
   },
   {
     "cat": "Business",
