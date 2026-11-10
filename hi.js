@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Joe Cole slams Manchester United hierarchy as Michael Carrick's sack rumours intensify",
+    "desc": "Former Chelsea footballer Joe Cole recently came forward and slammed Manchester United and its owners for not trusting and backing head coach Michael Carrick with the proper players and signings that have resulted in United...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/joe-cole-slams-manchester-united-hierarchy-as-michael-carrick-s-sack-rumours-intensify-2026-11-10-1059121",
+    "time": "2026-11-10T14:40:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ravi Shastri heaps praise on star India bowler, backs him to impress ahead of NZ Tests",
     "desc": "The stage is set for the upcoming Test series against India and New Zealand. The two sides are in the middle of an ODI series currently against each other, and after the conclusion of the...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-kl-rahul-end-odi-duty-as-hamilton-clash-gets-abandoned-due-to-rain-2026-11-10-1059077",
     "time": "2026-11-10T06:29:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arshdeep Singh's father confirms pacer's move to Mumbai Indians ahead of IPL 2027 season",
-    "desc": "Arshdeep Singh is set to join Mumbai Indians, with Hardik Pandya moving in the opposite direction to Punjab Kings ahead of the IPL 2027 season. The proposed swap has gained momentum, with both franchises reportedly...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-s-father-confirms-pacer-s-move-to-mumbai-indians-ahead-of-ipl-2027-season-2026-11-10-1059073",
-    "time": "2026-11-10T05:54:43.000Z"
   }
 ];

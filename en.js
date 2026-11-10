@@ -1,39 +1,174 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Guntur set for green makeover with over 40-km plantation drive",
-    "desc": "The initiative aims to improve the city's environmental balance, reduce pollution and enhance its aesthetic appeal; Municipal Corporation Commissioner says project will be implemented in two phases, with plantation planned along 25 km in the first phase and 15 km in the second phase",
-    "img": "https://th-i.thgim.com/public/incoming/n04u0g/article71686564.ece/alternates/LANDSCAPE_1200/10745_10_11_2026_19_24_8_1_IMG_20261110_WA0023.JPG",
+    "title": "Civil police officer injured in attack by detained man in Keralam’s Kochi",
+    "desc": "The officer was injured after a man who had been detained on charge of creating public nuisance in the city allegedly bit on his hands while he was being taken in a police vehicle for medical examination",
+    "img": "https://th-i.thgim.com/public/incoming/81t3qr/article71687392.ece/alternates/LANDSCAPE_1200/iStock-1056779176.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/guntur-set-for-green-makeover-with-over-40-km-plantation-drive/article71685836.ece",
-    "time": "2026-11-10T14:04:00.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/cpo-injured-in-attack-by-detained-man-in-keralams-kochi/article71686336.ece",
+    "time": "2026-11-10T19:15:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Maatrubhumi' trailer out: Salman Khan takes on Chinese troops in Galwan-inspired film",
+    "desc": "May War Rest in Peace' is out, offering a glimpse into a soldier's sacrifice and the emotional toll of war on families. Salman Khan is seen in an action-packed avatar, taking on Chinese troops in hand-to-hand combat, while his chemistry with Chitrangda Singh adds emotion. Inspired by the Galwan clash and directed by Apoorva Lakhia, the film releases on December 4.",
+    "img": "https://static.toiimg.com/photo/msid-135718210,imgsize-613441.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maatrubhumi-may-war-rest-in-peace-trailer-out-salman-khan-takes-on-chinese-troops-in-galwan-inspired-film-says-lets-sort-this-st-bro/articleshow/135718140.cms",
+    "time": "2026-11-10T18:08:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Andrew Scott",
+    "desc": "Andrew Scott emphasizes the importance of pursuing meaningful experiences rather than seeking material wealth. He reflects on how financial rewards may provide temporary enjoyment and comfort. The actor acknowledges that life is short, which should motivate one to create lasting positive impacts. Growing up in Dublin, he developed his passion for acting and eventually gained fame in notable productions.",
+    "img": "https://static.toiimg.com/photo/msid-135707936,imgsize-335813.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-andrew-scott-its-nice-to-get-a-big-chequebut-my-view-is-were-not-here-long-so-why-not-do-something-of-value-the-fleabag-stars-advice-on-living-life-and-understanding-the-importance-of-doing-good-things/articleshow/135707789.cms",
+    "time": "2026-11-10T17:30:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Builder withheld Rs 88 lakh after redevelopment deal; landowners win over Rs 1.22 crore",
+    "desc": "The dispute originated in 2010, when two landowners, along with their late mother, transferred their development rights to a builder for redevelopment. They held a one-third undivided share in a property in Mumbai, and executed an Agreement to Assign for the redevelopment. Subsequently, they also entered into a Supplementary Agreement dated February 18, 2015, and an Agreement to Offer Permanent Alternate Accommodation (PAA), executed on the same date.",
+    "img": "https://static.toiimg.com/photo/msid-135715516,imgsize-706380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/they-gave-redevelopment-rights-for-a-1395-sq-ft-flat-but-builder-withheld-rs-88-lakh-compensation-and-demanded-rs-30-26-lakh-consumer-commission-orders-over-rs-1-22-crore-relief-to-landowners/articleshow/135715327.cms",
+    "time": "2026-11-10T17:29:42.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Punjab Congress to begin outreach campaign from November 11 ahead of 2027 polls",
-    "desc": "Punjab Pradesh Congress Committee president Pargat Singh said the ‘Punjab Mangda Insaaf’ campaign will seek accountability from the AAP government over drugs, deteriorating law and order and corruption, with former Chief Minister Charanjit Singh Channi to take part through a ‘cycle yatra’",
-    "img": "https://th-i.thgim.com/public/news/national/za2y3y/article71686567.ece/alternates/LANDSCAPE_1200/DSC2270.jpg",
+    "title": "The Siang dam and a threatened homeland",
+    "desc": "The Adi community has been protesting against the Siang Upper Multipurpose Project in Arunachal Pradesh, saying it threatens their land, livelihoods, and civilisation. The agitation has turned violent in response to increasing use of force by the State authorities. The community alleges that the State government has used deceit, force, and threats to get consent for the feasibility study. Abhinay Lakshman reports on the resistance",
+    "img": "https://th-i.thgim.com/public/incoming/73u02c/article71675466.ece/alternates/LANDSCAPE_1200/2150_5_11_2026_22_19_46_1_SIANG_01.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/punjab/punjab-congress-to-begin-outreach-campaign-from-november-11-ahead-of-2027-polls/article71686469.ece",
-    "time": "2026-11-10T14:03:16.000Z"
+    "url": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece",
+    "time": "2026-11-10T17:29:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Diljit Dosanjh's Indore concert: Madhya Pradesh HC's Gwalior bench receives bomb threat email",
+    "desc": "The Madhya Pradesh High Court's Gwalior bench has received an email threatening a bomb blast and referring to Diljit Dosanjh’s 15 November Indore concert, police said. Security at the court has been tightened, and teams from Indore and Bhopal are helping trace the sender. Earlier, three schools and the Indore Mayor’s office had received similar threats, while Dosanjh has insisted the concert will go ahead.",
+    "img": "https://static.toiimg.com/photo/msid-135717405,imgsize-825763.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diljit-dosanjhs-indore-concert-madhya-pradesh-hcs-gwalior-bench-receives-bomb-threat-email-referring-to-singers-event-cops-say-police-are-on-alert-and-security-has-been-strengthened/articleshow/135717323.cms",
+    "time": "2026-11-10T17:19:04.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Parents unable to restrain children from driving should sell their vehicles, says Keralam Transport Minister",
-    "desc": "C.P. John says that children alone cannot be held entirely responsible in this matter as it is the parents’ duty to exercise control over them; he says State government is considering introduction of a ‘flexible timing’ system for private buses amid rise in incidents of overspeeding",
-    "img": "https://th-i.thgim.com/public/incoming/d0cl6b/article71686486.ece/alternates/LANDSCAPE_1200/john.jpg",
+    "title": "Cyclone-hit villages in Prakasam district remain without electricity",
+    "desc": "The villagers are going to the nearest urban centre to charge their mobile phones at a cost of ₹10 per charge and are facing difficulties in meeting their daily needs, including access to drinking water and arranging fuel for generators, sources say",
+    "img": "https://th-i.thgim.com/public/incoming/nmo8i6/article71687277.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-09%20at%2016.41.07.jpeg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/parents-unable-to-restrain-children-from-driving-should-sell-their-vehicles-says-keralam-transport-minister/article71686412.ece",
-    "time": "2026-11-10T13:59:01.000Z"
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-hit-villages-in-prakasam-district-remain-without-electricity/article71686952.ece",
+    "time": "2026-11-10T17:10:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Things have been a little difficult after the T20 WC’: SKY opens up on tough phase",
+    "desc": "Suryakumar Yadav admitted that being dropped after the 2026 T20 World Cup was difficult but said the birth of his daughter helped him through the challenging phase. He credited wife Devisha for helping him rediscover his passion for cricket and said his immediate goal was to lead Mumbai to the Syed Mushtaq Ali Trophy title.",
+    "img": "https://static.toiimg.com/photo/msid-135716389,imgsize-90616.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/things-have-been-a-little-difficult-after-the-t20-world-cup-suryakumar-yadav-opens-up-on-tough-phase/articleshow/135714576.cms",
+    "time": "2026-11-10T16:35:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jannik Sinner targets late-December comeback, keeps Australian Open 2027 in focus",
+    "desc": "Jannik Sinner aims for a strong comeback to tennis this December after recovering from a knee injury. He is eyeing the reconfigured Six Kings Slam in Saudi Arabia for match practice. Sinner stressed the necessity of following recovery guidelines to prevent further injury. Having not played since the Wimbledon final due to missed tournaments, he recognizes the crucial need for preparation ahead of the Australian Open in January.",
+    "img": "https://static.toiimg.com/photo/msid-135716258,imgsize-49144.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/jannik-sinner-targets-late-december-comeback-keeps-australian-open-2027-in-focus/articleshow/135716190.cms",
+    "time": "2026-11-10T16:28:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anupam Kher 'completely overwhelmed' by Sweden's response to 'Ramayana': 'People were in tears'",
+    "desc": "Rise of a Legend', Anupam Kher was met with enthusiastic applause from the audience. Attendees praised his depiction of Jatayu and discussed the film's rich exploration of the Ramayana's universal messages. In representing Indian cinema abroad, Kher felt honored to contribute to an important cultural narrative reinforced by a talented cast.",
+    "img": "https://static.toiimg.com/photo/msid-135716203,imgsize-534305.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-completely-overwhelmed-by-swedens-response-to-ramayana-rise-of-a-legend-says-people-came-up-to-me-with-tears-in-their-eyes-after-stockholm-premiere/articleshow/135716057.cms",
+    "time": "2026-11-10T16:26:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yash's Raavana costume worn for Surpankha's wedding weight up to 33 kilos",
+    "desc": "Part 1' has achieved remarkable box office earnings of over Rs 346 crore, showcasing its widespread appeal. The film's first Monday saw a record collection of Rs 107.50 crore, setting it apart from various other blockbuster films. Yash's performance as Ravana, enhanced by his elaborate 33 kg costume, has captivated audiences, alongside its distinguished cast featuring Ranbir Kapoor, Sai Pallavi, and Sunny Deol.",
+    "img": "https://static.toiimg.com/photo/msid-135716120,imgsize-288922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yashs-raavana-costume-in-ramayana-worn-for-surpankhas-wedding-sequence-weighed-up-to-33-kg-the-crown-alone-was-1-8-kg-designer-saniya-sardhariya-reveals-details/articleshow/135716064.cms",
+    "time": "2026-11-10T16:22:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "EU climate chief Wopke Hoekstra warns 'expectations low' from COP31 summit",
+    "desc": "\"If indeed we manage to make electrification the sole focus, or close to the sole focus of the COP, I think we have a chance to deliver on something that is truly meaningful,\" Wopke Hoekstra said",
+    "img": "https://th-i.thgim.com/public/incoming/uqt72k/article71687077.ece/alternates/LANDSCAPE_1200/2025-07-02T100025Z_2115836927_RC29EFA4PMIO_RTRMADP_3_CLIMATE-CHANGE-EU-2040.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/eu-climate-chief-wopke-hoekstra-warns-expectations-low-from-cop31-summit/article71686827.ece",
+    "time": "2026-11-10T15:54:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hema Malini hails 'Ramayana' after watching with 'least expectations': 'Pleasantly surprised'",
+    "desc": "Rise of a Legend,' marveling at its stunning visuals and engaging storytelling. The film, starring acclaimed actors Ranbir Kapoor and Sai Pallavi, captivated audiences and garnered positive feedback for its innovative effects and casting choices. Directed by Nitesh Tiwari, this epic retelling marks the first installment of a compelling two-part saga.",
+    "img": "https://static.toiimg.com/photo/msid-135715237,imgsize-677888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hema-malini-hails-ranbir-kapoor-sai-pallavi-and-yashs-ramayana-watched-it-with-least-expectations-pleasantly-surprised-apt-casting/articleshow/135714894.cms",
+    "time": "2026-11-10T15:45:46.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Health department to probe allegations of medical negligence at North Paravur Government Taluk Hospital",
-    "desc": "Chief Minister V.D. Satheesan had directed the authorities to conduct an inquiry into the charge that the right leg of the patient, Abdul Jabbar, had to be amputated below the knee following delayed diagnosis and treatment.",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "title": "A.P. High Court to hear batch of contempt cases on senior IAS officers on November 13",
+    "desc": "In the contempt petitions filed by various government employee associations, and individual employees and officials, it was alleged that there was deliberate disobedience and disregard of common judgments and orders delivered by the High Court",
+    "img": "https://th-i.thgim.com/public/incoming/8wx5wd/article71687026.ece/alternates/LANDSCAPE_1200/A.P.-HC-seeks-sGH2GONROL.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/health-department-to-probe-allegations-of-medical-negligence-at-north-paravur-government-taluk-hospital/article71685593.ece",
-    "time": "2026-11-10T13:56:19.000Z"
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-high-court-to-hear-batch-of-contempt-cases-on-senior-ias-officers-on-november-13/article71686491.ece",
+    "time": "2026-11-10T15:42:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2001, Paul McCartney started Adopt-A-Minefield campaign to promote complete eradication of landmines",
+    "desc": "Paul McCartney spearheaded the Adopt-A-Minefield initiative in 2001, aiming to combat the devastating impact of landmines worldwide. Working alongside Heather Mills and the United Nations, McCartney galvanized efforts to raise funds and awareness for crucial demining projects. High-profile benefit events helped secure the necessary resources to assist both land clearance and minefield survivors, resulting in significant achievements. The campaign ended in January 2015 due to financial challenges.",
+    "img": "https://static.toiimg.com/photo/msid-135707621,imgsize-68690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/in-2001-paul-mccartney-called-for-the-worldwide-eradication-of-landmines-investing-in-the-adopt-a-minefield-campaign-to-clear-out-millions-of-accident-prone-lands/articleshow/135707519.cms",
+    "time": "2026-11-10T15:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "After Tiger Shroff's gunfire incident, Mumbai Police issues security advisory to actors",
+    "desc": "In light of a shooting incident that involved Tiger Shroff, Mumbai Police has released a safety advisory for actors. The guideline recommends avoiding densely populated areas and suggests that stars should greet fans in more open environments. Amitabh Bachchan's recent use of bulletproof glass during fan interactions has drawn notable attention amidst rising security fears, particularly those stemming from threats linked to the Lawrence Bishnoi gang.",
+    "img": "https://static.toiimg.com/photo/msid-135714197,imgsize-513432.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-tiger-shroffs-gunfire-incident-mumbai-police-issues-security-advisory-to-actors-asks-them-to-avoid-crowded-places-and-mingling-with-fans/articleshow/135714056.cms",
+    "time": "2026-11-10T14:59:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It was like a pack of dogs': Australia's Khawaja recalls racial abuse at Lord's",
+    "desc": "Former Australia batter Usman Khawaja has alleged racial abuse by an MCC member during the 2023 Ashes Test at Lord's in his autobiography. He recalled hostile behaviour from spectators following Jonny Bairstow's controversial dismissal, which led to three MCC members being punished. Khawaja also claimed Australia's entire team knew about the 2018 sandpaper ball-tampering scandal.",
+    "img": "https://static.toiimg.com/photo/msid-135713586,imgsize-45138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/it-was-like-a-pack-of-dogs-australias-usman-khawaja-recalls-racial-abuse-at-lords/articleshow/135712945.cms",
+    "time": "2026-11-10T14:33:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I told him I will get a big 100': Aaryavir reveals special conversation with father",
+    "desc": "In a spectacular display, Aaryavir Sehwag reached a century with 160 runs from 168 balls, a promise made to his father before the match. Teaming up with VK Vineeth, who scored 67 runs, they crafted a vital second-wicket partnership of 193 runs. India's innings concluded at 309, laying down a challenging target for the UAE, leading to a 70-run victory and a spot in the semi-finals.",
+    "img": "https://static.toiimg.com/photo/msid-135713432,imgsize-1229293.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-told-him-i-will-get-a-big-hundred-aaryavir-reveals-special-conversation-with-father-virender-sehwag/articleshow/135712849.cms",
+    "time": "2026-11-10T14:30:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saba reveals why mom Sharmila converted to Islam when she married Tiger Pataudi",
+    "desc": "Sharmila Tagore converted to Islam to marry cricketer Mansoor Ali Khan Pataudi, which stirred controversy. Their daughter, Saba Ali Khan Pataudi, reflected on the necessity of this conversion for family acceptance. She emphasized that her parents supported following individual beliefs and did not impose religion on their children. Saba stated that her mother's conversion did not hinder her acting career or identity.",
+    "img": "https://static.toiimg.com/photo/msid-135713384,imgsize-165586.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sharmila-tagore-converted-to-islam-when-she-married-mansoor-ali-khan-pataudi-because-it-was-necessary-in-those-days-reveals-saba-pataudi-my-grandmother-wouldnt-have-allowed-it-any-other-way/articleshow/135712579.cms",
+    "time": "2026-11-10T14:23:53.000Z"
   },
   {
     "cat": "World",
@@ -63,15 +198,6 @@ const newsData_en = [
     "time": "2026-11-10T13:41:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supreme Court goes beyond Deepavali AQI, flags vehicular emissions polluting Delhi air",
-    "desc": "The court says Delhi and the NCR bear the ‘cumulative burden of vehicular traffic’ and seeks to know what has been done to regulate in the capital the entry and plying of vehicles from neighbouring States",
-    "img": "https://th-i.thgim.com/public/incoming/tztnk7/article71686072.ece/alternates/LANDSCAPE_1200/SMOG%20POLLUTION%20DELHI%204.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-goes-beyond-deepavali-aqi-flags-vehicular-emissions-polluting-delhi-air/article71685844.ece",
-    "time": "2026-11-10T13:39:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Kompany returns to Bayern training ground for first time since collapse",
     "desc": "Bayern Munich coach Vincent Kompany returned to the club's training ground on Tuesday for the first time since collapsing during practice on October 23. The 40-year-old is recovering from meningeal irritation and is expected to resume duties after the international break, potentially for the November 20 match against Cologne. Assistant Aaron Danks has overseen four wins and one draw in his absence.",
@@ -79,24 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/vincent-kompany-returns-to-bayern-training-ground-for-first-time-since-collapse/articleshow/135711542.cms",
     "time": "2026-11-10T13:26:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chittoor Collector orders fair compensation for farmers affected by the Ramakuppam-Gudipalli power lines",
-    "desc": "A 200/132 kV substation will be established in Gudupalli, and a 400/220 kV substation is planned for Ramakuppam, the latter intending to support an airport and other developmental requirements, says Sumit Kumar during a review meeting",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chittoor-collector-orders-fair-compensation-for-farmers-affected-by-the-ramakuppam-gudipalli-power-lines/article71686026.ece",
-    "time": "2026-11-10T13:26:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Major traffic diversions in Kozhikode for Cheruvannur flyover works",
-    "desc": "The restrictions came into force from 10 p.m. on November 9 and will remain in effect until 9 p.m. on November 12, during which time all regular traffic through the construction route will be completely barred.",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/o9njub/article71682956.ece/alternates/LANDSCAPE_1200/10tvkz%20cheruvanoor.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/major-traffic-diversions-in-kozhikode-for-cheruvannur-flyover-works/article71682952.ece",
-    "time": "2026-11-10T13:18:49.000Z"
   },
   {
     "cat": "Sports",
@@ -181,6 +289,15 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
+    "title": "'Ramayana' actor Indira's reacts to Sai's fight sequence: 'Never saw Sita as warrior'",
+    "desc": "Part I', directed by Nitesh Tiwari, has soared past the Rs 600 crore milestone worldwide. Audiences are abuzz over Sai Pallavi’s depiction of Sita, which has drawn both praise and criticism. While Mukesh Khanna argues that this warrior image deviates from Valmiki's version, Indira Krishnan defends the creative angle, asserting the film showcases Sita’s inner strength.",
+    "img": "https://static.toiimg.com/photo/msid-135710521,imgsize-379609.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-actor-indira-krishnan-reacts-to-sai-pallavis-fight-sequence-in-the-film-never-saw-sita-as-a-warrior-no-woman-in-our-film-is-depicted-as-weak/articleshow/135710308.cms",
+    "time": "2026-11-10T12:10:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'I'll come, first I will eat some poha'",
     "desc": "Diljit Dosanjh confirmed his performance in Indore on 15 November, emphasizing his commitment to fans despite rumors about safety issues. He acknowledged the local department's request to omit certain songs from his repertoire due to content concerns, aiming to shield young concertgoers from negative influences. His tour continues with several upcoming shows throughout India.",
     "img": "https://static.toiimg.com/photo/msid-135709852,imgsize-786397.cms",
@@ -225,15 +342,6 @@ const newsData_en = [
     "time": "2026-11-10T11:05:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India hits immunisation milestones, but why are millions still missing their shots?",
-    "desc": "India's vigorous vaccination campaigns have made remarkable strides in eliminating diseases such as smallpox and polio. Yet, disparities still exist in immunization coverage between various states and communities. Current initiatives aim to enhance accessibility and monitoring of vaccinations, especially addressing caregiver hesitancy and obstacles encountered by migrants. Raising awareness and consistent follow-up will be vital in boosting vaccination rates in the future.",
-    "img": "https://static.toiimg.com/photo/msid-135708523,imgsize-220752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/do-boond-zindagi-ki-india-hits-immunisation-milestones-but-why-are-millions-still-missing-their-shots/articleshow/135708367.cms",
-    "time": "2026-11-10T11:02:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Australian airline Qantas to axe 850 jobs at HQ, shift work to India",
     "desc": "Qantas is planning to outsource around 850 head-office jobs to Accenture, significantly affecting its Australian workforce. This transition will involve business functions like finance, human resources, and marketing being delivered from India. Employees have expressed concerns about job security, as assurances previously given by Qantas are being contradicted. The airline aims to retain employees through redeployment and retraining opportunities as part of this agreement.",
@@ -250,24 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/fresh-sandpapergate-storm-puts-mitchell-starc-in-spotlight-alyssa-healy-reveals-her-stance-slightly-conflicted/articleshow/135707368.cms",
     "time": "2026-11-10T10:30:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Why are we becoming Vishwaguru in air pollution?' Congress questions PM Modi",
-    "desc": "Congress president Mallikarjun Kharge emphasized that clean air is a fundamental right and not a privilege. He highlighted rising air pollution in Delhi and criticized the government's piecemeal measures over the years. Kharge cited alarming statistics related to pollution-linked deaths and unspent environmental funds in the city. He also mentioned the Supreme Court's directive to states to address pollution concerns within two weeks.",
-    "img": "https://static.toiimg.com/photo/msid-135707207,imgsize-64804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-are-we-becoming-vishwaguru-in-air-pollution-congress-questions-pm-modi/articleshow/135707207.cms",
-    "time": "2026-11-10T10:19:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP's Phoolka questions Army timeline, Indira's tears on 1984 riots",
-    "desc": "HS Phoolka voices his concerns over Sonia Gandhi's memoir addressing the 1984 anti-Sikh riots and Operation Blue Star. He contests her claims about the Army's intervention timing post-Indira Gandhi's assassination, citing historical documentation. Furthermore, he questions her emotional depiction of Indira Gandhi after the operation, supported by Justice VM Tarkunde's report. Phoolka underscored that key military figures failed to arrive promptly, which could have averted the loss of life.",
-    "img": "https://static.toiimg.com/photo/msid-135707187,imgsize-130060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sonia-gandhi-memoir-bjps-phoolka-questions-army-timeline-indiras-tears-on-1984-riots/articleshow/135707131.cms",
-    "time": "2026-11-10T10:04:03.000Z"
   },
   {
     "cat": "Business",
@@ -306,24 +396,6 @@ const newsData_en = [
     "time": "2026-11-10T09:40:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sonia Gandhi was 'shocked' by Pranab Mukherjee's 'long-held desire' to be PM; his daughter asks why",
-    "desc": "Former Congress chief Sonia Gandhi has recalled how Pranab Mukherjee hinted at his ambition to become prime minister during a 2010 conversation, leaving her \"shocked\". Her account in her memoir has drawn a sharp response from Mukherjee's daughter Sharmishtha, who questioned Sonia's reaction, saying there was nothing wrong with her father aspiring for the top post. Sonia also revisits her 2004 decision to decline the prime minister's post.",
-    "img": "https://static.toiimg.com/photo/msid-135706434,imgsize-1139929.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sonia-gandhi-was-shocked-by-pranab-mukherjees-long-held-desire-to-be-pm-his-daughter-asks-why/articleshow/135706371.cms",
-    "time": "2026-11-10T09:33:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Paul McCartney becomes a billionaire",
-    "desc": "Paul McCartney has officially become a billionaire musician, boasting a net worth of USD 1.4 billion. His diverse income streams include a lucrative music catalog, a publishing firm, and an impressive art collection. Notably, he collects around USD 50 million annually from the Beatles' assets. Other notable billionaires in the music industry include Jay-Z and Taylor Swift, showcasing the incredible earning potential in the world of music.",
-    "img": "https://static.toiimg.com/photo/msid-135705829,imgsize-53618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/paul-mccartney-becomes-the-7th-musician-to-become-a-billionaire-joining-the-likes-of-jay-z-taylor-swift-rihanna-and-more/articleshow/135705663.cms",
-    "time": "2026-11-10T09:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I will be back': Labuschagne unfazed by omission, backs himself to reclaim spot",
     "desc": "Marnus Labuschagne has been omitted from the Australian team for the World Test Championship series against New Zealand. Focused on rediscovering his form, Labuschagne is set to play domestic cricket for Queensland in the Sheffield Shield. Acknowledging the intense pressure he's encountered in recent years, he aims to enjoy his game while preparing for a potential comeback.",
@@ -340,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australian-fans-have-not-moved-on-michael-clarke-joins-sandpapergate-storm-as-pressure-mounts-on-cricket-australia/articleshow/135705824.cms",
     "time": "2026-11-10T09:13:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "About his parents, siblings, weddings, &amp; children",
-    "desc": "Pawan Kalyan is a renowned actor and politician from the well-known Konidela family in Telugu cinema. He has been married three times and has four children from these marriages. Recently, Pawan announced his separation from his third wife, Anna Lezhneva, after 13 years. His family includes notable figures like Chiranjeevi and Ram Charan, who are successful in the film industry.",
-    "img": "https://static.toiimg.com/photo/msid-135705232,imgsize-180736.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/pawan-kalyan-family-tree-all-about-the-gabbar-singh-actors-parents-siblings-three-weddings-and-children/articleshow/135705222.cms",
-    "time": "2026-11-10T08:44:12.000Z"
   },
   {
     "cat": "Business",
@@ -379,39 +442,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Scene' vs 'Mookuthi Amman 2' BO Day 5 [Live]: Suriya's film lead",
-    "desc": "On November 6, just in time for Diwali, audiences were treated to Suriya's 'Scene' and Nayanthara's 'Mookuthi Amman 2'. By the end of Day 5, 'Scene' had amassed a whopping Rs 101.44 crore, while 'Mookuthi Amman 2' trailed with Rs 16.78 crore. On its fifth day, 'Scene' brought in Rs 2.75 crore from Tamil and Telugu screenings, whereas 'Mookuthi Amman 2' garnered around Rs 41 lakh.",
-    "img": "https://static.toiimg.com/photo/msid-135704577,imgsize-201953.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/scene-vs-mookuthi-amman-2-box-office-collection-day-5-live-suriyas-film-maintains-lead-as-nayantharas-sequel-trails/articleshow/135704558.cms",
-    "time": "2026-11-10T08:18:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Ramayana' box office collection day 6 (LIVE)",
     "desc": "Part 1, starring Ranbir Kapoor, Yash, and Sai Pallavi, is making waves in cinemas. With a remarkable net collection of Rs 346.35 crore in India over five days and a worldwide gross touching Rs 663.90 crore, the film is on a path to reaching Rs 700 crore post-Monday's earnings. Advance sales for Day 6 look strong as audience interest continues to grow.",
     "img": "https://static.toiimg.com/photo/msid-135704419,imgsize-362035.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-6-live-ranbir-kapoor-yash-sai-pallavi-starrer-inches-towards-rs-400-crore-in-india/articleshow/135704287.cms",
     "time": "2026-11-10T08:11:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Is Priya Bhavani Shankar getting married to her long-time boyfriend?",
-    "desc": "Priya Bhavani Shankar, a well-known actress in Tamil cinema, is creating buzz with her long-time boyfriend Rajavel Rajan following recent photos posted online. Dressed in elegant traditional outfits, fans are speculating about an impending wedding, although the couple hasn't confirmed any such news. Meanwhile, Priya is gearing up for her next film, 'Demonte Colony 3,' slated for release during the Pongal festival in 2027.",
-    "img": "https://static.toiimg.com/photo/msid-135704254,imgsize-174240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/is-priya-bhavani-shankar-getting-married-demonte-colony-stars-photos-with-long-time-boyfriend-spark-wedding-buzz/articleshow/135704236.cms",
-    "time": "2026-11-10T08:05:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nick Jonas grooves to Sai Abhyankkar's viral Tamil song 'Radhimaa'",
-    "desc": "In a festive celebration, Nick Jonas and his brothers delighted fans by posting a video of themselves dancing to the Tamil hit 'Radhimaa.' This joyful tribute for Diwali resonated particularly with Indian audiences, spotlighting the brothers' embrace of local music. Song composer Sai Abhyankkar gleefully commented on the viral post, further enhancing the connection. 'Radhimaa' has seen a remarkable surge in popularity online since its debut.",
-    "img": "https://static.toiimg.com/photo/msid-135703715,imgsize-175448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/priyanka-chopras-husband-nick-jonas-grooves-to-sai-abhyankkars-viral-tamil-song-radhimaa-along-with-the-jonas-brothers/articleshow/135703517.cms",
-    "time": "2026-11-10T07:44:37.000Z"
   },
   {
     "cat": "Sports",
@@ -432,33 +468,6 @@ const newsData_en = [
     "time": "2026-11-10T07:37:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "calls historic for Indian cinema",
-    "desc": "Part 1” after watching it in a packed theatre, lauding its scale, emotional depth and VFX. He called Ranbir Kapoor extraordinary as Lord Ram and applauded Sai Pallavi, Ravi Dubey and Yash. “Ramayana Part 2” has now been pushed to 2028.",
-    "img": "https://static.toiimg.com/photo/msid-135703477,imgsize-276461.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madhur-bhandarkar-praises-ramayana-rise-of-a-legend-team-youve-created-history-today-lauds-ranbir-kapoor-sai-pallavi-and-yash/articleshow/135703421.cms",
-    "time": "2026-11-10T07:32:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bumrah, Jadeja get little game time as third IND A vs NZ A unofficial Test ends in draw",
-    "desc": "Jasprit Bumrah and Ravindra Jadeja's participation in the third unofficial Test was limited due to rain interruptions. After three days of rain delays, all matches in the series concluded in draws with no winners. Yashasvi Jaiswal excelled with two centuries, highlighting his form ahead of the upcoming Test series. Bumrah will join the senior team in Wellington for training sessions before the first Test starts.",
-    "img": "https://static.toiimg.com/photo/msid-135703168,imgsize-27332.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jasprit-bumrah-ravindra-jadeja-get-little-game-time-as-third-india-a-vs-new-zealand-a-unofficial-test-ends-in-draw/articleshow/135702883.cms",
-    "time": "2026-11-10T07:21:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Scotland suspended cricket ties with Afghanistan outside ICC events",
-    "desc": "Cricket Scotland has decided to halt all cricket-related activities with Afghanistan, excluding ICC events, driven by serious concerns regarding the Taliban's treatment of women and broader human rights issues. This move underscores their dedication to promoting women's involvement in cricket. While ICC tournaments continue as planned, no bilateral series will be organised. The policy will be reassessed each year, or following significant progress in women's rights.",
-    "img": "https://static.toiimg.com/photo/msid-135702584,imgsize-174583.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-scotland-suspended-cricket-ties-with-afghanistan-outside-icc-events/articleshow/135702349.cms",
-    "time": "2026-11-10T06:59:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No play in Hamilton! Rain washes out third ODI, India remain 2-0 up",
     "desc": "The third ODI clash between India and New Zealand was marred by rain, resulting in its cancellation. Indian captain Shubman Gill opted to bowl after winning the toss. However, persistent rain caused major delays and eventually forced the game to be called off. India holds a 2-0 lead in the series, with New Zealand needing to secure victories in the upcoming matches scheduled for Mount Maunganui.",
@@ -466,24 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-vs-new-zealand-no-play-in-hamilton-rain-washes-out-third-odi-india-remain-2-0-up/articleshow/135702354.cms",
     "time": "2026-11-10T06:53:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who is Anna Lezhneva? Inside her love story with Pawan Kalyan",
-    "desc": "Anna Lezhneva, a celebrated Russian actress, enjoyed a notable 13-year marriage to actor Pawan Kalyan after they crossed paths during the making of 'Teen Maar' in 2011. Their union, which began in 2013, has resulted in two children. In November 2026, they publicly disclosed their separation, yet they remain devoted to effective co-parenting and nurturing their friendship.",
-    "img": "https://static.toiimg.com/photo/msid-135702137,imgsize-141889.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/who-is-anna-lezhneva-inside-her-love-story-with-pawan-kalyan-and-their-separation-after-13-years/articleshow/135702125.cms",
-    "time": "2026-11-10T06:39:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside the Kapoor-Khan Diwali: Kareena-Saif share cosy family photos",
-    "desc": "Kareena Kapoor and Saif Ali Khan shared glimpses of their Diwali celebration with sons Taimur and Jeh, all dressed in festive wear. Soni Razdan posted a Kapoor family photo featuring Alia Bhatt, Karisma Kapoor and others. Kareena had earlier attended a Diwali lunch with her parents and Karisma.",
-    "img": "https://static.toiimg.com/photo/msid-135702073,imgsize-365591.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-the-kapoor-khan-diwali-kareena-kapoor-saif-ali-khan-pose-with-taimur-and-jeh-alia-bhatt-and-karisma-kapoor-join-the-festivities/articleshow/135702012.cms",
-    "time": "2026-11-10T06:37:29.000Z"
   },
   {
     "cat": "Entertainment",
@@ -504,15 +495,6 @@ const newsData_en = [
     "time": "2026-11-10T06:31:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Who is Nandini, Pawan Kalyan's first wife",
-    "desc": "Pawan Kalyan and Anna Konidala revealed their separation on November 10, concluding a 13-year marriage, which is Pawan’s third. His earlier marriages with Nandini and Renu Desai ended under unique situations, as Nandini changed her identity to Jahnvi and moved to the United States post-divorce. In their announcement, the couple highlighted their commitment to co-parenting, requesting the public to respect their need for privacy during this change.",
-    "img": "https://static.toiimg.com/photo/msid-135701435,imgsize-239587.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/who-is-nandini-pawan-kalyans-first-wife-married-the-actor-in-1997-filed-bigamy-case-in-2007/articleshow/135701361.cms",
-    "time": "2026-11-10T06:06:42.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Asian stocks rally as Wall Street rebounds, oil prices ease",
     "desc": "Asian stock markets rallied on Tuesday as US stocks experienced a significant rebound on the previous day. Notably, Japan's Nikkei 225 saw a 2.6% rise while South Korea's Kospi climbed 4%. Technology stocks led the gains with SoftBank Group shares jumping ahead of its earnings announcement. Concurrently, oil prices declined due to reduced military tensions regarding Iran's conflict situation.",
@@ -520,24 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-rally-as-wall-street-rebounds-oil-prices-ease-on-iran-de-escalation-hopes/articleshow/135700659.cms",
     "time": "2026-11-10T05:51:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We are live': Salman Butt's embarrassing on-air blunder goes viral",
-    "desc": "Salman Butt faced an embarrassing moment while giving a pitch report for the first Test match. He repeatedly apologized as he struggled to maintain his composure on live television. The camera crew attempted to assist him by reminding him that they were live on air. This awkward moment quickly gained popularity on social media, leading to widespread sharing of the video.",
-    "img": "https://static.toiimg.com/photo/msid-135700870,imgsize-37005.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/salman-bhai-we-are-live-salman-butts-embarrassing-on-air-blunder-goes-viral/articleshow/135700742.cms",
-    "time": "2026-11-10T05:46:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Similar weather and wickets'",
-    "desc": "Anshul Kamboj is experiencing his first tour in New Zealand and finding the conditions familiar. He has made a strong impact in his ODI performances, returning excellent bowling figures. Kamboj credits his success to accuracy and adapting to the pitch conditions. His time with Chennai Super Kings helped him develop further as a cricketer.",
-    "img": "https://static.toiimg.com/photo/msid-135700846,imgsize-116994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/anshul-kamboj-explains-why-new-zealand-feels-like-haryana-similar-weather-and-wickets/articleshow/135700801.cms",
-    "time": "2026-11-10T05:42:02.000Z"
   },
   {
     "cat": "Business",
@@ -574,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/russia-us-diesel-deal-delivers-results-lavrov-claims-prices-have-already-fallen/articleshow/135698830.cms",
     "time": "2026-11-10T04:41:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Shubman Gill is captaining India for the last time in ODI series",
-    "desc": "Shubman Gill leads India in his final match of the ODI series against New Zealand at Seddon Park. He will miss the fourth and fifth ODIs due to workload management before the Test series. India are ahead in the series, leading series 2-0. Shreyas Iyer will take over as captain for the final two matches.",
-    "img": "https://static.toiimg.com/photo/msid-135699500,imgsize-36196.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/why-shubman-gill-is-captaining-india-for-the-last-time-in-new-zealand-odi-series/articleshow/135699367.cms",
-    "time": "2026-11-10T04:38:58.000Z"
   },
   {
     "cat": "Business",
@@ -729,33 +684,6 @@ const newsData_en = [
     "time": "2026-11-09T13:37:33.000Z"
   },
   {
-    "cat": "World",
-    "title": "Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat",
-    "desc": "America's top diplomat offered a robust defence of the more than eight-month-old war even as voters blamed Mr. Trump's policies for the hit to their pocketbooks, including higher energy prices that stemmed from disruptions to shipments in the Strait of Hormuz",
-    "img": "https://th-i.thgim.com/public/incoming/8vyybh/article71681268.ece/alternates/LANDSCAPE_1200/2026-11-08T221548Z_927214633_RC2YJOAS8LEN_RTRMADP_3_USA-RUBIO.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat/article71681264.ece",
-    "time": "2026-11-09T13:13:58.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump to meet Iran war mediator Qatar, no imminent deal seen to end war",
-    "desc": "Mutual attacks continue, with the U.S. striking Iran's Qeshm island overnight, according to Iranian state media, and Iran attacking tankers in the Gulf and ‌Strait of Hormuz this month while its Yemeni Houthi allies have hit Saudi Arabia",
-    "img": "https://th-i.thgim.com/public/incoming/ps6ujk/article71682660.ece/alternates/LANDSCAPE_1200/Trump_84433.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-to-meet-iran-war-mediator-qatar-no-imminent-deal-seen-to-end-war/article71682536.ece",
-    "time": "2026-11-09T12:47:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana' BO day 5: Ranbir's film rakes MASSIVE Rs 107 cr in single day; crosses Rs 346 cr net",
-    "desc": "Part 1' has crossed a remarkable Rs 500 crore milestone globally within a short time of its release. The movie's box office performance thrived during the Diwali festivities, propelling it to become the fifth highest grossing film of 2026. Featuring a stellar cast, including Ranbir Kapoor, Yash, and Sai Pallavi, the release of the second part is now pushed to 2028 rather than next year.",
-    "img": "https://static.toiimg.com/photo/msid-135677880,imgsize-284369.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-part-1-box-office-collection-day-5-live-ranbir-kapoors-film-continues-strong-run-collects-rs-44-22-cr-net-in-india/articleshow/135677850.cms",
-    "time": "2026-11-09T09:47:41.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "China dismisses a spy plot claim involving Nvidia CEO Jensen Huang as smear campaign",
     "desc": "The chips company CEO is at the center of a controversy over whether he drove sales of advanced computer chips to China, in spite of U.S. tech restrictions aimed at limiting China’s ability to access these advanced technologies",
@@ -799,24 +727,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-november-09-2026-week-should-you-buy-or-sell-mcx-gold-us-iran-war-middle-east-us-fed-rate-hike/articleshow/135674444.cms",
     "time": "2026-11-09T07:12:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Nifty50 to hit 28,000 in 2027? 3 factors that could drive Dalal street's next run",
-    "desc": "Dalal Street is experiencing a remarkable surge, leading to a revised Nifty 50 target of 28,000 points by 2027. This positive shift is driven by optimistic earnings projections and lower crude oil prices. Additionally, recent inflows from foreign portfolio investors have strengthened market confidence, while expectations of reduced capital spending in artificial intelligence add to this growth narrative. Overall, Indian equities seem poised for a robust economic future.",
-    "img": "https://static.toiimg.com/photo/msid-135673075,imgsize-171400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/nifty50-to-hit-28000-in-2027-3-factors-that-could-drive-dalal-streets-next-run/articleshow/135672832.cms",
-    "time": "2026-11-09T06:19:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Where banks are closed on November 9; check state-wise list",
-    "desc": "Banks will observe several holidays throughout November for Diwali and various regional festivals across India. Closure dates vary by state, impacting customers' banking activities and access to physical branches. While ATMs and online banking services remain operational, branch-dependent transactions may require rescheduling. Customers should review the holiday schedules for their respective states to avoid inconveniences. Planning banking requirements around these holidays can help customers manage their transactions efficiently.",
-    "img": "https://static.toiimg.com/photo/msid-135672501,imgsize-62206.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-on-diwali-where-banks-are-closed-on-november-9-check-state-wise-list/articleshow/135672253.cms",
-    "time": "2026-11-09T05:49:10.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +808,95 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
     "time": "2026-11-05T18:10:01.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "India’s viral glass air fryer, from marinade to leftovers",
+    "desc": "Shopping for a kitchen upgrade this festive season? SharkNinja’s glass air fryer is built for households of one or two, and it largely lives up to the hype, with one gap Ninja India still has to close.",
+    "img": "https://th-i.thgim.com/public/incoming/3kjmgw/article71634248.ece/alternates/LANDSCAPE_1200/IMAGE%20CAPTION_%20Paneer%20tikka%20in%20Cyberspace%20Blue%20wings%20in%20Stone%20samosas%20in%20Sage%20Green_%20the%20Crispi%E2%80%99s%20glass%20bowl%20shows%20every%20bit%20of%20the%20browning..png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/life-and-style/ninja-crispi-review-indias-viral-glass-air-fryer-from-marinade-to-leftovers/article71634242.ece",
+    "time": "2026-11-05T15:25:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Ramayana: Part 1’: Ranbir Kapoor’s earnest appeal gives new life to Rama",
+    "desc": "Ranbir Kapoor’s turn as the eternal idealist has come under scrutiny with the release of Nitesh Tiwari’s ‘Ramayana’, with some viewers projecting that the actor didn’t quite fit into the role. But is that really the case?",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/y84yi6/article71669793.ece/alternates/LANDSCAPE_1200/cvr%20-%202026-11-05T172000.356.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/ramayana-part-1-ranbir-kapoors-earnest-appeal-gives-new-life-to-rama/article71669695.ece",
+    "time": "2026-11-05T13:25:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jinson Abraham’s exhibition Kollavarsham 1202: Munnē: Ippōzh: Ini in Thiruvananthapuram, interlinks fabric and time",
+    "desc": "The exhibition features images from Jinson Abraham’s Kollavarsham 1202 calendar and a few other portraits, which looks at how fashion was used as a cultural marker in the past, in an attempt to recreate the historical presence of the marginalised",
+    "img": "https://th-i.thgim.com/public/incoming/biiswg/article71668589.ece/alternates/LANDSCAPE_1200/JAP29973.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/art/jinson-abrahams-photography-exhibition-kollavarsham-1202-munne-ippozh-ini-in-thiruvananthapuram-interlinks-fabric-and-time/article71664343.ece",
+    "time": "2026-11-05T11:30:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Ramayana: Part 1’ movie review: Ranbir Kapoor and Yash excel as Ravana outshines Rama on screen",
+    "desc": "Lankesh gets fair treatment while Rama sticks to tradition as Nitesh Tiwari turns the epic into an action-adventure where technology takes a leap of faith but lands somewhere between spectacle and soul. It holds your gaze but doesn’t travel further.",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/e7ae2q/article71669121.ece/alternates/LANDSCAPE_1200/Ranbir%20Kapoor%20in%20%E2%80%98Ramayana%20Part%201%E2%80%99",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/ramayana-part-1-movie-review-ranbir-kapoor-and-yash-excel-as-ravana-outshines-rama-on-screen/article71669057.ece",
+    "time": "2026-11-05T09:54:48.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
   }
 ];
