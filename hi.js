@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Cricket Australia rules out fresh investigation into 2018 ball-tampering scandal",
+    "desc": "Cricket Australia (CA) has ruled out reopening its investigation into the ball-tampering scandal 2018. Chief executive Todd Greenberg insisted that recent revelations from Usman Khawaja and David Warner do not provide sufficient grounds for another...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cricket-australia-rules-out-fresh-investigation-into-2018-ball-tampering-scandal-2026-11-10-1059067",
+    "time": "2026-11-10T05:20:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravi Shastri backs Hardik Pandya to feel charged if potential move to PBKS is confirmed",
+    "desc": "Ravi Shastri believes Hardik Pandya has the ability to change the course of a T20 match when operating at full fitness, as speculation over the all-rounder's potential switch from Mumbai Indians to Punjab Kings gathers...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravi-shastri-backs-hardik-pandya-to-feel-charged-if-potential-move-to-pbks-is-confirmed-2026-11-10-1059061",
+    "time": "2026-11-10T04:47:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kane Williamson reveals how Virat Kohli's advice helped him decide on international retirement",
+    "desc": "Former New Zealand captain Kane Williamson has revealed that a conversation with Virat Kohli played an important role in him deciding to retire from international cricket. The veteran said speaking with the Indian international helped...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kane-williamson-reveals-how-virat-kohli-s-advice-helped-him-decide-on-international-retirement-2026-11-10-1059057",
+    "time": "2026-11-10T02:53:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zimbabwe become first team to register major feat in Test cricket history in clash against Afghanistan",
+    "desc": "Zimbabwe entered the record books after becoming the first team in the history of Test cricket to cross the 500-run mark in both innings of a match. The landmark came during their drawn opening Test...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-become-first-team-to-register-major-feat-in-test-cricket-history-in-clash-against-afghanistan-2026-11-10-1059054",
+    "time": "2026-11-10T02:01:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rain is back and the wait game continues, frustrating for fans",
+    "desc": "The series moves to Hamilton with New Zealand facing a must-win situation in the third ODI against India. After two closely contested encounters, the visitors hold the advantage, having made the most of challenging conditions...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3rd-odi-live-score-india-vs-new-zealand-latest-match-updates-scorecards-playing-xis-reactions-virat-kohli-rohit-sharma-shubman-gill-1059052",
+    "time": "2026-11-10T01:27:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Suryakumar Yadav returns as captain, as Mumbai announce squad for SMAT 2026",
     "desc": "Suryakumar Yadav has been named as Mumbai captain for the upcoming Syed Mushtaq Ali Trophy. The Mumbai Cricket Association (MCA) has confirmed the development on Monday. Now, the appointment marks a significant development for the...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/david-warner-backs-usman-khawaja-s-claims-over-sandpapergate-saga-says-it-s-100-accurate-2026-11-09-1059018",
     "time": "2026-11-09T10:07:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mushfiqur Rahim becomes first Bangladesh cricketer to achieve legendary feat in Test cricket",
-    "desc": "Mushfiqur Rahim has added another landmark to his remarkable Test career, as he became the first Bangladesh cricketer to score 7,000 runs in the longest format during the ongoing Test against West Indies in Sylhet....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mushfiqur-rahim-becomes-first-bangladesh-cricketer-to-achieve-legendary-feat-in-test-cricket-2026-11-09-1059009",
-    "time": "2026-11-09T08:25:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harshit Rana, Mayank Yadav to feature as Delhi announce SMAT 2026 squad; Ayush Badoni named captain",
-    "desc": "The Delhi and District Cricket Association (DDCA) has officially announced a strong 16-member squad for the upcoming Syed Mushtaq Ali Trophy tournament. Ace pacer Harshit Rana, who has been out of action with injury since...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-mayank-yadav-to-feature-as-delhi-announce-smat-2026-squad-ayush-badoni-named-captain-2026-11-09-1059001",
-    "time": "2026-11-09T06:58:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manchester United in relegation zone after 4-4 draw vs Aston Villa, register just one win in 10 PL matches",
-    "desc": "Manchester United's struggles have reached a new low after an extraordinary 4-4 draw against Aston Villa at Old Trafford. Following which, there are once again questions raised over manager Michael Carrick’s future at the club. Now,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/manchester-united-in-relegation-zone-after-4-4-draw-vs-aston-villa-register-just-one-win-in-10-premier-league-matches-2026-11-09-1058999",
-    "time": "2026-11-09T06:36:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah, Ravindra Jadeja miss out on bowling as rain spoils Day 3 of unofficial Test vs New Zealand A",
-    "desc": "Rain washed out Day 3 of the unofficial third Test between India A and New Zealand A in Lincoln on Monday. Jasprit Bumrah and Ravindra Jadeja, among others, were expected to return to action, but...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-ravindra-jadeja-miss-out-on-bowling-as-rain-spoils-day-3-of-unofficial-test-vs-new-zealand-a-2026-11-09-1058993",
-    "time": "2026-11-09T05:44:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Marnus Labuschagne not in Australia's plans for New Zealand Test series, George Bailey explains reason",
-    "desc": "Marnus Labuschagne is not in Australia’s plans for the upcoming four-match Test series against New Zealand. The selectors, led by George Bailey, want the Queensland batter to instead focus on domestic cricket to rebuild his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/marnus-labuschagne-not-in-australia-s-plans-for-new-zealand-test-series-george-bailey-explains-reason-2026-11-09-1058990",
-    "time": "2026-11-09T04:56:27.000Z"
   }
 ];
