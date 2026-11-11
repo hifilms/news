@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Irfan Pathan opens up on India's pace choices ahead of ODI World Cup 2027",
+    "desc": "The Indian team is well in the middle of the ongoing ODI series against New Zealand. It is worth noting that the side won the first two games, and the third ODI of the series...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-opens-up-on-india-s-pace-choices-ahead-of-odi-world-cup-2027-2026-11-11-1059197",
+    "time": "2026-11-11T13:42:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Arshdeep Singh confirms engagement to Samreen Kaur, shares heartfelt post on social media",
     "desc": "In a major development, star India pacer Arshdeep Singh has announced his engagement to his girlfriend, Samreen Kaur. Arshdeep and Samreen had been in a relationship for quite some time, and the two made their...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ravi-shastri-heaps-praise-on-star-india-bowler-backs-him-to-impress-ahead-of-nz-tests-2026-11-10-1059118",
     "time": "2026-11-10T14:07:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant on track for upcoming New Zealand Tests, set to undergo final fitness test on November 12",
-    "desc": "The stage is set for the upcoming Test series between India and New Zealand. The sides took on each other across five T20Is and are in the middle of an ODI series, with two games...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-on-track-for-upcoming-new-zealand-tests-set-to-undergo-final-fitness-test-on-november-12-2026-11-10-1059113",
-    "time": "2026-11-10T13:11:16.000Z"
   }
 ];
