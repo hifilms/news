@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New Zealand name squad for the last two ODIs against India, Brett Randell earns maiden call-up",
+    "desc": "NZC (New Zealand Cricket) took centre stage and announced their squad for the upcoming last two matches against the Indian team. It is worth noting that India and New Zealand are in the middle of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-name-squad-for-the-last-two-odis-against-india-brett-randell-earns-maiden-call-up-2026-11-12-1059234",
+    "time": "2026-11-12T05:19:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Irfan Pathan opens up on India's pace choices ahead of ODI World Cup 2027",
     "desc": "The Indian team is well in the middle of the ongoing ODI series against New Zealand. It is worth noting that the side won the first two games, and the third ODI of the series...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/joe-cole-slams-manchester-united-hierarchy-as-michael-carrick-s-sack-rumours-intensify-2026-11-10-1059121",
     "time": "2026-11-10T14:40:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravi Shastri heaps praise on star India bowler, backs him to impress ahead of NZ Tests",
-    "desc": "The stage is set for the upcoming Test series against India and New Zealand. The two sides are in the middle of an ODI series currently against each other, and after the conclusion of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravi-shastri-heaps-praise-on-star-india-bowler-backs-him-to-impress-ahead-of-nz-tests-2026-11-10-1059118",
-    "time": "2026-11-10T14:07:27.000Z"
   }
 ];
