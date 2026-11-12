@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lairenlakpam Ambekar Meetei scripts history, brings home India's first ever boxing gold at the Youth Olympics",
+    "desc": "Manipur’s Lairenlakpam Ambekar Meetei has etched his name in the history books, bringing home India’s first-ever boxing gold medal at the Youth Olympics. He took on Ireland’s Kristian Jubani in the summit clash of boxing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/lairenlakpam-ambekar-meetei-scripts-history-brings-home-india-s-first-ever-boxing-gold-at-the-youth-olympics-2026-11-12-1059289",
+    "time": "2026-11-12T13:36:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India dominate Afghanistan to reach U19 Asia Cup final, set up thrilling summit clash with Pakistan",
+    "desc": "The Indian team performed brilliantly as they took on Afghanistan in the semi-final of the U19 Asia Cup semi-final. The two sides met at the Al Amerat Cricket Ground Oman Cricket on November 12th, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-dominate-afghanistan-to-reach-u19-asia-cup-final-set-up-thrilling-summit-clash-with-pakistan-2026-11-12-1059278",
+    "time": "2026-11-12T11:29:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manchester United sack Michael Carrick, Mauricio Pochettino set to take over as head coach",
+    "desc": "In a major development, Manchester United has sacked head coach Michael Carrick with immediate effect. The move comes after consistent subpar results for the side across all competitions. It is worth noting that Manchester United...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/manchester-united-sack-michael-carrick-mauricio-pochettino-set-to-take-over-as-head-coach-2026-11-12-1059272",
+    "time": "2026-11-12T10:49:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer gives his take on Hardik Pandya after massive trade with Punjab Kings",
+    "desc": "The IPL (Indian Premier League) 2027 mini auction is right around the corner; the marquee event is slated to be held in Goa on December 16th, and ahead of the event, the tournament was left...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-gives-his-take-on-the-hardik-pandya-after-massive-trade-with-punjab-kings-2026-11-12-1059262",
+    "time": "2026-11-12T09:39:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Wesley Sneijder slams Jorge Jesus for mistreating Cristiano Ronaldo after latter's international retirement",
+    "desc": "Veteran footballer Cristiano Ronaldo rocked world football as he announced his retirement from international football. After a subpar World Cup, many thought that Ronaldo would retire; however, he continued with the national team, but due...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/wesley-sneijder-slams-jorge-jesus-for-mistreating-cristiano-ronaldo-after-latter-s-international-retirement-2026-11-12-1059253",
+    "time": "2026-11-12T08:09:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joe Root, Handscomb, open up on the sandpaper gate controversy after Khawaja's recent comments",
+    "desc": "Former Australia cricketer Usman Khawaja has taken world cricket by storm after his biography ‘Sabr’ was published, where he talked about the infamous Sandpaper Gate controversy that surrounded Australia Cricket in 2018 during their South...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-handscomb-open-up-on-the-sandpaper-gate-controversy-after-khawaja-s-recent-comments-2026-11-12-1059250",
+    "time": "2026-11-12T07:15:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kevin Malloy named the new chair of NZC following Diana Puketapu-Lyndon's departure",
+    "desc": "In a major development, NZC (New Zealand Cricket) came forward and named Kevin Malloy as their new chair after the stepping down of Diana Puketapu-Lyndon from the role. It is worth noting that the decision...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kevin-malloy-named-the-new-chair-of-nzc-following-diana-puketapu-lyndon-s-departure-2026-11-12-1059241",
+    "time": "2026-11-12T06:21:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "New Zealand name squad for the last two ODIs against India, Brett Randell earns maiden call-up",
     "desc": "NZC (New Zealand Cricket) took centre stage and announced their squad for the upcoming last two matches against the Indian team. It is worth noting that India and New Zealand are in the middle of...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-confirms-engagement-to-samreen-kaur-shares-heartfelt-post-on-social-media-2026-11-11-1059190",
     "time": "2026-11-11T12:15:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jacob Bethell ruled out of upcoming white-ball series against Australia, remains doubtful for SA series",
-    "desc": "In a major blow to England, star batter Jacob Bethell has been ruled out of the side’s upcoming white-ball series against Australia. It is worth noting that England and Australia are slated to take on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jacob-bethell-ruled-out-of-upcoming-white-ball-series-against-australia-remains-doubtful-for-sa-series-2026-11-11-1059177",
-    "time": "2026-11-11T11:03:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer gives his take on Hardik-Arshdeep trade ahead of IPL 2027",
-    "desc": "The IPL (Indian Premier League) 2027 mini auction is right around the corner, and ahead of the new season, Mumbai Indians skipper Hardik Pandya has been traded to Punjab Kings, with Arshdeep Singh going to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-gives-his-take-on-hardik-arshdeep-trade-ahead-of-ipl-2027-2026-11-11-1059171",
-    "time": "2026-11-11T09:53:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rio Ferdinand weighs in on potential replacements for Michael Carrick ahead of imminent sacking",
-    "desc": "Manchester United are in search of a new manager. According to recent reports, Michael Carrick’s time is up at the Red Devils, and the 20-time league champions are looking for a change at the helm...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/rio-ferdinand-weighs-in-on-potential-replacements-for-michael-carrick-ahead-of-imminent-sacking-2026-11-11-1059161",
-    "time": "2026-11-11T08:28:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav opens up on his 'difficult' phase, aims to bounce back ahead of IPL 2027",
-    "desc": "The stage is set for the mini auction of the IPL (Indian Premier League) 2027. With the 20th season of the IPL looming on the horizon, many eyes will be set on five-time champions Mumbai...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-opens-up-on-his-difficult-phase-aims-to-bounce-back-ahead-of-ipl-2027-2026-11-11-1059159",
-    "time": "2026-11-11T08:00:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand name squad for upcoming India Tests, Rachin Ravindra, Devon Conway set to make a return",
-    "desc": "NZC (New Zealand Cricket) came forward and announced the side’s squad ahead of the upcoming Test series against the Indian team. It is worth noting that India and New Zealand will take on each other...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-name-squad-for-upcoming-india-tests-rachin-ravindra-devon-conway-set-to-make-a-return-2026-11-11-1059150",
-    "time": "2026-11-11T06:47:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya joins Punjab Kings ahead of IPL 2027, Arshdeep Singh gets traded to Mumbai Indians",
-    "desc": "In a major development, IPL (Indian Premier League) franchises Mumbai Indians and Punjab Kings have completed the trades of star players Hardik Pandya and Arshdeep Singh. The current MI skipper, Pandya, will be representing Punjab...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-joins-punjab-kings-ahead-of-ipl-2027-arshdeep-singh-gets-traded-to-mumbai-indians-2026-11-11-1059142",
-    "time": "2026-11-11T05:14:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Joe Cole slams Manchester United hierarchy as Michael Carrick's sack rumours intensify",
-    "desc": "Former Chelsea footballer Joe Cole recently came forward and slammed Manchester United and its owners for not trusting and backing head coach Michael Carrick with the proper players and signings that have resulted in United...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/joe-cole-slams-manchester-united-hierarchy-as-michael-carrick-s-sack-rumours-intensify-2026-11-10-1059121",
-    "time": "2026-11-10T14:40:23.000Z"
   }
 ];
