@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Utter nonsense': Pat Cummins slams Usman Khawaja after latter's controversial sandpaper gate comments",
+    "desc": "Former Australia cricketer Usman Khawaja rocked world cricket with the release of his biography ‘Sabr’. In the book, Khawaja talked about the infamous Sandpaper Gate incident that surrounded Australian cricket back in 2018 during their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/utter-nonsense-pat-cummins-slams-usman-khawaja-after-latter-s-controversial-sandpaper-gate-comments-2026-11-13-1059319",
+    "time": "2026-11-13T03:36:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Shubman Gill not playing India's fourth ODI against New Zealand in Mount Maunganui?",
+    "desc": "The Indian team took on New Zealand in the fourth ODI of the ongoing series between the two sides. The teams met at Bay Oval in Mount Maunganui for the clash on November 13th, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-shubman-gill-not-playing-india-s-fourth-odi-against-new-zealand-in-mount-maunganui-2026-11-13-1059314",
+    "time": "2026-11-13T01:57:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India look for strong finish to the first innings, NZ 5 down",
+    "desc": "The stage is set for the fourth ODI of the ongoing series between India and Australia. The two sides meet at Bay Oval in Mount Maunganui for the clash, and both sides will look to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-4th-odi-live-score-shreyas-iyer-takes-charge-as-india-look-to-seal-series-at-bay-oval-1059312",
+    "time": "2026-11-13T01:17:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lairenlakpam Ambekar Meetei scripts history, brings home India's first ever boxing gold at the Youth Olympics",
     "desc": "Manipur’s Lairenlakpam Ambekar Meetei has etched his name in the history books, bringing home India’s first-ever boxing gold medal at the Youth Olympics. He took on Ireland’s Kristian Jubani in the summit clash of boxing...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kevin-malloy-named-the-new-chair-of-nzc-following-diana-puketapu-lyndon-s-departure-2026-11-12-1059241",
     "time": "2026-11-12T06:21:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand name squad for the last two ODIs against India, Brett Randell earns maiden call-up",
-    "desc": "NZC (New Zealand Cricket) took centre stage and announced their squad for the upcoming last two matches against the Indian team. It is worth noting that India and New Zealand are in the middle of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-name-squad-for-the-last-two-odis-against-india-brett-randell-earns-maiden-call-up-2026-11-12-1059234",
-    "time": "2026-11-12T05:19:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Irfan Pathan opens up on India's pace choices ahead of ODI World Cup 2027",
-    "desc": "The Indian team is well in the middle of the ongoing ODI series against New Zealand. It is worth noting that the side won the first two games, and the third ODI of the series...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-opens-up-on-india-s-pace-choices-ahead-of-odi-world-cup-2027-2026-11-11-1059197",
-    "time": "2026-11-11T13:42:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arshdeep Singh confirms engagement to Samreen Kaur, shares heartfelt post on social media",
-    "desc": "In a major development, star India pacer Arshdeep Singh has announced his engagement to his girlfriend, Samreen Kaur. Arshdeep and Samreen had been in a relationship for quite some time, and the two made their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-confirms-engagement-to-samreen-kaur-shares-heartfelt-post-on-social-media-2026-11-11-1059190",
-    "time": "2026-11-11T12:15:15.000Z"
   }
 ];
