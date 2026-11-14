@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "ICC not in mood to increase WTC participants, set to retain format until 2031 despite expansion calls: Report",
+    "desc": "The International Cricket Council (ICC) is expected to continue with the existing structure of the World Test Championship (WTC) for the next two editions of the competition. This means the current batch of nine teams...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-not-in-mood-to-increase-wtc-participants-set-to-retain-format-until-2031-despite-expansion-calls-report-2026-11-14-1059475",
+    "time": "2026-11-14T17:52:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Three-time Andhra Orange Cap winner Ashwin Hebbar highlights struggle for domestic openers in IPL",
+    "desc": "In the hyper-competitive landscape of Indian domestic cricket, the journey from consistency to an established Indian Premier League (IPL) career is a gruelling trial of endurance. For elite top-order batters, the path is blocked by...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/three-time-andhra-orange-cap-winner-ashwin-hebbar-highlights-struggle-for-domestic-openers-in-ipl-2026-11-14-1059473",
+    "time": "2026-11-14T16:30:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohit Ulva reveals how faith and self-belief helped him pull off U19 Asia Cup final heist against Pakistan",
+    "desc": "Mohit Ulva delivered the defining performance of India's U19 Asia Cup 2026 campaign, as he produced an unbeaten 49 off just 26 balls to guide the team to a remarkable one-wicket victory over Pakistan in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohit-ulva-reveals-how-faith-and-self-belief-helped-him-pull-off-u19-asia-cup-final-heist-against-pakistan-2026-11-14-1059471",
+    "time": "2026-11-14T16:10:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Mohit Ulva? 18-year-old pace sensation engineers improbable heist vs Pakistan in U19 Asia Cup final",
+    "desc": "18-year-old pace-bowling all-rounder Mohit Ulva has etched his name in Indian cricketing folklore. Walking in at number ten with India reeling at 252 for eight in pursuit of Pakistan’s daunting 338 in the 2026 U19...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-mohit-ulva-18-year-old-pace-sensation-engineers-improbable-heist-vs-pakistan-in-u19-asia-cup-final-2026-11-14-1059459",
+    "time": "2026-11-14T13:48:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India stun Pakistan with dramatic late comeback through Mohit Ulva, win U19 Asia Cup 2026 in Oman",
+    "desc": "India have defeated Pakistan by one wicket at Al Amerat Cricket Ground (Ministry Turf 2) to win the U19 Asia Cup 2026. Just when the game looked to be out of India’s reach, with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-stun-pakistan-with-dramatic-late-comeback-through-mohit-ulva-win-u19-asia-cup-2026-in-oman-2026-11-14-1059457",
+    "time": "2026-11-14T13:15:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Two changes made as South Africa announce playing XI for first Bangladesh Test",
     "desc": "South Africa have made two changes to their playing XI for the opening Test against Bangladesh. Zubayr Hamza has returned back to the scheme of things and is set to bat at number three, as...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/mauricio-pochettino-reveals-why-he-decided-to-leave-national-team-job-to-coach-manchester-united-2026-11-14-1059435",
     "time": "2026-11-14T08:57:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer slams India's batting attack after 244-run defeat against New Zealand in the fourth ODI",
-    "desc": "The Indian team succumbed to a hefty loss in the fourth ODI of the ongoing series against New Zealand. The two sides met at Bay Oval in Mount Maunganui on November 13th for the clash,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-slams-india-s-batting-attack-after-244-run-defeat-against-new-zealand-in-the-fourth-odi-2026-11-14-1059431",
-    "time": "2026-11-14T08:19:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gurnoor Brar added to India's squad for New Zealand Tests, Kuldeep Yadav faces exclusion",
-    "desc": "In a major development, the Indian team has added star pacer Gurnoor Brar to their upcoming Test for the two-game Test series against New Zealand. The first test of the series is slated to be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gurnoor-brar-added-to-india-s-squad-for-new-zealand-tests-kuldeep-yadav-faces-exclusion-2026-11-14-1059423",
-    "time": "2026-11-14T06:56:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manal keeps India's hopes alive with blistering shots",
-    "desc": "The stage is set for the summit clash of the U19 Asia Cup 2026 final. India U19 will be taking on Pakistan U19 in the final as both sides will look to get their hands...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-u19-asia-cup-final-live-score-india-hope-to-make-amends-in-summit-clash-against-arch-rivals-1059413",
-    "time": "2026-11-14T04:10:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer comes to Kuldeep Yadav's defence after India's loss in fourth NZ ODI",
-    "desc": "The Indian team succumbed to a hefty loss in the fourth ODI of the ongoing series against New Zealand. The two sides met at Bay Oval in Mount Maunganui on November 13th, and completely dominating...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-comes-to-kuldeep-yadav-s-defence-after-india-s-loss-in-fourth-nz-odi-2026-11-14-1059410",
-    "time": "2026-11-14T03:34:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kagiso Rabada weighs in on Usman Khawaja's sandpaper gate comments with his biography release",
-    "desc": "Former Australia cricketer Usman Khawaja recently rocked world cricket with the release of his biography, ‘Sabr’. Khawaja talked about the infamous Sandpaper Gate incident, in which Steve Smith, David Warner, and Cameron Bancroft were banned...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kagiso-rabada-weighs-in-on-usman-khawaja-s-sandpaper-gate-comments-with-his-biography-release-2026-11-14-1059407",
-    "time": "2026-11-14T02:43:54.000Z"
   }
 ];
