@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan win the toss, opt to bat first",
+    "desc": "The stage is set for the summit clash of the U19 Asia Cup 2026 final. India U19 will be taking on Pakistan U19 in the final as both sides will look to get their hands...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-u19-asia-cup-final-live-score-india-hope-to-make-amends-in-summit-clash-against-arch-rivals-1059413",
+    "time": "2026-11-14T04:10:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer comes to Kuldeep Yadav's defence after India's loss in fourth NZ ODI",
+    "desc": "The Indian team succumbed to a hefty loss in the fourth ODI of the ongoing series against New Zealand. The two sides met at Bay Oval in Mount Maunganui on November 13th, and completely dominating...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-comes-to-kuldeep-yadav-s-defence-after-india-s-loss-in-fourth-nz-odi-2026-11-14-1059410",
+    "time": "2026-11-14T03:34:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kagiso Rabada weighs in on Usman Khawaja's sandpaper gate comments with his biography release",
+    "desc": "Former Australia cricketer Usman Khawaja recently rocked world cricket with the release of his biography, ‘Sabr’. Khawaja talked about the infamous Sandpaper Gate incident, in which Steve Smith, David Warner, and Cameron Bancroft were banned...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kagiso-rabada-weighs-in-on-usman-khawaja-s-sandpaper-gate-comments-with-his-biography-release-2026-11-14-1059407",
+    "time": "2026-11-14T02:43:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch India vs Pakistan, U19 Asia Cup final live on TV for free and stream online?",
+    "desc": "The stage is set for the summit clash of the ongoing U19 Asia Cup 2026. Arch-rivals India U19 will be taking on Pakistan U19 in the final at the Al Amerat Cricket Ground in Oman...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-india-vs-pakistan-u19-asia-cup-final-live-on-tv-for-free-and-stream-online-2026-11-14-1059404",
+    "time": "2026-11-14T01:39:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shreyas Iyer sums up India's embarrassing fourth ODI loss against NZ, heaps praise on Matt Henry's spell",
     "desc": "The Indian team took on New Zealand in the fourth ODI of the ongoing series. The two sides met at Bay Oval at Mount Maunganui on November 13th, and New Zealand handed the Indian team...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/utter-nonsense-pat-cummins-slams-usman-khawaja-after-latter-s-controversial-sandpaper-gate-comments-2026-11-13-1059319",
     "time": "2026-11-13T03:36:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Shubman Gill not playing India's fourth ODI against New Zealand in Mount Maunganui?",
-    "desc": "The Indian team took on New Zealand in the fourth ODI of the ongoing series between the two sides. The teams met at Bay Oval in Mount Maunganui for the clash on November 13th, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-shubman-gill-not-playing-india-s-fourth-odi-against-new-zealand-in-mount-maunganui-2026-11-13-1059314",
-    "time": "2026-11-13T01:57:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand defeat India by 244 runs",
-    "desc": "New Zealand pulled off an incredible performance as they took on India in the fourth ODI of the ongoing series between the two sides. Meeting at Bay Oval in Mount Maunganui, New Zealand posted a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-4th-odi-live-score-shreyas-iyer-takes-charge-as-india-look-to-seal-series-at-bay-oval-1059312",
-    "time": "2026-11-13T01:17:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lairenlakpam Ambekar Meetei scripts history, brings home India's first ever boxing gold at the Youth Olympics",
-    "desc": "Manipur’s Lairenlakpam Ambekar Meetei has etched his name in the history books, bringing home India’s first-ever boxing gold medal at the Youth Olympics. He took on Ireland’s Kristian Jubani in the summit clash of boxing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/lairenlakpam-ambekar-meetei-scripts-history-brings-home-india-s-first-ever-boxing-gold-at-the-youth-olympics-2026-11-12-1059289",
-    "time": "2026-11-12T13:36:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India dominate Afghanistan to reach U19 Asia Cup final, set up thrilling summit clash with Pakistan",
-    "desc": "The Indian team performed brilliantly as they took on Afghanistan in the semi-final of the U19 Asia Cup semi-final. The two sides met at the Al Amerat Cricket Ground Oman Cricket on November 12th, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-dominate-afghanistan-to-reach-u19-asia-cup-final-set-up-thrilling-summit-clash-with-pakistan-2026-11-12-1059278",
-    "time": "2026-11-12T11:29:10.000Z"
   }
 ];
