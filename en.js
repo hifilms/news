@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Scene' BO day 9: Suriya and Naslen overtake 'Vishwanath and Sons'",
+    "desc": "Suriya and Naslen's film 'Scene' continues to impress at the box office, amassing Rs 9.50 crore net in its second weekend alone. With this achievement, its total domestic earnings have reached Rs 127.20 crore net. The Tamil version led the charge, accounting for 80.9% of the collections, while the Telugu version added 19.1%. On the international front, the film earned Rs 79.",
+    "img": "https://static.toiimg.com/photo/msid-135844798,imgsize-328697.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/scene-box-office-collections-day-9-suriya-and-naslen-overtake-vishwanath-and-sons-by-rs-64-cr-worldwide-total-reaches-rs-227-cr-saturday-sees-58-growth/articleshow/135844778.cms",
+    "time": "2026-11-15T00:08:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2026, Hugh Jackman and ex-wife Deborah-Lee Furness have listed their New York penthouse for $29.9M",
+    "desc": "Hugh Jackman and Deborah-Lee Furness are back on the market, relisting their exquisite New York triplex penthouse for a lower asking price. Originally listed at $38.9 million, the sprawling 11,000 square foot space has struggled to attract buyers over four years. Purchased in 2008 for $21.1 million, this West Village gem boasts five bedrooms, captivating views, and luxe amenities, despite the challenges following their divorce in 2025.",
+    "img": "https://static.toiimg.com/photo/msid-135832548,imgsize-232545.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2008-hugh-jackman-and-ex-wife-deborah-lee-furness-bought-their-new-york-penthouse-again-it-is-now-listed-for-29-9m-facing-a-10m-reduction-after-four-years-on-the-market/articleshow/135832330.cms",
+    "time": "2026-11-14T23:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Drought-stricken Beed: Land of parched fields and broken promises",
+    "desc": "Drought has devastated Maharashtra’s Beed district, pushing women farmers and labourers towards distress migration. Despite repeated pleas for employment, villagers say government job guarantees have failed them, even as the State announces a ₹6,728-crore package",
+    "img": "https://th-i.thgim.com/public/incoming/oasout/article71690053.ece/alternates/LANDSCAPE_1200/6744_2_11_2026_19_5_42_1_05_IMG_2517.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/drought-stricken-beed-land-of-parched-fields-and-broken-promises/article71689837.ece",
+    "time": "2026-11-14T22:56:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "For 35 years, Frank Sinatra's ex-wife Nancy Barbato’s Beverly Hills home is up for rent for $25,500",
+    "desc": "Experience the allure of the Sinatra Residence, a Beverly Hills gem that once belonged to Nancy Barbato. This expansive estate, boasting around 5,000 square feet and resting on 1.08 acres, features luxurious amenities including a heated pool and a chef’s kitchen, ideal for entertainment. Now available for rent at $25,500 per month, this landmark property invites you to indulge in timeless style and sophistication.",
+    "img": "https://static.toiimg.com/photo/msid-135830128,imgsize-43752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/for-35-years-frank-sinatras-ex-wife-nancy-barbato-lived-in-this-beverly-hills-home-until-her-demise-in-2018-the-one-acre-property-is-now-available-to-rent-for-25500-a-month/articleshow/135830054.cms",
+    "time": "2026-11-14T22:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2015, Jeremy Renner sold his Hollywood Hills land; a mansion was built, and it's on the market for $99M",
+    "desc": "Jeremy Renner sold his Hollywood Hills land in 2015 for $8 million to luxury real estate developers. The developers constructed a new mansion, which has now been put on the market at $99 million. The property features 22,000 square feet of living space, seven bedrooms, and 12 bathrooms across an acre. Listing prices have seen a significant drop from the initial asking price of $125 million.",
+    "img": "https://static.toiimg.com/photo/msid-135830020,imgsize-72826.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2015-jeremy-renner-sold-his-hollywood-hills-land-for-8m-it-was-turned-into-a-22000-square-foot-mansion-and-is-now-on-the-market-for-99m-after-a-price-cut-from-the-original-asking-price-of-125m/articleshow/135829950.cms",
+    "time": "2026-11-14T21:30:00.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Jensen Huang",
+    "desc": "The Nvidia chief’s abrupt exit marks a stunning fall from grace for the man who built the hardware foundation of the AI revolution, forged deep ties with Silicon Valley’s tech leaders and expanded the company’s reach across every layer of the AI stack",
+    "img": "https://th-i.thgim.com/public/news/national/9gdhih/article71702808.ece/alternates/LANDSCAPE_1200/jensen%20huang_Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece",
+    "time": "2026-11-14T20:58:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Listing will change Tata way, put profit above philanthropy: Noel",
+    "desc": "Noel Tata has expressed strong opposition to the potential listing of Tata Sons on public markets. He believes such a move may compromise the group's long-standing commitment to philanthropy over profit. Some trustees argue that listing could enhance governance and transparency while supporting charitable aims. The debate reflects differing views on the future ownership structure of the Tata Group.",
+    "img": "https://static.toiimg.com/photo/msid-135842199,imgsize-125498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/listing-will-change-tata-way-put-profit-above-philanthropy-noel/articleshow/135842200.cms",
+    "time": "2026-11-14T20:31:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Spate of ragging cases forces NMC to direct strict action",
+    "desc": "National Medical Commission has issued multiple notices to medical colleges after receiving disturbing ragging complaints from MBBS students. Reports indicate various forms of abuse, including physical humiliation and coercion, mostly from colleges in Rajasthan and a single college in Karnataka. Colleges are urged to conduct impartial inquiries and ensure no retaliation occurs against complainants. Enforcement of strict actions against guilty students largely rests with state authorities and medical councils.",
+    "img": "https://static.toiimg.com/photo/msid-135842183,imgsize-2796826.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/spate-of-ragging-cases-forces-nmc-to-direct-strict-action/articleshow/135842185.cms",
+    "time": "2026-11-14T20:23:08.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Rahul Gandhi promises social security, insurance cover for gig workers in Telangana",
     "desc": "Mr Gandhi said every gig worker would receive ₹5 lakh in accident insurance and ₹10 lakh in health insurance. A social security contribution mechanism under which 1% of every transaction, including deliveries and cab rides, would be contributed towards the workers’ future security",
@@ -198,15 +270,6 @@ const newsData_en = [
     "time": "2026-11-14T13:04:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rahul Gandhi questions legitimacy of 2024 polls; US flight meltdown exposes ageing air traffic control system, and more",
-    "desc": "Rahul Gandhi raises concerns over the integrity of the 2024 Lok Sabha elections by questioning the Election Commission's voter classification. Meanwhile, a serious communications error led to a nationwide flight stoppage, affecting more than 1.5 million passengers. Jensen Huang faces notable financial setbacks following his departure from Nvidia but still holds significant wealth in the company's shares.",
-    "img": "https://static.toiimg.com/photo/msid-135833525,imgsize-117967.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-newswrap-rahul-gandhi-questions-legitimacy-of-2024-polls-alleges-140-million-voters-declared-illegal-us-flight-meltdown-exposes-ageing-air-traffic-control-system-and-more/articleshow/135833292.cms",
-    "time": "2026-11-14T12:56:15.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Who is Ramola Bachchan? Meet fashion designer, TV presenter at centre of Big B's Jalsa dispute",
     "desc": "Ramola Bachchan, linked to the illustrious Bachchan family as Amitabh's sister-in-law, has voiced apprehensions over a gift deed associated with the Jalsa bungalow. She alleges it was originally her property before being transferred to Jaya Bachchan. Currently, authorities are examining her concerns regarding the legitimacy of this transfer, with the case still unfolding and no comments from Amitabh or Jaya. Despite her successful ventures, Ramola has kept a discreet profile.",
@@ -223,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/before-they-were-my-parents-they-were-children-too-soha-ali-khan-shares-rare-photos-of-sharmila-tagore-and-mansoor-ali-khan-pataudi-with-nehru/articleshow/135832633.cms",
     "time": "2026-11-14T12:19:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'How were 2024 elections legitimate?' Rahul accuses EC of declaring 140 million who voted illegal",
-    "desc": "Congress leader Rahul Gandhi challenged the legitimacy of the 2024 Lok Sabha elections during the Bharat Summit in Hyderabad. He stated that 140 million voters were incorrectly labeled as non-existent or non-voters, raising concerns about election integrity. Gandhi highlighted the controversial influence of big business on politics, particularly criticizing Prime Minister Narendra Modi's connections with businessman Gautam Adani.",
-    "img": "https://static.toiimg.com/photo/msid-135832658,imgsize-1185295.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/how-were-2024-elections-legitimate-rahul-accuses-ec-of-declaring-140-million-who-voted-illegal/articleshow/135832504.cms",
-    "time": "2026-11-14T12:18:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -297,15 +351,6 @@ const newsData_en = [
     "time": "2026-11-14T11:49:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Rahul always shoots and scoots': Chirag Paswan claims LoP raised phone-tapping charge to disrupt Parliament",
-    "desc": "Chirag Paswan took a strong stance against Rahul Gandhi, accusing him of using unverified phone-tapping claims to disrupt parliamentary proceedings. He highlighted Gandhi's consistent irresponsibility and the ineffective nature of his previous allegations, including issues of voter deletions. Paswan pointed out the lack of public support for Gandhi's rallies, emphasizing that such tactics have failed to gain traction.",
-    "img": "https://static.toiimg.com/photo/msid-135831788,imgsize-124068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rahul-always-shoots-and-scoots-chirag-paswan-claims-lop-raised-phone-tapping-charge-to-disrupt-parliament/articleshow/135831716.cms",
-    "time": "2026-11-14T11:46:52.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. media names Indian official who allegedly ordered plot on Gurpatwant Singh Pannun",
     "desc": "According to Washington Post, R&AW official Vikash Yadav directed businessman Nikhil Gupta, now in custody in the Czech Republic, to hire a hitman to kill Pannun outside his New York residence; it says NSA Ajit Doval was ‘probably aware of RAW’s plans to kill Sikh activists’",
@@ -360,15 +405,6 @@ const newsData_en = [
     "time": "2026-11-14T10:22:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dulquer Salmaan to work on another Telugu rom-com: Report",
-    "desc": "Dulquer Salmaan is preparing for the release of his upcoming Telugu film 'Aakasamlo Oka Tara', which releases soon. Reports indicate that he may work on another romantic comedy with filmmaker Deepak Reddy next. The film features Satvika Veeravalli as Ammulu, who faces challenges in pursuing her education and finding her ambitions. Additionally, Dulquer appears in 'Sri Sri' alongside Pooja Hegde, marking her return to Telugu cinema.",
-    "img": "https://static.toiimg.com/photo/msid-135829904,imgsize-42775.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/dulquer-salmaan-in-talks-for-another-telugu-romantic-comedy-with-director-deepak-reddy-report/articleshow/135829835.cms",
-    "time": "2026-11-14T10:21:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Can't completely surrender': Ex-cricketer criticises India after embarrassing loss",
     "desc": "India suffered a significant batting collapse in the fourth ODI against New Zealand, leading to serious concerns. Head coach Gautam Gambhir and former opener Aakash Chopra emphasized the need for greater responsibility from the batters. New Zealand's Matt Henry took six wickets, dismantling India's top order effectively. This loss was India's second-heaviest in ODI history, highlighting ongoing issues within the batting lineup.",
@@ -378,15 +414,6 @@ const newsData_en = [
     "time": "2026-11-14T09:54:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Here's how Sai Prithviraj landed in Vijay Sethupathi’s ‘Baththa’",
-    "desc": "Sai Prithviraj captured hearts with his role as Sabari in the film 'Baththa', earning accolades and calls for a National Award. What began as an audition trip with his sister turned into a breakthrough moment, showcasing his inherent acting prowess. Post-release, he returned to academics while attracting attention for future endeavors. Audiences eagerly anticipate his next steps as a promising young actor.",
-    "img": "https://static.toiimg.com/photo/msid-135828346,imgsize-128160.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/who-is-sai-prithviraj-how-the-young-actor-landed-vijay-sethupathis-baththa-and-won-hearts-as-sabari/articleshow/135828337.cms",
-    "time": "2026-11-14T09:45:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘I’ll know straight away’: Wasim Akram questions Cummins’ Sandpapergate defence",
     "desc": "Wasim Akram has expressed doubt regarding Pat Cummins' assertion of being unaware of the 2018 ball-tampering scandal. Akram states that a bowler with experience should be able to recognise the distinctive scratches made by sandpaper. Conversely, Cummins has firmly dismissed Usman Khawaja's allegations that the entire Australian squad was complicit.",
@@ -394,24 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ill-know-straight-away-wasim-akram-questions-pat-cummins-sandpapergate-defence/articleshow/135828975.cms",
     "time": "2026-11-14T09:45:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lara Dutta’s bracelet gets cut with hacksaw",
-    "desc": "Lara Dutta shared behind-the-scenes photos and videos of her Kaikeyi transformation for Ramayana, including a funny clip of her stuck bracelet being cut off with a hacksaw. She also defended the film’s costume choices to News18, citing standardisation across kingdoms. The film’s first part reportedly crossed ₹1,000 crore.",
-    "img": "https://static.toiimg.com/photo/msid-135829030,imgsize-430196.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lara-duttas-bracelet-gets-stuck-on-ramayana-set-team-uses-hacksaw-blade-to-cut-it-off-watch-video/articleshow/135829007.cms",
-    "time": "2026-11-14T09:42:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tiger wraps Pune schedule; Janhvi co-stars",
-    "desc": "Tiger Shroff has resumed work on Lag Jaa Gale after the October 18 firing incident on his car, wrapping the Pune schedule with co-star Janhvi Kapoor, as shared by Sourav Roy. Directed by Raj Mehta, the film also stars Lakshya. Tiger was last seen in Baaghi 4 and next has a Remo D’Souza project.",
-    "img": "https://static.toiimg.com/photo/msid-135828891,imgsize-207409.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroff-resumes-work-on-lag-jaa-gale-wraps-pune-schedule-with-janhvi-kapoor-weeks-after-firing-incident/articleshow/135828848.cms",
-    "time": "2026-11-14T09:37:18.000Z"
   },
   {
     "cat": "World",
@@ -721,30 +730,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Paytm gets RBI prelim nod to operate wallets; shares surge to 52-week high",
-    "desc": "Paytm's payment segment has secured initial approval from the Reserve Bank of India for its prepaid payment instruments. This milestone has propelled One 97 Communications' stock to soar past the Rs 1,900 mark, reflecting strong market performance. Analysts predict robust revenue growth stemming from the enhanced merchant discount rate framework for UPI transactions, with global brokerage Bernstein naming Paytm as a leading growth prospect in finance.",
-    "img": "https://static.toiimg.com/photo/msid-135798112,imgsize-300027.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/paytm-gets-rbi-prelim-authorisation-to-operate-wallets-shares-surge-to-52-week-high/articleshow/135798025.cms",
-    "time": "2026-11-13T09:57:48.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "CCPA fines Ola ₹10 lakh over pre-ride tipping feature, orders discontinuation",
     "desc": "The authority found that messages such as ‘Adding a tip might help increase the chances of getting a ride faster’ and ‘Tip now to boost the chances of getting a ride sooner’ created a misleading impression that additional payments could accelerate ride confirmation.",
     "img": "https://th-i.thgim.com/public/incoming/pa0zfi/article71697181.ece/alternates/LANDSCAPE_1200/2025-05-29T110730Z_1543177080_RC2V49AIEO8G_RTRMADP_3_OLA-ELECTRIC-RESULTS.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/ccpa-fines-ola-10-lakh-over-pre-ride-tipping-feature-orders-discontinuation/article71697167.ece",
     "time": "2026-11-13T09:42:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India's exports jump 29.9% to $89.99 billion in October; overall trade deficit narrows",
-    "desc": "India's export growth shot up by almost 30 percent year-on-year, reaching close to $90 billion in October 2026. Merchandise exports accounted for a significant $49.47 billion, marking a record high for monthly goods. Though imports also climbed, resulting in a trade deficit of $39.88 billion, the services sector helped mitigate this, supported by recent trade agreements with the UK, New Zealand, and forthcoming EU discussions.",
-    "img": "https://static.toiimg.com/photo/msid-135797476,imgsize-199642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-exports-jump-29-9-to-89-99-billion-in-october-overall-trade-deficit-narrows/articleshow/135797333.cms",
-    "time": "2026-11-13T09:34:05.000Z"
   },
   {
     "cat": "World",
@@ -808,15 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/atp-finals-2026-alcaraz-has-the-momentum-while-zverev-motivated-to-silence-critics/article71695350.ece",
     "time": "2026-11-12T19:39:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer — from losing a central contract to becoming the central figure",
-    "desc": "The 31-year-old, who has enjoyed a remarkable turnaround in the last two years, will scale another high when he leads India in the fourth one-dayer against New Zealand at Mount Maunganui; he has been an asset to the National team’s 50-over set-up for a while now",
-    "img": "https://th-i.thgim.com/public/incoming/9ojisc/article71695348.ece/alternates/LANDSCAPE_1200/AFP_D6DF8HB.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/shreyas-iyer-from-losing-a-central-contract-to-becoming-the-central-figure/article71695339.ece",
-    "time": "2026-11-12T19:05:34.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/untangling-nvidia-chief-jensen-huangs-chinese-spy-connection/article71681955.ece",
     "time": "2026-11-10T02:52:47.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "China dismisses a spy plot claim involving Nvidia CEO Jensen Huang as smear campaign",
+    "desc": "The chips company CEO is at the center of a controversy over whether he drove sales of advanced computer chips to China, in spite of U.S. tech restrictions aimed at limiting China’s ability to access these advanced technologies",
+    "img": "https://th-i.thgim.com/public/incoming/5q8kqf/article71682054.ece/alternates/LANDSCAPE_1200/2025-06-19T091036Z_2099902202_RC2V4CAB1L4V_RTRMADP_3_IRAN-NUCLEAR-CHINA-ISRAEL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/china-dismisses-a-spy-plot-claim-involving-nvidia-ceo-jensen-huang-as-smear-campaign/article71682030.ece",
+    "time": "2026-11-09T09:34:21.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "The worm that broke the internet",
+    "desc": "Even before the World Wide Web came into existence, there was Morris worm — one of the first computer worms that the internet ever saw. Created by Robert Tappan Morris, then a student, it changed the landscape of networking like never before. A.S.Ganesh wriggles his way through this story to hand you the best bits…",
+    "img": "https://th-i.thgim.com/public/incoming/5cnxiz/article71615255.ece/alternates/LANDSCAPE_1200/01istb%20stephanie-harlacher-jMGnXrHYDv0-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/the-worm-that-broke-the-internet/article71615269.ece",
+    "time": "2026-11-09T09:13:16.000Z"
   }
 ];
