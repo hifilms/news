@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Romelu Lukaku announces retirement from international football at age 33",
+    "desc": "In a major development, veteran Belgian striker Romelu Lukaku has come forward and announced his retirement from international football at the age of 33. One of the most revered strikers of his time, Romelu Lukaku...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/romelu-lukaku-announces-retirement-from-international-football-at-age-33-2026-11-16-1059609",
+    "time": "2026-11-16T13:29:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kagiso Rabada denies being complacent, defends his side after conceding 400 runs against Bangladesh",
+    "desc": "South Africa kicked off its Test series by taking on Bangladesh in the first Test. The two sides met at the Wanderers Stadium, Johannesburg from November 15th, and the Proteas got off to an exceptional...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kagiso-rabada-denies-being-complacent-defends-his-side-after-conceding-400-runs-against-bangladesh-2026-11-16-1059602",
+    "time": "2026-11-16T11:55:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harry Brook reflects on England's brilliance and bounceback after stellar 2nd ODI win over Australia",
+    "desc": "England took on Australia in the second ODI of the ongoing series between the two sides. The teams met at the Adelaide Oval on November 15th, and it was England who came out on top....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-reflects-on-england-s-brilliance-and-bounceback-after-stellar-2nd-odi-win-over-australia-2026-11-16-1059596",
+    "time": "2026-11-16T10:59:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Declan Rice exudes confidence as England break Spain's 43-game unbeaten streak with a stellar victory",
     "desc": "The Nations League continued with a group stage clash between England and World Cup champions Spain. It is worth noting that the two sides met at the Riyadh Air Metropolitano Stadium in Madrid on November...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/icc-finalises-men-s-cricket-calendar-till-2035-india-to-host-2029-champions-trophy-co-host-2031-world-cup-2026-11-15-1059533",
     "time": "2026-11-15T14:48:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's all-round show seals 22-run win against New Zealand, clinch ODI series 3-1",
-    "desc": "India and New Zealand took on each other in the fifth and final ODI of the ongoing series. The two sides met at Bay Oval in Mount Maunganui on November 15th, and it was the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-s-all-round-showcase-help-them-clinch-odi-series-defeat-new-zealand-by-22-runs-2026-11-15-1059513",
-    "time": "2026-11-15T09:52:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Murali Kartik slams team India's decision making in fifth ODI against New Zealand",
-    "desc": "The Indian team took on New Zealand in the fifth and final ODI of the ongoing series between the two sides. The teams met at Bay Oval in Mount Maunganui for the clash on November...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/murali-kartik-slams-team-india-s-decision-making-in-fifth-odi-against-new-zealand-2026-11-15-1059512",
-    "time": "2026-11-15T09:31:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer opens up on Pat Cummins' potential availability for SRH ahead of IPL 2027",
-    "desc": "The IPL (Indian Premier League) 2027 mini auction is looming on the horizon; the with side are expected to finalise their retentions and releases by November 17th, ahead of the season. Many eyes will be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-pat-cummins-potential-availability-for-srh-ahead-of-ipl-2027-2026-11-15-1059511",
-    "time": "2026-11-15T08:51:30.000Z"
   }
 ];
