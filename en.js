@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Yemeni government forces retreat from strait in major setback in war against Houthis",
+    "desc": "Houthi gains in Yemen and attacks on Saudi Arabia and ‌Red Sea shipping in recent months have strengthened the position of Iran in the wider West Asia conflict ⁠launched by the United States and Israel in February",
+    "img": "https://th-i.thgim.com/public/incoming/pdl4ra/article71705631.ece/alternates/LANDSCAPE_1200/Djibouti_EU_Piracy_Patrol_39351.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/yemeni-government-forces-retreat-from-strait-in-major-setback-in-war-against-houthis/article71705608.ece",
+    "time": "2026-11-16T00:06:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Scene' BO day 10: Earns over three times 'Aavesham'",
+    "desc": "Suriya and Naslen's movie 'Scene' has achieved remarkable success, raking in Rs 242.05 crore worldwide within just ten days. Domestically, it earned a net of Rs 136.50 crore and a total gross of Rs 158.55 crore. Notably, its performance far surpasses Jithu Madhavan's earlier film 'Aavesham' at the same point. The film also secured Rs 4 crore from overseas, bringing its international earnings to Rs 83.",
+    "img": "https://static.toiimg.com/photo/msid-135868586,imgsize-342840.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/scene-box-office-collection-day-10-suriya-and-naslens-film-earns-over-three-times-aavesham-worldwide-gross-crosses-rs-242-cr/articleshow/135868566.cms",
+    "time": "2026-11-16T00:01:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Those using Form 6 to re-enroll won't be prosecuted: EC to SC",
+    "desc": "The Election Commission has committed to include every eligible citizen in the electoral rolls during the current process. No legal action will be taken against individuals for re-registering to vote through Form 6. Voters are advised to ensure their names are not listed in other constituencies before applying. Additionally, those previously removed erroneously can submit fresh forms for their names to be reinstated.",
+    "img": "https://static.toiimg.com/photo/msid-135867915,imgsize-240300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/those-using-form-6-to-re-enroll-wont-be-prosecuted-ec-to-sc/articleshow/135867900.cms",
+    "time": "2026-11-15T22:42:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lalit gets British citizenship, extradition prospects take a hit",
+    "desc": "Lalit Modi has announced his acquisition of British citizenship during an event at Oxford Union. While he claims to have faced threats and political persecution, he has refused to return to India. The Enforcement Directorate has ongoing investigations regarding his alleged financial misconduct linked to IPL. Previous requests for his deportation have been denied by the UK government.",
+    "img": "https://static.toiimg.com/photo/msid-135866278,imgsize-2369827.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/lalit-gets-british-citizenship-extradition-prospects-take-a-hit/articleshow/135866282.cms",
+    "time": "2026-11-15T22:22:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Empty Vande Bharat allowed to run 463km despite 'poor power brake'",
+    "desc": "An empty Vande Bharat train journeyed 463 kilometers from Hatia to Deen Dayal Upadhyaya station despite brake problems. Two loco pilots had reported issues with the power brake before the journey commenced. An investigation revealed that brakes on every coach had been isolated, leading to joint brake failure. The South Eastern Railway's document indicated staff negligence in integrating the braking systems.",
+    "img": "https://static.toiimg.com/photo/msid-135865889,imgsize-189954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/empty-vande-bharat-allowed-to-run-463km-despite-poor-power-brake/articleshow/135865881.cms",
+    "time": "2026-11-15T21:53:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ringing the school bell, raising a safety alarm",
+    "desc": "A six-year-old girl was allegedly assaulted by an eight-year-old classmate in a classroom in Panchkula, with CCTV footage capturing the attack. The incident raises concerns about school safety, supervision, and the influence of violent video games on children",
+    "img": "https://th-i.thgim.com/public/incoming/c7kkd4/article71704939.ece/alternates/LANDSCAPE_1200/SPOTLIGHT%20SCHOOL%20PANCHKULA%2011.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chandigarh/six-year-old-girl-assaulted-by-classmate-in-panchkula-school-raising-a-safety-alarm/article71704911.ece",
+    "time": "2026-11-15T21:51:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Penury-hit Kashmir artists seek official handholding",
+    "desc": "There are artists in Kashmir who are not able to pay school fees of their children or arrange ₹1 lakh to offer a decent burial to their deceased loved ones, says vocalist and music composer Ustaad Waheed Jeelani",
+    "img": "https://th-i.thgim.com/public/incoming/9zf5h7/article71705795.ece/alternates/LANDSCAPE_1200/20261114553L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/penury-hit-kashmir-artists-seek-official-handholding/article71705789.ece",
+    "time": "2026-11-15T19:19:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PIL in HC",
+    "desc": "A local resident has filed the case claiming that the inhabitants of two hamlets were facing hardship because of restrictions imposed on using the private road which was their only access to the outside world",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
+    "time": "2026-11-15T19:16:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress suggests Army ‘friendly fire’ behind deaths of 2 SPOs, BJP calls it 'provocative'",
+    "desc": "In Jammu and Kashmir, Congress has called for a thorough investigation into the tragic killing of two special police officers. Initial reports indicate that the officers may have been accidentally shot by Army personnel during a hunting operation. The BJP has dismissed these allegations, claiming they tarnish the integrity of the security forces.",
+    "img": "https://static.toiimg.com/photo/msid-135864500,imgsize-3640810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/congress-suggests-army-friendly-fire-behind-deaths-of-2-spos-bjp-calls-it-provocative/articleshow/135864396.cms",
+    "time": "2026-11-15T18:53:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mumbai physics forum hosts online lecture by Pak N-scientist",
+    "desc": "Mumbai recently held an online event to honor the birth centenary of Nobel laureate Abdus Salam. Eminent scientist Pervez Amirali Hoodbhoy delivered a lecture discussing Salam's contributions to physics and his life. Hoodbhoy highlighted Salam's significance as a symbol of goodwill between India and Pakistan. He mentioned Salam's lack of recognition in Pakistan due to his Ahmadiyya sect affiliation, affecting youth role models.",
+    "img": "https://static.toiimg.com/photo/msid-135863829,imgsize-41814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mumbai-physics-forum-hosts-online-lecture-by-pak-n-scientist/articleshow/135863718.cms",
+    "time": "2026-11-15T18:44:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kashmir film fraternity trains guns on Bollywood’s ‘AK-47 &amp; skullcap’ stereotype, seeks own industry",
+    "desc": "Kashmiri filmmakers are advocating for a shift towards regional cinema to enhance authentic storytelling and representation. They argue that Bollywood often reinforces stereotypes that misrepresent life in J&K. The current film policy is criticized for not adequately supporting local productions while favoring external filmmakers. Actors and directors are calling for collaboration among regional artists to develop a unique Kashmiri film industry, signaling a significant movement towards self-identity and cultural expression.",
+    "img": "https://static.toiimg.com/photo/msid-135864135,imgsize-139986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kashmir-film-fraternity-trains-guns-on-bollywoods-ak-47-skullcap-stereotype-seeks-own-industry/articleshow/135863847.cms",
+    "time": "2026-11-15T18:41:50.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Late actress Nimmi’s caretaker booked for allegedly misappropriating Juhu flats, Rs 2 crore",
     "desc": "Mumbai police have registered a case against Asrar Iqbal Shaikh for allegedly misappropriating Nimmi's properties and bank deposits. The FIR accuses Shaikh of taking assets intended for Nimmi's adopted son's family after her death. Shaikh reportedly proposed an equal division of the inheritance but resorted to threats when the offer was rejected. Durrani, who represents the family, alleges Shaikh took control of Nimmi’s assets unlawfully.",
@@ -34,6 +133,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/punjab-bjp-forms-manifesto-chargesheet-committees-raghav-chadha-harbhajan-singh-among-members/articleshow/135862050.cms",
     "time": "2026-11-15T17:33:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jawaharlal Nehru through an intelligence prism",
+    "desc": "Critics of Jawaharlal Nehru have spared no effort to portray him as being rosy-eyed and naive about China; yet, memoirs of Bhola Nath Mullik, the intelligence chief who served under the Nehru for almost the entire duration his Prime Ministership make it clear this was far from the truth",
+    "img": "https://th-i.thgim.com/public/incoming/iwyp3k/article71705640.ece/alternates/LANDSCAPE_1200/HP63162.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jawaharlal-nehru-through-an-intelligence-prism/article71704599.ece",
+    "time": "2026-11-15T17:29:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -79,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/divide-and-rule-tactics-rss-chief-bhagwats-warning-over-attempts-to-split-india/articleshow/135856327.cms",
     "time": "2026-11-15T16:49:42.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Yemeni government forces retreat from strait in major setback in war against Houthis",
-    "desc": "Houthi gains in Yemen and attacks on Saudi Arabia and ‌Red Sea shipping in recent months have strengthened the position of Iran in the wider West Asia conflict ⁠launched by the United States and Israel in February",
-    "img": "https://th-i.thgim.com/public/incoming/pdl4ra/article71705631.ece/alternates/LANDSCAPE_1200/Djibouti_EU_Piracy_Patrol_39351.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/yemeni-government-forces-retreat-from-strait-in-major-setback-in-war-against-houthis/article71705608.ece",
-    "time": "2026-11-15T16:42:37.000Z"
   },
   {
     "cat": "Politics",
@@ -144,15 +243,6 @@ const newsData_en = [
     "time": "2026-11-15T16:15:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Arunachal governor reviews security in 3 districts, pushes for faster Myanmar border fencing",
-    "desc": "Governor KT Parnaik held a review meeting to assess the security dynamics in Tirap, Changlang, and Longding districts. He emphasized the urgency of advancing the border fencing initiative along the Myanmar border and called for decisive steps against drug trafficking. Highlighting the importance of collaboration among security forces and local administration, the governor voiced his worries over the delays in the fencing project and the increasing drug-related cross-border issues.",
-    "img": "https://static.toiimg.com/photo/msid-135859839,imgsize-51840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/arunachal-governor-reviews-security-in-3-districts-pushes-for-faster-myanmar-border-fencing/articleshow/135859605.cms",
-    "time": "2026-11-15T16:09:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Bachchan's 'Jalsa' was earlier called Mansa, he sold it and bought it at a higher price",
     "desc": "In Mumbai, Amitabh Bachchan's bungalows, Jalsa and Prateeksha, play a crucial role in his life and legacy. Jalsa, worth around Rs 100 crore, is the heart of his family life. On the other hand, Prateeksha, a vast 16,840 square feet, is steeped in memories and recently inherited by his daughter, Shweta. Together, these homes encapsulate Amitabh's remarkable career and familial bonds.",
@@ -160,6 +250,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchans-jalsa-was-earlier-called-mansa-he-was-gifted-it-after-satte-pe-satta-success-the-actor-sold-it-and-bought-it-again-for-a-higher-price/articleshow/135859448.cms",
     "time": "2026-11-15T15:59:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nelly, Khalid, and Swae Lee headline two days of music",
+    "desc": "Shillong’s Cherry Blossom Festival returns November 20–21 at the Madan Kurkalang Sports Complex in Bhoirymbong, showcasing a cross-generational lineup that blends international stars like Nelly, Khalid, Swae Lee, Boys Like Girls, and Elliot James Reay with Indian singer Darshan Raval",
+    "img": "https://th-i.thgim.com/public/news/national/karnataka/vpb4ja/article71692776.ece/alternates/LANDSCAPE_1200/IMG_0010.PNG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/shillong-cherry-blossom-festival-2026-nelly-khalid-and-swae-lee-headline-two-days-of-music/article71692760.ece",
+    "time": "2026-11-15T15:40:59.000Z"
   },
   {
     "cat": "Sports",
@@ -171,15 +270,6 @@ const newsData_en = [
     "time": "2026-11-15T15:40:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'No place for goons': CM Adhikari's warning to criminals after encounter of Shantiniketan accused",
-    "desc": "In a bold statement, Suvendu Adhikari, the Chief Minister of West Bengal, sent a clear message to those involved in crime after a police encounter resulted in the death of Ratan Sheikh, a prime suspect who reportedly shot at officers during his attempted arrest. Adhikari reaffirmed that criminal activities will not be tolerated in the state. Meanwhile, the police constable injured in the incident remains in stable condition.",
-    "img": "https://static.toiimg.com/photo/msid-135859210,imgsize-50930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-place-for-goons-cm-adhikaris-warning-to-criminals-after-encounter-of-shantiniketan-accused/articleshow/135859188.cms",
-    "time": "2026-11-15T15:27:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘He takes pressure off’: Lakshya on Sehwag’s impact in India’s Asia Cup triumph",
     "desc": "Lakshya Raichandani commended Aaryavir Sehwag for his exceptional play during the Under-19 Asia Cup. Sehwag's impressive scoring led the team to triumph, showcasing a remarkable recovery following a previous defeat to Pakistan. Raichandani emphasised the critical role of a reliable batter in successful run chases, underscoring the team's resilience and the valuable lessons they learned from their earlier misstep.",
@@ -187,33 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-takes-pressure-off-lakshya-raichandani-on-aaryavir-sehwags-impact-in-indias-asia-cup-triumph/articleshow/135858794.cms",
     "time": "2026-11-15T15:21:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Need to usher in new driving culture in Keralam, says Chief Minister",
-    "desc": "Speaking after the State-level inauguration of the Jeeva-Suyathra Mission here, the Chief Minister issued directions to the MVD and the police to deal with traffic and road safety violations with a stern hand, irrespective of the status of rule-breakers, for the coming six months.",
-    "img": "https://th-i.thgim.com/public/incoming/2valpr/article71705224.ece/alternates/LANDSCAPE_1200/Jeeva_Yatra03.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/need-to-usher-in-new-driving-culture-in-keralam-says-chief-minister/article71704572.ece",
-    "time": "2026-11-15T15:09:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Woman trampled to death by elephant in Hassan district in Karnataka",
-    "desc": "Many wild elephants have been roaming in parts of Belur, Sakaleshpur and Alur taluks. There have been many instances of human-elephant conflict in the district, particularly in these taluks, leading to constant tension and casulties.",
-    "img": "https://th-i.thgim.com/public/news/national/karnataka/fdwdd5/article71705312.ece/alternates/LANDSCAPE_1200/1004334094.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/woman-trampled-to-death-by-elephant-in-hassan-district-in-karnataka/article71704210.ece",
-    "time": "2026-11-15T15:04:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Appointment of BJP leader’s sister in welfare board triggers row in Palakkad Congress",
-    "desc": "A section of workers says the party leadership had failed to recognise the contributions and sacrifices of its grassroots workers. They demand that the appointment be cancelled and that deserving party workers not be overlooked",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/appointment-of-bjp-leaders-sister-in-welfare-board-triggers-row-in-palakkad-congress/article71705197.ece",
-    "time": "2026-11-15T15:02:57.000Z"
   },
   {
     "cat": "Sports",
@@ -261,15 +324,6 @@ const newsData_en = [
     "time": "2026-11-15T13:47:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Akhilesh calls Dalits 'damdar', vows to wipe out BJP in UP",
-    "desc": "Akhilesh Yadav emphasized the importance of the Dalit community in upcoming Uttar Pradesh elections. He called for the ousting of the BJP government, highlighting the need for social justice. Akhilesh criticized the ruling party's record on Dalit issues, which includes the vandalism of Dr. BR Ambedkar's statues. He promised that a Samajwadi Party government would prioritize rights and education for marginalized communities.",
-    "img": "https://static.toiimg.com/photo/msid-135857331,imgsize-147738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/akhilesh-calls-dalits-damdar-vows-to-wipe-out-bjp-in-up/articleshow/135857266.cms",
-    "time": "2026-11-15T13:45:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India to host 2029 CT, co-host 2031 World Cup",
     "desc": "The ICC has unveiled an extensive calendar for significant men's cricket tournaments spanning until 2035, which details the qualification processes. This plan features the 2027 ODI World Cup and the upcoming Men's and Women's T20 World Cups in 2028. Additionally, the qualification structure for the men's cricket events at the 2028 Olympics has been established, with eight teams vying for the final spots.",
@@ -295,15 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/lets-leave-it-at-that-harry-kane-shuts-down-talksport-presenter-over-question-about-his-children-representing-germany/articleshow/135853283.cms",
     "time": "2026-11-15T13:28:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CRPF withdraws anti-Naxal battalion from Chhattisgarh, sent to Manipur",
-    "desc": "In a significant move, over 1,000 CRPF personnel have been redeployed from Chhattisgarh to Manipur amid escalating security concerns. This marks the initial full withdrawal of a battalion from anti-Naxal duties since the decline of armed Maoism. Previously, stationed in Sukma, this battalion has fought against Left Wing Extremism and conducted de-mining operations.",
-    "img": "https://static.toiimg.com/photo/msid-135856419,imgsize-164636.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/crpf-withdraws-anti-naxal-battalion-from-chhattisgarh-sent-to-manipur/articleshow/135855888.cms",
-    "time": "2026-11-15T13:01:17.000Z"
   },
   {
     "cat": "Sports",
@@ -639,51 +684,6 @@ const newsData_en = [
     "time": "2026-11-15T02:56:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "US diesel prices retreat, fall below $6 per gallon for first time in two months",
-    "desc": "US diesel prices have dropped below $6 per gallon for the first time in two months. This decline comes after prices surged to an all-time high in September due to global supply issues. Lower diesel prices are providing some relief to consumers, businesses, and farmers who have faced increased costs recently. Along with diesel prices, gasoline prices have also decreased, falling below $4 per gallon this month.",
-    "img": "https://static.toiimg.com/photo/msid-135845540,imgsize-70410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-diesel-prices-retreat-fall-below-6-per-gallon-for-first-time-in-two-months/articleshow/135845393.cms",
-    "time": "2026-11-15T02:02:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir Kapoor, Yash's film earns over 3 times 'Animal'; crosses Rs 1,200 cr worldwide",
-    "desc": "Rise of a Legend' has achieved remarkable box office success in its second week. After recording Rs 72.90 cr net on Day 10, the film's total domestic collection reached Rs 685.60 cr. Its worldwide gross has surpassed Rs 1,200 cr, demonstrating strong international performance as well. The Hindi version has been the largest contributor, followed by Kannada and Telugu releases.",
-    "img": "https://static.toiimg.com/photo/msid-135844974,imgsize-345452.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-rise-of-a-legend-box-office-collection-day-10-ranbir-kapoor-yashs-film-earns-over-3-times-animal-crosses-rs-1200-cr-worldwide-hindi-version-leads/articleshow/135844964.cms",
-    "time": "2026-11-15T00:27:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Listing will change Tata way, put profit above philanthropy: Noel",
-    "desc": "Noel Tata has expressed strong opposition to the potential listing of Tata Sons on public markets. He believes such a move may compromise the group's long-standing commitment to philanthropy over profit. Some trustees argue that listing could enhance governance and transparency while supporting charitable aims. The debate reflects differing views on the future ownership structure of the Tata Group.",
-    "img": "https://static.toiimg.com/photo/msid-135842199,imgsize-125498.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/listing-will-change-tata-way-put-profit-above-philanthropy-noel/articleshow/135842200.cms",
-    "time": "2026-11-14T20:31:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Indians ditch gold for gemstones as sales jump 40%; stones cost Rs 5 lakh",
-    "desc": "The growing preference for premium coloured gemstones as against gold is also translating into higher prices. Paraiba tourmalines, among the rarest gemstones, sell for around Rs 5 lakh per carat in India. Demand for these stones is particularly strong among high-net-worth buyers in Mumbai, followed by customers in Delhi and South India.",
-    "img": "https://static.toiimg.com/photo/msid-135834740,imgsize-665363.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indians-look-beyond-gold-and-diamonds-as-coloured-gemstone-sales-surge-40-rare-paraiba-tourmalines-cost-rs-5-lakh-per-carat-and-bespoke-jewellery-starts-at-rs-7-lakh/articleshow/135834228.cms",
-    "time": "2026-11-14T17:30:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Sold commercial units &amp; bought 2 flats, taxman denies Rs 2.5 crore relief on one",
-    "desc": "A man sold six commercial units in Mumbai and the sales generated long-term capital gains of around Rs 5 crore. He claimed a deduction of the same amount under Section 54F after investing in residential property. For this purpose, he purchased two flats in Wing A of a building but on separate floors. Agreements for both flats were executed and registered on the same date.",
-    "img": "https://static.toiimg.com/photo/msid-135835940,imgsize-587490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/man-sold-6-commercial-units-earned-nearly-rs-5-crore-in-capital-gains-bought-two-flats-on-different-floors-taxman-denies-rs-2-5-crore-deduction-for-second-flat-but-mumbai-itat-gives-relief/articleshow/135834822.cms",
-    "time": "2026-11-14T17:24:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "TN holds its nerve to pip Railways",
     "desc": "Shahrukh and Rajkumar’s fireworks help the Sai Kishore-led side overcome a mid-innings wobble; Gurjapneet does the job after Toufik and Zuber nearly pull off a comeback victory for the institutional team; Mayank’s five-for the standout performance in the group",
@@ -729,15 +729,6 @@ const newsData_en = [
     "time": "2026-11-14T09:33:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nelly, Khalid, and Swae Lee headline two days of music",
-    "desc": "Shillong’s Cherry Blossom Festival returns November 20–21 at the Madan Kurkalang Sports Complex in Bhoirymbong, showcasing a cross-generational lineup that blends international stars like Nelly, Khalid, Swae Lee, Boys Like Girls, and Elliot James Reay with Indian singer Darshan Raval",
-    "img": "https://th-i.thgim.com/public/news/national/karnataka/vpb4ja/article71692776.ece/alternates/LANDSCAPE_1200/IMG_0010.PNG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/shillong-cherry-blossom-festival-2026-nelly-khalid-and-swae-lee-headline-two-days-of-music/article71692760.ece",
-    "time": "2026-11-14T07:27:56.000Z"
-  },
-  {
     "cat": "World",
     "title": "report",
     "desc": "During the autumn of 2025 and in October 2026, in ‌response to press queries that drew some Nvidia leaders’ attention to his relationship with Megaspeed and Alice ​Huang, Jensen Huang at both times described their interactions as appropriate",
@@ -745,6 +736,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/former-nvidia-ceo-jensen-huang-misled-top-lawyer-on-affair-with-alice-huang-report/article71700767.ece",
     "time": "2026-11-14T04:32:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Tata Motors Passenger Vehicles reports Q2 net loss of ₹5,531 crore",
+    "desc": "The figures are not comparable because last year the company had exceptional gains due to the demerger of the company. During the period, the company’s revenue increased to ₹96,340 crore from ₹71,414 crore in the year ago period, up 35% YoY",
+    "img": "https://th-i.thgim.com/public/incoming/k84g2u/article71700853.ece/alternates/LANDSCAPE_1200/2026-11-13T110738Z_1744109604_RC23OGAZUVPQ_RTRMADP_3_TATA-MOTORS-RESULTS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/tata-motors-passenger-vehicles-reports-q2-net-loss-of-5531-crore/article71698724.ece",
+    "time": "2026-11-14T04:18:11.000Z"
   },
   {
     "cat": "Sports",
@@ -810,6 +810,33 @@ const newsData_en = [
     "time": "2026-11-13T16:29:10.000Z"
   },
   {
+    "cat": "Business",
+    "title": "KPMG sets up sports tech hub to unlock India’s $40-bn sports opportunity by 2030",
+    "desc": "The firm is setting up a Sports Technology Hub to accelerate digital transformation across India's sports ecosystem. The initiative brings together AI, advanced analytics, computer vision, and emerging digital technologies to enhance fan experiences, athlete performance, commercial opportunities and sports operations, says Yezdi Nagporewalla, CEO, KPMG in India",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/kpmg-sets-up-sports-tech-hub-to-unlock-indias-40-bn-sports-opportunity-by-2030/article71698350.ece",
+    "time": "2026-11-13T16:16:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Tata Sons rejects Noel's request for audio-video recording of September 17 boardmeet",
+    "desc": "“Video recording is mandated when one or more Directors attend online. The company has never in the past had a practice of sharing audio/video recordings of in-person meetings,\" Tata Sons' company secretary Suprakash Mukhopadhyay wrote to Tata Trusts on November 9",
+    "img": "https://th-i.thgim.com/public/incoming/jfswkn/article68744956.ece/alternates/LANDSCAPE_1200/PTI10_11_2024_000143B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/tata-sons-rejects-noels-request-for-audio-video-recording-of-september-17-boardmeet/article71698410.ece",
+    "time": "2026-11-13T14:50:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "CCPA fines Ola ₹10 lakh over pre-ride tipping feature, orders discontinuation",
+    "desc": "The authority found that messages such as ‘Adding a tip might help increase the chances of getting a ride faster’ and ‘Tip now to boost the chances of getting a ride sooner’ created a misleading impression that additional payments could accelerate ride confirmation.",
+    "img": "https://th-i.thgim.com/public/incoming/pa0zfi/article71697181.ece/alternates/LANDSCAPE_1200/2025-05-29T110730Z_1543177080_RC2V49AIEO8G_RTRMADP_3_OLA-ELECTRIC-RESULTS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/ccpa-fines-ola-10-lakh-over-pre-ride-tipping-feature-orders-discontinuation/article71697167.ece",
+    "time": "2026-11-13T09:42:03.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "Widespread outage hits Microsoft apps",
     "desc": "Microsoft said that a portion of its infrastructure was “experiencing elevated load” — which it said was “likely contributing to the connectivity errors”; it determined a number of servers were “unexpectedly unavailable” due to a problem that caused them to fail during automated checks",
@@ -817,6 +844,24 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/internet/widespread-outage-hits-microsoft-apps/article71695400.ece",
     "time": "2026-11-13T01:46:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How predictive analytics is reshaping everyday business decisions — what employers actually look for",
+    "desc": "A major shift in the field is moving beyond merely forecasting an outcome to determining the right course of action. Rather than simply flagging customers likely to cancel a service, organisations now use those insights to build targeted retention strategies.",
+    "img": "https://th-i.thgim.com/public/education/zg3cxo/article71694852.ece/alternates/LANDSCAPE_1200/Screenshot%202026-11-12%20210330.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/how-predictive-analytics-is-reshaping-everyday-business-decisions-what-employers-actually-look-for/article71694757.ece",
+    "time": "2026-11-12T18:49:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Pichai tops global Indian leaders’ list as Alphabet hits $4.2 trillion",
+    "desc": "The HSBC Hurun Global Indians List features 16 women, led by Jayshree V. Ullal of Arista Networks, whose company is valued at $208 billion. The companies led by women on the list are collectively worth about $699 billion.",
+    "img": "https://th-i.thgim.com/public/incoming/608kan/article71693905.ece/alternates/LANDSCAPE_1200/2026-11-12T005946Z_1854207782_RC20MOATCEOB_RTRMADP_3_HSBC-OPERATIONS-CHINA-SINGAPORE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/pichai-tops-global-indian-leaders-list-as-alphabet-hits-42-trillion/article71693782.ece",
+    "time": "2026-11-12T14:11:45.000Z"
   },
   {
     "cat": "Entertainment",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/potent-perovskites-demand-india-make-domestic-manufacturing-push/article71687229.ece",
     "time": "2026-11-10T16:29:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Does the Temple wearable reveal useful information about brain health?",
-    "desc": "Billionaire Deepinder Goyal has begun selling Temple, a temple-attached wearable he says can monitor brain health and ageing by measuring cerebral blood flow outside the lab. Critics and doctors question the device’s medical claims, noting the evidence is preliminary, not peer-reviewed, and its core metric—the Brain Flow index—remains controversial amid concerns over links to longevity or cognitive outcomes",
-    "img": "https://th-i.thgim.com/public/incoming/lcvpji/article71685783.ece/alternates/LANDSCAPE_1200/1500x500%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/does-the-temple-wearable-reveal-useful-information-about-brain-health/article71678659.ece",
-    "time": "2026-11-10T10:20:53.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Untangling Nvidia chief Jensen Huang’s Chinese spy connection",
-    "desc": "Nvidia said that it was investigating its chief, Mr. Huang, after he told the board he had been intimate with a customer, Alice Huang, whom U.S. intelligence determined was a Chinese spy, per a report by New York Times",
-    "img": "https://th-i.thgim.com/public/incoming/bvjadl/article71681951.ece/alternates/LANDSCAPE_1200/2026-10-19T181225Z_1947160221_RC2H6OA4B07J_RTRMADP_3_GERMANY-POLITICS-MERZ-NVIDIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/untangling-nvidia-chief-jensen-huangs-chinese-spy-connection/article71681955.ece",
-    "time": "2026-11-10T02:52:47.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "China dismisses a spy plot claim involving Nvidia CEO Jensen Huang as smear campaign",
-    "desc": "The chips company CEO is at the center of a controversy over whether he drove sales of advanced computer chips to China, in spite of U.S. tech restrictions aimed at limiting China’s ability to access these advanced technologies",
-    "img": "https://th-i.thgim.com/public/incoming/5q8kqf/article71682054.ece/alternates/LANDSCAPE_1200/2025-06-19T091036Z_2099902202_RC2V4CAB1L4V_RTRMADP_3_IRAN-NUCLEAR-CHINA-ISRAEL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/china-dismisses-a-spy-plot-claim-involving-nvidia-ceo-jensen-huang-as-smear-campaign/article71682030.ece",
-    "time": "2026-11-09T09:34:21.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The worm that broke the internet",
-    "desc": "Even before the World Wide Web came into existence, there was Morris worm — one of the first computer worms that the internet ever saw. Created by Robert Tappan Morris, then a student, it changed the landscape of networking like never before. A.S.Ganesh wriggles his way through this story to hand you the best bits…",
-    "img": "https://th-i.thgim.com/public/incoming/5cnxiz/article71615255.ece/alternates/LANDSCAPE_1200/01istb%20stephanie-harlacher-jMGnXrHYDv0-unsplash.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/the-worm-that-broke-the-internet/article71615269.ece",
-    "time": "2026-11-09T09:13:16.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
   }
 ];
