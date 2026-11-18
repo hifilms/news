@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan players give guard of honour to India after suffering 2-1 defeat in SAFF Championship 2026 final",
+    "desc": "India produced a spirited second-half performance to defeat Pakistan 2-1 in the SAFF Championship 2026 final at the National Stadium in Dhaka on Tuesday. With the win, India secured their 10th title in the SAFF’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/pakistan-players-give-guard-of-honour-to-india-after-suffering-2-1-defeat-in-saff-championship-2026-final-watch-2026-11-17-1059698",
+    "time": "2026-11-17T18:04:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Full list of players retained, released and purse remaining for 10 teams",
     "desc": "The IPL 2027 retention day saw multiple high-profile cricketers being released by their respective franchises. All 10 teams addressed their concerns for next season as they identified the players that can play a part in...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ipl-2027-retention-live-indian-premier-league-2027-players-retained-released-purse-left-all-you-need-to-know-1059657",
     "time": "2026-11-17T09:24:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Romelu Lukaku announces retirement from international football at age 33",
-    "desc": "In a major development, veteran Belgian striker Romelu Lukaku has come forward and announced his retirement from international football at the age of 33. One of the most revered strikers of his time, Romelu Lukaku...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/romelu-lukaku-announces-retirement-from-international-football-at-age-33-2026-11-16-1059609",
-    "time": "2026-11-16T13:29:41.000Z"
   }
 ];
