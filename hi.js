@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Cameron Bancroft makes shocking revelation, claims entire Australia team knew about sandpaper scandal",
+    "desc": "In a shocking remark, Cameron Bancroft has alleged that knowledge of Australia's ball-tampering operation during the 2018 South Africa tour extended beyond the three players punished by Cricket Australia. He mentioned that several senior teammates...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cameron-bancroft-makes-shocking-revelation-claims-entire-australia-team-knew-about-sandpaper-scandal-2026-11-18-1059748",
+    "time": "2026-11-18T10:27:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi Capitals never considered trading Axar Patel, confirms head coach Sourav Ganguly",
+    "desc": "Leading up to the IPL 2027 retention deadline, Axar Patel was one of the names heavily discussed for a possible trade. Reports claimed that Chennai Super Kings were interested in bringing in the all-rounder, while...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-never-considered-trading-axar-patel-confirms-head-coach-sourav-ganguly-2026-11-18-1059740",
+    "time": "2026-11-18T09:19:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammed Siraj not guaranteed starter in India's first Test vs New Zealand as visitors weigh in options",
+    "desc": "India are yet to settle on their fast-bowling combination for the opening Test against New Zealand in Wellington. Bowling coach Morne Morkel noted that the pace-bowling unit is ready for action, but has left the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-siraj-not-guaranteed-starter-in-india-s-first-test-vs-new-zealand-as-visitors-weigh-in-options-2026-11-18-1059732",
+    "time": "2026-11-18T08:09:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cricket Australia to establish independent forum over 2018 sandpaper scandal",
+    "desc": "Cricket Australia will establish an independent forum to hear accounts from players and staff involved in the 2018 ball-tampering scandal. The development comes after former cricketer Usman Khawaja made a startling remark, stating that everyone...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cricket-australia-to-establish-independent-forum-over-2018-sandpaper-scandal-2026-11-18-1059729",
+    "time": "2026-11-18T07:29:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan players give guard of honour to India after suffering 2-1 defeat in SAFF Championship 2026 final",
     "desc": "India produced a spirited second-half performance to defeat Pakistan 2-1 in the SAFF Championship 2026 final at the National Stadium in Dhaka on Tuesday. With the win, India secured their 10th title in the SAFF’s...",
     "img": "",
@@ -37,7 +73,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Sandip Mandi scores, India lead 2-1 in 88th minute",
+    "title": "India beat Pakistan 2-1 to win 10th title",
     "desc": "India will look to add another milestone to their football history when they take on Pakistan in the SAFF Championship 2026 final at the National Stadium in Dhaka, Bangladesh, on Tuesday. The match can be...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-shares-rishabh-pant-s-fitness-update-ahead-of-india-s-first-test-against-new-zealand-2026-11-17-1059672",
     "time": "2026-11-17T11:35:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How and when did MS Dhoni announce IPL retirement decision to CSK management? Rupa Gurunath reveals details",
-    "desc": "Chennai Super Kings co-owner Rupa Gurunath has revealed that MS Dhoni informed the franchise of his decision to end his IPL playing career during a video conference on Saturday. The franchise management wasn’t expecting the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-and-when-did-ms-dhoni-announce-ipl-retirement-decision-to-csk-management-rupa-gurunath-reveals-details-2026-11-17-1059667",
-    "time": "2026-11-17T10:55:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "List of records the legendary cricketer leaves behind",
-    "desc": "Superstar cricketer MS Dhoni has announced his retirement from professional cricket. Chennai Super Kings have now handed him a new responsibility by appointing the former skipper as the franchise's mentor, extending a partnership that began...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-retires-from-ipl-list-of-records-the-legendary-cricketer-leaves-behind-2026-11-17-1059664",
-    "time": "2026-11-17T10:18:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mahendra Singh Dhoni retires from IPL, Chennai Super Kings appoint him as team mentor",
-    "desc": "In what marks the absolute end of an era for world cricket, Mahendra Singh Dhoni has announced his retirement from professional cricket. In a major development, the superstar cricketer has stepped down from his long-standing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mahendra-singh-dhoni-retires-from-ipl-chennai-super-kings-appoint-him-as-team-mentor-2026-11-17-1059659",
-    "time": "2026-11-17T09:30:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Full list of retained players, released players and purse remaining of all teams",
-    "desc": "The day all IPL fans have been waiting for is finally here as all ten Indian Premier League (IPL) franchises will announce their retention lists tonight, with the auction set for December 16 in Goa...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2027-retention-live-indian-premier-league-2027-players-retained-released-purse-left-all-you-need-to-know-1059657",
-    "time": "2026-11-17T09:24:31.000Z"
   }
 ];
