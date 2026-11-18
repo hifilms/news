@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sachin Tendulkar recalls early conversation with Sourav Ganguly as he pens emotional farewell to MS Dhoni",
+    "desc": "Legendary cricketer MS Dhoni announced his retirement from professional cricket on November 17. A day later, Sachin Tendulkar has paid a beautiful tribute to his career, recalling Dhoni’s early days in international cricket. He noted...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sachin-tendulkar-recalls-early-conversation-with-sourav-ganguly-as-he-pens-emotional-farewell-to-ms-dhoni-2026-11-18-1059779",
+    "time": "2026-11-18T15:36:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch India vs New Zealand 1st Test live on TV for free and stream online in India?",
+    "desc": "India’s high-voltage two-match Test series against New Zealand starts at the Basin Reserve in Wellington on Thursday, November 19. Playing away from home against the Kiwis is already a significant challenge and adding the World...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-india-vs-new-zealand-1st-test-live-on-tv-for-free-and-stream-online-in-india-2026-11-18-1059777",
+    "time": "2026-11-18T15:07:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why did MS Dhoni announce retirement despite promise of farewell match? Suresh Raina reveals",
+    "desc": "Superstar cricketer MS Dhoni announced his retirement from professional cricket on November 17, hours before Chennai Super Kings announced their retention list for IPL 2027. His decision to step away from the sport came completely...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-did-ms-dhoni-announce-retirement-despite-promise-of-farewell-match-suresh-raina-reveals-2026-11-18-1059775",
+    "time": "2026-11-18T14:43:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England seal ODI series 2-1 after 97-run win over Australia in third ODI; Ben Duckett, Sonny Baker shine",
+    "desc": "England beat Australia by 97 runs in the final ODI at Bellerive Oval to wrap the three-match series 2-1. Ben Duckett and Sonny Baker inspired the Three Lions with a century and four-wicket haul, respectively,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-seal-odi-series-2-1-after-97-run-win-over-australia-in-third-odi-ben-duckett-sonny-baker-shine-2026-11-18-1059770",
+    "time": "2026-11-18T14:01:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Matthew Hayden calls for transparency as Sandpapergate controversy resurfaces in Australian cricket",
+    "desc": "Former Australia opener Matthew Hayden has called on Cricket Australia to provide clearer answers over the 2018 ball-tampering controversy. He warned that the passage of time has not erased the concerns surrounding the scandal, especially...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/matthew-hayden-calls-for-transparency-as-sandpapergate-controversy-resurfaces-in-australian-cricket-2026-11-18-1059764",
+    "time": "2026-11-18T12:56:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Litton Das sets new world record in first Test against South Africa",
+    "desc": "Bangladesh keeper-batter Litton Das has entered the record books after becoming the first player to register eight dismissals in a single innings of a Test match. He achieved the milestone during the ongoing Johannesburg Test...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/litton-das-sets-new-world-record-in-first-test-against-south-africa-2026-11-18-1059753",
+    "time": "2026-11-18T11:23:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Cameron Bancroft makes shocking revelation, claims entire Australia team knew about sandpaper scandal",
     "desc": "In a shocking remark, Cameron Bancroft has alleged that knowledge of Australia's ball-tampering operation during the 2018 South Africa tour extended beyond the three players punished by Cricket Australia. He mentioned that several senior teammates...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/cricket-australia-to-establish-independent-forum-over-2018-sandpaper-scandal-2026-11-18-1059729",
     "time": "2026-11-18T07:29:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan players give guard of honour to India after suffering 2-1 defeat in SAFF Championship 2026 final",
-    "desc": "India produced a spirited second-half performance to defeat Pakistan 2-1 in the SAFF Championship 2026 final at the National Stadium in Dhaka on Tuesday. With the win, India secured their 10th title in the SAFF’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/pakistan-players-give-guard-of-honour-to-india-after-suffering-2-1-defeat-in-saff-championship-2026-final-watch-2026-11-17-1059698",
-    "time": "2026-11-17T18:04:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Full list of players retained, released and purse remaining for 10 teams",
-    "desc": "The IPL 2027 retention day saw multiple high-profile cricketers being released by their respective franchises. All 10 teams addressed their concerns for next season as they identified the players that can play a part in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-2027-full-list-of-players-retained-released-and-purse-remaining-for-10-teams-2026-11-17-1059696",
-    "time": "2026-11-17T17:36:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India beat Pakistan 2-1 in final to win record-breaking 10th SAFF Championship title",
-    "desc": "India defeated Pakistan 2-1 in the SAFF Championship 2026 final at the National Stadium in Dhaka on Tuesday, securing their record-extending 10th continental title after a dramatic second-half comeback. Suhail Ahmad Bhat and Sandip Mandi...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/india-beat-pakistan-2-1-in-final-to-win-record-breaking-10th-saff-championship-title-2026-11-17-1059691",
-    "time": "2026-11-17T15:55:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Fans proved me wrong': MSD's emotional post after calling time on IPL career",
-    "desc": "Mahendra Singh Dhoni, India's legendary captain, announced an end to his Indian Premier League (IPL) career on Tuesday. Soon afterwards, he was appointed as the mentor for his franchise, the Chennai Super Kings (CSK), ahead...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/fans-proved-me-wrong-mahendra-singh-dhoni-s-emotional-post-after-calling-time-on-ipl-career-2026-11-17-1059685",
-    "time": "2026-11-17T14:27:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India beat Pakistan 2-1 to win 10th title",
-    "desc": "India will look to add another milestone to their football history when they take on Pakistan in the SAFF Championship 2026 final at the National Stadium in Dhaka, Bangladesh, on Tuesday. The match can be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/ind-vs-pak-saff-championship-final-live-india-vs-pakistan-score-tactical-analysis-commentary-highlight-reaction-1059679",
-    "time": "2026-11-17T13:17:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill shares Rishabh Pant's fitness update ahead of India's first Test against New Zealand",
-    "desc": "India captain Shubman Gill has expressed confidence in Rishabh Pant's fitness ahead of India’s first Test against New Zealand, starting November 19. The skipper also indicated that the wicketkeeper-batter's recent injury has not affected the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-shares-rishabh-pant-s-fitness-update-ahead-of-india-s-first-test-against-new-zealand-2026-11-17-1059672",
-    "time": "2026-11-17T11:35:36.000Z"
   }
 ];
