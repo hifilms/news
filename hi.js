@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shoaib Akhtar makes shocking remark, claims Pakistan used to tamper with balls using bottle caps",
+    "desc": "Former Pakistan fast bowler Shoaib Akhtar has made a startling admission about ball tampering in international cricket. He claimed that Pakistan players also altered the condition of cricket balls during his playing career by using...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shoaib-akhtar-makes-shocking-remark-claims-pakistan-used-to-tamper-with-balls-using-bottle-caps-2026-11-19-1059887",
+    "time": "2026-11-19T15:32:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah surpasses Javagal Srinath to become India's 10th leading wicket-taker in Tests, check list",
+    "desc": "Ace pacer Jasprit Bumrah moved past former fast bowler Javagal Srinath to become the 10th leading wicket-taker for India in Test cricket history. He achieved the feat after dismissing Tom Blundell in the opening Test...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-surpasses-javagal-srinath-to-become-india-s-10th-leading-wicket-taker-in-tests-check-list-2026-11-19-1059882",
+    "time": "2026-11-19T14:48:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Laura Harris smashes fastest half-century in WBBL history to ruin sister Grace Harris' commanding century",
+    "desc": "Flamboyant batter Grace Harris delivered a spectacular performance in the Women's Big Bash League (WBBL), smashing an unbeaten century for Brisbane Heat against Sydney Thunder. During her stay at the crease, the 32-year-old hit nine...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/laura-harris-smashes-fastest-half-century-in-wbbl-history-to-ruin-sister-grace-harris-commanding-century-2026-11-19-1059877",
+    "time": "2026-11-19T13:57:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa captain Temba Bavuma ruled out of second Test vs Bangladesh, check details",
+    "desc": "South Africa captain Temba Bavuma has been ruled out of the second Test against Bangladesh, starting November 23 in Centurion. The 36-year-old was suffering from a calf strain in the opening match of the series...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-captain-temba-bavuma-ruled-out-of-second-test-vs-bangladesh-check-details-2026-11-19-1059863",
+    "time": "2026-11-19T11:18:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Temba Bavuma extends his elite record as South Africa thump Bangladesh by nine wickets in first Test",
     "desc": "South Africa secured a convincing nine-wicket victory over Bangladesh in the opening Test of the two-match series. The Proteas managed to keep up with the momentum after a memorable series win against Australia, as captain...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/can-mauricio-pochettino-get-the-best-out-of-marcus-rashford-michael-owen-opines-2026-11-19-1059818",
     "time": "2026-11-19T05:36:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cameron Green sustains a concussion, gets hit on the helmet during third England ODI",
-    "desc": "England and Australia concluded their ODI series by taking on each other in the third ODI. The two sides met in Hobart for the clash on November 18th, and it was England who managed to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cameron-green-sustains-a-concussion-gets-hit-on-the-helmet-during-third-england-odi-2026-11-19-1059813",
-    "time": "2026-11-19T05:02:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Gavaskar gives his take on Mohammed Siraj's exclusion in India's first Test against New Zealand",
-    "desc": "The Indian team took on New Zealand in the first Test of the ongoing series. The two sides met at the Basin Reserve in Wellington for the clash from November 19th, and the game began...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-gives-his-take-on-mohammed-siraj-s-exclusion-in-india-s-first-test-against-new-zealand-2026-11-19-1059812",
-    "time": "2026-11-19T04:26:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mauricio Pochettino issues first statement as Manchester United manager, gears up for Liverpool clash",
-    "desc": "Manchester United finally have their new manager, Mauricio Pochettino, at the helm. The former Argentine international was named the club’s new coach after the sacking of Michael Carrick. It is worth noting that United triggered...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/mauricio-pochettino-issues-first-statement-as-manchester-united-manager-gears-up-for-liverpool-clash-2026-11-19-1059808",
-    "time": "2026-11-19T03:33:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tom Latham joins unwanted list, departs for a duck against India in the first Test in Wellington",
-    "desc": "The first Test of the ongoing series between India and New Zealand kicked off at the Basin Reserve in Wellington. The two sides met for the first day on November 19th, and the game began...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tom-latham-joins-unwanted-list-departs-for-a-duck-against-india-in-the-first-test-in-wellington-2026-11-19-1059795",
-    "time": "2026-11-19T01:25:58.000Z"
   }
 ];
