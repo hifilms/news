@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Tom Latham joins unwanted list, departs for a duck against India in the first Test in Wellington",
+    "desc": "The first Test of the ongoing series between India and New Zealand kicked off at the Basin Reserve in Wellington. The two sides met for the first day on November 19th, and the game began...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tom-latham-joins-unwanted-list-departs-for-a-duck-against-india-in-the-first-test-in-wellington-2026-11-19-1059795",
+    "time": "2026-11-19T01:25:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pat Cummins maintains his stance after Cameron Bancroft's sandpaper allegations",
+    "desc": "The sandpaper gate has once again ignited Australian cricket. Eight years after the incident, fuel was added to the fire after former cricketer Usman Khawaja revealed all of the players were involved in using the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-maintains-his-stance-after-cameron-bancroft-s-sandpaper-allegations-2026-11-19-1059793",
+    "time": "2026-11-18T23:32:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Mohammed Siraj not playing India's first Test against New Zealand in Wellington?",
+    "desc": "The Indian team took on New Zealand in the first Test of the ongoing series between the two sides. The teams met at the Basin Reserve in Wellington for the clash on November 19th; the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-mohammed-siraj-not-playing-india-s-first-test-against-new-zealand-in-wellington-2026-11-19-1059792",
+    "time": "2026-11-18T21:56:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs NZ 1st Test, Day 1 LIVE score: New Zealand five down, India maintain control",
+    "desc": "India and New Zealand take on each other in the first Test of the ongoing series. The two sides meet at the Basin Reserve in Wellington for the clash, and both sides will look to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-1st-test-day-1-live-score-india-look-to-get-off-to-a-good-start-to-the-test-series-in-wellington-1059791",
+    "time": "2026-11-18T21:22:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sachin Tendulkar recalls early conversation with Sourav Ganguly as he pens emotional farewell to MS Dhoni",
     "desc": "Legendary cricketer MS Dhoni announced his retirement from professional cricket on November 17. A day later, Sachin Tendulkar has paid a beautiful tribute to his career, recalling Dhoni’s early days in international cricket. He noted...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/litton-das-sets-new-world-record-in-first-test-against-south-africa-2026-11-18-1059753",
     "time": "2026-11-18T11:23:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cameron Bancroft makes shocking revelation, claims entire Australia team knew about sandpaper scandal",
-    "desc": "In a shocking remark, Cameron Bancroft has alleged that knowledge of Australia's ball-tampering operation during the 2018 South Africa tour extended beyond the three players punished by Cricket Australia. He mentioned that several senior teammates...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cameron-bancroft-makes-shocking-revelation-claims-entire-australia-team-knew-about-sandpaper-scandal-2026-11-18-1059748",
-    "time": "2026-11-18T10:27:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals never considered trading Axar Patel, confirms head coach Sourav Ganguly",
-    "desc": "Leading up to the IPL 2027 retention deadline, Axar Patel was one of the names heavily discussed for a possible trade. Reports claimed that Chennai Super Kings were interested in bringing in the all-rounder, while...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-never-considered-trading-axar-patel-confirms-head-coach-sourav-ganguly-2026-11-18-1059740",
-    "time": "2026-11-18T09:19:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammed Siraj not guaranteed starter in India's first Test vs New Zealand as visitors weigh in options",
-    "desc": "India are yet to settle on their fast-bowling combination for the opening Test against New Zealand in Wellington. Bowling coach Morne Morkel noted that the pace-bowling unit is ready for action, but has left the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-siraj-not-guaranteed-starter-in-india-s-first-test-vs-new-zealand-as-visitors-weigh-in-options-2026-11-18-1059732",
-    "time": "2026-11-18T08:09:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cricket Australia to establish independent forum over 2018 sandpaper scandal",
-    "desc": "Cricket Australia will establish an independent forum to hear accounts from players and staff involved in the 2018 ball-tampering scandal. The development comes after former cricketer Usman Khawaja made a startling remark, stating that everyone...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cricket-australia-to-establish-independent-forum-over-2018-sandpaper-scandal-2026-11-18-1059729",
-    "time": "2026-11-18T07:29:21.000Z"
   }
 ];
