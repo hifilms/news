@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jaydev Unadkat claims hat-trick in SMAT; Bhuvneshwar Kumar picks three for 19 while Aryan Juyal shines",
+    "desc": "Veteran pacer Jaydev Unadkat claimed a hat-trick in the ongoing Syed Mushtaq Ali Trophy 2026. Against Delhi, he conceded just 23 runs and picked up three wickets to restrict the opponent to 152 runs. Nitish...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jaydev-unadkat-claims-hat-trick-in-smat-bhuvneshwar-kumar-picks-three-for-19-while-aryan-juyal-shines-2026-11-20-1059982",
+    "time": "2026-11-20T18:18:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia suffer double injury blow as Mahli Beardman, Xavier Bartlett ruled out of England T20I series",
+    "desc": "Australia's preparations for the upcoming T20I assignment against England have taken a hit, with Mahli Beardman and Xavier Bartlett ruled out of the five-match series, starting November 21 in Melbourne, because of injuries. Billy Stanlake...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-suffer-double-injury-blow-as-mahli-beardman-xavier-bartlett-ruled-out-of-england-t20i-series-2026-11-20-1059979",
+    "time": "2026-11-20T17:41:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I am not here to be Sehwag 2.0'",
+    "desc": "Aaryavir Sehwag was a force to reckon with in the recently concluded U19 Asia Cup. He showed glimpses of his class and finished as the leading run-scorer of the tournament with 361 runs. Courtesy of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-am-not-here-to-be-sehwag-2-0-kohli-fan-aaryavir-opens-up-on-comparisons-with-legendary-father-2026-11-20-1059976",
+    "time": "2026-11-20T16:31:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India A bundle Nepal for just 26 runs, secure historic 306-run win after Prince Yadav, Harshit Rana's rampage",
+    "desc": "India have defeated Nepal by 306 runs in their opening game of the Asia Cup Rising Stars 2026. They had a tough start to the match, with their top order being sent back to the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-bundle-nepal-for-just-26-runs-secure-historic-306-run-win-after-prince-harshit-s-rampage-2026-11-20-1059974",
+    "time": "2026-11-20T16:11:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Keshav Maharaj to lead South Africa in Bangladesh ODIs as Temba Bavuma continues injury recovery",
+    "desc": "South Africa have handed Keshav Maharaj the ODI captaincy for their upcoming series against Bangladesh. Regular skipper Temba Bavuma suffered a calf injury in the first Test and his currently unavailable. The selectors have also...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/keshav-maharaj-to-lead-south-africa-in-bangladesh-odis-as-temba-bavuma-continues-injury-recovery-2026-11-20-1059967",
+    "time": "2026-11-20T14:41:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India boycott blind cricket Asia Cup trophy ceremony after Pakistan declared sole champions",
+    "desc": "A dispute over the outcome of the Men’s Blind Cricket Asia Cup 2026 final has put India and Pakistan at the centre of a controversy, with the Indian team refusing to participate in the trophy...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-boycott-blind-cricket-asia-cup-trophy-ceremony-after-pakistan-declared-sole-champions-2026-11-20-1059953",
+    "time": "2026-11-20T12:09:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lakshya Sen, Satwik-Chirag storm into Hong Kong Open semifinals; Rakshita Ramraj bows out",
+    "desc": "India enjoyed a productive day at the Hong Kong Open on Friday, with Lakshya Sen and the men’s doubles combination of Satwiksairaj Rankireddy and Chirag Shetty securing semifinal berths at the BWF Super 500 tournament....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/lakshya-sen-satwik-chirag-storm-into-hong-kong-open-semifinals-rakshita-ramraj-bows-out-2026-11-20-1059946",
+    "time": "2026-11-20T11:25:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Delhi Capitals appoint Mahela Jayawardene as Director of Cricket ahead of WPL 2027",
     "desc": "Delhi Capitals have signed former Sri Lanka captain and Mumbai Indians head coach Mahela Jayawardene as the Director of Cricket ahead of the Women's Premier League (WPL) 2027 season. The experienced coach will now take charge...",
     "img": "",
@@ -10,7 +73,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Sooryavanshi, Abhishek, Badoni flop as India in trouble",
+    "title": "Nepal bundled out for only 26 runs as India win by 306 runs",
     "desc": "Nepal have won the toss and elected to field first at West End Park International Cricket Stadium in Doha. For India, Abhishek Sharma and Vaibhav Sooryavanshi opened the innings. However, Abhishek failed to make it...",
     "img": "",
     "src": "indiatvnews.com",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-yashasvi-jaiswal-lead-india-s-charge-on-day-2-put-new-zealand-under-pressure-in-wellington-2026-11-20-1059919",
     "time": "2026-11-20T06:22:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul achieves massive feat, smashes brilliant half century against New Zealand in the first Test",
-    "desc": "The Indian team continues to fightback as they take on New Zealand in the first Test of the ongoing series between the two sides. The teams met at the Basin Reserve in Wellington for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-achieves-massive-feat-smashes-brilliant-half-century-against-new-zealand-in-the-first-test-2026-11-20-1059917",
-    "time": "2026-11-20T05:51:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kagiso Rabada demands support, asks fans to turn up in numbers ahead of second Bangladesh Test",
-    "desc": "South Africa got off to a good start to their Test series against Bangladesh; the Proteas registered a brilliant victory in the first Test of the series, defeating the side by nine wickets to take...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kagiso-rabada-demands-support-asks-fans-to-turn-up-in-numbers-ahead-of-second-bangladesh-test-2026-11-20-1059915",
-    "time": "2026-11-20T05:12:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer questions Ravindra Jadeja's absence in India's playing XI amid first NZ Test",
-    "desc": "The Indian team took on New Zealand in the first Test of the ongoing series. The two sides met at the Basin Reserve in Wellington from Novemner 19th, and the first innings saw New Zealand...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-questions-ravindra-jadeja-s-absence-in-india-s-playing-xi-amid-first-nz-test-2026-11-20-1059911",
-    "time": "2026-11-20T04:04:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Fanie de Villiers lambasts Usman Khawaja, calls him out for his recent sandpaper gate comments",
-    "desc": "Former Australia cricketer Usman Khawaja has rocked world cricket. He recently came out with his biography ‘Sabr’, where he talked about a variety of topics. One of the biggest topics from his book was the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/fanie-de-villiers-lambasts-usman-khawaja-calls-him-out-for-his-recent-sandpaper-gate-comments-2026-11-20-1059909",
-    "time": "2026-11-20T03:23:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravichandran Ashwin slams team India's management and squad selection amid first NZ Test",
-    "desc": "The Indian team kicked off the first Test of the ongoing series against New Zealand. The two sides met at the Basin Reserve in Wellington from November 19th, and the game saw India come in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-slams-team-india-s-management-and-squad-selection-amid-first-nz-test-2026-11-20-1059905",
-    "time": "2026-11-20T01:50:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Henry Nicholls-Glenn Phillips join elite list with stellar partnership against India in the first Test",
-    "desc": "New Zealand continued their brilliance in the first Test of the ongoing series against the Indian team. Day 1 of the clash saw New Zealand end the day on a score of 243 runs with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/henry-nicholls-glenn-phillips-join-elite-list-with-stellar-partnership-against-india-in-the-first-test-2026-11-20-1059903",
-    "time": "2026-11-20T00:53:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Temba Bavuma set to miss second Bangladesh Test due to calf strain",
-    "desc": "In a major blow for South Africa cricket, the side’s star skipper, Temba Bavuma, has been ruled out of the upcoming second Test against Bangladesh. It is worth noting that Bavuma sustained a calf strain...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/temba-bavuma-set-to-miss-second-bangladesh-test-due-to-calf-strain-2026-11-20-1059902",
-    "time": "2026-11-19T23:49:56.000Z"
   }
 ];
