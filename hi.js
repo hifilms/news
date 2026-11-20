@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Delhi Capitals appoint Mahela Jayawardene as Director of Cricket ahead of WPL 2027",
+    "desc": "Delhi Capitals have signed former Sri Lanka captain and Mumbai Indians head coach Mahela Jayawardene as the Director of Cricket ahead of the Women's Premier League (WPL) 2027 season. The experienced coach will now take charge...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-appoint-mahela-jayawardene-as-director-of-cricket-ahead-of-wpl-2027-2026-11-20-1059938",
+    "time": "2026-11-20T10:17:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sooryavanshi, Abhishek, Badoni flop as India in trouble",
+    "desc": "Nepal have won the toss and elected to field first at West End Park International Cricket Stadium in Doha. For India, Abhishek Sharma and Vaibhav Sooryavanshi opened the innings. However, Abhishek failed to make it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nep-asia-cup-rising-stars-live-score-india-vs-nepal-latest-match-updates-scorecards-playing-xis-reactions-vaibahav-sooryavanshi-abhishek-1059936",
+    "time": "2026-11-20T09:32:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul, Yashasvi Jaiswal lead India's charge on day 2, put New Zealand under pressure in Wellington",
+    "desc": "Day 2 of the ongoing first Test between India and New Zealand saw the Black Caps continue where they left off. The duo of Glenn Phillips and Henry Nicholls kicked off the day on a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-yashasvi-jaiswal-lead-india-s-charge-on-day-2-put-new-zealand-under-pressure-in-wellington-2026-11-20-1059919",
+    "time": "2026-11-20T06:22:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul achieves massive feat, smashes brilliant half century against New Zealand in the first Test",
+    "desc": "The Indian team continues to fightback as they take on New Zealand in the first Test of the ongoing series between the two sides. The teams met at the Basin Reserve in Wellington for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-achieves-massive-feat-smashes-brilliant-half-century-against-new-zealand-in-the-first-test-2026-11-20-1059917",
+    "time": "2026-11-20T05:51:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kagiso Rabada demands support, asks fans to turn up in numbers ahead of second Bangladesh Test",
+    "desc": "South Africa got off to a good start to their Test series against Bangladesh; the Proteas registered a brilliant victory in the first Test of the series, defeating the side by nine wickets to take...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kagiso-rabada-demands-support-asks-fans-to-turn-up-in-numbers-ahead-of-second-bangladesh-test-2026-11-20-1059915",
+    "time": "2026-11-20T05:12:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer questions Ravindra Jadeja's absence in India's playing XI amid first NZ Test",
+    "desc": "The Indian team took on New Zealand in the first Test of the ongoing series. The two sides met at the Basin Reserve in Wellington from Novemner 19th, and the first innings saw New Zealand...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-questions-ravindra-jadeja-s-absence-in-india-s-playing-xi-amid-first-nz-test-2026-11-20-1059911",
+    "time": "2026-11-20T04:04:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Fanie de Villiers lambasts Usman Khawaja, calls him out for his recent sandpaper gate comments",
+    "desc": "Former Australia cricketer Usman Khawaja has rocked world cricket. He recently came out with his biography ‘Sabr’, where he talked about a variety of topics. One of the biggest topics from his book was the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/fanie-de-villiers-lambasts-usman-khawaja-calls-him-out-for-his-recent-sandpaper-gate-comments-2026-11-20-1059909",
+    "time": "2026-11-20T03:23:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ravichandran Ashwin slams team India's management and squad selection amid first NZ Test",
     "desc": "The Indian team kicked off the first Test of the ongoing series against New Zealand. The two sides met at the Basin Reserve in Wellington from November 19th, and the game saw India come in...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/temba-bavuma-set-to-miss-second-bangladesh-test-due-to-calf-strain-2026-11-20-1059902",
     "time": "2026-11-19T23:49:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shoaib Akhtar makes shocking remark, claims Pakistan used to tamper with balls using bottle caps",
-    "desc": "Former Pakistan fast bowler Shoaib Akhtar has made a startling admission about ball tampering in international cricket. He claimed that Pakistan players also altered the condition of cricket balls during his playing career by using...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shoaib-akhtar-makes-shocking-remark-claims-pakistan-used-to-tamper-with-balls-using-bottle-caps-2026-11-19-1059887",
-    "time": "2026-11-19T15:32:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah surpasses Javagal Srinath to become India's 10th leading wicket-taker in Tests, check list",
-    "desc": "Ace pacer Jasprit Bumrah moved past former fast bowler Javagal Srinath to become the 10th leading wicket-taker for India in Test cricket history. He achieved the feat after dismissing Tom Blundell in the opening Test...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-surpasses-javagal-srinath-to-become-india-s-10th-leading-wicket-taker-in-tests-check-list-2026-11-19-1059882",
-    "time": "2026-11-19T14:48:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Laura Harris smashes fastest half-century in WBBL history to ruin sister Grace Harris' commanding century",
-    "desc": "Flamboyant batter Grace Harris delivered a spectacular performance in the Women's Big Bash League (WBBL), smashing an unbeaten century for Brisbane Heat against Sydney Thunder. During her stay at the crease, the 32-year-old hit nine...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/laura-harris-smashes-fastest-half-century-in-wbbl-history-to-ruin-sister-grace-harris-commanding-century-2026-11-19-1059877",
-    "time": "2026-11-19T13:57:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa captain Temba Bavuma ruled out of second Test vs Bangladesh, check details",
-    "desc": "South Africa captain Temba Bavuma has been ruled out of the second Test against Bangladesh, starting November 23 in Centurion. The 36-year-old was suffering from a calf strain in the opening match of the series...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-captain-temba-bavuma-ruled-out-of-second-test-vs-bangladesh-check-details-2026-11-19-1059863",
-    "time": "2026-11-19T11:18:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Temba Bavuma extends his elite record as South Africa thump Bangladesh by nine wickets in first Test",
-    "desc": "South Africa secured a convincing nine-wicket victory over Bangladesh in the opening Test of the two-match series. The Proteas managed to keep up with the momentum after a memorable series win against Australia, as captain...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/temba-bavuma-extends-his-elite-record-as-south-africa-thump-bangladesh-by-nine-wickets-in-first-test-2026-11-19-1059859",
-    "time": "2026-11-19T10:48:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "LSG's Tom Moody explains reason for trading Sam Curran for Mohammed Shami",
-    "desc": "Lucknow Super Giants made two blockbuster trades ahead of the IPL 2027 season. First, they traded in Kuldeep Yadav from Delhi Capitals for Rishabh Pant and later signed Sam Curran from Rajasthan Royals in exchange...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lsg-s-tom-moody-explains-reason-for-trading-sam-curran-for-mohammed-shami-2026-11-19-1059850",
-    "time": "2026-11-19T09:53:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why were Mohammed Siraj and Ravindra Jadeja dropped from first Test vs New Zealand? Batting coach answers",
-    "desc": "India batting coach Sitanshu Kotak has defended Mohammed Siraj's exclusion from the playing XI for the opening Test against New Zealand in Wellington. He insisted that the team management selected its preferred combination after considering...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-were-mohammed-siraj-and-ravindra-jadeja-dropped-from-first-test-vs-new-zealand-batting-coach-answers-2026-11-19-1059843",
-    "time": "2026-11-19T08:37:09.000Z"
   }
 ];
