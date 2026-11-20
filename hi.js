@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ravichandran Ashwin slams team India's management and squad selection amid first NZ Test",
+    "desc": "The Indian team kicked off the first Test of the ongoing series against New Zealand. The two sides met at the Basin Reserve in Wellington from November 19th, and the game saw India come in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-slams-team-india-s-management-and-squad-selection-amid-first-nz-test-2026-11-20-1059905",
+    "time": "2026-11-20T01:50:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Henry Nicholls-Glenn Phillips join elite list with stellar partnership against India in the first Test",
+    "desc": "New Zealand continued their brilliance in the first Test of the ongoing series against the Indian team. Day 1 of the clash saw New Zealand end the day on a score of 243 runs with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/henry-nicholls-glenn-phillips-join-elite-list-with-stellar-partnership-against-india-in-the-first-test-2026-11-20-1059903",
+    "time": "2026-11-20T00:53:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Temba Bavuma set to miss second Bangladesh Test due to calf strain",
+    "desc": "In a major blow for South Africa cricket, the side’s star skipper, Temba Bavuma, has been ruled out of the upcoming second Test against Bangladesh. It is worth noting that Bavuma sustained a calf strain...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/temba-bavuma-set-to-miss-second-bangladesh-test-due-to-calf-strain-2026-11-20-1059902",
+    "time": "2026-11-19T23:49:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shoaib Akhtar makes shocking remark, claims Pakistan used to tamper with balls using bottle caps",
     "desc": "Former Pakistan fast bowler Shoaib Akhtar has made a startling admission about ball tampering in international cricket. He claimed that Pakistan players also altered the condition of cricket balls during his playing career by using...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-were-mohammed-siraj-and-ravindra-jadeja-dropped-from-first-test-vs-new-zealand-batting-coach-answers-2026-11-19-1059843",
     "time": "2026-11-19T08:37:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kane Williamson names five cricketers who can shape next generation of Test cricket",
-    "desc": "Kane Williamson has identified five young batters he believes could shape the next era of Test cricket. He named India's Yashasvi Jaiswal and Shubman Gill, England's Harry Brook, Australia's Cameron Green and New Zealand teammate...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kane-williamson-names-five-cricketers-who-can-shape-next-generation-of-test-cricket-2026-11-19-1059834",
-    "time": "2026-11-19T08:05:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Henry Nicholls, Glenn Phillips lead New Zealand's recovery after early collapse; India miss Mohammed Siraj",
-    "desc": "New Zealand fought back from a precarious position to finish the opening day of the Wellington Test in control, as Henry Nicholls scored his 12th Test century and Glenn Phillips remained unbeaten on 94. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/henry-nicholls-glenn-phillips-lead-new-zealand-s-recovery-after-early-collapse-india-miss-mohammed-siraj-2026-11-19-1059829",
-    "time": "2026-11-19T07:17:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Mauricio Pochettino get the best out of Marcus Rashford? Michael Owen opines",
-    "desc": "Manchester United are all set to enter their new era. The 20-time Premier League champions appointed Mauricio Pochettino as their new manager after the sacking of Michael Carrick. The side currently sits in 18th place...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/can-mauricio-pochettino-get-the-best-out-of-marcus-rashford-michael-owen-opines-2026-11-19-1059818",
-    "time": "2026-11-19T05:36:56.000Z"
   }
 ];
