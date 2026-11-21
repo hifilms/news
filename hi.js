@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Usman Khawaja, David Warner removed from commentary as Sandpapergate saga once again shakes Australia cricket",
+    "desc": "Australia cricket broadcast channel Fox Sports has temporarily withdrawn Usman Khawaja and David Warner from their cricket commentary coverage as renewed scrutiny surrounding Australia's ball-tampering scandal in 2018 continues to generate controversy. The decision means both...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/usman-khawaja-david-warner-removed-from-commentary-as-sandpapergate-saga-once-again-shakes-australia-cricket-2026-11-21-1060019",
+    "time": "2026-11-21T10:15:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manchester United CEO Omar Berrada defends transfer strategy amid abysmal season",
+    "desc": "Manchester United are in the middle of a horrid season in the Premier League, having played some subpar football. United finds itself in 18th place in the standings and is battling relegation in the league....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/manchester-united-ceo-omar-berrada-defends-transfer-strategy-amid-abysmal-season-2026-11-21-1060008",
+    "time": "2026-11-21T06:39:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul, Shubman Gill run riots against New Zealand, take impressive lead ahead of day 4 in Wellington",
+    "desc": "Day 3 of the ongoing first Test between India and New Zealand saw the two sides continue, with India on a score of 159/1. KL Rahul and Devdutt Padikkal opened the day for India, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-shubman-gill-run-riots-against-new-zealand-take-impressive-lead-ahead-of-day-4-in-wellington-2026-11-21-1060007",
+    "time": "2026-11-21T06:17:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mauricio Pochettino lays down the expectation as Manchester United gear up for Liverpool clash",
+    "desc": "Mauricio Pochettino has arrived at Manchester United; with the international break coming to an end, the 20-time Premier League champions will be taking on Liverpool next on November 22nd. It is interesting to note that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/mauricio-pochettino-lays-down-the-expectation-as-manchester-united-gear-up-for-liverpool-clash-2026-11-21-1060003",
+    "time": "2026-11-21T05:38:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "CSK's new head coach Zaheer Khan reflects on MS Dhoni's retirement ahead of IPL 2027",
+    "desc": "The IPL (Indian Premier League) mini auction is looming on the horizon; the marquee event is slated to be held on December 16 in Goa, as all 10 franchises will hope to play some good...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/csk-s-new-head-coach-zaheer-khan-reflects-on-ms-dhoni-s-retirement-ahead-of-ipl-2027-2026-11-21-1059999",
+    "time": "2026-11-21T04:37:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Josh Hazlewood comes to Pat Cummins' defence amid resurfacing of the sandpaper gate controversy",
+    "desc": "Australian Cricket has been on a roller coaster ride in the last few weeks, ever since former cricketer Usman Khawaja came forward with his biography and claimed that all of the players knew about the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/josh-hazlewood-comes-to-pat-cummins-defence-amid-resurfacing-of-the-sandpaper-gate-controversy-2026-11-21-1059993",
+    "time": "2026-11-21T02:57:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "KL Rahul slams magnificent century, dominates New Zealand with the bat in Wellington",
     "desc": "Day 3 of the ongoing first Test between India and New Zealand saw the visitors continue on a score of 159/1 with KL Rahul and Devdutt Padikkal on the crease. It is worth noting the...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jaydev-unadkat-claims-hat-trick-in-smat-bhuvneshwar-kumar-picks-three-for-19-while-aryan-juyal-shines-2026-11-20-1059982",
     "time": "2026-11-20T18:18:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia suffer double injury blow as Mahli Beardman, Xavier Bartlett ruled out of England T20I series",
-    "desc": "Australia's preparations for the upcoming T20I assignment against England have taken a hit, with Mahli Beardman and Xavier Bartlett ruled out of the five-match series, starting November 21 in Melbourne, because of injuries. Billy Stanlake...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-suffer-double-injury-blow-as-mahli-beardman-xavier-bartlett-ruled-out-of-england-t20i-series-2026-11-20-1059979",
-    "time": "2026-11-20T17:41:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I am not here to be Sehwag 2.0'",
-    "desc": "Aaryavir Sehwag was a force to reckon with in the recently concluded U19 Asia Cup. He showed glimpses of his class and finished as the leading run-scorer of the tournament with 361 runs. Courtesy of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-am-not-here-to-be-sehwag-2-0-kohli-fan-aaryavir-opens-up-on-comparisons-with-legendary-father-2026-11-20-1059976",
-    "time": "2026-11-20T16:31:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India A bundle Nepal for just 26 runs, secure historic 306-run win after Prince Yadav, Harshit Rana's rampage",
-    "desc": "India have defeated Nepal by 306 runs in their opening game of the Asia Cup Rising Stars 2026. They had a tough start to the match, with their top order being sent back to the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-bundle-nepal-for-just-26-runs-secure-historic-306-run-win-after-prince-harshit-s-rampage-2026-11-20-1059974",
-    "time": "2026-11-20T16:11:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Keshav Maharaj to lead South Africa in Bangladesh ODIs as Temba Bavuma continues injury recovery",
-    "desc": "South Africa have handed Keshav Maharaj the ODI captaincy for their upcoming series against Bangladesh. Regular skipper Temba Bavuma suffered a calf injury in the first Test and his currently unavailable. The selectors have also...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/keshav-maharaj-to-lead-south-africa-in-bangladesh-odis-as-temba-bavuma-continues-injury-recovery-2026-11-20-1059967",
-    "time": "2026-11-20T14:41:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India boycott blind cricket Asia Cup trophy ceremony after Pakistan declared sole champions",
-    "desc": "A dispute over the outcome of the Men’s Blind Cricket Asia Cup 2026 final has put India and Pakistan at the centre of a controversy, with the Indian team refusing to participate in the trophy...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-boycott-blind-cricket-asia-cup-trophy-ceremony-after-pakistan-declared-sole-champions-2026-11-20-1059953",
-    "time": "2026-11-20T12:09:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lakshya Sen, Satwik-Chirag storm into Hong Kong Open semifinals; Rakshita Ramraj bows out",
-    "desc": "India enjoyed a productive day at the Hong Kong Open on Friday, with Lakshya Sen and the men’s doubles combination of Satwiksairaj Rankireddy and Chirag Shetty securing semifinal berths at the BWF Super 500 tournament....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/lakshya-sen-satwik-chirag-storm-into-hong-kong-open-semifinals-rakshita-ramraj-bows-out-2026-11-20-1059946",
-    "time": "2026-11-20T11:25:21.000Z"
   }
 ];
