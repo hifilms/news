@@ -1,6 +1,78 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Leeds United humiliate Chelsea in Premier League, register first away win over Blues since December 1999",
+    "desc": "Chelsea’s struggles continued in the Premier League as Leeds United inflicted a damaging 4-1 defeat on Xabi Alonso’s side. The result also marked Leeds’ first victory at Stamford Bridge since 1999. On the other hand,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/leeds-united-humiliate-chelsea-in-premier-league-register-first-away-win-over-blues-since-december-1999-2026-11-21-1060054",
+    "time": "2026-11-21T18:11:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Report",
+    "desc": "Australia captain Pat Cummins is likely to be available for Sunrisers Hyderabad in IPL 2027, with a senior member of the franchise indicating that the pacer has assured his participation in the upcoming season. His...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-will-be-partially-available-in-ipl-2027-despite-workload-concerns-report-2026-11-21-1060050",
+    "time": "2026-11-21T17:33:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India blind team objects as Pakistan umpire joins players in controversial celebration in Asia Cup",
+    "desc": "The Cricket Association for the Blind in India (CABI) has raised questions over the conduct of a Pakistani umpire following the emergence of a video that seemingly shows him joining Pakistan players in celebratory gestures...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-blind-team-left-infuriated-after-pakistan-umpire-joins-players-in-controversial-celebration-in-asia-cup-2026-11-21-1060048",
+    "time": "2026-11-21T16:12:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi-born all-rounder smacks half-century as Australia beat England in 1st T20I at MCG",
+    "desc": "Delhi-born Australia all-rounder Nikhil Chaudhary smacked a half-century as Australia beat England by three wickets at the Melbourne Cricket Ground. Alongside Nikhil, Jack Edwards, who recently moved from Chennai Super Kings to Sunrisers Hyderabad, also...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-born-all-rounder-smacks-half-century-as-australia-beat-england-in-1st-t20i-at-mcg-2026-11-21-1060045",
+    "time": "2026-11-21T15:15:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former cricketer fears Australia players may quit international cricket amid Sandpapergate saga",
+    "desc": "Former Australia cricketer Greg Blewett has expressed concern that the renewed Sandpapergate controversy could have serious consequences for the national team. He warned that senior players, including Pat Cummins, Mitchell Starc, Josh Hazlewood and Nathan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-cricketer-fears-australia-players-may-quit-international-cricket-amid-sandpapergate-saga-2026-11-21-1060040",
+    "time": "2026-11-21T14:12:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mushfiqur Rahim ruled out of Bangladesh's second Test vs South Africa due to groin injury",
+    "desc": "Bangladesh have suffered another significant setback ahead of the second Test against South Africa, with veteran batter Mushfiqur Rahim ruled out of the Centurion match due to a groin injury. His absence adds to the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mushfiqur-rahim-ruled-out-of-bangladesh-s-second-test-vs-south-africa-due-to-groin-injury-2026-11-21-1060037",
+    "time": "2026-11-21T13:38:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammad Rizwan, Shan Masood, Saim Ayub axed from PCB central contract for 2026-27 season",
+    "desc": "The Pakistan Cricket Board on Saturday announced a list of 38 cricketers as part of their central contract list for the 2026-27 season. Interestingly, two former captains, Mohammad Rizwan and Shan Masood, have been axed....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-rizwan-shan-masood-saim-ayub-axed-from-pcb-central-contract-for-2026-27-season-2026-11-21-1060031",
+    "time": "2026-11-21T12:26:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul becomes first Indian opener to register record-breaking feat in Test cricket",
+    "desc": "Star India batter KL Rahul has become the first Indian opener to score Test centuries in all four SENA countries. He achieved the feat after registering his 13th Test century against New Zealand at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-becomes-first-indian-opener-to-register-record-breaking-feat-in-test-cricket-2026-11-21-1060026",
+    "time": "2026-11-21T11:23:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Usman Khawaja, David Warner removed from commentary as Sandpapergate saga once again shakes Australia cricket",
     "desc": "Australia cricket broadcast channel Fox Sports has temporarily withdrawn Usman Khawaja and David Warner from their cricket commentary coverage as renewed scrutiny surrounding Australia's ball-tampering scandal in 2018 continues to generate controversy. The decision means both...",
     "img": "",
@@ -16,77 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/manchester-united-ceo-omar-berrada-defends-transfer-strategy-amid-abysmal-season-2026-11-21-1060008",
     "time": "2026-11-21T06:39:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul, Shubman Gill run riots against New Zealand, take impressive lead ahead of day 4 in Wellington",
-    "desc": "Day 3 of the ongoing first Test between India and New Zealand saw the two sides continue, with India on a score of 159/1. KL Rahul and Devdutt Padikkal opened the day for India, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-shubman-gill-run-riots-against-new-zealand-take-impressive-lead-ahead-of-day-4-in-wellington-2026-11-21-1060007",
-    "time": "2026-11-21T06:17:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mauricio Pochettino lays down the expectation as Manchester United gear up for Liverpool clash",
-    "desc": "Mauricio Pochettino has arrived at Manchester United; with the international break coming to an end, the 20-time Premier League champions will be taking on Liverpool next on November 22nd. It is interesting to note that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/mauricio-pochettino-lays-down-the-expectation-as-manchester-united-gear-up-for-liverpool-clash-2026-11-21-1060003",
-    "time": "2026-11-21T05:38:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CSK's new head coach Zaheer Khan reflects on MS Dhoni's retirement ahead of IPL 2027",
-    "desc": "The IPL (Indian Premier League) mini auction is looming on the horizon; the marquee event is slated to be held on December 16 in Goa, as all 10 franchises will hope to play some good...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/csk-s-new-head-coach-zaheer-khan-reflects-on-ms-dhoni-s-retirement-ahead-of-ipl-2027-2026-11-21-1059999",
-    "time": "2026-11-21T04:37:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Josh Hazlewood comes to Pat Cummins' defence amid resurfacing of the sandpaper gate controversy",
-    "desc": "Australian Cricket has been on a roller coaster ride in the last few weeks, ever since former cricketer Usman Khawaja came forward with his biography and claimed that all of the players knew about the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/josh-hazlewood-comes-to-pat-cummins-defence-amid-resurfacing-of-the-sandpaper-gate-controversy-2026-11-21-1059993",
-    "time": "2026-11-21T02:57:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul slams magnificent century, dominates New Zealand with the bat in Wellington",
-    "desc": "Day 3 of the ongoing first Test between India and New Zealand saw the visitors continue on a score of 159/1 with KL Rahul and Devdutt Padikkal on the crease. It is worth noting the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-slams-magnificent-century-dominates-new-zealand-with-the-bat-in-wellington-2026-11-21-1059988",
-    "time": "2026-11-21T01:37:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul becomes third Indian opener to achieve massive feat, joins Rohit Sharma in an elite list",
-    "desc": "The Indian team found itself in a solid position on day 3 of the ongoing first Test against New Zealand. The two sides met at the Basin Reserve in Wellington for the clash, and the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-becomes-third-indian-opener-to-achieve-massive-feat-joins-rohit-sharma-in-an-elite-list-2026-11-21-1059986",
-    "time": "2026-11-21T00:58:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Glenn Phillips opens up after second Test ton, reflects on his game plan and exceptional form",
-    "desc": "India and New Zealand took on each other in the first Test of the ongoing series. The two sides met at the Basin Reserve in Wellington from November 19th. New Zealand came in to bat...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-opens-up-after-second-test-ton-reflects-on-his-game-plan-and-exceptional-form-2026-11-21-1059985",
-    "time": "2026-11-20T23:42:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jaydev Unadkat claims hat-trick in SMAT; Bhuvneshwar Kumar picks three for 19 while Aryan Juyal shines",
-    "desc": "Veteran pacer Jaydev Unadkat claimed a hat-trick in the ongoing Syed Mushtaq Ali Trophy 2026. Against Delhi, he conceded just 23 runs and picked up three wickets to restrict the opponent to 152 runs. Nitish...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jaydev-unadkat-claims-hat-trick-in-smat-bhuvneshwar-kumar-picks-three-for-19-while-aryan-juyal-shines-2026-11-20-1059982",
-    "time": "2026-11-20T18:18:31.000Z"
   }
 ];
