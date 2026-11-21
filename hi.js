@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "KL Rahul slams magnificent century, dominates New Zealand with the bat in Wellington",
+    "desc": "Day 3 of the ongoing first Test between India and New Zealand saw the visitors continue on a score of 159/1 with KL Rahul and Devdutt Padikkal on the crease. It is worth noting the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-slams-magnificent-century-dominates-new-zealand-with-the-bat-in-wellington-2026-11-21-1059988",
+    "time": "2026-11-21T01:37:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul becomes third Indian opener to achieve massive feat, joins Rohit Sharma in an elite list",
+    "desc": "The Indian team found itself in a solid position on day 3 of the ongoing first Test against New Zealand. The two sides met at the Basin Reserve in Wellington for the clash, and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-becomes-third-indian-opener-to-achieve-massive-feat-joins-rohit-sharma-in-an-elite-list-2026-11-21-1059986",
+    "time": "2026-11-21T00:58:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Glenn Phillips opens up after second Test ton, reflects on his game plan and exceptional form",
+    "desc": "India and New Zealand took on each other in the first Test of the ongoing series. The two sides met at the Basin Reserve in Wellington from November 19th. New Zealand came in to bat...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-opens-up-after-second-test-ton-reflects-on-his-game-plan-and-exceptional-form-2026-11-21-1059985",
+    "time": "2026-11-20T23:42:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jaydev Unadkat claims hat-trick in SMAT; Bhuvneshwar Kumar picks three for 19 while Aryan Juyal shines",
     "desc": "Veteran pacer Jaydev Unadkat claimed a hat-trick in the ongoing Syed Mushtaq Ali Trophy 2026. Against Delhi, he conceded just 23 runs and picked up three wickets to restrict the opponent to 152 runs. Nitish...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/lakshya-sen-satwik-chirag-storm-into-hong-kong-open-semifinals-rakshita-ramraj-bows-out-2026-11-20-1059946",
     "time": "2026-11-20T11:25:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals appoint Mahela Jayawardene as Director of Cricket ahead of WPL 2027",
-    "desc": "Delhi Capitals have signed former Sri Lanka captain and Mumbai Indians head coach Mahela Jayawardene as the Director of Cricket ahead of the Women's Premier League (WPL) 2027 season. The experienced coach will now take charge...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-appoint-mahela-jayawardene-as-director-of-cricket-ahead-of-wpl-2027-2026-11-20-1059938",
-    "time": "2026-11-20T10:17:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nepal bundled out for only 26 runs as India win by 306 runs",
-    "desc": "Nepal have won the toss and elected to field first at West End Park International Cricket Stadium in Doha. For India, Abhishek Sharma and Vaibhav Sooryavanshi opened the innings. However, Abhishek failed to make it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nep-asia-cup-rising-stars-live-score-india-vs-nepal-latest-match-updates-scorecards-playing-xis-reactions-vaibahav-sooryavanshi-abhishek-1059936",
-    "time": "2026-11-20T09:32:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul, Yashasvi Jaiswal lead India's charge on day 2, put New Zealand under pressure in Wellington",
-    "desc": "Day 2 of the ongoing first Test between India and New Zealand saw the Black Caps continue where they left off. The duo of Glenn Phillips and Henry Nicholls kicked off the day on a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-yashasvi-jaiswal-lead-india-s-charge-on-day-2-put-new-zealand-under-pressure-in-wellington-2026-11-20-1059919",
-    "time": "2026-11-20T06:22:25.000Z"
   }
 ];
