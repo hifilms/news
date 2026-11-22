@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rishabh Pant slams exceptional century, achieves massive feat with brilliant knock against New Zealand",
+    "desc": "Day 4 of the ongoing first Test between India and New Zealand saw Rishabh Pant continue right where he left off, putting pressure on the Black Caps once more. Pant went on to complete a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-slams-exceptional-century-achieves-massive-feat-with-brilliant-knock-against-new-zealand-2026-11-22-1060057",
+    "time": "2026-11-22T00:24:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England call up uncapped Ben McKinney for upcoming South Africa Tests, replaces injured Jacob Bethell",
+    "desc": "The ECB (England and Wales Cricket Board) took centre stage and announced England’s squad for the upcoming Test series against South Africa. It is interesting to note that England and South Africa are slated to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-call-up-uncapped-ben-mckinney-for-upcoming-south-africa-tests-replaces-injured-jacob-bethell-2026-11-22-1060056",
+    "time": "2026-11-21T23:20:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Leeds United humiliate Chelsea in Premier League, register first away win over Blues since December 1999",
     "desc": "Chelsea’s struggles continued in the Premier League as Leeds United inflicted a damaging 4-1 defeat on Xabi Alonso’s side. The result also marked Leeds’ first victory at Stamford Bridge since 1999. On the other hand,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-becomes-first-indian-opener-to-register-record-breaking-feat-in-test-cricket-2026-11-21-1060026",
     "time": "2026-11-21T11:23:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Usman Khawaja, David Warner removed from commentary as Sandpapergate saga once again shakes Australia cricket",
-    "desc": "Australia cricket broadcast channel Fox Sports has temporarily withdrawn Usman Khawaja and David Warner from their cricket commentary coverage as renewed scrutiny surrounding Australia's ball-tampering scandal in 2018 continues to generate controversy. The decision means both...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/usman-khawaja-david-warner-removed-from-commentary-as-sandpapergate-saga-once-again-shakes-australia-cricket-2026-11-21-1060019",
-    "time": "2026-11-21T10:15:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manchester United CEO Omar Berrada defends transfer strategy amid abysmal season",
-    "desc": "Manchester United are in the middle of a horrid season in the Premier League, having played some subpar football. United finds itself in 18th place in the standings and is battling relegation in the league....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/manchester-united-ceo-omar-berrada-defends-transfer-strategy-amid-abysmal-season-2026-11-21-1060008",
-    "time": "2026-11-21T06:39:13.000Z"
   }
 ];

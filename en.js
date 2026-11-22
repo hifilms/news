@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Aakasamlo Oka Tara' BO day 1: Dulquer film opens below 'I'm Game'",
+    "desc": "Dulquer Salmaan's new movie, 'Aakasamlo Oka Tara', made Rs 67 lakh on its first day in India. Interestingly, the Malayalam version outperformed the Tamil version, showcasing the differing tastes among regional viewers. The film saw its strongest sales in Andhra Pradesh and Telangana. However, compared to Salmaan's earlier release, 'I'm Game', these figures are lower. Time will tell if 'Aakasamlo Oka Tara' can build on this initial box office start.",
+    "img": "https://static.toiimg.com/photo/msid-136065457,imgsize-301038.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/aakasamlo-oka-tara-box-office-collection-day-1-dulquer-salmaan-earns-rs-67-lakh-pavan-sadinenis-film-opens-below-im-game/articleshow/136065447.cms",
+    "time": "2026-11-22T00:37:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pant scores century as India extend lead past 250 at lunch",
+    "desc": "Having added 143 runs in 27.5 overs in the morning session, India went into lunch at 629 for six; with a lead of 261, Dhruv Jurel will look to push it beyond 300 before an impending declaration",
+    "img": "https://th-i.thgim.com/public/incoming/4uudkr/article71730493.ece/alternates/LANDSCAPE_1200/New_Zealand_India_Cricket_63874.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-test-day-4-updates-november-22-2026/article71730494.ece",
+    "time": "2026-11-22T00:35:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ramayana' day 17: Ranbir Kapoor, Yash film outperforms 'KGF: Chapter 2'",
+    "desc": "Rise of a Legend continues to perform well at the box office on its 17th day. The film earned Rs 27.40 crore net in India, marking a notable increase from the previous day. Its total domestic net collection has reached Rs 906.90 crore, while the worldwide gross stands at Rs 1,616.70 crore. The Hindi version remains the largest contributor to earnings, accounting for 76% of total collections.",
+    "img": "https://static.toiimg.com/photo/msid-136065416,imgsize-268896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-rise-of-a-legend-box-office-collection-day-17-ranbir-kapoor-yash-film-outperforms-kgf-chapter-2-earns-rs-27-40-cr-on-saturday/articleshow/136065407.cms",
+    "time": "2026-11-22T00:21:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'O.M: Operation Mole' BO day 2: Dhanush film trails 'Amaran'",
+    "desc": "Operation Mole continues to make waves at the box office, grossing Rs 15.40 crore on its second day after an impressive Rs 18.10 crore debut. The Tamil version played a crucial role with Rs 11.40 crore in regional collections. Despite a slight dip in overall occupancy, the film has amassed a total of Rs 33.",
+    "img": "https://static.toiimg.com/photo/msid-136065345,imgsize-239228.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/o-m-operation-mole-box-office-collection-day-2-dhanush-mammootty-sai-pallavi-film-trails-amaran-worldwide-gross-reaches-rs-60-90-cr/articleshow/136065327.cms",
+    "time": "2026-11-22T00:10:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "‘Two rulers, one fort’: Pakistan Minister invokes Humayun, Sher Shah at SCO Civilisational Forum",
+    "desc": "‘This [Purana] Qila, where we are sitting, is in itself a story; a fort, whose foundation was laid by Humayun, who had a descent from the Timurid [dynasty] linkage.. came from Central Asia; and, Sher Shah Suri further built on it, who was an Afghan’, said Musadik Malik",
+    "img": "https://th-i.thgim.com/public/incoming/h6u3fl/article71729571.ece/alternates/LANDSCAPE_1200/PTI11_20_2026_000303B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/two-rulers-one-fort-pakistan-minister-invokes-humayun-sher-shah-at-sco-civilisational-forum/article71729569.ece",
+    "time": "2026-11-21T22:35:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lehmann denies knowledge of sandpaper plot, says scandal took him to ‘dark place’",
+    "desc": "‘And you know what — I was coach at the time, I’ve got to take that responsibility, so you resign, pushed, whatever you want to call it; it’s so long ago now — we’re talking 8½ years,’ said Darren Lehmann",
+    "img": "https://th-i.thgim.com/public/incoming/tibo6v/article71729567.ece/alternates/LANDSCAPE_1200/Australia_England_Cricket_51937.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/sandpapergate-scandal-lehmann-denies-knowledge-of-sandpaper-plot-says-scandal-took-him-to-dark-place/article71729566.ece",
+    "time": "2026-11-21T21:44:43.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Eisenkot invites Netanyahu’s party for Israeli coalition talks",
+    "desc": "‘In an effort to pursue every option for forming a new government, Yashar Chair Gadi Eisenkot has instructed the party's negotiating team to invite its Likud counterparts to a marathon series of talks beginning with the meeting already scheduled for tomorrow’ read a statement",
+    "img": "https://th-i.thgim.com/public/incoming/1alyk5/article71729471.ece/alternates/LANDSCAPE_1200/Israel_Politics_34773.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/eisenkot-invites-netanyahus-party-for-israeli-coalition-talks/article71729470.ece",
+    "time": "2026-11-21T21:14:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Medicos warn against craze for fairness after 17-year-old Keralam girl diagnosed with kidney disorder",
+    "desc": "Medical experts say that the use of fairness creams containing heavy metals such as mercury to lighten the skin is emerging as a major health hazard that can lead to serious conditions such as kidney failure if not diagnosed early",
+    "img": "https://th-i.thgim.com/public/news/national/5qtale/article71729289.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/medicos-warn-against-craze-for-fairness-after-17-year-old-keralam-girl-diagnosed-with-kidney-disorder/article71728705.ece",
+    "time": "2026-11-21T20:14:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police complaint against WB LoP, police officers for fabrication of affidavits before ECI",
+    "desc": "The police complaint, was registered at city’s Kalighat Police station by Subhasish Chakraborty on behalf of Trinamool Congress; in the complaint, the loyalist of Mamata Banerjee has claimed that he has credible proofs that Nanoor police station officials conspired with Ritabrata Banerjee and Arup Roy to prepare false and fabricated affidavits",
+    "img": "https://th-i.thgim.com/public/incoming/qoujpb/article71729455.ece/alternates/LANDSCAPE_1200/20260917409L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/police-complaint-against-wb-lop-police-officers-for-fabrication-of-affidavits-before-eci/article71729170.ece",
+    "time": "2026-11-21T19:46:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Municipal staff transfers to move online by Tamil Nadu govt., with vacancies displayed on portal",
+    "desc": "According to the guidelines, general transfers will ordinarily be conducted between April 1 and May 31 every year. Applications will be received through the online portal between March 1 and 31. Employees who have completed three years of service in a post or station will be eligible for transfer during this period, subject to the availability of vacancies.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/municipal-staff-transfers-to-move-online-by-tamil-nadu-government-with-vacancies-displayed-on-portal/article71727871.ece",
+    "time": "2026-11-21T19:44:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Eastern Ghats on a slippery slope",
+    "desc": "The deaths of 10 people in two landslides triggered by Cyclone Arnab have drawn attention to the fragile ecology of the Eastern Ghats in Odisha and the growing dangers lurking in its hills. Satyasundar Barik examines how climate extremes, deforestation, and unplanned development are threatening the ecosystem",
+    "img": "https://th-i.thgim.com/public/incoming/yozgqv/article71718924.ece/alternates/LANDSCAPE_1200/90092_18_11_2026_19_28_39_2_FLOOD_LANDSLIDE_02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/eastern-ghats-on-a-slippery-slope/article71718920.ece",
+    "time": "2026-11-21T19:37:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Woman killed, newlywed couple critical as fire engulfs West Delhi home; neighbours break window to rescue family",
+    "desc": "With the main entrance blocked, residents smashed a window to pull out three trapped family members from the smoke-filled first floor in Raghubir Nagar; the couple, married barely two months ago, suffered 20% and 60% burns respectively.",
+    "img": "https://th-i.thgim.com/public/news/national/b4fozn/article71727957.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-21%20at%203.51.03%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/house-fire-in-west-delhis-raghubir-nagar/article71727921.ece",
+    "time": "2026-11-21T19:12:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Drishyam 3' OTT release: Here's when and where you can watch",
+    "desc": "The Conclusion' swiftly dominated the box office, earning approximately Rs 380.95 crore net in India in just 50 days. With a total worldwide box office of Rs 589.26 crore, it has proven to be a blockbuster. The suspense continues with 'Drishyam 3,' debuting on Netflix on November 27, where Vijay Salgaonkar navigates the perilous waters of crime to shield his family.",
+    "img": "https://static.toiimg.com/photo/msid-136062226,imgsize-220801.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/drishyam-3-ott-release-heres-when-and-where-you-can-watch-the-ajay-devgn-tabu-jaideep-ahlawat-starrer/articleshow/136062008.cms",
+    "time": "2026-11-21T19:02:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "The Rohingya",
+    "desc": "The International Court of Justice’s ruling that Myanmar committed genocide during its 2017 ‘clearance operations’ offers a measure of justice for the ethnic and religious minority, but the court has no means of enforcing its judgment",
+    "img": "https://th-i.thgim.com/public/incoming/a15j58/article71729365.ece/alternates/LANDSCAPE_1200/2026-11-19T101513Z_1144479296_RC2WQOADW602_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/the-rohingya-vindication-for-a-persecuted-people/article71729370.ece",
+    "time": "2026-11-21T18:20:18.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Kashmir’s famed saffron fields have been used as dumping grounds for three years: Mehbooba Mufti",
     "desc": "The former Jammu and Kashmir Chief Minister says nearly 2,000 kanals of land have been damaged, threatening the livelihoods of 150 families; the NGT has directed a panel to inspect the site and recommend action",
@@ -25,6 +151,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/ladakh/ladakh-municipal-and-panchayat-elections/article71727478.ece",
     "time": "2026-11-21T17:46:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Madurai’s great gold heist",
+    "desc": "The daring heist at a newly opened jewellery showroom in Madurai, executed by a lone, first-time burglar who wanted to live a lavish life and become rich soon, has all the makings of a potboiler. This report narrates the story as it happened and how the police solved the crime",
+    "img": "https://th-i.thgim.com/public/incoming/ezddmi/article71729311.ece/alternates/LANDSCAPE_1200/Tanishq%20jewellery%20showroom%204.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/madurais-great-gold-heist/article71729301.ece",
+    "time": "2026-11-21T17:46:32.000Z"
   },
   {
     "cat": "Politics",
@@ -108,6 +243,15 @@ const newsData_en = [
     "time": "2026-11-21T16:45:15.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Are public toilet users in Chennai pulling the flush on irritants?",
+    "desc": "Two concessionaires engaged by Greater Chennai Corporation to manage public toilets unpack the feedback mechanism that has been put in place to drive cleanliness standards. They also present data about how Chennai residents provide that feedback",
+    "img": "https://th-i.thgim.com/public/incoming/ubw6wc/article71729272.ece/alternates/LANDSCAPE_1200/22dc_annanagartoilet.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/are-public-toilet-users-in-chennai-pulling-the-flush-on-irritants/article71729247.ece",
+    "time": "2026-11-21T16:44:06.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "CM Vijay greets Anirudh-Kavya at their reception, meets Rajinikanth, Sangeetha poses separately",
     "desc": "On November 21, Anirudh Ravichander and Kavya Maran celebrated their union with a lavish reception in Chennai, attended by several prominent figures, such as Chief Minister Vijay and the legendary Rajinikanth. This event captured public attention, especially with the presence of notable personalities like former Chief Minister MK Stalin. Their wedding festivities started in Greece on November 10, setting a joyful tone for their grand celebration.",
@@ -145,33 +289,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "one crore doses administered in nine months",
-    "desc": "Nearly 87% of its annual target cohort of 14-year-old girls has been covered under the national cervical cancer prevention campaign. Uttar Pradesh leads with more than 29.33 lakh girls vaccinated, followed by Bihar (13.70 lakh) and Gujarat (7.75 lakh)",
-    "img": "https://th-i.thgim.com/public/incoming/ep8j6x/article71727555.ece/alternates/LANDSCAPE_1200/Telangana-vacciGSHFRJN65.7.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/over-1-crore-hpv-vaccines-given-to-14-year-old-girls-in-nine-months-health-ministry/article71727507.ece",
-    "time": "2026-11-21T15:53:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What recourse does the lower riparian State have in the Cauvery dispute?",
-    "desc": "What were the highlights of the two States’ positions? How did the CWRC and the CMMA assess the issue of deficit in realisation? What was the stand of the Authority on the issue of backlog? What is the recourse available to the lower riparian State now?",
-    "img": "https://th-i.thgim.com/public/incoming/cdwljf/article71280625.ece/alternates/LANDSCAPE_1200/IMG_4051A.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/what-recourse-does-the-lower-riparian-state-have-in-the-cauvery-dispute-explained/article71728815.ece",
-    "time": "2026-11-21T15:52:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amit Shah",
-    "desc": "Siang Valley communities oppose pre-feasibility report activities for the proposed dam project; Union Home Minister, who is on a three-day visit to Arunachal Pradesh, assures them that the region’s culture, traditions and religious beliefs would not be compromised",
-    "img": "https://th-i.thgim.com/public/incoming/1sdu6d/article71727701.ece/alternates/LANDSCAPE_1200/HXok4fcbIAA3a8-.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/arunachal-pradesh/concerns-of-people-of-siang-valley-over-dam-project-to-be-addressed-through-dialogue-shah/article71727685.ece",
-    "time": "2026-11-21T15:39:08.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'Goondaism isn't a bug': BJP, BRS attack Congress over Meta office vandalism",
     "desc": "Youth Congress workers caused a commotion at the Meta office in Hyderabad, protesting account suspensions affecting their leaders. This vandalism was denounced by leaders from both the BJP and BRS, who claimed it jeopardized the city's business-friendly image. N Ramchander Rao, president of Telangana BJP, criticized Congress for promoting such destructive behavior. Meanwhile, K T Rama Rao of BRS articulated that such incidents erode trust in companies like Meta.",
     "img": "https://static.toiimg.com/photo/msid-136057996,imgsize-136454.cms",
@@ -187,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/nfl/news/18-year-old-uga-football-commits-sudden-death-takes-another-heartbreaking-turn-as-family-reveals-his-final-moments/articleshow/136057773.cms",
     "time": "2026-11-21T15:26:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Keralam faces administrative paralysis under UDF, alleges CPI(M) State secretary M.V. Govindan",
-    "desc": "He cites stalled Wayanad tunnel road, sluggish National Highway work, and KIIFB-funded schemes as evidence of administrative paralysis under the UDF government. He also blames an internal 'power group' for the breakdown in Cabinet unity.",
-    "img": "https://th-i.thgim.com/public/incoming/no65zj/article71729056.ece/alternates/LANDSCAPE_1200/CPI-M--has-no-lGG8GO179E.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/keralam-faces-administrative-paralysis-under-udf-alleges-cpim-state-secretary-mv-govindan/article71728864.ece",
-    "time": "2026-11-21T15:23:07.000Z"
   },
   {
     "cat": "Sports",
@@ -225,15 +333,6 @@ const newsData_en = [
     "time": "2026-11-21T15:05:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Working to suppress India’s rise': US panel report flags China's support to Pakistan during Operation Sindoor",
-    "desc": "In May 2025, China's military support for Pakistan intensified India's security dilemmas. This report reveals Beijing's ongoing strategies aimed at stifling India's strategic advancements through both military and economic tactics. With Pakistan receiving advanced weaponry, India's concerns over a dual-threat scenario have been amplified. The evolving military alliance between China and Pakistan poses greater risks for India moving forward, showcasing a troubling shift in regional security dynamics.",
-    "img": "https://static.toiimg.com/photo/msid-136056960,imgsize-49526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/working-to-suppress-indias-rise-us-panel-report-flags-chinas-support-to-pakistan-during-operation-sindoor/articleshow/136056716.cms",
-    "time": "2026-11-21T14:40:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Make history by winning three titles in a row': RCB head coach ahead of IPL 2027",
     "desc": "As the IPL 2027 auction approaches, Royal Challengers Bengaluru is focused on keeping its successful squad intact. Coach Andy Flower is optimistic about retaining their key players, ensuring they remain contenders for the title. Meanwhile, Gujarat Titans have released Ishant Sharma, eyeing Harshal Patel as his potential replacement. Kolkata Knight Riders are also making moves to strengthen their batting, building on a robust bowling display last season.",
@@ -261,15 +360,6 @@ const newsData_en = [
     "time": "2026-11-21T13:56:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "MEA clears Taj Mahal visit for Pakistan delegation, no nod for Nizamuddin dargah",
-    "desc": "A Pakistani delegation, led by Musadik Masood Malik, is in India for the SCO Civilisational Dialogue Forum. They have been permitted to visit the Taj Mahal, Humayun's Tomb, and Dilli Haat. However, their visit to Nizamuddin dargah has not been security cleared. This visit marks the first by a Pakistani minister to India in three years. The programme emphasizes shared civilizational heritage and cross-cultural engagement among SCO member countries.",
-    "img": "https://static.toiimg.com/photo/msid-136055939,imgsize-38186.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mea-clears-taj-mahal-visit-for-pakistan-delegation-no-nod-for-nizamuddin-dargah/articleshow/136055919.cms",
-    "time": "2026-11-21T13:55:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I'll be back': Harry Kane vows stronger comeback after serious ankle injury",
     "desc": "In a recent match against Cologne, Harry Kane suffered an ankle injury that will keep him out for several months. Despite this setback, the star striker remains determined to use this time for self-improvement, setting his sights on the 2027 season. Kane shared his disappointment with fans on social media, while receiving encouragement from former NFL star Julian Edelman.",
@@ -277,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ill-be-back-fresh-and-ready-harry-kane-vows-stronger-comeback-after-serious-ankle-injury/articleshow/136055848.cms",
     "time": "2026-11-21T13:51:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'India not a rogue state': Wangchuk claims police deployment withdrawn after court hearing",
-    "desc": "Sonam Wangchuk accused the Ladakh administration of effectively placing him under house arrest since November 11. He appealed to President Droupadi Murmu and Prime Minister Narendra Modi to uphold constitutional values. Wangchuk expressed concerns about government misuse of police for actions that compromise their duties. He opposed the timing of Hill Council elections, arguing that many residents would be unable to participate.",
-    "img": "https://static.toiimg.com/photo/msid-136055769,imgsize-147304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-not-a-rogue-state-wangchuk-cries-foul-over-house-arrest-says-police-pulled-out-after-court-order/articleshow/136055057.cms",
-    "time": "2026-11-21T13:43:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -315,15 +396,6 @@ const newsData_en = [
     "time": "2026-11-21T13:00:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP targets Rahul as Trump hails India's GDP growth; PM Modi recreates 'gamcha' wave in Bihar and more",
-    "desc": "Donald Trump lauded India's remarkable 7 percent GDP growth recently, allowing the BJP to take jabs at Rahul Gandhi. Meanwhile, PM Narendra Modi unveiled the Nitish Setu in Bihar, evoking memories of past election celebrations. On the global stage, Mexican authorities arrested Fausto Isidro Meza-Flores, an FBI's most-wanted fugitive, amid escalating clashes.",
-    "img": "https://static.toiimg.com/photo/msid-136054844,imgsize-81388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-newswrap-bjp-targets-rahul-as-trump-hails-indias-gdp-growth-pm-modi-recreates-gamcha-wave-in-bihar-and-more/articleshow/136054621.cms",
-    "time": "2026-11-21T12:55:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Lakshya Sen's title hat-trick bid ends, Satwik-Chirag also crash out",
     "desc": "In a disappointing turn at the Hong Kong Open Super 500, India's Lakshya Sen and the men's doubles team were knocked out in the semifinals. Lakshya lost decisively to Anders Antonsen from Denmark, with the match concluding at 21-13, 21-13. Meanwhile, Satwiksairaj Rankireddy and Chirag Shetty fought valiantly but were edged out by the Malaysian team. Despite promising performances in previous tournaments, this time India couldn't secure a spot in the finals.",
@@ -331,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/lakshya-sens-title-hat-trick-bid-ends-as-satwik-chirag-also-crash-out-india-draw-blank-at-hong-kong-open/articleshow/136054292.cms",
     "time": "2026-11-21T12:36:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'No easy task': Bhagwat on 100-year journey of Akhand Deep, bats for discipline and dedication",
-    "desc": "During the centenary celebrations of Akhand Deep, Mohan Bhagwat emphasized the importance of discipline and commitment in organizational efforts. He highlighted the ongoing challenges in earning societal trust and urged volunteers to embrace the selfless spirit of Lord Hanuman. Bhagwat conveyed his belief in the persistent significance of Sanatan Dharma in today's world, celebrating both the foundation of Akhand Deep and the birth centenary of Mata Bhagwati Devi Sharma.",
-    "img": "https://static.toiimg.com/photo/msid-136054212,imgsize-173396.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-easy-task-bhagwat-on-100-year-journey-of-akhand-deep-bats-for-discipline-and-dedication/articleshow/136054187.cms",
-    "time": "2026-11-21T12:27:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -370,15 +433,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Nikhil Chaudhary hits outrageous one-handed six in Australia's thrilling win",
-    "desc": "In a thrilling T20I match, Nikhil Chaudhary shone with a stunning one-handed six, scoring 66 runs and claiming two wickets in Australia's nail-biting victory. Responding to England's challenging target of 188 runs, propelled by Harry Brook's noteworthy 65, Australia delivered a gripping chase, finishing with just one ball to spare. Chaudhary's exceptional display earned him the coveted Player of the Match title.",
-    "img": "https://static.toiimg.com/photo/msid-136053673,imgsize-106086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-nikhil-chaudhary-smashes-outrageous-one-handed-six-in-australias-thrilling-win-over-england/articleshow/136053538.cms",
-    "time": "2026-11-21T12:04:32.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'We all made mistakes': Lehmann reveals 'dark place' after Sandpapergate scandal",
     "desc": "Darren Lehmann firmly states he was unaware of the ball-tampering scheme that emerged during the contentious 2018 tour in South Africa. He reflects on the heavy personal consequences of the scandal while accepting his role as coach. With Usman Khawaja's recent remarks reigniting discussions, Lehmann reiterates his stance, highlighting the emotional ramifications of the incident and expressing sympathy for those involved.",
     "img": "https://static.toiimg.com/photo/msid-136053610,imgsize-650266.cms",
@@ -406,30 +460,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "986th career goal, costly penalty miss: Ronaldo's frustrating night as Al-Nassr lose",
-    "desc": "In an intense showdown, Cristiano Ronaldo initially gave Al-Nassr the advantage with his opening goal, but a missed penalty haunted the team. Al-Ahli responded with Galeno's goal and Ivan Toney's successful penalty kick, flipping the game in their favor. Roger Ibanez subsequently scored from a corner, securing a 3-1 victory for Al-Ahli and propelling them up the league table, while Al-Nassr faced a frustrating defeat despite Ronaldo's contributions.",
-    "img": "https://static.toiimg.com/photo/msid-136052841,imgsize-96646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-ronaldo-opens-scoring-with-986th-career-goal-but-misses-penalty-as-al-nassr-fall-3-1-to-al-ahli/articleshow/136052569.cms",
-    "time": "2026-11-21T11:30:13.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Shubman Gill joins Gambhir, Ganguly and Laxman in unwanted Indian Test record",
     "desc": "Shubman Gill showcased his batting prowess with a near-century, scoring 98 runs during the opening Test at Basin Reserve against New Zealand. This performance places him among distinguished Indian cricketers with four Test dismissals in the 90s. With India's batting bolstered by Rishabh Pant's solid 55 not out, the team carries a substantial 118-run advantage into the crucial fourth day of play.",
     "img": "https://static.toiimg.com/photo/msid-136052285,imgsize-110260.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/shubman-gill-joins-gautam-gambhir-sourav-ganguly-and-vvs-laxman-in-unwanted-indian-test-record/articleshow/136052216.cms",
     "time": "2026-11-21T11:22:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Date, time, live streaming and squads",
-    "desc": "India A are set to compete against Pakistan A in the ACC Men's Asia Cup Rising Stars 2026. The match will be crucial as both teams look to maintain their winning streaks. India A had a dominant victory over Nepal by a massive margin in their previous match. Pakistan A, defending their title, also secured a comfortable win against the United Arab Emirates.",
-    "img": "https://static.toiimg.com/photo/msid-136052417,imgsize-3473648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-a-vs-pakistan-a-asia-cup-rising-stars-2026-date-time-live-streaming-tv-telecast-and-squads/articleshow/136052328.cms",
-    "time": "2026-11-21T11:14:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -457,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-bajpayee-slams-hindi-film-industrys-lack-of-unity-when-somebody-is-in-trouble-nobody-raises-a-voice-nobody-wishes-anybody/articleshow/136051567.cms",
     "time": "2026-11-21T10:40:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England eclipse India’s MCG record as Brook powers them to new high vs Australia",
-    "desc": "England recorded a monumental T20I score of 187/9 at the Melbourne Cricket Ground against fierce rivals Australia, breaking India’s previous record of 186 from the 2022 T20 World Cup. Harry Brook led the charge with a solid 65, aided by some missed opportunities in the field. Despite losing wickets in quick succession, England regrouped efficiently, leaving Australia with a formidable target to overcome.",
-    "img": "https://static.toiimg.com/photo/msid-136051441,imgsize-593736.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-eclipse-indias-mcg-record-as-harry-brooks-fireworks-power-them-to-new-t20i-high-vs-australia/articleshow/136051353.cms",
-    "time": "2026-11-21T10:28:19.000Z"
   },
   {
     "cat": "Sports",
@@ -541,39 +568,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Ramayana: Part 1' box office collection day 17 (LIVE)",
+    "title": "'Ramayana: Part 1' crosses Rs 900 crore net, third fastest film to do so",
     "desc": "Part 1 has received significant box office success since its Diwali release, surpassing numerous records. The film, featuring Ranbir Kapoor, Yash, and Sai Pallavi, is expected to reach the Rs 900 crore benchmark soon. As of now, its total net collection in India stands at Rs 886 crore. While its initial growth has slowed, the upcoming third weekend may affect its performance.",
     "img": "https://static.toiimg.com/photo/msid-136048955,imgsize-394890.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-part-1-box-office-collection-day-17-the-ranbir-kapoor-yash-sai-pallavi-starrer-expected-to-enter-rs-900-crore-net-in-india-club-on-dev-diwali-will-be-the-third-fastest-film-to-do-so-after-pushpa-2-and-dhurandhar-2/articleshow/136048711.cms",
     "time": "2026-11-21T08:23:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘HanuMan 2: The Rise of Vanaras’ announced, Panja Vaisshnav Tej to lead",
-    "desc": "The Rise of Vanaras'. This new fantasy adventure will star Panja Vaisshnav Tej and be directed by Vi Anand. They released a poster that showcases the film's mystical world and themes. Additional cast members include Vinay Rai, Vennela Kishore, and Samuthirakani, with more updates anticipated soon. Fans have raised questions regarding Teja Sajja's role and connections with 'Jai Hanuman'.",
-    "img": "https://static.toiimg.com/photo/msid-136048862,imgsize-92019.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/hanuman-2-the-rise-of-vanaras-announced-with-panja-vaisshnav-tej-netizens-question-teja-sajjas-involvement-and-link-it-to-rishab-shettys-jai-hanuman/articleshow/136048742.cms",
-    "time": "2026-11-21T08:14:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'O.M' BO Day 2 [Live]: Dhanush-Mammootty starrer maintains steady momentum",
-    "desc": "Operation Mole, starring Mammootty, Dhanush, and Sai Pallavi, has made waves at the box office, earning Rs 17.70 crore on its opening day alone. Although audience reactions are mixed regarding the screenplay and performance, directed by Rajkumar Periasamy, this action crime thriller boasts a stellar ensemble cast. The film's continued success over the weekend is essential for sustaining its box office gains.",
-    "img": "https://static.toiimg.com/photo/msid-136048380,imgsize-246967.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/o-m-operation-mole-box-office-collection-day-2-live-dhanush-mammootty-starrer-maintains-steady-momentum-adds-over-rs-4-crore-to-the-tally-as-it-gears-up-for-a-weekend-hike/articleshow/136048375.cms",
-    "time": "2026-11-21T08:05:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Robert Pattinson receives thunderous round of applause for becoming the new James Bond role",
-    "desc": "Robert Pattinson received appreciation at a recent London screening for his role in 'The Odyssey'. Christopher Nolan and Steven Spielberg provided humorous commentary during the event related to Pattinson's new Bond role. He withdrew from several scheduled promotional events for 'The Odyssey' immediately before the Bond announcement. The Bond franchise, previously without a lead since Daniel Craig, confirmed his casting officially.",
-    "img": "https://static.toiimg.com/photo/msid-136048610,imgsize-455614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-makes-first-public-appearance-after-being-announced-as-the-new-james-bond-receives-a-thunderous-round-of-applause-from-the-crowd-and-the-odyssey-co-star-tom-holland/articleshow/136048523.cms",
-    "time": "2026-11-21T08:00:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -628,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/in-1984-indian-railways-introduced-rac-tickets-to-prevent-arbitrary-berth-allotments-by-staff-43-years-later-it-may-be-scrapped-as-digital-checks-make-system-outdated-and-passengers-pay-full-fare-to-share-one-berth/articleshow/136022620.cms",
     "time": "2026-11-21T01:29:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana' day 16: Ranbir, Yash film maintains strong hold; earns Rs 16.30 cr on Friday",
-    "desc": "Rise of a Legend maintains strong box office performance, earning Rs 16.30 cr in its third week. The film's total India net collection has reached Rs 880.05 cr, with a worldwide gross of Rs 1,574.60 cr. Hindi screenings remain the biggest contributor, while Malayalam recorded the highest occupancy at 45.1%. The theatrical run has seen impressive ticket sales, totaling over 35 million sold.",
-    "img": "https://static.toiimg.com/photo/msid-136042292,imgsize-268896.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-rise-of-a-legend-box-office-collection-day-16-ranbir-kapoor-yash-film-maintains-strong-hold-earns-rs-16-30-cr-on-friday-worldwide-gross-climbs-to-rs-1574-60-cr/articleshow/136042264.cms",
-    "time": "2026-11-21T00:34:37.000Z"
   },
   {
     "cat": "Business",
@@ -882,15 +873,6 @@ const newsData_en = [
     "time": "2026-11-20T03:18:43.000Z"
   },
   {
-    "cat": "World",
-    "title": "Nations still seeking deeper fossil fuel cuts as climate summit enters final day",
-    "desc": "The two-week annual summit, which has so far largely failed to advance any big ideas to move away from fossil fuels — mainly coal, oil and gas — which are contributing to more intense and deadly heat waves, droughts, floods and other disasters, ends on Nov. 20",
-    "img": "https://th-i.thgim.com/public/incoming/bqcet6/article71722971.ece/alternates/LANDSCAPE_1200/APTOPIX_Climate_COP31_Turkey_96533.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop-31-nations-still-seeking-deeper-fossil-fuel-cuts-as-climate-summit-enters-final-day/article71722951.ece",
-    "time": "2026-11-20T02:59:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Kimi Antonelli",
     "desc": "Mercedes team boss punted on the Italian and backed him through a bruising rookie year, a barrage of doubts and a few departing sponsors. But he never once wavered in his belief. The youngest champion in F1 history has repaid that faith, and silenced the critics along the way",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/motorsport/a-new-face-for-a-new-era/article71667285.ece",
     "time": "2026-11-20T02:47:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bumrah — the postman who seldom fails to deliver",
+    "desc": "Plucked out from anonymity despite an action that could so easily have put the traditionalists off, he took little time to establish himself as a premier paceman; his unique skill-sets allowed him to flourish anywhere in the world, on any kind of track because he can take the pitch out of the equation effortlessly",
+    "img": "https://th-i.thgim.com/public/sport/630m0s/article71721681.ece/alternates/LANDSCAPE_1200/BUMRAH%20MAIN%2011.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/bumrah-the-postman-who-seldom-fails-to-deliver/article71721126.ece",
+    "time": "2026-11-19T21:18:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs NZ, 1st Test: Nicholls, Phillips revive New Zealand after early hiccups",
+    "desc": "The softer ball and clear skies made conditions easier to bat, but Nicholls and Phillips pounced on virtually every scoring opportunity. Their partnership not only arrested the slide but also ensured India’s four-pronged pace attack had little to show for its toil after lunch",
+    "img": "https://th-i.thgim.com/public/incoming/dgf7ph/article71718871.ece/alternates/LANDSCAPE_1200/New_Zealand_India_Cricket_14321.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-opening-test-match-day-1-updates/article71717678.ece",
+    "time": "2026-11-19T17:11:42.000Z"
   }
 ];
