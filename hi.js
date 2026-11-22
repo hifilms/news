@@ -1,6 +1,78 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Dhruv Jurel credits Rishabh Pant's fearless approach, hails him as mentor after 78 vs NZ",
+    "desc": "Dhruv Jurel has been a force to reckon with in Test cricket since his debut. In the first Test against New Zealand in Wellington, the keeper-batter once again played a key knock, scoring 78 runs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dhruv-jurel-credits-rishabh-pant-s-fearless-approach-hails-him-as-mentor-after-78-vs-nz-2026-11-22-1060089",
+    "time": "2026-11-22T10:07:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India look for early wickets as Pakistan bat first",
+    "desc": "Pakistan Shaheens have won the toss and elected to bat first in the Asia Cup Rising Stars 2026 clash in Doha. Shamyl and Sadaqat open the innings for Pakistan. India will be looking for early wickets...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-asia-cup-rising-stars-live-score-india-vs-pakistan-latest-match-updates-scorecards-playing-xis-reactions-vaibhav-sooryavanshi-abhishek-1060086",
+    "time": "2026-11-22T09:26:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricket hails KL Rahul after his brilliant century against New Zealand in Wellington",
+    "desc": "The Indian team has been extremely dominant in the first Test of the ongoing series against New Zealand, taking on the Black Caps in the first Test. The clash saw New Zealand come in to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricket-hails-kl-rahul-after-his-brilliant-century-against-new-zealand-in-wellington-2026-11-22-1060078",
+    "time": "2026-11-22T06:36:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India dominate New Zealand on Day 4, hosts trail by 233 runs ahead of final day in Wellington",
+    "desc": "Day 4 of the ongoing first Test between India and New Zealand saw the two sides continue, with India on a score of 486/4, with Rishabh Pant and Anshul Kamboj on the crease. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-dominate-new-zealand-on-day-4-hosts-trail-by-233-runs-ahead-of-final-day-in-wellington-2026-11-22-1060076",
+    "time": "2026-11-22T06:17:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch India vs Pakistan, Asia Cup Rising Stars clash on TV for free and stream online?",
+    "desc": "The stage is set for one of the most anticipated clashes in the ongoing Asia Cup Rising Stars 2026. India A will be taking on Pakistan A at the West End Park International Cricket Stadium,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-india-vs-pakistan-asia-cup-rising-stars-clash-on-tv-for-free-and-stream-online-2026-11-22-1060071",
+    "time": "2026-11-22T05:24:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England face captaincy dilemma after injury to Will Jacks amid T20I series against Australia",
+    "desc": "In a major blow to England, the side is facing a big dilemma after their recent defeat against Australia in the first T20I of the series. It is worth noting that one of the biggest...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-face-captaincy-dilemma-after-injury-to-will-jacks-amid-t20i-series-against-australia-2026-11-22-1060068",
+    "time": "2026-11-22T04:42:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India register highest Test innings score away from home, dominate New Zealand in Wellington",
+    "desc": "The Indian team put forth a brilliant showing in the first innings of the first Test against New Zealand. The clash saw New Zealand come in to bat first and post a total of 368...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-register-highest-test-innings-score-away-from-home-dominate-new-zealand-in-wellington-2026-11-22-1060064",
+    "time": "2026-11-22T03:17:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Robin Uthappa reflects on sudden Mumbai Indians' coaching offer ahead of IPL 2027",
+    "desc": "The IPL (Indian Premier League) 2027 is looming on the horizon, with the mini auction for the tournament all set to be held on December 16th; teams will be gearing up to finalise their squads...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/robin-uthappa-reflects-on-sudden-mumbai-indians-coaching-offer-ahead-of-ipl-2027-2026-11-22-1060058",
+    "time": "2026-11-22T01:15:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rishabh Pant slams exceptional century, achieves massive feat with brilliant knock against New Zealand",
     "desc": "Day 4 of the ongoing first Test between India and New Zealand saw Rishabh Pant continue right where he left off, putting pressure on the Black Caps once more. Pant went on to complete a...",
     "img": "",
@@ -16,77 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/england-call-up-uncapped-ben-mckinney-for-upcoming-south-africa-tests-replaces-injured-jacob-bethell-2026-11-22-1060056",
     "time": "2026-11-21T23:20:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Leeds United humiliate Chelsea in Premier League, register first away win over Blues since December 1999",
-    "desc": "Chelsea’s struggles continued in the Premier League as Leeds United inflicted a damaging 4-1 defeat on Xabi Alonso’s side. The result also marked Leeds’ first victory at Stamford Bridge since 1999. On the other hand,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/leeds-united-humiliate-chelsea-in-premier-league-register-first-away-win-over-blues-since-december-1999-2026-11-21-1060054",
-    "time": "2026-11-21T18:11:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Report",
-    "desc": "Australia captain Pat Cummins is likely to be available for Sunrisers Hyderabad in IPL 2027, with a senior member of the franchise indicating that the pacer has assured his participation in the upcoming season. His...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-will-be-partially-available-in-ipl-2027-despite-workload-concerns-report-2026-11-21-1060050",
-    "time": "2026-11-21T17:33:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India blind team objects as Pakistan umpire joins players in controversial celebration in Asia Cup",
-    "desc": "The Cricket Association for the Blind in India (CABI) has raised questions over the conduct of a Pakistani umpire following the emergence of a video that seemingly shows him joining Pakistan players in celebratory gestures...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-blind-team-left-infuriated-after-pakistan-umpire-joins-players-in-controversial-celebration-in-asia-cup-2026-11-21-1060048",
-    "time": "2026-11-21T16:12:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi-born all-rounder smacks half-century as Australia beat England in 1st T20I at MCG",
-    "desc": "Delhi-born Australia all-rounder Nikhil Chaudhary smacked a half-century as Australia beat England by three wickets at the Melbourne Cricket Ground. Alongside Nikhil, Jack Edwards, who recently moved from Chennai Super Kings to Sunrisers Hyderabad, also...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-born-all-rounder-smacks-half-century-as-australia-beat-england-in-1st-t20i-at-mcg-2026-11-21-1060045",
-    "time": "2026-11-21T15:15:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former cricketer fears Australia players may quit international cricket amid Sandpapergate saga",
-    "desc": "Former Australia cricketer Greg Blewett has expressed concern that the renewed Sandpapergate controversy could have serious consequences for the national team. He warned that senior players, including Pat Cummins, Mitchell Starc, Josh Hazlewood and Nathan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-cricketer-fears-australia-players-may-quit-international-cricket-amid-sandpapergate-saga-2026-11-21-1060040",
-    "time": "2026-11-21T14:12:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mushfiqur Rahim ruled out of Bangladesh's second Test vs South Africa due to groin injury",
-    "desc": "Bangladesh have suffered another significant setback ahead of the second Test against South Africa, with veteran batter Mushfiqur Rahim ruled out of the Centurion match due to a groin injury. His absence adds to the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mushfiqur-rahim-ruled-out-of-bangladesh-s-second-test-vs-south-africa-due-to-groin-injury-2026-11-21-1060037",
-    "time": "2026-11-21T13:38:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammad Rizwan, Shan Masood, Saim Ayub axed from PCB central contract for 2026-27 season",
-    "desc": "The Pakistan Cricket Board on Saturday announced a list of 38 cricketers as part of their central contract list for the 2026-27 season. Interestingly, two former captains, Mohammad Rizwan and Shan Masood, have been axed....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-rizwan-shan-masood-saim-ayub-axed-from-pcb-central-contract-for-2026-27-season-2026-11-21-1060031",
-    "time": "2026-11-21T12:26:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul becomes first Indian opener to register record-breaking feat in Test cricket",
-    "desc": "Star India batter KL Rahul has become the first Indian opener to score Test centuries in all four SENA countries. He achieved the feat after registering his 13th Test century against New Zealand at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-becomes-first-indian-opener-to-register-record-breaking-feat-in-test-cricket-2026-11-21-1060026",
-    "time": "2026-11-21T11:23:57.000Z"
   }
 ];
