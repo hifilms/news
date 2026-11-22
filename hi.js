@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan cement their spot in Asia Cup Rising Stars semi-final after win over India in Doha",
+    "desc": "Pakistan have defeated India by 48 runs in the ongoing Asia Cup Rising Stars 2026 at the West End Park International Cricket Stadium in Doha. The Abdul Samad-led side produced a dominant show with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-cement-their-spot-in-asia-cup-rising-stars-semi-final-after-win-over-india-in-doha-2026-11-23-1060118",
+    "time": "2026-11-22T18:49:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kieron Pollard becomes second cricketer to register legendary feat in T20 cricket history",
+    "desc": "Star all-rounder Kieron Pollard became only the second cricketer to score over 15,000 runs in T20 cricket. The MI Emirates captain reached the landmark during his side’s ILT20 2026 encounter against Desert Vipers at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kieron-pollard-becomes-second-cricketer-to-register-legendary-feat-in-t20-cricket-history-2026-11-22-1060112",
+    "time": "2026-11-22T16:02:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jacob Duffy becomes first cricketer in history to register unwanted feat in international cricket",
+    "desc": "New Zealand pacer Jacob Duffy endured a difficult outing in the first Test against India at the Basin Reserve in Wellington. The 32-year-old conceded 201 runs in his 33 overs in the first innings and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jacob-duffy-becomes-first-cricketer-in-history-to-register-unwanted-feat-in-international-cricket-2026-11-22-1060107",
+    "time": "2026-11-22T14:37:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tony de Zorzi replaces injured Temba Bavuma for second Bangladesh Test, Anrich Nortje returns",
+    "desc": "South Africa have made two changes to their playing XI for the second Test against Bangladesh, as Tony de Zorzi replaced injured captain Temba Bavuma and Anrich Nortje returned to the pace attack. When it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tony-de-zorzi-replaces-injured-temba-bavuma-for-second-bangladesh-test-anrich-nortje-returns-2026-11-22-1060104",
+    "time": "2026-11-22T13:52:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harshit Rana rattles Pakistan, sledges Shamyl Hussain back to pavilion before dismissing Rohail Nazir: WATCH",
+    "desc": "India pacer Harshit Rana brought his aggressive approach to the fore during the Asia Cup Rising Stars 2026 encounter against Pakistan at the West End International Cricket Stadium in Doha, as he engaged in several...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-rattles-pakistan-sledges-shamyl-hussain-back-to-pavilion-before-dismissing-rohail-nazir-2026-11-22-1060095",
+    "time": "2026-11-22T11:07:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jamshed Alam scripts history with four wickets in four balls on T20 debut in Syed Mushtaq Ali Trophy",
+    "desc": "Railways pacer Jamshed Alam stole the show on his T20 debut. In the Syed Mushtaq Ali Trophy encounter against Saurashtra in Indore, the youngster became only the third Indian to claim four wickets in four...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jamshed-alam-scripts-history-with-four-wickets-in-four-balls-on-t20-debut-in-syed-mushtaq-ali-trophy-2026-11-22-1060093",
+    "time": "2026-11-22T10:43:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Dhruv Jurel credits Rishabh Pant's fearless approach, hails him as mentor after 78 vs NZ",
     "desc": "Dhruv Jurel has been a force to reckon with in Test cricket since his debut. In the first Test against New Zealand in Wellington, the keeper-batter once again played a key knock, scoring 78 runs...",
     "img": "",
@@ -10,8 +64,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India look for early wickets as Pakistan bat first",
-    "desc": "Pakistan Shaheens have won the toss and elected to bat first in the Asia Cup Rising Stars 2026 clash in Doha. Shamyl and Sadaqat open the innings for Pakistan. India will be looking for early wickets...",
+    "title": "Pakistan win by 48 runs in Doha",
+    "desc": "Pakistan Shaheens beat India by 48 runs in the Asia Cup Rising Stars 2026 clash in Doha. They were off to a flying start through Shamyl and Sadaqat, but India managed to pick wickets at...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-asia-cup-rising-stars-live-score-india-vs-pakistan-latest-match-updates-scorecards-playing-xis-reactions-vaibhav-sooryavanshi-abhishek-1060086",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-dominate-new-zealand-on-day-4-hosts-trail-by-233-runs-ahead-of-final-day-in-wellington-2026-11-22-1060076",
     "time": "2026-11-22T06:17:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch India vs Pakistan, Asia Cup Rising Stars clash on TV for free and stream online?",
-    "desc": "The stage is set for one of the most anticipated clashes in the ongoing Asia Cup Rising Stars 2026. India A will be taking on Pakistan A at the West End Park International Cricket Stadium,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-india-vs-pakistan-asia-cup-rising-stars-clash-on-tv-for-free-and-stream-online-2026-11-22-1060071",
-    "time": "2026-11-22T05:24:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England face captaincy dilemma after injury to Will Jacks amid T20I series against Australia",
-    "desc": "In a major blow to England, the side is facing a big dilemma after their recent defeat against Australia in the first T20I of the series. It is worth noting that one of the biggest...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-face-captaincy-dilemma-after-injury-to-will-jacks-amid-t20i-series-against-australia-2026-11-22-1060068",
-    "time": "2026-11-22T04:42:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India register highest Test innings score away from home, dominate New Zealand in Wellington",
-    "desc": "The Indian team put forth a brilliant showing in the first innings of the first Test against New Zealand. The clash saw New Zealand come in to bat first and post a total of 368...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-register-highest-test-innings-score-away-from-home-dominate-new-zealand-in-wellington-2026-11-22-1060064",
-    "time": "2026-11-22T03:17:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Robin Uthappa reflects on sudden Mumbai Indians' coaching offer ahead of IPL 2027",
-    "desc": "The IPL (Indian Premier League) 2027 is looming on the horizon, with the mini auction for the tournament all set to be held on December 16th; teams will be gearing up to finalise their squads...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/robin-uthappa-reflects-on-sudden-mumbai-indians-coaching-offer-ahead-of-ipl-2027-2026-11-22-1060058",
-    "time": "2026-11-22T01:15:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant slams exceptional century, achieves massive feat with brilliant knock against New Zealand",
-    "desc": "Day 4 of the ongoing first Test between India and New Zealand saw Rishabh Pant continue right where he left off, putting pressure on the Black Caps once more. Pant went on to complete a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-slams-exceptional-century-achieves-massive-feat-with-brilliant-knock-against-new-zealand-2026-11-22-1060057",
-    "time": "2026-11-22T00:24:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England call up uncapped Ben McKinney for upcoming South Africa Tests, replaces injured Jacob Bethell",
-    "desc": "The ECB (England and Wales Cricket Board) took centre stage and announced England’s squad for the upcoming Test series against South Africa. It is interesting to note that England and South Africa are slated to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-call-up-uncapped-ben-mckinney-for-upcoming-south-africa-tests-replaces-injured-jacob-bethell-2026-11-22-1060056",
-    "time": "2026-11-21T23:20:23.000Z"
   }
 ];
