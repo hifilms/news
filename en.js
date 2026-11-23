@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "'I could have finished game': Tilak rues Shahbaz's dismissal after Pakistan loss",
+    "desc": "Chasing 314, India A were struggling at 129/6 before Tilak and Shahbaz Ahmed added 112 runs for the seventh wicket to keep their hopes alive. However, the partnership was not enough as India A were bowled out for 265.",
+    "img": "https://static.toiimg.com/photo/msid-136086114,imgsize-99719.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-could-have-finished-the-game-tilak-varma-rues-shahbazs-dismissal-after-pakistan-loss/articleshow/136086106.cms",
+    "time": "2026-11-23T00:49:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quentin Tarantino welcomes third child with wife Daniella Pick",
+    "desc": "Quentin Tarantino and his wife Daniella Pick have welcomed their third child, a baby boy. They already have two children, a son named Leo and a daughter named Adriana. Tarantino first met Pick in Israel while promoting his film 'Inglourious Basterds' back in 2009. He has confirmed completing the script for his next movie but is focusing on family time for now.",
+    "img": "https://static.toiimg.com/photo/msid-136086058,imgsize-76486.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quentin-tarantino-welcomes-third-child-with-wife-daniella-pick-couple-announce-birth-of-baby-boy/articleshow/136086053.cms",
+    "time": "2026-11-23T00:31:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Aakasamlo Oka Tara' BO day 3: Dulquer's film records 29.2% Sunday jump",
+    "desc": "Dulquer Salmaan's Telugu film 'Aakasamlo Oka Tara' gained significant momentum and recorded impressive box office collections. The film reached Rs 13.10 crore in India net collections after three days of screening. Its overseas performance also contributed to an overall worldwide gross of Rs 22.70 crore. Audiences showed high occupancy rates in various screenings, particularly for its Malayalam and Telugu versions.",
+    "img": "https://static.toiimg.com/photo/msid-136086010,imgsize-250403.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/aakasamlo-oka-tara-box-office-collection-day-3-dulquer-salmaans-film-records-29-2-sunday-jump-india-net-reaches-rs-13-10-cr/articleshow/136086004.cms",
+    "time": "2026-11-23T00:22:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'O.M: Operation Mole' BO: Ranks among 2026's top Tamil openings",
+    "desc": "Operation Mole', achieving remarkable box office success shortly after its release. In just three days, the film surpassed the Rs 50 crore mark in India, while its global earnings have reached an impressive Rs 85.30 crore over the opening weekend. The Tamil version stands out, leading domestic earnings and showcasing the film's extraordinary potential and audience appeal.",
+    "img": "https://static.toiimg.com/photo/msid-136085926,imgsize-393184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/o-m-operation-mole-box-office-collections-day-3-dhanush-sai-pallavi-and-mammoottys-film-crosses-rs-50-cr-in-india-ranks-among-2026s-top-tamil-openings/articleshow/136085902.cms",
+    "time": "2026-11-23T00:07:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Voters in Karnataka challenge deletions, say officials asking them to withdraw appeals, file Form 6",
+    "desc": "The Hindu spoke to several people in Bengaluru who challenged their deletion, some of whom said officials had themselves submitted Form 6 applications on their behalf when they approached them seeking reversal of their deletion through an appeal",
+    "img": "https://th-i.thgim.com/public/incoming/cztx3t/article71729045.ece/alternates/LANDSCAPE_1200/_JAI9770.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/sir-voters-challenge-deletions-say-officials-asking-them-to-withdraw-appeals-file-form-6/article71701977.ece",
+    "time": "2026-11-22T23:41:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police in Karnataka prevent Andhra Pradesh Congress Committee chief Y.S. Sharmila from entering disputed property",
+    "desc": "The North East Division police of Bengaluru on Sunday stopped Y.S. Sharmila, president of the Andhra Pradesh Congress Committee and sister of YSRCP chief and former Andhra Pradesh Chief Minister Y.S. Jagan Mohan Reddy, from entering a disputed property in Yelahanka, citing an interim injunction order issued by a court in Devanahalli",
+    "img": "https://th-i.thgim.com/public/incoming/d2nozk/article71732230.ece/alternates/LANDSCAPE_1200/Jagans-denialG1SGMVF32.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/police-in-karnataka-prevent-ys-sharmila-from-entering-disputed-property/article71732226.ece",
+    "time": "2026-11-22T23:39:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Miley and Maxx get each other's names tattooed post wedding",
+    "desc": "Miley Cyrus has married her longtime partner Maxx Morando in a private ceremony held in California. The wedding took place in Palm Springs after Cyrus and Morando had performed together at the Hollywood Bowl. Cyrus shared the news on social media, along with black and white photos from the celebration. Previously, Cyrus was married to Australian actor Liam Hemsworth, who filed for divorce in 2019.",
+    "img": "https://static.toiimg.com/photo/msid-136085600,imgsize-243122.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/miley-cyrus-and-husband-maxx-morando-get-each-others-names-tattooed-post-intimate-wedding-pics/articleshow/136083535.cms",
+    "time": "2026-11-22T23:34:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Hunger Games' scores huge USD 120 million opening",
+    "desc": "Sunrise on the Reaping premiered successfully, grossing USD 120 million in North America over the weekend. This latest installment marks a resurgence for the franchise that had seen declining interest. The film featured a new cast while retaining beloved characters like Haymitch Abernathy. It appealed particularly to younger audiences, with a significant box office turnaround attributed to Gen Z.",
+    "img": "https://static.toiimg.com/photo/msid-136085480,imgsize-290942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/the-hunger-games-sunrise-on-the-reaping-scores-huge-usd-120-million-opening-ramayana-still-among-top-10-films/articleshow/136083843.cms",
+    "time": "2026-11-22T22:53:33.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel’s Eisenkot condemns arson attacks by Jewish settlers in West Bank",
+    "desc": "Gadi Eisenkot called the attacks ‘Jewish terrorism’, saying that ‘extremist groups that set ⁠fire to vehicles and homes are undermining regional stability, putting lives at risk and doing grave damage to Israel’s national security and foreign relations’",
+    "img": "https://th-i.thgim.com/public/incoming/qxpda3/article71732548.ece/alternates/LANDSCAPE_1200/2026-11-17T132413Z_1399649141_RC2OPOA2Q1HS_RTRMADP_3_ISRAEL-POLITICS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank/article71732544.ece",
+    "time": "2026-11-22T22:02:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Alcaraz charges past world number one Zverev to clinch ATP Finals title",
+    "desc": "‘I’ve been ‌through really difficult moments within myself, with my team, and we went through everything playing great tennis; this trophy is something I have been chasing for a really long time,’ said Carlos Alcaraz",
+    "img": "https://th-i.thgim.com/public/incoming/be3hhy/article71732441.ece/alternates/LANDSCAPE_1200/APTOPIX_Italy_ATP_Finals_Tennis__7233.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/alcaraz-charges-past-world-number-onezverev-to-clinch-atp-finals-title/article71732439.ece",
+    "time": "2026-11-22T21:10:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Wanted man held after 14 months for mob attack on Delhi police team in Chhatarpur",
+    "desc": "The accused, identified as Arbaj Khan alias Baiju, a resident of Chandan Holla village in Chhatarpur, was apprehended by the Special Staff of South district from Village Gadpur in Bhiwadi on November 20, police said",
+    "img": "https://th-i.thgim.com/public/incoming/8aotz0/article71732435.ece/alternates/LANDSCAPE_1200/iStock-1447145892%206.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/wanted-man-held-after-14-months-for-mob-attack-on-delhi-police-team-in-chhatarpur/article71731513.ece",
+    "time": "2026-11-22T20:41:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Six sent to juvenile home after Mumbai assault; Maharashtra SP leader seeks age change",
+    "desc": "Police registered a case and produced all eight before the Board, and notices were sent to parents; the case was registered under sections 189(2), 189(4), 118(1), 352 and 351(2) of the Bharatiya Nyaya Sanhita, 2023, says Deputy Commissioner of Police",
+    "img": "https://th-i.thgim.com/public/incoming/wsqu9b/article71731035.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryGDHF6KM3F.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/six-sent-to-juvenile-home-after-mumbai-assault-maharashtra-sp-leader-seeks-age-change/article71730888.ece",
+    "time": "2026-11-22T19:34:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "8 rescued; officer taken to hospital",
+    "desc": "Crews rescued 3 people, among them a man and 2 women, from floor 3 using a turntable ladder, and 4 occupants, among them a man, a woman, a boy and a girl, were evacuated from floor 4 via the staircase",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/mumbai/gildar-lane-building-fire-8-rescued-officer-taken-to-hospital/article71732127.ece",
+    "time": "2026-11-22T19:33:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Digvijaya Singh marches for religion and relevance",
+    "desc": "Congress veteran Digvijaya Singh is currently taking part in a nearly 1,000-kilometre march on foot from Ujjain in Madhya Pradesh to Ayodhya in Uttar Pradesh, against the alleged embezzlement of donations at the Ram Temple. The yatra comes at a time when 79-year-old Singh, Madhya Pradesh’s former Chief Minister, finds himself on the sidelines of the Congress’ politics in the State",
+    "img": "https://th-i.thgim.com/public/incoming/vhpbfl/article71731216.ece/alternates/LANDSCAPE_1200/6744_22_11_2026_16_19_3_1_DSC_4866JPG.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/digvijaya-singh-marches-for-religion-and-relevance/article71731202.ece",
+    "time": "2026-11-22T19:13:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Liverpool hammer ten-man United in Pochettino debut",
+    "desc": "Reduced to 10 men after eight ‌minutes, United fell two goals behind within 13 and never ‌recovered as Liverpool cruised to ‌victory ⁠through goals from Dominik Szoboszlai, Florian ⁠Wirtz, teenager Rio Ngumoha and Victor Munoz",
+    "img": "https://th-i.thgim.com/public/incoming/6r01yb/article71732391.ece/alternates/LANDSCAPE_1200/2026-11-22T181852Z_1736581852_UP1EMBM1DW26L_RTRMADP_3_SOCCER-ENGLAND-LIV-MUN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/liverpool-hammer-ten-man-united-in-pochettino-debut/article71732387.ece",
+    "time": "2026-11-22T18:58:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tilak’s knock in vain as Pakistan A beat India A in Asia Cup Rising Stars thriller",
+    "desc": "Tilak Varma’s fighting century (100 off 149 balls) and Shahbaz Ahmed’s 56 could not prevent India A from falling 48 runs short of Pakistan A’s 314-run target. Abhishek Sharma earlier smashed 70 off 42 balls, but Pakistan’s bowlers kept striking at regular intervals. Hasan Nawaz starred with 79 runs and three wickets, while Ali Raza also claimed three scalps.",
+    "img": "https://static.toiimg.com/photo/msid-136082467,imgsize-179214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/captain-tilak-varmas-knock-in-vain-as-pakistan-a-beat-india-a-in-asia-cup-rising-stars-thriller/articleshow/136082154.cms",
+    "time": "2026-11-22T18:57:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Miley tears up marrying Maxx; newlyweds share romantic kiss in first photos",
+    "desc": "Miley Cyrus married Maxx Morando in an intimate Palm Springs ceremony, but it was the emotional moments that made the day special. The singer reportedly struggled to hold back tears while exchanging vows. Her parents, Billy Ray Cyrus and Tish, and sister Noah came together for the wedding, wanting Miley to feel loved and celebrated.",
+    "img": "https://static.toiimg.com/photo/msid-136082336,imgsize-68531.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/miley-cyrus-struggled-to-hold-back-tears-while-exchanging-vows-with-maxx-morando-newlyweds-share-romantic-kiss-in-first-wedding-pictures-billy-ray-tish-and-noah-reunite-to-make-her-feel-loved/articleshow/136082228.cms",
+    "time": "2026-11-22T18:52:34.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Congress leaders from Keralam urge AICC to restore consultations within party ahead of UDF’s policy decisions",
     "desc": "K.C. Joseph, Benny Behanan, Shafi Parambil meet Mallikarjun Kharge, air grievances about a 'dormant' party apparatus stemming from the lack of a full-time State president and delayed reorganisation. Their demands include a hands-on party president",
@@ -171,24 +324,6 @@ const newsData_en = [
     "time": "2026-11-22T14:05:58.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "In 1999, Michael Jackson bought David O. Selznick’s Oscar; it has been reported stolen since 2016",
-    "desc": "Michael Jackson acquired the 'Gone With the Wind' Oscar in 1999 for a remarkable $1.54 million, but after his passing in 2009, the trophy disappeared during estate assessments. The estate remains hopeful that the Oscar will be found for his children. Various theories have been suggested regarding its loss, including theft and confusion during inventory. Additionally, another Oscar from 'Gone With the Wind' has similarly gone missing throughout the years.",
-    "img": "https://static.toiimg.com/photo/msid-136072426,imgsize-73158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1999-michael-jackson-paid-1-54m-for-david-o-selznicks-gone-with-the-wind-oscar-award-in-2016-the-trophy-was-reported-as-stolen-and-to-date-has-not-been-found/articleshow/136072402.cms",
-    "time": "2026-11-22T14:00:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 2025, Chet Hanks moved to Nashville and is now focusing on country music and living in a trailer",
-    "desc": "Recently settling in Nashville, Chet Hanks is dedicated to his country music aspirations, choosing to live in a Jayco Eagle RV instead of a high-end apartment. His prior road trip to Carmel inspired this lifestyle change, encouraging connections within the trailer park community where he appreciates the company of older neighbors and his dog. Besides composing new songs, he actively chronicles his experiences on social media.",
-    "img": "https://static.toiimg.com/photo/msid-136071947,imgsize-34848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2025-tom-hanks-son-chet-hanks-moved-to-nashville-for-his-music-now-the-hollywood-star-and-singer-has-adopted-the-trailer-park-lifestyle-in-nashville/articleshow/136071915.cms",
-    "time": "2026-11-22T13:30:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rs 19.26 crore income declared, but Rs 12.21 crore seized in raid; ITAT grants relief",
     "desc": "In 2018, the Income Tax Department conducted searches at a man’s residence and on his locker. During the operation, officials reportedly recovered Rs 3.9 crore in cash from the locker and another Rs 20 lakh from his house. The locker also contained jewellery valued at Rs 8.11 crore, including 751.52 grams of gold and 81.470 carats of diamonds. The jewellery was seized. Two watches worth Rs 16.25 lakh were also found in the locker and confiscated.",
@@ -288,42 +423,6 @@ const newsData_en = [
     "time": "2026-11-22T11:18:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "The cost behind Vijay's royal look at Anirudh-Kavya's reception revealed",
-    "desc": "Thalapathy Vijay graced the wedding reception of composer Anirudh Ravichander and Kavya Maran in Chennai, showcasing an impressive navy blue suit adorned with striking gold buttons and a well-styled pocket square. Reports indicate that his outfit was valued at around Rs 3.67 lakh. This fashion choice is resonating with fans and has caught the attention of other stars, including Shah Rukh Khan and Padmanabh Singh, sparking vibrant discussions online.",
-    "img": "https://static.toiimg.com/photo/msid-136072691,imgsize-181990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijays-royal-look-at-anirudh-ravichander-and-kavya-marans-reception-know-the-worth-of-tamil-nadu-cms-rs-3-67-lakh-outfit/articleshow/136072674.cms",
-    "time": "2026-11-22T11:09:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anirudh's decade-long transformation goes viral after wedding with Kavya",
-    "desc": "On November 21, Anirudh Ravichander celebrated his wedding reception, coinciding with a humorous blast from the past—his 2016 tweet claiming to be both single and engaged. Having exchanged vows with Kavya Maran on November 11 in a secluded ceremony in Greece, the reception shimmered with star power, welcoming icons like Rajnikanth and notable politicians, while fans eagerly shared the nostalgic tweet marking Anirudh's evolution from bachelorhood to marriage.",
-    "img": "https://static.toiimg.com/photo/msid-136072434,imgsize-330714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anirudh-ravichanders-decade-long-transformation-goes-viral-as-2016-im-single-and-young-u-tweet-resurfaces-after-wedding-with-kavya-maran/articleshow/136072417.cms",
-    "time": "2026-11-22T10:57:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Raza Murad lauds SRK's unmatched energy on set",
-    "desc": "Veteran actor Raza Murad has praised Shah Rukh Khan's energy on set, calling him a \"human dynamo\" and wondering how he stays so lively despite reportedly smoking 80 cigarettes a day. Murad also named Ranveer Singh as the next superstar of this generation. Meanwhile, SRK will next be seen in 'King', releasing December 24, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-136072265,imgsize-218513.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/human-dynamo-raza-murad-lauds-shah-rukh-khans-unmatched-energy-on-set/articleshow/136072230.cms",
-    "time": "2026-11-22T10:46:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer dances to Dhurandhar title track; SRK says his famous dialogue, 'Bade bade deshon mein'",
-    "desc": "Taking place at the historic Gateway of India, the Global Peace Honours 2026 drew a diverse crowd just before the 26/11 commemoration. Celebrities, politicians, and business leaders united to pay homage to victims of terrorism. Ranveer Singh dazzled with a creative rap performance, while Shah Rukh Khan charmed attendees with a dialogue from his iconic film.",
-    "img": "https://static.toiimg.com/photo/msid-136071948,imgsize-350149.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-dances-to-dhurandhar-title-track-with-censored-rap-lyrics-shah-rukh-khan-says-his-popular-dialogue-bade-bade-deshon-mein-aisi-chhoti-chhoti-baatein-hoti-rehti-hain-at-global-peace-honours-2026/articleshow/136071848.cms",
-    "time": "2026-11-22T10:22:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Jasprit Bumrah achieves rare feat last accomplished by Zaheer Khan in 2007",
     "desc": "Jasprit Bumrah made headlines as he dismissed Tom Latham for ducks in both innings during a thrilling Test match against New Zealand. This significant feat came as Bumrah spearheaded India's bowling attack, contributing to an unprecedented first innings score of 720 runs—the highest achieved by any team in New Zealand.",
@@ -349,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-a-vs-pak-a-drama-at-toss-pakistan-captain-abdul-samad-intervenes-after-match-referees-call-watch/articleshow/136071103.cms",
     "time": "2026-11-22T10:08:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anupam sold his house to Alia and chose to live in a rented",
-    "desc": "Anupam Kher says he decided a decade ago to live in a rented apartment and feels liberated without property stress. He sold his house to Alia Bhatt, dismissed Rs 400-500 crore net worth claims, and still enjoys life's comforts. He will next be seen in 'Yeh Prem Mol Liya' on November 27.",
-    "img": "https://static.toiimg.com/photo/msid-136071599,imgsize-144831.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-sold-his-house-to-alia-bhatt-and-chose-to-live-in-a-rented-home-nearly-a-decade-ago-i-dont-have-any-property-stress/articleshow/136071570.cms",
-    "time": "2026-11-22T09:55:37.000Z"
   },
   {
     "cat": "Sports",
@@ -403,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-rise-of-a-legend-box-office-collection-day-18-live-ranbir-kapoor-sai-pallavi-and-yash-starrer-is-set-to-cross-rs-935-crore-net-in-india-today/articleshow/136070847.cms",
     "time": "2026-11-22T09:05:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "A six to reach 100! Rishabh Pant reveals the habit that has also cost him centuries",
-    "desc": "Rishabh Pant answered questions about his fitness and form in style on Sunday, scoring a brilliant 128 off 153 balls in the first Test against New Zealand in Wellington. Pant has often been known for his attacking batting and ability to hit sixes. However, the wicketkeeper said his focus has now shifted towards consistency and making a difference for the team.",
-    "img": "https://static.toiimg.com/photo/msid-136070029,imgsize-64563.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/a-six-to-reach-100-rishabh-pant-reveals-the-habit-that-has-also-cost-him-centuries/articleshow/136069846.cms",
-    "time": "2026-11-22T07:58:27.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +549,6 @@ const newsData_en = [
     "time": "2026-11-22T05:54:58.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Before Gilchrist, there was Les Ames: Eng great with 102 centuries whose record Pant broke",
-    "desc": "Ames passed away before Adam Gilchrist, Andy Flower and Kumar Sangakkara made their mark in the game. In his obituary, Wisden described him as someone who “was without a doubt the greatest wicketkeeper-batsman the game has so far produced.”",
-    "img": "https://static.toiimg.com/photo/msid-136067984,imgsize-113435.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/before-gilchrist-and-sangakkara-there-was-les-ames-england-great-with-102-centuries-whose-record-rishabh-pant-broke-in-wellington/articleshow/136067880.cms",
-    "time": "2026-11-22T05:53:28.000Z"
-  },
-  {
     "cat": "World",
     "title": "‘Two rulers, one fort’: Pakistan Minister invokes Humayun, Sher Shah at SCO Civilisational Forum",
     "desc": "‘This [Purana] Qila, where we are sitting, is in itself a story; a fort, whose foundation was laid by Humayun, who had a descent from the Timurid [dynasty] linkage.. came from Central Asia; and, Sher Shah Suri further built on it, who was an Afghan’, said Musadik Malik",
@@ -495,6 +567,15 @@ const newsData_en = [
     "time": "2026-11-22T05:40:54.000Z"
   },
   {
+    "cat": "Business",
+    "title": "let’s spread the joy!",
+    "desc": "In the Own Damage cover, you often have to ask what each cover means and costs. Sometimes you must buy one you don’t need to get two you do. Comparison across insurers can be a puzzle",
+    "img": "https://th-i.thgim.com/public/news/national/y6srt7/article71730694.ece/alternates/LANDSCAPE_1200/iStock-1289221226.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/unbundling-motor-cover-lets-spread-the-joy/article71730682.ece",
+    "time": "2026-11-22T05:37:09.000Z"
+  },
+  {
     "cat": "World",
     "title": "The Rohingya",
     "desc": "The International Court of Justice’s ruling that Myanmar committed genocide during its 2017 ‘clearance operations’ offers a measure of justice for the ethnic and religious minority, but the court has no means of enforcing its judgment",
@@ -511,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gold-falls-4-49-to-rs-1-21-lakh-silver-plunges-6-6-in-a-single-day-to-rs-1-47-lakh-wedding-shoppers-get-a-buying-opportunity-with-some-families-advancing-jewellery-purchases-while-others-wait-for-further-price-cuts/articleshow/136056926.cms",
     "time": "2026-11-22T03:35:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Down but never out",
-    "desc": "Rishabh Pant has endured a turbulent year, losing his Test vice-captaincy and his place in the ODIs, but his response remains unmistakably his own. In Wellington, he turned a cautious start into an audacious century, completing the SENA set and silencing critics, if only temporarily. Through the noise, scrutiny and setbacks, Pant continues to entertain, defy convention and remind everyone why he remains unignorable.",
-    "img": "https://static.toiimg.com/photo/msid-136066545,imgsize-101782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rishabh-pant-of-an-endless-trial-and-unreal-consistency-the-mvp-checks-in/articleshow/136066496.cms",
-    "time": "2026-11-22T03:23:30.000Z"
   },
   {
     "cat": "Tech",
@@ -658,42 +730,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Woman’s Rs 25,000 rebate denied under new regime for capital gains; why ITAT ruled in her favour",
-    "desc": "A woman filed her income tax return for assessment year 2025-26, declaring a total income of Rs 6,77,511. This included short-term capital gains of Rs 3,97,511 arising from the transfer of listed equity shares. Such gains are taxable u/s 111A of the Act at a special rate of tax. She opted for the new tax regime under Section 115BAC(1A) and claimed a rebate of Rs 25,000 under Section 87A.",
-    "img": "https://static.toiimg.com/photo/msid-136031106,imgsize-681931.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/woman-earns-rs-6-7-lakh-including-rs-3-9-lakh-short-term-capital-gains-taxman-denies-rs-25000-section-87a-rebate-under-new-regime-demands-rs-75502-tax-itat-grants-relief-but-a-catch-applies-this-year/articleshow/136021482.cms",
-    "time": "2026-11-21T02:29:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why Indian Railways may scrap RAC ticketing system",
-    "desc": "Under the existing RAC arrangement, two passengers share a single berth, even though both are charged the full fare. The system has faced criticism over the years, particularly over concerns about passengers paying the full ticket price despite having to share a berth, as well as the inconvenience this causes.",
-    "img": "https://static.toiimg.com/photo/msid-136023499,imgsize-535101.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/in-1984-indian-railways-introduced-rac-tickets-to-prevent-arbitrary-berth-allotments-by-staff-43-years-later-it-may-be-scrapped-as-digital-checks-make-system-outdated-and-passengers-pay-full-fare-to-share-one-berth/articleshow/136022620.cms",
-    "time": "2026-11-21T01:29:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "AI woes batters Wall Street; S&amp;P 500 enters correction, Nasdaq turns negative for year",
-    "desc": "Wall Street stocks faced a major sell-off, with technology and AI shares declining sharply on Friday. The S&P 500 fell 3.7 percent, officially entering a correction after dropping over 10 percent since October. Global markets also faced losses, while chipmakers saw substantial declines as investor concerns grew over AI valuations. US government bonds rallied as investors shifted away from riskier assets, causing yields to drop.",
-    "img": "https://static.toiimg.com/photo/msid-136041941,imgsize-78714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/ai-sell-off-batters-wall-street-sp-500-enters-correction-nasdaq-turns-negative-for-year/articleshow/136041935.cms",
-    "time": "2026-11-20T23:59:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US market regulator probes issues in Nvidia's accounting practices: Report",
-    "desc": "Nvidia is under investigation by the SEC concerning its financial disclosures and accounting practices. Increasing scrutiny arises from potential breaches linked to a Singapore firm connected to China. Modifications in geographic revenue reporting have alarmed investors and regulators alike. As probes into the company's operations, including its potential acquisition of Hugging Face, continue, Nvidia's shares have plummeted amidst rising legal pressures.",
-    "img": "https://static.toiimg.com/photo/msid-136039441,imgsize-128094.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-market-regulator-probes-issues-in-nvidias-accounting-practices-report/articleshow/136039221.cms",
-    "time": "2026-11-20T21:35:43.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Infra push and low base effect pushes core sector growth to series-high of 10.9% in October 2026",
     "desc": "While the coal and electricity sectors saw growth shoot up, a large part of this was due to a statistical effect rather than growth in actual output. On the other hand, fuel-related sectors contracted again",
     "img": "https://th-i.thgim.com/public/incoming/o973v5/article71724645.ece/alternates/LANDSCAPE_1200/Govt-targets-50GMSGLAHG9.5.jpg.jpg",
@@ -711,24 +747,6 @@ const newsData_en = [
     "time": "2026-11-20T17:42:30.000Z"
   },
   {
-    "cat": "World",
-    "title": "Pakistan Army chief Munir vows to eliminate terrorism from country",
-    "desc": "Pakistan overall witnessed a significant decline in terrorism-related violence during October, with attacks falling by 37%, deaths resulting from these attacks declining by 57%, and injuries decreasing by 71% compared to September, said Dawn newspaper report",
-    "img": "https://th-i.thgim.com/public/incoming/v6xcss/article71725767.ece/alternates/LANDSCAPE_1200/IMG_Syed_Asim_Munir_2_1_KVBGCD6S.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/pakistan-army-chief-munir-vows-to-eliminate-terrorism-from-country/article71725751.ece",
-    "time": "2026-11-20T17:31:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. sanctions Myanmar armed group leader over scam links",
-    "desc": "The U.S. Treasury Department said on November 19 it had imposed an asset freeze on General Saw Shwe Wah, commander-in-chief of the Democratic Karen Benevolent Army (DKBA), and one of his top officers, and had banned Americans from dealing with them",
-    "img": "https://th-i.thgim.com/public/incoming/gi82z1/article71725737.ece/alternates/LANDSCAPE_1200/IMG_sim_boxes_4_1_FHES59G0.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-sanctions-myanmar-armed-group-leader-over-scam-links/article71725716.ece",
-    "time": "2026-11-20T17:18:33.000Z"
-  },
-  {
     "cat": "Business",
     "title": "U.S. FDA issues VAI classification to Natco Pharma’s FDF unit in Vizag",
     "desc": "VAI is one of the three classifications, the U.S. FDA issues implying objectionable conditions or practices were found, during the inspection, but the regulator is not prepared to take or recommend any administrative or regulatory action",
@@ -736,15 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/us-fda-issues-vai-classification-to-natco-pharmas-fdf-unit-in-vizag/article71724838.ece",
     "time": "2026-11-20T15:28:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will yellow metal now plunge to Rs 1 lakh per 10 grams?",
-    "desc": "Gold started falling in January as investors booked profit, but before it could find its equilibrium, the US-Iran war triggered another crash. Analysts say that the recent decline reflects a combination of profit-booking, liquidation of leveraged positions, changing interest-rate expectations and a stronger dollar.",
-    "img": "https://static.toiimg.com/photo/msid-136030311,imgsize-733972.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-crash-from-rs-1-80-lakh-to-below-rs-1-25-lakh-will-gold-now-plunge-to-rs-1-lakh-per-10-gms/articleshow/136027967.cms",
-    "time": "2026-11-20T14:16:44.000Z"
   },
   {
     "cat": "Business",
@@ -783,15 +792,6 @@ const newsData_en = [
     "time": "2026-11-20T07:59:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Gukesh faces stern test against in-form Sindarov",
-    "desc": "While Gukesh secured his place in the title contest by defeating China's Ding Liren in the 2024 World Championship match, Sindarov has arrived after an impressive run that included victories in the World Cup and the Candidates tournament",
-    "img": "https://th-i.thgim.com/public/books/c16hi1/article71723400.ece/alternates/LANDSCAPE_1200/Gukesh-Sindarov.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/world-chess-championship-gukesh-faces-stern-test-against-in-form-sindarov/article71723391.ece",
-    "time": "2026-11-20T06:37:49.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How AI could reshape global growth and productivity",
     "desc": "A key expected impact of AI is an unprecedented rise in labour productivity, as its success as a technological revolution is premised on such an increase; what remains to be seen is how pervasive its impact will be across different sectors of the economy",
@@ -799,15 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/how-ai-could-reshape-global-growth-and-productivity/article71717356.ece",
     "time": "2026-11-20T06:06:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When Dhoni told Nishant to work on his fitness",
-    "desc": "Nishant Sindhu, Gujarat Titans all-rounder, said M.S. Dhoni advised him to focus on his own game and push his fitness after CSK days, while Ravindra Jadeja provided bowling tips that helped him take 3 for 22 and score an unbeaten 37 for Haryana in the Syed Mushtaq Ali Trophy in Indore, signalling a confident return after two uneven outings",
-    "img": "https://th-i.thgim.com/public/incoming/q0hk2f/article71721457.ece/alternates/LANDSCAPE_1200/39_RVM_4787.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/when-dhoni-told-nishant-to-work-on-his-fitness/article71721453.ece",
-    "time": "2026-11-20T05:20:04.000Z"
   },
   {
     "cat": "Tech",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/is-it-ai-is-it-not-ai/article71664120.ece",
     "time": "2026-11-13T18:59:03.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
   }
 ];

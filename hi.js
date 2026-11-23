@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Phil Simmons demands more from his players as Bangladesh gear up for second South Africa Test",
+    "desc": "The stage is set for the second Test between Bangladesh and South Africa. With both sides set to clash, Bangladesh’s head coach Phil Simmons took centre stage and asked for more from his players as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/phil-simmons-demands-more-from-his-players-as-bangladesh-gear-up-for-second-south-africa-test-2026-11-23-1060121",
+    "time": "2026-11-23T00:59:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tilak Varma opens up after India A faces defeat against Pakistan in Asia Cup Rising Stars",
+    "desc": "India A suffered a bitter defeat against Pakistan A in the ongoing Asia Cup Rising Stars 2026. The two sides met at the West End Park International Cricket Stadium, Doha, on November 22nd, and it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-opens-up-after-india-a-faces-defeat-against-pakistan-in-asia-cup-rising-stars-2026-11-23-1060119",
+    "time": "2026-11-22T22:57:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan cement their spot in Asia Cup Rising Stars semi-final after win over India in Doha",
     "desc": "Pakistan have defeated India by 48 runs in the ongoing Asia Cup Rising Stars 2026 at the West End Park International Cricket Stadium in Doha. The Abdul Samad-led side produced a dominant show with the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-asia-cup-rising-stars-live-score-india-vs-pakistan-latest-match-updates-scorecards-playing-xis-reactions-vaibhav-sooryavanshi-abhishek-1060086",
     "time": "2026-11-22T09:26:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricket hails KL Rahul after his brilliant century against New Zealand in Wellington",
-    "desc": "The Indian team has been extremely dominant in the first Test of the ongoing series against New Zealand, taking on the Black Caps in the first Test. The clash saw New Zealand come in to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricket-hails-kl-rahul-after-his-brilliant-century-against-new-zealand-in-wellington-2026-11-22-1060078",
-    "time": "2026-11-22T06:36:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India dominate New Zealand on Day 4, hosts trail by 233 runs ahead of final day in Wellington",
-    "desc": "Day 4 of the ongoing first Test between India and New Zealand saw the two sides continue, with India on a score of 486/4, with Rishabh Pant and Anshul Kamboj on the crease. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-dominate-new-zealand-on-day-4-hosts-trail-by-233-runs-ahead-of-final-day-in-wellington-2026-11-22-1060076",
-    "time": "2026-11-22T06:17:42.000Z"
   }
 ];
