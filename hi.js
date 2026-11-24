@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "R Ashwin expects Rishabh Pant to bring up Sandpaper saga on cricket field during upcoming BGT",
+    "desc": "Sandpapergate saga is once again a trending topic in cricket. Usman Khawaja, through his autobiography, Sabr, has made it public knowledge that the entire Australia team was aware of the use of sandpaper in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-expects-rishabh-pant-to-bring-up-sandpaper-saga-on-cricket-field-during-upcoming-bgt-2026-11-24-1060279",
+    "time": "2026-11-24T13:48:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi breaks several world records with 204 vs UAE; India qualify for semis",
+    "desc": "At just 15 years of age, Vaibhav Sooryavanshi produced one of the knocks for the ages. Against United Arab Emirates at the Asia Cup Rising Stars, the Bihar-born cricketer stole the show with a 204-run...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-breaks-several-world-records-with-204-vs-uae-india-qualify-for-semis-2026-11-24-1060264",
+    "time": "2026-11-24T11:53:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Record-breaking Vaibhav Sooryavanshi smashes 28-ball ton to rewrite List A cricket history",
+    "desc": "Vaibhav Sooryavanshi has broken Jake Fraser-McGurk’s world record for the fastest century in List A cricket. Against United Arab Emirates, the 15-year-old went berserk, reaching the three-figure mark in just 28 balls. On route to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/record-breaking-vaibhav-sooryavanshi-smashes-28-ball-ton-to-rewrite-list-a-cricket-history-2026-11-24-1060260",
+    "time": "2026-11-24T11:17:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Played for 4 IPL teams, MP-born Harpreet Singh Bhatia scores century vs India in Asia Cup Rising Stars",
+    "desc": "Harpreet Singh Bhatia produced a masterclass with the bat against India A in the ongoing Rising Stars Asia Cup in Doha. Representing United Arab Emirates, the 35-year-old smacked a 120-ball century. He went on to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/played-for-4-ipl-teams-mp-born-harpreet-singh-bhatia-scores-century-vs-india-in-asia-cup-rising-stars-2026-11-24-1060255",
+    "time": "2026-11-24T10:37:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC unwilling to reconsider saliva ban despite Shubman Gill's demand for change after New Zealand Test",
+    "desc": "The International Cricket Council (ICC) is not considering any immediate changes to its prohibition on using saliva to polish the cricket ball. After the first Test against New Zealand in Wellington, India captain Shubman Gill...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-unwilling-to-reconsider-saliva-ban-despite-shubman-gill-s-demand-for-change-after-new-zealand-test-2026-11-24-1060246",
+    "time": "2026-11-24T08:57:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Punjab Kings set to announce Paras Mhambrey as new bowling coach for IPL 2027 season",
+    "desc": "Punjab Kings are set to appoint Paras Mhambrey as their next bowling coach ahead of the Indian Premier League 2027 edition. The official announcement is expected to be made ahead of the UP auction in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-set-to-announce-paras-mhambrey-as-new-bowling-coach-for-ipl-2027-season-2026-11-24-1060241",
+    "time": "2026-11-24T08:23:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Blair Tickner ruled out of second Test vs India; New Zealand announce replacement",
     "desc": "New Zealand have suffered a major blow ahead of the second Test against India, as pacer Blair Tickner has been ruled out of the match, owing to a hamstring injury. New Zealand cricket (NZC) has...",
     "img": "",
@@ -19,7 +73,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Harpreet completes half-century after UAE lose three wickets",
+    "title": "India chase 250 in just 14.2 overs, thanks to Vaibhav",
     "desc": "India A take on the United Arab Emirates (UAE) in their ongoing match at the Asia Cup Rising Stars 2026. UAE have won the toss and elected to bat first in Doha. India, on the...",
     "img": "",
     "src": "indiatvnews.com",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-finds-the-positives-reflects-on-his-performance-as-india-draw-first-test-against-new-zealand-2026-11-23-1060145",
     "time": "2026-11-23T06:22:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can India still qualify for the WTC final after draw against New Zealand? Check the WTC points table",
-    "desc": "The first Test of the ongoing series between India and New Zealand ended in a draw. The two sides met at the Basin Reserve in Wellington from November 19th, and after five days of gruelling...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/can-india-still-qualify-for-the-wtc-final-after-draw-against-new-zealand-check-the-wtc-points-table-2026-11-23-1060144",
-    "time": "2026-11-23T06:02:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's exceptional batting display goes in vain as Wellington Test ends in a draw after NZs fightback",
-    "desc": "The first Test of the ongoing series between India and New Zealand finally came to a fitting end after five days of a gruelling battle between the two sides; the match ended in a draw...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-s-exceptional-batting-display-goes-in-vain-as-wellington-test-ends-in-a-draw-after-nzs-fightback-2026-11-23-1060137",
-    "time": "2026-11-23T04:56:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aiden Markram reflects on taking over as South Africa skipper in Bavuma's absence ahead of Bangladesh Test",
-    "desc": "The stage is set for the second Test of the ongoing series between South Africa and Bangladesh. The two sides are slated to take on each other in Centurion for the clash from November 23...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-reflects-on-taking-over-as-south-africa-skipper-in-bavuma-s-absence-ahead-of-bangladesh-test-2026-11-23-1060131",
-    "time": "2026-11-23T04:06:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "AB de Villiers makes massive statement around the sandpaper gate amid ongoing controversies",
-    "desc": "The sandpaper gate controversy has once again surrounded Australian cricket, with Usman Khawaja coming forward and revealing that all of the players knew about the use of sandpaper and Australia's tampering with the ball across...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ab-de-villiers-makes-massive-statement-around-the-sandpaper-gate-amid-ongoing-controversies-2026-11-23-1060127",
-    "time": "2026-11-23T02:33:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mauricio Pochettino opens up after registering worst start as Manchester United head coach in 100 years",
-    "desc": "Manchester United’s subpar run of form continued in the Premier League; with new manager Mauricio Pochettino coming in, United took on Liverpool at Anfield on November 22nd, and Liverpool handed the side a 4-0 defeat....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mauricio-pochettino-opens-up-after-registering-worst-start-as-manchester-united-head-coach-in-100-years-2026-11-23-1060124",
-    "time": "2026-11-23T01:44:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Phil Simmons demands more from his players as Bangladesh gear up for second South Africa Test",
-    "desc": "The stage is set for the second Test between Bangladesh and South Africa. With both sides set to clash, Bangladesh’s head coach Phil Simmons took centre stage and asked for more from his players as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/phil-simmons-demands-more-from-his-players-as-bangladesh-gear-up-for-second-south-africa-test-2026-11-23-1060121",
-    "time": "2026-11-23T00:59:10.000Z"
   }
 ];
