@@ -1,92 +1,92 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Not appropriate to stir up political controversies'",
+    "desc": "BCCI vice-president Rajeev Shukla has dismissed allegations of discrimination surrounding Mohammed Siraj’s exclusion from India’s playing XI for the first Test against New Zealand in Wellington. He urged the political leaders and others to keep...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/not-appropriate-to-stir-up-political-controversies-bcci-vice-president-rajiv-shukla-on-india-dropping-mohammed-siraj-2026-11-25-1060381",
+    "time": "2026-11-25T14:28:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Wiaan Mulder crushes Bangladesh with seven-wicket haul, South Africa seal series 2-0",
+    "desc": "Wiaan Mulder stole the show with both bat and ball as South Africa dismantled Bangladesh by an innings and 219 runs in the second Test at SuperSport Park in Centurion on Wednesday. The all-rounder took...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wiaan-mulder-crushes-bangladesh-with-seven-wicket-haul-south-africa-seal-series-2-0-2026-11-25-1060376",
+    "time": "2026-11-25T13:57:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kane Williamson set to take over as head coach of Durban Super Giants in SA20",
+    "desc": "Former New Zealand captain Kane Williamson is set to begin a new chapter as he is set to be appointed as the head coach of Durban Super Giants in the upcoming SA20 2027 season. Even...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kane-williamson-set-to-take-over-as-head-coach-of-durban-super-giants-in-sa20-2026-11-25-1060371",
+    "time": "2026-11-25T13:19:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Deandra Dottin's bizarre dismissal in WBBL is something one has never seen in cricket: WATCH",
+    "desc": "A bizarre dismissal unfolded in the Women's Big Bash League during the clash between Melbourne Renegades and Brisbane Heat. West Indies all-rounder Deandra Dottin arrived late at the crease and rather than being declared timed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/deandra-dottin-s-bizarre-dismissal-in-wbbl-is-something-one-has-never-seen-in-cricket-watch-2026-11-25-1060363",
+    "time": "2026-11-25T11:48:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah improves his ICC Test ranking; Pant, Gill and Yashasvi climb in batters' rankings",
+    "desc": "Jasprit Bumrah has improved his standing in the ICC Men’s Test bowlers’ ranking. He has now moved to joint-second place after an impressive performance against New Zealand in the first Test in Wellington. The Indian...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-improves-his-icc-test-ranking-pant-gill-and-yashasvi-climb-in-batters-rankings-2026-11-25-1060359",
+    "time": "2026-11-25T11:22:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jannik Sinner undergoes surgery on right knee; will he be back for Australian Open in January?",
+    "desc": "Jannik Sinner’s preparations for the Australian Open 2027 have suffered a major setback after the Italian underwent surgery on his right knee in Finland on Tuesday. The five-time Grand Slam champion has confirmed on social...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-undergoes-surgery-on-right-knee-will-he-be-back-for-australian-open-in-january-2026-11-25-1060350",
+    "time": "2026-11-25T10:17:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Love Pat Cummins, didn't expect him to come out and attack me personally: Usman Khawaja",
+    "desc": "Usman Khawaja has revealed that Pat Cummins’ recent public comments about the ball-tampering scandal in 2018 have left him deeply hurt. However, he maintains that his respect and affection for Australia’s captain remain unchanged. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/love-pat-cummins-didn-t-expect-him-to-come-out-and-attack-me-personally-usman-khawaja-2026-11-25-1060342",
+    "time": "2026-11-25T08:29:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Which three franchises likely to bid for English all-rounder?",
+    "desc": "Former England cricketer Ben Stokes has registered for the Indian Premier League (IPL) auction 2027. He missed the previous two years to focus on international cricket and manage his workload, but following his international retirement,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-registers-for-ipl-2027-auction-which-three-franchises-likely-to-bid-for-english-all-rounder-2026-11-25-1060336",
+    "time": "2026-11-25T07:41:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi reveals having long chat with Yuvraj Singh before iconic 204-run knock vs UAE",
+    "desc": "Vaibhav Sooryavanshi produced a historic batting performance for India A against the United Arab Emirates at the Asia Cup Rising Stars tournament on Tuesday, November 24. The southpaw smacked 204 runs off just 53 balls...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-reveals-having-long-chat-with-yuvraj-singh-before-iconic-204-run-knock-vs-uae-2026-11-25-1060328",
+    "time": "2026-11-25T06:21:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "R Ashwin expects Rishabh Pant to bring up Sandpaper saga on cricket field during upcoming BGT",
     "desc": "Sandpapergate saga is once again a trending topic in cricket. Usman Khawaja, through his autobiography, Sabr, has made it public knowledge that the entire Australia team was aware of the use of sandpaper in the...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-expects-rishabh-pant-to-bring-up-sandpaper-saga-on-cricket-field-during-upcoming-bgt-2026-11-24-1060279",
     "time": "2026-11-24T13:48:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi breaks several world records with 204 vs UAE; India qualify for semis",
-    "desc": "At just 15 years of age, Vaibhav Sooryavanshi produced one of the knocks for the ages. Against United Arab Emirates at the Asia Cup Rising Stars, the Bihar-born cricketer stole the show with a 204-run...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-breaks-several-world-records-with-204-vs-uae-india-qualify-for-semis-2026-11-24-1060264",
-    "time": "2026-11-24T11:53:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Record-breaking Vaibhav Sooryavanshi smashes 28-ball ton to rewrite List A cricket history",
-    "desc": "Vaibhav Sooryavanshi has broken Jake Fraser-McGurk’s world record for the fastest century in List A cricket. Against United Arab Emirates, the 15-year-old went berserk, reaching the three-figure mark in just 28 balls. On route to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/record-breaking-vaibhav-sooryavanshi-smashes-28-ball-ton-to-rewrite-list-a-cricket-history-2026-11-24-1060260",
-    "time": "2026-11-24T11:17:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Played for 4 IPL teams, MP-born Harpreet Singh Bhatia scores century vs India in Asia Cup Rising Stars",
-    "desc": "Harpreet Singh Bhatia produced a masterclass with the bat against India A in the ongoing Rising Stars Asia Cup in Doha. Representing United Arab Emirates, the 35-year-old smacked a 120-ball century. He went on to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/played-for-4-ipl-teams-mp-born-harpreet-singh-bhatia-scores-century-vs-india-in-asia-cup-rising-stars-2026-11-24-1060255",
-    "time": "2026-11-24T10:37:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC unwilling to reconsider saliva ban despite Shubman Gill's demand for change after New Zealand Test",
-    "desc": "The International Cricket Council (ICC) is not considering any immediate changes to its prohibition on using saliva to polish the cricket ball. After the first Test against New Zealand in Wellington, India captain Shubman Gill...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-unwilling-to-reconsider-saliva-ban-despite-shubman-gill-s-demand-for-change-after-new-zealand-test-2026-11-24-1060246",
-    "time": "2026-11-24T08:57:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Punjab Kings set to announce Paras Mhambrey as new bowling coach for IPL 2027 season",
-    "desc": "Punjab Kings are set to appoint Paras Mhambrey as their next bowling coach ahead of the Indian Premier League 2027 edition. The official announcement is expected to be made ahead of the UP auction in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/punjab-kings-set-to-announce-paras-mhambrey-as-new-bowling-coach-for-ipl-2027-season-2026-11-24-1060241",
-    "time": "2026-11-24T08:23:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Blair Tickner ruled out of second Test vs India; New Zealand announce replacement",
-    "desc": "New Zealand have suffered a major blow ahead of the second Test against India, as pacer Blair Tickner has been ruled out of the match, owing to a hamstring injury. New Zealand cricket (NZC) has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/blair-tickner-ruled-out-of-second-test-vs-india-new-zealand-announce-replacement-2026-11-24-1060229",
-    "time": "2026-11-24T07:04:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Priyansh Arya goes berserk with 181 vs Tamil Nadu in SMAT, matches world record for most sixes",
-    "desc": "Priyansh Arya produced a batting masterclass on Tuesday, as he smacked 181 runs off 68 deliveries against Tamil Nadu in the ongoing Syed Mushtaq Ali Trophy. Courtesy of his blistering batting, Delhi posted 275/5 in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/priyansh-arya-goes-berserk-with-181-vs-tamil-nadu-in-smat-matches-world-record-for-most-sixes-2026-11-24-1060224",
-    "time": "2026-11-24T06:32:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India chase 250 in just 14.2 overs, thanks to Vaibhav",
-    "desc": "India A take on the United Arab Emirates (UAE) in their ongoing match at the Asia Cup Rising Stars 2026. UAE have won the toss and elected to bat first in Doha. India, on the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-uae-asia-cup-rising-stars-live-score-india-vs-uae-latest-match-updates-scorecards-playing-xis-reactions-abhishek-sharma-vaibhav-tilak-1060217",
-    "time": "2026-11-24T05:45:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill finds the positives, reflects on his performance as India draw first Test against New Zealand",
-    "desc": "The Indian team drew the first Test of the ongoing series against New Zealand. The two sides met at the Basin Reserve in Wellington, and after five days the game ended in a draw as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-finds-the-positives-reflects-on-his-performance-as-india-draw-first-test-against-new-zealand-2026-11-23-1060145",
-    "time": "2026-11-23T06:22:23.000Z"
   }
 ];
