@@ -1,1 +1,209 @@
-const newsData_bn = [];
+const newsData_bn = [
+  {
+    "cat": "Politics",
+    "title": "স্পর্শেই দেবীর রূপদর্শন: দৃষ্টিহীন দর্শনার্থীদের জন্য অনন্য উদ্যোগ দিল্লির পাণ্ডারা পার্ক পুজোয়",
+    "desc": "প্রবাসের বুকে এক টুকরো বাংলা! দিল্লির পাণ্ডারা পার্কে মহাষ্টমীর আনন্দে মাতল হাজার হাজার মানুষ। বাঁশের তৈরি কুলো, হাতপাখা আর ঝুঁড়ি নিয়ে গ্রামবাংলার লোকশিল্পে সেজে উঠেছে এবারের মণ্ডপ। তবে সবথেকে বড় আকর্ষণ দৃষ্টিভঙ্গির অনন্য প্রকাশ—দৃষ্টিহীন বন্ধুদের জন্য স্পর্শ করে দেবী প্রতিমা অনুভবের বিশেষ সুযোগ।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/delhi-pandara-park-durga-puja-village-theme-touch-feel-idol-for-specially-abled-persons_673493.html ",
+    "time": "2026-10-19T17:44:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মণ্ডপে বাঁকুড়ার ছোঁয়া, তরুণ প্রজন্মের উন্মাদনা: সপ্তমীতে দিল্লির বসুন্ধরা এনক্লেভে পুজোর জাদুতে মুগ্ধ প্রবাসীরা",
+    "desc": "এবার ৩৬তম বছরে পদার্পণ করল পূর্ব দিল্লির বসুন্ধরা এনক্লেভের পুজো। এই পুজো প্রবাসীদের মন জয় করেছে এক অনন্য ও ঐতিহ্যমণ্ডিত আয়োজনের মাধ্যমে। ভিন রাজ্যে বসেও বাংলার প্রাচীন শিল্পকলা, সংস্কৃতির সুবাস এবং তারুণ্যের উদ্দীপনা যেভাবে এখানে মিলেমিশে একাকার হয়ে গেছে, তা এককথায় অভূতপূর্ব।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/vasundhara-enclave-durga-puja-jor-bangla-theme-delhi-celebrates-saptami_673489.html ",
+    "time": "2026-10-19T14:32:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "আচমকাই মহৎ হয়ে গেলেন ট্রাম্প; ভারতের উপর ১০০% শুল্ক আরোপের আগেই রাশিয়া নিয়ে বিরাট সিদ্ধান্ত",
+    "desc": "মার্কিন যুক্তরাষ্ট্রের লক্ষ্য ছিল ইউক্রেন-যুদ্ধে রাশিয়ার রাজস্ব আদায়ের পথ বন্ধ করে দেওয়া। এবং এই রাস্তায় রাশিয়াকে অর্থনৈতিক ভাবে দুর্বল করা। রাশিয়া তো বিশ্ববাজারে তেল ও প্রাকৃতিক গ্যাস বিক্রি করে তার যুদ্ধের টাকা তোলে। আমেরিকার সংশ্লিষ্ট বিলের মূল লক্ষ্য তাই ছিল, রাশিয়ার বড় বড় ক্রেতাদের উপর চাপ সৃষ্টি করা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/100-percent-tariffs-on-india-trump-waives-russia-oil-sanctions_673431.html ",
+    "time": "2026-10-17T13:18:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ষষ্ঠীর সন্ধ্যায় বোধন! দেশ-বিদেশের অতিথিদের সমাগমে জমে উঠেছে নয়ডা সেক্টর ১০৭-এর পুজো",
+    "desc": "শরতের আকাশে মেঘের ভেলা আর শিউলির সুবাসেই স্পষ্ট উমার আগমনী বার্তা। কেবল বাংলায় নয়, দিল্লি-নয়ডাতেও ছড়িয়ে পড়েছে দুর্গাপুজোর চিরপরিচিত আনন্দ ও আমেজ। প্রবাসী বাঙালি থেকে শুরু করে স্থানীয় বাসিন্দারা— মেতে উঠেছেন মায়ের আরাধনায়। এই আবহেই মহা ষষ্ঠীতে ধুমধাম করে দেবীর আবাহন ও বোধন সম্পূর্ণ হল ‘নয়ডা সেক্টর ১০৭’-এর দুর্গোৎসবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/noida-sector-107-durga-puja-4th-year-cinema-theme-daker-saj_673394.html ",
+    "time": "2026-10-16T15:23:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "নিজের পায়ে কুড়ুল ট্রাম্পের? আমেরিকায় কাজ করতে গেলে বিদেশিদের এবার থেকে খসাতে হবে লক্ষ লক্ষ টাকা! তোলপাড়",
+    "desc": "মার্কিন যুক্তরাষ্ট্রে উচ্চশিক্ষাশেষে কাজের সুযোগ পেতে গেলে এবার পকেট থেকে খসাতে হবে বিপুল টাকা। বিদেশি শিক্ষার্থীদের অপশনাল প্র্যাকটিক্যাল ট্রেনিং তথা ওপিটি প্রোগ্রামের জন্য ৭০ হাজার মার্কিন ডলার ফি আরোপের প্রস্তাব করা হয়েছে। পাশাপাশি, এই সুবিধার পরবর্তী কালে রিনিউ করার জন্য প্রতিবার ৩০ হাজার ডলার ফি নির্ধারণের সুপারিশ করা হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/indian-students-face-trumps-dollar-70000-barrier-to-work-in-us-after-graduation-optional-practical-training-program_672999.html ",
+    "time": "2026-10-08T14:56:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ঘুম ভাঙতেই দুঃসংবাদ, গোয়ায় প্রয়াত প্রবীণ অভিনেতা নানা পাটেকর",
+    "desc": "প্রবীণ অভিনেতা নানা পাটেকর ৭৫ বছর বয়সে গোয়ায় প্রয়াত হয়েছেন। বৃহস্পতিবার ভোরে তীব্র বুকে ব্যথার পর ফ্ল্যাটে সংজ্ঞাহীন হয়ে পড়লে তাঁকে হাসপাতালে নিয়ে যাওয়া হয়। সেখানে চিকিৎসকেরা ভোর ৫টা ২০ মিনিটে তাঁকে মৃত ঘোষণা করেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/nana-patekar-passes-away-at-75-in-goa-death-news_672968.html ",
+    "time": "2026-10-08T02:46:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'প্রেমানন্দ মহারাজ ভণ্ড, ৫ কোটি টাকায় বিরাট-অনুষ্কাকে ভক্ত সাজিয়ে নিজেকে প্রোমোট করেছেন': ভয়ঙ্কর অভিযোগে তোলপাড় বৃন্দাবন",
+    "desc": "ফলাহারী মহারাজ একটি চিঠি লিখে অভিযোগ করেছেন যে, প্রেমানন্দ মহারাজের আশ্রমকে ব্যাপকভাবে জনপ্রিয় ও আলোচিত করে তোলার উদ্দেশ্যে তারকা ক্রিকেটার বিরাট কোহলিকে সেখানে আনা হয়েছিল। তাঁর দাবি অনুযায়ী, এর জন্য প্রায় ৫ কোটি টাকা খরচ করা হয়েছিল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/allegations-rock-premanand-maharaj-vrindavan-ashram-land-deals-5-cr-kohli-claim-and-calls-for-cbi-probe_672871.html ",
+    "time": "2026-10-05T15:54:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ট্রেন্ডিং ১-এ এবার বাংলা ছবি! দেশজুড়ে রেকর্ড গড়ে শীর্ষে 'বহুরূপী: দ্য গোল্ডেন ডাকু'-র ট্রেলার",
+    "desc": "'বহুরূপী: দ্য গোল্ডেন ডাকু'-র ট্রেলার এখন ভারতে ১ নম্বরে ট্রেন্ডিং। জেল থেকে ছাড়া পেয়ে বিক্রম প্রামাণিক আবার ব্যাঙ্ক ডাকাতি শুরু করে। শিবপ্রসাদ মুখোপাধ্যায়ের বিপরীতে পুলিস অফিসারের চরিত্রে আছেন যিশু সেনগুপ্ত। ছবিতে গুরুত্বপূর্ণ ভূমিকায় কৌশানী মুখোপাধ্যায় ও সোহিনী সরকার।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/bohurupi-the-golden-daku-trailer-trending-shiboprosad-jisshu-sengupta_672788.html ",
+    "time": "2026-10-04T10:00:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ভগবান আমাকে এভাবেই বানিয়েছেন! সংস্কৃতি 'নষ্টের' অভিযোগে প্রকাশ্যে গুলিতে ঝাঁঝরা জনপ্রিয় ইনফ্লুয়েন্সরকে",
+    "desc": "প্রকাশ্য রাস্তায় গুলি করে খুন মেকআপ আর্টিস্ট ও এলজিবিটিকিউ+ ইনফ্লুয়েন্সার ম্যাড সান্ধুকে। পঞ্জাবের সংস্কৃতি নষ্ট করার অভিযোগ তুলে সোশ্যাল মিডিয়ায় এই খুনের দায় স্বীকার করা হয়েছে। এই হত্যাকাণ্ডের সঙ্গে গত বছর খুন হওয়া আর এক ইনফ্লুয়েন্সার কমল কউরের ঘটনার মিল পাওয়া যাচ্ছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/punjabi-influencer-mad-sandhu-shot-dead-amritsar-crime-news_672777.html ",
+    "time": "2026-10-04T06:24:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ঢাকায় ক্লিনিক ভাঙচুরের পর ইউটিউবারের স্টুডিয়ো তছনছ, তোলপাড় বাংলাদেশ! নিশানায় তারেক রহমানের সরকার",
+    "desc": "বাংলাদেশের রাজধানী ঢাকায় পরপর দুটি হামলা ও ভাঙচুরের ঘটনা ঘিরে রাজনৈতিক চাপ তৈরি হয়েছে প্রধানমন্ত্রী তারেক রহমানের নেতৃত্বাধীন সরকারের উপর। মিরপুরের রাড্ডা MCH-FP সেন্টারে হামলা ও ভাঙচুরের কয়েক দিন পর ECB চত্বরের কাছে ইউটিউবার সলমন মুকতাদিরের ব্রাউন ফিস স্টু়ডিয়োতেও হামলা হয়। দুই ঘটনায়ই বিএনপি-ঘনিষ্ঠ ব্যক্তিদের জড়িত থাকার অভিযোগ উঠেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/dhaka-radda-clinic-brownfish-studio-attack-tarique-rahman-bnp-government_672713.html ",
+    "time": "2026-10-03T05:41:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "উড়ন্ত বিমানে ভারতীয় পাইলটকে ছুরি দিয়ে আক্রমণ, চিহ্নিত ওমানি কো-পাইলটের পরিচয় প্রকাশ্যে! তদন্তে চাঞ্চল্যকর তথ্য",
+    "desc": "দুবাই থেকে তেল আভিভগামী ফ্লাইদুবাই FZ1073 বিমানে ভারতীয় ক্যাপ্টেন স্মিত মাচ্ছারকে ছুরিকাঘাতের অভিযোগ ওঠা ওমানি কো-পাইলটকে চিহ্নিত করা হয়েছে। এর আগে ওমানে তাঁকে উড়ান থেকে নিষিদ্ধ করা হয়েছিল। তবে তাঁর বিরুদ্ধে ওঠা ‘র‌্যাডিক্যালাইজেশন’-এর অভিযোগের সঠিক প্রকৃতি এখনও তদন্তাধীন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/flydubai-flight-omani-co-pilot-hamam-al-hammami-indian-captain-attack_672712.html ",
+    "time": "2026-10-03T05:01:35.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "আর নয় কোনও ভারতীয়: পুরোপুরি বন্ধ হওয়ার পথে H1B ভিসা? হাজার হাজার কর্মী-ছাত্রছাত্রীর ভবিষ্যৎ অন্ধকারে, ফাইনাল জানিয়ে দিল আমেরিকা",
+    "desc": "সম্প্রতি এক সাক্ষাৎকারে জেডি ভ্যান্স স্পষ্ট ভাষায় জানান, এইচ-১বি ভিসা মূলত বিশ্বমানের মেধা বা প্রতিভাবানদের আমেরিকায় আনার উদ্দেশ্যে তৈরি হলেও, বাস্তবে কর্পোরেট সংস্থাগুলো এই ভিসায় সস্তায় বিদেশি শ্রমিকদের খাটিয়ে খরচ বাঁচানোর হাতিয়ার হিসেবে ব্যবহার করছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/corporations-defrauding-americans-with-cheap-foreign-labour-jd-vance-backs-abolition-of-h-1b-visas_672684.html ",
+    "time": "2026-10-02T17:58:01.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "প্রেসিডেন্ট থাকুন বা না থাকুন: বিরাট সুখবর ট্রাম্পের জীবনে, অবশেষে নোবেল শান্তি পুরস্কার-- তোলপাড় দুনিয়া",
+    "desc": "অসলোর 'পিস রিসার্চ ইনস্টিটিউট' (PRIO)-এর মতে, এবারের সবচেয়ে বড় চমক হতে পারে আন্তর্জাতিক মহাকাশ স্টেশন। ইউক্রেন যুদ্ধের মতো তীব্র সংঘাতের সময়েও আমেরিকা ও রাশিয়ার মতো বৈরী দেশগুলি যেভাবে মহাকাশে ২৫ বছরের বেশি সময় ধরে যৌথভাবে কাজ করে চলেছে, তাকে শান্তি ও বৈশ্বিক ঐক্যের এক বিরল প্রতীক হিসেবে দেখা হচ্ছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/nobel-peace-prize-speculation-surges-donald-trump-mark-carney-and-space-station-among-top-contenders_672680.html ",
+    "time": "2026-10-02T15:01:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "এশিয়ান গেমসে সোনা জয়, সুভাষ চন্দ্র ফাউন্ডেশন বক্সিং ট্রেনিং সেন্টারের অঙ্কুশ পংঘল লিখলেন নয়া ইতিহাস",
+    "desc": "শিয়ান গেমসে ভারতের সোনার দিন!জাপানের রিংয়ে পুরুষদের ৮০ কেজি বিভাগে দক্ষিণ কোরিয়ার কিম মিনসিওংকে ৪-০ ব্যবধানে হারিয়ে সোনা জিতলেন হরিয়ানার ২১ বছরের তরুণ বক্সার অঙ্কুশ পংঘাল। কমনওয়েলথের পর এবার এশিয়ান গেমসেও তেরঙ্গা ওড়ালেন সুভাষ চন্দ্র ফাউন্ডেশন বক্সিং ট্রেনিং সেন্টারের এই কৃতি তারকা। ভারতের এই নতুন চ্যাম্পিয়নকে জানাই অনেক শুভেচ্ছা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/ankush-panghal-wins-gold-asian-games-2026-boxing-80kg_672679.html ",
+    "time": "2026-10-02T14:43:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "KBC-র শ্যুটিংয়ে হঠাৎ পড়ে গেলেন অমিতাভ, হাঁটুতে চোট! কেমন আছেন অভিনেতা?",
+    "desc": "‘কৌন বনেগা ক্রোড়পতি ১৮’-এর শ্যুটিং চলাকালীন পা পিছলে পড়ে হাঁটুতে চোট পেয়েছেন অমিতাভ বচ্চন। বুধবারের পর্বে সাধারণত দাঁড়িয়ে যে উদ্বোধনী বক্তব্য দেন, সেটি তাঁকে বসেই বলতে দেখা যায়। অভিনেতা জানিয়েছেন, দাঁড়াতে তাঁর কিছুটা সমস্যা হচ্ছে। তবে চোট গুরুতর নয় বলেও দর্শকদের আশ্বস্ত করেছেন তিনি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/amitabh-bachchan-knee-injury-kbc-18-shoot-slip_672589.html ",
+    "time": "2026-10-01T07:06:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "আরব সাগরে ইরানি নৌকায় ৩ হাজার কোটি টাকার মাদক! ৫ পাকিস্তানি নাগরিক আটক",
+    "desc": "আরব সাগরে বড়সড় মাদকবিরোধী অভিযান চালিয়ে প্রায় ৫২৬ কেজি মাদক উদ্ধার করেছে ভারতীয় কোস্ট গার্ড ও গুজরাত ATS। আন্তর্জাতিক বাজারে ওই মাদকের আনুমানিক মূল্য ৩ হাজার কোটি টাকারও বেশি বলে জানানো হয়েছে। একটি ইরানি ধাও থেকে হেরোইন ও মেথামফেটামিন উদ্ধার করা হয়েছে। নৌকায় থাকা ৫ পাকিস্তানি নাগরিককে আটক করা হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/arabian-sea-drug-bust-iranian-boat-3000-crore-drugs-5-pakistani-held_672512.html ",
+    "time": "2026-09-30T04:47:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "বিগ বসে অকাল বসন্ত! বাথরুমে নন্দিনীকে গাঢ় চুম্বন রাজবীরের, গাল ধরে আদর করে...",
+    "desc": "রাজবীর দে ও নন্দিনী দত্তের সম্পর্ক ফের চর্চায়। বাথরুমের কাছে একান্ত মুহূর্তে দু’জনকে জড়িয়ে ধরা ও চুমু খেতে দেখা গিয়েছে। এর মধ্যেই রাজবীরের সঙ্গে সৃজলা গুহর কথাবার্তা নিয়ে আপত্তি জানিয়ে নন্দিনী প্রশ্ন তোলেন, সৃজলার অন্য পুরুষ প্রতিযোগীদের সঙ্গেও ঘনিষ্ঠতা রয়েছে। রাজবীর অবশ্য স্পষ্ট করেন, সৃজলার প্রতি তাঁর কোনও আকর্ষণ নেই।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/bigg-boss-bangla-rajveer-nandini-kiss-srijla-guha-relationship_672107.html ",
+    "time": "2026-09-24T10:46:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "দুর্গাপুজোয় রাজ্য সরকারের মেগা আয়োজন! ইডেনে শ্রেয়া-শানু-শান-এর ‘ট্রিবিউট টু মা, কোন কোন তারকা মাতাবেন মঞ্চ?",
+    "desc": "দুর্গাপুজো ২০২৬-কে ঘিরে কলকাতা থেকে রাজ্যের বিভিন্ন প্রান্তে একাধিক বড় সাংস্কৃতিক অনুষ্ঠান। মহালয়ার দিন কলকাতার ইডেন গার্ডেন্সে হবে মেগা উদ্বোধনী অনুষ্ঠানে থাকবেন- শ্রেয়া ঘোষাল, কুমার শানু, শান-সহ একাধিক শিল্পীরা। পাশাপাশি ‘ট্রিবিউট টু মা’ নামে বিশেষ সাংস্কৃতিক সফরের আয়োজন করা হবে বাঁকুড়া, বিষ্ণুপুর, নন্দীগ্রাম, শিলিগুড়ি, দুর্গাপুর ও বহরমপুরে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/west-bengal-durga-puja-2026-eden-mega-event-shreya-ghoshal-kumar-sanu-shaan_672081.html ",
+    "time": "2026-09-24T07:25:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "১০ হাজার কোটির মালিক কিং খান! পিছিয়ে অমিতাভ-সলমনরা, ধনী অভিনেতাদের তালিকায় কে, কোথায়?",
+    "desc": "১০,০০০ কোটি আনুমানিক সম্পত্তি নিয়ে ভারতের সবচেয়ে ধনী অভিনেতা শাহরুখ খান। তবে গত বছরের হিসাবের তুলনায় তাঁর আনুমানিক সম্পত্তি ২,৪৯০ কোটি কমেছে। তালিকায় দ্বিতীয় স্থানে অমিতাভ বচ্চন, তাঁর আনুমানিক সম্পত্তি ৪,০০০ কোটি। ৩,০০০ কোটি নিয়ে তৃতীয় স্থানে সলমন খান এবং ২,৫০০ কোটি নিয়ে চতুর্থ স্থানে হৃতিক রোশন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/shah-rukh-khan-richest-indian-actor-hurun-rich-list-2026_672069.html ",
+    "time": "2026-09-24T04:54:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘মেকআপ রুমে তোমার নোংরা দিক দেখেছি’, সৃজলা আহত হতেই নন্দিনীকে নিয়ে বিস্ফোরক সংঘশ্রী!",
+    "desc": "‘বিগ বস বাংলা’র ক্যাপ্টেন্সি টাস্কে নন্দিনীর হাতে সৃজলা গুহ আহত হওয়ার ঘটনায় সরব অভিনেত্রী সংঘশ্রী সিংহ মিত্র। সোশ্যাল মিডিয়া পোস্টে নন্দিনীকে নিয়ে নিজের পুরনো অভিজ্ঞতার কথা তুলে ধরেন তিনি। অন্যদিকে, টাস্কে নন্দিনীর আক্রমণে ঘোড়া থেকে পড়ে গিয়ে চোট পান সৃজলা। ঘটনার পর নন্দিনীর বিরুদ্ধে ব্যবস্থা নেওয়ার দাবিও উঠেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/bigg-boss-bangla-sanghasri-sinha-mitra-nandini-dutta-srijla-guha-controversy_671962.html ",
+    "time": "2026-09-23T06:44:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "হোয়াটসঅ্যাপের 'ইউজারনেম' ফিচার সুরক্ষা ও গোপনীয়তায় কত বড় চ্যালেঞ্জ?",
+    "desc": "WhatsApp is rolling out a new username feature, allowing users to chat without sharing phone numbers. হোয়াটসঅ্যাপের এই নতুন ফিচারে নম্বর গোপন রেখে চ্যাট করার সুযোগ পাবেন ব্যবহারকারীরা, যা সাইবার নিরাপত্তা বাড়াবে এবং ব্যক্তিগত সুরক্ষা নিশ্চিত করবে।",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/07/aiwise-cinematic-close-up-portrait-of-a-woman-using-whatsapp-on-0-jpg-1782966779094_1782966780343-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/whatsapp-username-feature-2026-why-hiding-your-phone-number-is-key-to-better-privacy-014-309657.html",
+    "time": "2026-07-19T18:58:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  }
+];
