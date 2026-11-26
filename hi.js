@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Croospulle, Jayawardena demolish Indian bowlers as Sri Lanka win by eight wickets to qualify for final",
+    "desc": "Sri Lanka A defeated India A by eight wickets to qualify for the Asia Cup Rising Stars final. They will be taking on the winner between Pakistan and Bangladesh in the summit clash on November...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/croospulle-jayawardena-demolish-indian-bowlers-as-sri-lanka-win-by-eight-wickets-to-qualify-for-final-of-asia-cup-rising-stars-2026-11-26-1060475",
+    "time": "2026-11-26T17:12:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi to host Thomas and Uber Cup finals in 2028 as BWF announces major tournament overhaul",
+    "desc": "New Delhi won the hosting rights for the Thomas and Uber Cup Finals in 2028. With that, it marks the return of one of badminton’s most prestigious men’s and women's team championships to India after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/delhi-to-host-thomas-and-uber-cup-finals-in-2028-as-bwf-announces-major-tournament-overhaul-2026-11-26-1060473",
+    "time": "2026-11-26T16:19:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bengal crash out of SMAT, eliminated before knockout stage after six-wicket defeat to Rajasthan",
+    "desc": "Bengal’s wait for a place in the Syed Mushtaq Ali Trophy knockouts will continue for another season after Rajasthan secured a six-wicket victory in their final Elite Group A fixture at the Wankhede Stadium in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bengal-crash-out-of-smat-eliminated-before-knockout-stage-after-six-wicket-defeat-to-rajasthan-2026-11-26-1060470",
+    "time": "2026-11-26T15:39:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India takes 2036 Olympic ambitions to IOC; Ahmedabad presented as host city",
+    "desc": "India has presented its proposed blueprint for hosting the 2036 Summer Olympics and Paralympics to the International Olympic Committee (IOC). Earlier, the Indian Olympic Association (IOA) had expressed interest in organising the global event, but...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-takes-2036-olympic-ambitions-to-ioc-ahmedabad-presented-as-host-city-2026-11-26-1060460",
+    "time": "2026-11-26T13:49:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa suffer double injury blow ahead of Bangladesh white-ball series, three new players called up",
+    "desc": "South Africa have been forced to revise their squads for the upcoming home white-ball series against Bangladesh after fast bowlers Gerald Coetzee and Kwena Maphaka were ruled out with injuries. The changes have opened opportunities...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-suffer-double-injury-blow-ahead-of-bangladesh-white-ball-series-three-new-players-called-up-2026-11-26-1060457",
+    "time": "2026-11-26T12:33:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pep Guardiola urges Portugal and Cristiano Ronaldo to resolve differences for one last dance",
     "desc": "Legendary coach Pep Guardiola has urged the Portugal Football Federation to give Cristiano Ronaldo a fitting send-off after the forward’s 23-year international career ended amid disagreements over his departure from the national team. The former Manchester...",
     "img": "",
@@ -19,8 +64,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Abhishek Sharma departs for 78, India are 159/2",
-    "desc": "India A take on an unbeaten Sri Lanka A side in the semi-final of the Asia Cup Rising Stars at the West End Park International Cricket Stadium in Doha on Thursday, November 26. India had...",
+    "title": "Sri Lanka qualify for final, beating India by eight wickets",
+    "desc": "Sri Lanka beat India by eight wickets in the semi-final of the Asia Cup Rising Stars 2026. Batting first, India posted 317 runs on board, with half-centuries from Abhishek Sharma, Tilak Varma and Shahbaz Ahmed....",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-sl-asia-cup-rising-stars-live-score-india-vs-sri-lanka-latest-match-updates-scorecards-playing-xis-reactions-1060434",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/wiaan-mulder-crushes-bangladesh-with-seven-wicket-haul-south-africa-seal-series-2-0-2026-11-25-1060376",
     "time": "2026-11-25T13:57:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kane Williamson set to take over as head coach of Durban Super Giants in SA20",
-    "desc": "Former New Zealand captain Kane Williamson is set to begin a new chapter as he is set to be appointed as the head coach of Durban Super Giants in the upcoming SA20 2027 season. Even...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kane-williamson-set-to-take-over-as-head-coach-of-durban-super-giants-in-sa20-2026-11-25-1060371",
-    "time": "2026-11-25T13:19:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Deandra Dottin's bizarre dismissal in WBBL is something one has never seen in cricket: WATCH",
-    "desc": "A bizarre dismissal unfolded in the Women's Big Bash League during the clash between Melbourne Renegades and Brisbane Heat. West Indies all-rounder Deandra Dottin arrived late at the crease and rather than being declared timed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/deandra-dottin-s-bizarre-dismissal-in-wbbl-is-something-one-has-never-seen-in-cricket-watch-2026-11-25-1060363",
-    "time": "2026-11-25T11:48:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah improves his ICC Test ranking; Pant, Gill and Yashasvi climb in batters' rankings",
-    "desc": "Jasprit Bumrah has improved his standing in the ICC Men’s Test bowlers’ ranking. He has now moved to joint-second place after an impressive performance against New Zealand in the first Test in Wellington. The Indian...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-improves-his-icc-test-ranking-pant-gill-and-yashasvi-climb-in-batters-rankings-2026-11-25-1060359",
-    "time": "2026-11-25T11:22:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jannik Sinner undergoes surgery on right knee; will he be back for Australian Open in January?",
-    "desc": "Jannik Sinner’s preparations for the Australian Open 2027 have suffered a major setback after the Italian underwent surgery on his right knee in Finland on Tuesday. The five-time Grand Slam champion has confirmed on social...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-undergoes-surgery-on-right-knee-will-he-be-back-for-australian-open-in-january-2026-11-25-1060350",
-    "time": "2026-11-25T10:17:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Love Pat Cummins, didn't expect him to come out and attack me personally: Usman Khawaja",
-    "desc": "Usman Khawaja has revealed that Pat Cummins’ recent public comments about the ball-tampering scandal in 2018 have left him deeply hurt. However, he maintains that his respect and affection for Australia’s captain remain unchanged. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/love-pat-cummins-didn-t-expect-him-to-come-out-and-attack-me-personally-usman-khawaja-2026-11-25-1060342",
-    "time": "2026-11-25T08:29:40.000Z"
   }
 ];
