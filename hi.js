@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former New Zealand cricketer weighs in Vaibhav Sooryavanshi's recent record breaking exploits",
+    "desc": "Star India batter Vaibhav Sooryavanshi has been the talk of the town ever since the six that he hit on the very first ball that he faced in the IPL back in 2025. However, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-new-zealand-cricketer-weighs-in-vaibhav-sooryavanshi-s-recent-record-breaking-exploits-2026-11-28-1060567",
+    "time": "2026-11-28T00:57:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nathan Lyon faces the axe as Australia announce squads for New Zealand Tests",
+    "desc": "Australia is all set to take on New Zealand in a Test series soon; the side is currently in the middle of a T20I series against England, and after the conclusion of the series, Australia...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nathan-lyon-faces-the-axe-as-australia-announce-squads-for-new-zealand-tests-2026-11-28-1060566",
+    "time": "2026-11-27T23:38:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Have a lot of belief in what we can achieve'",
+    "desc": "Mumbai Indians have once again named Rohit Sharma as their captain for the IPL 2027 season. He replaced Hardik Pandya in the role, who has been traded to Punjab Kings for Arshdeep Singh. The veteran...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/have-a-lot-of-belief-in-what-we-can-achieve-rohit-sharma-after-being-renamed-mumbai-indians-skipper-2026-11-27-1060563",
+    "time": "2026-11-27T18:05:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India storm into Women's Asian Champions Trophy final after 6-2 rout of Malaysia",
+    "desc": "India moved a step closer to retaining their Women's Asian Champions Trophy crown after registering a convincing 6-2 victory over Malaysia in the semi-final at the International Sports Complex in Nathu Barkheda, Bhopal, on Friday....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/india-storm-into-women-s-asian-champions-trophy-final-after-6-2-rout-of-malaysia-2026-11-27-1060558",
+    "time": "2026-11-27T17:23:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England hand first T20I call-up to Asa Tribe; Rehan Ahmed also returns for final two matches",
+    "desc": "England have added Asa Tribe and Rehan Ahmed to their squad for the remaining two T20 internationals against Australia. The duo will provide additional cover as injuries and international commitments continue to affect England’s touring...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-hand-first-t20i-call-up-to-asa-tribe-rehan-ahmed-also-returns-for-final-two-matches-2026-11-27-1060557",
+    "time": "2026-11-27T16:33:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Manchester United activate contract extension for captain Bruno Fernandes until 2028",
     "desc": "Manchester United have exercised the option to extend Bruno Fernandes’ contract by another year. With that, the club secured the Portugal international’s services until 2028 amid uncertainty surrounding his long-term future at Old Trafford. The 32-year-old...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jaydev-unadkat-creates-world-record-with-stunning-batting-display-against-tamil-nadu-in-smat-2026-11-27-1060529",
     "time": "2026-11-27T11:04:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nathan Lyon allegedly suggested new method of ball tampering during Pakistan series after Sandpapergate saga",
-    "desc": "Ace spinner Nathan Lyon has been identified as the Australian cricketer who allegedly suggested using breath mints to increase saliva to shine the ball during the Test series against Pakistan in the United Arab Emirates...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nathan-lyon-allegedly-suggested-new-method-of-ball-tampering-during-pakistan-series-after-sandpapergate-saga-2026-11-27-1060522",
-    "time": "2026-11-27T10:19:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Resilient batting propels New Zealand to solid start against India on Day 1 in Christchurch",
-    "desc": "India and New Zealand took on each other on Day 1 of the second Test of the ongoing series. The teams met at Hagley Oval in Christchurch for the clash, and the game began with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/resilient-batting-propels-new-zealand-to-solid-start-against-india-on-day-1-in-christchurch-2026-11-27-1060505",
-    "time": "2026-11-27T06:16:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nathan Lyon set to be dropped from Australia's squad ahead of Perth Test against New Zealand",
-    "desc": "The stage is set for the Test series between Australia and New Zealand. The two sides will take on each other across four Test matches, with the first Test set to be held in Perth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nathan-lyon-set-to-be-dropped-from-australia-s-squad-ahead-of-perth-test-against-new-zealand-2026-11-27-1060500",
-    "time": "2026-11-27T05:17:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Was Shubman Gill right to call for early draw against New Zealand in first Test? Former cricketer opines",
-    "desc": "The first Test of the ongoing series between India and New Zealand ended in a draw. The two sides met at the Basin Reserve in Wellington for the clash from November 19th to 23rd, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/was-shubman-gill-right-to-call-for-early-draw-against-new-zealand-in-first-test-former-cricketer-opines-2026-11-27-1060496",
-    "time": "2026-11-27T04:11:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cricket Australia releases terms for forum looking into 2018 sandpaper gate scandal; Check details",
-    "desc": "The sandpaper gate scandal surrounding Cricket Australia since 2018 has once again flared up with the recent comments of former cricketer Usman Khawaja. Writing in his newly released biography, Khawaja revealed that every player in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cricket-australia-releases-terms-for-forum-looking-into-2018-sandpaper-gate-scandal-check-details-2026-11-27-1060490",
-    "time": "2026-11-27T03:08:11.000Z"
   }
 ];
