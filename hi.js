@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rohit Sharma reveals to be bit hesitant about taking over Mumbai Indians captaincy again, mentions why he did",
+    "desc": "Rohit Sharma has once again been announced as Mumbai Indians captain for the IPL 2027 season. The veteran revealed that MI co-owner Akash Ambani offered him the chance to return to captaincy earlier in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-reveals-to-be-bit-hesitant-about-taking-over-mumbai-indians-captaincy-again-mentions-why-he-did-2026-11-28-1060601",
+    "time": "2026-11-28T10:21:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Xabi Alonso comes to Wesley Fofana's defence as Chelsea continue subpar run in the Premier League",
+    "desc": "Chelsea FC are in a perplexing situation in the ongoing Premier League season; with Xabi Alonso at the helm, the side is struggling to find its footing. The team finds itself in eighth place in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/xabi-alonso-comes-to-wesley-fofana-s-defence-as-chelsea-continue-subpar-run-in-the-premier-league-2026-11-28-1060590",
+    "time": "2026-11-28T06:37:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Inspirational bowling sees NZ come out on top on Day 2, India crumble under pressure in Christchurch",
+    "desc": "Day 2 of the ongoing second Test between India and New Zealand saw the hosts pick up right where they left off. Day 1 ended with New Zealand on a score of 246/5, and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/inspirational-bowling-sees-nz-come-out-on-top-on-day-2-india-crumble-under-pressure-in-christchurch-2026-11-28-1060588",
+    "time": "2026-11-28T06:06:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "George Bailey reflects on what the future holds for Nathan Lyon after squad exclusion ahead of NZ Tests",
+    "desc": "CA (Cricket Australia) recently came forward and announced their squad for the upcoming four-game Test series against New Zealand. The two sides will be taking on each other across four Test matches from December 9th...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/george-bailey-reflects-on-what-the-future-holds-for-nathan-lyon-after-squad-exclusion-ahead-of-nz-tests-2026-11-28-1060583",
+    "time": "2026-11-28T05:27:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Has Prasidh Krishna been unfairly criticised amid ongoing Test series against NZ? Former cricketer opines",
+    "desc": "The Indian team took on New Zealand in the second Test of the ongoing series between the two sides. The teams met at Hagley Oval in Christchurch for the clash from November 27th, and it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/has-prasidh-krishna-been-unfairly-criticised-amid-ongoing-test-series-against-nz-former-cricketer-opines-2026-11-28-1060581",
+    "time": "2026-11-28T04:36:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer opens up on Jasprit Bumrah's performance amid ongoing New Zealand Test series",
+    "desc": "The Indian team is in the middle of Test series against New Zealand. The two sides have faced each other in two Test matches, and there have been many talking points for the Indian team....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-jasprit-bumrah-s-performance-amid-ongoing-new-zealand-test-series-2026-11-28-1060578",
+    "time": "2026-11-28T03:51:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will O'Rourke makes his return as New Zealand name squad for Australia Tests",
+    "desc": "New Zealand and Australia are all set to take on each other in a Test series starting on December 9th. The two sides will lock horns across four Test matches, with the first Test slated...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-o-rourke-makes-his-return-as-new-zealand-name-squad-for-australia-tests-2026-11-28-1060570",
+    "time": "2026-11-28T01:28:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former New Zealand cricketer weighs in Vaibhav Sooryavanshi's recent record breaking exploits",
     "desc": "Star India batter Vaibhav Sooryavanshi has been the talk of the town ever since the six that he hit on the very first ball that he faced in the IPL back in 2025. However, the...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/have-a-lot-of-belief-in-what-we-can-achieve-rohit-sharma-after-being-renamed-mumbai-indians-skipper-2026-11-27-1060563",
     "time": "2026-11-27T18:05:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India storm into Women's Asian Champions Trophy final after 6-2 rout of Malaysia",
-    "desc": "India moved a step closer to retaining their Women's Asian Champions Trophy crown after registering a convincing 6-2 victory over Malaysia in the semi-final at the International Sports Complex in Nathu Barkheda, Bhopal, on Friday....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/india-storm-into-women-s-asian-champions-trophy-final-after-6-2-rout-of-malaysia-2026-11-27-1060558",
-    "time": "2026-11-27T17:23:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England hand first T20I call-up to Asa Tribe; Rehan Ahmed also returns for final two matches",
-    "desc": "England have added Asa Tribe and Rehan Ahmed to their squad for the remaining two T20 internationals against Australia. The duo will provide additional cover as injuries and international commitments continue to affect England’s touring...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-hand-first-t20i-call-up-to-asa-tribe-rehan-ahmed-also-returns-for-final-two-matches-2026-11-27-1060557",
-    "time": "2026-11-27T16:33:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manchester United activate contract extension for captain Bruno Fernandes until 2028",
-    "desc": "Manchester United have exercised the option to extend Bruno Fernandes’ contract by another year. With that, the club secured the Portugal international’s services until 2028 amid uncertainty surrounding his long-term future at Old Trafford. The 32-year-old...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/manchester-united-activate-contract-extension-for-captain-bruno-fernandes-until-2028-2026-11-27-1060554",
-    "time": "2026-11-27T16:00:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer to join Mumbai for SMAT Super League, Suryakumar Yadav to continue as captain",
-    "desc": "India T20I captain Shreyas Iyer is set to return to domestic cricket when Mumbai begin their Super League campaign in the Syed Mushtaq Ali Trophy (SMAT) 2026-27 in Nagpur on November 30. Despite his recent...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-to-join-mumbai-for-smat-super-league-suryakumar-yadav-to-continue-as-captain-2026-11-27-1060550",
-    "time": "2026-11-27T15:14:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jamie Overton's five-wicket haul powers England to seven-wicket win as Australia register lowest total at home",
-    "desc": "Jamie Overton delivered a career-defining performance with the ball as England crushed Australia by seven wickets in the rain-interrupted third T20I at the Gabba. With the win, they moved 2-1 ahead in the five-match series. Notably,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jamie-overton-s-five-wicket-haul-powers-england-to-seven-wicket-win-after-australia-register-lowest-total-at-home-2026-11-27-1060545",
-    "time": "2026-11-27T14:17:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mumbai Indians pivot back to Rohit Sharma, announce him as new captain for IPL 2027 season",
-    "desc": "Mumbai Indians have announced Rohit Sharma as their new captain for the IPL 2027 season. After leading the team for 11 years from 2013 to 2024, the veteran was axed from the role, with Hardik...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mumbai-indians-pivot-back-to-rohit-sharma-announce-him-as-new-captain-for-ipl-2027-season-2026-11-27-1060536",
-    "time": "2026-11-27T12:15:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jaydev Unadkat creates world record with stunning batting display against Tamil Nadu in SMAT",
-    "desc": "Saurashtra captain Jaydev Unadkat created history with a blistering batting show at the Holkar Stadium in Indore on November 26. He smacked 30 runs off 26 balls against Tamil Nadu in the Syed Mushtaq Ali...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jaydev-unadkat-creates-world-record-with-stunning-batting-display-against-tamil-nadu-in-smat-2026-11-27-1060529",
-    "time": "2026-11-27T11:04:45.000Z"
   }
 ];
